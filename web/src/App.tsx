@@ -1,8 +1,10 @@
-import { useState } from 'react'
-import { Header } from './components/Header'
+import { useState, useEffect } from 'react'
+import { Header, type AppView } from './components/Header'
 import { StatsCards } from './components/StatsCards'
 import { FilterBar } from './components/FilterBar'
 import { NewsList } from './components/NewsList'
+import { SkillsPage } from './components/SkillsPage'
+import { ModelsPage } from './components/ModelsPage'
 import { SourceModal } from './components/SourceModal'
 import { ReadingHistoryModal } from './components/ReadingHistoryModal'
 import { FavoritesModal } from './components/FavoritesModal'
@@ -12,8 +14,16 @@ import { useNewsData } from './hooks/useNewsData'
 import { useVisitedLinks } from './hooks/useVisitedLinks'
 import { useFavorites } from './hooks/useFavorites'
 
+function getViewFromHash(): AppView {
+  const h = window.location.hash.replace(/^#\/?/, '')
+  if (h === 'skills') return 'skills'
+  if (h === 'models') return 'models'
+  return 'news'
+}
+
 function App() {
   const { theme, toggleTheme } = useTheme()
+  const [view, setView] = useState<AppView>(getViewFromHash)
   const [showSourceModal, setShowSourceModal] = useState(false)
   const [showHistoryModal, setShowHistoryModal] = useState(false)
   const [showFavoritesModal, setShowFavoritesModal] = useState(false)
@@ -41,6 +51,19 @@ function App() {
     isSwitching,
   } = useNewsData()
 
+  // 视图与 URL hash 双向同步（支持浏览器前进/后退与分享链接）
+  useEffect(() => {
+    const onHashChange = () => setView(getViewFromHash())
+    window.addEventListener('hashchange', onHashChange)
+    return () => window.removeEventListener('hashchange', onHashChange)
+  }, [])
+
+  const changeView = (next: AppView) => {
+    setView(next)
+    window.location.hash = next === 'skills' ? '/skills' : next === 'models' ? '/models' : '/'
+    window.scrollTo({ top: 0 })
+  }
+
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-900">
       <Header 
@@ -56,10 +79,17 @@ function App() {
         timeRange={timeRange}
         onTimeRangeChange={setTimeRange}
         isSwitching={isSwitching}
+        view={view}
+        onViewChange={changeView}
       />
       
-      {isSwitching && <SwitchingOverlay timeRange={timeRange} />}
-      
+      {isSwitching && view === 'news' && <SwitchingOverlay timeRange={timeRange} />}
+
+      {view === 'skills' ? (
+        <SkillsPage active={view === 'skills'} onBackHome={() => changeView('news')} />
+      ) : view === 'models' ? (
+        <ModelsPage active={view === 'models'} onBackHome={() => changeView('news')} />
+      ) : (
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
         <StatsCards
           totalItems={data?.total_items || 0}
@@ -92,6 +122,7 @@ function App() {
           onToggleFavorite={toggleFavorite}
         />
       </main>
+      )}
       
       <footer className="border-t border-slate-200 dark:border-slate-700 py-6 mt-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

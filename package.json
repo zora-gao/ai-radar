@@ -8,6 +8,8 @@
     "fetch": "tsx src/index.ts",
     "fetch:dev": "tsx watch src/index.ts",
     "fetch:opml": "tsx src/test-opml.ts",
+    "fetch:skills": "tsx src/skills/index.ts",
+    "fetch:models": "tsx src/models/index.ts",
     "build": "tsc",
     "lint": "eslint src --ext .ts",
     "typecheck": "tsc --noEmit",

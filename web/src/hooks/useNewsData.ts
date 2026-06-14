@@ -37,7 +37,7 @@ export function useNewsData(): UseNewsDataReturn {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [searchQuery, setSearchQuery] = useState('')
-  const [selectedSite, setSelectedSite] = useState('opmlrss')
+  const [selectedSite, setSelectedSite] = useState('all')
   const [selectedSource, setSelectedSource] = useState('all')
   const [displayCount, setDisplayCount] = useState(PAGE_SIZE)
   const [timeRange, setTimeRange] = useState<TimeRange>('24h')
@@ -117,7 +117,7 @@ export function useNewsData(): UseNewsDataReturn {
   const handleTimeRangeChange = useCallback((range: TimeRange) => {
     setTimeRange(range)
     setDisplayCount(PAGE_SIZE)
-    setSelectedSite('opmlrss')
+    setSelectedSite('all')
     setSelectedSource('all')
     setSearchQuery('')
   }, [])

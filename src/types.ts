@@ -22,6 +22,14 @@ export interface ArchiveItem {
   title_en?: string | null;
   title_zh?: string | null;
   title_bilingual?: string;
+  title_clean?: string | null;
+  summary?: string | null;
+  // AI Radar 准入评审字段（由 GLM 基于标题生成）
+  radar_score?: number | null;
+  radar_priority?: 'P0' | 'P1' | 'P2' | 'P3' | null;
+  radar_type?: 'news' | 'product' | null;
+  radar_channels?: string[] | null;
+  radar_reason?: string | null;
 }
 
 export interface FetchStatus {

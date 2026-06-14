@@ -1,7 +1,9 @@
-import { Sun, Moon, Bot, Clock, Info, Github, History, Star, Loader2 } from 'lucide-react'
+import { Sun, Moon, Bot, Clock, Info, Github, History, Star, Loader2, Newspaper, Sparkles, Cpu } from 'lucide-react'
 import { formatDateTime } from '../utils/formatDate'
 import type { TimeRange } from '../hooks/useNewsData'
 import { Analytics } from '../utils/analytics'
+
+export type AppView = 'news' | 'skills' | 'models'
 
 interface HeaderProps {
   theme: 'light' | 'dark'
@@ -16,6 +18,8 @@ interface HeaderProps {
   timeRange: TimeRange
   onTimeRangeChange: (range: TimeRange) => void
   isSwitching?: boolean
+  view: AppView
+  onViewChange: (view: AppView) => void
 }
 
 export function Header({ 
@@ -28,7 +32,9 @@ export function Header({
   onShowFavorites,
   timeRange,
   onTimeRangeChange,
-  isSwitching = false
+  isSwitching = false,
+  view,
+  onViewChange,
 }: HeaderProps) {
   return (
     <header className="sticky top-0 z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-lg border-b border-slate-200 dark:border-slate-700">
@@ -66,6 +72,7 @@ export function Header({
                   </h1>
                   <Info className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-slate-400 opacity-0 group-hover:opacity-100 transition-opacity hidden sm:block" />
                 </div>
+                {view === 'news' && (
                 <div className="flex items-center bg-slate-100 dark:bg-slate-800 rounded-full p-0.5">
                   <button
                     onClick={() => {
@@ -102,6 +109,7 @@ export function Header({
                     7天
                   </button>
                 </div>
+                )}
               </div>
               <p className="text-[10px] sm:text-xs text-slate-500 dark:text-slate-400 hidden sm:block">
                 实时追踪 AI 领域最新动态
@@ -110,7 +118,42 @@ export function Header({
           </div>
           
           <div className="flex items-center gap-1.5 sm:gap-3 flex-shrink-0">
-            {generatedAt && (
+            <nav className="flex items-center bg-slate-100 dark:bg-slate-800 rounded-full p-0.5">
+              <button
+                onClick={() => onViewChange('news')}
+                className={`px-2.5 sm:px-3 py-1 text-xs sm:text-sm font-medium rounded-full transition-all flex items-center gap-1.5 ${
+                  view === 'news'
+                    ? 'bg-white dark:bg-slate-700 text-slate-900 dark:text-white shadow-sm'
+                    : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                }`}
+              >
+                <Newspaper className="w-3.5 h-3.5" />
+                <span className="hidden sm:inline">首页</span>
+              </button>
+              <button
+                onClick={() => onViewChange('skills')}
+                className={`px-2.5 sm:px-3 py-1 text-xs sm:text-sm font-medium rounded-full transition-all flex items-center gap-1.5 ${
+                  view === 'skills'
+                    ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white shadow-sm'
+                    : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                }`}
+              >
+                <Sparkles className="w-3.5 h-3.5" />
+                Skills
+              </button>
+              <button
+                onClick={() => onViewChange('models')}
+                className={`px-2.5 sm:px-3 py-1 text-xs sm:text-sm font-medium rounded-full transition-all flex items-center gap-1.5 ${
+                  view === 'models'
+                    ? 'bg-gradient-to-r from-primary-500 to-primary-600 text-white shadow-sm'
+                    : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                }`}
+              >
+                <Cpu className="w-3.5 h-3.5" />
+                Models
+              </button>
+            </nav>
+            {generatedAt && view === 'news' && (
               <div className="hidden lg:flex items-center gap-1.5 text-xs text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-slate-800 px-3 py-1.5 rounded-full">
                 <Clock className="w-3.5 h-3.5" />
                 <span>更新于 {formatDateTime(generatedAt)}</span>

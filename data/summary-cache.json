@@ -1,0 +1,58 @@
+{
+  "https://juejin.cn/post/7650089863866286115": {
+    "title_clean": "Vue3+TS项目AI编码助手规范实践",
+    "summary": "介绍Vue3和TypeScript",
+    "score": null,
+    "priority": null,
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video": {
+    "title_clean": "谷歌利用人工智能重塑搜索",
+    "summary": "谷歌AI技术重塑搜索产品体验",
+    "score": 83,
+    "priority": "P1",
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://www.producthunt.com/products/slashy-3": {
+    "title_clean": "斜线",
+    "summary": "信息不足，无法确定核心要点",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "信息不足，参考价值有限"
+  },
+  "https://www.producthunt.com/products/nomnak": {
+    "title_clean": "对于名义",
+    "summary": "标题信息不足，无法确定内容",
+    "score": 20,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "标题信息不足，无法判断价值"
+  },
+  "https://www.producthunt.com/products/basedash": {
+    "title_clean": "Slack数据代理服务",
+    "summary": "Slack平台数据代理相关服务",
+    "score": null,
+    "priority": null,
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://www.producthunt.com/products/kosh-money": {
+    "title_clean": "科什钱",
+    "summary": "信息不足，无法确定核心要点",
+    "score": 20,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "标题不完整，信息不足"
+  }
+}

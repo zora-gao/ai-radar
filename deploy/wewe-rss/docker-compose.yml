@@ -1,0 +1,19 @@
+services:
+  wewe-rss:
+    image: cooderl/wewe-rss-sqlite:latest
+    container_name: wewe-rss
+    restart: unless-stopped
+    ports:
+      - "4000:4000"
+    environment:
+      # 后台登录密码：务必改成强随机串，通过环境变量注入，不要硬编码
+      - AUTH_CODE=${AUTH_CODE:?请先设置环境变量 AUTH_CODE}
+      # 对外访问地址（生成的 feed 链接会用到）。本机调试用 localhost，
+      # 部署到服务器请改成你的域名，如 https://rss.example.com
+      - SERVER_ORIGIN_URL=${SERVER_ORIGIN_URL:-http://localhost:4000}
+      # 抓取频率限制，按需调整
+      - MAX_REQUEST_PER_MINUTE=60
+      # feed 输出模式：留空=摘要，fulltext=全文
+      - FEED_MODE=
+    volumes:
+      - ./data:/app/data

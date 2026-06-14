@@ -19,9 +19,10 @@ import { utcNow, toISOString, parseISO } from './utils/date.js';
 import { normalizeUrl, getHost } from './utils/url.js';
 import { maybeFixMojibake } from './utils/text.js';
 import { makeItemId } from './utils/hash.js';
-import { createAllFetchers, runFetcher, fetchOpmlRss, fetchWaytoagiRecent7d } from './fetchers/index.js';
+import { createAllFetchers, runFetcher, fetchOpmlRss, fetchWaytoagiRecent7d, CURATED_SITE_IDS } from './fetchers/index.js';
 import { isAiRelated, dedupeItemsByTitleUrl, normalizeAihubTodayRecords } from './filters/index.js';
 import { addBilingualFields, loadTitleZhCache, cacheToPojo } from './translate/index.js';
+import { addSummaries, loadSummaryCache, summaryCacheToPojo, type SummaryEntry } from './enrich/index.js';
 import { writeJson } from './output/index.js';
 
 function eventTime(record: ArchiveItem): Date | null {
@@ -29,6 +30,25 @@ function eventTime(record: ArchiveItem): Date | null {
     return parseISO(record.published_at);
   }
   return parseISO(record.published_at) || parseISO(record.first_seen_at);
+}
+
+/**
+ * AI Radar 收录过滤 + 排序。
+ * - 过滤：已评审且分数低于 minScore 的剔除；未评审(无 radar_score)的保留，避免误杀。
+ * - 排序：按 radar_score 降序；未评审视为最低，保持原有（时间）相对顺序。
+ */
+function applyRadar(items: ArchiveItem[], minScore: number): ArchiveItem[] {
+  const scoreOf = (it: ArchiveItem): number =>
+    typeof it.radar_score === 'number' ? it.radar_score : -1;
+
+  const filtered = items.filter((it) => {
+    const s = it.radar_score;
+    if (typeof s === 'number') return s >= minScore;
+    return true;
+  });
+
+  // Array.prototype.sort 在 V8 中稳定，同分保持入参（时间降序）顺序
+  return filtered.slice().sort((a, b) => scoreOf(b) - scoreOf(a));
 }
 
 function normalizeSourceForDisplay(siteId: string, source: string, url: string): string {
@@ -85,6 +105,17 @@ async function loadTitleCache(path: string): Promise<Map<string, string>> {
   }
 }
 
+async function loadSummaryCacheFile(path: string): Promise<Map<string, SummaryEntry>> {
+  if (!existsSync(path)) return new Map();
+  try {
+    const content = await readFile(path, 'utf-8');
+    const data = JSON.parse(content);
+    return loadSummaryCache(data);
+  } catch {
+    return new Map();
+  }
+}
+
 async function main(): Promise<number> {
   const program = new Command();
 
@@ -95,6 +126,8 @@ async function main(): Promise<number> {
     .option('--window-hours <hours>', '24h window size', '24')
     .option('--archive-days <days>', 'Keep archive for N days', '20')
     .option('--translate-max-new <count>', 'Max new EN->ZH title translations per run', '80')
+    .option('--summary-max-new <count>', 'Max new LLM summaries per run', '120')
+    .option('--radar-min-score <score>', 'AI Radar min score to include (0-100)', '40')
     .option('--rss-opml <path>', 'Optional OPML file path to include RSS sources', CONFIG.rss.defaultOpmlPath)
     .option('--rss-max-feeds <count>', 'Optional max OPML RSS feeds to fetch (0 means all)', '0')
     .parse();
@@ -104,6 +137,8 @@ async function main(): Promise<number> {
   const windowHours = parseInt(opts.windowHours);
   const archiveDays = parseInt(opts.archiveDays);
   const translateMaxNew = parseInt(opts.translateMaxNew);
+  const summaryMaxNew = parseInt(opts.summaryMaxNew);
+  const radarMinScore = parseInt(opts.radarMinScore);
   const rssOpml = opts.rssOpml;
   const rssMaxFeeds = parseInt(opts.rssMaxFeeds);
 
@@ -115,8 +150,24 @@ async function main(): Promise<number> {
   const statusPath = join(outputDir, 'source-status.json');
   const waytoagiPath = join(outputDir, 'waytoagi-7d.json');
   const titleCachePath = join(outputDir, 'title-zh-cache.json');
+  const summaryCachePath = join(outputDir, 'summary-cache.json');
 
   const archive = await loadArchive(archivePath);
+
+  // 严格限制信源：清除归档中所有「非精选信源」的历史条目。
+  // 这样即使早期归档里残留了旧聚合源（newsnow/techurls/tophub/buzzing/iris/
+  // aihot/zeli/wechat-rss/xinzhiyuan/opmlrss 等），也会被立即剔除，
+  // 确保收录范围严格等于用户指定的信源清单（见 curated.ts）。
+  let purgedNonCurated = 0;
+  for (const [id, record] of archive) {
+    if (!CURATED_SITE_IDS.has(record.site_id)) {
+      archive.delete(id);
+      purgedNonCurated++;
+    }
+  }
+  if (purgedNonCurated > 0) {
+    console.log(`🧹 Purged ${purgedNonCurated} non-curated items from archive`);
+  }
 
   const fetchers = createAllFetchers();
   const limit = pLimit(5);
@@ -263,6 +314,11 @@ async function main(): Promise<number> {
     const itemsAiDedup = dedupeItemsByTitleUrl(itemsAi, false);
     const itemsAllDedup = dedupeItemsByTitleUrl(itemsAll, true);
 
+    // dedupe 内部会按时间重排，这里再按 AI Radar 分数置顶（同分保持时间序）
+    const scoreOf = (it: ArchiveItem): number =>
+      typeof it.radar_score === 'number' ? it.radar_score : -1;
+    itemsAiDedup.sort((a, b) => scoreOf(b) - scoreOf(a));
+
     const siteStat = new Map<string, SiteStat>();
     const rawCountBySite = new Map<string, number>();
 
@@ -322,7 +378,10 @@ async function main(): Promise<number> {
   }
 
   const items7dAll = filterItemsByWindow(168);
-  let items7dAi = items7dAll.filter(isAiRelated);
+  // 精选信源全部进入 Radar 评分（跳过关键词粗筛）；其余来源（如可选 OPML）仍走关键词粗筛
+  let items7dAi = items7dAll.filter(
+    (it) => CURATED_SITE_IDS.has(it.site_id) || isAiRelated(it)
+  );
   console.log(`🤖 7d AI-related items: ${items7dAi.length} / ${items7dAll.length}`);
 
   let titleCache = await loadTitleCache(titleCachePath);
@@ -333,9 +392,39 @@ async function main(): Promise<number> {
     titleCache,
     translateMaxNew
   );
-  const items7dAiFinal = bilingualResult.itemsAi;
-  const items7dAllFinal = bilingualResult.itemsAll;
+  let items7dAiFinal = bilingualResult.itemsAi;
+  let items7dAllFinal = bilingualResult.itemsAll;
   titleCache = bilingualResult.cache;
+
+  let summaryCache = await loadSummaryCacheFile(summaryCachePath);
+  if (process.env.GLM_API_KEY?.trim()) {
+    console.log('📝 Generating clean titles & summaries via GLM...');
+    const summaryResult = await addSummaries(
+      items7dAiFinal,
+      items7dAllFinal,
+      summaryCache,
+      summaryMaxNew
+    );
+    items7dAiFinal = summaryResult.itemsAi;
+    items7dAllFinal = summaryResult.itemsAll;
+    summaryCache = summaryResult.cache;
+    console.log(`  ✅ Summaries: ${summaryResult.generated} new, ${summaryCache.size} cached total`);
+  } else {
+    // 未配置 GLM_API_KEY：仍用已有缓存回填（若有），不发起新调用
+    const summaryResult = await addSummaries(items7dAiFinal, items7dAllFinal, summaryCache, 0);
+    items7dAiFinal = summaryResult.itemsAi;
+    items7dAllFinal = summaryResult.itemsAll;
+    summaryCache = summaryResult.cache;
+    console.log('ℹ️  GLM_API_KEY not set; skip summary generation (using cache if any)');
+  }
+
+  // AI Radar 准入：按评分过滤低分内容并按分数排序（未评审的条目保留）
+  const beforeRadar = items7dAiFinal.length;
+  items7dAiFinal = applyRadar(items7dAiFinal, radarMinScore);
+  const scoredCount = items7dAiFinal.filter((i) => typeof i.radar_score === 'number').length;
+  console.log(
+    `🎯 AI Radar: kept ${items7dAiFinal.length}/${beforeRadar} (min-score ${radarMinScore}, ${scoredCount} scored)`
+  );
 
   const windowStart24h = new Date(now.getTime() - windowHours * 60 * 60 * 1000);
   const items24hAll = items7dAllFinal.filter((item) => {
@@ -407,6 +496,7 @@ async function main(): Promise<number> {
   await writeJson(statusPath, statusPayload);
   await writeJson(waytoagiPath, waytoagiPayload);
   await writeJson(titleCachePath, cacheToPojo(titleCache));
+  await writeJson(summaryCachePath, summaryCacheToPojo(summaryCache));
 
   console.log(`  ✅ ${latest24hPath} (${latest24hPayload.total_items} items)`);
   console.log(`  ✅ ${latest7dPath} (${latest7dPayload.total_items} items)`);
@@ -414,6 +504,7 @@ async function main(): Promise<number> {
   console.log(`  ✅ ${statusPath}`);
   console.log(`  ✅ ${waytoagiPath}`);
   console.log(`  ✅ ${titleCachePath} (${titleCache.size} entries)`);
+  console.log(`  ✅ ${summaryCachePath} (${summaryCache.size} entries)`);
   console.log('');
   console.log('🎉 Done!');
 

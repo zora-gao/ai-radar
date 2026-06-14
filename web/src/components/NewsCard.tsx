@@ -3,6 +3,8 @@ import type { NewsItem } from '../types'
 import { SourceBadge } from './SourceBadge'
 import { formatDateTime } from '../utils/formatDate'
 import { Analytics } from '../utils/analytics'
+import { cleanTitle } from '../utils/cleanTitle'
+import { extractKeywords } from '../utils/keywords'
 
 interface NewsCardProps {
   item: NewsItem
@@ -14,7 +16,21 @@ interface NewsCardProps {
 }
 
 export function NewsCard({ item, index, isVisited = false, isFavorite = false, onVisit, onToggleFavorite }: NewsCardProps) {
-  const displayTitle = item.title_zh || item.title_en || item.title_bilingual || item.title
+  const rawTitle = item.title_zh || item.title_en || item.title_bilingual || item.title
+  // 优先使用 LLM 生成的精炼标题；无则回退到本地规则清洗
+  const displayTitle = (item.title_clean && item.title_clean.trim()) || cleanTitle(rawTitle)
+  const summary = item.summary?.trim() || ''
+  const keywords = extractKeywords(displayTitle)
+
+  // AI Radar 准入信息
+  const priority = item.radar_priority || null
+  const channels = item.radar_channels || []
+  const PRIORITY_STYLE: Record<string, string> = {
+    P0: 'bg-red-50 text-red-600 dark:bg-red-900/20 dark:text-red-300 ring-1 ring-red-200 dark:ring-red-800',
+    P1: 'bg-amber-50 text-amber-600 dark:bg-amber-900/20 dark:text-amber-300 ring-1 ring-amber-200 dark:ring-amber-800',
+    P2: 'bg-blue-50 text-blue-600 dark:bg-blue-900/20 dark:text-blue-300',
+    P3: 'bg-slate-100 text-slate-500 dark:bg-slate-800 dark:text-slate-400',
+  }
 
   const handleClick = () => {
     Analytics.trackNewsClick(displayTitle, item.source, item.site_id)
@@ -42,6 +58,14 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
       <div className="flex items-start gap-3">
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 mb-2 flex-wrap">
+            {priority && (
+              <span
+                className={`inline-flex items-center px-1.5 py-0.5 rounded text-[11px] font-bold flex-shrink-0 ${PRIORITY_STYLE[priority]}`}
+                title={item.radar_reason || undefined}
+              >
+                {priority}
+              </span>
+            )}
             <SourceBadge siteId={item.site_id} siteName={item.site_name} />
             <span className={`text-xs truncate max-w-[200px] ${
               isVisited 
@@ -65,6 +89,45 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
           }`}>
             {displayTitle}
           </h3>
+
+          {summary && (
+            <p className={`text-sm leading-relaxed mt-2 line-clamp-2 ${
+              isVisited
+                ? 'text-slate-400 dark:text-slate-500'
+                : 'text-slate-600 dark:text-slate-300'
+            }`}>
+              {summary}
+            </p>
+          )}
+
+          {(channels.length > 0 || keywords.length > 0) && (
+            <div className="flex flex-wrap items-center gap-1.5 mt-2">
+              {channels.map((ch) => (
+                <span
+                  key={`ch-${ch}`}
+                  className={`inline-flex items-center px-2 py-0.5 rounded-md text-[11px] font-medium ${
+                    isVisited
+                      ? 'bg-slate-100 text-slate-400 dark:bg-slate-800 dark:text-slate-500'
+                      : 'bg-indigo-50 text-indigo-600 dark:bg-indigo-900/20 dark:text-indigo-300'
+                  }`}
+                >
+                  {ch}
+                </span>
+              ))}
+              {keywords.map((kw) => (
+                <span
+                  key={kw}
+                  className={`inline-flex items-center px-2 py-0.5 rounded-md text-[11px] font-medium ${
+                    isVisited
+                      ? 'bg-slate-100 text-slate-400 dark:bg-slate-800 dark:text-slate-500'
+                      : 'bg-primary-50 text-primary-600 dark:bg-primary-900/20 dark:text-primary-300'
+                  }`}
+                >
+                  {kw}
+                </span>
+              ))}
+            </div>
+          )}
           
           <div className={`flex items-center gap-4 mt-3 text-xs ${
             isVisited 

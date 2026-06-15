@@ -3272,5 +3272,187 @@
     "channels": null,
     "reason": "政治经济影响，与AI产品关联度低",
     "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039205&idx=3&sn=0b9e7e22a3d69f4157eda1b340ec4fe4": {
+    "title_clean": "复旦&腾讯提出Baton：首创语义蓝图指引音视频生成技术",
+    "summary": "复旦大学与腾讯联合推出Baton技术，首创语义蓝图指引方法，为音视频生成提供结构化框架，有望提升生成内容的逻辑性和连贯性，对AI多模态内容创作工具开发具有参考价值。",
+    "score": 72,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "reason": "多模态生成技术突破，提升内容创作质量",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039205&idx=1&sn=b9b48ed871c415f3df72c2df6b9d7f65": {
+    "title_clean": "1680份员工履历揭示Anthropic招聘偏好：基础设施人才更受青睐",
+    "summary": "通过分析1680份员工履历，发现Anthropic在招聘中更倾向于招募具有基础设施经验的人才，这可能反映其AI系统构建策略和人才储备方向，对元宝团队招聘策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "reason": "竞品人才策略揭示技术方向",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039196&idx=2&sn=f13e155230d90bbd87c8680cc29b1e4a": {
+    "title_clean": "摩尔线程用国产GPU训练AI编写内核并刷新基准测试",
+    "summary": "摩尔线程公司利用自研国产GPU训练AI系统，成功为自身编写内核代码，并在相关基准测试中取得优异成绩，展示了国产AI硬件的技术实力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "reason": "国产AI硬件技术突破，对硬件生态有参考价值",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039196&idx=1&sn=cf807f51fc0efaffb4bf9996f743493d": {
+    "title_clean": "腾讯 Robotics X 开源 HyVLA-O.5：基于亚毫米级指套 UMI 与真机强化，摆脱繁复编程",
+    "summary": "腾讯 Robotics X 团队开源 HyVLA-O.5 系统，通过亚毫米级指套 UMI 和真机强化学习技术，使机器人能够摆脱繁复编程，实现更精细的操作控制。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "reason": "AI 机器人操作技术，与元宝产品关联度低",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039094&idx=1&sn=1c346727be8fa1364dff716bf0b615be": {
+    "title_clean": "首个独立测量AI harness能力的基准开源，打破SWE-bench唯分数论",
+    "summary": "首个独立测量AI harness能力的基准开源，打破了SWE-bench唯分数论的局限。这一基准为评估AI系统在实际任务中的执行能力提供了新标准，对产品经理评估AI助手实际应用价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent"
+    ],
+    "reason": "AI评估基准创新，但直接产品关联有限",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039196&idx=3&sn=a8c0079c0c8998cbed22222b8cd884e8": {
+    "title_clean": "视频生成模型大比拼：1080条提示词测试7款模型表现",
+    "summary": "该研究通过1080条提示词对7款视频生成模型进行对比测试，评估当前视频生成技术在视觉效果、易用性和准确性方面的表现，为产品经理提供视频生成技术现状的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "reason": "视频生成技术评估，对多模态产品有价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/goldman-backed-go-to-debut-after-biggest-japan-ipo-this-year": {
+    "title_clean": "Go：日本最大打车应用完成今年最大规模IPO",
+    "summary": "日本打车应用Go Inc.将在东京证券交易所上市，成为今年日本最大规模的IPO。高盛背书的Go将测试投资者对出行科技领域的态度，为元宝在出行服务场景的AI应用提供市场参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "出行服务场景商业化参考",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures": {
+    "title_clean": "微软Xbox部门游戏工作室面临关闭，Compulsion Games和Double Fine可能独立运营",
+    "summary": "微软Xbox部门的多家游戏工作室，包括Compulsion Games和Double Fine，正面临关闭风险，目前与Xbox进行谈判，这些工作室可能有机会独立运营。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "游戏行业动态，对AI助手产品间接参考价值有限",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/cohere-seeing-inbounds-after-dc-s-anthropic-scrutiny-video": {
+    "title_clean": "Cohere在Anthropic受美国政府审查后迎来大量咨询",
+    "summary": "Cohere首席AI官表示，在美国政府要求Anthropic向外国用户禁用其最先进AI平台后，Cohere收到了大量合作咨询。这反映了AI企业在监管环境变化中的市场机会与风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "reason": "监管变化带来竞品机会",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/chainguard-cyber-firms-use-ai-to-hunt-for-open-source-flaws": {
+    "title_clean": "Chainguard等公司利用AI检测开源软件漏洞",
+    "summary": "摩根大通与多家网络安全公司合作，利用先进AI模型检测并修复开源软件漏洞，展示了AI在提升软件安全方面的实际应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "reason": "AI在安全领域的应用示范",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo": {
+    "title_clean": "SpaceX上市全解析：IPO后你需要了解的一切",
+    "summary": "TechCrunch全面回顾了SpaceX从初创到成功的历程，并分析其IPO后的影响与受益方。这对了解科技巨头上市后的市场格局变化及商业策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/amd-deal-helps-austrian-chip-component-maker-extend-500-rally": {
+    "title_clean": "AMD合作助力奥地利芯片组件制造商股价飙升500%",
+    "summary": "奥地利芯片组件制造商Austria Technologie & Systemtechnik AG与AMD达成合作后上调业绩预期，承诺增加产量和投资，推动股价创下六年来最大涨幅。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "芯片供应链动态，与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/the-potential-risks-of-ai-singled-out-in-draft-g7-statement": {
+    "title_clean": "G七国集团草案声明关注AI潜在风险，特别聚焦金融领域",
+    "summary": "G七国集团草案声明将重点讨论AI带来的新兴机遇和潜在风险，特别是在金融领域的应用。这一政策动向表明AI监管正成为国际关注焦点，对产品经理了解政策环境变化和合规要求具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "政策风险信号，但缺乏具体产品影响",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/us-nlrb-upholds-philadelphia-whole-foods-union-vote-rejecting-amazon-appeal": {
+    "title_clean": "美国劳工委员会支持全食超市工会化，亚马逊旗下超市面临长期法律战",
+    "summary": "美国劳工委员会裁定支持全食超市(Whole Foods)费城员工工会化投票结果，亚马逊旗下这家连锁超市将面临可能持续数年的法律挑战，涉及员工集体谈判权问题。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "reason": "零售行业员工权益变化，间接影响AI服务场景",
+    "v": 3
   }
 }

@@ -6,45 +6,56 @@
     "priority": null,
     "type": null,
     "channels": null,
-    "reason": null
+    "reason": null,
+    "v": null
   },
   "https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video": {
-    "title_clean": "谷歌利用人工智能重塑搜索",
-    "summary": "谷歌AI技术重塑搜索产品体验",
-    "score": 83,
-    "priority": "P1",
-    "type": null,
-    "channels": null,
-    "reason": null
+    "title_clean": "Google通过AI重塑搜索业务，集成生成式答案与对话式搜索",
+    "summary": "Google对其搜索业务进行二十多年来最大变革，将AI生成答案、对话式搜索和推理工具直接整合到搜索核心功能中，这对AI助手产品在搜索场景的应用具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "服务场景"
+    ],
+    "reason": "巨头AI搜索战略变革，直接影响行业方向",
+    "v": 3
   },
   "https://www.producthunt.com/products/slashy-3": {
-    "title_clean": "斜线",
-    "summary": "信息不足，无法确定核心要点",
+    "title_clean": "Slashy",
+    "summary": "Slashy是一个讨论平台，用户可以在其中分享链接并进行讨论，但具体功能和产品定位信息不足，难以评估其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，与AI助手/Agent无关",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/nomnak": {
+    "title_clean": "NomNak",
+    "summary": "NomNak是一个讨论平台，但具体功能和用途不明确，信息不足无法判断其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "news",
-    "channels": [
-      "AI助手"
-    ],
-    "reason": "信息不足，参考价值有限"
-  },
-  "https://www.producthunt.com/products/nomnak": {
-    "title_clean": "对于名义",
-    "summary": "标题信息不足，无法确定内容",
-    "score": 20,
-    "priority": "P3",
-    "type": "news",
     "channels": null,
-    "reason": "标题信息不足，无法判断价值"
+    "reason": "信息不足，无法判断价值",
+    "v": 3
   },
   "https://www.producthunt.com/products/basedash": {
-    "title_clean": "Slack数据代理服务",
-    "summary": "Slack平台数据代理工具或服务",
-    "score": 55,
+    "title_clean": "Slack Data Agent",
+    "summary": "Slack推出Data Agent，可能是基于AI的智能助手，帮助用户在Slack平台内处理和分析数据，提升工作效率。产品经理可关注其如何将AI能力集成到协作工具中，以及用户对AI助手在工作场景中的接受度。",
+    "score": 65,
     "priority": "P2",
-    "type": null,
-    "channels": null,
-    "reason": null
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "reason": "AI助手在工作场景的应用，信息不足",
+    "v": 3
   },
   "https://www.producthunt.com/products/kosh-money": {
     "title_clean": "科什钱",
@@ -53,34 +64,46 @@
     "priority": "P3",
     "type": "news",
     "channels": null,
-    "reason": "标题不完整，信息不足"
+    "reason": "标题不完整，信息不足",
+    "v": null
   },
   "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future": {
-    "title_clean": "Anthropic暂停新模型",
-    "summary": "",
-    "score": null,
-    "priority": null,
-    "type": null,
-    "channels": null,
-    "reason": null
+    "title_clean": "Anthropic暂停新模型访问引发印度AI未来辩论",
+    "summary": "Anthropic暂停新模型访问，印度科技领袖讨论这是否是印度AI雄心的警钟。此事件可能影响印度AI战略方向，对元宝了解国际AI政策变化及市场反应有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "reason": "国际AI政策变化影响市场格局",
+    "v": 3
   },
   "https://www.bloomberg.com/news/articles/2026-06-12/putin-vows-to-expand-starlink-rival-with-aim-to-step-up-attacks": {
-    "title_clean": "普京誓言扩大星链竞争对手",
-    "summary": "俄罗斯计划发展卫星互联网服务竞争",
-    "score": null,
-    "priority": null,
-    "type": null,
-    "channels": null,
-    "reason": null
-  },
-  "https://www.producthunt.com/products/medicyn": {
-    "title_clean": "药品",
-    "summary": "信息不足，无法确定核心要点",
-    "score": 30,
+    "title_clean": "普京誓言扩大星链竞争对手以加强攻击能力",
+    "summary": "俄罗斯总统普京宣布将扩大本国卫星互联网系统，旨在与美国SpaceX的星链竞争并提升军事攻击能力。这一动向可能影响全球卫星互联网格局，对元宝产品经理评估地缘政治对AI基础设施的影响具有参考价值。",
+    "score": 45,
     "priority": "P3",
     "type": "news",
-    "channels": null,
-    "reason": "信息不足，无法判断与AI产品相关性"
+    "channels": [
+      "竞品动态",
+      "服务场景"
+    ],
+    "reason": "地缘政治影响AI基础设施竞争",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/medicyn": {
+    "title_clean": "Medicyn",
+    "summary": "Medicyn是一个医疗相关产品，但具体功能和细节在提供的描述中信息不足，无法确定其具体用途和价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "reason": "信息不足，无法判断价值",
+    "v": 3
   },
   "https://www.producthunt.com/products/underpay": {
     "title_clean": "沃伦 3.0 发布",
@@ -91,229 +114,1861 @@
     "channels": [
       "AI助手"
     ],
-    "reason": "信息不足，无法评估产品价值"
+    "reason": "信息不足，无法评估产品价值",
+    "v": null
   },
-  "https://www.producthunt.com/products/riven-reach-muscle-failure": {
-    "title_clean": "Riven",
-    "summary": "AI产品或服务发布",
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038961&idx=1&sn=b49409abeb35035bb799b1b0417cd7b1": {
+    "title_clean": "Fable5被特朗普禁止幕后黑手曝光?Karpathy可能也用不了了",
+    "summary": "Fable5被特朗普政府禁止，幕后原因曝光，知名AI专家Karpathy可能也无法使用该服务。此事件反映了AI产品面临的政治风险和监管挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "reason": "政治风险警示，但缺乏具体产品信息",
+    "v": 3
+  },
+  "https://openai.com/index/introducing-openai-partner-network": {
+    "title_clean": "OpenAI推出合作伙伴网络，投资1.5亿美元助力企业AI转型",
+    "summary": "OpenAI宣布建立合作伙伴网络，投入1.5亿美元资金，旨在帮助全球企业加速AI技术的采用、部署和转型，扩展其企业级服务生态。",
+    "score": 76,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "OpenAI生态战略，影响企业AI服务市场",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook": {
+    "title_clean": "苹果新版Siri表现平平，仅够缓解AI危机",
+    "summary": "苹果推出新版Siri应对AI竞争危机，同时准备可折叠iPhone和触摸屏MacBook。苹果AI策略变化对行业格局有重要参考价值，元宝可从中获取产品方向启示。",
+    "score": 76,
+    "priority": "P1",
+    "type": null,
+    "channels": null,
+    "reason": null,
+    "v": 3
+  },
+  "https://www.producthunt.com/products/momentra-aesthetic-camera": {
+    "title_clean": "Momentra",
+    "summary": "资讯仅提供产品名Momentra和讨论链接，无具体功能描述或价值说明，无法判断其与AI助手/Agent的相关性。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足无法评估",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/cloudback": {
+    "title_clean": "Cloudback for Linear：产品",
+    "summary": "Cloudback for Linear是一个产品，但描述信息极度不足，无法确定其具体功能和价值。",
+    "score": 20,
+    "priority": "P3",
+    "type": null,
+    "channels": null,
+    "reason": null,
+    "v": 3
+  },
+  "https://www.producthunt.com/products/reverie-fm": {
+    "title_clean": "Reverie.fm：未知功能产品",
+    "summary": "信息不足，无法确定Reverie.fm的具体功能和价值",
+    "score": 0,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足无法判断价值",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/keep-8": {
+    "title_clean": "Keep",
+    "summary": "信息不足，无法确定该产品或服务的具体内容和功能。",
+    "score": 30,
+    "priority": "P3",
+    "type": null,
+    "channels": null,
+    "reason": "信息不足",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/bob-s-cli": {
+    "title_clean": "Bob's CLI: 未知功能的命令行工具",
+    "summary": "Bob's CLI是一个命令行工具，但具体功能和用途不明确。由于信息不足，无法评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
     "channels": [
       "AI助手"
     ],
-    "reason": "信息不足，无法确定参考价值"
+    "reason": "信息不足，无法判断产品价值",
+    "v": 3
   },
-  "https://www.producthunt.com/products/spatialchat": {
-    "title_clean": "空间聊天",
-    "summary": "空间相关聊天功能",
+  "https://mp.weixin.qq.com/s/lHIkas573yCCXa60Hn7WXA": {
+    "title_clean": "阿里云Meoo CLI发布：本地AI编程项目一键部署工具",
+    "summary": "阿里云发布Meoo CLI工具，支持开发者将本地AI编程项目直接部署到云端，简化了AI应用从开发到上线的流程。这一工具可能影响AI开发工具链和部署策略，为元宝在AI项目部署方面提供参考。",
+    "score": 82,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "AI开发部署工具，云服务生态布局",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/south-african-firms-face-pressure-due-to-anti-immigrant-protests": {
+    "title_clean": "南非反移民抗议引发企业压力",
+    "summary": "南非反移民抗议活动导致在非洲多地运营的南非企业面临压力，抗议引发外交紧张局势，并促使各方采取行动应对。",
     "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "reason": "与AI产品关联度低",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038995&idx=1&sn=6f0b514691740f05ed4f02172bdcd2a5": {
+    "title_clean": "ClaudeFable5四日惊魂",
+    "summary": "ClaudeFable5四日惊魂，具体内容未提供，无法判断其对元宝产品经理的参考价值。",
+    "score": 0,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足无法评估",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/macron-s-g7-legacy-hangs-on-fickle-ai-funding-and-data-centers": {
+    "title_clean": "马克龙推动欧洲AI发展：依赖不稳定的资金与数据中心建设",
+    "summary": "法国总统马克龙希望在任期内通过推动AI技术和数据中心建设，使欧洲重新在全球科技竞争中占据一席之地，但其政策成效面临资金不稳定等挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "欧洲AI政策动向，与元宝业务关联度低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-block-marks-us-reversal-warning-to-silicon-valley": {
+    "title_clean": "美国限制Anthropic AI模型对外访问，特朗普政府加强对AI行业控制",
+    "summary": "美国政府禁止外国访问Anthropic公司的最佳AI模型，显示特朗普政府对关键行业加强控制的意愿。此举可能影响全球AI技术交流与竞争格局，对元宝产品经理评估国际AI政策风险与市场策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "政策变化影响全球AI竞争格局",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038984&idx=2&sn=b5fab3e87076b97396ef891359214002": {
+    "title_clean": "西湖大学发现多模态大模型「攻击舒适区」：图片越糊越危险",
+    "summary": "西湖大学研究发现多模态大模型存在「攻击舒适区」，即模糊图片可能对模型构成更大威胁，这一发现对提升多模态模型安全性和鲁棒性具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "reason": "多模态安全研究，影响模型鲁棒性",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038984&idx=1&sn=fb3b18fe3210a299d896ee782f716c6a": {
+    "title_clean": "巴西市政IT公司开源大模型跻身全球第一梯队",
+    "summary": "一家巴西市政IT公司开源的大模型性能达到全球顶尖水平，展示了开源AI模型的竞争实力，对元宝产品经理评估开源模型能力和市场格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "AI搜索"
+    ],
+    "reason": "开源模型性能突破，影响市场格局",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/top-banks-rush-to-fill-chief-ai-roles-as-talent-jumps-to-rivals": {
+    "title_clean": "全球银行争相设立首席AI职位，人才流向竞争对手",
+    "summary": "从悉尼到伦敦的各大银行正竞相填补首席AI官这一高级职位，而这一岗位在一年前几乎不存在。然而，现任该职位者表示，这一职位可能不会长期存在。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "reason": "AI人才流动反映行业趋势，但对元宝产品直接参考有限",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-14/south-korea-s-floundering-movie-business-turns-to-ai-for-help": {
+    "title_clean": "韩国电影业尝试使用生成式AI制作电影",
+    "summary": "韩国电影业面临困境，开始采用生成式AI工具制作电影，已有两部主要使用AI工具制作的电影在韩国影院上映。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "reason": "AI在创意内容领域的应用尝试",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-14/carney-says-anthropic-ban-shows-risk-of-relying-on-big-ai-models": {
+    "title_clean": "Carney称Anthropic禁令凸显依赖大型AI模型的风险",
+    "summary": "英国首相马克·卡尼表示，美国禁止外国访问Anthropic最新AI模型的出口禁令凸显了过度依赖少数强大AI模型的风险，这对AI产品经理评估供应链安全与多元化战略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "供应链风险警示，影响AI产品战略规划",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038947&idx=1&sn=bfc3823c8eac0c2e85b61f15ef57eb28": {
+    "title_clean": "Meta内部问题：员工不满高管、限制token使用量、扎克伯格承认错误",
+    "summary": "Meta内部出现员工对高管不满、限制token使用量等管理问题，扎克伯格公开承认错误。这反映了AI公司内部管理挑战，对元宝产品经理了解大型AI团队内部运营和潜在问题有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "reason": "AI公司内部管理问题参考价值",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038907&idx=2&sn=3c8f95cc00db3d09ad7f2900f8af66ac": {
+    "title_clean": "美国政府禁止外国人使用ClaudeFable 5 AI模型",
+    "summary": "美国政府发布禁令，禁止外国用户访问ClaudeFable 5 AI模型，这可能影响AI产品的国际服务策略和用户获取方式，对AI助手产品的全球化运营有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "政策变化影响AI产品国际服务策略",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-14/uk-to-ban-under-16s-from-social-media-including-ai-chatbots-tiktok": {
+    "title_clean": "英国宣布禁止16岁以下青少年使用社交媒体",
+    "summary": "英国文化大臣宣布将于本周出台政策，禁止16岁以下青少年使用社交媒体，旨在保护儿童安全，但该政策并非万能解决方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "reason": "政策影响青少年用户群体，间接影响产品设计",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat": {
+    "title_clean": "AI黑客攻击导致加密货币代币价值暴跌50%",
+    "summary": "一项AI安全漏洞导致加密货币代币价值暴跌50%，展示了AI黑客攻击的严重威胁。这提醒产品经理需重视AI系统的安全防护，特别是在涉及金融交易的应用场景中。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "AI安全威胁警示产品安全防护重要性",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038948&idx=1&sn=de016618f30fe2c6a15b300a7218e9d9": {
+    "title_clean": "AGI时代，哪些东西会变得稀缺？",
+    "summary": "探讨人工智能通用化时代背景下可能变得稀缺的资源与能力，为产品经理思考AI产品定位与价值提供前瞻性视角。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "reason": "概念探讨缺乏具体产品参考",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand": {
+    "title_clean": "Meta被迫取消20亿美元收购Manus交易，因北京要求撤销",
+    "summary": "Meta开始拆分其20亿美元收购Manus的交易，此前北京已下令撤销该交易。这反映了国际科技公司在华面临的地缘政治风险和监管挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "国际AI企业并购受阻，影响全球市场布局",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/taste-lab": {
+    "title_clean": "Taste Lab",
+    "summary": "Taste Lab是一个AI美食推荐工具，但描述信息不足，无法确认其具体功能和价值。产品经理需进一步了解其服务场景和AI应用方式。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "reason": "信息不足，无法评估价值",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general": {
+    "title_clean": "OpenAI面临州总检察长调查，涉及广告政策和健康数据处理",
+    "summary": "OpenAI正接受美国州总检察长调查，具体涉及州份未明，调查范围涵盖其广告政策及健康数据处理方式，这对了解AI监管趋势和合规风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "监管动态影响合规与产品策略",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk": {
+    "title_clean": "SpaceX进入共同基金和401(k)退休计划",
+    "summary": "SpaceX将进入普通投资者的共同基金和401(k)退休计划，这意味着普通投资者现在可以通过这些常见金融产品投资SpaceX，而不需要是高净值人士。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "与AI产品关联度低，商业化模式参考有限",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-13/why-the-us-is-investing-in-quantum-computing-video": {
+    "title_clean": "美国政府投资量子计算领域，IBM获最大份额",
+    "summary": "特朗普政府采取风险投资方式，对九家量子计算公司进行股权投资，IBM获得最大份额。这一动向表明量子计算可能成为AI基础设施的重要发展方向，值得产品经理关注其与AI结合的潜在应用场景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "reason": "量子计算与AI基础设施相关，但当前信息有限",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai": {
+    "title_clean": "Anthropic安全警告引发政府召回其最强大AI模型",
+    "summary": "Anthropic因安全警告导致政府召回了其部署给数亿用户的商业AI模型，公司对此表示不满，认为不应因潜在的越狱风险就召回已广泛部署的模型。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "reason": "安全监管对AI产品部署的影响",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general": {
+    "title_clean": "OpenAI遭多州总检察长联合调查",
+    "summary": "OpenAI正面临美国多州总检察长的联合调查，具体原因未在描述中明确提及，但可能涉及AI产品合规、数据使用或内容安全等监管问题。这对元宝产品经理了解AI监管趋势和潜在合规风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "监管动态影响行业合规方向",
+    "v": 3
+  },
+  "https://www.cbinsights.com/research/the-manufacturing-robotics-market-map": {
+    "title_clean": "制造业机器人市场地图：115+家构建未来自动化工厂的公司",
+    "summary": "这份市场地图收录了115多家专注于构建未来自动化工厂的制造业机器人公司，展示了工业自动化领域的最新发展格局，为元宝产品经理了解AI在工业场景的应用趋势和潜在合作机会提供了参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "工业AI应用场景有限，与元宝核心业务关联度低",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know": {
+    "title_clean": "SpaceX IPO 相关信息汇总",
+    "summary": "TechCrunch 汇总了 SpaceX 从创立至今的发展历程，并持续关注其 IPO 进展，包括可能受益方等信息，为产品经理提供航天科技巨头上市动态参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/extract-by-firecrawl": {
+    "title_clean": "Prometheus by Firecrawl：AI驱动的网站内容抓取与分析工具",
+    "summary": "Firecrawl推出的Prometheus工具，专注于AI驱动的网站内容抓取与分析，帮助用户高效提取和处理网页数据，为AI应用提供结构化信息支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "reason": "AI工具类产品，服务场景明确",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-12/the-close-6-12-2026-video": {
+    "title_clean": "SpaceX上市首日表现强劲，创纪录750亿美元IPO后股价上涨",
+    "summary": "SpaceX在完成创纪录的750亿美元IPO后，上市首日股价表现强劲。这一事件对AI产品经理的参考价值在于，它反映了资本市场对高科技创新企业的持续看好，可能影响AI领域的投资环境和估值预期。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "资本市场动向，与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/vercel": {
+    "title_clean": "Vercel Drop：Vercel推出的产品讨论平台",
+    "summary": "Vercel Drop是Vercel公司推出的产品讨论平台，用户可以在该平台上分享和讨论产品相关话题。这反映了开发者社区对产品反馈和交流渠道的需求增长，对元宝产品经理了解开发者社区互动模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "reason": "开发者社区互动平台，参考价值有限",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-12/tom-mueller-on-spacex-s-rise-and-space-economy-video": {
+    "title_clean": "Tom Mueller 谈 SpaceX 的崛起与太空经济",
+    "summary": "SpaceX 联合创始人 Tom Mueller 分享公司发展历程和太空经济前景，可能包含对创新、技术突破和商业航天市场的见解，对产品经理了解科技企业战略和新兴市场有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "与AI产品关联度低，商业航天参考价值有限",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-12/paramount-purchase-of-warner-bros-cleared-by-justice-department": {
+    "title_clean": "派拉蒙收购华纳兄弟交易获美国司法部批准",
+    "summary": "派拉蒙收购华纳兄弟的交易已获得美国司法部反垄断审查批准，这标志着媒体行业整合的重要进展，可能影响内容分发渠道和AI内容合作机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "媒体整合对AI内容合作有间接影响",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google": {
+    "title_clean": "Google起诉利用AI诈骗数十万受害者的中国网络犯罪团伙",
+    "summary": "Google起诉名为'Outsider Enterprise'的网络犯罪团伙，该团伙利用AI技术在两周内发送250万条短信，诈骗了数十万受害者。这反映了AI技术被用于大规模诈骗的新趋势，对产品经理了解AI安全防护和风险防控有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "reason": "AI诈骗新趋势，安全防护参考价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-12/spacex-passes-tesla-as-most-valuable-company-in-musk-s-portfolio": {
+    "title_clean": "SpaceX超越特斯拉成为马斯克旗下最有价值公司",
+    "summary": "SpaceX估值超过特斯拉，成为马斯克商业帝国中价值最高的公司。这一变化反映了市场对航天科技和太空探索领域的看好，以及对特斯拉近期增长放缓的评估。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "商业价值变化，与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/tinfoil-pigeons": {
+    "title_clean": "Tinfoil Pigeons",
+    "summary": "Tinfoil Pigeons是一个讨论平台，但具体功能和用途描述不足，无法确定其与AI助手或产品经理的直接相关性。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-biotech-healthcare-ninjaone-leads": {
+    "title_clean": "本周十大融资：企业软件公司NinjaOne获4亿美元融资，区块链、云基础设施等领域也有大额交易",
+    "summary": "本周最大融资为美国企业软件公司NinjaOne的4亿美元，以及区块链技术提供商Digital Asset的融资。欧洲公司也获得了本周最大几笔交易，涉及云基础设施、生物技术和机器人领域。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "融资信息缺乏业务细节",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-12/spacex-shares-surge-after-ipo-making-musk-a-trillionaire-video": {
+    "title_clean": "SpaceX上市后马斯克成为万亿富翁，股价大涨",
+    "summary": "SpaceX上市后股价大幅上涨，使马斯克成为万亿富翁。这一事件反映了资本市场对太空探索和商业航天领域的看好，对元宝产品经理了解科技巨头商业布局和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "与AI产品关联度低，商业价值有限",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it": {
+    "title_clean": "SpaceX 出租闲置计算资源，因内部团队使用困难",
+    "summary": "SpaceX 将内部闲置的计算资源出租给外部客户，原因是其内部团队在使用这些资源时遇到了困难。这一事件反映了企业内部资源分配与利用的挑战，对AI产品经理在资源管理和服务外包方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "资源管理挑战，商业参考有限",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation": {
+    "title_clean": "Mistral被传融资30亿欧元，估值达20亿欧元",
+    "summary": "法国AI公司Mistral正寻求融资30亿欧元，估值将达20亿欧元，几乎是C轮融资估值11.7亿欧元的一倍。这反映了AI基础模型公司的高估值趋势和资本热度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "AI基础模型融资动态，反映市场估值趋势",
+    "v": 3
+  },
+  "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer": {
+    "title_clean": "SpaceX、Anthropic和OpenAI引领的AI公司IPO热潮",
+    "summary": "AI领域巨头SpaceX、Anthropic和OpenAI正引领新一轮IPO热潮，取代传统FAANG公司成为市场焦点，MANGOS(微软/Anthropic/NVIDIA等)成为新投资风向标，反映AI行业资本热度与商业化进程加速。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "AI巨头IPO反映行业资本动向与商业化进程",
+    "v": 3
+  },
+  "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe": {
+    "title_clean": "IPO市场回暖，MANGOS公司引领新潮流",
+    "summary": "IPO市场重新活跃，但引领潮流的已不再是FAANG公司，而是由Meta/Microsoft、Anthropic、N等组成的MANGOS新阵营，这可能预示着AI领域投资热点的转移。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "市场信号弱，对产品直接参考价值有限",
+    "v": 3
+  },
+  "https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx": {
+    "title_clean": "SpaceX完成史上最大规模IPO，股价单日上涨19%",
+    "summary": "SpaceX完成史上最大规模IPO，成为有史以来规模最大的首次公开募股，公司自2002年成立以来已筹集近120亿美元私人投资，成为全球最有价值的风险投资支持初创企业。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "融资信息与AI产品关联度低",
+    "v": 3
+  },
+  "https://huggingface.co/blog/allenai/olmo-eval": {
+    "title_clean": "olmo-eval: 模型开发循环评估工作台",
+    "summary": "olmo-eval是一个专为AI模型开发循环设计的评估工作台，提供模型开发全流程的评估工具，帮助产品经理了解AI模型开发中的评估方法和工具选择。",
+    "score": 45,
     "priority": "P3",
     "type": "news",
     "channels": [
       "AI助手"
     ],
-    "reason": "信息不足，参考价值有限"
+    "reason": "技术评估工具，产品直接关联度低",
+    "v": 3
   },
-  "https://www.producthunt.com/products/onpilot-ai": {
-    "title_clean": "Onpilot产品发布",
-    "summary": "Onpilot产品发布，具体功能未知",
+  "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai": {
+    "title_clean": "Coinbase for Agents：AI自动化投资组合交易工具",
+    "summary": "Coinbase for Agents将AI与金融执行渠道连接，实现从用户投资组合直接自动化交易和支付。该工具解决了大语言模型处理海量数据后缺乏直接执行能力的问题，为AI Agent在金融交易领域提供了新场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "AI Agent金融交易场景创新，商业化潜力高",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/kimi-ai-assistant": {
+    "title_clean": "Kimi K2.7 Code",
+    "summary": "Kimi发布K2.7 Code版本，可能是针对代码场景的AI助手更新，具体功能未在描述中明确说明。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "reason": "信息不足，无法评估具体价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-12/rival-space-stocks-tumble-as-investors-race-toward-musk-s-ipo": {
+    "title_clean": "SpaceX股票下跌，投资者关注马斯克IPO",
+    "summary": "SpaceX股票因投资者转向马斯克IPO而下跌，反映了市场对太空领域投资策略的变化，对产品经理了解科技巨头资本动向和用户投资偏好变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "与AI产品关联度低，商业信号有限",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/avatars-in-elevencreative": {
+    "title_clean": "ElevenCreative：AI虚拟形象创建工具",
+    "summary": "ElevenCreative推出AI虚拟形象创建功能，允许用户生成个性化数字人形象。这一功能可能为元宝在虚拟交互和用户个性化体验方面提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "reason": "功能细节不足，参考价值有限",
+    "v": 3
+  },
+  "https://openai.com/index/academy-courses-applying-ai-at-work": {
+    "title_clean": "OpenAI 推出面向未来工作时代的 Academy 课程",
+    "summary": "OpenAI 发布三门 Academy 课程，帮助用户构建实用 AI 技能、创建可重复工作流程，并将 AI 应用于日常工作场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "reason": "OpenAI 推出实用 AI 课程，影响产品培训方向",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/qursor": {
+    "title_clean": "Qursor",
+    "summary": "Qursor是一个产品，但描述信息不足，无法确定其具体功能和用途。",
     "score": 30,
     "priority": "P3",
-    "type": null,
+    "type": "product",
     "channels": null,
-    "reason": null
+    "reason": "信息不足，无法判断价值",
+    "v": 3
   },
-  "https://openai.com/index/prc-linked-influence-operations-ai-debates": {
-    "title_clean": "中国相关影响力行动针对美国AI辩论",
-    "summary": "中国影响力行动介入美国AI政策辩论",
+  "https://www.bloomberg.com/news/articles/2026-06-12/spacex-ipo-spcx-prepares-for-debut-after-75-billion-ipo-smashes-record": {
+    "title_clean": "SpaceX IPO估值达750亿美元，股价大涨19%",
+    "summary": "SpaceX完成历史性IPO，估值达750亿美元，股价首日上涨19%。这一事件反映了资本市场对AI与航天技术结合企业的看好，对元宝产品经理评估AI技术商业化潜力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "AI航天技术商业化信号，但与元宝业务关联弱",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/cuebuddy": {
+    "title_clean": "CueBuddy",
+    "summary": "CueBuddy是一个讨论平台，但具体功能和产品定位信息不足，无法确定其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
-    "type": null,
+    "type": "news",
     "channels": null,
-    "reason": null
+    "reason": "信息不足，无法判断产品价值",
+    "v": 3
   },
-  "https://www.producthunt.com/products/ownclip": {
-    "title_clean": "AI辅助视频剪辑功能",
-    "summary": "AI工具帮助用户进行视频剪辑",
+  "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world": {
+    "title_clean": "贝佐斯创立的Prometheus获120亿美元融资，打造物理世界的人工通用工程师",
+    "summary": "贝佐斯创立的物理AI公司Prometheus完成120亿美元融资，估值达410亿美元，旨在自动化重型工程和药物设计，专注于物理世界的AI应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "物理AI大模型获巨额融资，展示工程领域AI商业化潜力",
+    "v": 3
+  },
+  "https://openai.com/index/preply": {
+    "title_clean": "Preply：结合AI与真人教师的个性化语言学习平台",
+    "summary": "Preply利用OpenAI技术推出AI生成的课程摘要，提供个性化反馈和语言学习练习，通过AI与真人教师结合的方式提升学习体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "AI与真人结合的教育服务模式有参考价值",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever": {
+    "title_clean": "SpaceX正式以每股135美元定价，开启史上最大规模IPO",
+    "summary": "SpaceX正式宣布以每股135美元的价格开始首次公开募股，这是历史上规模最大的IPO。这一事件对AI产品经理具有重要参考价值，反映了AI领域巨头公司的市场估值和资本动向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "AI巨头IPO估值参考，但与产品直接关联有限",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/clutch-alarm": {
+    "title_clean": "Clutch Alarm",
+    "summary": "Clutch Alarm相关信息不足，仅有讨论链接，无法判断其具体功能或与AI助手/Agent的关联性。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足无法评估价值",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift": {
+    "title_clean": "SpaceX SPV投资者在IPO锁定期结束后才能知晓真实持股情况",
+    "summary": "SpaceX上市后，低层级SPV投资者将面临隐藏费用、长期支付延迟和完全欺诈风险。这反映了特殊目的投资结构在IPO后的透明度和风险问题，对产品经理评估投资产品风险和用户教育有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "投资风险信息，与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes": {
+    "title_clean": "Tide",
+    "summary": "Tide是一个产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://news.crunchbase.com/public/ipo-window-liquid-money-ma-schroder-mgv": {
+    "title_clean": "SpaceX、OpenAI和Anthropic上市将影响初创企业融资格局",
+    "summary": "MGV的Marc Schröder指出，SpaceX、OpenAI和Anthropic上市后将成为全球资本最雄厚的收购方，这对初创企业融资环境的影响可能更为深远。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "AI巨头上市对行业资本格局影响待观察",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/shellmate-2": {
+    "title_clean": "ShellMate：AI命令行助手工具",
+    "summary": "ShellMate是一款AI命令行助手工具，旨在帮助开发者更高效地使用命令行界面。它通过AI技术提供命令建议和自动化功能，可能提升开发者的工作效率和命令行使用体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "reason": "AI工具类产品，但场景垂直",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others": {
+    "title_clean": "Deezer推出AI音乐识别工具，可检测Spotify等平台上的AI生成音乐",
+    "summary": "Deezer发布新工具，能够扫描Spotify、Apple Music等平台的播放列表，识别其中的AI生成音乐内容。这反映了音乐平台对AI生成内容的监管需求，对元宝在内容识别和版权保护方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "AI内容识别工具，服务场景参考价值",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank": {
+    "title_clean": "Pool：将截图转化为实用工具的新应用",
+    "summary": "Pool推出一款新应用，能够将用户的截图转化为实用工具，帮助用户从截图中提取信息并转化为可操作的功能，这可能为AI助手在处理用户截图内容方面提供新的思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "截图处理功能对AI助手有启发价值",
+    "v": 3
+  },
+  "https://www.cbinsights.com/research/ceo-interview-cases": {
+    "title_clean": "CEO访谈：案例分享",
+    "summary": "这是一篇CEO访谈内容，主要分享企业案例，可能包含产品策略、市场定位和业务发展经验，对元宝产品经理了解行业实践和决策思路有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "reason": "内容过于泛泛，缺乏具体产品信息",
+    "v": 3
+  },
+  "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing": {
+    "title_clean": "Visa与ChatGPT集成，实现AI代理零售购买功能",
+    "summary": "Visa将其支付基础设施与ChatGPT连接，使AI代理能够推荐零售产品并执行金融交易，该部署消除了人类在最终环节的干预。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "支付巨头与AI代理结合，开创金融服务新场景",
+    "v": 3
+  },
+  "https://news.crunchbase.com/venture/base10-partners-invests-real-economy-automation-ajao": {
+    "title_clean": "Base10 Partners募资8.5亿美元专注实体经济自动化投资",
+    "summary": "旧金山风投Base10 Partners完成8.5亿美元募资，将重点投资物流、薪资、建筑等实体经济自动化领域，包括种子轮、A轮和B轮基金。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "实体经济自动化投资反映AI服务落地趋势",
+    "v": 3
+  },
+  "https://news.crunchbase.com/venture/median-late-stage-startup-funding-round-size-2026-data": {
+    "title_clean": "AI初创公司1亿美元融资已成常态",
+    "summary": "AI行业融资规模持续扩大，1亿美元融资已不再罕见，成为后期融资的常规规模，反映市场对AI领域的持续投入和成熟度提升。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "融资规模变化反映市场趋势",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch": {
+    "title_clean": "pleNx：任天堂Switch上的Plex媒体客户端",
+    "summary": "pleNx是一款专为任天堂Switch开发的Plex媒体客户端应用，允许用户在Switch设备上访问和管理Plex媒体服务器内容，扩展了游戏主机的媒体播放功能。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "reason": "媒体服务场景扩展，但与AI核心功能关联弱",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/insta-360": {
+    "title_clean": "Insta360 Luna Ultra：AI全景相机产品",
+    "summary": "Insta360 Luna Ultra是一款全景相机产品，具体功能与特点未在描述中明确提及。作为硬件产品，其对AI助手类产品的参考价值有限，除非涉及AI图像处理或场景识别功能。",
     "score": 35,
     "priority": "P3",
     "type": "product",
     "channels": [
       "多模态"
     ],
-    "reason": "信息不足，难以判断参考价值"
+    "reason": "硬件产品，AI关联性弱",
+    "v": 3
   },
-  "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters": {
-    "title_clean": "英国首相斯塔默将因战斗机资金减少与日本高层会面",
-    "summary": "英国首相因战斗机资金减少将与日本高层会晤",
-    "score": 0,
-    "priority": "P3",
-    "type": "news",
-    "channels": null,
-    "reason": "与AI产品领域"
-  },
-  "https://www.producthunt.com/products/reverie-fm": {
-    "title_clean": "Reverie.fm",
-    "summary": "新产品发布，但内容不明确",
-    "score": 30,
-    "priority": "P3",
-    "type": "news",
-    "channels": [
-      "AI助手"
-    ],
-    "reason": "信息不足，无法判断相关性"
-  },
-  "https://www.producthunt.com/products/qursor": {
-    "title_clean": "光标",
-    "summary": "信息不足，无法确定具体",
-    "score": null,
-    "priority": null,
-    "type": null,
-    "channels": null,
-    "reason": null
-  },
-  "https://www.producthunt.com/products/locin-ai": {
-    "title_clean": "人工智能替代技术",
-    "summary": "新型技术可能替代传统人工智能",
-    "score": 35,
-    "priority": "P3",
-    "type": "news",
-    "channels": [
-      "AI助手"
-    ],
-    "reason": "信息不足，无法判断具体价值"
-  },
-  "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes": {
-    "title_clean": "Tide",
-    "summary": "信息不足，无法确定内容",
+  "https://www.producthunt.com/products/hypersleep": {
+    "title_clean": "HyperSleep",
+    "summary": "HyperSleep相关信息不足，无法判断其具体功能或价值。需要更多信息才能评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "news",
     "channels": null,
-    "reason": "标题信息不足，无法判断价值"
+    "reason": "信息不足无法判断价值",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/docklog": {
+    "title_clean": "DockLog",
+    "summary": "DockLog是一个产品发布讨论，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其对元宝的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://about.fb.com/news/2026/06/how-to-verify-age-online": {
+    "title_clean": "社交媒体禁令无法单独解决年龄验证难题",
+    "summary": "文章指出仅靠社交媒体禁令无法有效解决未成年人保护问题，呼吁建立实用的集中化年龄验证框架，确保年轻用户在线安全。这对元宝产品经理在考虑用户年龄验证机制和未成年人保护策略方面有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "reason": "年龄验证机制对AI助手产品安全设计有参考价值",
+    "v": 3
+  },
+  "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem": {
+    "title_clean": "OpenAI支持欧盟AI内容透明度实践，推进AI内容溯源标准",
+    "summary": "OpenAI支持欧盟AI内容透明度行为准则，推进AI内容溯源标准和工具，帮助人们识别AI生成内容，这对元宝产品经理了解AI内容透明化趋势和合规要求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "reason": "AI内容透明化趋势与合规参考",
+    "v": 3
   },
   "https://openai.com/index/bbva": {
-    "title_clean": "BBVA通过OpenAI将人工智能应用于银行业核心业务",
-    "summary": "BBVA银行",
-    "score": null,
-    "priority": null,
-    "type": null,
-    "channels": null,
-    "reason": null
+    "title_clean": "BBVA将OpenAI技术融入核心银行业务，为10万名员工部署ChatGPT Enterprise",
+    "summary": "西班牙对外银行BBVA与OpenAI合作，将ChatGPT Enterprise扩展至10万名员工，加速全球AI驱动的银行业转型，展示了大型金融机构如何规模化应用AI技术提升服务能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "金融机构AI规模化应用案例，参考价值高",
+    "v": 3
   },
-  "https://www.producthunt.com/products/bond-12": {
-    "title_clean": "Bond",
-    "summary": "信息不足，无法确定内容",
-    "score": 20,
+  "https://openai.com/index/using-codex-to-simulate-black-holes": {
+    "title_clean": "天体物理学家使用Codex构建黑洞模拟",
+    "summary": "天体物理学家Chi-kwan Chan利用Codex构建黑洞模拟，帮助科学家研究极端物理现象并测试爱因斯坦广义相对论。",
+    "score": 45,
     "priority": "P3",
     "type": "news",
-    "channels": null,
-    "reason": "信息不足，无法判断内容价值"
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "专业领域应用，与主流AI产品关联度低",
+    "v": 3
   },
-  "https://www.producthunt.com/products/cloudback": {
-    "title_clean": "Cloudback产品发布",
-    "summary": "Cloudback产品发布信息",
+  "https://www.producthunt.com/products/permute": {
+    "title_clean": "Permute 4.0",
+    "summary": "Permute 4.0发布，但描述信息不足，无法确定其具体功能与AI产品关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，无法判断与AI产品关联",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/mute-3": {
+    "title_clean": "Mute：讨论链接分享工具",
+    "summary": "Mute是一个讨论链接分享工具，但具体功能和用途描述信息不足，无法判断其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
     "channels": [
       "AI助手"
     ],
-    "reason": "信息不足，无法判断相关性"
+    "reason": "信息不足，无法评估价值",
+    "v": 3
   },
-  "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living": {
-    "title_clean": "安德鲁·杨认为降低生活成本是下一个重大创业机会",
-    "summary": "创业家认为降低生活成本是未来创业方向",
-    "score": null,
-    "priority": null,
-    "type": null,
-    "channels": null,
-    "reason": null
-  },
-  "https://openai.com/index/academy-courses-applying-ai-at-work": {
-    "title_clean": "OpenAI发布面向未来工作时代的新课程",
-    "summary": "OpenAI推出面向未来工作时代的新课程",
-    "score": 60,
-    "priority": "P2",
-    "type": null,
-    "channels": null,
-    "reason": null
-  },
-  "https://www.producthunt.com/products/pool-4": {
-    "title_clean": "Pool",
-    "summary": "信息不足，无法确定内容",
-    "score": 30,
-    "priority": "P3",
-    "type": "news",
-    "channels": null,
-    "reason": "标题过于模糊，无法判断内容价值"
-  },
-  "https://www.producthunt.com/products/mute-3": {
-    "title_clean": "Mute",
-    "summary": "信息不足，无法提供概述",
-    "score": 20,
+  "https://huggingface.co/blog/torch-mlp-fusion": {
+    "title_clean": "PyTorch性能剖析(第二部分)：从nn.Linear到融合MLP",
+    "summary": "该文章深入剖析PyTorch中nn.Linear层的性能优化，展示了如何通过融合MLP技术提升模型训练效率，对AI产品经理了解底层模型优化技术有参考价值。",
+    "score": 45,
     "priority": "P3",
     "type": "news",
     "channels": [
       "AI助手"
     ],
-    "reason": "标题信息不足，无法准确评估"
+    "reason": "纯技术优化，与产品方向关联弱",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/bond-12": {
+    "title_clean": "Bond",
+    "summary": "Bond是一个讨论平台，但描述信息不足，无法确定其具体功能和与AI助手的关系。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足，无法判断与元宝的关联性",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/spatialchat": {
+    "title_clean": "SpatialChat：3D虚拟空间社交聊天平台",
+    "summary": "SpatialChat是一款3D虚拟空间社交聊天平台，用户可以在虚拟环境中进行实时互动交流，支持视频、音频和文本等多种交互方式，为远程协作和社交提供沉浸式体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "reason": "虚拟社交场景创新，但与AI助手关联度一般",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/riven-reach-muscle-failure": {
+    "title_clean": "Riven：AI驱动的代码审查与优化工具",
+    "summary": "Riven是一款AI代码审查工具，能够自动分析代码并提供优化建议，帮助开发者提高代码质量和开发效率。该工具对元宝产品经理在AI辅助编程和代码优化领域的产品规划具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "reason": "AI代码优化工具，服务场景明确",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/patchrooms": {
+    "title_clean": "Patchrooms：讨论平台",
+    "summary": "Patchrooms是一个讨论平台，但具体功能和用途描述信息不足，无法确定其与AI助手或产品经理的直接相关性。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，无法判断产品价值",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/onpilot-ai": {
+    "title_clean": "Onpilot",
+    "summary": "Onpilot是一个讨论平台，但具体功能和用途信息不足，无法判断其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://openai.com/index/prc-linked-influence-operations-ai-debates": {
+    "title_clean": "OpenAI报告：中国关联组织利用AI干预美国科技辩论",
+    "summary": "OpenAI发布报告披露与中国有关联的组织利用AI技术干预美国科技辩论、数据中心叙事、关税政策，并传播关于ChatGPT的虚假信息，这对AI内容安全和平台治理有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "reason": "AI安全与内容治理相关，影响平台政策制定",
+    "v": 3
   },
   "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda": {
-    "title_clean": "半导体初创企业融资持续活跃",
-    "summary": "半导体初创企业融资市场保持热度",
-    "score": 27,
+    "title_clean": "半导体初创企业融资持续火热，2026年已获约100亿美元投资",
+    "summary": "2026年半导体初创企业融资热度不减，投资者已向Crunchbase分类中的半导体公司投入约100亿美元种子轮至Pre-IPO轮融资。这反映了半导体行业作为AI硬件基础的重要投资方向，对元宝产品经理评估AI基础设施投资趋势和硬件合作伙伴选择有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "半导体投资热度反映AI基础设施趋势",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s/7pM3kkVJq_kT9kyeYhUGxg": {
+    "title_clean": "美的与阿里巴巴达成战略合作",
+    "summary": "美的集团与阿里巴巴宣布建立全面战略合作关系，双方将在智能家居、供应链数字化、电商渠道等领域展开深度合作，共同探索AI技术在家电产品中的应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "reason": "家电巨头与电商AI平台合作，拓展智能家居服务场景",
+    "v": 3
+  },
+  "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq": {
+    "title_clean": "麦当劳测试谷歌支持的AI点餐系统ArchIQ",
+    "summary": "麦当劳正在测试名为ArchIQ的AI系统，可处理汽车餐厅点餐并支持餐厅运营。该系统由谷歌支持，是快餐行业AI应用的重要案例，对元宝在餐饮服务场景的AI应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "reason": "餐饮AI服务场景落地案例",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/ownclip": {
+    "title_clean": "OwnClip",
+    "summary": "OwnClip是一个产品发布信息，但描述内容不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足无法评估",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/endpointme": {
+    "title_clean": "EndpointMe",
+    "summary": "EndpointMe是一个讨论平台，但具体功能和用途信息不足，无法判断其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s/MSl0h5q5IgcKnvHfj1Qmfw": {
+    "title_clean": "千问发布高考志愿填报专家，免费为全国考生服务",
+    "summary": "阿里巴巴千问团队推出高考志愿填报专家AI助手，免费为全国考生提供志愿填报指导服务，这是AI在教育场景下的具体应用，对元宝拓展教育服务场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "reason": "AI教育服务场景落地，竞品动态",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/tabstack": {
+    "title_clean": "Tabstack Structured Extraction",
+    "summary": "Tabstack Structured Extraction 是一款结构化数据提取工具，但具体功能和用途在提供的描述中信息不足，无法确定其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，无法评估价值",
+    "v": 3
+  },
+  "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india": {
+    "title_clean": "Meta与Reliance合作在印度建立AI数据中心",
+    "summary": "Meta与Reliance Industries达成协议，在印度租赁首个AI-enabled数据中心，这是Meta在印度市场的重要基础设施布局，对元宝产品经理了解AI基础设施合作模式有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "基础设施合作模式参考价值有限",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s/r739YVYp-mGwmq_vLboxrA": {
+    "title_clean": "友情提示，可以呼吸：AI健康提醒应用",
+    "summary": "一款AI健康提醒应用，通过提示用户'可以呼吸'来关注日常呼吸健康，可能涉及呼吸训练或压力管理功能，为AI在健康管理场景的应用提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "健康场景AI应用，但功能单一",
+    "v": 3
+  },
+  "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code": {
+    "title_clean": "North Mini Code：Cohere 首款面向开发者的代码生成模型",
+    "summary": "Cohere 发布了面向开发者的 North Mini Code 模型，专注于代码生成任务，为开发者提供更高效的编程辅助工具，可能影响 AI 辅助编程产品竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "reason": "开发者专用AI代码模型，影响竞品布局",
+    "v": 3
+  },
+  "https://about.fb.com/news/2026/06/better-personalization-and-changes-to-controls-for-your-activity-from-other-businesses": {
+    "title_clean": "Meta更新跨企业活动数据使用规则与个性化设置",
+    "summary": "Meta调整了使用其他企业已分享信息的规则，改进用户个性化设置并增强对跨企业活动的控制权，涉及数据隐私与广告定向策略调整。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "reason": "隐私政策调整影响广告定向与用户体验",
+    "v": 3
+  },
+  "https://openai.com/index/nextdoor": {
+    "title_clean": "Nextdoor工程师使用Codex与GPT-5.5突破开发限制",
+    "summary": "Nextdoor工程师利用Codex结合GPT-5.5技术，解决难以复现的问题，实现跨平台开发，专注于产品成果。这展示了AI辅助工程工具在实际产品开发中的应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "reason": "AI工程工具应用案例，有产品启发价值",
+    "v": 3
+  },
+  "https://news.crunchbase.com/venture/new-unicorn-startups-may-2026-openai-anthropic-ipos-spacex-robotics": {
+    "title_clean": "AI服务与机器人引领5月29家新独角兽企业涌现，SpaceX、Anthropic和OpenAI准备重磅退出",
+    "summary": "5月共有29家公司加入Crunchbase独角兽榜单，突出趋势不是新AI模型，而是帮助企业应用AI的业务。这表明AI服务与机器人领域正迎来重要发展机遇，对元宝产品经理关注AI商业化和服务场景具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "reason": "AI服务商业化趋势明确，服务场景拓展机会显现",
+    "v": 3
+  },
+  "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer": {
+    "title_clean": "在线PDF签名工具：轻松便捷的电子签名解决方案",
+    "summary": "这是一款在线PDF签名工具，为企业和个人提供快速、安全的电子签名服务，适用于合同、法律协议和各类表格的签署需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "reason": "与AI助手关联度低，传统工具",
+    "v": 3
+  },
+  "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops": {
+    "title_clean": "DevOps中自主AI数据丢失风险：构建高效防御机制",
+    "summary": "自主AI代理正在加速软件交付，但也缩短了错误酿成灾难的时间，在DevOps环境中创造了危险盲点。文章探讨了AI代理在软件开发流程中带来的数据安全挑战及防御策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "AI代理在DevOps中的安全风险值得关注",
+    "v": 3
+  },
+  "https://huggingface.co/blog/github-ci-hf-jobs": {
+    "title_clean": "将GitHub CI迁移至Hugging Face Jobs：AI模型训练部署方案",
+    "summary": "文章介绍如何将GitHub持续集成流程迁移至Hugging Face Jobs平台，利用其AI模型训练和部署能力优化开发流程，为AI产品团队提供更高效的模型迭代方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "AI开发工具链优化，对产品技术架构有参考价值",
+    "v": 3
+  },
+  "https://about.fb.com/news/2026/06/americas-workforce-academy-free-skilled-trade-training": {
+    "title_clean": "Meta推出美国劳动力学院：面向全民的职业技能培训计划",
+    "summary": "Meta启动美国劳动力学院(AWA)，一项全国性计划，旨在加速参与者获得长期技能贸易职业。该计划关注职业技能培训，为元宝在职业培训场景的AI应用提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "职业培训场景参考价值有限",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/juno-13": {
+    "title_clean": "Juno",
+    "summary": "Juno相关信息不足，仅有讨论链接，无法判断其具体功能或价值，无法评估对元宝产品经理的参考价值。",
+    "score": 0,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足无法判断价值",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt": {
+    "title_clean": "NODUS PH Radar for Product Hunt：产品雷达工具",
+    "summary": "NODUS PH Radar是一款针对Product Hunt平台的产品雷达工具，帮助用户追踪和发现新产品发布，为产品经理提供竞品和市场趋势信息。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "竞品动态",
+      "AI搜索"
+    ],
+    "reason": "信息不足，参考价值有限",
+    "v": 3
+  },
+  "https://openai.com/index/openai-submits-confidential-s-1": {
+    "title_clean": "OpenAI向SEC提交保密S-1上市文件",
+    "summary": "OpenAI已向美国证券交易委员会提交保密的S-1上市文件，但尚未确定后续行动时间。这标志着OpenAI可能准备进行首次公开募股，对AI行业格局和商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "OpenAI上市将影响AI行业格局与商业化路径",
+    "v": 3
+  },
+  "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts": {
+    "title_clean": "Weis Markets引入Instacart AI智能购物车",
+    "summary": "Weis Markets在宾夕法尼亚州部分门店引入Instacart的AI智能购物车Caper Carts，提供数字优惠券、忠诚度功能和重复购买推荐，将AI技术融入实体零售场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "reason": "AI零售应用场景参考价值",
+    "v": 3
+  },
+  "https://news.crunchbase.com/ai/bigger-acvs-bring-direct-sales-vertical-ai-agarwal-defy": {
+    "title_clean": "垂直AI公司通过大额交易推动直销回归",
+    "summary": "成功的垂直AI初创企业正利用私募股权网络和行业会议等渠道推动产品分发，认识到大额交易需要根本性的销售策略转变，这对元宝的产品商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "垂直AI销售策略变化，商业化参考价值中等",
+    "v": 3
+  },
+  "https://about.fb.com/news/2026/06/fighting-spyware-an-update-from-whatsapp": {
+    "title_clean": "WhatsApp更新：打击间谍软件行动进展",
+    "summary": "WhatsApp披露成功挫败与NSO集团相关的定向钓鱼攻击，该间谍软件公司已被美国政府列入黑名单。此次更新展示了WhatsApp在保护用户隐私方面的持续努力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "reason": "安全更新，与AI产品关联弱",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s/zcoBrw_7Qr6c0RQGKMK2Bw": {
+    "title_clean": "度厂一周刊：秒哒App iOS版上线、华硕×百度DuMate AI解决方案发布、百度文心PaddleOCR-VL-1.6更新",
+    "summary": "百度旗下秒哒App推出iOS版本；华硕与百度合作推出DuMate AI解决方案；百度文心大模型更新PaddleOCR-VL-1.6多模态识别能力。展示百度在AI应用落地、硬件合作及多模态技术方面的进展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "reason": "AI产品落地与多模态技术更新有参考价值",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s/F0MAf6C3z2FNlXiZ1lhEEQ": {
+    "title_clean": "阿里云10篇论文入选数据库顶会SIGMOD 2026",
+    "summary": "阿里云有10篇论文被数据库领域顶级会议SIGMOD 2026收录，展示其在数据库系统研究方面的技术实力，对AI产品经理了解底层技术进展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "技术成果展示，与产品关联度低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/hong-kong-leader-says-he-s-yet-to-consider-possible-second-term": {
+    "title_clean": "香港领导人回避连任问题",
+    "summary": "香港特首李家超回避关于寻求连任的问题，在明年领导层选举前对政治未来保持模糊态度。此政治动向可能影响香港AI服务政策环境，对元宝在港业务布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "政治环境变化影响AI服务落地",
+    "v": 3
+  },
+  "https://www.bloomberg.com/jp/news/newsletters/2026-06-15/TGNKC0RKV2VT00": {
+    "title_clean": "新Siri能否挽救苹果AI危机：7项改善实例分析",
+    "summary": "苹果新Siri虽晚于竞争对手两年推出，但已达到实用水平，成为其AI战略调整的重要基础。文章通过实际测试，揭示了新Siri的7项具体改善案例，对评估苹果AI产品竞争力有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "reason": "竞品AI战略调整与产品改进分析",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/activist-palliser-urges-taiwan-firm-wus-to-privatize-lift-value": {
+    "title_clean": "Activist Palliser敦促台湾电路板公司WUS私有化提升价值",
+    "summary": "对冲基金Palliser敦促台湾电路板公司WUS通过私有化等方式提升股东价值，这反映了投资者对企业治理的关注，对元宝产品经理了解企业服务场景中的股东价值管理有一定参考价值。",
+    "score": 35,
     "priority": "P3",
     "type": "news",
     "channels": [
       "商业化"
     ],
-    "reason": "与AI产品关联度低，参考价值有限"
+    "reason": "与企业服务相关但非AI核心领域",
+    "v": 3
   },
-  "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout": {
-    "title_clean": "Siri AI与Google产品更新，部分地区服务受限",
-    "summary": "Siri与",
-    "score": null,
-    "priority": null,
-    "type": null,
-    "channels": null,
-    "reason": null
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038948&idx=2&sn=1d0ed4e645b8250a4b5a7874c7521d49": {
+    "title_clean": "DeepMind报告：四条通往超级人工智能的技术路径",
+    "summary": "DeepMind发布研究报告，系统梳理了四条可能通往超级人工智能的技术路径，包括扩展模型规模、提升算法效率、多模态融合与具身智能等方向，为AI产品开发提供战略参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "reason": "技术路线规划对产品战略有重要参考价值",
+    "v": 3
   },
-  "https://www.bloomberg.com/news/articles/2026-06-15/activist-palliser-urges-taiwan-firm-wus-to-privatize-lift-value": {
-    "title_clean": "活动人士敦促台湾公司WUS私有化",
-    "summary": "活动人士Palliser呼吁WUS公司私有化以提升价值",
-    "score": null,
-    "priority": null,
-    "type": null,
-    "channels": null,
-    "reason": null
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038961&idx=2&sn=6cec715df102f8b6c3869339d4bd4ac1": {
+    "title_clean": "CVPR2026IGaussianDWM：基于3D高斯表示的自动驾驶场景理解与多模态生成统一框架",
+    "summary": "CVPR2026IGaussianDWM提出了一种基于3D高斯表示的统一框架，能够同时处理自动驾驶场景理解和多模态生成任务，为自动驾驶系统提供更高效的环境感知能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "reason": "自动驾驶多模态技术进展，对元宝场景理解有参考价值",
+    "v": 3
   },
-  "https://www.producthunt.com/products/taste-lab": {
-    "title_clean": "味觉实验室",
-    "summary": "味觉相关研究或应用",
-    "score": 30,
-    "priority": "P3",
-    "type": null,
-    "channels": null,
-    "reason": null
+  "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride": {
+    "title_clean": "AI公司竞相上市热潮，谁将随之受益",
+    "summary": "AI创业公司正试图搭乘SpaceX上市浪潮，寻求资本市场的关注。这一趋势反映了AI行业商业化进程加速，对元宝产品经理评估行业资本动向和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "AI行业上市潮反映商业化趋势",
+    "v": 3
   },
-  "https://www.bloomberg.com/news/videos/2026-06-12/tom-mueller-on-spacex-s-rise-and-space-economy-video": {
-    "title_clean": "汤姆·穆勒谈SpaceX崛起和太空经济",
-    "summary": "SpaceX创始人分享公司发展历程和太空经济前景",
-    "score": 30,
+  "https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts": {
+    "title_clean": "AI正在替代伦敦金融分析师、律师和程序员等职业",
+    "summary": "AI技术正在替代伦敦金融分析师、律师和程序员等传统职业，导致相关岗位需求减少。这反映了AI对专业服务领域的深刻影响，对元宝产品经理评估AI服务场景和职业替代趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "竞品动态"
+    ],
+    "reason": "AI职业替代趋势影响服务场景设计",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune": {
+    "title_clean": "SpaceX上市助推沙特富豪财富增长",
+    "summary": "SpaceX首次公开募股股价大涨，进一步提升了沙特最富有王子的财富。这一事件反映了太空商业化的市场潜力，对元宝产品经理评估高价值用户群体和财富管理场景有参考价值。",
+    "score": 45,
     "priority": "P3",
     "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "与AI产品关联度低",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations": {
+    "title_clean": "KPMG撤回AI使用报告因出现明显幻觉",
+    "summary": "KPMG因报告中出现AI幻觉现象而撤回了关于AI使用情况的报告，再次凸显AI信息可靠性问题，这对AI助手产品在专业场景中的应用具有重要警示意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "reason": "AI可靠性问题影响专业场景应用",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters": {
+    "title_clean": "英国首相与日本首相会晤，讨论联合战斗机项目资金问题",
+    "summary": "英国首相斯塔默将与日本首相高市早苗会晤，就与意大利联合开发的战斗机项目面临资金不确定性进行讨论。该项目可能因英国资金问题受阻，对国际军事合作项目风险管理有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "与AI产品无关，仅为国际政治军事合作",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters": {
+    "title_clean": "Anthropic秘密提交上市申请，9650亿美元估值引发选民对AI未来的担忧",
+    "summary": "Anthropic作为增长最快的AI初创公司之一，在秘密提交上市申请后引发关注。这家估值高达9650亿美元的AI巨头的发展引发了选民对资本主义过度押注AI未来的担忧。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "AI巨头上市动态与市场反应",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s/eecHlGiQIwpWfAEiJlgGDg": {
+    "title_clean": "AmiGo！萝卜快跑在瑞士推出自动驾驶出租车服务",
+    "summary": "百度旗下自动驾驶平台萝卜快跑在瑞士推出自动驾驶出租车服务AmiGo，标志着其国际化战略的重要一步，为元宝产品经理提供了自动驾驶服务海外拓展的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "reason": "自动驾驶服务国际化拓展案例",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-12/wall-street-week-google-s-ai-bet-world-cup-backlash-video": {
+    "title_clean": "华尔街周刊：SpaceX上市、谷歌AI投资及世界杯票价争议",
+    "summary": "本期华尔街周刊探讨SpaceX上市计划、谷歌在AI领域的投资策略，以及世界杯赛事引发的票价争议，这些动态对科技行业投资趋势和AI产品商业化方向具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索",
+      "竞品动态"
+    ],
+    "reason": "科技行业投资趋势与AI商业化参考",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-12/class-v-group-founder-analyzes-unique-spacex-s-ipo-video": {
+    "title_clean": "Class V Group创始人分析SpaceX 750亿美元IPO的独特特点",
+    "summary": "Class V Group创始人深入分析SpaceX创纪录的750亿美元IPO，探讨其独特商业模式、技术壁垒和估值逻辑，为AI产品商业化提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "商业案例参考，与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/cakewordai-snap-learn": {
+    "title_clean": "CakewordAI",
+    "summary": "CakewordAI是一个AI产品，但具体功能和用途在提供的描述中信息不足，无法确定其与元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
     "channels": null,
-    "reason": "与AI产品和服务无关"
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-12/spacex-and-tesla-will-merge-merz-says-video": {
+    "title_clean": "SpaceX与特斯拉将合并，Merz称",
+    "summary": "据Merz称，SpaceX与特斯拉计划合并，这可能影响两家公司的AI技术应用和自动驾驶发展方向，对元宝产品经理了解科技巨头战略布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "reason": "科技巨头合并传闻，影响AI战略方向",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-12/open-interest-6-12-2026-video": {
+    "title_clean": "SpaceX股票上市首日上涨11%，2026年6月12日公开交易",
+    "summary": "SpaceX在公开交易首日股价上涨11%，表明市场对这家太空探索公司的看好。这一事件对产品经理有参考价值，因为SpaceX作为科技巨头的发展可能影响AI与航天科技结合的未来产品方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "商业信号弱，与AI产品关联低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-12/bloomberg-tech-6-12-2026-video": {
+    "title_clean": "SpaceX完成史上最大规模IPO",
+    "summary": "SpaceX于2026年6月12日完成史上最大规模的IPO，成为科技行业里程碑事件。这一融资动向对AI领域尤其是航天AI应用和商业化探索具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "融资规模大但与AI产品关联弱",
+    "v": 3
+  },
+  "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran": {
+    "title_clean": "美国为盲人退伍军人免费提供Ray-Ban Meta智能眼镜",
+    "summary": "美国向所有盲人退伍军人免费捐赠Ray-Ban Meta智能眼镜，通过AI技术为视障人士提供辅助功能，展示了AI在无障碍服务场景的应用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "AI无障碍服务场景创新应用",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s/Ves_KeN-ysi9oAM7Vc9a1g": {
+    "title_clean": "高德发布世界模型ABot-Earth0.5；淘宝闪购推出夏季十大保障",
+    "summary": "高德地图发布世界模型ABot-Earth0.5，提升空间导航能力；淘宝闪购推出夏季十大保障计划，优化购物体验。前者展示AI在空间理解领域的进展，后者反映电商平台服务升级趋势，对AI助手在导航和电商场景应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "AI空间模型与电商服务升级，参考价值一般",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale": {
+    "title_clean": "Avataar：面向印度市场的低成本快速视频生成AI",
+    "summary": "Avataar AI推出视频生成模型，每秒生成成本仅0.005美元，专为印度市场的大规模应用设计，强调文化适应性与高性价比。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "低成本视频生成服务，适合新兴市场规模化应用",
+    "v": 3
+  },
+  "https://www.cbinsights.com/research/executive-interview-c-phrase-technologies": {
+    "title_clean": "Executive Interview: C-Phrase Technologies",
+    "summary": "C-Phrase Technologies接受高管访谈，该公司专注于AI语言技术，具体业务方向未在标题和描述中明确提及，对产品经理的直接参考价值有限。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "信息不足，业务方向不明确",
+    "v": 3
+  },
+  "https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps": {
+    "title_clean": "Meta在旗下多平台推出足球粉丝专属功能",
+    "summary": "Meta在Threads、Instagram、Facebook和WhatsApp等应用中新增足球相关功能，包括运动员内容、比赛内容和产品内互动活动，旨在服务全球足球粉丝。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "与AI助手关联度低，服务场景有限",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s/e4FB-uQUIbnpm2qP3OtgBg": {
+    "title_clean": "千问上线足球预测AI助手，支持竞猜捐建乡村球场",
+    "summary": "千问推出足球预测AI助手，用户通过参与竞猜活动可为乡村捐建球场。该产品将AI预测与公益结合，探索AI在体育娱乐场景的应用，同时拓展了AI助手的公益服务模式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "AI助手创新场景结合公益，拓展服务边界",
+    "v": 3
   },
   "https://www.producthunt.com/products/cloudskill": {
-    "title_clean": "云技",
-    "summary": "信息不足，无法确定核心要点",
+    "title_clean": "Cloudskill：AI驱动的云服务技能评估工具",
+    "summary": "Cloudskill是一款AI工具，用于评估和提升用户在云服务领域的技能水平，可能通过测试、学习路径推荐等方式帮助专业人士掌握云计算技能。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "垂直领域AI工具，参考价值有限",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/pixelforge-put-anyone-into-your-game": {
+    "title_clean": "PixelForge",
+    "summary": "PixelForge相关信息不足，无法确定其具体功能或价值。需要更多信息才能评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "news",
     "channels": null,
-    "reason": "标题过于简短，信息不足"
+    "reason": "信息不足无法判断价值",
+    "v": 3
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments": {
+    "title_clean": "元宝AI社区投资：支持弗吉尼亚州就业与能源可负担性",
+    "summary": "元宝在弗吉尼亚州投资社区项目，帮助培养下一代劳动力并投资能源项目，旨在创造本地就业机会并提高能源可负担性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "reason": "社区投资与能源项目关联度低",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/bugpilot-browser-bugs-to-ai-markdown": {
+    "title_clean": "Bugpilot",
+    "summary": "Bugpilot是一个讨论平台，但具体功能和产品信息不足，无法确定其与元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/easybilling": {
+    "title_clean": "Easybilling",
+    "summary": "Easybilling是一个产品发布页面，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其与元宝产品的相关性。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://news.microsoft.com/signal/articles/why-dont-cancer-medicines-work-the-same-for-everyone-ex-vivo": {
+    "title_clean": "癌症药物为何对每个人效果不同",
+    "summary": "探讨癌症药物个体化差异的原因，分析影响药物疗效的因素，为AI医疗助手提供个性化用药建议的参考方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "医疗AI个性化服务场景参考价值有限",
+    "v": 3
+  },
+  "https://openai.com/index/notion": {
+    "title_clean": "Notion如何利用Codex实现AI语音输入和工程能力提升",
+    "summary": "Notion使用Codex技术实现一次性规格说明、构建网页AI语音输入功能，并提升小型团队的工程效率，展示了AI工具在提升团队协作和开发效率方面的应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "reason": "AI工具提升团队协作效率的实践案例",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/proxee": {
+    "title_clean": "Proxee",
+    "summary": "Proxee是一个产品，但描述信息不足，无法确定其具体功能和价值。产品经理需要更多信息来评估其与元宝产品的相关性。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://huggingface.co/blog/mishig/spaces-agents-md": {
+    "title_clean": "AI Agent 通过串联两个 Hugging Face 空间构建 3D 巴黎画廊",
+    "summary": "该展示了一个AI Agent如何通过组合两个不同的Hugging Face空间工具，成功创建了一个3D巴黎画廊。这展示了AI Agent的跨工具协作能力和复杂任务执行潜力，对元宝产品经理在Agent功能设计和多工具集成方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态"
+    ],
+    "reason": "展示AI Agent跨工具协作能力",
+    "v": 3
+  },
+  "https://openai.com/index/industrial-policy-for-the-intelligence-age": {
+    "title_clean": "智能时代的产业政策：以人为本的AI发展框架",
+    "summary": "提出AI时代以人为本的产业政策理念，聚焦扩大机会、共享繁荣和构建适应先进智能演进的弹性制度，为AI治理提供政策思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "reason": "政策框架间接影响AI产品发展方向",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s/Ex6a9cURTUwyjelKxuLpLg": {
+    "title_clean": "Kimi 将公开预测 104 场世界杯赛事：德国队或爆冷夺冠",
+    "summary": "Kimi 将公开预测 104 场世界杯赛事结果，包括德国队可能爆冷夺冠的预测。这展示了AI在体育赛事预测场景的应用，对元宝产品经理了解AI在特定领域的预测能力和用户兴趣点有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "AI在体育预测场景的应用",
+    "v": 3
+  },
+  "https://news.crunchbase.com/startups/tech-layoffs": {
+    "title_clean": "Crunchbase 科技公司裁员追踪器",
+    "summary": "Crunchbase 统计显示，2025年美国科技公司大规模裁员导致超过12.7万名员工失业，裁员潮持续至2026年。该追踪器可查看最新裁员公司情况，为产品经理提供行业就业市场变化参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "reason": "行业就业变化间接影响产品方向",
+    "v": 3
   }
 }

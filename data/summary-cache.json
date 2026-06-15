@@ -3017,5 +3017,260 @@
     ],
     "reason": "与AI助手关联度低，参考价值有限",
     "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/rieder-says-no-forward-guidance-is-a-good-thing-video": {
+    "title_clean": "BlackRock高管：美联储取消前瞻指引对市场有利",
+    "summary": "BlackRock全球固定收益首席投资官Rick Rieder表示，如果美联储新主席Kevin Warsh取消前瞻指引政策，将对市场产生积极影响。他讨论了Warsh可能做出的其他政策变化及其市场影响。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "reason": "金融政策变化，与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/china-s-ai-markets-still-a-source-of-funds-says-citi-video": {
+    "title_clean": "花旗报告：中国AI市场仍是资金来源",
+    "summary": "花旗银行亚太互联网研究主管分析全球AI采用背景下中国科技市场现状，指出尽管企业活动频繁，但花旗警告中国AI市场在全球范围内仍主要扮演资金提供者角色。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "资金流向分析，缺乏具体产品洞察",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/why-was-anthropic-s-mythos-ai-blocked-security-risks-and-capabilities-explained": {
+    "title_clean": "Anthropic的Mythos AI：因安全风险被禁用的软件漏洞检测工具",
+    "summary": "Anthropic新推出的AI工具Mythos擅长发现软件和系统漏洞，但因能力过强被禁止向公众发布。这反映了AI安全工具的发展与风险管控的挑战，对AI产品经理在安全边界设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "reason": "AI安全工具发展与风险管控案例",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/spacex-capable-of-orbital-data-centers-former-meta-cto-video": {
+    "title_clean": "SpaceX具备建设轨道数据中心能力，前Meta CTO称其是唯一能做到的公司",
+    "summary": "前Meta CTO Mike Schroepfer表示，SpaceX是唯一有能力建设轨道数据中心的公司，这反映了太空计算领域的最新进展，对元宝产品经理了解AI基础设施前沿布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "reason": "太空计算前沿，但与元宝业务关联度低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/spacex-stocks-still-volatile-says-jpmorgan-strategist-video": {
+    "title_clean": "摩根大通策略师称SpaceX股票仍将波动",
+    "summary": "摩根大通资产管理全球市场策略师Stephanie Aliaga预测SpaceX未来六个月股票将继续波动，同时提到一些知名AI公司可能有重大表现。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "与AI产品关联度低，商业价值有限",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/the-race-to-build-data-centers-in-space-video": {
+    "title_clean": "太空数据中心竞赛：科技巨头与初创企业竞逐轨道AI新前沿",
+    "summary": "随着SpaceX上市预示太空热潮，科技巨头和初创企业正竞相开发轨道人工智能，将数据中心部署到太空，这可能成为AI服务的下一个重要发展方向，为元宝产品经理提供未来AI基础设施布局的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "太空AI基础设施布局，影响长期服务场景",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/bloomberg-tech-video": {
+    "title_clean": "Bloomberg Tech：全球科技新闻与分析节目",
+    "summary": "Bloomberg Tech是每日直播的科技节目，专注于突发新闻、市场影响报道及全球科技公司分析，为产品经理提供行业动态和趋势洞察。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "reason": "泛科技资讯，缺乏AI产品直接关联",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/polymarket-traders-clash-over-345-million-iran-peace-market": {
+    "title_clean": "Polymarket交易员就3.45亿美元伊朗和平市场展开激烈博弈",
+    "summary": "美国与伊朗结束敌对关系的提议给股市和债券交易员带来缓解，但也给预测市场Polymarket带来新挑战，交易员围绕价值3.45亿美元的伊朗和平市场展开激烈博弈。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "预测市场商业价值有限",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/jpmorgan-traders-turn-bullish-on-us-stocks-citing-peace-deal": {
+    "title_clean": "摩根大通交易员因中东和平协议前景转为看涨美股",
+    "summary": "摩根大通交易部门因中东和平协议即将达成而转为看涨美股，显示地缘政治因素对金融市场的影响，为AI金融助手提供市场情绪分析参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "金融场景参考价值有限",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms": {
+    "title_clean": "Meta推出Facebook'AI模式'整合跨平台公开信息",
+    "summary": "Meta宣布在Facebook上推出一系列新AI功能，整合跨平台公开信息，旨在提升AI竞争力并增强用户粘性，这对元宝产品经理了解大型科技公司的AI服务整合策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "reason": "竞品AI功能整合策略，服务场景扩展",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/salesforce-to-buy-ai-customer-service-firm-fin-video": {
+    "title_clean": "Salesforce收购AI客服公司Fin，强化企业AI业务",
+    "summary": "Salesforce以36亿美元收购AI客服公司Fin，后者开发人工智能驱动的客户代理系统。此次收购旨在加强Salesforce在企业AI领域的竞争力，为其客户提供更智能的客户服务解决方案。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "reason": "巨头收购AI客服公司，反映企业级AI Agent市场价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/fox-will-buy-roku-in-deal-worth-about-22-billion-video": {
+    "title_clean": "福克斯拟以约220亿美元收购Roku，强化流媒体入口地位",
+    "summary": "福克斯计划以约220亿美元收购Roku，此举将使福克斯获得更多流媒体入口，成为全球第三大流媒体平台。对产品经理而言，这反映了传统媒体巨头对流媒体渠道的战略重视，可能影响AI助手在内容分发和流媒体服务领域的竞争格局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "reason": "流媒体渠道整合影响AI服务场景",
+    "v": 3
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026": {
+    "title_clean": "Google宣布在阿拉巴马州杰克逊县扩大数据中心投资",
+    "summary": "Google宣布将在2026和2027年投资15亿美元扩大阿拉巴马州杰克逊县的数据中心园区，该园区自2019年起运营。这一投资反映了Google在基础设施扩张方面的持续投入，对元宝产品经理了解科技巨头的区域布局和资源分配有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "基础设施投资，与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/adani-jabil-alliance-to-build-ai-data-center-gear-in-india": {
+    "title_clean": "Adani与Jabil合作在印度制造AI数据中心设备",
+    "summary": "印度首富Gautam Adani集团与美国工程公司Jabil达成合作，将在印度本土生产AI数据中心设备，以把握印度人工智能市场发展机遇。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "基础设施合作，对元宝产品直接影响有限",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/nvidia-kicks-off-first-high-grade-bond-offering-since-2021": {
+    "title_clean": "Nvidia发行200亿美元债券加入AI债务热潮",
+    "summary": "芯片巨头Nvidia计划发行至少200亿美元债券，加入AI投资热潮中的企业借贷行列，用于支持人工智能领域的投资。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "融资信息与AI行业相关但缺乏产品细节",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models": {
+    "title_clean": "网络安全专家抗议美国政府对Anthropic最强大模型的出口禁令",
+    "summary": "数十名网络安全专家致信白宫，要求取消对Anthropic的Fable和Mythos模型的出口控制限制，认为这一禁令将限制美国AI企业的竞争力，并可能促使客户转向不受限制的外国模型。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "影响美国AI企业竞争力和用户选择",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/can-spacex-s-ipo-provide-liftoff-for-the-space-industry-video": {
+    "title_clean": "SpaceX IPO能否为整个航天产业带来新机遇？",
+    "summary": "Rocket Lab CEO Peter Beck表示，SpaceX创纪录的IPO为整个航天产业带来了积极关注，并讨论了行业内资本竞争情况。这对元宝产品经理了解科技巨头IPO对相关行业的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "与AI产品关联度低，仅为行业资本动态",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/fox-to-buy-roku-at-22-billion-value-in-streaming-video-push": {
+    "title_clean": "Fox以220亿美元收购Roku，强化流媒体广告业务",
+    "summary": "Fox公司同意以约220亿美元(含债务)收购Roku，这将创造一个新的电视巨头，并标志着公司在广告支持流媒体领域的重要扩张。这一收购将整合Fox的内容资源与Roku的流媒体平台，可能改变流媒体广告格局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "流媒体广告市场格局变化，影响AI服务商业化路径",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/patsnap-said-to-confidentially-file-for-hk-singapore-dual-ipo": {
+    "title_clean": "知识产权数据提供商Patsnap拟在港新两地秘密上市",
+    "summary": "知识产权数据提供商Patsnap已秘密申请在香港和新加坡两地上市，打破了东南亚科技股长期低迷的局面。这一动向对元宝产品经理了解知识产权数据服务市场动态及科技企业上市趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "知识产权数据服务市场动态",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/us-iran-deal-to-spark-lagging-parts-of-markets-dawson-video": {
+    "title_clean": "美国与伊朗协议可能提振市场低迷部分",
+    "summary": "NewEdge Wealth首席投资官Cameron Dawson分析美国与伊朗协议可能对股市各领域带来的潜在提振，特别是那些表现低迷的市场部分。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "政治经济影响，与AI产品关联度低",
+    "v": 3
   }
 }

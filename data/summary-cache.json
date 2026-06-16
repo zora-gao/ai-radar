@@ -98,7 +98,7 @@
   },
   "https://www.producthunt.com/products/underpay": {
     "title_clean": "Meet Warren 3.0",
-    "summary": "Meet Warren 3.0是一款AI助手产品，具体功能与更新内容未在描述中明确提及，无法判断其对元宝产品经理的参考价值。",
+    "summary": "Meet Warren 3.0是一款AI助手产品，但描述信息不足，无法确定其具体功能和更新内容。缺乏足够信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -385,12 +385,13 @@
   },
   "https://www.producthunt.com/products/taste-lab": {
     "title_clean": "Taste Lab",
-    "summary": "Taste Lab是一个AI美食推荐工具，但描述信息不足，无法确认其具体功能和产品形态。产品经理可关注其是否提供个性化美食推荐、口味匹配或餐饮服务整合等AI应用场景。",
+    "summary": "Taste Lab是一个AI美食推荐工具，但描述信息不足，无法确认其具体功能与价值。产品经理需进一步了解其AI推荐机制、应用场景及市场定位，以评估是否与元宝的美食服务场景相关。",
     "score": 30,
     "priority": "P3",
     "type": "product",
     "channels": [
-      "服务场景"
+      "服务场景",
+      "AI助手"
     ],
     "v": 3
   },
@@ -789,8 +790,8 @@
     "v": 3
   },
   "https://www.producthunt.com/products/clutch-alarm": {
-    "title_clean": "Clutch Alarm",
-    "summary": "Clutch Alarm是一个产品发布讨论，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
+    "title_clean": "Clutch Alarm：讨论链接",
+    "summary": "Clutch Alarm的描述信息不足，仅包含讨论链接，无法确定其具体功能或价值。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -810,10 +811,10 @@
   },
   "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes": {
     "title_clean": "Tide",
-    "summary": "Tide相关信息不足，无法确定其具体功能或价值。仅知为名为Tide的产品，但缺乏描述信息，无法判断其对元宝产品经理的参考价值。",
-    "score": 20,
+    "summary": "Tide相关信息不足，无法确定其具体产品功能或价值。建议获取更多详细信息后再评估其对元宝产品经理的参考价值。",
+    "score": 30,
     "priority": "P3",
-    "type": "product",
+    "type": "news",
     "channels": null,
     "v": 3
   },
@@ -1006,14 +1007,11 @@
   },
   "https://www.producthunt.com/products/permute": {
     "title_clean": "Permute 4.0",
-    "summary": "Perplexity发布了Permute 4.0版本，这是一款AI搜索产品。该版本更新了界面设计和功能，但具体改进内容未在描述中详细说明。作为AI搜索领域的竞品，其更新值得元宝产品经理关注，但信息不足无法评估具体价值。",
-    "score": 45,
+    "summary": "Permute 4.0发布，但描述信息不足，无法确定其具体功能或与AI产品的关联性。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
+    "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": [
-      "AI搜索",
-      "竞品动态"
-    ],
+    "channels": null,
     "v": 3
   },
   "https://www.producthunt.com/products/mute-3": {
@@ -1144,7 +1142,7 @@
   },
   "https://www.producthunt.com/products/ownclip": {
     "title_clean": "OwnClip",
-    "summary": "OwnClip是一个产品发布信息，但描述内容不足，无法确定其具体功能或价值。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
+    "summary": "OwnClip是一款产品，但描述信息不足，无法确定其具体功能和用途。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1729,7 +1727,7 @@
   },
   "https://www.producthunt.com/products/easybilling": {
     "title_clean": "Easybilling",
-    "summary": "Easybilling是一款产品，但描述信息不足，无法确定其具体功能或价值。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
+    "summary": "Easybilling是一个产品发布信息，但描述内容不足，无法确定其具体功能或价值。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1989,7 +1987,7 @@
   },
   "https://www.producthunt.com/products/vexi": {
     "title_clean": "VEXI",
-    "summary": "VEXI是一个新产品，但描述信息不足，无法确定其具体功能或与AI助手/Agent的相关性。需要更多信息评估其对元宝产品经理的参考价值。",
+    "summary": "VEXI是一个产品，但描述信息不足，无法确定其具体功能和用途。产品经理需要更多信息来评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2070,9 +2068,7 @@
     "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": [
-      "AI助手"
-    ],
+    "channels": null,
     "v": 3
   },
   "https://www.producthunt.com/products/novu": {
@@ -2171,7 +2167,7 @@
   },
   "https://www.producthunt.com/products/mockpilot": {
     "title_clean": "MockPilot",
-    "summary": "MockPilot是一个产品发布讨论页面，但描述信息不足，无法确定其具体功能或与AI助手/Agent的关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
+    "summary": "MockPilot是一款AI工具，但具体功能和服务内容在提供的描述中信息不足，无法确定其具体应用场景和价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2203,20 +2199,22 @@
   },
   "https://www.producthunt.com/products/slimsnap": {
     "title_clean": "SlimSnap",
-    "summary": "SlimSnap 是一款新产品，但描述信息不足，无法确定其具体功能和用途。产品经理需要更多信息来判断其与元宝产品的相关性。",
+    "summary": "SlimSnap 是一个讨论链接，但描述信息不足，无法确定其具体功能或与AI产品的关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
-    "type": "product",
+    "type": "news",
     "channels": null,
     "v": 3
   },
   "https://www.producthunt.com/products/colibotai": {
     "title_clean": "ColibotAI",
-    "summary": "ColibotAI相关信息不足，仅有讨论链接，无法判断其具体功能、产品定位或与元宝产品的关联性。缺乏足够信息评估其对产品经理的参考价值。",
+    "summary": "ColibotAI是一个AI助手产品，但具体功能和特点在提供的描述信息中不明确，无法判断其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI助手"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/wobo-ai": {
@@ -2230,7 +2228,7 @@
   },
   "https://www.producthunt.com/products/notra-3": {
     "title_clean": "Notra Image Generation",
-    "summary": "Notra Image Generation是一个图像生成工具，但描述信息不足，无法确定其具体功能、技术特点或应用场景。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
+    "summary": "Notra Image Generation是一个图像生成工具，但描述信息不足，无法确定其具体功能、技术特点或与AI助手产品的关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2349,7 +2347,7 @@
   },
   "https://www.producthunt.com/products/memoriq": {
     "title_clean": "Memoriq",
-    "summary": "Memoriq是一个新产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
+    "summary": "Memoriq是一个新产品，但描述信息不足，无法确定其具体功能或与AI助手/Agent的相关性。需要更多信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2429,7 +2427,7 @@
   },
   "https://www.producthunt.com/products/asmi-ai": {
     "title_clean": "Asmi AI",
-    "summary": "Asmi AI 是一款AI助手产品，但具体功能和特点在提供的描述信息中不明确，无法判断其对元宝产品经理的参考价值。",
+    "summary": "Asmi AI 是一个AI产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2776,11 +2774,12 @@
   },
   "https://www.producthunt.com/products/pass-quick-access": {
     "title_clean": "Pass Quick Access",
-    "summary": "Pass Quick Access是一款密码管理工具，提供快速访问功能，帮助用户安全存储和管理各类密码信息。",
+    "summary": "Pass Quick Access 是一款密码管理工具，提供快速访问功能，帮助用户安全管理和快速获取密码信息。该工具可能针对密码管理场景提供便捷解决方案，对元宝产品经理在安全服务场景设计上有参考价值。",
     "score": 45,
     "priority": "P3",
     "type": "product",
     "channels": [
+      "服务场景",
       "用户需求"
     ],
     "v": 3
@@ -3411,12 +3410,16 @@
     "v": 3
   },
   "https://www.producthunt.com/products/botme-io": {
-    "title_clean": "Botme",
-    "summary": "Botme是一个产品发布站上的新工具，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
-    "score": 30,
-    "priority": "P3",
+    "title_clean": "Botme：5分钟内部署的AI客户支持助手",
+    "summary": "Botme是一款可在5分钟内部署到网站的AI客户支持代理工具，帮助企业快速实现网站实时客服功能，提升用户服务体验。",
+    "score": 75,
+    "priority": "P1",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/amaroad": {
@@ -3429,12 +3432,15 @@
     "v": 3
   },
   "https://www.producthunt.com/products/agentbrowse": {
-    "title_clean": "agentbrowse",
-    "summary": "agentbrowse是一个讨论平台，提供相关链接分享功能，但具体产品内容和功能描述不足，无法确定其与AI助手或Agent产品的直接关联性。",
-    "score": 30,
-    "priority": "P3",
+    "title_clean": "AgentBrowse：为AI编程代理提供命令行式网页浏览能力",
+    "summary": "AgentBrowse是一个工具，赋予AI编程代理通过命令行方式浏览网页的能力，使AI能够直接与网页交互获取信息或执行操作，扩展了AI代理在编程任务中的信息获取和处理边界。",
+    "score": 75,
+    "priority": "P1",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/agirails": {
@@ -3594,12 +3600,16 @@
     "v": 3
   },
   "https://www.producthunt.com/products/revi-2": {
-    "title_clean": "Revi",
-    "summary": "Revi是一个讨论平台，但具体功能和用途信息不足，无法判断其对元宝产品经理的参考价值。",
-    "score": 30,
-    "priority": "P3",
+    "title_clean": "Revi：本地语音输入工具",
+    "summary": "Revi是一款本地语音输入工具，无需云端连接或账户注册即可使用。该产品专注于设备端语音识别，为注重隐私的用户提供离线语音输入解决方案，对元宝产品经理在隐私保护和本地化功能方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/grnlght": {
@@ -3959,6 +3969,94 @@
     "channels": [
       "多模态",
       "竞品动态"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/pawly-extension": {
+    "title_clean": "Pawly Extension：浏览器虚拟宠物扩展",
+    "summary": "Pawly Extension是一款浏览器扩展，在用户浏览器中创建虚拟宠物陪伴体验。这类产品为AI助手增加情感化交互提供了新思路，可探索如何将虚拟宠物元素融入AI助手产品，增强用户粘性与情感连接。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/shelly-3": {
+    "title_clean": "Shelly：在Android设备上原生运行OpenAI Codex CLI的工具",
+    "summary": "Shelly是一款允许用户在Android设备上直接运行OpenAI Codex命令行界面的工具，将AI代码生成能力引入移动端，为移动开发者提供便捷的AI辅助编程体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/glint-9": {
+    "title_clean": "Glint：Claude 代码活动实时监控工具",
+    "summary": "Glint 是一款工具，提供 Claude 代码活动的实时监控功能，让开发者能够直接在需要的位置查看代码活动情况，有助于提升开发效率和代码质量。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/tychi-ai": {
+    "title_clean": "Tychi AI：自主资本经济层",
+    "summary": "Tychi AI构建了一个自主资本的经济层，可能涉及AI资产管理或自动化投资系统，为产品经理提供了AI在金融资本管理领域的新应用场景参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/detectly-2": {
+    "title_clean": "Detectly：基于车载摄像头视频的驾驶员安全评分系统",
+    "summary": "Detectly是一款将车队摄像头视频转化为驾驶员安全评分的工具，通过分析驾驶行为数据帮助车队管理者评估和提升驾驶员安全水平，对元宝在AI服务场景拓展和商业化方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools": {
+    "title_clean": "DevCleaner：开发工具和AI应用的磁盘空间清理工具",
+    "summary": "DevCleaner是一款帮助开发者释放开发工具和AI应用占用磁盘空间的产品，可清理冗余文件和缓存，解决AI应用日益增长的数据存储需求问题，对元宝产品经理了解AI工具资源管理需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/promptessor": {
+    "title_clean": "PrompTessor：AI提示词生成、优化与库管理工具",
+    "summary": "PrompTessor是一款AI提示词生成、优化与管理工具，帮助用户创建和优化高质量提示词，可能提升AI交互效率和效果。对产品经理有参考价值，特别是在提示词工程和AI助手交互优化方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "AI Agent"
     ],
     "v": 3
   }

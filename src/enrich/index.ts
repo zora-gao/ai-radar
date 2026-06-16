@@ -12,9 +12,11 @@ const DEFAULT_CONCURRENCY = 5;
 /**
  * enrich 逻辑版本号。提升后，低于该版本的旧缓存条目会被逐步（受 maxNew 预算限制）
  * 重新生成，使其享受新逻辑（如 v2：结合描述生成有意义的标题/摘要；
- * v3：摘要升级为 2~3 句、60~120 字、说清主要内容）。
+ * v3：摘要升级为 2~3 句、60~120 字、说清主要内容；
+ * v4：product 标题强制「英文产品名：中文功能简述」格式、禁止音译、摘要必填，
+ * 并清洗 "Discussion | Link" 等无效描述）。
  */
-const ENRICH_VERSION = 3;
+const ENRICH_VERSION = 4;
 
 /** 缓存条目是否已包含 AI Radar 评分（用于判断旧缓存是否需要补评） */
 function hasRadarScore(entry: SummaryEntry | undefined): boolean {
@@ -28,17 +30,36 @@ function isCurrentVersion(entry: SummaryEntry | undefined): boolean {
 
 /** 中日韩统一表意文字（用于判断产品标题是否已含中文功能描述） */
 const CJK_RE = /[\u4e00-\u9fff]/;
+/** 标题「英文名：功能简述」的分隔符（中文全角/英文半角冒号、破折号） */
+const TITLE_SEP_RE = /[:：\-—]/;
 
 /**
- * 产品类条目是否需要重新生成标题。
- * 命中条件：缺 title_clean，或 title_clean 仍是光秃的英文产品名（不含中文）。
- * 这类条目即便已评分，也应重生成，使标题满足「产品名称 + 功能简短描述」的展示要求
- * （配合升级后的 description 提取，GLM 可据真实 tagline 补全功能描述）。
+ * 产品类条目是否需要重新生成。命中任一即重生成，使其满足
+ * 「英文产品名：中文功能简述」标题 + 必有摘要 的展示要求：
+ *  - 缺 title_clean；
+ *  - title_clean 不含中文（光秃英文名）；
+ *  - title_clean 不含分隔符（只有产品名，无功能简述，如音译「奥博蒂克」）；
+ *  - summary 为空或过短（无简要介绍）。
  */
 function needsBetterProductTitle(entry: SummaryEntry | undefined): boolean {
   if (!entry || entry.type !== 'product') return false;
   const t = (entry.title_clean || '').trim();
-  return !t || !CJK_RE.test(t);
+  const summary = (entry.summary || '').trim();
+  if (!t || !CJK_RE.test(t)) return true;
+  if (!TITLE_SEP_RE.test(t)) return true;
+  if (summary.length < 10) return true;
+  return false;
+}
+
+/**
+ * 清洗送入 GLM 的描述：Product Hunt 等源的劣质描述常只剩 "Discussion | Link"
+ * 页脚，对生成毫无帮助。这类无效描述置空，促使模型走「据产品名推断品类」路径，
+ * 而非被垃圾信息带偏。
+ */
+function sanitizeDescription(desc: string): string {
+  const d = (desc || '').replace(/\s+/g, ' ').trim();
+  if (/^(discussion|link)(\s*\|\s*(discussion|link))*$/i.test(d)) return '';
+  return desc;
 }
 
 /**
@@ -64,8 +85,11 @@ export async function addSummaries(
   const apiKey = process.env.GLM_API_KEY?.trim() || '';
 
   // 收集需要新生成/补评的候选（按 itemsAi 顺序，URL 去重）
-  // 命中条件：缓存缺失，或旧缓存仅有摘要但缺 radar 评分，或旧缓存为过期版本（需用新逻辑重生成）
-  const candidates: Array<{ url: string; title: string; description: string }> = [];
+  // 命中条件：缓存缺失，或旧缓存仅有摘要但缺 radar 评分，或旧缓存为过期版本（需用新逻辑重生成）。
+  // 优先级：把「product 标题/摘要不达标」的条目排到队首，确保在 maxNew 预算内优先修复，
+  // 避免被大量「仅版本升级」的常规重生成挤出预算。
+  const priority: Array<{ url: string; title: string; description: string }> = [];
+  const normal: Array<{ url: string; title: string; description: string }> = [];
   const seen = new Set<string>();
 
   for (const it of itemsAi) {
@@ -73,21 +97,24 @@ export async function addSummaries(
     if (!url || seen.has(url)) continue;
 
     const cached = cache.get(url);
-    if (
-      cached &&
-      hasRadarScore(cached) &&
-      isCurrentVersion(cached) &&
-      !needsBetterProductTitle(cached)
-    )
-      continue;
+    const needsTitle = needsBetterProductTitle(cached);
+    if (cached && hasRadarScore(cached) && isCurrentVersion(cached) && !needsTitle) continue;
 
     // 改写标题需要原始英文标题与描述作上下文，避免把光秃秃的产品名直译
     const title = (it.title || it.title_en || it.title_zh || '').trim();
     if (!title) continue;
 
     seen.add(url);
-    candidates.push({ url, title, description: (it.description || '').trim() });
+    const candidate = {
+      url,
+      title,
+      description: sanitizeDescription((it.description || '').trim()),
+    };
+    if (needsTitle) priority.push(candidate);
+    else normal.push(candidate);
   }
+
+  const candidates = [...priority, ...normal];
 
   let generated = 0;
   const todo = apiKey ? candidates.slice(0, Math.max(0, maxNew)) : [];

@@ -23,7 +23,7 @@
   },
   "https://www.producthunt.com/products/slashy-3": {
     "title_clean": "Slashy",
-    "summary": "Slashy是一个讨论平台，用户可以在其中分享链接并进行讨论，但具体功能和产品定位信息不足，难以评估其对元宝产品经理的参考价值。",
+    "summary": "Slashy是一个产品发布平台，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其对元宝的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -87,11 +87,13 @@
   },
   "https://www.producthunt.com/products/medicyn": {
     "title_clean": "Medicyn",
-    "summary": "Medicyn 是一个医疗健康相关的产品，但具体功能和用途在提供的描述中信息不足，无法确定其对元宝产品经理的参考价值。",
+    "summary": "Medicyn是一个医疗相关产品，但具体功能和细节在提供的描述中信息不足，无法确定其具体用途和价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "服务场景"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/underpay": {
@@ -383,7 +385,7 @@
   },
   "https://www.producthunt.com/products/taste-lab": {
     "title_clean": "Taste Lab",
-    "summary": "Taste Lab是一个AI美食推荐工具，但描述信息不足，无法确认其具体功能与价值。产品经理需进一步了解其AI推荐机制、服务场景及与元宝的潜在关联。",
+    "summary": "Taste Lab是一个AI美食推荐工具，但描述信息不足，无法确认其具体功能和产品形态。产品经理可关注其是否提供个性化美食推荐、口味匹配或餐饮服务整合等AI应用场景。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -788,7 +790,7 @@
   },
   "https://www.producthunt.com/products/clutch-alarm": {
     "title_clean": "Clutch Alarm",
-    "summary": "Clutch Alarm相关信息不足，仅有讨论链接，无法判断其具体功能或与AI助手/Agent的关联性。",
+    "summary": "Clutch Alarm是一个产品发布讨论，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -808,8 +810,8 @@
   },
   "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes": {
     "title_clean": "Tide",
-    "summary": "Tide是一个产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
-    "score": 30,
+    "summary": "Tide相关信息不足，无法确定其具体功能或价值。仅知为名为Tide的产品，但缺乏描述信息，无法判断其对元宝产品经理的参考价值。",
+    "score": 20,
     "priority": "P3",
     "type": "product",
     "channels": null,
@@ -1004,11 +1006,14 @@
   },
   "https://www.producthunt.com/products/permute": {
     "title_clean": "Permute 4.0",
-    "summary": "Permute 4.0是一款文件格式转换工具，但描述信息不足，无法确定其具体功能更新或与AI产品的关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
-    "score": 30,
+    "summary": "Perplexity发布了Permute 4.0版本，这是一款AI搜索产品。该版本更新了界面设计和功能，但具体改进内容未在描述中详细说明。作为AI搜索领域的竞品，其更新值得元宝产品经理关注，但信息不足无法评估具体价值。",
+    "score": 45,
     "priority": "P3",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI搜索",
+      "竞品动态"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/mute-3": {
@@ -1139,7 +1144,7 @@
   },
   "https://www.producthunt.com/products/ownclip": {
     "title_clean": "OwnClip",
-    "summary": "OwnClip是一个产品发布信息，但描述内容不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
+    "summary": "OwnClip是一个产品发布信息，但描述内容不足，无法确定其具体功能或价值。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1168,12 +1173,14 @@
     "v": 3
   },
   "https://www.producthunt.com/products/tabstack": {
-    "title_clean": "Tabstack Structured Extraction",
-    "summary": "Tabstack Structured Extraction 是一款结构化数据提取工具，但具体功能和用途在提供的描述信息中不明确，无法确定其对元宝产品经理的参考价值。",
-    "score": 30,
+    "title_clean": "Tabstack Structured Extraction：结构化数据提取工具",
+    "summary": "Tabstack Structured Extraction 是一款结构化数据提取工具，但描述信息不足，无法确定其具体功能和应用场景。产品经理可能需要进一步了解其与AI助手或数据处理的关联性。",
+    "score": 35,
     "priority": "P3",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI助手"
+    ],
     "v": 3
   },
   "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india": {
@@ -1563,10 +1570,10 @@
   },
   "https://www.producthunt.com/products/cakewordai-snap-learn": {
     "title_clean": "CakewordAI",
-    "summary": "CakewordAI是一个AI产品，但具体功能和用途在提供的描述中信息不足，无法确定其与元宝产品经理的参考价值。",
-    "score": 30,
+    "summary": "CakewordAI相关信息不足，仅有讨论链接，无法确定其具体功能或价值。元宝产品经理需更多信息评估其参考价值。",
+    "score": 20,
     "priority": "P3",
-    "type": "product",
+    "type": "news",
     "channels": null,
     "v": 3
   },
@@ -1756,10 +1763,10 @@
   },
   "https://www.producthunt.com/products/proxee": {
     "title_clean": "Proxee",
-    "summary": "Proxee是一个产品，但描述信息不足，无法确定其具体功能或价值。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
-    "score": 30,
+    "summary": "Proxee是一个讨论平台，但具体功能和用途信息不足，无法确定其与AI助手或服务场景的关联性，对产品经理的参考价值有限。",
+    "score": 25,
     "priority": "P3",
-    "type": "product",
+    "type": "news",
     "channels": null,
     "v": 3
   },
@@ -2059,11 +2066,13 @@
   },
   "https://www.producthunt.com/products/locin-ai": {
     "title_clean": "LocIn AI",
-    "summary": "LocIn AI 是一款AI产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来评估其对元宝产品的参考价值。",
+    "summary": "LocIn AI 是一款AI产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
     "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI助手"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/novu": {
@@ -2162,7 +2171,7 @@
   },
   "https://www.producthunt.com/products/mockpilot": {
     "title_clean": "MockPilot",
-    "summary": "MockPilot是一个产品发布平台，但描述信息不足，无法确定其具体功能和与AI助手或Agent的相关性。",
+    "summary": "MockPilot是一个产品发布讨论页面，但描述信息不足，无法确定其具体功能或与AI助手/Agent的关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2171,11 +2180,13 @@
   },
   "https://www.producthunt.com/products/airbrush-studio": {
     "title_clean": "Airbrush Studio",
-    "summary": "Airbrush Studio相关信息不足，无法确定其具体功能或价值。需要更多信息才能评估其对元宝产品经理的参考价值。",
+    "summary": "Airbrush Studio是一款AI绘画工具，但描述信息不足，无法确定其具体功能特点。产品经理可关注此类AI生成工具的交互设计与应用场景，但当前信息不足以评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "多模态"
+    ],
     "v": 3
   },
   "https://openai.com/index/openai-on-oracle-cloud": {
@@ -2192,7 +2203,7 @@
   },
   "https://www.producthunt.com/products/slimsnap": {
     "title_clean": "SlimSnap",
-    "summary": "SlimSnap是一款产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
+    "summary": "SlimSnap 是一款新产品，但描述信息不足，无法确定其具体功能和用途。产品经理需要更多信息来判断其与元宝产品的相关性。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2201,13 +2212,11 @@
   },
   "https://www.producthunt.com/products/colibotai": {
     "title_clean": "ColibotAI",
-    "summary": "ColibotAI是一个AI助手产品，但具体功能和特点在提供的描述信息中不明确，无法判断其对元宝产品经理的参考价值。",
+    "summary": "ColibotAI相关信息不足，仅有讨论链接，无法判断其具体功能、产品定位或与元宝产品的关联性。缺乏足够信息评估其对产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": [
-      "AI助手"
-    ],
+    "channels": null,
     "v": 3
   },
   "https://www.producthunt.com/products/wobo-ai": {
@@ -2221,7 +2230,7 @@
   },
   "https://www.producthunt.com/products/notra-3": {
     "title_clean": "Notra Image Generation",
-    "summary": "Notra Image Generation是一个图像生成工具，但描述信息不足，无法确定其具体功能、技术特点或与AI助手产品的关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
+    "summary": "Notra Image Generation是一个图像生成工具，但描述信息不足，无法确定其具体功能、技术特点或应用场景。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2288,10 +2297,10 @@
   },
   "https://www.producthunt.com/products/mimo-3": {
     "title_clean": "MiMo Code",
-    "summary": "MiMo Code是一个代码讨论平台，但具体功能和用途信息不足，无法判断其对元宝产品经理的参考价值。",
+    "summary": "MiMo Code 是一个讨论平台，但具体功能和用途信息不足，无法判断其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
-    "type": "product",
+    "type": "news",
     "channels": null,
     "v": 3
   },
@@ -2340,7 +2349,7 @@
   },
   "https://www.producthunt.com/products/memoriq": {
     "title_clean": "Memoriq",
-    "summary": "Memoriq是一个新产品，但描述信息不足，无法确定其具体功能或与AI助手/Agent的相关性。需要更多信息评估其对元宝产品经理的参考价值。",
+    "summary": "Memoriq是一个新产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2420,11 +2429,13 @@
   },
   "https://www.producthunt.com/products/asmi-ai": {
     "title_clean": "Asmi AI",
-    "summary": "Asmi AI 是一款AI产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
+    "summary": "Asmi AI 是一款AI助手产品，但具体功能和特点在提供的描述信息中不明确，无法判断其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI助手"
+    ],
     "v": 3
   },
   "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure": {
@@ -3410,10 +3421,10 @@
   },
   "https://www.producthunt.com/products/amaroad": {
     "title_clean": "Amaroad",
-    "summary": "Amaroad是一个产品发布平台，但描述信息不足，无法确定其具体功能或与AI助手/Agent的相关性。产品经理需进一步了解该平台是否涉及AI聊天机器人、智能代理或相关服务场景。",
+    "summary": "Amaroad 是一个讨论平台，但具体功能和用途信息不足，无法判断其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
-    "type": "product",
+    "type": "news",
     "channels": null,
     "v": 3
   },
@@ -3524,12 +3535,15 @@
     "v": 3
   },
   "https://www.producthunt.com/products/github-224": {
-    "title_clean": "Ledgerly",
-    "summary": "Ledgerly是一个讨论平台，但描述信息不足，无法确定其具体功能或与AI助手/Agent的关联性。产品经理需要更多信息评估其参考价值。",
-    "score": 30,
+    "title_clean": "Ledgerly：iOS记账应用",
+    "summary": "Ledgerly是一款在App Store上可用的记账应用，为用户提供财务记录和管理功能。作为一款面向个人或小型企业的工具，它可能提供账目分类、报表生成等基础财务功能，对元宝产品经理了解垂直场景AI应用有一定参考价值。",
+    "score": 45,
     "priority": "P3",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/writulos": {
@@ -3568,12 +3582,15 @@
     "v": 3
   },
   "https://www.producthunt.com/products/tadka": {
-    "title_clean": "Tadka",
-    "summary": "Tadka是一款讨论平台，但具体功能和用途信息不足，无法确定其对元宝产品经理的参考价值。",
-    "score": 30,
-    "priority": "P3",
+    "title_clean": "Tadka：AI广告创意生成工具",
+    "summary": "Tadka是一款AI广告创意生成工具，可帮助用户无需设计团队即可快速产出10倍数量的广告创意。该工具对元宝产品经理在AI辅助内容生成和商业化场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/revi-2": {
@@ -3595,12 +3612,16 @@
     "v": 3
   },
   "https://www.producthunt.com/products/boxwood-chess": {
-    "title_clean": "Boxwood Chess",
-    "summary": "Boxwood Chess是一款国际象棋游戏，但描述信息不足，无法确定其具体功能或与AI的关联性。作为产品经理，需进一步了解其是否涉及AI技术或与元宝产品线相关。",
-    "score": 30,
-    "priority": "P3",
+    "title_clean": "Boxwood Chess：国际象棋棋型训练工具",
+    "summary": "Boxwood Chess是一款专注于国际象棋棋型训练的应用，不设计时器、连胜记录和评分系统，专注于提升用户的棋型识别能力。这款产品对元宝产品经理有参考价值，因为它展示了AI教育类工具如何通过去除游戏化元素，专注于核心技能训练来满足特定用户需求。",
+    "score": 55,
+    "priority": "P2",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/socialkit-2": {
@@ -3801,6 +3822,143 @@
       "AI助手",
       "服务场景",
       "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/yoamigo-studio": {
+    "title_clean": "YoAmigo Studio：基于现有AI构建真实应用的工具",
+    "summary": "YoAmigo Studio允许开发者利用用户已付费的AI服务构建实际可用的应用程序，简化AI应用开发流程，为元宝产品经理提供AI应用商业化与用户价值转化的参考思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/1000yen-eats": {
+    "title_clean": "1000Yen Eats：日本千元内美食发现服务",
+    "summary": "1000Yen Eats是一款专注于日本地区的餐饮服务应用，帮助用户在全国范围内找到价格在1000日元以内的真实餐饮选择。该服务对元宝产品经理有参考价值，特别是在本地化服务场景和价格敏感型用户需求方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/clientjam": {
+    "title_clean": "ClientJam：面向设计师和机构的AI潜在客户生成工具",
+    "summary": "ClientJam是一款专为设计师和机构开发的AI工具，能够帮助用户自动生成潜在客户线索。这款产品解决了创意行业获客痛点，对元宝产品经理了解AI在专业服务领域的应用场景和商业化模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/avocado-studio": {
+    "title_clean": "Avocado：面向Next.js网站的AI原生内容运营工具",
+    "summary": "Avocado是一款专为Next.js网站设计的AI原生内容运营工具，帮助网站实现智能化内容管理和优化。该工具可能提供内容生成、SEO优化、用户互动分析等功能，对元宝产品经理在AI内容服务场景和网站集成方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/chatwoot": {
+    "title_clean": "Chatwoot：整合通话、聊天和邮件的全渠道客服支持平台",
+    "summary": "Chatwoot在其客服平台中新增语音通话功能，将通话、聊天和邮件整合至同一支持收件箱，为客服团队提供统一的多渠道沟通解决方案，有助于提升客户服务效率和体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/picone-2": {
+    "title_clean": "PicOne：macOS 菜单栏图片上传工具",
+    "summary": "PicOne 是一款 macOS 菜单栏图片上传工具，支持多平台上传，采用沙盒安全技术。这款轻量级工具为元宝产品经理提供了 macOS 环境下图片上传功能的参考案例，特别是在菜单栏交互和安全性设计方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/publia": {
+    "title_clean": "Publia：AI内容生成与发布平台",
+    "summary": "Publia是一个AI内容生成与发布平台，专注于将AI创作的内容直接推向市场。该平台可能连接AI内容生成与实际发布流程，为内容创作者提供从创作到发布的全链路解决方案，对元宝在AI内容生成与分发场景的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/direct-email-to-quote-covari": {
+    "title_clean": "Covari：通过电子邮件转发制造RFQ无需门户网站",
+    "summary": "Covari是一款制造行业工具，允许用户通过电子邮件转发询价请求(RFQ)，无需使用门户网站。这简化了制造业的询价流程，可能对元宝在服务B端用户或处理复杂业务场景时提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/fantasma": {
+    "title_clean": "Fantasma：Ghost CMS 的落地页构建工具",
+    "summary": "Fantasma 是一款专门为 Ghost CMS 设计的落地页构建工具，帮助用户快速创建和定制网站着陆页。对于元宝产品经理而言，这展示了垂直领域 CMS 生态中的工具创新，可能启发我们在特定内容平台上的集成方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/getusefeed-voting-public-roadmap": {
+    "title_clean": "Getusefeed：小型SaaS团队功能投票与公开路线图工具",
+    "summary": "Getusefeed是一款专为小型SaaS团队设计的功能投票和公开路线图管理工具，帮助产品团队收集用户反馈并优先规划产品功能，对元宝产品经理了解用户需求收集和产品规划方法有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/how-hueman-are-you": {
+    "title_clean": "How Hueman Are You?：找出不同图块的视觉识别游戏",
+    "summary": "一款视觉识别游戏，玩家需要在时间结束前找出与众不同的图块。这类视觉识别能力训练对AI多模态交互和图像理解能力有参考价值，可作为元宝在视觉识别场景下的竞品分析素材。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "竞品动态"
     ],
     "v": 3
   }

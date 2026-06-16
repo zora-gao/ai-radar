@@ -93,7 +93,7 @@ const VENDOR_NAMES: Record<string, string> = {
   ai21: 'AI21',
   nousresearch: 'Nous Research',
   moonshotai: 'Moonshot AI',
-  'z-ai': 'Z.AI',
+  'z-ai': 'Zhipu AI',
   baidu: 'Baidu',
   bytedance: 'ByteDance',
   tencent: 'Tencent',

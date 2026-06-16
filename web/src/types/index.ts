@@ -14,6 +14,8 @@ export interface NewsItem {
   title_bilingual: string
   title_clean?: string | null
   summary?: string | null
+  // 条目在来源 feed 中的原始排序位（1 起）。Product Hunt 等榜单源用于还原平台排名，越小越靠前
+  feed_rank?: number | null
   // AI Radar 准入评审字段
   radar_score?: number | null
   radar_priority?: 'P0' | 'P1' | 'P2' | 'P3' | null

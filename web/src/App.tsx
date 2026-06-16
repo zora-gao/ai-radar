@@ -3,6 +3,7 @@ import { Header, type AppView } from './components/Header'
 import { StatsCards } from './components/StatsCards'
 import { FilterBar } from './components/FilterBar'
 import { NewsList } from './components/NewsList'
+import { ProductsPage } from './components/ProductsPage'
 import { SkillsPage } from './components/SkillsPage'
 import { ModelsPage } from './components/ModelsPage'
 import { SourceModal } from './components/SourceModal'
@@ -16,6 +17,7 @@ import { useFavorites } from './hooks/useFavorites'
 
 function getViewFromHash(): AppView {
   const h = window.location.hash.replace(/^#\/?/, '')
+  if (h === 'products') return 'products'
   if (h === 'skills') return 'skills'
   if (h === 'models') return 'models'
   return 'news'
@@ -35,6 +37,9 @@ function App() {
     loading,
     error,
     filteredItems,
+    productItems,
+    newsTotal,
+    newsSourceCount,
     siteStats,
     sourceStats,
     searchQuery,
@@ -60,7 +65,11 @@ function App() {
 
   const changeView = (next: AppView) => {
     setView(next)
-    window.location.hash = next === 'skills' ? '/skills' : next === 'models' ? '/models' : '/'
+    window.location.hash =
+      next === 'products' ? '/products'
+      : next === 'skills' ? '/skills'
+      : next === 'models' ? '/models'
+      : '/'
     window.scrollTo({ top: 0 })
   }
 
@@ -83,17 +92,28 @@ function App() {
         onViewChange={changeView}
       />
       
-      {isSwitching && view === 'news' && <SwitchingOverlay timeRange={timeRange} />}
+      {isSwitching && (view === 'news' || view === 'products') && <SwitchingOverlay timeRange={timeRange} />}
 
       {view === 'skills' ? (
         <SkillsPage active={view === 'skills'} onBackHome={() => changeView('news')} />
       ) : view === 'models' ? (
         <ModelsPage active={view === 'models'} onBackHome={() => changeView('news')} />
+      ) : view === 'products' ? (
+        <ProductsPage
+          items={productItems}
+          loading={loading}
+          error={error}
+          timeRange={timeRange}
+          visitedLinks={visitedLinks}
+          onVisit={markAsVisited}
+          isFavorite={isFavorite}
+          onToggleFavorite={toggleFavorite}
+        />
       ) : (
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
         <StatsCards
-          totalItems={data?.total_items || 0}
-          sourceCount={data?.source_count || 0}
+          totalItems={newsTotal}
+          sourceCount={newsSourceCount}
           windowHours={data?.window_hours || 24}
           siteStats={siteStats}
           onShowSources={() => setShowSourceModal(true)}
@@ -136,7 +156,7 @@ function App() {
         isOpen={showSourceModal}
         onClose={() => setShowSourceModal(false)}
         siteStats={siteStats}
-        sourceCount={data?.source_count || 0}
+        sourceCount={newsSourceCount}
         windowHours={data?.window_hours || 24}
       />
 

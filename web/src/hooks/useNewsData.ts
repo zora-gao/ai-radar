@@ -8,11 +8,17 @@ export interface SourceStat {
 
 export type TimeRange = '24h' | '7d'
 
+/** Product Hunt 已独立成「产品」tab，资讯流中需排除该来源 */
+export const PRODUCT_HUNT_SITE_ID = 'producthunt'
+
 interface UseNewsDataReturn {
   data: NewsData | null
   loading: boolean
   error: string | null
   filteredItems: NewsItem[]
+  productItems: NewsItem[]
+  newsTotal: number
+  newsSourceCount: number
   siteStats: SiteStat[]
   sourceStats: SourceStat[]
   searchQuery: string
@@ -122,11 +128,48 @@ export function useNewsData(): UseNewsDataReturn {
     setSearchQuery('')
   }, [])
 
+  // 资讯流基础集合：剔除 Product Hunt（已独立为「产品」tab）
+  const newsBaseItems = useMemo(
+    () => (data?.items || []).filter(item => item.site_id !== PRODUCT_HUNT_SITE_ID),
+    [data]
+  )
+
+  // 产品榜：仅 Product Hunt，按「发布日期倒序 + Product Hunt 榜单位次升序」排列，
+  // 还原 Product Hunt 平台排名，而非按 AI Radar 打分排序。feed_rank 缺失时回退到时间倒序。
+  const productItems = useMemo(() => {
+    const items = (data?.items || []).filter(item => item.site_id === PRODUCT_HUNT_SITE_ID)
+    const dayOf = (it: NewsItem) => (it.published_at || it.first_seen_at || '').slice(0, 10)
+    const rankOf = (it: NewsItem) =>
+      typeof it.feed_rank === 'number' ? it.feed_rank : Number.MAX_SAFE_INTEGER
+    const timeOf = (it: NewsItem) =>
+      new Date(it.published_at || it.first_seen_at || 0).getTime()
+    return items.slice().sort((a, b) => {
+      const dayA = dayOf(a)
+      const dayB = dayOf(b)
+      if (dayA !== dayB) return dayB.localeCompare(dayA)
+      const ra = rankOf(a)
+      const rb = rankOf(b)
+      if (ra !== rb) return ra - rb
+      return timeOf(b) - timeOf(a)
+    })
+  }, [data])
+
+  // 资讯口径统计（不含 Product Hunt）
+  const newsTotal = newsBaseItems.length
+  const newsSourceCount = useMemo(
+    () => new Set(newsBaseItems.map(i => `${i.site_id}::${i.source}`)).size,
+    [newsBaseItems]
+  )
+  const siteStats = useMemo(
+    () => (data?.site_stats || []).filter(s => s.site_id !== PRODUCT_HUNT_SITE_ID),
+    [data]
+  )
+
   const sourceStats = useMemo(() => {
-    if (!data?.items || selectedSite === 'all') return []
+    if (selectedSite === 'all') return []
     
     const sourceMap = new Map<string, number>()
-    data.items
+    newsBaseItems
       .filter(item => item.site_id === selectedSite)
       .forEach(item => {
         sourceMap.set(item.source, (sourceMap.get(item.source) || 0) + 1)
@@ -135,12 +178,10 @@ export function useNewsData(): UseNewsDataReturn {
     return Array.from(sourceMap.entries())
       .map(([source, count]) => ({ source, count }))
       .sort((a, b) => b.count - a.count)
-  }, [data, selectedSite])
+  }, [newsBaseItems, selectedSite])
 
   const filteredItems = useMemo(() => {
-    if (!data?.items) return []
-    
-    let items = data.items
+    let items = newsBaseItems
     
     if (selectedSite !== 'all') {
       items = items.filter(item => item.site_id === selectedSite)
@@ -160,12 +201,10 @@ export function useNewsData(): UseNewsDataReturn {
     }
     
     return items.slice(0, displayCount)
-  }, [data, selectedSite, selectedSource, searchQuery, displayCount])
+  }, [newsBaseItems, selectedSite, selectedSource, searchQuery, displayCount])
 
   const totalFiltered = useMemo(() => {
-    if (!data?.items) return 0
-    
-    let items = data.items
+    let items = newsBaseItems
     
     if (selectedSite !== 'all') {
       items = items.filter(item => item.site_id === selectedSite)
@@ -185,7 +224,7 @@ export function useNewsData(): UseNewsDataReturn {
     }
     
     return items.length
-  }, [data, selectedSite, selectedSource, searchQuery])
+  }, [newsBaseItems, selectedSite, selectedSource, searchQuery])
 
   const loadMore = () => {
     setDisplayCount(prev => prev + PAGE_SIZE)
@@ -211,7 +250,10 @@ export function useNewsData(): UseNewsDataReturn {
     loading,
     error,
     filteredItems,
-    siteStats: data?.site_stats || [],
+    productItems,
+    newsTotal,
+    newsSourceCount,
+    siteStats,
     sourceStats,
     searchQuery,
     setSearchQuery,

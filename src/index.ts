@@ -237,6 +237,8 @@ async function main(): Promise<number> {
 
     const rawDesc =
       typeof raw.meta?.description === 'string' ? raw.meta.description.trim() : '';
+    const rawFeedRank =
+      typeof raw.meta?.feed_rank === 'number' ? raw.meta.feed_rank : null;
 
     if (!existing) {
       archive.set(itemId, {
@@ -250,6 +252,7 @@ async function main(): Promise<number> {
         first_seen_at: toISOString(now)!,
         last_seen_at: toISOString(now)!,
         description: rawDesc || null,
+        feed_rank: rawFeedRank,
       });
     } else {
       existing.site_id = raw.siteId;
@@ -263,6 +266,10 @@ async function main(): Promise<number> {
       // 回填描述：旧归档可能没有该字段，新抓到则补上
       if (rawDesc && !existing.description) {
         existing.description = rawDesc;
+      }
+      // 榜单位次以最新一次抓取为准（Product Hunt 排名会随热度变化）
+      if (rawFeedRank !== null) {
+        existing.feed_rank = rawFeedRank;
       }
       existing.last_seen_at = toISOString(now)!;
     }

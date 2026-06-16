@@ -1,9 +1,9 @@
-import { Sun, Moon, Bot, Clock, Info, Github, History, Star, Loader2, Newspaper, Sparkles, Cpu } from 'lucide-react'
+import { Sun, Moon, Bot, Clock, Info, Github, History, Star, Loader2, Newspaper, Sparkles, Cpu, Package } from 'lucide-react'
 import { formatDateTime } from '../utils/formatDate'
 import type { TimeRange } from '../hooks/useNewsData'
 import { Analytics } from '../utils/analytics'
 
-export type AppView = 'news' | 'skills' | 'models'
+export type AppView = 'news' | 'products' | 'skills' | 'models'
 
 interface HeaderProps {
   theme: 'light' | 'dark'
@@ -72,7 +72,7 @@ export function Header({
                   </h1>
                   <Info className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-slate-400 opacity-0 group-hover:opacity-100 transition-opacity hidden sm:block" />
                 </div>
-                {view === 'news' && (
+                {(view === 'news' || view === 'products') && (
                 <div className="flex items-center bg-slate-100 dark:bg-slate-800 rounded-full p-0.5">
                   <button
                     onClick={() => {
@@ -131,6 +131,17 @@ export function Header({
                 <span className="hidden sm:inline">首页</span>
               </button>
               <button
+                onClick={() => onViewChange('products')}
+                className={`px-2.5 sm:px-3 py-1 text-xs sm:text-sm font-medium rounded-full transition-all flex items-center gap-1.5 ${
+                  view === 'products'
+                    ? 'bg-white dark:bg-slate-700 text-slate-900 dark:text-white shadow-sm'
+                    : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                }`}
+              >
+                <Package className="w-3.5 h-3.5" />
+                <span className="hidden sm:inline">产品</span>
+              </button>
+              <button
                 onClick={() => onViewChange('skills')}
                 className={`px-2.5 sm:px-3 py-1 text-xs sm:text-sm font-medium rounded-full transition-all flex items-center gap-1.5 ${
                   view === 'skills'
@@ -153,7 +164,7 @@ export function Header({
                 Models
               </button>
             </nav>
-            {generatedAt && view === 'news' && (
+            {generatedAt && (view === 'news' || view === 'products') && (
               <div className="hidden lg:flex items-center gap-1.5 text-xs text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-slate-800 px-3 py-1.5 rounded-full">
                 <Clock className="w-3.5 h-3.5" />
                 <span>更新于 {formatDateTime(generatedAt)}</span>

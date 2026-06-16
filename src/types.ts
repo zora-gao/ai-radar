@@ -26,6 +26,8 @@ export interface ArchiveItem {
   summary?: string | null;
   /** 抓取阶段获取的原始描述/摘要片段（供 GLM 生成有意义的标题与摘要） */
   description?: string | null;
+  /** 条目在来源 feed 中的原始排序位（1 起）。Product Hunt 等榜单源用于还原平台排名，越小越靠前 */
+  feed_rank?: number | null;
   // AI Radar 准入评审字段（由 GLM 基于标题生成）
   radar_score?: number | null;
   radar_priority?: 'P0' | 'P1' | 'P2' | 'P3' | null;

@@ -294,7 +294,11 @@ class CuratedRssFetcher implements Fetcher {
     const parsed = await parser.parseURL(this.feedUrl);
     const items: RawItem[] = [];
 
+    // feed 中的原始顺序即平台排名（Product Hunt 等榜单源按热度/票数排序），
+    // 记录位次以便前端「产品」榜按 Product Hunt 排名展示，而非按 Radar 打分排序。
+    let feedIndex = 0;
     for (const entry of parsed.items || []) {
+      feedIndex++;
       const title = (entry.title || '').trim();
       const url = (entry.link || '').trim();
       if (!title || !url) continue;
@@ -313,6 +317,7 @@ class CuratedRssFetcher implements Fetcher {
         meta: {
           category: this.category,
           feed_url: this.feedUrl,
+          feed_rank: feedIndex,
           description: (entry.contentSnippet || entry.content || '').slice(0, 200),
         },
       });

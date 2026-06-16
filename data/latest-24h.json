@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-16T06:05:58.596Z",
+  "generated_at": "2026-06-16T07:24:51.659Z",
   "window_hours": 24,
-  "total_items": 83,
-  "total_items_ai_raw": 83,
-  "total_items_raw": 89,
-  "total_items_all_mode": 89,
+  "total_items": 90,
+  "total_items_ai_raw": 90,
+  "total_items_raw": 107,
+  "total_items_all_mode": 107,
   "topic_filter": "ai_tech_robotics",
-  "archive_total": 2209,
+  "archive_total": 2261,
   "site_count": 18,
-  "source_count": 7,
+  "source_count": 8,
   "site_stats": [
     {
       "site_id": "bloomberg-tech",
@@ -19,14 +19,20 @@
     {
       "site_id": "techcrunch-ai",
       "site_name": "TechCrunch AI",
-      "count": 11,
-      "raw_count": 11
+      "count": 12,
+      "raw_count": 12
     },
     {
       "site_id": "jiqizhixin",
       "site_name": "机器之心",
       "count": 8,
       "raw_count": 8
+    },
+    {
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "count": 6,
+      "raw_count": 17
     },
     {
       "site_id": "ai-news",
@@ -55,12 +61,6 @@
     {
       "site_id": "theinformation",
       "site_name": "The Information",
-      "count": 0,
-      "raw_count": 0
-    },
-    {
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
       "count": 0,
       "raw_count": 0
     },
@@ -129,7 +129,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/salesforce-to-buy-ai-customer-service-firm-fin-video",
       "published_at": "2026-06-15T17:31:10Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Salesforce Inc. has agreed to buy Fin, a firm that develops artificial intelligence-powered customer agents, for about $3.6 billion as the software company works to win new business for enterprise AI.",
       "feed_rank": 21,
       "title_original": "Salesforce to Buy AI Firm That Handles Customer Service",
@@ -145,8 +145,7 @@
         "AI Agent",
         "服务场景",
         "竞品动态"
-      ],
-      "radar_reason": "巨头收购AI客服公司，反映企业级AI Agent市场价值"
+      ]
     },
     {
       "id": "76f9aa91ba582bf4e8d2bb1dfe0bcfd5f667b19f",
@@ -157,9 +156,9 @@
       "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
       "published_at": "2026-06-15T14:34:45Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-      "feed_rank": 6,
+      "feed_rank": 7,
       "title_original": "Salesforce acquires AI customer service platform Fin for $3.6B",
       "title_en": "Salesforce acquires AI customer service platform Fin for $3.6B",
       "title_zh": "Salesforce以$3.6B收购AI客户服务平台Fin",
@@ -173,8 +172,7 @@
         "AI Agent",
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "AI Agent领域重大收购，影响企业AI自动化市场格局"
+      ]
     },
     {
       "id": "165e2b2c69c86bf438d9cf3f3eb82c5be9288fd8",
@@ -200,8 +198,34 @@
         "AI Agent",
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "AI Agent领域重大收购，影响企业AI自动化市场格局"
+      ]
+    },
+    {
+      "id": "50af010e5c3eb4bcb39c251e424ba89bc275982a",
+      "site_id": "techcrunch-ai",
+      "site_name": "TechCrunch AI",
+      "source": "TechCrunch AI",
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe",
+      "published_at": "2026-06-16T06:59:00Z",
+      "first_seen_at": "2026-06-16T07:24:51.659Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
+      "description": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+      "feed_rank": 1,
+      "title_original": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "title_en": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "title_zh": "马来西亚人工智能代理驱动的消息应用 Respond.io 融资 6250 万美元，计划进行收购",
+      "title_bilingual": "马来西亚人工智能代理驱动的消息应用 Respond.io 融资 6250 万美元，计划进行收购 / Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "title_clean": "Respond.io：马来西亚AI代理消息应用获6250万美元融资，计划收购扩张",
+      "summary": "马来西亚AI代理消息应用Respond.io获6250万美元融资，该应用使用AI代理处理大量客户咨询，采用按对话收费而非按座位计费的模式。这一融资和扩张计划对AI客服领域商业模式有参考价值。",
+      "radar_score": 75,
+      "radar_priority": "P1",
+      "radar_type": "product",
+      "radar_channels": [
+        "AI Agent",
+        "商业化",
+        "竞品动态"
+      ]
     },
     {
       "id": "a7439a894825a0e1dc91ca655bbc3d59d44f3a65",
@@ -212,7 +236,7 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039205&idx=2&sn=4415a3e3819def546650350abc41203a",
       "published_at": "2026-06-15T22:13:55.858Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "2026年玩AI必备技能：不是提示词，是循环工程",
       "feed_rank": 3,
       "title_original": "2026年玩AI必备技能：不是提示词，是循环工程",
@@ -227,8 +251,7 @@
       "radar_channels": [
         "AI助手",
         "用户需求"
-      ],
-      "radar_reason": "AI交互方式变革趋势"
+      ]
     },
     {
       "id": "e061beaa4f73ace177eb8810121c1fee8a847b0d",
@@ -239,7 +262,7 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039196&idx=3&sn=a8c0079c0c8998cbed22222b8cd884e8",
       "published_at": "2026-06-15T22:13:55.858Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "1080条提示词、7款模型大比拼：视频生成离「好看、好用又准确」还差多少？",
       "feed_rank": 7,
       "title_original": "1080条提示词、7款模型大比拼：视频生成离「好看、好用又准确」还差多少？",
@@ -254,8 +277,7 @@
       "radar_channels": [
         "多模态",
         "AI助手"
-      ],
-      "radar_reason": "视频生成技术评估，对多模态产品有价值"
+      ]
     },
     {
       "id": "cf449713628ed0850dd877167c74e394219ae21d",
@@ -266,7 +288,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/bloomberg-tech-6-15-2026-video",
       "published_at": "2026-06-15T19:19:05Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Bloomberg’s Ed Ludlow breaks down why Anthropic disabled access to its most advanced models for all foreign nationals after a request from the Trump administration. Plus, Nvidia is seeking to raise at",
       "feed_rank": 13,
       "title_original": "Anthropic Disables AI Access for Foreign Nationals | Bloomberg Tech 6/15/2026",
@@ -282,8 +304,7 @@
         "竞品动态",
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "政策变化影响国际市场准入策略"
+      ]
     },
     {
       "id": "75451502777238deacfbed1e571cf3115bb821a4",
@@ -294,9 +315,9 @@
       "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms",
       "published_at": "2026-06-15T18:30:58Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
-      "feed_rank": 3,
+      "feed_rank": 4,
       "title_original": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
       "title_en": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
       "title_zh": "Meta 在 Facebook 上的新“人工智能模式”从其平台上的公共信息中提取",
@@ -310,8 +331,7 @@
         "AI助手",
         "竞品动态",
         "服务场景"
-      ],
-      "radar_reason": "竞品AI功能整合策略，服务场景扩展"
+      ]
     },
     {
       "id": "a4fdc1a3a1eaf60c0b50c1ddb16f5e046a73c555",
@@ -322,7 +342,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-set-to-meet-trump-officials-over-ai-security-concerns",
       "published_at": "2026-06-15T16:00:22Z",
       "first_seen_at": "2026-06-16T02:09:09.999Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Anthropic PBC is seeking to resolve a fresh confrontation with the Trump administration over artificial intelligence security that prompted the company to disable global access to its two most advance",
       "feed_rank": 4,
       "title_original": "Anthropic Holds Talks With US in Bid to Lift Curbs on AI Models",
@@ -338,8 +358,7 @@
         "竞品动态",
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "AI安全政策变化影响竞品国际业务"
+      ]
     },
     {
       "id": "69249a8e12ae0fe553c98004d330717b33d2856e",
@@ -365,8 +384,7 @@
         "竞品动态",
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "AI安全政策变化影响竞品国际业务"
+      ]
     },
     {
       "id": "dd0db6325154259ddf8397ed8160477a1b5dbfc8",
@@ -377,7 +395,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/chainguard-cyber-firms-use-ai-to-hunt-for-open-source-flaws",
       "published_at": "2026-06-15T16:00:15Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "More than two dozen companies including JPMorgan Chase & Co. and an array of cybersecurity firms are collaborating to remedy software flaws spotted by cutting-edge artificial intelligence models.",
       "feed_rank": 24,
       "title_original": "Chainguard, Cyber Firms Use AI to Hunt for Open-Source Flaws",
@@ -393,8 +411,7 @@
         "AI助手",
         "服务场景",
         "竞品动态"
-      ],
-      "radar_reason": "AI在安全领域的应用示范"
+      ]
     },
     {
       "id": "409dbb0eee3e100dc7aae7ea730fd801230437bd",
@@ -405,9 +422,9 @@
       "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models",
       "published_at": "2026-06-15T15:29:51Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the abil",
-      "feed_rank": 5,
+      "feed_rank": 6,
       "title_original": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
       "title_en": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
       "title_zh": "网络安全专家抗议美国政府对 Anthropic 最强大模型的“危险”禁令",
@@ -421,8 +438,7 @@
         "竞品动态",
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "影响美国AI企业竞争力和用户选择"
+      ]
     },
     {
       "id": "4755373c7a9ba97cad2d0e8c68ff2cf1e79a5d51",
@@ -433,7 +449,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/anthropic-shuts-down-mythos-access-after-us-order-video",
       "published_at": "2026-06-15T13:46:40Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "The US Commerce Department imposed export controls on June 12 restricting Anthropic from offering its most advanced AI models to foreign nationals. In response, Anthropic announced it would halt acces",
       "feed_rank": 30,
       "title_original": "Anthropic Shuts Down Mythos Access After US Order",
@@ -448,8 +464,7 @@
       "radar_channels": [
         "竞品动态",
         "商业化"
-      ],
-      "radar_reason": "影响全球AI服务市场格局"
+      ]
     },
     {
       "id": "b9a7e4f37ae0e7531aa5634d1bcfe9f2617d2c57",
@@ -460,9 +475,9 @@
       "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities",
       "published_at": "2026-06-15T13:00:00Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-      "feed_rank": 8,
+      "feed_rank": 9,
       "title_original": "As AI agents become employees, NewCore emerges with $66M to give them identities",
       "title_en": "As AI agents become employees, NewCore emerges with $66M to give them identities",
       "title_zh": "随着人工智能代理成为员工，NewCore 斥资 6600 万美元为他们提供身份",
@@ -476,8 +491,7 @@
         "AI Agent",
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "AI Agent身份管理新赛道，企业级安全需求"
+      ]
     },
     {
       "id": "e0132e860ac24f91082b1b1fb79621f4e490bc78",
@@ -503,8 +517,7 @@
         "AI助手",
         "服务场景",
         "商业化"
-      ],
-      "radar_reason": "大型企业AI收购，反映客服AI市场价值"
+      ]
     },
     {
       "id": "f199f62408b4b008a25b1c286050c4d7d4dfd459",
@@ -530,8 +543,7 @@
         "AI Agent",
         "服务场景",
         "商业化"
-      ],
-      "radar_reason": "AI Agent应用于金融预测场景，提升合约处理效率"
+      ]
     },
     {
       "id": "e8a563f71abc4efc9b71a60d4eea0f1ba9b0b3d6",
@@ -556,8 +568,7 @@
       "radar_channels": [
         "竞品动态",
         "AI助手"
-      ],
-      "radar_reason": "竞品动态分析，对AI助手产品方向有参考价值"
+      ]
     },
     {
       "id": "70fa9439295f2efb0ea6f3f60c4154fbacd59245",
@@ -568,7 +579,7 @@
       "url": "https://news.crunchbase.com/saas/rewriting-pitch-playbook-venture-ai-startup-nikkhoo-navigate",
       "published_at": "2026-06-15T11:00:41Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Because AI and LLMs are reshaping the traditional SaaS model, founders are forced to focus less on software alone and more on delivering measurable business outcomes, defensible workflow ownership, st",
       "feed_rank": 1,
       "title_original": "Rewriting Your Pitch: SaaS Isn’t Dead, But The Playbook For Founders Is Changing",
@@ -583,8 +594,7 @@
       "radar_channels": [
         "商业化",
         "服务场景"
-      ],
-      "radar_reason": "SaaS商业模式转型影响AI产品商业化路径"
+      ]
     },
     {
       "id": "a8fa2a36cfe2322ac6f32892701021f186745152",
@@ -595,7 +605,7 @@
       "url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap",
       "published_at": "2026-06-15T11:00:00Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T04:05:49.528Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei",
       "feed_rank": 1,
       "title_original": "HarmonyOS 7 steps into the AI gap Apple left open in China",
@@ -611,8 +621,7 @@
         "竞品动态",
         "AI Agent",
         "服务场景"
-      ],
-      "radar_reason": "填补中国AI助手空白，Agent时代竞争加剧"
+      ]
     },
     {
       "id": "6aeaf7e047b1d5422eed5106091baa28b541cd66",
@@ -638,8 +647,7 @@
         "竞品动态",
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "影响全球AI竞争格局与市场准入"
+      ]
     },
     {
       "id": "aaa62d08a7076bf996ddb52ce9c7b72a8fe23d90",
@@ -650,7 +658,7 @@
       "url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report",
       "published_at": "2026-06-15T10:00:00Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T04:05:49.528Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,",
       "feed_rank": 2,
       "title_original": "Accenture: Consumers show growing trust in AI shopping agents",
@@ -666,8 +674,7 @@
         "服务场景",
         "用户需求",
         "AI Agent"
-      ],
-      "radar_reason": "AI购物代理用户信任度提升，服务场景拓展信号"
+      ]
     },
     {
       "id": "0166c8a521ef56b2383f524dc46d086a25d1a1b0",
@@ -693,8 +700,7 @@
         "商业化",
         "AI Agent",
         "服务场景"
-      ],
-      "radar_reason": "AI计算资源市场商业化新动向"
+      ]
     },
     {
       "id": "0b238b024e1e53c1df6451a3db3881279f950b99",
@@ -705,7 +711,7 @@
       "url": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty",
       "published_at": "2026-06-15T08:00:00Z",
       "first_seen_at": "2026-06-15T09:45:54.477Z",
-      "last_seen_at": "2026-06-16T04:05:49.528Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company’s two most powerful AI models offline for users ev",
       "feed_rank": 3,
       "title_original": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
@@ -721,8 +727,7 @@
         "竞品动态",
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "政策变化影响AI服务可用性，引发主权争夺"
+      ]
     },
     {
       "id": "9e00798c620a58775f25531bd2ac2dfc5b7ce2b8",
@@ -748,8 +753,7 @@
         "竞品动态",
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "监管变化影响产品合规与市场策略"
+      ]
     },
     {
       "id": "b5abf38c12bfaf09476f380123eb13234a815e3e",
@@ -775,8 +779,7 @@
         "竞品动态",
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "AI安全政策影响产品国际化策略"
+      ]
     },
     {
       "id": "c52748620383c98d992aad393a2f8c6ab3a1dc61",
@@ -787,7 +790,7 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039205&idx=3&sn=0b9e7e22a3d69f4157eda1b340ec4fe4",
       "published_at": "2026-06-15T22:13:55.858Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "给音视频生成打草稿！复旦&腾讯提出Baton：首创语义蓝图指引，实现音...",
       "feed_rank": 4,
       "title_original": "给音视频生成打草稿！复旦&腾讯提出Baton：首创语义蓝图指引，实现音...",
@@ -802,8 +805,7 @@
       "radar_channels": [
         "多模态",
         "AI助手"
-      ],
-      "radar_reason": "多模态生成技术突破，提升内容创作质量"
+      ]
     },
     {
       "id": "6d13e5503a774b6b9b0d1283ba8ed59642e4e7db",
@@ -814,9 +816,9 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-16/anthropic-curbs-show-need-for-sovereign-ai-upstage-ceo-says",
       "published_at": "2026-06-16T04:58:41Z",
       "first_seen_at": "2026-06-16T06:05:07.281Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "The US directive to restrict foreign access to Anthropic PBC’s most advanced technologies underscores the importance of South Korea’s sovereign artificial intelligence efforts, according to the head o",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "title_original": "Anthropic Curbs Show Need for Sovereign AI, Upstage CEO Says",
       "title_en": "Anthropic Curbs Show Need for Sovereign AI, Upstage CEO Says",
       "title_zh": "后台首席执行官表示，人为限制显示了对主权人工智能的需求",
@@ -830,8 +832,7 @@
         "竞品动态",
         "用户需求",
         "商业化"
-      ],
-      "radar_reason": "主权AI战略趋势，区域化部署考量"
+      ]
     },
     {
       "id": "27c498cb56bb5a99688af6616a8804121e3f1ae8",
@@ -842,7 +843,7 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039205&idx=1&sn=b9b48ed871c415f3df72c2df6b9d7f65",
       "published_at": "2026-06-15T22:13:55.858Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "1680份员工履历揭开Anthropic招人底牌：「基础设施老兵」更吃香",
       "feed_rank": 2,
       "title_original": "1680份员工履历揭开Anthropic招人底牌：「基础设施老兵」更吃香",
@@ -857,8 +858,7 @@
       "radar_channels": [
         "竞品动态",
         "用户需求"
-      ],
-      "radar_reason": "竞品人才策略揭示技术方向"
+      ]
     },
     {
       "id": "2c6a36c9e0399d9e33d83a2b81cd42c1e746d755",
@@ -869,7 +869,7 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039196&idx=2&sn=f13e155230d90bbd87c8680cc29b1e4a",
       "published_at": "2026-06-15T22:13:55.858Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "用国产GPU训练AI给自己写内核，摩尔线程刷榜硬核基准",
       "feed_rank": 6,
       "title_original": "用国产GPU训练AI给自己写内核，摩尔线程刷榜硬核基准",
@@ -885,8 +885,7 @@
         "AI助手",
         "竞品动态",
         "商业化"
-      ],
-      "radar_reason": "国产AI硬件技术突破，对硬件生态有参考价值"
+      ]
     },
     {
       "id": "f475aa5e7811014a9618124ab68f75b7c13752af",
@@ -897,7 +896,7 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039094&idx=1&sn=1c346727be8fa1364dff716bf0b615be",
       "published_at": "2026-06-15T22:13:55.858Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "打破SWE-bench唯分数论，首个独立测量harness的基准开源了",
       "feed_rank": 8,
       "title_original": "打破SWE-bench唯分数论，首个独立测量harness的基准开源了",
@@ -912,8 +911,7 @@
       "radar_channels": [
         "AI助手",
         "AI Agent"
-      ],
-      "radar_reason": "AI评估基准创新，但直接产品关联有限"
+      ]
     },
     {
       "id": "33cbcc3d0cd9667b7c5bfa39be96e420f6626e01",
@@ -924,7 +922,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/canada-s-carney-proposes-stricter-privacy-rules-to-ban-surveillance-pricing",
       "published_at": "2026-06-15T22:12:24Z",
       "first_seen_at": "2026-06-16T02:09:09.999Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "The Canadian government is proposing stricter privacy rules that would limit businesses from using personal data to charge consumers higher prices, while giving individuals more power over their own i",
       "feed_rank": 9,
       "title_original": "Canada to Restrict Use of Personal Data for Custom Prices",
@@ -939,8 +937,7 @@
       "radar_channels": [
         "用户需求",
         "商业化"
-      ],
-      "radar_reason": "隐私政策变化影响AI个性化定价策略"
+      ]
     },
     {
       "id": "d359cfc16f8ae1a1aae8480192ff849bd3cdb637",
@@ -951,9 +948,9 @@
       "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak",
       "published_at": "2026-06-15T21:50:21Z",
       "first_seen_at": "2026-06-16T02:09:09.999Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "title_original": "The US government’s Anthropic models ban was never about an AI jailbreak",
       "title_en": "The US government’s Anthropic models ban was never about an AI jailbreak",
       "title_zh": "美国政府的人择模型禁令从来都不是为了人工智能越狱",
@@ -967,8 +964,7 @@
         "竞品动态",
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "监管政策影响AI产品合规方向"
+      ]
     },
     {
       "id": "98aab388172c39043e85cc29055151372a04108e",
@@ -994,8 +990,7 @@
       "radar_channels": [
         "服务场景",
         "商业化"
-      ],
-      "radar_reason": "出行服务场景商业化参考"
+      ]
     },
     {
       "id": "813273b5f1f9ec3376afa7dc081e67f9e5e2f5c6",
@@ -1020,8 +1015,33 @@
       "radar_channels": [
         "服务场景",
         "商业化"
-      ],
-      "radar_reason": "出行服务场景商业化参考"
+      ]
+    },
+    {
+      "id": "ace80062ebd937d9f189e4e9c7f080fca6e99cae",
+      "site_id": "bloomberg-tech",
+      "site_name": "Bloomberg Tech",
+      "source": "Bloomberg Tech",
+      "title": "Goldman-Backed Go Rises 10% After Biggest Japan IPO This Year",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/goldman-backed-go-to-debut-after-biggest-japan-ipo-this-year",
+      "published_at": "2026-06-15T21:00:00Z",
+      "first_seen_at": "2026-06-16T07:24:51.659Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
+      "description": "Taxi-hailing app provider Go Inc.’s shares advanced 10% in its trading debut on the Tokyo Stock Exchange on Tuesday, helping to support investor sentiment after the nation’s largest initial public off",
+      "feed_rank": 1,
+      "title_original": "Goldman-Backed Go Rises 10% After Biggest Japan IPO This Year",
+      "title_en": "Goldman-Backed Go Rises 10% After Biggest Japan IPO This Year",
+      "title_zh": "日本今年最大规模IPO后，高盛支持的Go股价上涨10%",
+      "title_bilingual": "日本今年最大规模IPO后，高盛支持的Go股价上涨10% / Goldman-Backed Go Rises 10% After Biggest Japan IPO This Year",
+      "title_clean": "Go：日本最大打车应用完成今年最大规模IPO",
+      "summary": "日本打车应用Go Inc.将在东京证券交易所上市，成为今年日本最大规模的IPO。高盛背书的Go将测试投资者对出行科技领域的态度，为元宝在出行服务场景的AI应用提供市场参考。",
+      "radar_score": 65,
+      "radar_priority": "P2",
+      "radar_type": "news",
+      "radar_channels": [
+        "服务场景",
+        "商业化"
+      ]
     },
     {
       "id": "c19d90fff9d58acb6168f6f62b48a8aa195bcf51",
@@ -1032,7 +1052,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/cohere-seeing-inbounds-after-dc-s-anthropic-scrutiny-video",
       "published_at": "2026-06-15T19:12:10Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Cohere Chief AI Officer Joelle Pineau says Cohere has seen a huge number of inbounds after Anthropic was ordered by the US government to disable access to its most advanced AI platforms for all foreig",
       "feed_rank": 17,
       "title_original": "Cohere Seeing Inbounds After Washington's Anthropic Scrutiny",
@@ -1047,8 +1067,7 @@
       "radar_channels": [
         "竞品动态",
         "商业化"
-      ],
-      "radar_reason": "监管变化带来竞品机会"
+      ]
     },
     {
       "id": "cc6ae07d8a4d9c1ee485601f36b75e1d2413e821",
@@ -1059,7 +1078,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/why-was-anthropic-s-mythos-ai-blocked-security-risks-and-capabilities-explained",
       "published_at": "2026-06-15T19:08:46Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Anthropic PBC has said its new artificial intelligence tool, Mythos, is so good at finding vulnerabilities in software and computer systems that it can’t be released to the general public. The AI gian",
       "feed_rank": 18,
       "title_original": "What Is Anthropic’s Mythos AI and Why Was It Blocked?",
@@ -1075,8 +1094,7 @@
         "AI助手",
         "竞品动态",
         "用户需求"
-      ],
-      "radar_reason": "AI安全工具发展与风险管控案例"
+      ]
     },
     {
       "id": "ecddce103387299a36b66a6e26f19a2972c57359",
@@ -1087,7 +1105,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/the-race-to-build-data-centers-in-space-video",
       "published_at": "2026-06-15T19:00:05Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "“Data centers in space” may sound like science fiction, but as the SpaceX IPO augurs a space boom, tech giants and startups are betting orbital artificial intelligence is the next frontier. (Source: B",
       "feed_rank": 20,
       "title_original": "The Race to Build Data Centers in Space",
@@ -1103,8 +1121,7 @@
         "AI助手",
         "商业化",
         "服务场景"
-      ],
-      "radar_reason": "太空AI基础设施布局，影响长期服务场景"
+      ]
     },
     {
       "id": "54c87dde1744dfa525f73b1cb57d7aad2dba9d41",
@@ -1115,7 +1132,7 @@
       "url": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook",
       "published_at": "2026-06-15T16:00:23Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for.\nThe post New AI Tools to Help You Make Things Happen on Facebook appeared first on Met",
       "feed_rank": 1,
       "title_original": "New AI Tools to Help You Make Things Happen on Facebook",
@@ -1131,8 +1148,7 @@
         "AI助手",
         "服务场景",
         "竞品动态"
-      ],
-      "radar_reason": "社交平台AI助手功能，影响用户交互场景"
+      ]
     },
     {
       "id": "69b3b1615d9265b52ccd844eaa6be850eccacfc7",
@@ -1143,7 +1159,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/fox-will-buy-roku-in-deal-worth-about-22-billion-video",
       "published_at": "2026-06-15T15:41:56Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Bloomberg Intelligence media analyst Geetha Rangananthan says this deal makes a lot of strategic sense because it gives Fox more of a gateway into streaming.  The acquisition will create the third-lar",
       "feed_rank": 25,
       "title_original": "Fox Will Buy Roku In Deal Worth About $22 Billion",
@@ -1158,8 +1174,7 @@
       "radar_channels": [
         "服务场景",
         "竞品动态"
-      ],
-      "radar_reason": "流媒体渠道整合影响AI服务场景"
+      ]
     },
     {
       "id": "30d2ed13412ccbc5456aed710df98205e4e9a8a7",
@@ -1170,7 +1185,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/nuveen-private-bond-chief-scoops-up-ai-s-picks-and-shovels",
       "published_at": "2026-06-15T15:18:04Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Data centers and computing chips are all the rage in global credit markets right now, but Nuveen LLC’s Laura Parrott is more excited about the “boring, plain vanilla” infrastructure on the outskirts o",
       "feed_rank": 27,
       "title_original": "Nuveen Private Bond Chief Scoops Up AI’s ‘Picks and Shovels’",
@@ -1185,8 +1200,7 @@
       "radar_channels": [
         "商业化",
         "服务场景"
-      ],
-      "radar_reason": "AI产业链投资动向，商业化参考价值"
+      ]
     },
     {
       "id": "2d532711bae270e7f2a554977c2723ffaa13370a",
@@ -1197,9 +1211,9 @@
       "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means",
       "published_at": "2026-06-15T12:00:00Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
-      "feed_rank": 9,
+      "feed_rank": 10,
       "title_original": "A satellite just learned to find things on its own — here’s what that means",
       "title_en": "A satellite just learned to find things on its own — here’s what that means",
       "title_zh": "一颗卫星刚刚学会了自己寻找东西——这意味着什么",
@@ -1212,8 +1226,7 @@
       "radar_channels": [
         "AI Agent",
         "用户需求"
-      ],
-      "radar_reason": "AI自主决策能力突破，应用场景拓展"
+      ]
     },
     {
       "id": "6b1ac8e760e2e4d0dcefca9435da21a9d1427a8f",
@@ -1224,7 +1237,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/fox-to-buy-roku-at-22-billion-value-in-streaming-video-push",
       "published_at": "2026-06-15T11:19:40Z",
       "first_seen_at": "2026-06-16T02:09:09.999Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Fox Corp. agreed to acquire Roku Inc. in a deal with an enterprise value of about $22 billion, creating a new television juggernaut and marking a big push into ad-supported streaming.",
       "feed_rank": 7,
       "title_original": "Fox to Buy Roku in Streaming Video Push; Shares Tumble",
@@ -1240,8 +1253,7 @@
         "服务场景",
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "流媒体广告市场格局变化，影响AI服务商业化路径"
+      ]
     },
     {
       "id": "2b3bc943e077d515f3360a3aca5838e5ba416c6e",
@@ -1267,8 +1279,7 @@
         "服务场景",
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "流媒体广告市场格局变化，影响AI服务商业化路径"
+      ]
     },
     {
       "id": "8a5549010fedf0615304fe6d1cf5eb4d3c166c92",
@@ -1293,8 +1304,7 @@
       "radar_channels": [
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "AI芯片商业化进展，影响算力成本与竞争格局"
+      ]
     },
     {
       "id": "36a32e884f482730b12850d5316a490cdcc8b077",
@@ -1320,8 +1330,7 @@
         "AI助手",
         "服务场景",
         "用户需求"
-      ],
-      "radar_reason": "AI经济影响分析，缺乏具体产品细节"
+      ]
     },
     {
       "id": "5f14e12de25d2515669a57bba1d76c1009267058",
@@ -1332,9 +1341,9 @@
       "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg",
       "published_at": "2026-06-15T07:25:41Z",
       "first_seen_at": "2026-06-15T09:45:54.477Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
-      "feed_rank": 10,
+      "feed_rank": 11,
       "title_original": "The AI layoff wave is becoming a powder keg",
       "title_en": "The AI layoff wave is becoming a powder keg",
       "title_zh": "AI裁员浪潮正在成为火药桶",
@@ -1347,34 +1356,7 @@
       "radar_channels": [
         "用户需求",
         "商业化"
-      ],
-      "radar_reason": "反映AI行业社会矛盾与可持续发展问题"
-    },
-    {
-      "id": "18552e110db8c28e0e9bb238cdfb95c5ccb854db",
-      "site_id": "bloomberg-tech",
-      "site_name": "Bloomberg Tech",
-      "source": "Bloomberg Tech",
-      "title": "Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support",
-      "published_at": "2026-06-15T07:00:41Z",
-      "first_seen_at": "2026-06-15T09:45:54.477Z",
-      "last_seen_at": "2026-06-15T09:55:14.523Z",
-      "description": "Kazakhstan signed accords with the startup Firebird Inc. on computing projects involving Nvidia Corp. that could bring as much as $10 billion in investment, as the Central Asian energy producer looks",
-      "title_original": "Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
-      "title_en": "Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
-      "title_zh": "哈萨克斯坦与 Firebird 签署 100 亿美元 AI 协议并获得 Nvidia 支持",
-      "title_bilingual": "哈萨克斯坦与 Firebird 签署 100 亿美元 AI 协议并获得 Nvidia 支持 / Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
-      "title_clean": "哈萨克斯坦与Firebird签署100亿美元AI合作，获NVIDIA支持",
-      "summary": "哈萨克斯坦与初创公司Firebird签署涉及NVIDIA的AI计算项目协议，可能带来高达100亿美元投资，显示中亚地区在AI基础设施领域的重大布局。",
-      "radar_score": 65,
-      "radar_priority": "P2",
-      "radar_type": "news",
-      "radar_channels": [
-        "商业化",
-        "AI助手"
-      ],
-      "radar_reason": "区域AI基础设施投资信号，商业合作模式参考"
+      ]
     },
     {
       "id": "5e45b4d32521129a92d96c26176689dd371338c6",
@@ -1385,9 +1367,9 @@
       "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech",
       "published_at": "2026-06-15T13:46:08Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-      "feed_rank": 7,
+      "feed_rank": 8,
       "title_original": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
       "title_en": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
       "title_zh": "Sarvam 获得由 HCLTech 领投的 2.34 亿美元融资，成为印度最新的人工智能独角兽",
@@ -1400,8 +1382,7 @@
       "radar_channels": [
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "融资信号反映印度AI市场热度"
+      ]
     },
     {
       "id": "1cb062cbb8af8495b25dd1501d528e9daa6c2406",
@@ -1412,9 +1393,9 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-16/ai-driven-re-rating-fuels-550-rally-in-kingboard-laminates",
       "published_at": "2026-06-16T04:19:34Z",
       "first_seen_at": "2026-06-16T06:05:07.281Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Kingboard Laminates Holdings Ltd. has rallied more than sixfold this year as investors bet the Chinese supplier to the printed circuit board industry will emerge as a key beneficiary of the AI buildou",
-      "feed_rank": 2,
+      "feed_rank": 3,
       "title_original": "AI Re-Rating Fuels 550% Rally in Hong Kong’s Kingboard Laminates",
       "title_en": "AI Re-Rating Fuels 550% Rally in Hong Kong’s Kingboard Laminates",
       "title_zh": "AI 重新评级推动香港建滔积层板上涨 550%",
@@ -1427,8 +1408,7 @@
       "radar_channels": [
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "AI产业链上游材料供应商市场价值重估"
+      ]
     },
     {
       "id": "3edb4f61bb3f12d0e873819a4f1029a58c196767",
@@ -1439,9 +1419,9 @@
       "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties",
       "published_at": "2026-06-15T23:51:44Z",
       "first_seen_at": "2026-06-16T02:09:09.999Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
-      "feed_rank": 1,
+      "feed_rank": 2,
       "title_original": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
       "title_en": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
       "title_zh": "桑达尔·皮查伊 (Sundar Pichai) 在斯坦福大学毕业典礼上因谷歌与以色列和 ICE 的关系而面临嘘声和退场",
@@ -1454,8 +1434,7 @@
       "radar_channels": [
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "AI伦理争议影响企业声誉"
+      ]
     },
     {
       "id": "cdbf24dfcabb455fe36ac50547fc57201d3a0ce5",
@@ -1466,7 +1445,7 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038804&idx=1&sn=d2bab50f9d5db279727d50646d23ff9b",
       "published_at": "2026-06-15T22:13:55.858Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "入围CVPR2026最佳论文决选，ViT3用「测试时训练」突破Transformer复杂...",
       "feed_rank": 1,
       "title_original": "入围CVPR2026最佳论文决选，ViT3用「测试时训练」突破Transformer复杂...",
@@ -1480,8 +1459,7 @@
       "radar_type": "news",
       "radar_channels": [
         "AI助手"
-      ],
-      "radar_reason": "技术突破但产品应用不明确"
+      ]
     },
     {
       "id": "334debbd1a60ec1efa76490300fd7bb4b57d36fd",
@@ -1492,7 +1470,7 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039196&idx=1&sn=cf807f51fc0efaffb4bf9996f743493d",
       "published_at": "2026-06-15T22:13:55.858Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "腾讯 Robotics X开源HyVLA-O.5：基于亚毫米级指套UMI与真机强化，摆脱繁...",
       "feed_rank": 5,
       "title_original": "腾讯 Robotics X开源HyVLA-O.5：基于亚毫米级指套UMI与真机强化，摆脱繁...",
@@ -1507,8 +1485,7 @@
       "radar_channels": [
         "AI Agent",
         "服务场景"
-      ],
-      "radar_reason": "AI 机器人操作技术，与元宝产品关联度低"
+      ]
     },
     {
       "id": "870ae9f8b48d9a23b8dcb5bc03e2d45fad7b462b",
@@ -1519,7 +1496,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/studios-in-microsoft-s-xbox-division-brace-for-closures",
       "published_at": "2026-06-15T20:15:04Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "The studios, which include Compulsion Games and Double Fine, are in active negotiations with Xbox and may be given the chance to go independent.",
       "feed_rank": 11,
       "title_original": "Studios in Microsoft’s Xbox Division Brace for Closures",
@@ -1534,8 +1511,7 @@
       "radar_channels": [
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "游戏行业动态，对AI助手产品间接参考价值有限"
+      ]
     },
     {
       "id": "c630fc500a7a583dcf13d730a812291981e71aa4",
@@ -1546,7 +1522,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/china-s-ai-markets-still-a-source-of-funds-says-citi-video",
       "published_at": "2026-06-15T19:18:03Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Alicia Yap, Citi's head of Pan-Asia Internet Research, breaks down where China's tech market stands amid global AI adoption. But despite all this heavy corporate activity, Citigroup warns that global",
       "feed_rank": 14,
       "title_original": "China's AI Markets Still 'A Source of Funds' Says Citigroup",
@@ -1561,8 +1537,7 @@
       "radar_channels": [
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "资金流向分析，缺乏具体产品洞察"
+      ]
     },
     {
       "id": "6e1f0c8c693c6f5bb859252263b4ea51c7720253",
@@ -1573,7 +1548,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/spacex-capable-of-orbital-data-centers-former-meta-cto-video",
       "published_at": "2026-06-15T19:13:58Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Mike Schroepfer, former CTO of Meta and founding partner of Gigascale Capital - a venture firm making early-stage bets on companies focused on climate impact - says SpaceX is the only company capable",
       "feed_rank": 16,
       "title_original": "SpaceX Capable of Building Orbital Data Centers, Says Former Meta CTO",
@@ -1588,8 +1563,7 @@
       "radar_channels": [
         "AI助手",
         "商业化"
-      ],
-      "radar_reason": "太空计算前沿，但与元宝业务关联度低"
+      ]
     },
     {
       "id": "42a64dcc6537fe74bde88ac42de5d4b28b27cda6",
@@ -1600,7 +1574,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/polymarket-traders-clash-over-345-million-iran-peace-market",
       "published_at": "2026-06-15T19:02:34Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "A proposed deal to end hostilities between the US and Iran gave equities and bond traders a measure of relief on Monday. It also left prediction markets with a new headache.",
       "feed_rank": 19,
       "title_original": "Polymarket Traders Clash Over $345 Million Iran Peace Market",
@@ -1614,8 +1588,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "预测市场商业价值有限"
+      ]
     },
     {
       "id": "7e75d05855f1ef1025cca8ab311ddb81c214ce9f",
@@ -1626,9 +1599,9 @@
       "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo",
       "published_at": "2026-06-15T18:30:34Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
-      "feed_rank": 4,
+      "feed_rank": 5,
       "title_original": "SpaceX is public: Everything you need to know post-IPO",
       "title_en": "SpaceX is public: Everything you need to know post-IPO",
       "title_zh": "SpaceX 上市：首次公开募股后您需要了解的一切",
@@ -1640,8 +1613,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "与AI产品关联度低"
+      ]
     },
     {
       "id": "2a88b08e649c8f5008881c4ef2a51e7dd9beb98a",
@@ -1652,7 +1624,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/bloomberg-tech-video",
       "published_at": "2026-06-15T17:54:07Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories. (Source: Bloomberg)",
       "feed_rank": 22,
       "title_original": "Bloomberg Tech",
@@ -1666,8 +1638,7 @@
       "radar_type": "news",
       "radar_channels": [
         "竞品动态"
-      ],
-      "radar_reason": "泛科技资讯，缺乏AI产品直接关联"
+      ]
     },
     {
       "id": "0a17831cf1eaa648db8fcb41a92f3941c7cc0d54",
@@ -1678,7 +1649,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/jpmorgan-traders-turn-bullish-on-us-stocks-citing-peace-deal",
       "published_at": "2026-06-15T16:47:22Z",
       "first_seen_at": "2026-06-15T19:40:32.111Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "JPMorgan Chase & Co.’s trading desk has turned bullish on stocks following optimism that peace in the Middle East is near.",
       "feed_rank": 23,
       "title_original": "JPMorgan Traders Turn Bullish on US Stocks Citing Peace Deal",
@@ -1693,8 +1664,7 @@
       "radar_channels": [
         "服务场景",
         "用户需求"
-      ],
-      "radar_reason": "金融场景参考价值有限"
+      ]
     },
     {
       "id": "0e6e828b4c76b2074419b51ccf1cce0d49723596",
@@ -1705,7 +1675,7 @@
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026",
       "published_at": "2026-06-15T15:00:00Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
       "feed_rank": 1,
       "title_original": "We’re strengthening our presence in Alabama through new investments and community support.",
@@ -1719,8 +1689,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "基础设施投资，与AI产品关联度低"
+      ]
     },
     {
       "id": "fd8e5374be04d1881d4b9a31cbc4e436a3fc3dfc",
@@ -1731,7 +1700,7 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/roku-fox-deal-airlines-move-higher-stock-movers-video",
       "published_at": "2026-06-15T14:30:11Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "On this episode of Stock Movers with Alexis Christoforous:\n\n- Roku (ROKU) is higher while Fox (FOX) is declining on news Fox agreed to acquire Roku in a deal that values the streaming video platform a",
       "feed_rank": 28,
       "title_original": "Roku-Fox Deal; Airlines Move Higher | Stock Movers",
@@ -1746,8 +1715,7 @@
       "radar_channels": [
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "媒体行业并购，与AI助手关联度低"
+      ]
     },
     {
       "id": "68f0f85dfe0d38527e1ad977b4dc38f26d4aac89",
@@ -1772,8 +1740,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "融资信息与AI硬件相关，但缺乏产品细节"
+      ]
     },
     {
       "id": "b9f4a90b6eb1b2fee247bdae243d86dc82413c73",
@@ -1798,8 +1765,7 @@
       "radar_channels": [
         "商业化",
         "服务场景"
-      ],
-      "radar_reason": "基础设施合作，对元宝产品直接影响有限"
+      ]
     },
     {
       "id": "5774bbc8ddcc65213765e7c45ca033b04c92826a",
@@ -1810,7 +1776,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/us-nlrb-upholds-philadelphia-whole-foods-union-vote-rejecting-amazon-appeal",
       "published_at": "2026-06-15T13:16:10Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "The US labor board ruled against Whole Foods Market’s objections to a landmark Philadelphia unionization vote, teeing up a likely yearslong legal battle over whether the Amazon.com Inc. grocery chain",
       "feed_rank": 29,
       "title_original": "Whole Foods Unionization Upheld By US Labor Board",
@@ -1824,8 +1790,7 @@
       "radar_type": "news",
       "radar_channels": [
         "用户需求"
-      ],
-      "radar_reason": "零售行业员工权益变化，间接影响AI服务场景"
+      ]
     },
     {
       "id": "afcc905cfddc2dd47301c75d5d63a717473afa15",
@@ -1849,8 +1814,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "计算资源市场与AI商业化相关但信息不足"
+      ]
     },
     {
       "id": "7529626bbc1b933513cda91ee4a6c50bace9a9fb",
@@ -1875,8 +1839,7 @@
       "radar_channels": [
         "用户需求",
         "竞品动态"
-      ],
-      "radar_reason": "监管政策变化影响产品设计方向"
+      ]
     },
     {
       "id": "77066728ac591038751572774f2229783da05657",
@@ -1900,8 +1863,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "芯片供应链动态，与AI产品关联度低"
+      ]
     },
     {
       "id": "eef85ca0388fb1fd9d26bab148bc88068b23f2a7",
@@ -1912,7 +1874,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/nvidia-kicks-off-first-high-grade-bond-offering-since-2021",
       "published_at": "2026-06-15T12:10:41Z",
       "first_seen_at": "2026-06-15T22:13:55.858Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "Chipmaking giant Nvidia Corp. sold $25 billion of high-grade bonds, joining a wave of jumbo debt offerings from tech heavyweights as investors clamor to get exposure to the artificial intelligence boo",
       "feed_rank": 10,
       "title_original": "Nvidia Joins AI Borrowing Frenzy With $25 Billion Bond Sale",
@@ -1926,8 +1888,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "融资信息与AI行业相关但缺乏产品细节"
+      ]
     },
     {
       "id": "85f3a0c5f20551edf9d06b00d56a12c57856f1f4",
@@ -1951,8 +1912,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "融资信息与AI行业相关但缺乏产品细节"
+      ]
     },
     {
       "id": "83eef303e72662d7c8bfa99e9c484eb9d250c9b6",
@@ -1976,8 +1936,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "融资信息与AI行业相关但缺乏产品细节"
+      ]
     },
     {
       "id": "64b454788fb33dfab20f27bf01bbf32959e3bb8e",
@@ -2003,8 +1962,7 @@
         "竞品动态",
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "政策风险信号，但缺乏具体产品影响"
+      ]
     },
     {
       "id": "34fd24d4dbcd6e2148705c009ee93452b55f7a43",
@@ -2029,8 +1987,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "生物技术融资，与AI助手关联度低"
+      ]
     },
     {
       "id": "7a5eccdde8adc45e711599177ca1cd7b9855e6aa",
@@ -2054,8 +2011,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "业务相关度低，对AI产品参考价值有限"
+      ]
     },
     {
       "id": "b181e7c13ee0a14bf6141d8750b1ecfa406f9ad1",
@@ -2079,8 +2035,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "与AI产品关联度低，仅为行业资本动态"
+      ]
     },
     {
       "id": "07f15ae5502c06daf6d076a1837c96522d4eaed6",
@@ -2091,7 +2046,7 @@
       "url": "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data",
       "published_at": "2026-06-15T11:00:23Z",
       "first_seen_at": "2026-06-15T15:40:20.780Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "So far in 2026, U.S. companies have pulled in nearly 80% of global seed- through growth-stage financing, per Crunchbase data. That’s a sharp divergence from the years leading up to the AI boom, when A",
       "feed_rank": 2,
       "title_original": "The AI Startup Funding Boom Is Not A Global Phenomenon",
@@ -2106,8 +2061,7 @@
       "radar_channels": [
         "商业化",
         "用户需求"
-      ],
-      "radar_reason": "地域集中趋势影响全球市场策略"
+      ]
     },
     {
       "id": "013a3b0e00f61ebd2879e17e9ec94c29f3cd2d68",
@@ -2129,8 +2083,7 @@
       "radar_score": 45,
       "radar_priority": "P3",
       "radar_type": "news",
-      "radar_channels": null,
-      "radar_reason": "政治经济影响，与AI产品关联度低"
+      "radar_channels": null
     },
     {
       "id": "fb2ce5a574f47920c15ee3d3204d8369631cca78",
@@ -2154,8 +2107,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "知识产权数据服务市场动态"
+      ]
     },
     {
       "id": "635bb43ef45d4bb0dcf730b9230ceb0ec9ae610b",
@@ -2180,8 +2132,7 @@
       "radar_channels": [
         "商业化",
         "竞品动态"
-      ],
-      "radar_reason": "社交平台IPO动态，商业化参考价值有限"
+      ]
     },
     {
       "id": "1627b1fced1877883ff46208486c6f52b9efe0ef",
@@ -2192,7 +2143,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-shares-rise-set-to-extend-gains-after-record-ipo-mqexlibz",
       "published_at": "2026-06-15T08:08:26Z",
       "first_seen_at": "2026-06-16T06:05:07.281Z",
-      "last_seen_at": "2026-06-16T06:05:58.596Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
       "description": "SpaceX shares jumped in their second day of trading, adding to gains following a blockbuster debut that instantly vaulted it into the ranks of the world’s most valuable public companies.",
       "feed_rank": 6,
       "title_original": "SpaceX Surges for Second Day to Add $412 Billion in Value",
@@ -2206,8 +2157,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "与AI产品关联度低，仅为一般商业动态"
+      ]
     },
     {
       "id": "003035f29dacc12cf74fb8d1f156a022369f60c8",
@@ -2232,8 +2182,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "与AI产品关联度低，仅为一般商业动态"
+      ]
     },
     {
       "id": "8d72f12299435ca3a8f25430f55af9c9c3d015e7",
@@ -2257,8 +2206,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "与AI产品关联度低，仅为一般商业动态"
+      ]
     },
     {
       "id": "bb0fa63fc1254bf4d98a0da460b13ceecdbeef54",
@@ -2282,8 +2230,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "与AI产品关联度低，仅为一般商业动态"
+      ]
     },
     {
       "id": "ce393d1e575ef837c262a7e2f4b7702ebcb945d5",
@@ -2307,8 +2254,7 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "与AI产品关联度低，仅为一般商业动态"
+      ]
     },
     {
       "id": "6e510a51e89faedb827b99c7497db4fc4cd6f0d4",
@@ -2332,8 +2278,109 @@
       "radar_type": "news",
       "radar_channels": [
         "商业化"
-      ],
-      "radar_reason": "与AI产品关联度低，仅为一般商业动态"
+      ]
+    },
+    {
+      "id": "ca9efc11da614612e15acf750ebe7c675550141f",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "source": "Product Hunt",
+      "title": "Stash",
+      "url": "https://www.producthunt.com/products/stash-18",
+      "published_at": "2026-06-16T03:52:22Z",
+      "first_seen_at": "2026-06-16T07:24:51.659Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
+      "description": "Discussion\n            |\n            Link",
+      "feed_rank": 14,
+      "title_original": "Stash",
+      "title_en": null,
+      "title_zh": null,
+      "title_bilingual": "Stash"
+    },
+    {
+      "id": "204b81c20fedb05c71493756effb1405e2b46968",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "source": "Product Hunt",
+      "title": "BossMode",
+      "url": "https://www.producthunt.com/products/bossmode-your-mom-is-watching",
+      "published_at": "2026-06-16T00:21:04Z",
+      "first_seen_at": "2026-06-16T07:24:51.659Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
+      "description": "Discussion\n            |\n            Link",
+      "feed_rank": 28,
+      "title_original": "BossMode",
+      "title_en": "BossMode",
+      "title_zh": "老板模式",
+      "title_bilingual": "老板模式 / BossMode"
+    },
+    {
+      "id": "937adac15cc47cf31473f9f089760def727c1a73",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "source": "Product Hunt",
+      "title": "yousaidthat.org",
+      "url": "https://www.producthunt.com/products/yousaidthat-org",
+      "published_at": "2026-06-15T17:23:50Z",
+      "first_seen_at": "2026-06-16T07:24:51.659Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
+      "description": "Discussion\n            |\n            Link",
+      "feed_rank": 46,
+      "title_original": "yousaidthat.org",
+      "title_en": "yousaidthat.org",
+      "title_zh": null,
+      "title_bilingual": "yousaidthat.org"
+    },
+    {
+      "id": "0f23f5b7564c900703b5e9d99bf9c8d18c54aaf7",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "source": "Product Hunt",
+      "title": "Covari",
+      "url": "https://www.producthunt.com/products/direct-email-to-quote-covari",
+      "published_at": "2026-06-15T12:42:33Z",
+      "first_seen_at": "2026-06-16T07:24:51.659Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
+      "description": "Discussion\n            |\n            Link",
+      "feed_rank": 37,
+      "title_original": "Covari",
+      "title_en": "Covari",
+      "title_zh": "地毯",
+      "title_bilingual": "地毯 / Covari"
+    },
+    {
+      "id": "3157f99a4c96aa48080473d471be899b679f2494",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "source": "Product Hunt",
+      "title": "ResumeWriting.com",
+      "url": "https://www.producthunt.com/products/resumewriting-com",
+      "published_at": "2026-06-15T12:31:25Z",
+      "first_seen_at": "2026-06-16T07:24:51.659Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
+      "description": "Discussion\n            |\n            Link",
+      "feed_rank": 45,
+      "title_original": "ResumeWriting.com",
+      "title_en": "ResumeWriting.com",
+      "title_zh": null,
+      "title_bilingual": "ResumeWriting.com"
+    },
+    {
+      "id": "5553f4331dcf7a5855d8b56a3fb86fd69666dc88",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "source": "Product Hunt",
+      "title": "Sklm",
+      "url": "https://www.producthunt.com/products/sklm",
+      "published_at": "2026-06-15T09:44:04Z",
+      "first_seen_at": "2026-06-16T07:24:51.659Z",
+      "last_seen_at": "2026-06-16T07:24:51.659Z",
+      "description": "Discussion\n            |\n            Link",
+      "feed_rank": 6,
+      "title_original": "Sklm",
+      "title_en": null,
+      "title_zh": null,
+      "title_bilingual": "Sklm"
     }
   ]
 }

@@ -318,13 +318,57 @@ class CuratedRssFetcher implements Fetcher {
           category: this.category,
           feed_url: this.feedUrl,
           feed_rank: feedIndex,
-          description: (entry.contentSnippet || entry.content || '').slice(0, 200),
+          description: extractEntryDescription(entry),
         },
       });
     }
 
     return items;
   }
+}
+
+/** 去除 HTML 标签与常见实体，压缩空白，得到纯文本 */
+function htmlToText(html: string): string {
+  return html
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+/**
+ * 从 RSS/Atom 条目中提取「真正的内容简介」。
+ *
+ * Product Hunt 等 Atom 源把产品 tagline 放在正文首个 <p> 中，而 contentSnippet
+ * 常被收敛成 "Discussion | Link" 这类页脚噪音。这里优先取正文首段作为简介，
+ * 并兜底去掉 Product Hunt 的 "Discussion | Link" 页脚，确保 GLM 能据此生成
+ * 「产品名称 + 功能简短描述」的标题与产品简介。
+ */
+function extractEntryDescription(entry: {
+  content?: string;
+  contentSnippet?: string;
+}): string {
+  const html = entry.content || '';
+  const pMatch = html.match(/<p[^>]*>([\s\S]*?)<\/p>/i);
+  let text = pMatch ? htmlToText(pMatch[1]) : '';
+
+  // 首段若本身就是 Discussion/Link 页脚，视为无效
+  if (/^(discussion|link)\b/i.test(text)) text = '';
+
+  if (!text) {
+    const snip = (entry.contentSnippet || '').trim();
+    text = /^(discussion|link)\b/i.test(snip) ? htmlToText(html) : snip;
+  }
+
+  // 兜底剔除 Product Hunt 页脚
+  text = text.replace(/\s*Discussion\s*\|\s*Link\s*$/i, '').trim();
+
+  return text.slice(0, 200);
 }
 
 /** 判断某信源是否经由自建 WeWe RSS 服务转换（微信公众号） */

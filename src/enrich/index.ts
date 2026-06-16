@@ -26,6 +26,21 @@ function isCurrentVersion(entry: SummaryEntry | undefined): boolean {
   return !!entry && typeof entry.v === 'number' && entry.v >= ENRICH_VERSION;
 }
 
+/** 中日韩统一表意文字（用于判断产品标题是否已含中文功能描述） */
+const CJK_RE = /[\u4e00-\u9fff]/;
+
+/**
+ * 产品类条目是否需要重新生成标题。
+ * 命中条件：缺 title_clean，或 title_clean 仍是光秃的英文产品名（不含中文）。
+ * 这类条目即便已评分，也应重生成，使标题满足「产品名称 + 功能简短描述」的展示要求
+ * （配合升级后的 description 提取，GLM 可据真实 tagline 补全功能描述）。
+ */
+function needsBetterProductTitle(entry: SummaryEntry | undefined): boolean {
+  if (!entry || entry.type !== 'product') return false;
+  const t = (entry.title_clean || '').trim();
+  return !t || !CJK_RE.test(t);
+}
+
 /**
  * 为资讯条目补充 title_clean / summary 及 AI Radar 准入评审字段（基于标题）。
  *
@@ -58,7 +73,13 @@ export async function addSummaries(
     if (!url || seen.has(url)) continue;
 
     const cached = cache.get(url);
-    if (cached && hasRadarScore(cached) && isCurrentVersion(cached)) continue;
+    if (
+      cached &&
+      hasRadarScore(cached) &&
+      isCurrentVersion(cached) &&
+      !needsBetterProductTitle(cached)
+    )
+      continue;
 
     // 改写标题需要原始英文标题与描述作上下文，避免把光秃秃的产品名直译
     const title = (it.title || it.title_en || it.title_zh || '').trim();

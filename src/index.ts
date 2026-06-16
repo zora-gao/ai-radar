@@ -263,8 +263,9 @@ async function main(): Promise<number> {
       if (raw.publishedAt && !existing.published_at) {
         existing.published_at = toISOString(raw.publishedAt);
       }
-      // 回填描述：旧归档可能没有该字段，新抓到则补上
-      if (rawDesc && !existing.description) {
+      // 刷新描述：以最新一次抓取为准。描述提取逻辑升级后（如 Product Hunt 改取
+      // 正文首段 tagline 而非 "Discussion | Link" 页脚），旧归档里的劣质描述会被覆盖。
+      if (rawDesc) {
         existing.description = rawDesc;
       }
       // 榜单位次以最新一次抓取为准（Product Hunt 排名会随热度变化）

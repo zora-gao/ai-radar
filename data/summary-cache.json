@@ -1718,14 +1718,14 @@
   },
   "https://www.bloomberg.com/news/videos/2026-06-12/bloomberg-tech-6-12-2026-video": {
     "title_clean": "SpaceX完成史上最大规模IPO",
-    "summary": "SpaceX于2026年6月12日完成史上最大规模的IPO，成为科技行业里程碑事件。这一融资动向对AI领域尤其是航天AI应用和商业化探索具有重要参考价值。",
-    "score": 45,
-    "priority": "P3",
+    "summary": "SpaceX于2026年6月12日完成了史上最大规模的首次公开募股，这一里程碑事件标志着商业航天领域的重要突破。对元宝产品经理而言，这反映了高价值科技企业的资本市场认可度，可能为AI领域的商业化路径提供参考。",
+    "score": 55,
+    "priority": "P2",
     "type": "news",
     "channels": [
       "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran": {
     "title_clean": "Meta公司向美国盲人退伍军人免费赠送AI眼镜",
@@ -3758,15 +3758,15 @@
   },
   "https://www.producthunt.com/products/flows-time-tracker": {
     "title_clean": "Flows：时间追踪工具",
-    "summary": "Flows是一款时间追踪工具，帮助用户记录和分析时间使用情况。产品经理可参考此类工具如何帮助用户提高时间管理效率，作为元宝可能集成的时间管理功能参考。",
-    "score": 45,
-    "priority": "P3",
+    "summary": "Flows是一款时间追踪工具，区别于传统用于计费的时间追踪器，它专注于帮助用户更有效地管理时间而非计费。产品经理可参考其差异化定位，思考如何为用户提供非计费场景下的时间管理解决方案。",
+    "score": 65,
+    "priority": "P2",
     "type": "product",
     "channels": [
       "服务场景",
       "用户需求"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/fonty-menu-bar": {
     "title_clean": "Fonty Menu Bar：Mac菜单栏安装Google字体工具",
@@ -5162,6 +5162,242 @@
     "channels": [
       "竞品动态",
       "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039445&idx=2&sn=08f29b66eca276171648e289c901c9d9": {
+    "title_clean": "Cursor被马斯克以600亿美元收购",
+    "summary": "AI代码编辑工具Cursor被马斯克以600亿美元收购，这一交易反映了AI开发工具市场的巨大价值，对元宝产品经理评估AI工具商业化路径和竞品策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039445&idx=1&sn=92cc59bd38d810398859639c8afd2d29": {
+    "title_clean": "具身智能产业链齐聚北京亦庄",
+    "summary": "北京亦庄聚集了国内具身智能产业链的众多企业，展示了该领域的发展态势和产业布局。对产品经理了解AI硬件与机器人领域的发展趋势、产业链合作机会以及具身智能的商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039342&idx=3&sn=9000171b10ffd4a2b4fdd8b1869125b5": {
+    "title_clean": "AgentDoG1.5：AI Agent安全框架开源发布",
+    "summary": "AgentDoG1.5是一款开源的AI Agent安全框架，旨在解决AI Agent在工作场景中的安全问题。该框架的发布为元宝产品经理提供了关于如何构建安全AI Agent的重要参考，特别是在Agent能力增强和服务场景拓展方面的安全考量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039317&idx=1&sn=ff1030e264f225d00961bdf7989761ee": {
+    "title_clean": "年薪300万的前沿部署工程师，要被「录屏教学」替代了",
+    "summary": "该资讯指出高薪的前沿部署工程师岗位可能被录屏教学技术替代，反映了AI在专业领域培训中的应用趋势。对产品经理而言，这提示AI辅助技能培训工具的市场潜力，以及AI如何改变高价值专业岗位的培训模式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/amazon-faces-billions-in-penalties-from-potential-ftc-ad-suit": {
+    "title_clean": "亚马逊面临FTC广告欺诈诉讼，可能被处以数十亿美元罚款",
+    "summary": "美国联邦贸易委员会可能对亚马逊提起诉讼，指控这家电商巨头误导广告商，可能导致数十亿美元的民事罚款。这一事件对产品经理有参考价值，因为它反映了大型平台在广告透明度方面的监管风险，以及AI助手在广告推荐和投放中的合规重要性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/seeking-crypto-policy-clarity-in-dc-video": {
+    "title_clean": "寻求加密货币政策'明确性'：美国监管机构将明确监管状态",
+    "summary": "Bloomberg Intelligence分析师指出，美国国会和监管机构将着手明确加密货币的监管状态，这可能为行业提供更清晰的监管框架，对元宝产品经理了解金融科技监管趋势和合规要求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/how-lopes-lara-turned-kylie-jenner-gossip-into-billions-video": {
+    "title_clean": "Kalshi：AI代理处理内部流程",
+    "summary": "Kalshi公司开发了自己的AI代理，用于处理多种内部流程，包括一些棘手问题。该AI代理能够将名人八卦等非结构化信息转化为商业价值，展示了AI在金融服务领域的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/sec-move-could-bolster-tokenized-stocks-video": {
+    "title_clean": "SEC拟推动代币化股票发展",
+    "summary": "美国SEC委员Paul Atkins暗示可能修改Rule 611规则，这可能促进代币化股票市场发展。Bloomberg Intelligence分析师Dushyant Shahrawat对此进行了分析，对金融科技和数字资产领域的产品经理具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon": {
+    "title_clean": "SpaceX估值飙升至2.6万亿美元，短暂超越亚马逊",
+    "summary": "SpaceX自本周五股票交易以来估值已增长1万亿美元，达到2.6万亿美元，短暂超过亚马逊成为全球市值最高公司。这一估值飙升反映了市场对商业航天和太空探索领域的巨大信心，对元宝产品经理评估高增长科技企业的估值逻辑和商业潜力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/spacex-crypto-short-squeeze-briefly-sends-value-to-3t-video": {
+    "title_clean": "SpaceX：加密货币期货空头挤压推估值至3万亿美元",
+    "summary": "SpaceX在加密货币永续期货市场出现短暂空头挤压，导致其隐含估值一度达到3万亿美元。这一事件反映了加密市场对高估值科技公司的投机行为，对元宝产品经理了解加密资产与传统科技巨头估值关联性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/crypto-wrap-strategy-buys-more-bitcoin-robinhood-cuts-video": {
+    "title_clean": "Robinhood裁员10%以保持精简，加密货币领域动态",
+    "summary": "Robinhood宣布裁员10%（约300个职位）以保持组织精简，这是加密货币交易平台在市场波动中的常见调整。这一动态对元宝产品经理有参考价值，反映了加密金融服务领域在市场变化下的成本控制策略，可能影响相关AI服务场景的用户需求变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/spacex-investor-powerlaw-debuts-amid-ipo-race-video": {
+    "title_clean": "SpaceX投资公司Powerlaw推出：专注AI与航天投资",
+    "summary": "Powerlaw是一家封闭式基金，持有SpaceX和OpenAI的股份，其首次交易价格远超底层资产价值，正利用零售投资者热潮。这反映了AI与航天领域的高估值趋势，对元宝产品经理了解资本对AI赛道的投资偏好有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/snap-launches-2-195-specs-declaring-glasses-the-next-computer": {
+    "title_clean": "Snap推出2195美元AR眼镜，宣称眼镜将成为下一代计算机",
+    "summary": "Snap公司发布售价2195美元的AR眼镜Specs，联合创始人埃文·斯皮格尔称其为跨越式进步和未来的计算机。这对元宝产品经理评估AR眼镜作为下一代计算平台的商业化路径和用户接受度有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners": {
+    "title_clean": "Christopher Golda和Grey Baker加入YC成为普通合伙人",
+    "summary": "Christopher Golda和Grey Baker已加入YC（Y Combinator）担任普通合伙人。这对YC的投资团队和创业生态系统具有重要意义，可能影响未来AI领域的投资方向和创业机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting": {
+    "title_clean": "保险公司转向核心风险承保的AI战略",
+    "summary": "保险公司正调整AI投资策略，从单纯提高效率转向创造实际业务价值，特别是在核心风险承保领域。2026年Evident AI指数显示，保险公司正将AI技术深度整合到风险评估和定价流程中，这可能为AI在金融垂直领域的应用提供重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/moody-s-private-credit-faces-2028-test-video": {
+    "title_clean": "穆迪：私人信贷市场面临2028年考验",
+    "summary": "穆迪全球私人信贷主管Marc Pinto指出私人信贷市场正进入关键阶段，AI基础设施投资正在创造新的机遇与挑战。这一分析对元宝产品经理了解金融科技领域AI应用趋势及潜在服务场景具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/spacex-pounces-on-60-billion-cursor-takeover-days-after-ipo": {
+    "title_clean": "SpaceX：60亿美元收购AI编程工具Cursor",
+    "summary": "SpaceX在IPO仅两天后决定以60亿美元收购AI编程工具Cursor，远早于30天的决策期限。这笔交易反映了AI编程工具在科技巨头眼中的战略价值，对元宝产品经理评估AI编程助手市场格局和潜在收购机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai": {
+    "title_clean": "Probably：构建更可靠AI的初创公司",
+    "summary": "Probably获得900万美元融资，致力于开发更可靠的AI系统，旨在防止幻觉和事实错误到达用户，实现与确定性系统相当的准确性。这对元宝产品经理有参考价值，特别是在提升AI回答准确性和可靠性方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/deployment-simulation": {
+    "title_clean": "OpenAI推出部署模拟技术：通过真实对话数据预测AI模型行为",
+    "summary": "OpenAI引入部署模拟方法，利用真实对话数据预测AI模型在发布前的行为，以提高安全性和评估准确性。这项技术有助于产品经理在模型上线前发现潜在问题，优化AI助手的安全性和可靠性。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
       "用户需求"
     ],
     "v": 4

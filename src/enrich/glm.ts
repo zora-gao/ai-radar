@@ -6,7 +6,7 @@ import { postJson } from '../utils/http.js';
  * AI Radar 准入引擎（基于标题）：一次调用同时完成
  *  - 标题清洗 title_clean
  *  - 一句话摘要 summary
- *  - 准入评审：score / priority / type / channels / reason
+ *  - 准入评审：score / priority / type / channels
  *
  * 鉴权使用环境变量 GLM_API_KEY（env-only，禁止硬编码）。
  * 模型可用 GLM_MODEL 覆盖，默认使用免费的 Flash 系列。
@@ -40,8 +40,6 @@ export interface SummaryEntry {
   type?: RadarType | null;
   /** 方向标签 */
   channels?: string[] | null;
-  /** 一句话准入/打分理由 */
-  reason?: string | null;
   /** 生成此条目所用的 enrich 逻辑版本（用于旧缓存逐步重生成） */
   v?: number | null;
 }
@@ -80,8 +78,7 @@ const SYSTEM_PROMPT = [
   '  "score": 0到100的整数,',
   '  "priority": "P0|P1|P2|P3",',
   '  "type": "news 或 product",',
-  '  "channels": ["从以下选0-3个最贴切的方向标签：AI助手,AI Agent,多模态,AI搜索,服务场景,竞品动态,商业化,用户需求"],',
-  '  "reason": "一句话(不超过30汉字)说明准入/打分理由"',
+  '  "channels": ["从以下选0-3个最贴切的方向标签：AI助手,AI Agent,多模态,AI搜索,服务场景,竞品动态,商业化,用户需求"]',
   '}',
 ].join('\n');
 
@@ -149,7 +146,6 @@ function parseSummaryJson(content: string): SummaryEntry | null {
     const priority = normalizePriority(obj.priority, score);
     const type = normalizeType(obj.type);
     const channels = normalizeChannels(obj.channels);
-    const reason = typeof obj.reason === 'string' ? obj.reason.trim() : '';
 
     if (!titleClean && !summary && score === null) return null;
 
@@ -160,7 +156,6 @@ function parseSummaryJson(content: string): SummaryEntry | null {
       priority,
       type,
       channels,
-      reason: reason || null,
     };
   } catch {
     return null;

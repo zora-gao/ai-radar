@@ -25,7 +25,6 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
   // AI Radar 准入信息
   const priority = item.radar_priority || null
   const channels = item.radar_channels || []
-  const reason = item.radar_reason?.trim() || ''
   const score = typeof item.radar_score === 'number' && Number.isFinite(item.radar_score)
     ? item.radar_score
     : null
@@ -65,7 +64,6 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
             {priority && (
               <span
                 className={`inline-flex items-center px-1.5 py-0.5 rounded text-[11px] font-bold flex-shrink-0 ${PRIORITY_STYLE[priority]}`}
-                title={item.radar_reason || undefined}
               >
                 {priority}
               </span>
@@ -148,17 +146,6 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
             </div>
           )}
 
-          {reason && (
-            <div className={`mt-3 rounded-lg px-3 py-2 text-[13px] leading-relaxed border-l-2 ${
-              isVisited
-                ? 'bg-slate-50 border-slate-200 text-slate-400 dark:bg-slate-800/40 dark:border-slate-700 dark:text-slate-500'
-                : 'bg-amber-50/60 border-amber-300 text-slate-600 dark:bg-amber-900/10 dark:border-amber-700 dark:text-slate-300'
-            }`}>
-              <span className="font-semibold text-amber-700 dark:text-amber-400">推荐理由：</span>
-              {reason}
-            </div>
-          )}
-          
           <div className={`flex items-center justify-between gap-4 mt-3 text-xs ${
             isVisited 
               ? 'text-slate-400 dark:text-slate-500' 

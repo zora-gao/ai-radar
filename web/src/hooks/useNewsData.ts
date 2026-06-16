@@ -134,19 +134,16 @@ export function useNewsData(): UseNewsDataReturn {
     [data]
   )
 
-  // 产品榜：仅 Product Hunt，按「发布日期倒序 + Product Hunt 榜单位次升序」排列，
-  // 还原 Product Hunt 平台排名，而非按 AI Radar 打分排序。feed_rank 缺失时回退到时间倒序。
+  // 产品榜：仅 Product Hunt，按 Product Hunt 榜单位次（feed_rank）升序展示，
+  // 完全还原平台榜单顺序，不按时间、也不按 AI Radar 打分排序。
+  // feed_rank 缺失时回退到时间倒序，保证无榜单位次的条目排在后面。
   const productItems = useMemo(() => {
     const items = (data?.items || []).filter(item => item.site_id === PRODUCT_HUNT_SITE_ID)
-    const dayOf = (it: NewsItem) => (it.published_at || it.first_seen_at || '').slice(0, 10)
     const rankOf = (it: NewsItem) =>
       typeof it.feed_rank === 'number' ? it.feed_rank : Number.MAX_SAFE_INTEGER
     const timeOf = (it: NewsItem) =>
       new Date(it.published_at || it.first_seen_at || 0).getTime()
     return items.slice().sort((a, b) => {
-      const dayA = dayOf(a)
-      const dayB = dayOf(b)
-      if (dayA !== dayB) return dayB.localeCompare(dayA)
       const ra = rankOf(a)
       const rb = rankOf(b)
       if (ra !== rb) return ra - rb

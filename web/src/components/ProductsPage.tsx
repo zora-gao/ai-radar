@@ -17,8 +17,8 @@ interface ProductsPageProps {
 
 /**
  * 「产品」tab：独立展示 Product Hunt 信源。
- * 列表已在数据层按「发布日期倒序 + Product Hunt 榜单位次升序」排好，
- * 体现 Product Hunt 平台排名，而非按 AI Radar 打分排序。
+ * 列表已在数据层按 Product Hunt 榜单位次（feed_rank）升序排好，
+ * 完全还原平台榜单顺序，不按时间、也不按 AI Radar 打分排序。
  */
 export function ProductsPage({
   items,
@@ -41,7 +41,7 @@ export function ProductsPage({
             Product Hunt 热门产品
           </h2>
           <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-0.5">
-            按 Product Hunt 平台排名展示（{timeRange === '24h' ? '近 24 小时' : '近 7 天'}），按上榜位次排序
+            按 Product Hunt 榜单顺序展示（{timeRange === '24h' ? '近 24 小时' : '近 7 天'}），按上榜位次排序
           </p>
         </div>
       </div>

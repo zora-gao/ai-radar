@@ -98,7 +98,6 @@ export async function addSummaries(
       radar_priority: entry.priority || null,
       radar_type: entry.type || null,
       radar_channels: entry.channels && entry.channels.length ? entry.channels : null,
-      radar_reason: entry.reason || null,
     };
   };
 
@@ -134,7 +133,6 @@ export function loadSummaryCache(
     const channels = Array.isArray(obj.channels)
       ? obj.channels.filter((c): c is string => typeof c === 'string')
       : null;
-    const reason = typeof obj.reason === 'string' ? obj.reason : null;
     const v = typeof obj.v === 'number' && Number.isFinite(obj.v) ? obj.v : null;
 
     if (!titleClean && !summary && score === null) continue;
@@ -145,7 +143,6 @@ export function loadSummaryCache(
       priority,
       type,
       channels: channels && channels.length ? channels : null,
-      reason,
       v,
     });
   }

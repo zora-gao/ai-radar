@@ -137,6 +137,9 @@ export function useNewsData(): UseNewsDataReturn {
   // 产品榜：仅 Product Hunt，按 Product Hunt 榜单位次（feed_rank）升序展示，
   // 完全还原平台榜单顺序，不按时间、也不按 AI Radar 打分排序。
   // feed_rank 缺失时回退到时间倒序，保证无榜单位次的条目排在后面。
+  //
+  // 注：Product Hunt 条目在后端 enrich 阶段享受「专属配额」，所有条目都会被
+  // GLM 加工为「产品名：功能简述」格式 + 完整摘要；此处不做过滤，完整展示榜单。
   const productItems = useMemo(() => {
     const items = (data?.items || []).filter(item => item.site_id === PRODUCT_HUNT_SITE_ID)
     const rankOf = (it: NewsItem) =>

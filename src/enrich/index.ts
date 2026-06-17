@@ -86,10 +86,16 @@ export async function addSummaries(
 
   // 收集需要新生成/补评的候选（按 itemsAi 顺序，URL 去重）
   // 命中条件：缓存缺失，或旧缓存仅有摘要但缺 radar 评分，或旧缓存为过期版本（需用新逻辑重生成）。
-  // 优先级：把「product 标题/摘要不达标」的条目排到队首，确保在 maxNew 预算内优先修复，
-  // 避免被大量「仅版本升级」的常规重生成挤出预算。
-  const priority: Array<{ url: string; title: string; description: string }> = [];
-  const normal: Array<{ url: string; title: string; description: string }> = [];
+  //
+  // 调度策略：
+  //   - product（Product Hunt）条目走「专属配额」：全部纳入 todo，不受 maxNew 限制。
+  //     产品 tab 是榜单展示，对完整度极敏感；漏处理就会出现「光秃英文名 + 空摘要」
+  //     的违规卡片，伤害远大于多调几次 GLM 的成本。
+  //   - 其余资讯（news/research/...）走 maxNew 预算，「v4 待重生成」的旧缓存排队首
+  //     保证旧不达标先升级，新增条目排其后。
+  const productMust: Array<{ url: string; title: string; description: string }> = [];
+  const newsPriority: Array<{ url: string; title: string; description: string }> = [];
+  const newsNormal: Array<{ url: string; title: string; description: string }> = [];
   const seen = new Set<string>();
 
   for (const it of itemsAi) {
@@ -110,21 +116,34 @@ export async function addSummaries(
       title,
       description: sanitizeDescription((it.description || '').trim()),
     };
-    if (needsTitle) priority.push(candidate);
-    else normal.push(candidate);
+    if (it.site_id === 'producthunt') {
+      productMust.push(candidate);
+    } else if (needsTitle) {
+      newsPriority.push(candidate);
+    } else {
+      newsNormal.push(candidate);
+    }
   }
 
-  const candidates = [...priority, ...normal];
+  // 资讯类受 maxNew 预算限制；产品类全部必须处理（专属配额）
+  const newsTodo = [...newsPriority, ...newsNormal].slice(0, Math.max(0, maxNew));
+  const todo = apiKey ? [...productMust, ...newsTodo] : [];
 
   let generated = 0;
-  const todo = apiKey ? candidates.slice(0, Math.max(0, maxNew)) : [];
-
   if (todo.length > 0) {
     const limit = pLimit(concurrency);
+    // 产品类强制处理时，单条失败做一次重试（限流偶发恢复后即成功），
+    // 进一步降低产品 tab 出现违规卡片的概率。
+    const productUrls = new Set(productMust.map((c) => c.url));
+    const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
     await Promise.all(
       todo.map((c) =>
         limit(async () => {
-          const entry = await summarizeTitle(c.title, c.description, apiKey);
+          let entry = await summarizeTitle(c.title, c.description, apiKey);
+          if (!entry && productUrls.has(c.url)) {
+            await sleep(1500);
+            entry = await summarizeTitle(c.title, c.description, apiKey);
+          }
           if (entry && (entry.title_clean || entry.summary || hasRadarScore(entry))) {
             cache.set(c.url, { ...entry, v: ENRICH_VERSION });
             generated++;

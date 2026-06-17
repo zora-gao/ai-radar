@@ -6259,5 +6259,129 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/supergoal": {
+    "title_clean": "SuperGoal：世界杯菜单栏工具",
+    "summary": "SuperGoal是一款菜单栏工具，为用户提供世界杯相关信息和更新。产品经理可参考此类轻量级应用如何将大型赛事信息整合到用户日常使用场景中，探索元宝在体育赛事信息推送和个性化服务方面的可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/spanly": {
+    "title_clean": "Spanly：AI Agent MCP服务器监控工具",
+    "summary": "Spanly是一款监控工具，可让用户查看AI代理在MCP服务器内部的操作行为。对于元宝产品经理而言，这有助于理解AI Agent与外部服务交互的监控需求，对构建可观测性和调试能力有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-17/trump-phone-review-the-499-trump-mobile-t1-is-more-novelty-than-real-contender": {
+    "title_clean": "The Trump Phone：政治人物联名手机产品",
+    "summary": "The Trump Phone已正式发布，但与最初宣传的产品定位存在较大差异。这款政治人物联名手机更多被视为纪念品而非真正的智能手机竞争产品，对AI助手产品经理的参考价值有限。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom": {
+    "title_clean": "加拿大养老基金投资印度AI数据中心建设",
+    "summary": "加拿大养老基金将收购印度数据中心运营商CtrlS公司8.2%的股份，该公司在印度运营超过15个数据中心。这反映了AI发展推动数据中心基础设施投资的全球趋势，对元宝产品经理了解AI基础设施投资方向和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/a-bit-differently": {
+    "title_clean": "Restaurant Menu Visualizer：餐厅菜品可视化工具",
+    "summary": "Restaurant Menu Visualizer是一款能让用户通过Ava分享菜单并预览菜品实际外观的工具，帮助用户在做点餐决策前了解菜品视觉效果，提升点餐体验和减少点餐后的落差感。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/bezos-says-new-glenn-explosion-was-rough-moment-video": {
+    "title_clean": "贝索斯谈新格伦火箭爆炸：团队遭遇重创",
+    "summary": "亚马逊创始人贝索斯谈及Blue Origin公司新格伦火箭爆炸事件，称这是团队遭遇的'艰难时刻'和'沉重打击'。作为火箭公司的重要技术挫折，对了解航天领域技术挑战和风险管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation": {
+    "title_clean": "DeepL收购Mixhalo：实时活动音频流媒体与翻译服务",
+    "summary": "DeepL收购Mixhalo，这是一家专注于实时活动音频流媒体和翻译服务的公司。此次收购标志着DeepL拓展美国市场业务的重要举措，将在旧金山设立办公室，增强其在实时音频翻译领域的能力，为用户提供更全面的跨语言交流解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest": {
+    "title_clean": "Pinterest：AI购物对话应用Ask Pinterest",
+    "summary": "Pinterest推出名为'Ask Pinterest'的实验性AI购物应用，用户可通过对话界面获取购物推荐和灵感。这展示了社交平台向AI购物助手转型的趋势，为元宝在社交场景下的AI购物功能提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-17/ai-bubble-risks-are-rising-as-borrowing-balloons": {
+    "title_clean": "AI借贷风险上升：AI企业债务风险加剧",
+    "summary": "AI行业借贷规模迅速扩张，部分AI企业的债务风险正在上升。这一趋势对产品经理评估AI行业财务健康状况和潜在市场风险具有重要参考价值，可能影响投资决策和产品战略规划。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/zai-org/glm-52-blog": {
+    "title_clean": "GLM-5.2：面向长周期任务的AI模型",
+    "summary": "智谱AI发布GLM-5.2模型，专为处理长周期任务设计，可能具备更强的上下文理解和持续执行能力。这对元宝产品经理评估AI Agent在复杂任务处理上的技术进展具有重要参考价值，特别是关于长期任务规划和持续交互能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

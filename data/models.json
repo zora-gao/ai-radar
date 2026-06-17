@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-06-17T20:05:58.833Z",
+  "generated_at": "2026-06-17T23:19:47.816Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "cohere/north-mini-code:free",
+      "name": "North Mini Code (free)",
+      "vendor": "Cohere",
+      "vendor_slug": "cohere",
+      "url": "https://openrouter.ai/cohere/north-mini-code-20260617",
+      "created_at": "2026-06-17T19:15:48Z",
+      "context_length": 256000,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "North Mini Code is Cohere's first agentic coding model and the debut of its North family. A sparse mixture-of-experts model with 30B total parameters and 3B active, it is optimized...",
+      "description_zh": "North Mini Code 是 Cohere 的第一个代理编码模型，也是 North 系列的首次亮相。一个稀疏专家混合模型，具有 30B 总参数和 3B 活跃参数，经过优化..."
+    },
     {
       "id": "z-ai/glm-5.2",
       "name": "GLM 5.2",
@@ -1165,9 +1188,9 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
+      "price_in": 0.435,
+      "price_out": 0.87,
+      "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "MiMo-V2.5-Pro is Xiaomi’s flagship model, delivering strong performance in general agentic capabilities, complex software engineering, and long-horizon tasks, with top rankings on benchmarks such as ClawEval, GDPVal, and SWE-bench Pro....",
@@ -1442,31 +1465,6 @@
       "supports_reasoning": true,
       "description": "Gemma 4 26B A4B IT is an instruction-tuned Mixture-of-Experts (MoE) model from Google DeepMind. Despite 25.2B total parameters, only 3.8B activate per token during inference — delivering near-31B quality at...",
       "description_zh": "Gemma 4 26B A4B IT 是 Google DeepMind 的指令调整专家混合 (MoE) 模型。尽管总参数为 25.2B，但在推理过程中每个令牌仅激活 3.8B——以...提供接近 31B 的质量"
-    },
-    {
-      "id": "google/gemma-4-31b-it:free",
-      "name": "Gemma 4 31B (free)",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemma-4-31b-it-20260402",
-      "created_at": "2026-04-02T16:48:06Z",
-      "context_length": 262144,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemma 4 31B Instruct is Google DeepMind's 30.7B dense multimodal model supporting text and image input with text output. Features a 256K token context window, configurable thinking/reasoning mode, native function...",
-      "description_zh": "Gemma 4 31B Instruct 是 Google DeepMind 的 30.7B 密集多模态模型，支持文本和图像输入以及文本输出。具有 256K 令牌上下文窗口、可配置的思维/推理模式、本机功能..."
     }
   ]
 }

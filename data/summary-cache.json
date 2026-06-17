@@ -6821,5 +6821,216 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039784&idx=3&sn=e324a77817d9313ea92e5b09fbe6b900": {
+    "title_clean": "ACL2026Main：混合推理模型漏洞研究",
+    "summary": "南京大学移动团队提出TNT模型，研究混合推理模型存在的漏洞问题。这项研究揭示了AI推理过程中的潜在缺陷，对提升模型可靠性和安全性具有重要参考价值，有助于产品经理在设计AI系统时考虑防御机制。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039784&idx=1&sn=bd3bcf35cd77ab17a83b1e40032ff8cc": {
+    "title_clean": "九章云极：AI工厂解决方案提供商",
+    "summary": "九章云极推出AI工厂解决方案，解决企业拥有大量GPU却难以生产专业智能的问题。该方案旨在帮助企业高效利用AI资源，提升AI应用开发与部署效率，为产品经理提供AI基础设施建设的参考思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039553&idx=1&sn=6f39b66f578fe8c73df4001ab8c283c6": {
+    "title_clean": "AIEC2026：Agent成为企业新员工",
+    "summary": "AIEC2026会议指出，从今天起，AI Agent开始在企业中扮演类似员工的角色，承担各类工作任务。这一趋势表明AI Agent正从概念走向实际企业应用，为产品经理提供了AI助手在企业场景落地的重要参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039553&idx=2&sn=d3af86f5b7ee134706e517d4f4845b05": {
+    "title_clean": "周衔团队发布首款「非人形」三折叠机器人",
+    "summary": "周衔团队推出一款无头无脚的三折叠机器人，突破传统人形机器人设计限制。这款创新机器人可能提供更灵活的移动性和适应性，为AI机器人形态探索新方向，对产品经理思考机器人交互与场景应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/bwx-agrees-to-license-nuclear-reactor-design-after-activist-push": {
+    "title_clean": "BWX Technologies：小型模块化反应堆设计授权",
+    "summary": "BWX Technologies在激进投资者推动下，同意授权其小型模块化反应堆设计。这一商业合作标志着核能技术商业化进程加速，对AI产品经理了解能源领域技术商业化模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/microsoft-s-china-ai-business-grows-on-openai-model-sales": {
+    "title_clean": "微软在中国销售OpenAI模型，扩大AI业务版图",
+    "summary": "微软尽管面临中美AI竞争加剧，仍成功向中国企业销售OpenAI模型，建立了显著业务。这一动向表明国际AI巨头正积极开拓中国市场，对元宝产品经理了解AI服务全球化布局和竞品策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors": {
+    "title_clean": "Roelof Botha加入SpaceX董事会",
+    "summary": "红杉资本前合伙人Roelof Botha加入SpaceX董事会，填补公司上市后的董事空缺。SpaceX刚刚完成了史上最大规模的IPO，此次人事变动可能对公司战略方向产生重要影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive": {
+    "title_clean": "Snap发布高价AR眼镜后股价下跌",
+    "summary": "Snap公司发布备受期待但价格昂贵的智能眼镜后，股价出现下跌。这反映了市场对高价格AR设备接受度的担忧，对元宝在智能眼镜定价策略和产品定位上有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/the-close-6-17-2026-video": {
+    "title_clean": "美股下跌：交易员预计美联储10月加息",
+    "summary": "彭博电视报道华尔街收盘前最新消息，交易员预计美联储可能在10月加息，导致股市下跌。此信息对元宝产品经理了解金融市场动态和用户可能关注的财经资讯场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi": {
+    "title_clean": "NEA's Tiffany Luck：企业仍在探索AI投资回报",
+    "summary": "NEA合伙人Tiffany Luck指出，企业正在努力计算AI投资的回报率。此前硅谷曾流行\"Tokenmaxxing\"趋势，鼓励员工最大化使用AI，但随后面临成本压力，如Uber据报道在AI使用上花费巨大。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off": {
+    "title_clean": "全球领导人担忧美国AI断供风险",
+    "summary": "法国总统马克龙和印度总理莫迪在G7峰会上表达了对美国可能随时切断AI访问的担忧，此前Anthropic的断供事件已证实这种风险。这对元宝产品经理提示了AI服务依赖性和国际竞争格局的重要性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning": {
+    "title_clean": "NEA的Tiffany Luck谈AI IPO、个人代理与投资回报评估",
+    "summary": "NEA合伙人Tiffany Luck探讨了AI领域的IPO趋势、个人代理发展以及投资回报评估问题。文章反映了硅谷从早期的\"Tokenmaxxing\"热潮到如今对AI实际投资回报的理性思考转变，对元宝产品经理了解AI商业化进程和投资趋势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features": {
+    "title_clean": "Threads重返土耳其并推出新功能",
+    "summary": "Threads因土耳其竞争机构的新决定重返土耳其市场，并推出了新功能。这对元宝产品经理了解国际社交平台在不同市场的合规策略和功能调整有参考价值，特别是在应对各国监管环境变化方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/goldman-hits-1-trillion-record-video": {
+    "title_clean": "高盛达成万亿美元并购交易里程碑",
+    "summary": "高盛今年已促成超过1万亿美元的并购交易，创下银行最快达成此里程碑的记录。这一数据反映了当前企业并购市场的活跃程度，对AI助手产品经理了解企业级服务市场动态和潜在客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/biontech-investor-fortsch-says-founders-spinout-raises-concerns": {
+    "title_clean": "BioNTech投资者Förtsch呼吁创始人离职计划透明化",
+    "summary": "德国投资者Bernd Förtsch要求BioNTech提供创始人离职计划及资产转移至新创企业的更多细节。这一事件对AI产品经理有参考价值，因为大型科技公司创始人离职和资产转移可能影响公司战略方向和创新资源分配，类似情况在AI领域也可能发生。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/introducing-life-sci-bench": {
+    "title_clean": "LifeSciBench：生命科学AI评估基准",
+    "summary": "LifeSciBench是一个由专家创建和评审的基准测试，专门评估AI系统处理现实世界生命科学研究任务和决策的能力。这一基准为AI产品经理提供了评估AI在专业领域表现的参考标准，有助于开发更专业的垂直领域AI助手。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/bofa-exec-sees-ai-expanding-its-domination-of-muni-underwriting": {
+    "title_clean": "美国银行公共金融主管：AI将增强承销业务主导地位",
+    "summary": "美国银行公共金融部门主管Matthew McQueen表示，正利用人工智能技术扩展银行在全国范围内的承销业务，AI将成为增强银行在公共金融领域竞争优势的关键工具。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

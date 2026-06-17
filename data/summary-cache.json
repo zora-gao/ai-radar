@@ -5918,5 +5918,346 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/henji": {
+    "title_clean": "Henji：个性化AI回复生成工具",
+    "summary": "Henji是一款AI回复生成工具，能够根据用户个人风格训练AI，使其回复内容模仿用户自身的语气和表达方式。这为元宝产品经理提供了个性化AI交互的新思路，特别是在保持品牌一致性或个人风格方面的应用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/solongate": {
+    "title_clean": "SolonGate：AI代理零信任安全网关",
+    "summary": "SolonGate是一款专为AI代理设计的零信任安全网关产品，为AI系统提供安全访问控制。该产品对元宝产品经理具有参考价值，特别是在AI代理安全架构设计和企业级AI服务部署方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notchspace-2": {
+    "title_clean": "NotchSpace：Mac刘海屏智能工作区工具",
+    "summary": "NotchSpace是一款将Mac电脑刘海屏区域转化为智能工作空间的工具，提供主动式工作区功能，帮助用户更高效地利用屏幕空间进行多任务操作，对提升Mac用户工作效率有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wilson-3": {
+    "title_clean": "Wilson：Slack中的AI工作助手",
+    "summary": "Wilson是一款集成在Slack中的AI工作助手，能够自动生成报告和工作工具，帮助用户提高工作效率。这款产品展示了AI在办公场景中的实际应用，为元宝产品经理提供了AI助手在团队协作工具中的功能设计参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/brainflow-2": {
+    "title_clean": "BrainFlow：思维整理笔记工具",
+    "summary": "BrainFlow是一款将零散思维转化为结构化笔记的工具，帮助用户整理思绪并形成连贯内容。对于元宝产品经理而言，这类思维整理工具可能启发AI在笔记整理、思维导图生成等方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mcp-2000": {
+    "title_clean": "MCP 2000：浏览器AI鼓机工具",
+    "summary": "MCP 2000是一款在浏览器中运行的AI鼓机工具，将传统MPC鼓机的功能与AI技术结合，为用户提供在线音乐创作体验。产品经理可关注AI在音乐创作工具中的应用方式及交互设计，探索AI赋能创意工具的产品形态。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dualora-dual-size-recorder": {
+    "title_clean": "Dualora：双屏同时录制工具",
+    "summary": "Dualora是一款视频录制工具，可同时以16:9和9:16两种比例进行录制，满足不同平台的内容创作需求。产品经理可关注其多格式输出功能对用户内容创作效率的提升价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/parano-ai": {
+    "title_clean": "Parano.ai：竞品监测AI工具",
+    "summary": "Parano.ai是一款AI驱动的竞品监测工具，帮助用户实时跟踪竞争对手的产品更新、市场策略和动态变化，为产品经理提供竞品情报和市场洞察，辅助产品决策和战略规划。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/paneflow": {
+    "title_clean": "PaneFlow：AI代理制作动态幻灯片工具",
+    "summary": "PaneFlow是一款让AI代理能够创建真实动画幻灯片的产品，可能通过自动化内容生成和动画编排功能，为用户提供高效的内容制作解决方案。这对元宝产品经理在AI内容生成和自动化办公场景方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wario-style": {
+    "title_clean": "Wario Synth：歌曲转Gameboy风格音乐工具",
+    "summary": "Wario Synth是一款音乐转换工具，可将普通歌曲转换为复古Gameboy游戏机风格的8位音乐。这类创意音频处理工具可能为元宝在音乐创作和娱乐场景下的AI应用提供灵感，特别是针对怀旧游戏音乐爱好者群体。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/deep-work-plan": {
+    "title_clean": "Deep Work Plan：AI任务规划工具",
+    "summary": "Deep Work Plan是一款为AI助手提供任务规划能力的工具，强调上下文管理的重要性。该产品通过为AI代理提供结构化计划，帮助用户提升深度工作效率，对元宝产品经理在AI任务规划和上下文管理方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/audiencecue": {
+    "title_clean": "AudienceCue：YouTube评论洞察报告工具",
+    "summary": "AudienceCue是一款将YouTube评论转化为引用洞察和报告的工具，帮助产品经理快速获取用户反馈和需求，为产品迭代和用户研究提供数据支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/polygram-4": {
+    "title_clean": "Polygram Coding Agent：AI原生代码助手工具",
+    "summary": "Polygram Coding Agent是一款AI原生代码助手，可在任何集成开发环境中帮助开发者完成编程任务。作为AI编程辅助工具，它代表了AI在专业开发场景中的应用趋势，对元宝产品经理了解AI助手在垂直领域的应用模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/apple-investors-are-tired-of-ai-promises-want-tangible-progress": {
+    "title_clean": "苹果投资者对AI承诺失去耐心，要求看到实质性进展",
+    "summary": "苹果投资者对公司成为AI领域更强参与者的言论失去耐心，要求开始看到实际成果。这反映了市场对科技巨头AI战略的期待与实际进展之间的差距，对元宝产品经理评估AI商业化路径和用户期望管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-17/spacex-venture-investors-debate-whether-to-cash-out-when-lockups-expire": {
+    "title_clean": "SpaceX投资者讨论何时退出变现",
+    "summary": "SpaceX长期投资者就何时变现其不断增值的股份展开讨论，反映了投资者对高估值科技企业退出策略的考量，这对元宝产品经理理解AI领域高估值企业的投资周期和退出时机有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/black-founders-turned-investors-bethea-woodruff": {
+    "title_clean": "黑人创始人转型投资者：改变风险投资格局",
+    "summary": "由于美国风险投资对黑人创始人的持续低投资额，部分黑人创始人选择转型投资者，以帮助平衡竞争环境。Crunchbase News采访了两位这样的创始人，了解他们的动机和策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-17/defi-expert-eswar-prasad-s-essential-reading-list": {
+    "title_clean": "去中心化金融简史必读书单",
+    "summary": "康奈尔大学教授Eswar Prasad推荐的去中心化金融(DeFi)简史阅读清单，内容实用而非纯学术性，为理解DeFi发展历程提供权威参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/china-plans-mechanism-to-evaluate-ai-impacts-on-job-market": {
+    "title_clean": "中国计划评估AI对就业市场的影响机制",
+    "summary": "中国计划建立评估人工智能对就业市场影响的机制，这反映了北京对技术变革可能影响民众生计的日益增长的关注。这一政策动向对AI产品经理具有重要参考价值，提示需关注AI应用对就业的影响及政策合规性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations": {
+    "title_clean": "Google Cloud：生成式AI自动化市政规划操作",
+    "summary": "Google Cloud生成式AI正在政府部门部署，用于自动化市政规划操作，帮助公共部门处理大量非结构化数据。这对元宝产品经理有参考价值，展示了生成式AI在政府服务场景的自动化应用潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/poland-invests-11-million-in-elevenlabs-to-build-ai-tech-hub": {
+    "title_clean": "波兰投资1100万美元支持ElevenLabs建设AI技术中心",
+    "summary": "波兰政府收购人工智能语音公司ElevenLabs股份，投资1100万美元，旨在将该国打造为欧洲主要AI技术中心。这一投资反映了国家对AI语音技术发展的战略支持，对AI语音领域创业公司发展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson": {
+    "title_clean": "AI创业公司出售经验：投资者看重的与创始人应注意的",
+    "summary": "文章分享了作者在AI创业公司实现收入前就出售的经历，分析了投资者更看重模型和基础设施层面的深度技术挑战，而非基于现有AI平台的应用层产品，这对AI产品经理判断技术路线和投资价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/ai-leaders-including-altman-amodei-set-to-attend-g7-video": {
+    "title_clean": "AI Leaders Including Altman, Amodei Set to Attend G7",
+    "summary": "OpenAI的Sam Altman和Anthropic的Dario Amodei等AI行业领袖将参加在法国举行的七国集团峰会。这表明AI治理和监管已成为全球政策制定者的重要议题，对元宝产品经理了解行业监管趋势和政策影响具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware": {
+    "title_clean": "Strands Agents 和 LeRobot：从 Hugging Face Hub 到机器人硬件的 AI 框架",
+    "summary": "Strands Agents 和 LeRobot 提供了从 Hugging Face 模型库到机器人硬件的完整 AI 框架，使开发者能够轻松将 AI 模型部署到物理机器人上。这对元宝产品经理在 AI 与物理世界交互、服务场景拓展方面具有重要参考价值，展示了 AI Agent 在自动化执行和跨应用操作方面的前沿应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/china-watchdog-urges-more-ipos-from-ai-hong-kong-listed-firms": {
+    "title_clean": "中国证监会鼓励AI企业及港股公司境内上市",
+    "summary": "中国证监会表示将欢迎更多人工智能开发者在境内上市，同时鼓励香港上市公司回归A股，以增强国内资本市场实力。这一政策动向对AI企业融资环境及资本市场结构有重要影响，为AI产品经理提供了行业政策与资本环境的参考信息。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/kuaishou-kling-ai-seeks-2-billion-at-18-billion-value-from-general-atlantic": {
+    "title_clean": "快手旗下Kling AI获General Atlantic领投融资",
+    "summary": "快手科技正与General Atlantic洽谈，由后者领投其视频AI部门Kling AI的首轮融资，旨在获得美国主要投资者支持，为IPO做准备。这反映了视频生成AI领域的投资热度，以及中国AI企业寻求国际资本背书的趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/nasdaq-private-market-alleges-rival-hiive-stole-key-technology": {
+    "title_clean": "Nasdaq Private Market：指控竞争对手Hiive窃取技术",
+    "summary": "纳斯达克私人市场平台指控其温哥华竞争对手Hiive窃取商业秘密并侵犯知识产权，已提起诉讼。这反映了AI交易平台领域的知识产权竞争态势，对产品经理了解行业法律风险和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/singapore-s-sea-tests-ai-chatbot-migoo-in-quiet-us-foray": {
+    "title_clean": "Sea公司在美国测试AI聊天机器人Migoo",
+    "summary": "新加坡互联网巨头Sea Ltd.正在美国等地区推出其生成式AI聊天机器人Migoo，这是该公司首次进入竞争激烈的美国消费市场，表明其正在加速AI领域的布局和国际化扩张。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

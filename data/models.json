@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T08:57:19.487Z",
+  "generated_at": "2026-06-17T12:07:41.542Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -23,8 +23,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "GLM-5.2 is Z.ai’s flagship model for the era of long-horizon tasks. With a truly usable 1M-token context window, it can handle project-level engineering context, execute long-running tasks more reliably, follow...",
-      "description_zh": "GLM-5.2是Z.ai针对长视距任务时代的旗舰型号。拥有真正可用的 1M 代币上下文窗口，它可以处理项目级工程上下文，更可靠地执行长时间运行的任务，遵循..."
+      "description": "GLM 5.2 is a large-scale reasoning model from Z.ai. It supports text input and output with a 1M-token context window, and is suited for long-horizon agent workflows, project-level software engineering,...",
+      "description_zh": "GLM 5.2是Z.ai的大规模推理模型。它支持带有 1M 令牌上下文窗口的文本输入和输出，适用于长期代理工作流程、项目级软件工程……"
     },
     {
       "id": "openrouter/fusion",

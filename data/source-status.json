@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-18T08:39:55.735Z",
+  "generated_at": "2026-06-18T12:47:32.473Z",
   "sites": [
     {
       "site_id": "jiqizhixin",
       "site_name": "机器之心",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 288,
+      "duration_ms": 572,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI News",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 537,
+      "duration_ms": 826,
       "error": "Invalid character in entity name\nLine: 0\nColumn: 120\nChar: ="
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "TechCrunch AI",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 84,
+      "duration_ms": 200,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "The Information",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 168,
+      "duration_ms": 241,
       "error": "Status code 403"
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "Bloomberg Tech",
       "ok": true,
       "item_count": 30,
-      "duration_ms": 297,
+      "duration_ms": 3998,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 191,
+      "duration_ms": 164,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "There's An AI For That",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 89,
+      "duration_ms": 252,
       "error": "Status code 403"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "YC Companies",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 552,
+      "duration_ms": 318,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Hugging Face Trending",
       "ok": true,
       "item_count": 800,
-      "duration_ms": 114,
+      "duration_ms": 285,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "Crunchbase",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 139,
+      "duration_ms": 131,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "CB Insights",
       "ok": true,
       "item_count": 25,
-      "duration_ms": 186,
+      "duration_ms": 125,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "OpenAI",
       "ok": true,
       "item_count": 1009,
-      "duration_ms": 430,
+      "duration_ms": 331,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "Google AI",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 216,
+      "duration_ms": 148,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "Anthropic",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 323,
+      "duration_ms": 943,
       "error": "Status code 404"
     },
     {
@@ -118,7 +118,7 @@
       "site_name": "Meta",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1178,
+      "duration_ms": 1274,
       "error": null
     },
     {
@@ -126,7 +126,7 @@
       "site_name": "Microsoft AI",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 331,
+      "duration_ms": 168,
       "error": null
     },
     {
@@ -134,7 +134,7 @@
       "site_name": "Apple Intelligence",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 188,
       "error": "Invalid character in entity name\nLine: 79\nColumn: 67\nChar:  "
     },
     {
@@ -142,7 +142,7 @@
       "site_name": "Perplexity",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 55,
       "error": "Status code 403"
     }
   ],
@@ -157,8 +157,8 @@
   ],
   "zero_item_sites": [],
   "fetched_raw_items": 2006,
-  "items_before_topic_filter": 577,
-  "items_in_24h": 109,
+  "items_before_topic_filter": 582,
+  "items_in_24h": 98,
   "rss_opml": {
     "enabled": false,
     "path": null,

@@ -8636,5 +8636,127 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/fujikura-shares-set-to-soar-as-outlook-hike-calms-market-jitters": {
+    "title_clean": "Fujikura：光纤电缆制造商上调盈利预期",
+    "summary": "日本光纤电缆制造商Fujikura意外上调盈利预期，超出市场预估，推动股价有望触及涨停。这一市场反应表明，企业业绩超预期可能带来显著股价波动，对产品经理评估市场情绪和投资者关注点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool": {
+    "title_clean": "美国对ASML表达对中国获取顶尖芯片工具的担忧",
+    "summary": "美国商务部长近期与ASML会晤，表达对中国可能获取其先进芯片制造设备的担忧。这反映了国际半导体供应链地缘政治紧张局势加剧，可能影响全球AI芯片供应和元宝等AI产品的硬件基础。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040002&idx=2&sn=9601ca3d48a44f348b9fc2cd8b2ae4ce": {
+    "title_clean": "2026WAIC机器之心特别企划栏目：AI技术深度解析",
+    "summary": "2026WAIC机器之心特别企划栏目聚焦AI技术深度解析，探讨AI在PPT展示之外的技术内涵与应用场景，为产品经理提供AI技术发展趋势与行业洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040002&idx=3&sn=2070ed6854a7789a6b7b3edbcac2515c": {
+    "title_clean": "Holi-Spatial：3D空间智能数据全自动构建工具",
+    "summary": "Holi-Spatial在ICML 2026上获得Oral论文，提出为3D空间智能数据构建全自动数据飞轮的方法。这项技术可能提升AI在3D空间理解、处理和应用方面的能力，对元宝在空间智能、多模态交互方向的产品研发具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round": {
+    "title_clean": "AI推理初创公司Baseten融资15亿美元，估值达130亿美元",
+    "summary": "AI推理平台Baseten据报道即将完成15亿美元融资，估值达130亿美元，这反映了AI推理领域的'淘金热'持续升温。对产品经理而言，这表明AI推理服务市场正在快速扩张，可能影响元宝的底层基础设施选择和成本结构。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/the-close-6-18-2026-video": {
+    "title_clean": "美联储加息预期推动股市上涨 | 6月18日收盘分析",
+    "summary": "彭博电视报道美联储加息预期推动股市上涨，分析华尔街收盘前的市场动态。此资讯对元宝产品经理参考价值有限，属于金融市场宏观新闻，与AI助手、Agent或服务场景无直接关联。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/investors-anticipate-fresh-liquidity-after-spacex-debut-video": {
+    "title_clean": "SpaceX历史性上市后投资者期待新流动性注入",
+    "summary": "SpaceX完成历史性首次公开募股，恰逢多家数十亿美元估值的AI公司准备上市的关键转折点。此次IPO可能为市场带来新的流动性，投资者正密切关注这一事件对AI行业融资环境的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/google-googl-says-canada-law-changes-don-t-resolve-privacy-security-concerns": {
+    "title_clean": "Google：加拿大数据法修订未能解决其担忧",
+    "summary": "Google表示，加拿大拟议数据法的修订未能解决其对警方获取私营企业公民数据规定的多项担忧。这反映了科技巨头与政府在数据隐私执法方面的持续博弈，对元宝产品经理了解全球数据合规环境及AI服务的数据获取权限有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/companies-move-to-secure-data-amid-ai-security-risks-video": {
+    "title_clean": "企业加强数据安全应对AI风险",
+    "summary": "随着AI技术增加安全风险，美国政府正加速推进数据安全措施，确保美国计算公司在国家安全方面的合规性。FedHIVE CEO表示政府行动速度前所未有，这对AI产品经理在数据安全和合规方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/www-inventor-tim-berners-lee-on-development-of-ai-video": {
+    "title_clean": "万维网发明者谈AI发展",
+    "summary": "万维网发明者蒂姆·伯纳斯-李在巴黎VivaTech x彭博奖活动上与彭博社记者讨论人工智能的发展历程与未来方向，作为互联网先驱对AI的见解对元宝产品经理具有战略参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

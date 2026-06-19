@@ -9397,5 +9397,42 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040082&idx=1&sn=860f1c13b62dff605f0536a51d43f0c1": {
+    "title_clean": "人形机器人小脑系统：基于GPT的动态控制与大规模动捕数据",
+    "summary": "该资讯报道了人形机器人小脑系统的重大突破，结合GPT技术实现更精准的动态控制，并提供了史上最大规模的动作捕捉数据，这可能为AI机器人的运动控制能力带来质的飞跃，对元宝产品经理在AI机器人交互与控制领域具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work": {
+    "title_clean": "网络安全软件出口管制无效性分析：以Anthropic的Mythos模型为例",
+    "summary": "文章分析了过去30年网络安全软件出口管制措施的实际效果，指出这些措施未能有效阻止相关软件的流动。文章质疑为何现在对Anthropic的网络安全模型Mythos实施出口管制会取得不同效果，为产品经理提供了关于技术管制局限性的参考视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040113&idx=3&sn=42ee260b5226f6e16e1aeb8480b8cfc4": {
+    "title_clean": "ProtocolBench：AI Agent通讯协议评测基准",
+    "summary": "UIUC团队在ICML 2026上发布ProtocolBench，用于评测不同AI Agent之间的通讯协议性能。这一基准工具可帮助产品经理评估和选择适合自家Agent的通讯方案，提升多Agent协作效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

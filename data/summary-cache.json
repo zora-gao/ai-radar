@@ -9457,5 +9457,117 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/pixlie": {
+    "title_clean": "Pixlie：AI视频生成工具",
+    "summary": "Pixlie是一款AI视频工作室工具，支持通过文本和图像生成视频，并提供实时控制功能。该产品对元宝产品经理有参考价值，可作为AI多模态生成能力的竞品参考，特别是在视频生成与实时交互方面的技术实现。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/are-you-in-the-weights": {
+    "title_clean": "Are you in the Weights：LLM记忆中的永久存在检测工具",
+    "summary": "该工具可检测个人数据是否被大型语言模型永久存储，帮助用户了解自己的信息在AI系统中的留存情况。对产品经理有参考价值，可作为隐私保护功能或用户数据透明度工具的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gitsync-for-macos": {
+    "title_clean": "GitSync for macOS：图形化GitHub管理工具",
+    "summary": "GitSync for macOS是一款图形界面工具，提供直观的GitHub仓库管理功能，让用户无需命令行即可进行Git操作。这款工具对元宝产品经理有参考价值，因为它展示了如何将复杂的命令行工具转化为用户友好的图形界面，这可以作为元宝多模态交互和简化复杂操作场景的设计参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pumadb": {
+    "title_clean": "pumaDB：AI代理托管内存层工具",
+    "summary": "pumaDB是一个专为AI代理设计的小型托管内存层服务，旨在为AI代理提供高效的数据存储和访问能力，有助于提升AI代理的性能和响应速度，对元宝产品经理在AI代理架构设计方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/slack": {
+    "title_clean": "Slackbot's MCP Client：Slack多应用协作工具",
+    "summary": "Slackbot推出MCP客户端，支持在Slack平台内跨20多个应用进行多人协作，为团队提供了统一的工作空间整合方案，对元宝产品经理在AI助手跨平台协作功能设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/reframe-7": {
+    "title_clean": "Reframe：复古网页浏览工具",
+    "summary": "Reframe是一款复古网页浏览工具，让用户能够以1999年的网页风格浏览互联网，模拟早期互联网的浏览体验。产品经理可参考这种怀旧设计趋势，思考如何在AI产品中融入情感化设计和差异化体验，满足用户对数字复古文化的需求。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/releasedock": {
+    "title_clean": "ReleaseDock：AI支持中心与变更日志管理工具",
+    "summary": "ReleaseDock是一款将AI支持代理、帮助中心和变更日志整合到单一收件箱中的工具，帮助产品团队统一管理客户支持与产品更新信息，提升服务效率与用户体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/amazon-wholesale-with-stemar-greene": {
+    "title_clean": "Amazon Wholesale with Stemar Greene：亚马逊批发业务策略指南",
+    "summary": "该资源聚焦亚马逊批发业务的成功策略，由Stemar Greene提供指导。内容可能涵盖亚马逊批发业务的运营模式、关键成功因素和最佳实践，对元宝产品经理了解电商AI助手在B2B场景的应用价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/uisqueezy-design-systems-in-sync": {
+    "title_clean": "UISqueezy：设计系统同步工具",
+    "summary": "UISqueezy是一款设计系统同步工具，确保设计令牌和Figma变量始终保持同步。它解决了设计团队在不同工具间保持一致性的痛点，对产品经理在构建和维护设计系统时具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

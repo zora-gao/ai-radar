@@ -9628,5 +9628,79 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040186&idx=1&sn=f6bcca5e34d9c2e178633846e496523d": {
+    "title_clean": "alphaXiv：论文复现工具",
+    "summary": "alphaXiv推出论文复现工具，用户只需修改URL即可实现论文复现，且支持单卡运行。这一工具降低了AI研究的技术门槛，对产品经理了解AI研究工具的简化趋势和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040186&idx=2&sn=e61231e0fed34cf95cc215842546110b": {
+    "title_clean": "CameraSquad：多视角精准运镜工具",
+    "summary": "CameraSquad是一款多视角运镜工具，能够实现精准的镜头控制和多视角画面一致性，可能为视频创作和直播场景提供技术支持，对元宝在多模态交互和视频处理方向的产品设计有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends": {
+    "title_clean": "Signal高管提醒：AI聊天机器人并非朋友",
+    "summary": "Signal高管Meredith Whittaker强调AI聊天机器人并非朋友、有意识的生命体或智能对话者，提醒用户正确认识AI助手的本质属性，这对产品经理在设计和推广AI助手时设定用户期望具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040145&idx=2&sn=e98675279f9ea64f610eb0e0a31de4c7": {
+    "title_clean": "华为Claw-Anything：跨设备跨服务AI自动化工具",
+    "summary": "华为推出Claw-Anything，这是一款面向跨设备、跨时间、跨服务的AI自动化工具，旨在实现数字世界的无缝接管与自动化操作。该产品可能涉及AI Agent能力，能够协调不同设备和服务间的任务执行，对元宝在多场景自动化服务方向具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search": {
+    "title_clean": "In the Weights：AI品牌声誉监测工具",
+    "summary": "In the Weights是一款专注于AI领域的品牌声誉监测工具，帮助用户追踪和评估AI产品在行业内的知名度与影响力。该工具为产品经理提供了竞品市场表现监测的新思路，可作为品牌定位和市场策略分析的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040185&idx=2&sn=287321a45f59600797b57be39fcadfeb": {
+    "title_clean": "何恺明团队「漂移模型」新进展：基于排名奖励的单步文生图偏好优化",
+    "summary": "何恺明团队提出漂移模型的新进展，采用基于排名的奖励机制，实现单步文生图偏好优化。这一方法简化了传统强化学习流程，可能提升AI图像生成效率与质量，对多模态AI产品开发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

@@ -9434,5 +9434,28 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-20/pakistan-brokers-us-iran-peace-deal-boosting-its-global-status": {
+    "title_clean": "伊朗战争为巴基斯坦带来数十年来最大外交提升",
+    "summary": "伊朗战争期间，巴基斯坦成为结束冲突努力的中心国家，这一意外角色使其获得数十年来最大的外交提升。这一地缘政治变化可能影响南亚地区格局，对元宝产品经理了解国际关系变化如何影响全球市场和服务场景有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs": {
+    "title_clean": "如何关闭 Google Docs 中的 AI 功能",
+    "summary": "本文介绍了如何在 Google Docs 中禁用 Gemini AI 写作辅助功能，消除烦人的'使用 Gemini 写作'弹窗提示。对于关注用户自主选择权和 AI 功能接受度的产品经理，了解用户如何主动关闭 AI 功能有助于评估 AI 功能的默认设置策略和用户接受度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

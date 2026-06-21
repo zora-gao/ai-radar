@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T12:08:29.723Z",
+  "generated_at": "2026-06-21T15:48:18.027Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -35,7 +35,7 @@
       "vendor_slug": "google",
       "url": "https://openrouter.ai/google/gemini-3-pro-image-20260528",
       "created_at": "2026-06-18T03:40:54Z",
-      "context_length": 65536,
+      "context_length": 131072,
       "modality": "text+image->text+image",
       "input_modalities": [
         "image",

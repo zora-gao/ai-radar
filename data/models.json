@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T23:05:06.277Z",
+  "generated_at": "2026-06-22T03:32:29.498Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -216,6 +216,30 @@
       "price_out": 0,
       "is_free": true,
       "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Nex-N2-Pro is an agentic mixture-of-experts model from Nex AGI, with 17B active parameters out of 397B total. Built on the Qwen3.5 architecture, it accepts text and image input and produces...",
+      "description_zh": "Nex-N2-Pro 是 Nex AGI 的代理专家混合模型，共有 397B 个活动参数，其中有 17B 个。它建立在 Qwen3.5 架构之上，接受文本和图像输入并生成..."
+    },
+    {
+      "id": "nex-agi/nex-n2-pro",
+      "name": "Nex-N2-Pro",
+      "vendor": "Nex Agi",
+      "vendor_slug": "nex-agi",
+      "url": "https://openrouter.ai/nex-agi/nex-n2-pro",
+      "created_at": "2026-06-08T16:45:40Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.5,
+      "price_out": 2.5,
+      "is_free": false,
+      "supports_tools": false,
       "supports_reasoning": true,
       "description": "Nex-N2-Pro is an agentic mixture-of-experts model from Nex AGI, with 17B active parameters out of 397B total. Built on the Qwen3.5 architecture, it accepts text and image input and produces...",
       "description_zh": "Nex-N2-Pro 是 Nex AGI 的代理专家混合模型，共有 397B 个活动参数，其中有 17B 个。它建立在 Qwen3.5 架构之上，接受文本和图像输入并生成..."
@@ -1438,31 +1462,6 @@
       "supports_reasoning": true,
       "description": "Kimi K2.6 is Moonshot AI's next-generation multimodal model, designed for long-horizon coding, coding-driven UI/UX generation, and multi-agent orchestration. It handles complex end-to-end coding tasks across Python, Rust, and Go, and...",
       "description_zh": "Kimi K2.6 是 Moonshot AI 的下一代多模式模型，专为长视野编码、编码驱动的 UI/UX 生成和多代理编排而设计。它可以跨 Python、Rust 和 Go 处理复杂的端到端编码任务，并且..."
-    },
-    {
-      "id": "anthropic/claude-opus-4.7",
-      "name": "Claude Opus 4.7",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-4.7-opus-20260416",
-      "created_at": "2026-04-16T14:51:40Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Opus 4.7 is the next generation of Anthropic's Opus family, built for long-running, asynchronous agents. Building on the coding and agentic strengths of Opus 4.6, it delivers stronger performance on...",
-      "description_zh": "Opus 4.7 是 Anthropic Opus 系列的下一代产品，专为长期运行的异步代理而构建。它以 Opus 4.6 的编码和代理优势为基础，提供更强大的性能..."
     }
   ]
 }

@@ -10241,5 +10241,228 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together": {
+    "title_clean": "Instagram for TV：电视端社交观看新功能",
+    "summary": "Instagram推出电视端应用，新增Samsung TV支持，并测试新的共同观看功能，旨在增强社交分享和内容发现体验，为电视大屏社交场景提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-22/how-anthropic-weighs-the-risk-of-human-extinction": {
+    "title_clean": "Anthropic探讨AI灭绝风险评估",
+    "summary": "Anthropic在Odd Lots播客中讨论AI对劳动力市场和社会的潜在影响，以及更极端的灭绝风险问题。这为元宝产品经理提供了关于AI安全考量的行业视角，有助于理解领先AI公司对长期风险的评估框架。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/two-plead-guilty-to-hacking-transport-for-london-while-teenagers": {
+    "title_clean": "两名青少年黑客认罪攻击伦敦交通系统",
+    "summary": "两名英国青少年男子承认在未成年期间对伦敦交通网络实施网络攻击。此事件反映了网络安全威胁年轻化的趋势，对AI助手和Agent产品在安全防护、异常检测方面的设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/spacex-inks-multibillion-dollar-computing-deal-with-reflection-ai": {
+    "title_clean": "SpaceX与Reflection AI签署数十亿美元计算协议",
+    "summary": "SpaceX与AI初创公司Reflection AI签署了价值数十亿美元的计算资源协议，这是埃隆·马斯克公司最新的一系列交易之一，旨在成为AI计算领域的重要参与者。这一合作表明大型科技公司正积极布局AI基础设施市场，为元宝产品经理提供了AI服务商业化与基础设施合作的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6": {
+    "title_clean": "PP-OCRv6 on Hugging Face：多语言OCR模型参数升级",
+    "summary": "PP-OCRv6在Hugging Face发布，支持50种语言，模型参数从150万扩展至3450万。这一升级显著提升了OCR模型的跨语言识别能力，对元宝产品经理评估多语言文本识别技术路线和模型选型具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26": {
+    "title_clean": "TechCrunch 创始人峰会：早期购票优惠活动",
+    "summary": "TechCrunch 创始人峰会将于2026年11月4日在波士顿举办，面向创始人群体，提供早期购票优惠，6月26日前可节省最高190美元门票费用。此活动为创始人提供交流平台，对元宝产品经理了解行业会议生态和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans": {
+    "title_clean": "Nvidia：提升人形AI机器人人类交互安全性",
+    "summary": "Nvidia正致力于提升人形AI机器人在人类环境中的安全性，强调机器人需要能够处理瞬间决策才能被信任与人类密切协作。这对元宝产品经理在AI安全交互和决策能力方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-22/using-ai-to-develop-new-drugs": {
+    "title_clean": "Using AI to Develop New Drugs：AI药物研发应用",
+    "summary": "Everpure研发副总裁和赛诺菲平台与AI工作流负责人探讨AI在药物开发中的应用，讨论AI如何加速新药研发流程，这对元宝产品经理了解AI在专业领域的应用场景和商业化价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/spacex-kicks-off-debut-us-dollar-investment-grade-bond-offering": {
+    "title_clean": "SpaceX：首次发行高等级债券为AI融资",
+    "summary": "SpaceX首次发行投资级债券，预计将开启大规模借贷计划，为其AI野心提供资金支持。此举发生在SpaceX以750亿美元估值完成IPO之后，表明公司正积极布局AI领域。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/amazon-prime-day-spending-expected-to-rise-9-to-26-3-billion": {
+    "title_clean": "亚马逊Prime Day消费预计增长9%至263亿美元",
+    "summary": "亚马逊第12届Prime日活动预计将创263亿美元消费纪录，受高油价影响，消费者将抢购返校服装和家庭用品。这一数据反映了电商促销活动的强劲表现，对元宝产品经理了解大型促销活动对消费行为的影响及电商AI助手在购物场景中的应用价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-22/amazon-offers-prime-day-pizza-in-meal-delivery-experiment": {
+    "title_clean": "亚马逊Prime Day披萨促销：揭示外卖配送任务新方向",
+    "summary": "亚马逊在Prime Day推出披萨促销活动，显示其正尝试进入竞争激烈的外卖晚餐市场。这一举措表明亚马逊可能正在探索将Prime会员与餐饮配送服务结合的可能性，为元宝产品经理提供了电商巨头拓展AI服务场景的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/saas/growing-agentic-ai-market-desilva-lateral": {
+    "title_clean": "SaaS模式终结：AI原生垂直平台将取而代之",
+    "summary": "作者Richard de Silva指出，软件行业正从SaaS模式转向AI原生、行业特定的平台，拥有深厚领域知识的垂直AI公司将成为最大赢家。这对元宝产品经理有重要参考价值，提示应关注垂直行业AI应用机会，而非通用SaaS解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/ai-could-boost-poland-s-economy-by-12-by-2035-world-bank-says": {
+    "title_clean": "世界银行：AI或使波兰2035年经济增长12%",
+    "summary": "世界银行报告显示，人工智能有望在2035年前提升波兰经济12%的增长，帮助该国缩小与富裕国家的差距，尽管当地成本优势正在减弱。这一数据为AI对国家经济影响的量化提供了参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt": {
+    "title_clean": "L'Oréal：将美宝莲虚拟试妆功能接入ChatGPT",
+    "summary": "欧莱雅集团宣布与OpenAI合作，将美宝纽约虚拟试妆功能集成到ChatGPT中，这一合作在VivaTech 2026大会上公布。此举展示了美妆品牌如何利用AI助手提供沉浸式购物体验，为元宝在虚拟试妆、电商场景集成方面提供参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal": {
+    "title_clean": "Getty Images与OpenAI达成授权协议，股价早盘飙升200%",
+    "summary": "Getty Images宣布与OpenAI达成授权协议，导致公司股票在周一盘前交易中飙升约200%。这一合作表明内容提供商与AI公司的商业合作模式正在形成，对元宝在内容授权和AI训练数据获取方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/spacex-shares-poised-to-slide-again-as-us-market-reopens": {
+    "title_clean": "SpaceX股票在美国市场重开后可能继续下跌",
+    "summary": "SpaceX股票在周一盘前交易中下跌最多4.6%，可能连续第三个交易日下跌，因美国市场在公共假期后重新开盘。这一市场波动对元宝产品经理的参考价值有限，主要反映的是市场情绪而非AI产品动态。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data": {
+    "title_clean": "机器人创企融资激增：2026年风投资金创纪录",
+    "summary": "2026年全球机器人创企已融资188亿美元，超过2025年全年150亿美元和2021年峰值141亿美元。这表明机器人领域投资热度持续攀升，对AI产品经理而言，这可能预示着AI与机器人结合的新服务场景和商业化机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/microsoft-chevron-sign-20-year-power-deal-for-texas-data-center": {
+    "title_clean": "微软与雪佛龙签署20年德州数据中心电力供应协议",
+    "summary": "微软与雪佛龙签署20年协议，由雪佛龙为德克萨斯州拟建的数据中心提供天然气发电，该数据中心可能成为美国最大的数据中心之一。此合作反映了大型AI基础设施对稳定能源供应的长期需求，对元宝产品经理评估数据中心能源战略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

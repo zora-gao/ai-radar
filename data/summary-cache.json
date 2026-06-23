@@ -11834,5 +11834,172 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/what-is-quantum-computing-and-what-can-quantum-computers-do": {
+    "title_clean": "量子计算终于到来：解析其原理与应用",
+    "summary": "量子计算经过四十年理论研究，现已实现突破。这种基于量子物理原理的新型计算机，其计算能力远超传统计算机，可能为AI等领域带来革命性变化，值得产品经理关注其技术进展与潜在应用场景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-wants-claude-to-be-your-new-slack-coworker": {
+    "title_clean": "Anthropic：Claude将深度集成Slack成为AI同事",
+    "summary": "Anthropic计划将Claude AI助手深度集成到Slack平台，使其成为用户的虚拟工作同事，可能涉及自动回复、任务处理和团队协作等功能，这将改变企业内部AI助手的使用场景和交互方式。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/bloomberg-tech-6-23-2026-video": {
+    "title_clean": "SpaceX市值波动：AI市场影响与债券发行",
+    "summary": "SpaceX在连续三日股价下跌后，市值接近2万亿美元波动。Bloomberg分析指出，这主要受马斯克公司首次债券发行及全球科技股抛售影响，华尔街AI市场变化是重要因素。对产品经理而言，这反映了AI市场波动对科技巨头估值的影响，以及资本市场对AI相关企业的态度变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/siemens-ceo-on-industrial-ai-s-future-video": {
+    "title_clean": "西门子CEO谈工业AI的未来",
+    "summary": "西门子CEO Roland Busch在Bloomberg Tech节目中讨论AI如何从聊天机器人扩展到工厂车间，帮助制造商提高生产力，并分享AI在欧洲工业中的应用趋势与角色。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/menlo-ventures-ganesan-on-anthropic-bet-ai-startups-video": {
+    "title_clean": "Menlo Ventures：AI领域30亿美元融资创历史新高",
+    "summary": "Menlo Ventures筹集30亿美元用于AI投资，创公司50年历史最大融资规模，反映风险资本在AI领域的激烈竞争态势。对产品经理而言，这表明AI赛道资本热度持续，可能影响行业格局和竞争态势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models": {
+    "title_clean": "Omio：利用OpenAI模型加速旅游产品开发",
+    "summary": "旅游平台Omio整合OpenAI模型到工程运营中，加速旅游产品开发和预订界面推出。这一多模态旅游平台协调与多家供应商的合作，展示了AI在旅游服务场景中的实际应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/spacex-draws-89-billion-demand-for-debut-high-grade-bond-sale": {
+    "title_clean": "SpaceX：短期债务发行吸引25亿美元融资",
+    "summary": "SpaceX本月首次公开发行创历史最大规模，但在债务市场面临更多质疑。其短期债务成为25亿美元债券销售的主要吸引力，反映了投资者对该公司短期偿债能力的关注，这对AI领域融资环境评估具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/ai-is-most-transformative-tech-of-our-time-says-gensler-video": {
+    "title_clean": "前SEC主席称AI是当今最具变革性的技术",
+    "summary": "前美国证券交易委员会主席Gary Gensler表示，AI领导者需要创造有意义的收入和生产力提升，以满足当前市场条件。他强调了AI技术在当今时代的变革性，并指出AI企业需要证明其实际商业价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/spacex-loses-600-billion-in-value-over-three-days-video": {
+    "title_clean": "SpaceX市值三日蒸发6000亿美元",
+    "summary": "SpaceX在连续三个交易日的股价暴跌中市值蒸发超过6000亿美元，尽管周二股价有所反弹。这一剧烈波动反映了市场对航天科技企业估值的高度不确定性，对元宝产品经理评估高估值科技企业的市场风险和投资者情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/tech-selloff-in-korea-continues-in-us-trading-video": {
+    "title_clean": "全球科技股抛售潮：从韩国芯片制造商蔓延至美国市场",
+    "summary": "全球科技股抛售潮始于亚洲，韩国芯片制造商的大规模抛售引发了对人工智能驱动涨势可持续性的担忧。这一市场动向表明AI相关股票可能面临调整，对元宝产品经理评估AI商业化进程和市场情绪具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/abu-dhabi-s-mgx-raises-about-50-billion-to-accelerate-ai-deals": {
+    "title_clean": "阿布扎比MGX融资500亿美元加速AI投资",
+    "summary": "阿布扎比MGX从区域和全球投资者处筹集近500亿美元，用于加速人工智能基础设施和技术投资。这一巨额融资反映了中东地区对AI领域的战略投入，可能影响全球AI基础设施投资格局和竞争态势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/gpt-5-immunology-mystery": {
+    "title_clean": "GPT-5：帮助免疫学家解决3年未解之谜",
+    "summary": "GPT-5 Pro协助免疫学家Derya Unutmaz解决了困扰3年的免疫学难题，提供了关于T细胞行为的新见解。这一突破可能为癌症和自身免疫疾病研究提供支持，展示了AI在专业科研领域的应用潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/bbva-offloads-ai-risk-with-2-billion-infrastructure-linked-srt": {
+    "title_clean": "BBVA：通过20亿美元基础设施关联证券转移AI风险",
+    "summary": "西班牙对外银行BBVA正完成一项20亿美元的基础设施关联证券交易，以转移其快速扩张的AI相关贷款组合中的部分风险。此举反映了金融机构在AI应用增长背景下对风险管理的新策略，对元宝产品经理了解AI金融风控与商业化模式有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026": {
+    "title_clean": "TechCrunch 创始人峰会 2026 早鸟票优惠即将截止",
+    "summary": "TechCrunch 创始人峰会 2026 早鸟票优惠仅剩4天，可节省高达190美元，优惠将于6月26日太平洋时间晚上11:59截止。作为创始人的终极训练营，该峰会可能为元宝产品经理提供行业洞察和潜在合作机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

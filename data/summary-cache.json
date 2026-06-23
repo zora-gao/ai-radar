@@ -11551,5 +11551,139 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-23/getty-images-stock-soars-145-after-openai-content-licensing-deal": {
+    "title_clean": "Getty Images：转型AI公司并合作OpenAI",
+    "summary": "图片巨头Getty Images宣布转型为AI公司，此前曾尝试自主研发AI技术，现与OpenAI达成合作。这一转变表明传统内容平台正积极拥抱AI技术，对元宝产品经理了解传统企业AI战略转型及合作模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/masayoshi-son-dismisses-musk-s-orbital-data-centers-video": {
+    "title_clean": "软银创始人孙正义驳斥马斯克的太空数据中心构想",
+    "summary": "软银创始人孙正义预测AI竞赛将由地球上的计算资源决定，他认为在太空建设数据中心的价值有限，这与埃隆·马斯克倡导的太空数据中心理念形成鲜明对比。这一观点反映了科技巨头对AI基础设施发展方向的不同战略思考，对元宝产品经理评估AI算力布局和资源竞争策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/features/2026-ai-mental-health-crisis-law-enforcement": {
+    "title_clean": "AI生成虐待材料激增：美国儿童虐待调查员面临心理健康危机",
+    "summary": "AI生成虐待材料的泛滥导致美国儿童虐待调查员面临严重心理健康危机，但缺乏足够的心理支持。这一现象反映了AI技术在负面场景中的应用挑战，对产品经理了解AI内容监管和伦理边界具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/stocks-hit-by-tech-selloff-as-korean-shares-plunge-video": {
+    "title_clean": "科技股抛售拖累全球股市，韩国股市暴跌",
+    "summary": "科技股抛售导致全球股市下跌，特别是芯片制造商引领了这一趋势，这些公司此前曾因AI驱动的不寻常上涨而处于领先地位。这反映了AI相关股票的市场波动性，对元宝产品经理了解AI投资情绪和市场风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/allianz-sees-markets-pricing-darwinian-effect-of-ai-video": {
+    "title_clean": "Allianz CIO：市场正为AI的'达尔文效应'定价",
+    "summary": "安联首席投资官兼首席经济学家Ludovic Subran讨论科技股前景、通胀和央行政策，指出市场正在为AI带来的'达尔文效应'进行定价。这反映了AI对市场结构和竞争格局的深远影响，对产品经理理解AI商业化进程和行业变革趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/spacex-rout-set-to-push-market-value-below-2-trillion": {
+    "title_clean": "SpaceX市值将跌破2万亿美元",
+    "summary": "SpaceX连续第四个交易日下跌，受全球科技股抛售影响，投资者对埃隆·马斯克领导的火箭和卫星公司信心减弱。这一市场动向反映了科技行业波动对高估值航天企业的影响，对元宝产品经理评估科技巨头业务稳定性与市场情绪有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/korean-stocks-fall-10-from-record-video": {
+    "title_clean": "韩国股市从纪录高点下跌10%",
+    "summary": "韩国股市从历史高点大幅下跌10%，投资者抛售芯片类股，担忧市场上涨过度。这一市场波动可能影响AI芯片相关企业的估值和投资环境，对元宝产品经理了解AI硬件市场情绪和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/prosus-develops-openclaw-rival-to-avoid-europe-privacy-concerns": {
+    "title_clean": "Prosus开发OpenClaw竞品应对隐私问题",
+    "summary": "Prosus公司开发了AI代理OpenClaw的替代版本，以解决欧洲对数据隐私的担忧，并将于本周开始推出。这反映了AI服务在隐私合规方面的区域化趋势，对元宝在隐私敏感市场的产品策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/tech-firms-lead-european-stocks-lower-as-ai-momentum-cools": {
+    "title_clean": "科技股引领欧洲股市下跌，AI热度降温",
+    "summary": "欧洲股市周二开盘大幅下跌，科技股的全球性抛售拖累股指。这反映了市场对AI相关投资热情的降温趋势，对元宝产品经理评估AI商业化周期和投资者情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/omio": {
+    "title_clean": "Omio：基于OpenAI的对话式旅行体验平台",
+    "summary": "Omio利用OpenAI技术构建对话式旅行体验，加速产品开发，转型为AI原生公司。这对元宝产品经理有参考价值，展示了AI在垂直服务场景(旅行)的应用方式，以及传统公司如何通过AI技术提升用户体验和产品迭代效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/huggingface-hub-release-ci": {
+    "title_clean": "Hugging Face：AI辅助每周发布工具更新",
+    "summary": "Hugging Face介绍其使用AI工具结合人工审核的每周发布流程，展示了AI在软件开发和发布流程中的应用，对AI助手产品在自动化开发流程和内容审核方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -12360,5 +12360,116 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/german-rail-halted-nationwide-services-after-radio-system-outage": {
+    "title_clean": "德国铁路因通信系统故障全国停运",
+    "summary": "德国国家铁路运营商因通信系统故障于周二晚间在全国范围内暂停服务。这提醒产品经理关注关键基础设施的通信系统冗余设计和故障应急预案，对AI服务在关键场景的可靠性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/digital-credit-could-be-3t-market-cole-video": {
+    "title_clean": "Digital Credit Could Be $3T Market: Cole",
+    "summary": "Strive CEO Matt Cole在Bloomberg Crypto节目中表示，数字信贷可能是一个3万亿美元的市场。这一观点对元宝产品经理在金融服务场景拓展和商业化方向上有参考价值，特别是AI助手在信贷评估和金融服务的应用潜力。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/china-s-rednote-xiaohongshu-preps-to-go-public": {
+    "title_clean": "小红书：中国Instagram准备上市",
+    "summary": "小红书计划上市，此举反映了中国科技行业的信心。作为中国版的Instagram，小红书这一动向对了解中国社交媒体市场动态和潜在投资机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040687&idx=2&sn=11f7171bdd0d0f945fccf4d07599b020": {
+    "title_clean": "百度开源无限OCR：长程文档解析工具",
+    "summary": "百度开源无限OCR工具，专注于长文档解析能力，核心作者YY疑似来自DeepSeek。该技术突破对元宝在文档理解、多模态交互方面有参考价值，可能影响AI助手处理长文本的能力边界。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-customer-sues-us-over-losing-access-to-fable-ai-model": {
+    "title_clean": "Anthropic客户起诉美国政府：失去Fable AI模型访问权限",
+    "summary": "一家使用Anthropic AI模型的初创公司起诉美国政府，因政府命令Claude和Mythos制造商将其最先进技术限制在特定范围内，导致该公司无法访问Fable AI模型。此案涉及AI技术出口管制与商业利益冲突，对AI产品经理了解监管环境与合规风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/cuomo-to-lead-crypto-venture-with-nyse-owner-video": {
+    "title_clean": "前纽约州长将领导加密货币项目，与纽交所母公司合作",
+    "summary": "前纽约州长Andrew Cuomo将与加密货币交易所OKX合作，领导一项新的加密货币风险投资项目。该项目由纽约证券交易所母公司支持，表明传统金融巨头正在加大对加密货币领域的投入，这可能为元宝探索加密货币服务场景或与金融科技合作提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/crypto-treasury-dream-unravels-after-a-90-stock-plunge-video": {
+    "title_clean": "加密货币投资公司股价暴跌90%，商业模式崩塌",
+    "summary": "加密货币投资公司股价暴跌90%，其通过上市公司收购加密货币的商业模式正全面崩塌。这一事件反映了加密货币投资领域的风险与不确定性，对元宝产品经理在评估金融类AI服务场景和风险管理功能时具有警示价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/ai-benefiting-sf-real-estate-jpm-s-asset-mgt-s-tredway-video": {
+    "title_clean": "摩根大通资产管理：AI对房地产领域的影响",
+    "summary": "摩根大通资产管理全球房地产主管Chad Tredway在财经节目中讨论了AI周期对房地产行业的影响，虽然该机构并未直接投资AI技术，但分析了AI如何改变房地产投资策略和市场动态。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/boe-sets-52-8b-stablecoin-cap-and-drops-holding-limit-video": {
+    "title_clean": "英国央行设定5280亿美元稳定币上限并取消持有限制",
+    "summary": "英国央行取消了此前限制企业和家庭持有英国稳定币的计划，转而设定5280亿美元的稳定币上限。这一政策调整对数字货币监管和金融稳定具有重要影响，为元宝产品经理提供了稳定币监管政策变化的参考信息。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

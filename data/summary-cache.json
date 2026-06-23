@@ -11476,5 +11476,80 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/nanocorp": {
+    "title_clean": "NanoCorp：企业一站式网站与广告创建工具",
+    "summary": "NanoCorp提供从网站到广告的一站式企业创建服务，帮助用户快速搭建在线存在并进行营销推广。这类工具对元宝产品经理有参考价值，可作为AI辅助企业服务的案例，特别是在简化企业数字化流程方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/billionaire-sex-for-visa-claim-at-wisetech-tests-investor-limits": {
+    "title_clean": "WiseTech：软件公司董事长涉性侵指控风波",
+    "summary": "WiseTech Global董事长被指控利用女性移民身份进行性交易，这一丑闻正考验着澳大利亚软件公司投资者的耐心。作为一家全球贸易软件企业，此事件可能影响公司声誉和投资者信心，对产品经理了解企业风险管理和品牌维护有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/europe-sees-6-billion-reasons-for-new-levy-on-online-shoppers": {
+    "title_clean": "欧盟对中国网购商品征收60亿欧元新税",
+    "summary": "欧盟将对主要针对中国商品的网购征收新税，预计收入达60亿欧元，这将导致欧洲消费者网购成本上升。这一政策变化可能影响跨境电商平台定价策略和用户购物行为，对元宝在跨境服务场景的规划有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/local-models-pr-triage": {
+    "title_clean": "本地模型免费处理OpenClaw仓库：开源项目分类工具",
+    "summary": "该工具利用本地模型对OpenClaw开源仓库进行免费分类整理，帮助开发者高效管理大型代码库。对于元宝产品经理而言，这展示了本地模型在代码管理和项目组织中的应用潜力，可作为AI助手处理结构化数据的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/neuralagent": {
+    "title_clean": "NeuralAgent 3.0：AI计算机UI自动执行工具",
+    "summary": "NeuralAgent 3.0是一款能够快速执行计算机UI操作的AI工具，响应时间约为285毫秒。这款产品展示了AI在自动化执行计算机操作方面的能力，对元宝产品经理在AI Agent自动执行功能设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bestdefense-io": {
+    "title_clean": "BestDefense.io：AI驱动的安全测试与漏洞修复工具",
+    "summary": "BestDefense.io是一款AI安全工具，能够对每次部署进行渗透测试和漏洞修复。该产品通过AI技术自动化安全检测和修复流程，帮助开发团队在部署前发现并解决安全问题，对元宝产品经理在AI安全服务场景和自动化工具方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

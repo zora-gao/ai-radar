@@ -11136,5 +11136,345 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/steam-machine": {
+    "title_clean": "Steam Machine：小型高性能游戏主机",
+    "summary": "Steam Machine是一款小型但性能强大的PC游戏主机，专为在大屏幕上提供高质量游戏体验而设计。这款产品对元宝产品经理有参考价值，因为它展示了AI助手如何与游戏硬件结合，以及如何通过优化硬件配置提升特定场景下的用户体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sipcode": {
+    "title_clean": "Sipcode：Claude 代码上下文清理工具",
+    "summary": "Sipcode 是一款专为 Claude AI 设计的工具，帮助用户保持代码上下文的整洁，从而获得更精准的代码回答。对于元宝产品经理而言，这反映了 AI 助手在代码辅助场景中的精细化需求，以及上下文管理对 AI 回答质量的重要性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/logstitch": {
+    "title_clean": "LogStitch：AWS Lambda故障排查工具",
+    "summary": "LogStitch是一款在Mac上快速查找AWS Lambda故障的工具，帮助开发者高效定位和解决云函数执行中的问题，对元宝产品经理了解云服务故障排查场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hotkeyclash": {
+    "title_clean": "HotkeyClash：Mac键盘快捷键冲突检测工具",
+    "summary": "HotkeyClash是一款Mac平台工具，帮助用户检测和定位键盘快捷键冲突问题。对于元宝产品经理而言，这类工具展示了如何解决用户在多应用环境下的操作痛点，可启发AI助手在跨应用操作场景下的快捷键管理功能设计。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tufte-markdown-graphs": {
+    "title_clean": "Tufte：ASCII图表生成工具",
+    "summary": "Tufte是一个CDN和Node.js包，用于在代码中内联生成ASCII图表。作为开发工具，它可能对元宝产品经理了解技术实现方式有参考价值，特别是当需要将数据可视化功能集成到AI产品中时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tregno": {
+    "title_clean": "Blazly SEO：AI内容操作系统",
+    "summary": "Blazly SEO推出AI内容操作系统，旨在帮助用户通过AI技术优化SEO策略。该系统可能提供内容生成、关键词优化、排名分析等功能，为元宝产品经理在AI辅助内容创作和搜索引擎优化领域提供竞品参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wildbirds": {
+    "title_clean": "wildbirds：观鸟社交应用",
+    "summary": "wildbirds是一款观鸟爱好者社交应用，用户可以分享和发现鸟类信息。这款产品为元宝在垂直领域社交化AI助手设计提供了参考，特别是在特定兴趣社区构建和用户内容生成方面的可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bluerails-discovery": {
+    "title_clean": "Bluerails Discovery：AI代理支付发现工具",
+    "summary": "Bluerails Discovery是一个AI代理支付发现平台，帮助AI代理找到并支付用户。该工具可能解决了AI代理与用户之间的支付对接问题，为AI服务商业化提供了新思路，对元宝产品经理探索AI代理变现模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rosply": {
+    "title_clean": "Rosply：AI自主控制电脑代理工具",
+    "summary": "Rosply是一款AI代理工具，能够自主控制计算机执行任务，为AI助手产品提供了自动化操作电脑的新思路，对元宝产品经理在AI Agent能力拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/s-n-t-ng-cao-c-p": {
+    "title_clean": "Mùi sơn mới trong nhà：新房气味健康问题",
+    "summary": "这篇资讯讨论新房装修后油漆气味带来的健康隐患，指出人们常忽视的室内空气污染问题。对元宝产品经理有参考价值，可作为AI助手在家庭健康、环境监测等场景下的服务切入点，帮助用户识别和解决室内空气质量问题。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/x-brain-2": {
+    "title_clean": "X-Brain：X/Twitter AI评论助手",
+    "summary": "X-Brain是一款专为X/Twitter平台设计的AI评论助手工具，能够帮助用户快速生成回复内容，实现秒级响应。这款产品针对社交媒体用户在X/Twitter上需要频繁互动的场景，提供高效的AI辅助回复功能，对元宝产品经理在社交媒体AI助手功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/latitude-4": {
+    "title_clean": "Latitude：AI Agent故障修复工具",
+    "summary": "Latitude提供AI Agent故障修复服务，帮助开发者解决AI代理运行中的问题。该工具专注于确保AI Agent的稳定性和可靠性，对产品经理在构建和维护AI助手系统时具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/deckwise": {
+    "title_clean": "Deckwise：AI演示文稿智能编辑助手",
+    "summary": "Deckwise是一款AI演示文稿智能编辑助手，能够帮助用户创建和编辑可编辑的演示文稿。这款工具可能对元宝产品经理在AI内容生成和办公场景应用方面有参考价值，特别是如何将AI能力融入文档编辑和演示制作流程。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/conduit-12": {
+    "title_clean": "Conduit：本地MCP网关工具",
+    "summary": "Conduit是一款本地MCP网关工具，可减少约90%的token使用量，有效降低AI服务的计算成本。对于元宝产品经理而言，这代表了优化AI服务成本和效率的技术方案，值得在产品设计时考虑成本控制策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/beelink": {
+    "title_clean": "Beelink：专业视频会议工具",
+    "summary": "Beelink是一款专业视频会议工具，强调即时连接专业人士的功能。该产品可能针对商务人士提供高质量的视频交流服务，为元宝产品经理在远程协作和AI辅助会议场景方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/thumbmagic-3": {
+    "title_clean": "Thumbmagic：AI缩略图生成工具",
+    "summary": "Thumbmagic是一款AI缩略图生成工具，基于高表现缩略图进行训练，帮助内容创作者优化视频缩略图设计，提升点击率。产品经理可参考其AI在视觉内容优化方面的应用，以及如何通过数据训练提升特定场景下的AI生成效果。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sakana-fugu": {
+    "title_clean": "Sakana Fugu：统一控制多模型AI工具",
+    "summary": "Sakana Fugu是一款新型AI工具，旨在通过单一模型实现对多个AI模型的统一控制。这一产品可能为AI助手和Agent领域提供新的技术路径，帮助产品经理思考如何简化多模型协作的复杂度，提升用户体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/buddy-ai-note": {
+    "title_clean": "Buddy AI Note：智能笔记转计划工具",
+    "summary": "Buddy AI Note是一款将日常笔记自动转化为行动计划的应用，帮助用户将想法转化为可执行步骤。这款产品对元宝产品经理有参考价值，因为它展示了AI如何辅助用户从信息收集到任务规划的工作流，可能启发元宝在任务管理、计划生成方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jotform": {
+    "title_clean": "Jotform AI App Builder：快速应用构建工具",
+    "summary": "Jotform推出AI应用构建工具，允许用户在几秒钟内将想法转化为功能强大的应用程序。这款工具可能帮助元宝产品团队了解低代码/无代码AI应用开发趋势，探索如何简化用户从概念到应用的转化流程。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/amnesia-2": {
+    "title_clean": "Amnesia：Mac浏览器标签页管理工具",
+    "summary": "Amnesia是一款Mac应用，通过询问用户打开标签页的原因，帮助管理浏览器标签页，提高工作效率。这款工具针对用户多标签页使用痛点，提供智能提醒功能，对元宝产品经理在AI助手场景设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/insight-with-haslinda-amin-6-23-2026-video": {
+    "title_clean": "亚洲科技股下跌：韩国股市下滑",
+    "summary": "亚洲科技股遭遇抛售，韩国股市出现下滑。这是一档深度新闻节目，通过高调访谈和分析，为观众提供重要事件的全面视角，对了解科技行业市场动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/us-stock-futures-tumble-as-megacap-tech-rout-hits-asian-peers": {
+    "title_clean": "美股科技股下跌波及亚洲AI相关股票",
+    "summary": "美股科技股抛售蔓延至亚洲AI相关股票，导致股指期货下跌。投资者关注美伊和平谈判进展，这可能影响全球科技市场情绪，对AI行业投资环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/the-hidden-costs-of-leveraged-etfs-video": {
+    "title_clean": "杠杆ETF的隐藏成本",
+    "summary": "杠杆ETF规模超过香港历史最悠久的恒生指数ETF，凸显投资者对高风险投资的旺盛需求。这一现象对AI产品经理的参考价值在于理解用户风险偏好变化，可能影响AI在金融建议、投资组合管理等场景的应用方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/masa-son-dismisses-musk-s-space-data-center-as-an-ai-race-winner": {
+    "title_clean": "孙正义驳斥马斯克轨道数据中心计划",
+    "summary": "软银集团创始人孙正义表示，在太空中建设数据中心几乎没有价值，他预测AI竞赛将由地球上的计算能力决定，这与埃隆·马斯克倡导的轨道数据中心理念形成鲜明对比。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/internet-stocks-will-be-next-area-of-ai-cycle-stanchart-video": {
+    "title_clean": "渣打银行：互联网股票将成为AI周期下一热点",
+    "summary": "渣打银行分析师Daniel Lam表示美国股市可能小幅调整或保持当前水平，并预测互联网股票将成为AI周期的下一个热点领域。这一观点对产品经理了解AI行业资本流向和市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets": {
+    "title_clean": "腾讯拟退出日本游戏工作室投资",
+    "summary": "腾讯正考虑退出对日本多家游戏工作室的投资，包括东京上市的Marvelous公司，这是其全球投资组合重新评估的一部分。这一动向可能反映腾讯在游戏领域的战略调整，对元宝产品经理了解科技巨头投资策略和游戏行业变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/india-to-share-rocket-tech-to-hasten-development-of-space-firms": {
+    "title_clean": "印度将分享火箭技术以加速航天企业发展",
+    "summary": "印度计划分享其极地卫星运载火箭(PSLV)技术，这是该国最可靠的火箭技术，旨在加速本地航天产业发展。这一政策可能为元宝产品经理提供航天科技领域技术共享与产业发展的参考案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/spacex-fall-continues-erasing-billions-in-market-value-video": {
+    "title_clean": "SpaceX市值持续下跌，首次发行投资级债券",
+    "summary": "SpaceX连续第三天股价下跌，市值蒸发数千亿美元，此前该公司宣布首次发行投资级债券。这一动态反映了SpaceX面临的财务压力和市场对其估值调整的信号，对AI产品经理了解科技巨头融资策略和资本波动有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

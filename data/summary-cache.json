@@ -12001,5 +12001,139 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/startup-hadrian-has-discussed-new-funding-at-7-5-billion-value": {
+    "title_clean": "Hadrian：AI驱动的智能制造工厂",
+    "summary": "Hadrian是一家运营AI驱动工厂的初创公司，旨在加速制造业生产。该公司正以75亿美元的估值进行新一轮融资，表明AI在制造业领域的应用正获得资本市场的高度认可，对元宝探索AI在工业场景的应用具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/bloomberg-crypto-6-23-2026-video": {
+    "title_clean": "Bloomberg Crypto：去中心化金融行业动态",
+    "summary": "Bloomberg Crypto 节目聚焦去中心化金融领域，涵盖行业人物、交易动态和技术发展。本期嘉宾包括 Strive CEO Matt Cole、Dragonfly COO Lindsay Lin 以及范德堡法学院专家，探讨 DeFi 行业最新趋势与挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/alibaba-sues-the-us-seeking-removal-from-pentagon-s-blacklist": {
+    "title_clean": "阿里巴巴起诉美国国防部，寻求从五角大楼黑名单中移除",
+    "summary": "阿里巴巴集团起诉美国国防部，要求将其从被认定为支持中国军队的黑名单中移除，此举反映了中美科技企业在地缘政治环境下面临的合规挑战，对元宝产品经理了解国际市场准入和合规风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/meta-building-prediction-market-app-that-wouldn-t-wager-money": {
+    "title_clean": "Meta：非货币化预测市场应用开发",
+    "summary": "Meta正在开发一款预测市场应用，类似Kalshi和Polymarket，但用户不会进行金钱投注。该项目由扎克伯格直接领导的小团队负责，旨在创建低风险预测平台，可能用于内部决策或用户参与。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time": {
+    "title_clean": "Anthropic 推出 Claude Tag：通过 Slack 消息学习企业知识",
+    "summary": "Anthropic 发布 Claude Tag 功能，将 AI 助手集成到 Slack 中，持续学习企业上下文和机构知识。这一产品不仅提升团队生产力，更是 Anthropic 在企业级 AI 市场的重要战略布局，对元宝在组织知识管理和企业服务场景的产品设计具有参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/spacex-draws-89-billion-demand-for-debut-bond-offering-video": {
+    "title_clean": "SpaceX：89亿美元债券发行获超额认购",
+    "summary": "SpaceX首次美国债券发行吸引了约890亿美元认购需求，有望成为美国投资级债券市场最大规模交易之一。这反映了市场对SpaceX商业航天业务的高度认可，对元宝产品经理评估AI科技企业融资能力和市场价值有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/meta-debuts-glasses-under-its-own-brand-video": {
+    "title_clean": "Meta：推出自有品牌智能眼镜",
+    "summary": "Meta首次推出自有品牌智能眼镜，定价更低，此前通过与Ray-Ban和Oakley合作推广智能眼镜。此举表明Meta正拓展硬件市场，可能影响AI助手在可穿戴设备上的应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/julian-emanuel-remains-bullish-as-tech-selloff-deepens-video": {
+    "title_clean": "Julian Emanuel：科技股回调后仍看涨",
+    "summary": "Evercore ISI首席策略官Julian Emanuel认为，部分科技巨头股价下跌只是盈利与价格同步调整，他仍保持乐观态度。这反映了市场对AI相关科技股的短期波动与长期价值判断，对产品经理把握AI行业投资情绪和市场预期有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/cross-origin-storage": {
+    "title_clean": "Transformers.js：跨源存储API实验",
+    "summary": "Transformers.js正在实验跨源存储API，这可能会改善模型在浏览器中的跨域数据访问能力，对AI助手在浏览器环境中的功能扩展有参考价值，特别是涉及用户数据持久化和跨应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/sequoia-founders-fund-back-german-drone-startup-stark-at-3-5-billion-valuation": {
+    "title_clean": "Stark：自杀式无人机防御系统获红杉资本领投",
+    "summary": "Stark Defence是一家开发自杀式无人机的初创公司，已完成5亿欧元融资，由红杉资本和彼得·蒂尔的Founders Fund领投，公司估值达35亿欧元。这反映了私人资本对欧洲国防科技领域的持续投入，对元宝产品经理了解AI技术在军事/安防领域的应用趋势和商业化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/cyber-firm-varonis-is-said-to-weigh-sale-after-takeover-interest": {
+    "title_clean": "网络安全公司Varonis考虑出售：收到收购意向",
+    "summary": "网络安全公司Varonis Systems在收到收购意向后，正在探索包括潜在出售在内的各种选项。这反映了网络安全领域的并购动态，对元宝产品经理了解企业级AI服务市场格局和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

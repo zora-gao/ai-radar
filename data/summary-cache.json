@@ -13600,5 +13600,144 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-projects-data-center-chip-sales-of-15-billion-by-2029": {
+    "title_clean": "高通：预计2029年数据中心芯片销售额达150亿美元",
+    "summary": "高通公司正从手机芯片领域扩展，预计到2029财年，其在数据中心AI组件市场的年销售额将超过150亿美元，显示高通正积极布局AI芯片市场，与现有AI芯片厂商形成潜在竞争。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/micron-s-growth-rate-is-remarkable-munster-says-video": {
+    "title_clean": "Micron增长速度超预期，超大规模云服务商将持续高速增长",
+    "summary": "Deepwater Asset管理合伙人Gene Munster在Bloomberg节目中分析美光财报，指出超大规模云服务商的增长速度将超出投资者预期，持续时间更长。这对AI基础设施供应商和云服务提供商的长期发展提供了重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/micron-sales-forecast-tops-estimates-on-insatiable-memory-demand": {
+    "title_clean": "美光科技：AI需求激增推动内存芯片销售超预期",
+    "summary": "美光科技作为美国最大内存芯片制造商，受AI需求驱动导致内存芯片短缺并价格上涨，其销售预测大幅超出华尔街预期，表明AI硬件市场持续强劲增长。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/mgx-s-50b-raise-sets-up-one-of-the-biggest-ai-funds-video": {
+    "title_clean": "MGX筹集500亿美元设立大型AI基金",
+    "summary": "阿布扎比MGX从区域和全球投资者处筹集近500亿美元，用于加速人工智能领域的投资。这是迄今为止规模最大的AI基金之一，反映了资本对AI领域的持续看好和大规模投入，对元宝产品经理了解AI行业资本动向和商业化潜力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models": {
+    "title_clean": "Anthropic指控阿里巴巴非法访问AI模型",
+    "summary": "Anthropic指控阿里巴巴大规模使用欺诈性账户非法访问其Claude AI模型，这反映了AI企业间知识产权保护的重要性，以及国际AI服务访问控制的挑战，对元宝产品经理在服务边界和合规性方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/hsbc-s-racquel-oden-highlights-potential-in-chip-sector-video": {
+    "title_clean": "HSBC高管：芯片行业在市场波动与AI增长中展现潜力",
+    "summary": "汇丰美国财富管理主管Racquel Oden分析了当前芯片行业市场动态，特别关注美光等公司在市场波动与AI增长背景下的发展潜力，为AI硬件投资方向提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/alphabet-s-dow-debut-shows-index-headache-in-tech-driven-economy": {
+    "title_clean": "Alphabet加入道琼斯指数：科技巨头主导下的指数调整",
+    "summary": "Alphabet被纳入道琼斯工业平均指数，显示该指数正努力适应由大型科技公司主导的市场格局。这一变化反映了科技巨头在传统经济指标中的重要性提升，对产品经理了解科技企业市场地位和行业趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/sk-hynix-seeks-29b-with-us-listing-to-fund-ai-boom-video": {
+    "title_clean": "SK海力士寻求通过美国上市筹集290亿美元以支持AI发展",
+    "summary": "SK海力士计划在美国进行创纪录的上市，筹集290亿美元资金，用于支持人工智能相关业务发展。这反映了AI硬件领域的大规模投资趋势，对元宝产品经理了解AI产业链上游投资动态和硬件支持AI发展的市场信号具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators": {
+    "title_clean": "Facebook 推出创作者 AI 伴侣应用",
+    "summary": "Facebook 正在测试一款面向创作者的新应用，整合了其最新发布的 AI 创作者助手功能。该应用旨在为内容创作者提供 AI 辅助工具，可能帮助提升创作效率和质量，对元宝在垂直领域 AI 助手开发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic": {
+    "title_clean": "Google两名AI研究员将离职加入Anthropic",
+    "summary": "谷歌两名人工智能研究人员计划离职加入竞争对手Anthropic，这是谷歌近期一系列高调人才流失事件中的最新案例。这对元宝产品经理有参考价值，表明AI人才竞争激烈，Anthropic可能正在加强其AI研发团队实力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/spac-deals-seen-as-key-path-to-public-market-in-data-center-boom": {
+    "title_clean": "SPAC交易被视为数据中心热潮中企业上市的关键路径",
+    "summary": "资深SPAC专家Betsy Cohen表示，空白支票公司的复苏正成为参与人工智能数据中心建设的企业进入公开市场的有效途径。这一趋势反映了数据中心行业在AI驱动下的快速发展，以及企业寻求资本支持的新模式，对元宝产品经理了解AI基础设施投资动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

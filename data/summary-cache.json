@@ -12817,5 +12817,43 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ruby-7": {
+    "title_clean": "Ruby：AI会议提问助手",
+    "summary": "Ruby是一款AI会议助手工具，旨在帮助用户在会议中提出更好的问题，提升会议质量和参与度。该产品专注于实时会议场景，通过AI技术辅助用户进行有效提问，可能对元宝在会议辅助场景的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dr-kalam-os": {
+    "title_clean": "Dr Kalam OS：便携式本地化工作站",
+    "summary": "Dr Kalam OS是一款高端便携式本地化工作站，可通过U盘启动使用。它提供了一个完整的操作系统环境，适合需要移动计算能力的用户，可作为元宝产品在离线场景或特定行业应用中的参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-24/ai-powered-emails-invade-public-comments-process-alarming-policymakers": {
+    "title_clean": "AI邮件正在影响政治热点议题决策",
+    "summary": "从加州到北卡罗来纳州，政策制定者正通过具有AI能力的平台收到大量AI生成的邮件，这些邮件正在影响他们对热点政策问题的决策过程。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

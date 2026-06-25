@@ -14621,5 +14621,309 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt": {
+    "title_clean": "Anthropic的Claude正在赢得付费用户，挑战ChatGPT市场主导地位",
+    "summary": "数据显示，尽管ChatGPT拥有显著的市场领先优势，但付费AI消费者正越来越多地选择Anthropic的Claude。这一趋势表明Claude在付费用户市场中正逐渐获得认可，对ChatGPT构成竞争压力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/apple-s-sweeping-price-hikes-hit-ipads-and-macs-video": {
+    "title_clean": "苹果大幅上调iPad和Mac价格",
+    "summary": "苹果全面上调Mac、iPad、家庭设备及Vision Pro价格，以应对内存芯片和存储芯片的短缺导致的成本上升。此举可能导致苹果股价下跌，对产品经理评估硬件成本波动和定价策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/apple-hikes-prices-to-counter-memory-shortages-video": {
+    "title_clean": "Apple因存储芯片短缺上调产品价格",
+    "summary": "苹果公司因存储芯片和存储介质短缺，上调了Mac、iPad、家庭设备及Vision Pro等产品的价格，以抵消成本上涨。这一价格调整反映了供应链压力对硬件产品定价的直接影响，对产品经理评估成本波动与定价策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/microsoft-raises-xbox-console-prices-for-third-time-in-13-months": {
+    "title_clean": "微软第三次上调Xbox游戏机价格",
+    "summary": "微软在13个月内第三次上调当前一代Xbox游戏机价格，反映了全球芯片短缺危机对硬件制造业的持续影响。这一价格调整可能影响游戏主机市场的竞争格局和消费者购买决策，对元宝产品经理了解硬件成本波动和定价策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/micron-s-ai-pricing-power-explained-video": {
+    "title_clean": "Micron：AI内存战略定价能力解析",
+    "summary": "美光科技在AI领域的定价能力可能永久改变了半导体行业。分析师Gil Luria解释了AI如何将内存转变为战略资产，这对AI硬件供应链和成本结构有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead": {
+    "title_clean": "Apple 将跳过高性能 M6 Mac 芯片，直接推出 AI 专用 M7 系列",
+    "summary": "苹果公司将对 Mac 芯片战略做出重大调整，计划跳过高性能 M6 芯片代，直接推出专注于人工智能的 M7 系列处理器。这一转变表明苹果正加速将 AI 能力整合到其产品线中，对 AI 助手和 Agent 产品开发具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/google-loses-top-ai-talent-to-anthropic-video": {
+    "title_clean": "Google 高管将转投竞争对手 Anthropic",
+    "summary": "谷歌两名顶尖 AI 研究人员计划离职加入竞争对手 Anthropic，这已是谷歌近期一系列高管离职事件中的最新一起，可能削弱谷歌在 AI 领域的领先地位。对产品经理而言，这反映了 AI 人才竞争的激烈程度，以及谷歌在 AI 战略上可能面临的挑战。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/hybrid-token-prediction": {
+    "title_clean": "混合模型预测不同类型token的能力研究",
+    "summary": "该研究探讨了混合模型在预测不同类型token(如实体、关系等)方面的表现差异，分析了模型架构对预测准确度的影响。对元宝产品经理在模型选择和优化方面具有参考价值，特别是在处理复杂语义任务时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/sonos-cuts-3-of-staff-across-user-experience-product-teams": {
+    "title_clean": "Sonos裁员3%：精简用户体验与产品团队",
+    "summary": "Sonos公司裁减了3%的员工，主要涉及用户体验、产品和设计团队，公司表示此举是为了精简组织结构并提高运营效率。这对产品经理的参考价值在于了解科技公司在优化成本结构时如何调整产品团队配置。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/data-center-surge-brings-risk-for-states-and-munis-moody-s-says": {
+    "title_clean": "数据中心激增给州和地方政府带来信用风险",
+    "summary": "穆迪评级报告指出，大量数据中心项目因其高耗电和耗水需求，正在给州和地方政府带来信用风险。这一趋势对元宝产品经理评估AI基础设施扩张的潜在影响和资源规划具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video": {
+    "title_clean": "Nvidia：提升人形机器人人类安全识别能力",
+    "summary": "Nvidia提出人形机器人需具备危险识别能力，以确保与人类共同工作时的安全性。这一技术方向对AI助手和AI Agent在物理世界中的应用具有重要参考价值，特别是在服务场景中的人机交互安全方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026": {
+    "title_clean": "Google Finance：金融信息应用升级并发布新Android应用",
+    "summary": "Google Finance结束测试阶段，正式推出新版应用并发布Android原生应用，提供更全面的金融信息服务。这对元宝产品经理参考AI助手在金融信息获取与展示场景的设计有借鉴价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/cerebras-cbrs-on-track-for-record-two-day-loss-as-outlook-disappoints": {
+    "title_clean": "Cerebras：AI芯片公司业绩展望不及预期股价大跌",
+    "summary": "AI芯片制造商Cerebras Systems发布年度销售展望不及预期，导致股价连续两日暴跌，创纪录下跌。这一事件反映了AI硬件市场可能面临调整，对评估AI基础设施投资风险和AI芯片供应商稳定性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/apple-raises-prices-on-some-products-by-500-video": {
+    "title_clean": "Apple 提价部分产品最高达500美元",
+    "summary": "苹果公司宣布提高Mac、iPad、家庭设备及Vision Pro等多款产品价格，以抵消成本上涨带来的影响。此次提价可能影响消费者购买决策，对元宝产品经理了解高端消费电子市场定价策略和用户价格敏感度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/for-4-500-a-week-ai-can-tutor-your-kids-in-the-hamptons": {
+    "title_clean": "AI夏令营：汉普顿地区提供4500美元/周的AI家教服务",
+    "summary": "汉普顿地区推出高端AI夏令营项目，每周收费4500美元，提供学术辅导及奢侈品销售、烹饪等生活技能培训，展示了AI在高端教育服务场景的应用可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment": {
+    "title_clean": "Amazon追加130亿美元投资印度AI基础设施",
+    "summary": "Amazon宣布向印度追加130亿美元投资，用于扩展AI基础设施建设。此举反映了全球科技公司在印度加速布局AI基础设施的竞争态势，对元宝产品经理了解AI基础设施投资趋势和市场扩张策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster": {
+    "title_clean": "Netris：AI云网络加速部署平台",
+    "summary": "Netris获得a16z 1500万美元A轮融资，提供运行在网络交换机上的软件平台，帮助AI新云运营商缩短上线时间。这对元宝产品经理了解AI基础设施服务商业化路径和云网络优化方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/bofa-s-raedler-says-defensives-ready-to-roar-if-ai-trade-falters": {
+    "title_clean": "美银策略师：AI投资热潮消退时防御性板块将崛起",
+    "summary": "美银欧洲股票策略主管Sebastian Raedler表示，如果人工智能投资热潮开始降温，投资者应转向防御性板块。这一观点为AI投资趋势可能带来的市场变化提供了重要参考，有助于产品经理评估AI商业化路径的可持续性及潜在风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/samsung-teams-up-with-us-battery-startup-eyeing-defense-funds": {
+    "title_clean": "三星与美国电池初创公司合作，寻求五角大楼资金支持",
+    "summary": "三星SDI向美国电池初创公司Forge Nano投资2000万美元并提供工程支持，后者计划在美国建立新工厂，为美国国防和航空航天行业生产电池。这反映了科技巨头与国防领域在电池技术上的合作趋势，对元宝产品经理了解科技企业跨界合作模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-25/spacex-openai-and-anthropic-spur-record-vc-funding": {
+    "title_clean": "OpenAI、Anthropic和SpaceX正在改变风险投资融资格局",
+    "summary": "OpenAI、Anthropic和SpaceX等科技巨头正在重塑风险投资融资模式，凭借其巨大增长潜力吸引创纪录的资金投入，这可能改变AI领域的投资生态和竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/this-5-billion-startup-is-putting-humanoid-robots-to-work": {
+    "title_clean": "估值50亿美元的创业公司将人形机器人投入实际工作",
+    "summary": "一家估值50亿美元的创业公司已在德克萨斯州将人形机器人投入实际工作应用，这可能预示着机器驱动未来的潜力。这一动向对AI产品经理评估机器人技术与AI助手结合的商业化路径具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/us-customs-ramps-up-ai-investment-in-push-to-sharpen-enforcement": {
+    "title_clean": "美国海关加大AI投资以加强执法力度",
+    "summary": "美国海关为加强特朗普贸易战执法，正加大人工智能投资，利用AI技术识别关税规避行为和非法商品。这一趋势对AI在政府监管和合规领域的应用具有重要参考价值，特别是AI在识别复杂贸易违规场景的能力展示。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ma/2026-mergers-acquisitions-record-cursor-spcx": {
+    "title_clean": "Cursor交易推动美国创纪录的初创企业并购年",
+    "summary": "SpaceX以600亿美元收购Anysphere的交易引发关注，同时今年还有多项数十亿美元规模的并购交易完成。这反映了AI领域整合加速，对元宝产品经理评估行业并购趋势和潜在收购机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/h-b-fuller-agrees-to-acquire-uk-medtech-ams-for-659-million": {
+    "title_clean": "H.B. Fuller收购英国Advanced Medical Solutions，涉资6.59亿美元",
+    "summary": "H.B. Fuller公司同意以6.59亿美元收购英国Advanced Medical Solutions Group，这是一家生产组织愈合医疗产品的制造商。此次收购反映了医疗健康领域对组织愈合技术的重视，对元宝产品经理了解医疗健康行业并购趋势和专业化产品发展方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/the-opening-trade-6-25-2026-video": {
+    "title_clean": "美光科技：AI驱动内存芯片需求超预期增长",
+    "summary": "美光科技发布季度销售预测，大幅超出华尔街预期，显示AI驱动的内存芯片需求持续强劲增长。这一数据表明AI应用对硬件需求的拉动作用正在加速，对元宝产品经理评估AI服务基础设施需求具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

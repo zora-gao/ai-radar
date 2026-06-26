@@ -15902,5 +15902,176 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/openai-limits-release-of-new-model-under-pressure-from-us": {
+    "title_clean": "OpenAI限制新模型发布以应对美国压力",
+    "summary": "OpenAI正在向选定合作伙伴预览发布一个能力更强的新AI模型，计划在未来几周内更广泛推出，此举是在面临美国压力后的调整。这对产品经理关注AI巨头监管环境变化及产品策略调整有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/trump-vows-100-tariff-on-countries-over-digital-services-taxes": {
+    "title_clean": "特朗普威胁对征收数字服务税国家实施100%关税",
+    "summary": "特朗普总统威胁将对征收数字服务税的国家实施100%关税，此举向刚刚批准贸易协定的欧洲国家施压。这一政策动向可能影响全球数字服务贸易格局，对元宝产品经理关注国际数字服务市场环境变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/how-geothermal-energy-could-power-the-ai-boom-video": {
+    "title_clean": "地热能源如何助力AI发展",
+    "summary": "I-Pulse公司联合创始人、董事长兼CEO Robert Friedland解释了2.5亿美元美国投资将如何加速突破性半导体技术，探讨地热能源能否解决AI能源危机，为AI数据中心提供可持续能源解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/ai-cost-reality-check-hits-asia-tech-stocks-video": {
+    "title_clean": "苹果与微软提价引发亚洲科技股下跌：AI成本压力显现",
+    "summary": "苹果和微软提高产品价格后，亚洲科技股大幅下跌，引发市场对组件成本上升将抑制设备需求的担忧。这一动态反映了AI技术成本压力正对科技行业产生实质影响，对元宝产品经理评估AI服务定价策略和成本控制具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/elroy-air-s-cargo-drone-bet-video": {
+    "title_clean": "Elroy Air：货运无人机公司",
+    "summary": "Elroy Air计划以约10亿美元估值上市，旨在用长程货运无人机取代传统配送卡车。CEO Andrew Clare在Bloomberg Open Interest节目中介绍了公司的发展战略和技术应用，为物流自动化领域提供了新思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/morgan-stanley-goldman-shares-fall-on-possible-openai-ipo-delay": {
+    "title_clean": "摩根士丹利和高盛股价下跌：OpenAI可能推迟IPO",
+    "summary": "OpenAI考虑因科技股波动而将IPO推迟至明年，导致摩根士丹利和高盛股价下跌。这一消息对AI行业融资环境和企业估值有重要参考价值，元宝产品经理需关注AI独角兽上市节奏对行业资本流动的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/stocks-waver-at-end-of-bruising-week-for-ai-trade-video": {
+    "title_clean": "AI芯片股经历动荡周，市场担忧AI投资能否支撑高估值",
+    "summary": "AI芯片股在本周经历大幅波动，市场对AI领域巨额投资能否支撑行业高估值产生担忧，芯片制造商再次遭遇抛售压力。这反映了市场对AI商业化进程和投资回报的审慎态度，对元宝产品经理评估AI商业化路径和用户付费意愿有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-touchscreen-macbook-to-use-m5-pro-max-chips-m7-pro-max-models-in-2027": {
+    "title_clean": "苹果触控MacBook将采用M5 Pro和Max芯片，后续将推出M7版本",
+    "summary": "苹果首款触屏笔记本电脑将使用现有的M5 Pro和Max芯片，而非下一代芯片，但公司正在开发后续型号，将采用未来的M7芯片。这对产品经理了解苹果硬件路线和触屏笔记本市场趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/the-cult-of-the-c-suite-is-officially-over": {
+    "title_clean": "高管崇拜时代正式终结",
+    "summary": "文章指出，十年前高管普遍受到尊敬，如今公众对高管的看法已发生显著转变。这一趋势可能影响企业决策方式和组织结构，对元宝产品经理了解用户对权威的态度变化和潜在的服务场景调整有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-26/silicon-valley-money-drives-ai-s-growing-role-in-2026-us-elections": {
+    "title_clean": "AI正在重塑美国各级政治",
+    "summary": "AI已深度渗透2026年美国选举，从数据中心抵制到科技富豪的巨额资金投入，再到深度伪造竞选广告引发担忧，AI正全方位影响美国政治生态，这对元宝产品经理了解AI在敏感领域的应用边界和潜在风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/inside-disney-s-push-to-upgrade-its-theme-parks-with-robots": {
+    "title_clean": "迪士尼：主题公园机器人升级计划",
+    "summary": "迪士尼正推进主题公园机器人升级计划，旨在通过先进机器人技术提升游客体验。这一举措展示了大型娱乐集团如何将AI技术应用于实体场景，为元宝在服务场景和实体交互方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia": {
+    "title_clean": "OpenAI推出Jalapeño芯片：降低对Nvidia的AI芯片依赖",
+    "summary": "OpenAI发布名为Jalapeño的自研推理芯片，旨在减少对Nvidia AI芯片的依赖，这可能改变当前AI芯片市场格局，对元宝等AI产品的硬件供应链策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/previewing-gpt-5-6-sol": {
+    "title_clean": "OpenAI预览GPT-5.6 Sol：新一代AI模型",
+    "summary": "OpenAI预览了GPT-5.6 Sol模型，该模型在编程、科学和网络安全领域具有更强能力，并配备了最先进的安全系统。这标志着OpenAI在技术能力提升和安全保障方面的最新进展，对AI产品经理了解行业技术发展方向和安全考量具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit": {
+    "title_clean": "TechCrunch 创始人峰会早鸟票今晚截止",
+    "summary": "TechCrunch 创始人峰会 2026 年早鸟票将于太平洋时间今晚 11:59 截止，之后票价将上涨。参会者可节省高达 190 美元，建议产品经理关注此行业峰会获取创业与科技趋势信息。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
   }
 }

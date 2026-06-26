@@ -16073,5 +16073,176 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://about.fb.com/news/2026/06/inside-meta-data-center": {
+    "title_clean": "Inside One of Meta's Data Centers：Meta数据中心基础设施与技术解析",
+    "summary": "本文展示了Meta数据中心的内部基础设施和技术视角，揭示了大型AI公司如何构建支撑其AI服务的底层硬件架构。对元宝产品经理了解AI服务的基础设施需求和规模化部署有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/beyond-chips-imf-sees-ai-wealth-boom-adding-to-inflation-risks": {
+    "title_clean": "IMF报告：AI财富增长或加剧通胀风险",
+    "summary": "国际货币基金组织(IMF)研究指出，AI不仅通过推高芯片成本影响通胀，还可能通过增加消费者财富和消费意愿进一步加剧通胀压力。这一发现对AI产品经理评估AI经济影响和商业化策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-vision-pro-and-smart-glasses-chief-paul-meade-is-leaving-for-openai": {
+    "title_clean": "Apple Vision Pro与智能眼镜负责人加入OpenAI",
+    "summary": "苹果公司负责Vision Pro头显和智能眼镜项目的高管将离职加入OpenAI，这是人工智能领域高管流向竞争对手的最新案例。这一人才流动可能影响苹果在AR/VR领域的战略布局，同时也反映了OpenAI在AI硬件领域的人才需求与扩张意图。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/iphone-price-hikes-will-come-says-idc-video": {
+    "title_clean": "IDC预测iPhone将迎来价格上涨",
+    "summary": "IDC高级研究总监Nabila Popal表示，尽管苹果已宣布因存储芯片价格大幅上涨而提高硬件产品价格，但iPhone暂时未在涨价名单中。这一信息对产品经理了解硬件成本变化及可能影响AI设备定价策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/what-is-ai-distillation-and-why-is-it-a-worry-for-the-industry": {
+    "title_clean": "AI蒸馏技术及其对行业的担忧",
+    "summary": "本文探讨AI蒸馏技术的概念及其对AI行业的潜在影响。美国AI公司投入数千亿美元开发更先进的聊天机器人，但AI蒸馏技术可能威胁这一商业模式，因为它允许较小的模型复制大型模型的能力，可能降低研发回报。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia": {
+    "title_clean": "OpenAI到SpaceX纷纷自研芯片，对Nvidia形成竞争压力",
+    "summary": "OpenAI公布了其名为Jalapeño的自研推理芯片计划，标志着AI公司开始减少对Nvidia芯片的依赖。这一趋势表明大型科技公司正通过自研芯片来降低成本、优化性能，并增强对AI基础设施的控制权，这对元宝的产品经理评估AI基础设施成本和供应链策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/bloomberg-tech-6-26-2026-video": {
+    "title_clean": "OpenAI考虑推迟至2027年IPO",
+    "summary": "彭博社报道，OpenAI可能将IPO推迟至2027年，导致软银股价下跌。同时，苹果提高硬件价格后全球科技股普遍下跌。这一决策对元宝产品经理评估AI巨头上市时机及市场反应具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm": {
+    "title_clean": "OpenAI限制GPT-5.6发布以回应政府要求",
+    "summary": "OpenAI在政府要求下限制了GPT-5.6的发布范围，并表示此类政府访问限制不应成为长期常态。公司认为这种做法会阻止最佳工具被用户、开发者、企业、网络安全防御者和全球合作伙伴获取。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/blackberry-ceo-says-safety-software-offers-ai-resistant-growth": {
+    "title_clean": "BlackBerry CEO：安全软件提供AI抗性增长",
+    "summary": "BlackBerry CEO John Giamatteo表示，人工智能尚无法取代其安全软件，安全软件具有AI抗性，能够提供稳定增长。这对AI产品经理了解安全领域与AI的竞争关系及市场机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/cost-of-the-ai-boom-anxiety-longer-hours-video": {
+    "title_clean": "AI热潮的代价：焦虑与更长的工作时间",
+    "summary": "尽管AI曾承诺减轻工作负担，但硅谷的加班文化并未消失。Bloomberg的Natasha Mascarenhas解释了为什么全天候管理AI项目导致员工焦虑和工作时间延长，这对AI产品经理评估工作场景和用户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/blackberry-ceo-giamatteo-sees-qnx-powering-growth-video": {
+    "title_clean": "BlackBerry CEO：QNX操作系统推动公司增长",
+    "summary": "BlackBerry CEO John Giamatteo讨论公司向软件和基础设施领域的转型，核心是其QNX操作系统。他强调QNX现已支持超过2.75亿辆汽车，展示了该系统在车载领域的广泛应用和商业价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/market-underappreciates-ai-capex-returns-amoroso-says-video": {
+    "title_clean": "AI资本支出回报被市场低估，策略师Amoroso称",
+    "summary": "Partners Group首席投资策略师Anastasia Amoroso在彭博节目中讨论科技股近期波动，指出市场低估了AI资本支出的回报率。这对元宝产品经理评估AI投资回报与市场认知差异有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore": {
+    "title_clean": "AI模型能力已产生政治影响，需集体应对",
+    "summary": "AI模型能力已发展到具有实际政治后果的阶段，处理这些后果需要集体行动。这反映了AI技术影响已超越技术层面，进入社会治理和政策制定领域，对AI产品经理思考技术边界和社会责任有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/openai-weighs-ipo-in-2027-after-expected-anthropic-public-debut": {
+    "title_clean": "OpenAI考虑2027年IPO，预计在Anthropic上市后",
+    "summary": "OpenAI正考虑在2027年进行首次公开募股，这一时间点预计会在人工智能公司Anthemic上市之后。这一消息对元宝产品经理具有重要参考价值，反映了AI头部企业的资本战略动向和市场预期。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

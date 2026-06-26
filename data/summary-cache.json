@@ -16317,5 +16317,116 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041418&idx=2&sn=f3c976bb03da2f991985fc5455d469d5": {
+    "title_clean": "Un-0：物理计算原语生成模型，或降低AI能耗1000倍",
+    "summary": "Un-0是首个采用物理计算原语的大规模生成模型，据称可将AI能耗降低1000倍。这一突破性技术可能从根本上改变AI计算范式，对元宝产品经理评估未来AI基础设施成本与效率具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041418&idx=1&sn=c79dedd1775445fea0e24600ca524a98": {
+    "title_clean": "全国I卷数学满分：CMO金牌得主、清华预录取",
+    "summary": "全国I卷数学考试中，一名CMO金牌得主获得满分并被清华大学预录取。这反映了顶尖数学人才的教育成就路径，对AI教育产品在个性化学习路径规划和人才识别方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041320&idx=1&sn=7ea8d0ceeecd9f9887356d08b93a8c7f": {
+    "title_clean": "国内首张防爆资质、全球首个加油大脑方案",
+    "summary": "某企业获得国内首张防爆资质并推出全球首个加油大脑方案，展示了在特定工业场景下的AI应用突破，为AI在安全敏感型行业的落地提供了参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041320&idx=2&sn=f713a7c4f44eb5e6599d7ed667d97a37": {
+    "title_clean": "ACL2026论文分享会报名",
+    "summary": "ACL2026论文分享会将于本周六举行，用户已报名参加。该活动聚焦自然语言处理领域前沿研究，对元宝产品经理了解AI技术发展方向和学术动态具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/sony-pictures-tom-rothman-summer-box-office-is-roaring-video": {
+    "title_clean": "索尼影视CEO：暑期票房强劲增长",
+    "summary": "索尼影视集团主席兼CEO Tom Rothman讨论了好莱坞未来及影院座位填充策略，强调通过创造文化压力来维持影院吸引力。这对了解娱乐行业趋势和AI内容服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/forum-ai-ceo-on-pitfalls-with-ai-in-politics-video": {
+    "title_clean": "Forum AI CEO谈AI在政治领域的风险",
+    "summary": "Forum AI联合创始人兼CEO坎贝尔·布朗在彭博社访谈中强调AI公司需要接受公众监督，讨论了AI在政治应用中可能面临的挑战与风险，对元宝产品经理了解AI伦理边界和监管趋势有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models": {
+    "title_clean": "Anthropic与美国政府接近达成协议，解除AI模型限制",
+    "summary": "Anthropic与美国政府经过数周谈判，正接近达成一项协议，将解除该公司两大顶级AI模型的美国限制。这一政策变化可能影响AI行业监管环境，对元宝产品经理了解AI政策走向和竞品发展环境有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-26/an-analyst-s-missed-remark-surfaced-in-deadly-iran-school-strike-probe": {
+    "title_clean": "伊朗学校袭击调查：情报分析师失误被曝光",
+    "summary": "伊朗一所小学致命袭击事件的调查中，情报分析师的失误被曝光。这一事件揭示了情报分析过程中的关键问题，对AI助手在信息处理和决策支持方面的准确性具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/spacex-charter-discussed-mobile-phone-partnership-in-us": {
+    "title_clean": "SpaceX与Charter讨论在美国推出手机合作服务",
+    "summary": "SpaceX与Charter Communications进行了高管级别的会谈，讨论在美国推出面向消费者的手机服务合作。这对元宝产品经理有参考价值，展示了科技巨头与传统电信公司合作拓展移动服务市场的可能性，可能影响AI助手在通信领域的服务场景和商业化机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

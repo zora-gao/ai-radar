@@ -16525,5 +16525,79 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/retromac": {
+    "title_clean": "RetroMac：Mac复古系统模拟工具",
+    "summary": "RetroMac是一款能让Mac电脑模拟复古系统界面的工具，用户可以在现代Mac上体验经典操作系统界面，为怀旧用户和复古计算爱好者提供独特体验，对元宝产品经理在怀旧交互设计和多平台兼容性方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cloud-world-model": {
+    "title_clean": "Cloud World Model：云服务模拟工具",
+    "summary": "Cloud World Model是一款模拟AWS、GCP和DigitalOcean云服务的工具，允许用户无需支付实际费用即可体验这些云平台的操作。这对产品经理了解云服务交互和测试AI应用在不同云环境中的表现有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-27/apple-seeks-us-approval-to-buy-chips-from-blacklisted-cxmt-ft": {
+    "title_clean": "Apple寻求美国政府批准购买被列入黑名单的中国CXMT芯片",
+    "summary": "苹果公司正寻求白宫批准，从被列入黑名单的中国存储芯片企业CXMT采购芯片，以应对芯片成本控制挑战。这反映了全球供应链重构背景下，科技巨头在合规与成本间寻求平衡的困境，对元宝产品经理理解AI硬件供应链风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/folio-ai": {
+    "title_clean": "Folio AI：PowerPoint 智能助手增强版",
+    "summary": "Folio AI 是一款针对 PowerPoint 的 AI 助手工具，被描述为 Claude for PowerPoint 的增强版，能够帮助用户更高效地创建和编辑演示文稿。这款产品对元宝产品经理在 AI 办公场景和多模态交互方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/supra-player": {
+    "title_clean": "Supra Player：视频对比同步工具",
+    "summary": "Supra Player是一款专注于视频对比与同步的工具，能够快速比较和同步多个视频内容。对于产品经理而言，这可能在视频编辑、内容审核或协作场景中提供参考价值，特别是在处理多版本视频对比时的效率提升方案。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nada-2": {
+    "title_clean": "Nada：AI语音作曲工具",
+    "summary": "Nada是一款可通过语音直接创作音乐的AI工具，用户只需哼唱或说话即可生成音乐作品。这类工具对元宝产品经理有参考价值，因为它展示了AI在创意领域的应用场景，可能启发语音交互与多模态生成功能的融合方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

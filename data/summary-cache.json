@@ -16428,5 +16428,52 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/the-close-6-26-2026-video": {
+    "title_clean": "标普500指数结束四连跌：市场波动周收盘",
+    "summary": "标普500指数结束连续四日下跌，在波动的一周后收盘。Bloomberg Television报道了华尔街收盘前后的最新新闻和分析，包括索尼娱乐等嘉宾观点。对产品经理参考价值有限，属于泛市场动态，与AI产品无直接关联。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies": {
+    "title_clean": "特朗普政府开放Anthropic的Mythos平台：超100家美企及机构获授权使用",
+    "summary": "特朗普政府宣布开放Anthropic的Mythos平台，已有超过100家美国企业和政府机构获准使用，包括其非美国员工。这一举措表明AI大模型在政府和企业服务中的应用正在加速扩展，对元宝产品经理了解AI服务场景拓展和商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041346&idx=3&sn=e45567a5fc918b46512741129bba9b93": {
+    "title_clean": "SIGCOMM2026|从「人眼看视频」到「AI理解视频」：北大提出面向AI的视频理解技术",
+    "summary": "北大在SIGCOMM2026上提出了一种面向AI的视频理解技术，旨在将传统视频处理从人类视觉感知转向AI智能理解。这项研究可能为AI视频分析、内容理解和智能处理提供新的技术路径，对元宝在视频内容理解和多模态交互方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041346&idx=2&sn=3260c4ab233a6899f97dd87fb09f417c": {
+    "title_clean": "计算机安全专家宋晓冬加入Meta",
+    "summary": "知名计算机安全专家宋晓冬已加入Meta公司，这反映了Meta在AI安全领域的人才战略。对元宝产品经理而言，这表明AI安全人才流动趋势，以及大型科技公司对AI安全能力的重视程度。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

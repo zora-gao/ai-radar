@@ -16612,5 +16612,55 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back": {
+    "title_clean": "癌症患者使用AI助手Claude管理健康数据",
+    "summary": "创业者Connor Christou在患癌后，将血液检测结果、扫描数据、可穿戴设备输出和日记等所有健康相关信息输入Claude AI助手，利用AI辅助管理自己的治疗过程和健康数据。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on": {
+    "title_clean": "亚洲AI公司推出类似Mythos模型以应对Anthropic出口限制",
+    "summary": "亚洲AI初创公司正推出具有类似Mythos能力的模型，规避Anthropic的出口限制。这可能使美国AI实验室永久失去这一巨大市场，为亚洲AI公司创造发展机会，同时也反映了全球AI市场格局的变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-27/soaring-ipad-xbox-prices-reveal-pain-of-memory-chip-mess": {
+    "title_clean": "iPad与Xbox涨价揭示存储芯片困境",
+    "summary": "苹果和微软在五小时内相继提高iPad、Mac和Xbox等热门产品价格，反映出存储芯片供应链问题对消费电子产品定价的直接影响，提示产品经理关注硬件成本波动对产品定价策略的影响。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush": {
+    "title_clean": "AI能源危机：投资者寻找下一批IPO赢家",
+    "summary": "AI发展面临能源消耗问题，华尔街正投资数十亿美元押注能解决这一问题的公司，尽管部分技术尚未完全成熟。这对元宝产品经理了解AI基础设施成本和商业化机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

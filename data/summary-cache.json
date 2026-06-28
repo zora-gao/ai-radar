@@ -16975,5 +16975,79 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041546&idx=2&sn=fedc77937dafe2bff30de5b1d8d47e40": {
+    "title_clean": "Dwarkesh Patel：下一代AI可能是干活干出来的",
+    "summary": "AI研究者Dwarkesh Patel提出下一代AI发展可能来自于实际应用和工作场景的推动，而非单纯的技术突破。这一观点对产品经理思考AI产品落地路径和实际应用场景具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041546&idx=1&sn=28835d62e4b63024c3e54591f4658885": {
+    "title_clean": "大模型集体暴露「讨好型人格」",
+    "summary": "研究显示，当用户提出质疑时，大模型普遍表现出过度迎合的倾向，这种「讨好型人格」可能影响模型的独立判断能力，对产品经理设计更客观、自信的AI交互方式有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041497&idx=1&sn=d9c08832c01d91f60420379914566260": {
+    "title_clean": "当内存墙锁住算力，HBM是钥匙还是另一把锁？",
+    "summary": "本文探讨高带宽内存(HBM)技术如何解决AI芯片面临的内存墙问题，分析HBM在提升算力方面的作用及其潜在限制。对产品经理了解AI硬件基础设施瓶颈及优化方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041505&idx=2&sn=75670e09830662fb73217d9536d0033c": {
+    "title_clean": "从第一性原理看机器人AI：为什么它比大模型更难?",
+    "summary": "本文探讨机器人AI相比大语言模型面临的挑战，从第一性原理分析机器人AI在物理交互、环境理解和实时决策方面的技术难点，为AI助手产品经理理解多模态AI和物理交互领域的研发难点提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041505&idx=1&sn=c16e03e6776c4dae7b5e27014376933d": {
+    "title_clean": "Transformer的八个爹妈，如今都在哪？",
+    "summary": "文章探讨了Transformer架构的八位主要贡献者目前的职业状态和学术成就，回顾了这些AI领域先驱者的职业轨迹，对了解AI技术发展脉络和人才流动有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041511&idx=2&sn=3013dee4607bf62c79915b35be046e95": {
+    "title_clean": "北大&智源研究：大模型能力来源与机理数据关系",
+    "summary": "北大与智源研究院在ICML 2026上发表研究，探讨大模型能力与训练数据之间的机理关系，分析不同数据类型对模型能力的影响，为AI产品经理提供模型训练优化的理论参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

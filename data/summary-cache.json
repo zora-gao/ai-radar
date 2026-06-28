@@ -17049,5 +17049,41 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041511&idx=1&sn=e458a3f520ae40caf83ba9403cae310e": {
+    "title_clean": "开源项目：人类示范一遍，AI Agent自主学习上网技能",
+    "summary": "该开源项目解决了AI Agent每次都需要重新学习上网技能的问题，通过人类示范一次，Agent就能自主学习并掌握相关技能。这一技术突破对提升AI Agent的实用性和效率具有重要意义，为元宝产品在AI Agent能力建设方面提供了新的技术思路。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less": {
+    "title_clean": "动画行业AI变革：电影制作成本可降低90%",
+    "summary": "动画行业正经历AI技术带来的变革，部分动画师认为AI不仅能提升电影质量，还能显著降低制作成本。这一趋势对元宝产品经理具有重要参考价值，可能影响AI在创意内容生产领域的应用方向和商业化机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-28/bluebay-sees-near-term-risk-in-japan-ai-stocks-followed-by-rally": {
+    "title_clean": "BlueBay：日本AI股票短期风险后反弹预期",
+    "summary": "RBC BlueBay资产管理公司看好日本AI相关股票，预计反弹将持续至2027年，但在7-8月潜在放缓前削减短期风险。这对产品经理了解AI投资趋势和市场预期有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

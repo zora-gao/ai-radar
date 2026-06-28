@@ -16910,5 +16910,44 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-28/robotaxis-why-waymo-tesla-baidu-and-others-face-continued-challenges": {
+    "title_clean": "Robotaxi：自动驾驶出租车技术进展与挑战",
+    "summary": "Robotaxi技术从长期期待逐渐走向现实，尽管仍存在技术挑战。这一进展对AI助手产品经理具有重要参考价值，特别是在自动驾驶场景下的AI交互、服务整合和用户体验设计方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-28/apple-s-sweeping-price-hikes-bring-the-ai-era-home-m6-m7-touch-macbook-pro": {
+    "title_clean": "苹果大幅提价：AI时代的成本转嫁",
+    "summary": "苹果近期实施全面提价策略，反映了AI技术发展带来的成本压力。这一动向对AI产品经理具有重要参考价值，提示在AI产品商业化过程中需平衡技术投入与用户承受能力，以及如何通过产品创新消化成本上涨。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-28/ai-startup-firmus-to-build-indonesia-data-center-with-nvidia": {
+    "title_clean": "AI初创公司Firmus与Nvidia合作在印尼建设数据中心",
+    "summary": "澳大利亚AI基础设施公司Firmus与芯片巨头Nvidia合作，将在印尼建设其首个数据中心项目。这一合作表明AI基础设施在东南亚市场的扩张趋势，对元宝产品经理评估区域AI服务部署和算力资源获取策略具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

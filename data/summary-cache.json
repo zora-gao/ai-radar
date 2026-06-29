@@ -17616,5 +17616,162 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/mrbeast-top-youtubers-sell-their-scraps-at-new-age-auction": {
+    "title_clean": "MrBeast等顶级网红拍卖个人纪念品",
+    "summary": "顶级网红如MrBeast开始通过拍卖平台出售个人纪念品，这一新兴类别吸引了原本购买艺术品和奢侈品的竞拍者。这反映了网红经济的新变现模式，为元宝探索与内容创作者合作、开发粉丝互动功能提供了参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization": {
+    "title_clean": "TIDAL：限制AI音乐变现",
+    "summary": "TIDAL实施新政策，禁止在其平台上通过AI生成的音乐内容进行变现。这一举措反映了流媒体平台对AI生成内容的监管态度，对AI音乐服务商业模式和内容策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username": {
+    "title_clean": "WhatsApp：推出用户名功能",
+    "summary": "WhatsApp正式推出用户名功能，用户无需分享电话号码即可与他人建立联系。这一变化可能影响用户隐私保护和社交连接方式，对即时通讯产品的身份验证机制设计具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer": {
+    "title_clean": "Ask an AI expert: 什么是全栈AI？",
+    "summary": "Google专家解释了全栈AI方法的含义及其为何成为Google AI工作的基础。这对产品经理理解AI系统架构和开发策略有参考价值，有助于评估元宝产品是否需要采用类似的全栈方法来提升AI能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/baidu-s-cfo-on-the-company-s-approach-to-recruiting-young-talent": {
+    "title_clean": "百度CFO谈公司年轻人才招聘策略",
+    "summary": "百度作为中国AI全栈玩家，拥有自研芯片、AI模型(文心)、云系统和自动驾驶业务(Apollo Go)，其CFO分享了公司在招募年轻人才方面的策略和理念，这对元宝产品经理了解科技巨头的人才战略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise": {
+    "title_clean": "Proception：机器人手部训练数据收集公司",
+    "summary": "Proception公司解决了机器人领域最困难的问题之一——手部训练数据收集，已与特斯拉达成贸易秘密诉讼和解，并宣布获得1100万美元融资。这对AI机器人训练和硬件开发有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet": {
+    "title_clean": "Omen AI：数据中心冷却液监测工具",
+    "summary": "Omen AI完成3100万美元A轮融资，开发监测芯片冷却液并防止数据中心细菌爆发的技术。该产品针对数据中心基础设施管理，为AI服务提供硬件保障，对元宝产品经理了解AI基础设施维护有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/us-futures-up-as-dip-buyers-lift-tech-us-iran-hostilities-fade": {
+    "title_clean": "美股科技股反弹，中东紧张局势缓解",
+    "summary": "美国科技股在经历上周下跌后，因逢低买盘推动而反弹，同时中东地区紧张局势有所缓解，共同推动美股上涨。这一市场动态对产品经理了解宏观经济环境对科技行业的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier": {
+    "title_clean": "HP加速企业工作流：OpenAI Frontier全球部署",
+    "summary": "惠普已将OpenAI Frontier平台扩展至全球运营，优化企业工作流程并加速产出。该硬件制造商于今年2月开始测试此平台，现已在全球范围内规模化应用，为企业提供AI驱动的效率提升解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/relx-plans-to-buy-back-up-to-100-million-in-shares-next-month": {
+    "title_clean": "Relx计划回购价值1亿英镑的股票",
+    "summary": "英国信息分析公司Relx计划下个月回购价值高达1亿英镑的股票，该公司正持续应对人工智能相关担忧。这一回购计划反映了Relx对自身财务状况的信心，但未直接涉及AI产品或服务变化，对元宝产品经理的业务参考价值有限。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking": {
+    "title_clean": "自然语言处理技术改变专业社交方式",
+    "summary": "自然语言处理技术正在重塑在线平台上的专业沟通方式，使网络互动更加相关和个性化。AI驱动的系统日益增强对专业语境的理解能力，为元宝在职业社交场景中的应用提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops": {
+    "title_clean": "现代DevSecOps的最佳自动化安全测试工具",
+    "summary": "本文介绍了现代DevSecOps环境下的自动化安全测试工具，这些工具能够在发布前执行安全检查，帮助团队匹配快速的开发部署节奏，解决人工审查无法满足的自动化安全需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage": {
+    "title_clean": "Wimbledon：IBM AI增强网球赛事直播体验",
+    "summary": "温布尔登网球锦标赛与IBM合作，在其数字平台新增AI功能，通过官方应用和网站提供增强的赛事直播体验。这对元宝产品经理有参考价值，展示了AI如何提升体育赛事的实时互动体验和用户参与度。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
   }
 }

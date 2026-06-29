@@ -17085,5 +17085,55 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/prediction-markets-emerge-in-japan-with-shopping-vouchers": {
+    "title_clean": "日本预测市场：购物券作为奖励的替代方案",
+    "summary": "日本本土平台因被禁止真实货币赌博，正利用该国忠诚度积分文化构建Polymarket的替代方案，通过购物券作为奖励吸引用户参与预测市场。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-28/samsung-sk-reportedly-to-invest-1-3-trillion-over-10-years": {
+    "title_clean": "三星、SK集团计划十年内投资1.3万亿美元",
+    "summary": "韩国三星集团和SK集团计划在未来十年内投资高达2,000万亿韩元(1.3万亿美元)，这是韩国总统李在明旗舰产业计划的一部分。这笔巨额投资可能对全球AI芯片供应链产生重大影响，对元宝产品经理评估AI硬件依赖和供应链风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/hp-frontier-partnership": {
+    "title_clean": "HP Inc.与OpenAI扩大战略合作：全面部署AI技术",
+    "summary": "HP Inc.扩大与OpenAI的Frontier战略合作，将AI技术应用于客户体验、软件开发和企业运营等多个领域，旨在提升企业级AI服务能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-28/china-india-see-top-firms-lose-market-cap-share-in-ai-lag": {
+    "title_clean": "中印企业市值份额下降，AI领域发展滞后",
+    "summary": "中国、印度和香港成为全球主要市场中唯一出现头部企业市值占比下降的地区，反映出这些地区在AI领域的发展滞后。这一趋势对元宝产品经理了解全球AI市场格局和区域发展差异具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

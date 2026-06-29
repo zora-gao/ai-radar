@@ -17958,5 +17958,102 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/us-equities-poised-for-best-quarter-in-six-years-video": {
+    "title_clean": "美国股市创六年来最佳季度表现",
+    "summary": "摩根资产管理全球市场策略董事总经理Meera Pandit讨论了美国股市本季度的强劲表现，创下了六年来的最佳季度收益。这一市场动向可能影响AI投资领域和科技股表现，对元宝产品经理了解市场环境与投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/south-korean-financial-firms-fight-for-share-of-ai-pay-bonanza": {
+    "title_clean": "韩国金融机构争夺AI支付奖金份额",
+    "summary": "韩国民众财富增长速度全球领先，为该国资产管理机构创造了前所未有的机遇。这一趋势反映了AI在金融服务领域的应用潜力，以及财富快速增长地区可能成为AI服务的重要市场。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/lseg-ceo-highlights-ai-as-a-major-growth-driver-video": {
+    "title_clean": "LSEG CEO：AI成为市场数据使用增长的主要驱动力",
+    "summary": "伦敦证券交易所集团(LSEG)CEO David Schwimmer讨论了人工智能对金融市场的变革性影响，强调尽管2025年面临挑战，AI仍是市场数据使用增长的关键驱动力，这对金融AI服务场景有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon": {
+    "title_clean": "韩国科技巨头承诺550亿美元投资应对内存芯片短缺",
+    "summary": "韩国两大内存芯片公司承诺建设更多内存实验室工厂，以缓解全球内存芯片短缺问题，同时助力韩国确立AI技术强国地位。这一大规模投资将对AI硬件供应链产生重要影响，对元宝产品经理评估AI基础设施成本和供应链稳定性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/comcast-spinoff-will-be-value-surfacing-marangi-video": {
+    "title_clean": "Comcast将剥离NBCUniversal和Sky业务：价值重估策略",
+    "summary": "Comcast计划剥离NBCUniversal和Sky业务，Gabelli Funds总裁Chris Marangi称此举为'价值释放'策略。这一业务重组可能影响媒体行业格局，对元宝产品经理评估AI内容服务提供商的商业模式和战略调整有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/supreme-court-says-warrant-needed-for-phone-location-data": {
+    "title_clean": "最高法院：手机位置数据需搜查令",
+    "summary": "美国最高法院限制执法机构使用手机用户位置历史数据追踪犯罪嫌疑人的做法，要求获取此类数据必须持有搜查令。这一判决对AI产品在处理用户位置数据时的隐私合规具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/pimco-sees-fed-on-hold-for-rest-of-year-video": {
+    "title_clean": "Pimco：美联储今年余下时间将维持利率不变",
+    "summary": "Pimco短期投资组合管理主管Jerome Schneider预计美联储今年余下时间将维持利率不变，并就客户和投资者如何寻找机会提供见解。这对AI金融助手和投资顾问类产品有参考价值，可考虑整合利率预测功能。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users": {
+    "title_clean": "Gemini：个性化AI图像生成功能向美国免费用户开放",
+    "summary": "Google向美国符合条件的免费用户开放Gemini的个性化AI图像生成功能，允许聊天机器人根据用户兴趣和连接的Google应用数据创建图像。这一功能扩展表明AI图像生成正从付费向免费普及，可能影响用户对AI图像服务的期望和竞品策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

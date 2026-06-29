@@ -17773,5 +17773,190 @@
       "多模态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/bloomberg-tech-6-29-2026-video": {
+    "title_clean": "Rocket Lab收购铱星公司挑战SpaceX星链主导地位",
+    "summary": "Rocket Lab以80亿美元收购铱星公司，旨在挑战SpaceX在轨道经济中的主导地位。这一交易将使Rocket Lab能够提供卫星通信服务，直接与SpaceX的星链项目竞争，为产品经理提供了卫星通信市场竞争格局变化的重要参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/alibaba-tencent-dropped-by-dc-lobbyists-to-comply-with-us-curbs": {
+    "title_clean": "美国游说机构切断与阿里巴巴、腾讯的合作以遵守美国限制",
+    "summary": "美国最具影响力的游说机构正迅速切断与中国科技巨头阿里巴巴和腾讯的联系，以遵守新的美国限制措施。这一变化反映了中美科技关系紧张加剧，可能影响中国科技企业在美业务拓展和战略布局，对元宝产品经理了解国际市场环境变化和潜在风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price": {
+    "title_clean": "Anthropic与加州政府达成协议：政府使用Claude可享半价优惠",
+    "summary": "Anthropic与加州政府达成合作协议，允许加州政府以半价使用Claude AI助手。这一合作表明Anthropic正在积极拓展政府市场，与OpenAI形成竞争关系，对AI助手在政府服务场景的应用具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/uber-waymo-have-ended-robotaxi-tie-up-in-phoenix-uber-to-announce-new-partner": {
+    "title_clean": "Uber与Waymo终止凤凰城自动驾驶出租车合作",
+    "summary": "Uber宣布终止与Alphabet旗下Waymo在凤凰城的自动驾驶出租车合作，这是两家公司关系变化的最新动态。这一合作终止可能影响自动驾驶出行服务的发展路径，对元宝产品经理了解AI服务商业化合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/discoformer": {
+    "title_clean": "DiScoFormer：跨分布密度与评分的统一Transformer模型",
+    "summary": "DiScoFormer是一种新型Transformer模型，能够同时处理不同分布下的密度估计和评分任务，为AI模型在概率分布处理方面提供了新方法。这一技术突破可能对AI助手在不确定性处理、概率推理和多场景适应性方面产生启发价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/super-micro-office-raided-as-taiwan-expands-chip-smuggling-probe": {
+    "title_clean": "Super Micro遭突袭：台湾扩大芯片走私调查",
+    "summary": "Super Micro Computer台湾办公室遭政府突袭，调查扩大至 alleged 通过该公司将Nvidia芯片走私至中国的案件。此事件涉及芯片供应链安全，对AI硬件供应商合规管理有警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/delangue-on-anthropic-ai-model-s-dangerous-label-video": {
+    "title_clean": "Hugging Face CEO：Anthropic AI模型被标记为'危险'的争议",
+    "summary": "Hugging Face CEO Clem Delangue就Anthropic的Mythos AI模型被政府标记为\"过于危险\"发表看法，反映了AI安全与监管领域的最新争议，对产品经理了解AI监管环境变化和行业领袖态度有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business": {
+    "title_clean": "Arena：AI模型评测排行榜平台",
+    "summary": "Arena是广受欢迎的免费AI模型评测排行榜平台，于去年9月推出商业服务，现已发展成为价值1亿美元的业务。该平台为AI产品经理提供了模型性能对比的重要参考依据，反映了AI评测市场的商业化趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/anthropic-s-mythos-5-gets-us-approval-for-wider-use-video": {
+    "title_clean": "Anthropic's Mythos 5：获美国批准扩大使用的AI模型",
+    "summary": "Anthropic获得美国批准，恢复对其强大Mythos 5 AI模型的更广泛访问权限，此前已解决特朗普政府对该技术国家安全潜在威胁的担忧。这标志着Anthropic在合规与安全方面的进展，对AI产品经理了解监管环境与模型商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go": {
+    "title_clean": "Cursor：移动端编程助手监控工具",
+    "summary": "Cursor推出移动应用，允许用户远程监控编程代理的执行过程。这一功能扩展了AI编程助手的使用场景，使开发者能够随时随地指导和管理AI编码代理，对元宝产品经理在移动端AI助手功能设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/whatsapp-opens-username-reservations-to-3-billion-users": {
+    "title_clean": "WhatsApp向30亿用户开放用户名注册功能",
+    "summary": "WhatsApp向全球30亿用户开放用户名注册功能，用户无需分享电话号码即可在平台上建立联系，此举旨在提升用户隐私保护水平，为用户提供更安全的社交连接方式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/dual-perspectives-on-ai-investment-costs-video": {
+    "title_clean": "AI投资成本的双重视角：投资规模反映真实需求",
+    "summary": "PSP Growth董事总经理Momei Qu探讨了AI投资领域的两种对立观点：一方认为大规模投资表明强劲且真实的需求，这对元宝产品经理判断市场投入规模与用户需求的关系有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/bob-iger-joshua-kushner-discuss-nba-expansion-bid-video": {
+    "title_clean": "迪士尼前CEO与资本大亨讨论竞标NBA拉斯维加斯扩军球队",
+    "summary": "迪士尼前CEO鲍勃·伊格与Thrive Capital创始人约书亚·库什纳已聘请投资银行，并讨论竞标拉斯维加斯的NBA扩军球队。这一商业动向可能影响体育内容与AI服务场景的结合机会，值得元宝产品经理关注体育内容AI化趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/open-interest-6-29-2026-video": {
+    "title_clean": "Comcast计划剥离NBCUniversal业务",
+    "summary": "Comcast宣布将剥离NBCUniversal和Sky业务，导致股价大幅上涨。这一重大重组可能影响媒体行业格局，对AI助手在媒体内容分发和个性化推荐方面的服务场景有潜在参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/ardian-plans-to-invest-over-3-billion-in-nordic-data-centers": {
+    "title_clean": "Ardian计划在北欧投资超30亿欧元建设数据中心",
+    "summary": "法国投资公司Ardian计划在北欧地区投资超过30亿欧元建设数据中心，该地区因能源价格低廉和土地充足而吸引更多数字基础设施提供商。这一投资反映了数据中心行业对北欧地区资源优势的重视，对元宝产品经理了解AI基础设施布局和成本结构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

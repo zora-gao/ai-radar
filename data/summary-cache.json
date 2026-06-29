@@ -17135,5 +17135,267 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/crest-3": {
+    "title_clean": "Crest：Mac刘海屏系统状态与翻译工具",
+    "summary": "Crest是一款Mac应用，可在设备刘海屏区域显示系统状态信息和提供翻译功能。产品经理可关注其利用设备硬件特性提供便捷信息展示的创新方式，为元宝在多设备交互和系统级服务集成方面提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pmb-local-first-memory-for-ai": {
+    "title_clean": "PMB：AI编程助手项目管理工具",
+    "summary": "PMB是一款专为AI编程助手设计的项目管理工具，旨在解决用户需要反复向AI解释项目背景的问题。该工具通过保存项目上下文和代码结构，帮助AI编程助手更好地理解项目整体情况，提高开发效率，减少重复沟通成本。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/readhere-2": {
+    "title_clean": "ReadHere：轻量级PDF与EPUB浏览器阅读器",
+    "summary": "ReadHere是一款轻量级的PDF和EPUB电子书浏览器阅读器，无需安装即可在浏览器中直接使用。对于元宝产品经理而言，这展示了轻量级文档阅读工具的市场需求，可作为多模态交互场景的参考，特别是对于需要快速访问文档的用户体验设计。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/outpaint-com-ad-reframe": {
+    "title_clean": "Outpaint.com：AI广告转电视格式工具",
+    "summary": "Outpaint.com推出Ad Reframe工具，可将用户生成内容(UGC)广告自动转换为电视广告格式，帮助广告主高效适配不同媒体渠道，解决跨平台广告投放的格式转换问题，为元宝在广告场景拓展上提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/intelli": {
+    "title_clean": "Intelli：AI客户转化对话工具",
+    "summary": "Intelli是一款AI对话工具，旨在帮助企业将潜在客户转化为实际客户。通过智能对话系统，它可以自动处理销售线索，提高转化率，为元宝产品经理在AI商业化和服务场景方面提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/south-korea-s-massive-ai-investment-push-video": {
+    "title_clean": "韩国大规模AI投资计划",
+    "summary": "韩国推出1350万亿韩元(880亿美元)企业投资计划，用于建设关键AI基础设施，巩固其在半导体市场的全球主导地位。这反映了国家对AI基础设施建设的战略重视，对元宝产品经理了解全球AI基础设施投资趋势和半导体-AI协同发展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/receiptor-ai": {
+    "title_clean": "Receiptor AI：AI自动记账助手",
+    "summary": "Receiptor AI推出Agent模式，实现自动化的记账功能，能够自动处理和分类收据信息，帮助用户简化财务管理流程。这款产品对元宝产品经理在AI服务场景拓展和自动化任务处理方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cline-4": {
+    "title_clean": "ClinePass：开源模型运行平台",
+    "summary": "ClinePass是一个允许用户在Cline中运行最佳开源模型的平台，为AI助手产品提供了模型选择和部署的新思路，对产品经理评估模型集成策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres": {
+    "title_clean": "xFusion：企业级AI边缘到数据中心计算方案",
+    "summary": "xFusion在ISC 2026上展示了可扩展的企业级AI计算模型，实现从边缘工作站到液冷数据中心的硬件过渡。汉堡展会上的企业技术采购者寻求相关解决方案，这对元宝产品经理了解企业AI部署架构和硬件需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/sintra-has-catalyst-potential-this-week-3-minutes-mliv-video": {
+    "title_clean": "Sintra Has Catalyst Potential This Week: 3-Minutes MLIV",
+    "summary": "Bloomberg分析师团队讨论Sintra本周可能的催化剂因素，为投资者提供市场分析。此资讯对元宝产品经理参考价值有限，属于泛金融分析内容，不直接涉及AI产品或服务创新。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/korean-stocks-rebound-as-samsung-sk-hynix-unveil-spending-plan": {
+    "title_clean": "三星和SK海力士公布大规模投资计划，韩国股市反弹",
+    "summary": "三星电子和SK海力士在政府简报中承诺进行大规模投资，强调韩国对AI发展的承诺，推动韩国股市从早前损失中恢复。这对元宝产品经理了解科技巨头在AI领域的投资动向和区域市场反应有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/prosus-focused-on-growing-just-eat-globally-bloisi-says-video": {
+    "title_clean": "Prosus CEO：Just Eat外卖平台将实现全球增长",
+    "summary": "Prosus CEO表示其旗下外卖平台Just Eat将在未来几个月开始实现增长，并制定了全球扩张计划。这反映了外卖服务市场的持续发展潜力，对元宝在服务场景拓展和商业化策略上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/china-s-robots-try-world-cup-style-penalty-kicks-video": {
+    "title_clean": "中国机器人尝试世界杯点球挑战",
+    "summary": "中国仿人形机器人在上海世界移动通信大会上展示世界杯点球等技能，包括点球和钢琴演奏等表演。这一展示反映了机器人技术在运动模拟和精细动作控制方面的进展，对元宝产品经理了解机器人交互能力和多模态应用场景有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026": {
+    "title_clean": "Scam.ai：高通合作推出Halo深度伪造检测模型",
+    "summary": "Scam.ai与高通达成合作，在Computex 2026上推出Halo深度伪造检测模型，该模型可在设备端检测视频通话中的深度伪造内容，为视频通话提供安全防护。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/south-korea-unveils-plan-to-sustain-lead-in-ai-video": {
+    "title_clean": "韩国公布维持AI领先地位计划",
+    "summary": "韩国公布雄心勃勃的计划，旨在巩固其科技强国地位，三星电子和SK海力士等企业已开始大规模投资。该计划对元宝产品经理有参考价值，可作为国家层面AI战略布局的案例，了解头部科技企业的投资方向和政府支持政策。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/amazon-s-rapid-delivery-push-triggers-15-billion-rout-for-eternal-swiggy": {
+    "title_clean": "亚马逊快速配送服务冲击印度本地配送市场",
+    "summary": "亚马逊和沃尔玛旗下Flipkart在印度推出10分钟快速配送服务，对本地配送平台Eternal和Swiggy造成巨大冲击，导致两家公司市值合计蒸发150亿美元。这反映了电商巨头对即时配送市场的战略布局和竞争加剧。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/german-ai-rollout-offers-300-billion-fix-for-worker-shortage": {
+    "title_clean": "德国展示如何利用AI提振经济",
+    "summary": "德国西北地区一家定制房屋建筑商通过引入AI技术，将每周处理250多张发票的工作量从相当于4个工作日大幅缩短，展示了AI在实际经济应用中的效率提升价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/live-blog/2026-06-29/south-korea-presidential-briefing": {
+    "title_clean": "三星、SK海力士将投资5180亿美元建设两座芯片工厂",
+    "summary": "三星和SK海力宣布将联合投资5180亿美元建设两座芯片工厂，这是半导体行业史上最大规模的投资之一。这一项目反映了AI时代对高端芯片的迫切需求，对元宝产品经理了解AI基础设施供应链和算力资源布局具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/gm-backed-self-driving-firm-momenta-seeks-752-million-from-hong-kong-listing": {
+    "title_clean": "Momenta：自动驾驶公司寻求7.52亿美元香港IPO",
+    "summary": "自动驾驶公司Momenta Global Ltd.启动香港首次公开募股，计划筹集5.9亿港元(7.52亿美元)，抓住股市多年高点机会。对产品经理参考价值：了解自动驾驶领域融资动态，评估AI技术在交通领域的商业化进程。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/anthropic-s-mythos-5-cleared-by-us-for-wider-use-video": {
+    "title_clean": "Anthropic Mythos 5：获美国批准扩大使用的AI模型",
+    "summary": "Anthropic获得美国批准，恢复对其强大Mythos 5人工智能模型的更广泛访问权限，此前特朗普政府对该技术的潜在影响表示担忧。这一进展对AI产品经理关注AI模型监管环境变化及商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/jp/news/newsletters/2026-06-29/THDHO2KGCTFZ00": {
+    "title_clean": "苹果大幅涨价：AI基础设施投资转嫁消费者",
+    "summary": "苹果因AI基础设施投资增加成本而大幅提高产品价格，引发市场关注。这一涨价策略是临时应对措施还是AI时代的新常态，对产品经理评估AI技术投入与成本控制策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

@@ -18270,5 +18270,203 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/v0": {
+    "title_clean": "v0 Design Systems 2.0：组件化设计系统工具",
+    "summary": "v0 Design Systems 2.0 是一款设计系统工具，允许用户通过组件、颜色、字体和模式进行构建。该工具可能帮助产品经理了解如何将设计系统与AI工具结合，提升设计效率和一致性，对需要快速构建和迭代UI的产品团队有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meta": {
+    "title_clean": "Brain2Qwerty v2：脑电信号直接解码文字工具",
+    "summary": "Brain2Qwerty v2 是一款能够直接从非侵入式脑电信号中解码句子的技术工具，实现了从大脑活动到文字输出的直接转换。这项技术对元宝产品经理具有重要参考价值，展示了脑机接口在文字输入领域的突破性进展，可能为未来AI助手提供全新的输入方式，特别是针对行动不便用户的交互场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tinkerfont": {
+    "title_clean": "Tinkerfont：网站字体实时预览工具",
+    "summary": "Tinkerfont是一个免费的网站字体实时预览工具，允许用户在网页上实时测试和预览不同字体的效果。这对产品经理在设计和优化产品界面时选择合适的字体具有重要参考价值，能够提升用户体验和界面设计效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ivox": {
+    "title_clean": "iVox：1980年代磁带编辑效果应用",
+    "summary": "iVox是首款专注于1980年代磁带编辑效果的应用，为用户提供复古音频处理体验。这款产品可能对元宝产品经理在音频处理、复古风格AI应用或特定用户群体需求方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/midway-chat": {
+    "title_clean": "Midway Chat：会员网站实时聊天工具",
+    "summary": "Midway Chat为Memberstack和Webflow网站提供实时会员聊天功能，帮助网站运营者与会员进行即时沟通。这款工具对元宝产品经理有参考价值，因为它展示了AI聊天工具在会员服务场景中的应用，可作为元宝拓展会员服务功能的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/justwrite": {
+    "title_clean": "Justwrite：离线优先的私密写作工具",
+    "summary": "Justwrite是一款本地优先的私密写作空间，支持离线使用，专注于为用户提供安全、私密的写作环境。对于元宝产品经理而言，这反映了用户对数据隐私和离线功能的需求，可作为AI写作助手场景的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/oakamo": {
+    "title_clean": "Oakamo：稍后阅读文章工具",
+    "summary": "Oakamo是一款稍后阅读文章工具，为用户提供安静的文章阅读空间。产品经理可参考此类工具的设计思路，了解如何优化内容消费体验，特别是针对需要集中阅读的用户场景。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dayflow-4": {
+    "title_clean": "Dayflow：开源职业晋升工具",
+    "summary": "Dayflow是一款开源工具，旨在帮助用户获得职业晋升。它可能提供职业规划、技能提升或工作流程优化等功能，为元宝产品经理在职业发展工具方向提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/spacex-ipo-left-korea-broker-with-no-shares-on-misunderstanding": {
+    "title_clean": "SpaceX IPO导致韩国券商因误解未获股份",
+    "summary": "SpaceX IPO导致韩国券商Mirae Asset Securities因误解未能获得股份，错失了进入全球顶级券商行列的机会。这一事件反映了IPO分配过程中的沟通风险和对金融机构的重大影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers": {
+    "title_clean": "英国AI生产力报告：如何推动AI技术普及提升国家生产力",
+    "summary": "Google UK发布最新经济影响报告，探讨如何让更多人解锁AI技术带来的生产力提升，助力英国成为AI创新引领者。报告聚焦AI技术普及策略及其对国家经济的潜在影响，为产品经理提供AI技术规模化应用的参考视角。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cleo-4": {
+    "title_clean": "Clade：AI团队协作运营工具",
+    "summary": "Clade是一款AI COO工具，能够在用户已使用的工具中运行团队协作功能，帮助自动化团队运营流程，提升工作效率。产品经理可参考其AI在现有工具集成和团队自动化运营方面的应用思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier": {
+    "title_clean": "AI就业影响报告：高采用率企业员工数量增长10.2%",
+    "summary": "新报告显示，\"高强度AI采用企业\"员工总数增长10.2%，其中初级岗位增长12%，反驳了AI会消灭初级工作的观点。这对产品经理评估AI对就业市场的影响及产品定位有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pluno": {
+    "title_clean": "Pluno：浏览器AI代理工具",
+    "summary": "Pluno是一款浏览器AI代理工具，声称比Claude快10倍。作为浏览器自动化助手，它可能通过AI技术实现更高效的网页操作和任务执行，对元宝产品经理在AI Agent性能优化和多模态交互方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/akiflow": {
+    "title_clean": "Akiflow：AI任务与日历管理工具",
+    "summary": "Akiflow是一款任务与日历管理工具，支持从Claude、ChatGPT或Cursor等AI平台直接管理任务和日程。该产品为AI助手与生产力工具的集成提供了新思路，对元宝产品经理探索AI助手与第三方应用的整合方案具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility": {
+    "title_clean": "Base44：Wix旗下代码平台推出自有AI模型",
+    "summary": "Wix旗下的代码平台Base44开始推出自己的AI模型，希望最终能超越前沿模型。这反映了AI初创企业寻求技术防御性的趋势，对元宝产品经理在AI模型选择和差异化策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/singtel-ceo-s-pay-cut-17-to-5-3-million-after-network-outages": {
+    "title_clean": "新加坡电信CEO因网络故障降薪17%",
+    "summary": "新加坡电信因澳大利亚和新加坡发生紧急服务中断和网络故障，将集团首席执行官Yuen Kuan Moon的薪酬削减17%，降至530万美元。这一事件反映了电信服务可靠性对高管薪酬的影响，对AI服务提供商在关键基础设施合作中具有警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

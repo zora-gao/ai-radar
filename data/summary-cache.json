@@ -19212,5 +19212,115 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/don-t-see-slowdown-in-institutional-interest-markova-video": {
+    "title_clean": "Don't See Slowdown in Institutional Client Interest: Markova",
+    "summary": "Fireblocks政策总监Dea Markova在彭博加密货币节目中表示，并未看到机构客户兴趣放缓，并讨论了即将发布的《清晰法案》更新草案。这对元宝产品经理了解机构客户对加密货币服务的需求趋势和政策变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds": {
+    "title_clean": "EquiLibre：前DeepMind团队开发的量化交易AI工具",
+    "summary": "EquiLibre Technologies是一家由三位前DeepMind研究员创立的布拉格AI实验室，现估值超过5亿美元。该团队曾开发扑克AI，现转向为量化对冲基金提供AI交易解决方案，展示了AI技术在金融领域的商业化应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/spacex-drops-starlink-costs-in-memphis-amid-data-center-pushback": {
+    "title_clean": "SpaceX：因数据中心争议在孟菲斯降低星链网络价格",
+    "summary": "SpaceX在田纳西州孟菲斯市降低星链互联网套餐价格，以应对当地数据中心项目引发的反对声音和法律挑战。这反映了科技公司在推进基础设施项目时面临的社区阻力与价格策略调整。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/high-interest-in-perpetual-futures-kalshi-s-denault-video": {
+    "title_clean": "Kalshi高管：美国永久期货合约获CFTC批准上市",
+    "summary": "Kalshi执法主管Robert DeNault在彭博社加密货币节目中表示，美国商品期货交易委员会(CFTC)上月批准交易所推出永久期货合约，Kalshi的合约成为首批获准的产品。这反映了监管机构对加密衍生品市场的开放态度，为AI交易助手提供了新的服务场景机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/new-crypto-bill-draft-expected-soon-video": {
+    "title_clean": "美国加密货币监管法案草案即将出台",
+    "summary": "美国共和党参议员正推动一项行业支持的加密货币监管措施，预计新法案草案将很快公布。这将对加密货币行业监管环境产生重要影响，元宝产品经理需关注政策变化对AI金融服务场景的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/tiktok-finalizing-settlement-of-addiction-lawsuit-to-avoid-trial": {
+    "title_clean": "TikTok就未成年人成瘾诉讼达成和解协议",
+    "summary": "TikTok正就一起指控其平台对未成年人具有成瘾性的诉讼进行最终和解谈判，以避免陪审团审判。这一事件对产品经理有参考价值，反映了社交媒体平台在未成年人保护方面的法律风险和责任边界，可能影响产品设计中的成瘾机制和用户保护措施。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/how-us-immigration-rules-are-inciting-a-tech-brain-drain-video": {
+    "title_clean": "美国移民政策变化引发科技人才流失",
+    "summary": "美国最高法院推翻特朗普总统关于出生公民权的限制性政策，这一变化将影响严重依赖移民的美国科技劳动力结构，可能引发科技人才外流，对元宝等AI产品在人才招聘和国际化布局方面带来启示。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard": {
+    "title_clean": "Acti：AI助手智能手机键盘工具",
+    "summary": "Acti推出适用于iOS和Android的智能键盘，将AI助手直接集成到手机键盘中，支持跨应用使用，并允许用户创建自定义AI快捷方式。这一产品反映了AI助手向更便捷、更贴近用户日常交互场景的发展趋势，为元宝产品经理提供了AI助手新形态的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/bitcoin-etfs-on-track-for-record-monthly-outflow-video": {
+    "title_clean": "比特币ETF面临创纪录月度资金流出",
+    "summary": "比特币ETF正面临创纪录的月度资金流出，主要机构需求来源正在减弱。这一市场动态对元宝产品经理了解加密货币投资趋势和机构投资者行为变化具有重要参考价值，可能影响AI助手在金融信息服务和投资建议场景的布局。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

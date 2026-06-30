@@ -19028,5 +19028,189 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/bitcoin-miners-valuable-asset-for-electric-grid-vera-video": {
+    "title_clean": "Bitcoin Miners Valuable Asset for Electric Grid: Vera",
+    "summary": "卢克索科技首席运营官Ethan Vera在彭博加密货币节目中表示，比特币矿工正成为电网的宝贵资产，许多矿工正转向AI领域，加密公司开始应用其基础设施和专业知识。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/securitize-set-to-go-public-thursday-video": {
+    "title_clean": "Securitize：数字资产交易平台即将上市",
+    "summary": "Securitize将在周四通过SPAC合并后在纽约证券交易所上市，这是数字资产交易平台领域的重要商业事件，对AI助手产品经理了解区块链资产交易服务场景和商业化机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/breakdown-strategy-may-sell-more-bitcoin-in-overhaul-video": {
+    "title_clean": "Saylor's Strategy：拟出售12.5亿美元比特币",
+    "summary": "MicroStrategy旗下比特币投资部门Saylor's Strategy宣布对其融资模式进行全面改革，计划出售高达12.5亿美元的比特币资产。这一动向对AI产品经理了解企业级加密货币投资策略调整及风险管理有参考价值，特别是涉及大规模资产处置的决策逻辑。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite": {
+    "title_clean": "Google推出Nano Banana 2 Lite：更快更便宜的AI图像生成工具",
+    "summary": "Google更新其图像生成器Nano Banana 2 Lite，使其速度更快、成本更低，为创作者提供更实用的AI内容生成工具。这一改进可能影响AI多模态服务的成本结构和用户体验，对产品经理评估AI生成工具的商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/rubenstein-doesn-t-see-the-ai-stock-bubble-bursting-video": {
+    "title_clean": "Rubenstein：AI股票泡沫短期内不会破裂",
+    "summary": "卡莱尔集团联合创始人David Rubenstein表示，他不认为AI股票泡沫会很快破裂。作为知名投资人和财经节目主持人，他的观点反映了市场对AI领域投资持续乐观的态度，这对产品经理判断AI商业化进程和市场信心有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ibm-research/scarfbench": {
+    "title_clean": "ScarfBench：AI企业Java框架迁移基准测试",
+    "summary": "ScarfBench是一个专门用于评估AI代理在企业Java框架迁移任务中表现的基准测试工具。它为产品经理提供了衡量AI代理在复杂企业级代码迁移场景中能力的重要参考，有助于评估AI助手在专业开发环境中的实用性和可靠性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip": {
+    "title_clean": "Etched：AI芯片推理系统供应商",
+    "summary": "Nvidia的AI芯片竞争对手Etched宣布其芯片驱动的推理系统已获得10亿美元合同预订，公司估值达到50亿美元。这一数据表明AI芯片市场存在强劲竞争，为元宝产品经理提供了AI硬件供应链和推理服务市场的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents": {
+    "title_clean": "Anthropic推出Claude Sonnet 5：更经济的AI Agent运行方案",
+    "summary": "Anthropic发布Claude Sonnet 5模型，提供更强的Agent能力、更低的价格和改进的安全性，定位为Opus、GPT-5.5和Gemini Pro的经济型替代方案。这对产品经理评估AI Agent成本效益和竞品策略具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/aspiring-nvidia-rival-gets-backing-from-jane-street-video": {
+    "title_clean": "Aspiring Nvidia Rival Gets Backing From Jane Street：AI芯片初创公司获8亿美元融资",
+    "summary": "AI芯片初创公司Etched从隐身模式中现身，目标挑战芯片巨头Nvidia，专注于AI模型运行而非训练。公司已获得Jane Street提供的8亿美元融资，反映市场对AI推理芯片领域的关注与投入增加。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/mix-up-costs-korean-investors-a-shot-at-spacex-ipo-video": {
+    "title_clean": "SpaceX IPO：韩国投资者因误解错失百亿美元投资机会",
+    "summary": "SpaceX IPO过程中出现价值十亿美元的误解，导致韩国投资者错失投资机会。这一事件揭示了高价值投资决策中的沟通风险和尽职调查的重要性，对产品经理在处理用户投资相关功能时具有警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/bloomberg-tech-6-30-2026-video": {
+    "title_clean": "芯片股创历史最佳季度表现 | Bloomberg Tech 6/30/2026",
+    "summary": "Bloomberg分析师Ed Ludlow解析芯片股大涨背后的原因，该行业正迎来史上最佳季度表现。同时，台湾对Super Micro公司办公室进行突击搜查，作为调查的一部分。这对AI硬件供应链和算力成本有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/supreme-court-to-hear-apple-appeal-over-epic-app-store-fees": {
+    "title_clean": "美国最高法院将审理苹果应用商店费用上诉案",
+    "summary": "美国最高法院同意审理苹果公司就与《堡垒之夜》开发商Epic Games反垄断诉讼中的藐视裁决提出的上诉。此案涉及苹果应用商店的收费政策，可能影响应用商店的商业模式和开发者权益，对元宝的产品经理了解平台经济和反垄断政策有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic": {
+    "title_clean": "Amazon推出10亿美元FDE部门，效仿OpenAI和Anthropic模式",
+    "summary": "Amazon新成立的FDE部门将派遣工程师嵌入企业，部署定制化AI代理，专注于快速部署和客户自主性。这表明科技巨头正加速AI代理在企业服务领域的布局，对元宝的产品方向和企业服务场景拓展具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/ai-won-t-be-substitute-for-human-workers-openai-economist-says": {
+    "title_clean": "OpenAI经济学家：AI不会替代人类工作者",
+    "summary": "OpenAI首席经济学家Ronnie Chatterji表示，人工智能的发展不会使人类工作者变得多余。这一观点对产品经理有参考价值，有助于理解AI与人类协作的定位，避免过度夸大AI替代能力，指导产品设计方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/sovereign-funds-back-private-credit-video": {
+    "title_clean": "主权基金支持私人信贷",
+    "summary": "主权财富基金正加大对私人信贷的投资，而散户投资者则变得更加谨慎。Bloomberg的Silas Brown在Bloomberg Open Interest节目中解释了这一趋势的原因及其对AI金融服务领域的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

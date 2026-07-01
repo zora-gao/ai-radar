@@ -20348,5 +20348,190 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/aol-owner-bending-spoons-jumps-after-1-68-billion-ipo-video": {
+    "title_clean": "Bending Spoons：意大利数字产品公司完成16.8亿美元IPO",
+    "summary": "意大利数字产品公司Bending Spoons成功完成16.8亿美元IPO，上市后股价上涨14%。该公司专注于收购和开发数字产品，此次IPO反映了数字产品市场的投资热度，对元宝产品经理了解数字产品商业化路径和资本市场反应有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/we-re-looking-at-smaller-firms-bc-s-goldthorpe-video": {
+    "title_clean": "BC's Goldthorpe：关注小型企业并购趋势",
+    "summary": "BC Partners Credit创始人Ted Goldthorpe在彭博 Deals节目中讨论了并购行业的整合趋势、可用资金状况以及体育产业商业机会。这为元宝产品经理提供了金融领域AI服务场景和商业机会的参考视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026": {
+    "title_clean": "Google 2026年6月最新AI动态",
+    "summary": "Google发布了2026年6月的最新AI产品更新，涵盖AI助手、多模态交互和AI搜索等领域的进展。这些更新对元宝产品经理了解行业头部企业的技术方向和产品迭代策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content": {
+    "title_clean": "Cloudflare新政策要求AI公司为出版商内容付费",
+    "summary": "Cloudflare要求AI公司在9月15日前区分用于搜索和AI训练的网络爬虫，否则将面临在众多出版商网站被默认屏蔽的风险。这一政策可能影响AI公司获取训练数据的成本和方式，对AI产品的内容获取策略产生重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish": {
+    "title_clean": "SpaceX：AI手机原型设备",
+    "summary": "SpaceX向投资者展示了一款类似手机的AI设备原型，这表明公司可能计划扩展至无线通信领域。该消息对产品经理有参考价值，显示科技巨头正探索AI硬件与通信服务的结合。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/finance-app-network-maker-plaid-is-said-to-consider-us-ipo": {
+    "title_clean": "Plaid：金融科技账户连接网络服务商考虑美国IPO",
+    "summary": "Plaid是一家帮助金融科技应用连接客户账户的技术公司，据知情人士透露，该公司正考虑在美国进行首次公开募股。这反映了金融科技基础设施服务商的资本市场动向，对元宝在金融场景的接入策略和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/what-s-behind-the-us-dollar-s-explosive-rally-video": {
+    "title_clean": "美元汇率大幅上涨原因分析",
+    "summary": "分析近期美元汇率大幅上涨的原因，探讨投资者行为变化及市场因素。对元宝产品经理了解全球经济动态和用户可能关心的金融信息场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/marlinspike-raises-fund-for-defense-industrial-startups-video": {
+    "title_clean": "Marlinspike：美国国防与工业初创企业投资机构",
+    "summary": "Marlinspike Partners成功完成1.27亿美元的第二轮融资，专注于投资美国国防和工业领域的初创企业，这反映了投资者对国防科技初创企业的持续关注和资金投入。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/education/nyc-ai-summit": {
+    "title_clean": "Google联合纽约教育界与产业领袖举办AI教育峰会",
+    "summary": "Google联合纽约Jobs CEO委员会和Urban Assembly共同举办AI教育峰会，150位教育界和产业领袖齐聚谷歌办公室，共同探讨AI在课堂中的未来发展方向与应用前景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight": {
+    "title_clean": "零售AI部署：规模化个性化和客户洞察",
+    "summary": "该资讯探讨了零售AI基础设施的优化如何推动个性化系统和实时客户洞察的成功部署。行业领导者正用数据管道取代静态客户交互模式，这对元宝产品经理在AI服务场景和商业化方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off": {
+    "title_clean": "Venice AI：隐私优先AI平台获6500万美元A轮融资",
+    "summary": "Venice AI是一家隐私优先的AI平台，已完成6500万美元A轮融资，估值达独角兽级别。公司已实现盈利，年化收入超过7000万美元，表明其商业模式已获得市场验证。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac": {
+    "title_clean": "Gemini Spark：Google的智能代理助手登陆Mac",
+    "summary": "Google的24/7智能代理助手Gemini Spark现已登陆Mac平台，并增加了实时跟踪功能和对更多应用的支持。这对元宝产品经理有参考价值，展示了AI助手向多平台扩展和增强代理能力的趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/bending-spoons-ipo-turns-italian-college-pals-into-billionaires": {
+    "title_clean": "Bending Spoons IPO：意大利软件集团创始人成亿万富翁",
+    "summary": "Bending Spoons是一家意大利软件集团，由四位大学好友共同创立。该公司通过IPO使创始人成为意大利最年轻的白手起家亿万富翁群体，展示了软件聚合模式在意大利市场的成功案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/us-lifts-export-restrictions-on-anthropic-s-fable-5-video-mr2azjde": {
+    "title_clean": "美国解除Anthropic Fable 5 AI模型出口限制",
+    "summary": "特朗普政府解除对Anthropic Fable 5 AI模型的外部访问限制，此前该公司已解决政府安全顾虑。这一政策变化可能影响AI模型国际竞争格局，对元宝产品经理评估AI技术出口政策与全球市场策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash": {
+    "title_clean": "Meta：计划将闲置AI算力转化为云计算业务",
+    "summary": "Meta正计划开发云计算基础设施业务，销售AI算力和模型访问权限，此举将使其与亚马逊AWS、谷歌云等大型云服务提供商直接竞争。这反映了科技巨头正在探索AI算力的商业化路径，为元宝产品经理提供了AI基础设施商业化的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

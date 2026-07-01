@@ -19446,5 +19446,78 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models": {
+    "title_clean": "特朗普解除对Anthropic的Mythos和Fable模型限制",
+    "summary": "Anthropic宣布将于7月1日恢复Fable模型的访问权限，此前特朗普政府解除了对该模型的部分限制。这一政策变化可能影响AI模型的可用性和市场准入，对产品经理了解AI监管环境变化及模型访问政策调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model": {
+    "title_clean": "美国解除Anthropic Fable 5 AI模型出口限制",
+    "summary": "美国政府解除了对Anthropic公司Fable 5人工智能模型的外部访问限制，允许该模型更广泛地分发。这标志着AI监管政策的重要变化，可能影响全球AI产品竞争格局和元宝的国际化策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042045&idx=1&sn=21c1edaaed12394430d90672ee6b1aa8": {
+    "title_clean": "阶跃等开源JetSpec：大模型解码提速近10倍",
+    "summary": "阶跃等团队开源JetSpec技术，可将大模型解码速度提升近10倍。这一突破性进展对AI助手产品的性能优化具有重要参考价值，可能显著改善响应速度和用户体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041957&idx=3&sn=3eecfe2ab0a9aad64c0e2487bff87bad": {
+    "title_clean": "大模型可解释性：不存在唯一机制",
+    "summary": "研究指出大模型可解释性可能不存在单一机制，不同神经网络路径可能实现相同功能，这对AI产品开发中的透明度和可解释性设计提出了挑战，产品经理需重新思考如何平衡模型复杂性与用户理解需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation": {
+    "title_clean": "Wayve以85亿美元估值完成8500万美元员工股权回购",
+    "summary": "Wayve完成8500万美元员工股权回购，估值达8.5亿美元，这是AI创业公司利用员工股权计划吸引和留住人才的战略趋势的一部分。对产品经理的参考价值在于了解AI人才竞争策略和股权激励方案设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/oaktree-capital-backed-itg-raises-312-2-million-in-us-ipo": {
+    "title_clean": "ITG完成3.122亿美元美国IPO，获橡树资本支持",
+    "summary": "数字基础设施服务公司ITG在美国完成首次公开募股，融资3.122亿美元，但发行价低于市场预期区间。此次融资由橡树资本支持，反映了数字基础设施领域的投资动向，对元宝产品经理了解企业级服务市场融资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

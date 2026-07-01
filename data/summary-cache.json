@@ -19874,5 +19874,217 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/livinity": {
+    "title_clean": "Livinity：开源家庭服务器操作系统",
+    "summary": "Livinity是一款开源的家庭服务器操作系统，内置AI代理功能。该产品将AI能力直接集成到家庭服务器环境中，为用户提供本地化的AI服务支持，对元宝产品经理在AI本地化部署和家庭场景应用方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/taiwan-detains-super-micro-workers-probing-smuggling-of-nvidia-chips-to-china": {
+    "title_clean": "台湾逮捕超微电脑员工，调查向中国走私英伟达芯片",
+    "summary": "台湾检方本周突袭超微电脑台湾办公室，逮捕两名员工，指控其涉嫌向中国运送英伟达芯片。此事件反映芯片出口管制执行趋严，对AI硬件供应链和跨国企业合规管理有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/google-ordered-to-pay-klarna-nearly-2-billion-in-antitrust-suit": {
+    "title_clean": "Google被判向Klarna支付20亿美元购物搜索纠纷赔偿",
+    "summary": "谷歌因在比价购物服务市场滥用市场支配地位，被法院判向Klarna的Pricerunner单元支付近20亿美元赔偿。这反映了搜索引擎巨头在电商比价领域的垄断行为及法律风险，对元宝产品经理了解AI搜索服务的合规边界和市场公平竞争有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-01/oracle-warns-ai-data-center-splurge-may-not-pay-off": {
+    "title_clean": "Oracle警告：AI数据中心巨额投资可能无法获得回报",
+    "summary": "Oracle公司披露了为满足AI需求而大规模扩建云基础设施的风险，指出其巨额数据中心投资可能无法带来预期回报。这对元宝产品经理评估AI基础设施投资风险和云服务提供商策略变化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model": {
+    "title_clean": "日本推出千万台AI机器人应对劳动力短缺",
+    "summary": "日本政府正式将AI机器人计划提升为国家战略，目标是部署1000万台AI驱动的机器人以应对劳动力短缺问题。这一战略从概念讨论转变为具体政策，对元宝产品经理了解AI在劳动力密集型国家的应用场景和政府支持力度具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/wayve-files-for-share-sale-on-london-bourse-s-new-private-market": {
+    "title_clean": "Wayve：自动驾驶软件公司申请在伦敦证券交易所私募市场出售股份",
+    "summary": "自动驾驶软件公司Wayve Technologies成为首家在伦敦证券交易所新私募市场出售股份的主要企业，这一举动标志着自动驾驶领域融资渠道的创新尝试，对AI服务场景商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-01/ai-models-could-make-hedge-fund-trading-riskier-wall-street-researchers-warn": {
+    "title_clean": "AI工具同质化风险研究：市场表现不及预期",
+    "summary": "研究探讨当大量用户使用相同AI工具时可能产生的风险，表明AI并非市场万能解决方案。此研究对产品经理评估AI工具差异化竞争策略和用户多样性需求具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai": {
+    "title_clean": "Google与演员Idris Elba资助非洲创作者使用AI工具",
+    "summary": "谷歌与英国演员Idris Elba合作，资助非洲创作者使用人工智能工具，旨在帮助他们更快、更高效地生产高质量内容。这一举措可能拓展AI在内容创作领域的应用场景，并为元宝产品在新兴市场的服务模式提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor": {
+    "title_clean": "科技与金融行业每月流失2.8万岗位：AI对劳动力市场的影响显现",
+    "summary": "美国科技与金融行业每月流失约2.8万个工作岗位，数据显示AI开始对就业市场产生影响。这一趋势为AI助手产品经理提供了重要参考，提示需关注AI替代人类工作的实际场景，以及如何设计产品来辅助而非完全取代人类工作。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/women-on-wall-street-leave-finance-careers-to-become-influencers": {
+    "title_clean": "华尔街女性：从金融转行成为网红",
+    "summary": "华尔街女性专业人士放弃金融交易工作，转向品牌合作和社交媒体成名，反映了职业转型趋势和社交媒体影响力经济的吸引力，对产品经理了解用户职业变化和内容消费场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules": {
+    "title_clean": "英格兰银行审查金融领域AI代理规则",
+    "summary": "英格兰银行正在评估现有规则能否覆盖金融领域AI代理的应用，包括支付、交易、网络安全和运营等方面。副行长Sarah Breeden表示需要确保监管框架能够适应AI代理技术的发展，这对金融AI服务的合规性和产品设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/goldman-sees-hyperscaler-spend-further-benefiting-europe-video": {
+    "title_clean": "高盛：超大规模云服务商支出将持续推动欧洲股市增长",
+    "summary": "高盛首席全球股票策略师表示，超大规模云服务商的支出增长将继续推动其他行业和地区的盈利增长，包括欧洲。这对元宝产品经理了解云计算市场趋势和潜在投资机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/french-gas-users-to-see-higher-bills-on-network-costs-cre-says": {
+    "title_clean": "法国天然气用户将面临更高的网络费用",
+    "summary": "法国能源监管机构CRE宣布，由于天然气需求下降，网络基础设施将转由更少的用户承担费用，导致未来几十年天然气用户需支付更高的网络维护费用。这一变化反映了能源转型中的成本分摊问题，对AI助手在能源服务场景中的应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/kim-dotcom-loses-latest-appeal-in-case-against-extradition-to-us": {
+    "title_clean": "Kim Dotcom引渡案败诉：新西兰企业家失去美国引渡案最新上诉",
+    "summary": "新西兰互联网企业家Kim Dotcom在美国引渡案中失去最新上诉，将继续面临美国检方起诉。此案涉及跨境法律程序，对元宝产品经理了解国际互联网法律环境及用户数据跨境合规有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk": {
+    "title_clean": "爱尔兰新跨大西洋海底电缆：AI雄心与安全风险并存",
+    "summary": "亚马逊新建的跨大西洋海底光纤电缆象征爱尔兰科技经济的发展，同时也暴露了该国国防支出长期不足的安全隐患。这条电缆对元宝产品经理的参考价值在于，它反映了爱尔兰作为AI基础设施枢纽的定位，以及数据安全与地缘政治因素对AI服务部署的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/panasonic-targets-further-ai-growth-to-build-on-record-valuation": {
+    "title_clean": "Panasonic：加速AI业务增长以巩固创纪录估值",
+    "summary": "日本电子巨头松下控股公司正吸引投资者重新关注，作为人工智能热潮的受益者。公司计划进一步扩大AI业务，以巩固其创纪录的估值，表明传统电子企业正积极布局AI领域以提升市场价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored": {
+    "title_clean": "Anthropic发布Claude Sonnet 5并恢复Fable和Mythos模型访问",
+    "summary": "Anthropic在完成联邦出口管制审查后，正式发布Claude Sonnet 5模型，并重新开放了Fable和Mythos前沿模型的访问权限。这一决定结束了为期18天的运营限制，为AI助手产品线提供了更强大的模型选择，对产品经理评估竞品能力更新和合规策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
   }
 }

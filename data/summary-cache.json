@@ -20859,5 +20859,393 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/cometchat": {
+    "title_clean": "Gaming Chat SDK by CometChat：游戏聊天集成工具",
+    "summary": "CometChat推出专为游戏设计的聊天SDK，可无缝集成到Unreal引擎中，为游戏开发者提供原生聊天功能。这对元宝产品经理有参考价值，展示了游戏场景下AI聊天工具的专业化应用方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sidedoor-2": {
+    "title_clean": "Sidedoor：职场人脉内推工具",
+    "summary": "Sidedoor是一款职场人脉内推工具，用户可粘贴任何职位信息，系统会分析其社交网络，找出能提供内推机会的人。产品经理可参考其社交网络挖掘与职场服务场景设计，为元宝的求职或职业发展功能提供思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/html-contact": {
+    "title_clean": "html.contact：表单后端测试服务",
+    "summary": "html.contact提供完整的表单后端服务，允许用户在付费前先测试功能。这对产品经理评估表单处理解决方案的可行性和用户体验有参考价值，特别是在需要低成本验证表单功能的产品场景中。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/quick-sub-2-video-subtitling": {
+    "title_clean": "Quick Sub 2：视频字幕快速创作工具",
+    "summary": "Quick Sub 2是一款视频字幕创作工具，提供快速创意字幕生成功能，并支持直接在画布上进行控制操作。这款工具可能对元宝产品经理在视频内容处理和多模态交互方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pixfit": {
+    "title_clean": "PixFit：一键创意多格式广告生成工具",
+    "summary": "PixFit是一款广告创意工具，能将单一创意内容即时转换为多种广告格式，帮助营销人员快速适配不同平台和尺寸的广告需求，提升广告投放效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pieter-post": {
+    "title_clean": "PieterPost MCP：AI代理邮政邮件连接工具",
+    "summary": "PieterPost MCP是一款连接AI代理与传统邮政邮件服务的工具，使AI助手能够处理物理邮件，扩展了AI在现实世界服务场景中的应用边界，为元宝产品经理提供了AI代理与现实世界交互的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/retrace-2": {
+    "title_clean": "Retrace：AI代理调试工具",
+    "summary": "Retrace是一款专为AI代理设计的调试工具，通过重放和分支运行来帮助开发者排查和修复AI代理执行过程中的问题。该工具对元宝产品经理在AI代理可靠性和错误处理方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/macuse": {
+    "title_clean": "Macuse：macOS AI增强工具",
+    "summary": "Macuse是一款专为macOS设计的AI增强工具，旨在为用户提供AI超级能力。该产品可能通过集成或优化AI功能，提升macOS用户的操作效率和智能化体验，对元宝产品经理了解AI在桌面端的增强应用场景具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/scritty": {
+    "title_clean": "scritty：AI编程代理共享记忆工具",
+    "summary": "scritty是一个为AI编程代理提供共享、可搜索记忆的工具，帮助AI编程助手之间共享代码上下文和开发经验，提升协作效率和代码质量，对元宝在AI编程助手功能开发方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/banger-mail": {
+    "title_clean": "Banger Mail：团队与AI代理共享邮箱工具",
+    "summary": "Banger Mail提供团队和AI代理使用的共享邮箱服务，解决了多人协作和AI代理处理邮件的需求，为元宝产品经理在团队协作功能和AI代理服务场景方面提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/z-ai": {
+    "title_clean": "ZCode：GLM-5.2官方工具",
+    "summary": "ZCode是GLM-5.2大模型的官方工具，为开发者提供模型集成与应用支持。这对元宝产品经理了解GLM-5.2的生态工具有参考价值，有助于评估与GLM系列模型的合作可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/needle-3": {
+    "title_clean": "Needle：Slack和Teams中的主动GTM代理工具",
+    "summary": "Needle是一款在Slack和Teams中运行的主动GTM（Go-To-Market）代理工具，能够帮助团队主动管理市场推广和销售流程。对于元宝产品经理而言，该产品展示了AI Agent在企业协作场景中的应用价值，特别是在自动化市场活动管理和跨平台服务方面的创新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/macro-workspace": {
+    "title_clean": "Macro：统一工作空间与共享记忆应用",
+    "summary": "Macro是一款工作整合应用，通过共享内存功能将各类工作统一到一个平台，帮助用户管理分散的工作内容和信息，提升工作效率。对产品经理而言，其工作整合和记忆共享的设计理念对AI助手类产品的功能整合和知识管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/leveraged-etf-tied-to-sk-hynix-is-whipsawing-markets-video": {
+    "title_clean": "Leveraged ETF Tied to SK Hynix Is Whipsawing Markets：SK海力士杠杆ETF引发市场波动",
+    "summary": "该资讯报道了与SK海力士股票挂钩的杠杆ETF正在引发市场剧烈波动的情况。作为AI产品经理，这反映了金融科技领域中AI在市场分析和风险管理中的应用场景，以及复杂金融产品对市场稳定性的潜在影响，值得在金融AI助手或投资分析功能设计中参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/lombard-odier-urges-tech-exposure-at-the-market-weight-video": {
+    "title_clean": "Lombard Odier：建议增加科技股配置至市场权重",
+    "summary": "Lombard Odier EMEA首席投资官Nannette Hechler-Fayd'Herbe讨论科技股前景和波动性，并指出在人工智能和半导体之外的投资机会。这对AI产品经理了解科技行业投资趋势和资本流向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/kospi-falls-as-chip-selloff-spreads-video": {
+    "title_clean": "Kospi：AI芯片股抛售蔓延至韩国市场",
+    "summary": "韩国股市因芯片股抛售下跌，引发AI股上涨可能过度的担忧。这反映了AI相关股票的市场波动性，对元宝产品经理评估AI投资环境与市场情绪有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/build-club": {
+    "title_clean": "Solaris：企业AI采用与技能提升平台",
+    "summary": "Solaris是一个面向企业的AI采用与技能提升平台，帮助企业员工掌握AI工具并提升工作效率。该平台可能提供AI培训、技能评估和采用指导等服务，对元宝产品经理了解企业级AI培训市场和服务场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/mgx-raises-49-billion-for-ai-deals-video": {
+    "title_clean": "MGX筹集490亿美元专注AI投资",
+    "summary": "MGX筹集490亿美元成立专注于人工智能交易的最大规模基金之一，这家成立仅两年的阿布扎比公司因此跻身最具影响力投资者行列。这一巨额融资反映了AI领域资本市场的强劲投入，对元宝产品经理了解AI行业投资趋势和商业化方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/context-dev": {
+    "title_clean": "Context.dev：网络数据抓取与提取API",
+    "summary": "Context.dev提供统一的API接口，用于抓取、丰富和提取互联网数据。作为AI产品经理，这可能为元宝的数据获取能力提供技术参考，特别是在需要整合多源网络信息的服务场景中。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office": {
+    "title_clean": "印度科技大亨投资3000万美元开发AI版Microsoft Office替代品",
+    "summary": "印度科技大亨Bhavin Turakhia投入3000万美元自有资金，开发名为Neo的AI办公软件，旨在挑战Microsoft Office和Google Apps。这是他的第五个企业软件项目，专注于AI驱动的办公解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flowly-6": {
+    "title_clean": "Flowly：桌面与iPhone个人AI助手",
+    "summary": "Flowly是一款可在桌面和iPhone设备上运行的个人AI助手，为用户提供跨设备智能服务。该产品展示了AI助手向多平台部署的发展趋势，对元宝产品经理在跨平台AI助手设计和移动端布局方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/bitgo-volatility-strengthens-infrastructure-case-video": {
+    "title_clean": "BitGo：数字资产基础设施服务商",
+    "summary": "BitGo亚太区董事总经理Angela Ang表示，市场从零售投机转向机构投资者，推动了安全托管和合规基础设施的需求。这反映了数字资产行业向机构化发展的趋势，对元宝在金融科技领域的AI服务场景拓展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/congo-plans-first-stock-market-as-ai-mineral-boom-draws-interest": {
+    "title_clean": "刚果(金)计划开设首个证券交易所，AI矿物热潮吸引投资",
+    "summary": "刚果(金)正计划开设其首个证券交易所，旨在吸引更多投资，以应对由AI热潮引发的矿物需求激增。这一举措反映了AI产业链上游资源争夺加剧，对元宝等AI产品经理了解供应链布局和资源战略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says": {
+    "title_clean": "OpenAI拟向美国政府让渡5%股权",
+    "summary": "OpenAI正与美国政府初步商讨让渡5%股权事宜，此举可能影响公司治理结构及AI监管政策，对元宝产品经理评估AI企业政府合作模式与监管风险有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/muip-cio-on-ai-investments-innovation-video": {
+    "title_clean": "三菱UFJ创新伙伴CIO谈AI投资与创新前景",
+    "summary": "三菱UFJ创新伙伴首席信息官Takashi Sano讨论了AI领域的投资机会和创新前景，这是来自I会议的访谈内容，对了解大型金融机构对AI的投资策略和行业趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups": {
+    "title_clean": "Nvidia推出面向AI初创企业的收入分成模式",
+    "summary": "Nvidia向开发者提供代币信用额度，以换取其未来销售收入的分成，旨在扩大其领先AI硬件的访问范围。这一模式可能降低AI初创企业获取硬件的门槛，同时为Nvidia创造新的收入来源，对AI硬件生态和商业模式创新具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/gmi-cloud-ceo-on-business-strategy-ai-ecosystem-video": {
+    "title_clean": "GMI Cloud CEO谈商业策略与AI生态系统",
+    "summary": "GMI Cloud创始人兼CEO Alex Yeh在IVS2026会议上分享了公司商业策略及AI生态系统展望，为元宝产品经理提供了AI企业战略方向的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/former-goldman-analyst-s-ai-startup-is-said-to-raise-22-million": {
+    "title_clean": "LinqAlpha：AI投资研究公司获2200万美元融资",
+    "summary": "LinqAlpha是一家AI投资研究公司，据称已完成2200万美元A轮融资。该消息对元宝产品经理有参考价值，展示了AI在专业金融领域的应用进展，可能启发元宝在垂直领域AI服务场景的拓展方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/apple-lobbies-us-to-buy-chinese-made-memory-chips-video": {
+    "title_clean": "Apple游说美国购买中国产存储芯片",
+    "summary": "苹果正与中国存储芯片厂商长鑫存储和长江存储谈判采购事宜，旨在缓解全球存储芯片短缺问题。这一动向显示苹果供应链策略调整，对元宝产品经理了解科技巨头供应链多元化策略及地缘政治对科技产品的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/musk-altman-judge-enlists-mediator-to-resolve-ai-titans-battle": {
+    "title_clean": "马斯克与奥特曼AI诉讼案引入调解",
+    "summary": "法官为解决马斯克与奥特曼及其AI创业公司之间的法律纠纷，已引入调解人进行调解。此案涉及两位科技巨头在AI领域的商业竞争，对AI行业格局和公司治理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/us-tech-rout-sours-mood-for-japan-south-korean-chip-stocks": {
+    "title_clean": "美国科技股下跌拖累日韩芯片股",
+    "summary": "美国科技股抛售导致亚洲市场情绪恶化，日本和韩国半导体股票周四大幅下跌。Meta计划出售AI算力访问权的消息也加剧了市场波动，这对元宝产品经理了解AI行业市场情绪和芯片供应链动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -21366,5 +21366,106 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/oilfield-contractor-pay-hits-fresh-record-as-war-spurs-drilling": {
+    "title_clean": "石油行业薪资创新高：战争刺激钻井需求",
+    "summary": "伊朗战争导致原油价格上涨，石油服务公司增加钻井活动，5月份油田工人薪资连续第三个月上涨并创下新高。这一行业动态可能影响能源相关AI服务的市场需求和商业化机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/how-phone-culture-is-reshaping-chinese-society": {
+    "title_clean": "手机文化如何重塑中国社会",
+    "summary": "本集Odd Lots播客邀请《Breakneck》作者Dan Wang探讨中国如何将移动优先生活方式推向新高度，分析手机文化对中国社会的深远影响，为理解中国用户行为模式提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/microsoft-mobilizes-6-000-workers-to-help-customers-adopt-ai": {
+    "title_clean": "微软动员6000名员工协助客户采用AI",
+    "summary": "微软成立新组织，调配6000名员工协助企业完成AI部署的技术和战略工作，显示大型科技公司在AI商业化服务领域的布局加强，对元宝拓展企业级AI服务有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/robinhood-ceo-on-ai-expansion-trump-accounts-video": {
+    "title_clean": "Robinhood CEO谈AI、扩张与特朗普账户",
+    "summary": "Robinhood正在英国和欧洲扩展业务，推出代理AI服务和永久期货等衍生品投资，并预计加密货币交易将很快进入英国市场。这反映了金融科技平台对AI代理功能的重视和国际化扩张策略，对元宝在金融场景的AI应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now": {
+    "title_clean": "OpenClaw：自动化约会脚本工具",
+    "summary": "Ben Guez使用OpenClaw、Claude代码和Instagram测试创建自动化脚本，在社交媒体上获取潜在国际约会对象。该工具展示了AI自动化在社交场景的应用，为元宝产品经理提供了关于AI代理在人际关系领域可能性的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/skyroot-plans-india-s-first-private-sector-rocket-launch-in-july": {
+    "title_clean": "Skyroot：印度首个私营轨道火箭发射计划",
+    "summary": "Skyroot Aerospace宣布计划于7月12日至8月4日期间发射Vikram-1火箭，这是印度首个私营企业自主研发设计的轨道级火箭。这一里程碑事件标志着印度航天商业化进程加速，对元宝产品经理了解航天科技商业化路径及新兴市场机会具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-02/meta-considers-cloud-business-to-make-money-from-ai-capacity": {
+    "title_clean": "Meta：考虑通过云计算业务从AI投入中获利",
+    "summary": "Meta正考虑推出云计算业务，旨在将其AI投入转化为收入来源。这一举措表明科技巨头正积极探索AI技术的商业化路径，为元宝产品经理提供了AI服务变现的重要参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026": {
+    "title_clean": "Crunchbase数据：2026年上半年全球初创企业投资创5100亿美元纪录，AI热潮加速融资与退出",
+    "summary": "Crunchbase数据显示，2026年第二季度全球初创企业获得超过2000亿美元投资，成为史上第二大季度。上半年总投资达5100亿美元创历史新高，AI热潮正加速推动企业融资和IPO/并购活动。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

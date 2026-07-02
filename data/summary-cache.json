@@ -21793,5 +21793,159 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/fbi-probes-whether-alarum-unit-is-behind-co-opted-home-devices": {
+    "title_clean": "FBI调查Alarum子公司是否未经同意将家庭设备联网",
+    "summary": "FBI正在调查数据收集公司Alarum Technologies的子公司是否未经用户同意，将家庭互联网设备连接成网络。此事件涉及隐私安全与设备安全，对AI产品经理了解物联网安全风险和用户隐私保护有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become": {
+    "title_clean": "Jersey Mike's IPO：三明治店过度使用AI营销",
+    "summary": "Jersey Mike's作为三明治连锁店在其IPO文件中过度提及AI，即使其业务与AI无关，反映了当前AI营销的过度炒作现象，对产品经理警惕AI概念滥用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-02/software-developers-rethink-apps-for-their-newest-users-ai-agents": {
+    "title_clean": "软件开发者重新设计面向AI Agent的应用程序",
+    "summary": "软件开发者开始重新思考如何为AI Agent这一新用户群体设计应用程序，包括调整定价策略、权限设置以及彻底改变界面设计，这反映了AI Agent作为新兴用户群体对应用开发模式的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/ubs-sees-tech-sector-resilience-despite-meta-video": {
+    "title_clean": "UBS：科技板块韧性分析，Meta战略转型影响评估",
+    "summary": "瑞银分析师Nadia Lovell讨论了科技股近期波动性，特别是Meta战略转型引发的担忧。尽管市场担忧超大规模云服务提供商可能过度建设，但瑞银认为科技板块展现出韧性，这对AI服务提供商的市场定位和战略规划有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/invesco-s-brill-gives-spacex-bond-a-red-card-for-very-sloppy-performance": {
+    "title_clean": "Invesco批评SpaceX债券表现糟糕",
+    "summary": "Invesco北美投资级信贷主管批评SpaceX首次债券发行在二级市场表现'非常糟糕'，这反映了市场对高风险科技企业债券的谨慎态度，对元宝评估金融类AI服务场景和风险提示功能有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-02/top-suicide-squad-developers-say-flop-made-them-not-want-to-make-games-anymore": {
+    "title_clean": "《自杀小队》开发者：游戏失败导致团队不再想制作游戏",
+    "summary": "《自杀小队：消灭正义联盟》开发商Rocksteady的总监和首席设计师分享了游戏失败后的心路历程，表示这次经历让他们对继续制作游戏产生了动摇。这对产品经理了解大型游戏项目失败对团队士气的潜在影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung": {
+    "title_clean": "Anthropic与三星商讨定制AI芯片",
+    "summary": "Anthropic正与三星商讨定制AI芯片，这一消息发生在OpenAI与博通宣布合作定制AI芯片约一周后。这反映了AI大模型公司正积极寻求硬件解决方案以降低成本和提高性能，对元宝产品经理评估AI基础设施策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent": {
+    "title_clean": "本周十大融资轮次：AI、能源和生物科技领跑",
+    "summary": "美国初创企业在假期周内持续宣布大规模融资，能源和AI领域表现突出。休斯顿能源初创公司Joulent获得最大一笔融资，但具体金额未完全披露。此资讯对产品经理了解AI领域资本流向和市场热点有参考价值，可帮助判断行业投资趋势和潜在商业机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/residual-context-diffusion": {
+    "title_clean": "Residual Context Diffusion Language Models：扩散式语言模型并行解码技术",
+    "summary": "该研究提出了一种扩散式大语言模型(dLLMs)技术，能够并行解码多个token，相比传统自回归语言模型具有优势。这项技术可能提升AI助手生成内容的效率，对产品经理了解语言模型架构演进有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/conformal-thinking-risk-control": {
+    "title_clean": "Conformal Thinking: 计算预算下的推理风险控制",
+    "summary": "Conformal Thinking提出了一种在计算预算限制下控制LLM推理风险的方法，通过自适应推理策略，根据token预算动态调整推理过程，在有限计算资源下提高模型准确性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/tesla-s-big-beat-raises-questions-video": {
+    "title_clean": "特斯拉：第二季度交付量超预期引发市场关注",
+    "summary": "特斯拉第二季度交付量大幅超出市场预期，同时产量也超过预测，但公司未提供详细解释或评论，这一表现引发投资者更多疑问，对元宝产品经理了解科技巨头业绩表现与市场反应有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/unmasking": {
+    "title_clean": "Learning Unmasking Policies for Diffusion Language Models：扩散语言模型解掩策略研究",
+    "summary": "该研究探讨了扩散语言模型(dLLMs)如何通过学习解掩策略，在多项任务上达到与传统自回归模型相当的性能，同时推理效率更高。这一技术突破对AI产品经理了解模型架构演进方向和性能优化路径具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/anti-casual": {
+    "title_clean": "Anti-Causal Domain Generalization: Leveraging Unlabeled Data",
+    "summary": "该研究探讨了域泛化问题，关注如何利用未标记数据构建在全新环境中保持鲁棒性的预测模型。这项研究对AI产品经理有参考价值，特别是在开发能够适应不同环境分布变化的AI系统时，可能影响产品在跨场景应用中的稳定性和泛化能力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
   }
 }

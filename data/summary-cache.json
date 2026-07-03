@@ -22390,5 +22390,55 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-03/quantum-systems-doubles-valuation-to-8b-in-new-round-video": {
+    "title_clean": "Quantum Systems：德国无人机公司融资8亿美元估值翻倍",
+    "summary": "德国无人机公司Quantum Systems在新一轮融资中筹集12亿美元，估值翻倍至80亿美元。这家德国初创企业是众多在AI和自动化领域取得突破的德国公司之一，对AI硬件和自动化领域的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-03/microsoft-amazon-send-workers-to-their-customers-to-help-with-ai": {
+    "title_clean": "Big Tech：派遣工程师现场协助客户使用AI",
+    "summary": "微软和亚马逊等科技巨头效仿AI公司，组建\"前置部署\"工程师团队，派遣工程师到现场协助客户更好地使用AI产品。这一趋势反映了AI服务从单纯技术提供向全方位客户支持转变，对元宝的产品服务模式有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-03/allianz-s-subran-has-doubts-over-europe-s-ai-dividend-video": {
+    "title_clean": "安联首席经济学家质疑欧洲'AI红利'论",
+    "summary": "安联首席投资官兼首席经济学家Ludovic Subran表示，目前尚无足够证据表明AI投资处于'泡沫'状态。他对欧洲AI发展前景持谨慎态度，认为需要更多实际数据支持AI带来的经济回报预期。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-07-03/google-and-meta-lost-a-landmark-trial-to-kaley-but-kept-her-as-a-user": {
+    "title_clean": "17岁少女起诉Meta和谷歌并胜诉：社交媒体儿童保护案例",
+    "summary": "17岁少女Kaley Glenn-Mills成功起诉Meta和谷歌，此案改变了社交媒体保护儿童的规则。尽管胜诉，她仍无法停止使用社交媒体，反映了青少年对数字平台的依赖与监管挑战，为产品经理提供了儿童安全与产品设计的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

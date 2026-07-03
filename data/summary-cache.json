@@ -22181,5 +22181,76 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-03/ai-factories-create-winners-and-losers-in-power-equipment-market": {
+    "title_clean": "AI工厂重塑电力设备市场格局",
+    "summary": "新一代AI工厂推动电力设备企业重新调整产品组合，以争夺年价值超过2000亿美元的市场。这一趋势将导致市场格局变化，创造赢家和输家，对AI基础设施建设和能源行业产生深远影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock": {
+    "title_clean": "AI行业关键信号正在减弱：单位使用价格下滑",
+    "summary": "AI行业面临关键挑战：尽管大量资金涌入，但AI服务的单位使用价格正在下滑，引发市场对AI投资回报的担忧。这一趋势可能影响AI产品的定价策略和商业模式，对元宝产品经理评估AI服务的商业可持续性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment": {
+    "title_clean": "印度太空产业寻求SpaceX式突破",
+    "summary": "印度正积极发展其新兴的私人太空计划，并已取得初步成功。这一动态对元宝产品经理有参考价值，因为它展示了新兴市场在高科技领域的快速发展趋势，可能启发AI助手在特定垂直领域（如航天科技）的服务场景拓展机会。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped": {
+    "title_clean": "扎克伯格：AI助手进展未达预期",
+    "summary": "Meta CEO扎克伯格在内部会议上表示，AI助手的发展速度未达到预期。这一信息对元宝产品经理具有重要参考价值，表明即使是科技巨头在AI助手领域也面临挑战，可能影响行业整体发展节奏和用户期望。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-03/korea-said-to-prepare-for-currency-flow-from-sk-hynix-us-listing": {
+    "title_clean": "韩国准备应对SK海力士美国上市货币流动",
+    "summary": "韩国官方正准备应对SK海力士公司发行美国存托凭证(ADR)可能带来的货币流动，预计最早于周五进行。这一动态对关注半导体企业融资策略及国际资本流动的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-03/greek-politician-investigating-spyware-had-mobile-phone-hacked": {
+    "title_clean": "希腊政客调查间谍软件期间手机遭黑客攻击",
+    "summary": "希腊一名政客在调查间谍软件销售商期间，其手机多次被间谍软件入侵。这反映了间谍软件对个人隐私和安全的威胁，以及政治调查面临的网络安全挑战，对元宝产品经理在隐私保护和安全功能设计方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

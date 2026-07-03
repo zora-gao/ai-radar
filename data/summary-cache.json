@@ -22466,5 +22466,94 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042588&idx=2&sn=98e37d41c31b815f9ec6a02f30377593": {
+    "title_clean": "AI Agent为什么总是不稳定？终于有了一个系统性基准来拆解",
+    "summary": "该资讯介绍了针对AI Agent不稳定问题的系统性基准测试方法，通过建立评估框架帮助产品经理理解Agent性能波动的关键因素，为提升AI助手可靠性和一致性提供参考依据。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042630&idx=1&sn=d2616c38b744bf01cb92bc87280d6585": {
+    "title_clean": "ViduS1：实时交互视频生成工具",
+    "summary": "ViduS1是一款新型视频生成工具，主打实时交互功能，标志着视频生成技术进入新阶段。该产品可能通过即时反馈和交互操作提升用户体验，对AI内容创作领域具有参考价值，尤其关注实时生成与交互能力的产品经理可关注其技术实现与用户交互设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042515&idx=2&sn=6994427190f016869ee92b7a2fab085a": {
+    "title_clean": "异构Token工厂：工业级跨硬件推理设计实践",
+    "summary": "多机构联合发布异构Token工厂的工业级设计实践，重点拆解跨硬件推理的技术方案与实施要点，为AI模型在不同硬件环境下的高效部署提供实用指导。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042630&idx=2&sn=279d8a7ee9f403344bf66641f9a14692": {
+    "title_clean": "人大CoDA-Bench：Code Agent多文件处理能力评测基准",
+    "summary": "中国人民大学发布CoDA-Bench评测基准，测试AI Agent在处理1000+文件代码任务时的表现，揭示了当前Code Agent在多文件场景下的能力瓶颈，为AI编程助手产品优化提供方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042515&idx=3&sn=8e62ba2c7572de45d20993e9c8d2271f": {
+    "title_clean": "WLA：统一世界建模、语言推理与动作生成的AI框架",
+    "summary": "WLA是一个AI框架，将世界建模、语言推理与动作生成统一，实现了从预测到规划的能力提升。这一技术突破对AI助手和Agent产品开发具有重要参考价值，可能推动AI系统在复杂任务规划与执行方面的能力跃升。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms": {
+    "title_clean": "年度AI术语词典：解析人工智能新词汇与行话",
+    "summary": "该资源整理了当前AI领域出现的新术语和行话，提供了重要词汇的定义解释，帮助产品经理快速理解行业最新概念，便于产品沟通和用户教育。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042515&idx=1&sn=73fb9a85fd4223cbc21279ff13057f18": {
+    "title_clean": "GTC四大天王：成为黄仁勋座上宾的四位90后华人青年",
+    "summary": "报道了在英伟达GTC大会上受到黄仁勋特别关注的四位90后华人青年，展示了他们在AI领域的杰出成就和影响力，反映了华人青年在全球AI技术崛起中的重要作用，对元宝产品经理了解AI人才生态和行业趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

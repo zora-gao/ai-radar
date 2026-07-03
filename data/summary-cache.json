@@ -22252,5 +22252,143 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/glaze-4": {
+    "title_clean": "Glaze by Raycast：AI辅助Mac应用开发工具",
+    "summary": "Glaze是Raycast推出的AI工具，用户可通过对话方式创建Mac应用程序。这款工具降低了应用开发门槛，使非专业开发者也能快速构建应用，对元宝产品经理探索AI辅助开发场景和低代码/无代码方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/osloq": {
+    "title_clean": "Osloq：AI GitHub问题复现工具",
+    "summary": "Osloq是一款AI代理工具，能够自动复现GitHub上的问题，帮助开发者快速定位和解决代码问题。这款工具对产品经理有参考价值，因为它展示了AI在软件开发辅助场景中的应用，可能启发元宝在技术支持或代码调试方面的功能拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vox-5": {
+    "title_clean": "Vox：语音交互GitHub Copilot工具",
+    "summary": "Vox是一款允许用户通过语音与GitHub Copilot进行交互的工具，实现了AI编程助手的语音对话功能，为开发者提供了更便捷的代码辅助方式，对元宝产品经理在AI语音交互与编程助手场景设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list": {
+    "title_clean": "nxt：AI任务对话助手",
+    "summary": "nxt是一款AI任务管理工具，用户可以通过对话方式与待办事项列表交互，直接询问并获取下一步行动建议。这款产品展示了AI助手在任务管理场景中的应用，为元宝产品经理提供了AI对话式任务处理的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal": {
+    "title_clean": "武田制药与Insilico Medicine签署6亿美元AI药物发现合作",
+    "summary": "武田制药与香港Insilico Medicine达成战略合作，将利用AI技术进行早期药物发现，覆盖武田制药多个治疗领域。这一6亿美元的合作表明大型制药公司正加速采用AI技术加速药物研发流程，对AI在专业领域应用具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-03/video-games-in-europe-face-new-restrictions-on-age-loot-boxes": {
+    "title_clean": "欧洲游戏行业面临新限制：年龄分级与开箱机制监管",
+    "summary": "欧洲正准备实施一系列游戏行业新规，可能限制儿童接触部分游戏，并加强对'开箱'机制的监管，这或将影响全球游戏销售。产品经理需关注此类监管趋势对AI游戏助手、内容过滤及合规功能的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/loops": {
+    "title_clean": "Goals from Loops：营销活动效果分析工具",
+    "summary": "Goals from Loops 是一款营销效果分析工具，能够帮助用户衡量营销活动是否达到预期目标。它通过数据追踪和分析，为营销人员提供活动效果的量化评估，帮助优化营销策略和资源分配。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says": {
+    "title_clean": "AI生产力预期显示市场过度乐观：安联经济学家观点",
+    "summary": "安联首席经济学家Ludovic Subran表示，人工智能对经济的影响可能比市场炒作所预期的更为不均衡，市场对AI生产力的期望存在过度乐观现象。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows": {
+    "title_clean": "Tamamon：桌面宠物编程成长工具",
+    "summary": "Tamamon是一款桌面宠物应用，它会随着用户使用Claude Code编程而成长，将编程过程游戏化，通过宠物成长激励用户持续编码，为AI辅助编程工具提供了新的用户激励思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-03/south-korean-stocks-jump-5-after-turbulent-week-on-ai-swings": {
+    "title_clean": "韩国股市因AI波动震荡后反弹5%",
+    "summary": "韩国股市在连续两日下跌近10%后反弹5%，凸显投资者对全球AI热潮可持续性的担忧。这一市场波动反映了AI投资情绪的不稳定性，对产品经理评估AI商业化进程中的市场风险具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-03/windsor-market-has-mistaken-demand-for-ai-compute-video": {
+    "title_clean": "Windsor：AI算力需求误判分析",
+    "summary": "半导体股票经历近一个月内最差的两日表现，尽管费城半导体指数此前创下88%的最佳季度涨幅。Windsor分析指出市场可能误判了AI算力的实际需求，这对AI基础设施投资和产品成本预测具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

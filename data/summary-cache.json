@@ -22095,5 +22095,91 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/chip-industry-urges-us-to-avoid-moves-that-distort-memory-market": {
+    "title_clean": "芯片行业呼吁美国避免扭曲存储市场行为",
+    "summary": "芯片行业警告美国政府干预存储芯片市场可能加剧AI驱动的供应短缺。行业代表表示，政府试图通过影响价格或产能来解决全球存储芯片短缺问题，反而会恶化这一由人工智能繁荣导致的历史性供应紧张状况。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/kioxia-ships-samples-of-newest-flash-memory-for-ai-data-centers": {
+    "title_clean": "Kioxia 推出面向 AI 数据中心的新一代闪存芯片样品",
+    "summary": "Kioxia 已开始向 AI 数据中心运营商提供新一代闪存芯片样品，旨在竞争这一高价值市场。这反映了 AI 硬件基础设施的持续演进，对元宝产品经理了解 AI 服务底层硬件支持变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-03/china-tech-s-deepening-valuation-slump-fails-to-win-back-buyers": {
+    "title_clean": "中国科技股估值持续低迷，投资者信心不足",
+    "summary": "中国大型互联网企业股价持续下跌，估值已跌至历史低点，但投资者认为在面临多重阻力的情况下，市场复苏仍需时日。这对元宝产品经理了解中国科技市场环境、用户消费能力和商业化策略调整有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders": {
+    "title_clean": "中国量化基金吸引数十亿美元投资，AI交易击败人类交易员",
+    "summary": "中国量化基金因AI交易表现优异而大受欢迎，吸引了数十亿美元的投资资金。这表明AI在金融交易领域的应用已取得显著成效，为AI在专业服务场景的应用提供了成功案例，对元宝拓展金融AI服务场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china": {
+    "title_clean": "香港成为AI芯片贸易关键枢纽",
+    "summary": "香港已成为高科技产品进出中国的关键通道，成为由人工智能全球繁荣推动的价值2万亿美元亚洲贸易网络的重要节点。这一趋势对元宝产品经理了解AI硬件供应链和区域市场格局具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042221&idx=1&sn=aaf4c922f8735a2f10d839b178ba3a3b": {
+    "title_clean": "AReaL2.0：Agent自演进开源框架",
+    "summary": "AReaL2.0是一个开源的Agent自演进框架，能够加速AI Agent的自我学习和能力提升。这一开源项目为元宝产品经理提供了关于Agent技术演进方向的重要参考，有助于理解如何构建具有自我进化能力的AI助手系统。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/the-close-7-2-2026-video": {
+    "title_clean": "美国国债因美联储加息预期上涨：市场收盘分析 7/2/2026",
+    "summary": "彭博电视报道美国国债因市场对美联储加息的预期而上涨，这是华尔街收盘前的最新新闻和分析。此资讯对元宝产品经理的参考价值在于了解金融市场动态，特别是利率变化对AI金融服务场景的影响，可能启发金融数据分析和市场趋势预测功能的开发。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

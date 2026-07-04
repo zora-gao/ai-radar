@@ -22628,5 +22628,31 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/termi-protocol": {
+    "title_clean": "Termi Protocol：AI编程代理3D可视化工具",
+    "summary": "Termi Protocol提供AI编程代理的3D实时可视化功能，让用户能够直观观察AI代码构建过程。这一工具对产品经理有参考价值，特别是在AI代理交互设计和多模态展示方面，可能启发元宝在代码生成和可视化呈现上的创新方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/checklistfox": {
+    "title_clean": "ChecklistFox：AI清单生成工具",
+    "summary": "ChecklistFox是一款AI清单生成工具，可创建美观的PDF清单，提供免费即时服务。产品经理可关注其AI辅助文档生成的简洁交互方式和PDF输出功能，为元宝的文档生成场景提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -22716,5 +22716,79 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042683&idx=2&sn=9b87d3c88d7a20aca95f3d78f41c8457": {
+    "title_clean": "ArmCEO：CPU需求已「爆表」",
+    "summary": "Arm公司CEO表示CPU需求已达到\"爆表\"水平，反映了当前计算设备市场的强劲需求。这一信息对元宝产品经理有参考价值，表明底层硬件需求旺盛，可能影响AI助手在设备上的部署和性能优化策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042667&idx=1&sn=c7106a965bc173d009b50d2a2a607525": {
+    "title_clean": "AI记忆力发展路线：RAG技术是否将被淘汰",
+    "summary": "探讨AI记忆力发展路线下RAG(检索增强生成)技术的未来命运，分析AI记忆能力提升对RAG技术的影响，为产品经理提供AI记忆技术发展方向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042667&idx=2&sn=658a9815471356af286c57dda66f5ca9": {
+    "title_clean": "ICML2026：EgoTSR解决视觉语言模型图像顺序判断问题",
+    "summary": "ICML2026论文提出EgoTSR方法，解决视觉语言模型(VLM)在图像顺序判断上的局限性。研究表明当图像顺序改变时，VLM会做出错误判断，而EgoTSR通过特定训练方法提升了机器人在视觉序列理解上的准确性，对AI多模态交互和机器人视觉认知能力提升有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042656&idx=3&sn=8609a7dcae8fb73c7e3aa1d8feea3180": {
+    "title_clean": "上海交大提出ICRDrag：首个上下文区域拖拽模型，实现精准可控图像编辑",
+    "summary": "上海交大团队推出ICRDrag模型，首创上下文区域拖拽技术，实现图像编辑的精准控制。这一技术突破为AI图像处理提供了新思路，对元宝在多模态交互和图像理解能力方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042656&idx=2&sn=2885f8989495d491dc8b0fdc51b17aac": {
+    "title_clean": "Gemini核心贡献者演讲：未来会有数十亿超人级AI爱因斯坦",
+    "summary": "Hinton盛赞Gemini核心贡献者对未来AI发展的预测，称未来可能出现数十亿超人级AI爱因斯坦。这对产品经理了解AI前沿发展方向和潜在能力边界有参考价值，可作为产品长期规划的思考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai": {
+    "title_clean": "Google新广告：想象AI协助起草《独立宣言》",
+    "summary": "Google发布新广告，设想250年前美国开国元勋们如果有Google Workspace辅助，会如何起草《独立宣言》。这展示了AI在历史文档创作场景的应用，对产品经理思考AI如何融入历史教育、创意写作等场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

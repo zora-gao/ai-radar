@@ -22678,5 +22678,31 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor": {
+    "title_clean": "Mistral AI：开源AI模型与OpenAI竞争者",
+    "summary": "Mistral AI是一家2023年成立的公司，提供开源AI模型，已获得大量融资，致力于将前沿AI技术普及给每个人。作为OpenAI的竞争对手，其发展动向对AI行业格局和开源生态具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code": {
+    "title_clean": "Alibaba禁止员工使用Claude Code",
+    "summary": "阿里巴巴将Claude Code归类为高风险软件并禁止员工使用。这反映了大型企业对AI代码工具的安全考量，对元宝产品经理评估AI工具在企业环境中的采用风险和合规策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

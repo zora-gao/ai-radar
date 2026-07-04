@@ -22567,5 +22567,66 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-04/sk-hynix-is-said-to-weigh-0-5-fee-payout-in-mega-adr-offering": {
+    "title_clean": "SK海力士考虑在大型美国存托凭证发行中支付0.5%费用",
+    "summary": "SK海力士正考虑为其美国存托凭证发行支付约0.5%的交易费用，这将是史上最大规模的股票发行之一。这一信息对产品经理了解科技巨头的融资策略和市场动态有参考价值，特别是对于评估AI硬件供应商的资本运作和市场信心。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-04/local-lenders-set-to-supercharge-crypto-trading-in-germany": {
+    "title_clean": "德国本地银行将加速加密货币交易",
+    "summary": "德国加密货币市场预计将迎来显著增长，数百万用户将能够通过本地银行直接交易虚拟货币。这一趋势为AI助手在金融领域的应用提供了新场景，特别是涉及加密货币交易咨询和资产管理服务。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-04/china-envisions-ai-karaoke-and-coffee-at-cinemas": {
+    "title_clean": "中国影院引入AI、K歌与咖啡服务",
+    "summary": "中国发布新指南，鼓励影院突破传统电影放映模式，引入AI助手、K歌和咖啡店等多元化服务，拓展影院功能与用户体验，为AI服务在娱乐场景的应用提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion": {
+    "title_clean": "美光在日本斥资90亿美元扩建芯片工厂",
+    "summary": "美光科技在日本西部工厂扩建项目破土动工，投资额达1.5万亿日元（93亿美元），用于生产先进存储芯片。这一扩建反映了全球半导体行业对先进存储技术的持续投入，对AI硬件基础设施发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-04/china-proposes-expanding-e-commerce-law-scope-platform-rules": {
+    "title_clean": "中国拟扩大电子商务法适用范围，规范平台规则",
+    "summary": "中国发布电子商务法修订草案，将适用范围从平台和商户扩展至更广泛的数字经济领域，修订相关规则。这一政策变化可能影响AI助手在电商场景的服务边界和合规要求，对产品经理了解监管环境变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

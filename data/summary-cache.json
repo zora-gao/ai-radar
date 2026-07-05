@@ -22974,5 +22974,119 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042717&idx=2&sn=63b375acf5ce25c46a6a51ae88a45bfd": {
+    "title_clean": "OpenAI Codex与ChatGPT合并：技术整合与未来方向",
+    "summary": "OpenAI核心领导回应Codex与ChatGPT合并原因及未来发展方向，探讨两大AI模型的技术整合路径，对理解OpenAI产品战略布局和AI大模型发展具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042717&idx=3&sn=fd6024a565ae6b6990ad6650e07d248e": {
+    "title_clean": "ACL 2026：扩散语言模型推理难题被T*破解",
+    "summary": "ACL 2026会议上，研究人员解决了扩散语言模型中'块越大，推理越差'的新难题，由T*团队提出了解决方案。这一突破对AI模型推理效率优化具有重要参考价值，可能影响未来大语言模型架构设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042720&idx=2&sn=616fa18a79df6a146126a7da86817027": {
+    "title_clean": "中科院开源轻量级内存原生Agent记忆系统Mandol",
+    "summary": "中科院开源了名为Mandol的轻量级内存原生Agent记忆系统，旨在解决AI Agent记忆碎片化问题。该系统通过内存原生架构提升记忆整合能力，为AI Agent提供更连贯的记忆支持，对提升AI助手长期记忆和上下文理解能力有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042690&idx=1&sn=5acf221e46713188ac1aa3e34008351e": {
+    "title_clean": "Loop Engineering：AI工程化新方向探讨",
+    "summary": "Loop Engineering被探讨是否成为AI领域的下一个关键词，可能涉及AI工程化流程、工具链或方法论的创新，对产品经理关注AI技术落地和工程化实践有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-07-05/samsung-s-ai-bonus-deal-a-short-lived-victory-for-millennial-union-leader": {
+    "title_clean": "三星年轻工会领袖赢得260亿美元奖金后陷入困境",
+    "summary": "三星年轻工会领袖通过谈判赢得260亿美元奖金，但随着AI发展，新一代科技工作者因AI繁荣而出现分歧。这反映了科技行业内部因AI技术发展而产生的劳资关系变化和价值观冲突，对了解科技行业劳工动态和AI对就业结构的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042690&idx=2&sn=8da85d0d15b2be481c39886194fb40eb": {
+    "title_clean": "vLLM：模型协作路由工具",
+    "summary": "vLLM通过路由技术实现单次调用背后多模型协作，提升AI系统效率与资源利用率。这一技术对元宝产品经理有重要参考价值，可启发多模型协同架构设计，优化AI服务性能与成本控制。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042717&idx=1&sn=28395af0bde5feb77cad693c43dc1d77": {
+    "title_clean": "清华特奖获得者顾煜贤加入DeepSeek",
+    "summary": "清华特奖获得者顾煜贤加入DeepSeek，这表明顶尖AI人才向国内AI企业流动的趋势，可能影响DeepSeek的技术研发方向和产品竞争力，对元宝团队了解国内AI人才流动和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-05/netflix-viewers-are-abandoning-shows-after-one-season": {
+    "title_clean": "Netflix观众在一季后放弃观看热门剧集",
+    "summary": "Netflix热门剧集在一季后流失超过一半观众，反映观众对长剧持续吸引力下降，可能影响内容策略与用户留存，对视频平台内容规划有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-05/hyundai-motor-showcases-humanoid-at-world-cup-in-robotics-push": {
+    "title_clean": "Hyundai：人形机器人世界杯展示",
+    "summary": "现代汽车在2026年世界杯上展示了其Atlas人形机器人，突显了韩国汽车制造商在机器人领域的技术进步，为大规模生产做准备。这对元宝产品经理了解AI实体机器人在大型活动中的应用场景和技术发展有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

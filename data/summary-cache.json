@@ -22827,5 +22827,56 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/endl": {
+    "title_clean": "Endl：全球法币稳定币账户管理工具",
+    "summary": "Endl提供全球法币、稳定币和卡片的综合账户管理服务，为用户提供跨境金融操作解决方案。产品经理可关注其在AI金融服务场景中的应用潜力，以及与AI助手集成支付功能的可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/circlechat": {
+    "title_clean": "CircleChat：AI团队协作管理工具",
+    "summary": "CircleChat为AI助手提供Slack式沟通、任务看板和老板功能，旨在解决AI团队协作问题。产品经理可关注其如何整合AI代理的协作能力，以及此类工具对AI工作流管理的启发价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/docsalot-2": {
+    "title_clean": "DocsAlot：AI与人类兼容的文档工具",
+    "summary": "DocsAlot是一款新型文档工具，专为同时满足人类阅读需求和AI系统理解需求而设计。这种双向兼容的文档解决方案可能为AI助手产品在知识库构建、文档交互等方面提供新思路，值得产品经理关注其技术实现和应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/workbuddy-2": {
+    "title_clean": "WorkBuddy：AI团队协作助手",
+    "summary": "WorkBuddy是一款AI团队协作工具，通过模拟AI专家团队帮助用户更快获得优化结果。该产品可能针对团队协作场景，提供专业级AI辅助决策和内容生成能力，对元宝产品经理在团队协作AI应用方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

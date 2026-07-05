@@ -22878,5 +22878,41 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/pennen": {
+    "title_clean": "Pennen：每日手写日记工具",
+    "summary": "Pennen是一款专注于每日手写记录的日记应用，强调简洁体验，无信息流和AI功能，为用户提供专注的书写空间，可作为元宝产品在极简主义数字工具方向的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-05/india-tells-meta-to-remove-child-abuse-content-from-instagram": {
+    "title_clean": "印度要求Meta从Instagram移除儿童虐待内容",
+    "summary": "印度政府通知Meta公司需从包括Instagram在内的平台移除涉及儿童的性虐待内容，这是美国科技巨头面临的最新监管挑战。此事件反映了社交媒体平台在内容审核方面的监管压力，对元宝产品经理在内容安全机制和合规策略上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand": {
+    "title_clean": "英伟达供应商鸿海季度销售额超预期，AI需求持续增长",
+    "summary": "英伟达服务器组装合作伙伴鸿海精密工业公司公布季度销售额超预期增长40%，并表示AI需求正在进一步增长。这表明AI硬件市场持续强劲，对元宝产品经理评估AI基础设施供应链和市场需求趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

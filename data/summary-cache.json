@@ -22950,5 +22950,29 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk": {
+    "title_clean": "Amazon将停止接受新客户使用Mechanical Turk",
+    "summary": "Amazon将停止接受新客户使用其众包平台Mechanical Turk，这标志着这一长期存在的众包服务可能即将结束。这对产品经理了解AI辅助服务的替代方案和众包模式的可持续性有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-05/alibaba-gets-reprieve-from-lobbying-ban-tied-to-pentagon-s-curbs": {
+    "title_clean": "阿里巴巴获法院暂缓执行五角大楼游说禁令",
+    "summary": "美国联邦法官下令五角大楼暂缓执行针对阿里巴巴的游说禁令，该禁令曾导致阿里巴巴所有游说人员停止为其服务。法院正在审理此案的合宪性，此案将测试政府限制企业游说的权力边界，对了解中美科技企业监管环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

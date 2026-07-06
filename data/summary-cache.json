@@ -23149,5 +23149,237 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/stanley-studio": {
+    "title_clean": "Stanley Studio：AI视频编辑助手",
+    "summary": "Stanley Studio是一款AI视频编辑工具，能够模拟人类编辑师的工作方式，为用户提供专业级的视频编辑服务。这款产品代表了AI在创意内容生产领域的应用拓展，对元宝产品经理探索AI在多媒体内容创作场景的应用具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lumina-16": {
+    "title_clean": "Lumina：个人成长与自信提升工具",
+    "summary": "Lumina是一款旨在帮助用户克服冒名顶替综合症、建立自信的个人成长工具。它通过心理引导和成功记录功能，帮助用户认可自身成就，减少自我怀疑，对提升用户心理健康和自我效能感有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cadence-13": {
+    "title_clean": "Cadence：AI消息发送确认工具",
+    "summary": "Cadence是一款消息确认工具，允许用户一次性录制消息并确保对方已收到，解决了消息发送后的确认问题。产品经理可参考其设计思路，为元宝的消息功能增加已读确认或重要信息传递保障机制。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/airkaren": {
+    "title_clean": "AirKaren：AI客户服务争端解决工具",
+    "summary": "AirKaren是一款AI工具，代表用户与客户服务进行沟通和争端解决，帮助用户处理客服投诉和问题。这类工具反映了用户对客服体验不满的市场需求，为元宝产品经理提供了在AI服务场景和用户需求方面的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/anysearch": {
+    "title_clean": "AnySearch：实时结构化搜索工具",
+    "summary": "AnySearch是一款为AI代理和开发者提供实时结构化搜索的工具，能够提供可信的搜索结果。该产品可能对元宝在提升搜索能力和为AI代理提供可靠信息源方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/typeahead": {
+    "title_clean": "Typeahead 2.0：Mac应用私有AI自动完成工具",
+    "summary": "Typeahead 2.0是一款为Mac系统设计的AI自动完成工具，可在所有应用中提供私有化的智能文本补全功能。该产品对元宝产品经理有参考价值，特别是在AI助手跨应用服务场景和用户输入效率优化方面提供了新的产品思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/octolens-ai": {
+    "title_clean": "Octolens：AI Agent时代社交聆听工具",
+    "summary": "Octolens是一款专为AI Agent时代设计的社交聆听工具，帮助用户监控和分析社交媒体上的相关信息，为AI Agent提供实时数据支持，产品经理可参考其如何将传统社交聆听功能适配AI Agent场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/these-are-the-only-people-making-real-money-on-kalshi-and-polymarket": {
+    "title_clean": "预测市场盈利者分析：Kalshi与Polymarket成功案例",
+    "summary": "文章分析了在Kalshi和Polymarket等预测市场上获利的交易者策略，揭示了预测市场的运作机制和盈利模式，为AI产品在预测、决策支持领域提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/audio/2026-07-06/odd-lots-the-sharps-who-dominate-prediction-markets-podcast": {
+    "title_clean": "Odd Lots：预测市场专业播客",
+    "summary": "这是一档探讨预测市场的播客节目，分析预测市场中存在的投机行为和经济相关性问题，为产品经理了解预测市场的运作机制和潜在风险提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/kioxia-to-draw-18-5-billion-inflows-on-topix-review-smbc-says": {
+    "title_clean": "铠侠：因Topix指数权重上调或获185亿美元被动资金流入",
+    "summary": "日本存储芯片企业铠侠因可能被纳入Topix指数权重，预计将获得约185亿美元的被动资金流入。这一市场变动反映了投资者对存储行业前景的评估，对元宝产品经理了解科技行业资本流动和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-06/horizons-middle-east-africa-7-6-2026-video": {
+    "title_clean": "Horizons Middle East & Africa：中东非洲市场分析节目",
+    "summary": "这是一档来自迪拜的每日市场分析节目，聚焦中东和非洲这一全球增长最快地区之一，提供全球市场最新动态、深度分析以及重要人物访谈，对了解新兴市场动态和商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/taiwan-chipmaker-unimicron-seeks-up-to-1-4-billion-in-offering": {
+    "title_clean": "台湾芯片厂Unimicron寻求14亿美元融资",
+    "summary": "台湾芯片供应商Unimicron Technology Corp.计划通过全球存托股票发行筹集最多14亿美元资金，此举反映了半导体行业在当前市场环境下的融资需求，对AI硬件供应链和芯片成本有潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding": {
+    "title_clean": "Nvidia AI服务器延迟报告致亚洲科技股下跌",
+    "summary": "N下一代AI服务器机架系统因制造困难延迟超过一年，导致亚洲科技股大幅下跌。这一供应链变化可能影响AI硬件供应节奏，对元宝等AI产品的部署计划和成本结构有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/singapore-files-new-charges-in-nvidia-chip-fraud-case": {
+    "title_clean": "新加坡对英伟达芯片欺诈案提起新指控",
+    "summary": "新加坡检方对AI服务器欺诈案关键嫌疑人提出包括洗钱在内的新指控，这是东南亚国家打击英伟达芯片相关欺诈行为日益加强努力的一部分。此案反映了AI硬件供应链安全风险，对元宝产品经理了解AI基础设施安全合规有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/itv-to-sell-broadcasting-unit-to-sky-for-up-to-1-6-billion": {
+    "title_clean": "ITV将广播业务部门以16亿英镑出售给天空集团",
+    "summary": "ITV同意将其媒体和娱乐部门以高达16亿英镑的价格出售给康卡斯特旗下的天空集团，这笔交易包括债务在内，将重塑英国电视行业格局。对产品经理而言，这反映了传统媒体巨头在AI时代可能面临的业务重组压力，以及内容分发渠道的变革趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/novartis-to-buy-cancer-drug-firm-myricx-for-up-to-1-5-billion": {
+    "title_clean": "诺华制药：以15亿美元收购癌症药物公司Myricx",
+    "summary": "诺华制药同意收购英国生物技术公司Myricx Bio，最高交易金额达15亿美元。此次收购旨在获取一款实验性癌症药物，该药物能将更强效的治疗直接递送至肿瘤部位，同时限制对健康组织的损伤。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/revamped-kernels": {
+    "title_clean": "Kernels：AI助手平台重大更新",
+    "summary": "Kernels平台发布重大更新，可能涉及AI助手功能增强或新特性发布。作为AI助手类产品，其更新动向对元宝产品经理具有参考价值，可了解行业最新功能趋势和用户需求变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/bytedance-alibaba-pull-ai-companions-as-beijing-tightens-rules": {
+    "title_clean": "字节跳动、阿里巴巴撤回AI伴侣功能应对中国新规",
+    "summary": "字节跳动和阿里巴巴正在撤回允许用户构建和与AI伴侣聊天的功能，以应对中国关于人机交互的新监管规定。这一动向表明中国AI聊天机器人领域正面临更严格的监管环境，产品经理需关注合规要求对AI助手功能设计的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/meta-tiktok-jobs-cuts-in-ireland-augur-further-ai-disruption": {
+    "title_clean": "AI对爱尔兰科技行业就业冲击",
+    "summary": "爱尔兰曾因吸引美国跨国公司而迎来就业繁荣，但现在一些岗位正以AI效率为由被削减。这反映了AI对传统就业市场的实际影响，对元宝产品经理了解AI技术替代人类工作的场景和速度有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

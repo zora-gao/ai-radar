@@ -23967,5 +23967,92 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai": {
+    "title_clean": "2026年科技巨头裁员与AI关联分析",
+    "summary": "本文按时间倒序列举了2026年已宣布大规模裁员的主要科技公司，并分析了这些裁员声明中提及AI作为影响因素的情况。对产品经理了解AI技术对就业市场的影响和企业战略调整有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents": {
+    "title_clean": "Vercel CEO谈模型与Agent分离趋势",
+    "summary": "Vercel CEO Guillermo Rauch表示在生产环境中优化时，需要关注价格与性能的平衡，探讨将AI模型与Agent分离的发展趋势，这对AI产品架构设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out": {
+    "title_clean": "Google隐私设置变更：用户数据训练AI及退出方法",
+    "summary": "Google更新隐私设置，允许公司存储更多用户数据包括图像、文件和音视频内容用于AI训练。文章提供指导说明如何退出此数据收集功能，对产品经理了解AI服务数据收集边界及用户隐私保护策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/wef-founder-schwab-says-he-found-secret-listening-device-in-home": {
+    "title_clean": "WEF创始人施瓦布家中发现间谍设备",
+    "summary": "世界经济论坛创始人施瓦布在日内瓦家中办公室发现秘密监听设备，已提起刑事投诉。此事件涉及高端人物安全与隐私保护，对AI助手在安全防护、隐私保护方面的功能开发有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/asr-error-correction": {
+    "title_clean": "Revisiting ASR Error Correction with Specialized Models：针对语音识别错误的专业模型修正方法",
+    "summary": "该研究探讨了大型语言模型在自动语音识别(ASR)错误修正中的应用，提出专门针对ASR错误模式优化的模型方法，突破了传统文本模型在语音识别修正中的局限性，为提升语音识别准确性提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/reddit-is-cracking-down-on-ai-marketing-slop-with-its-own-ai": {
+    "title_clean": "Reddit：推出自有AI打击AI营销垃圾内容",
+    "summary": "Reddit正推出自有AI系统来应对新型垃圾营销内容，这些内容由品牌创建，旨在让ChatGPT和Gemini等AI聊天机器人提及他们的产品。此举反映了平台对AI生成内容滥用的治理策略，对AI助手产品经理有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-06/bloomberg-tech-7-06-2026-video": {
+    "title_clean": "Apple与Broadcom扩大定制芯片合作",
+    "summary": "苹果与博通将定制芯片合作延长至2031年，这是苹果对未来芯片战略的重要投资。这一合作可能影响苹果产品的AI能力、供应链策略和成本结构，对元宝产品经理了解科技巨头的芯片战略和AI硬件布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

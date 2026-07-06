@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-06T13:40:47.856Z",
+  "generated_at": "2026-07-06T16:49:55.129Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "tencent/hy3:free",
+      "name": "Hy3 (free)",
+      "vendor": "Tencent",
+      "vendor_slug": "tencent",
+      "url": "https://openrouter.ai/tencent/hy3-20260706",
+      "created_at": "2026-07-06T13:20:48Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Hy3 is a 295B-parameter Mixture-of-Experts model from Tencent (21B active, 192 experts with top-8 routing) built for reasoning, agentic workflows, and real-world production use. It supports a configurable reasoning effort:...",
+      "description_zh": "Hy3 是来自腾讯的 295B 参数混合专家模型（21B 活跃，192 位专家，具有 top-8 路由），专为推理、代理工作流程和实际生产使用而构建。它支持可配置的推理工作：..."
+    },
+    {
+      "id": "tencent/hy3",
+      "name": "Hy3",
+      "vendor": "Tencent",
+      "vendor_slug": "tencent",
+      "url": "https://openrouter.ai/tencent/hy3-20260706",
+      "created_at": "2026-07-06T13:20:48Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.14,
+      "price_out": 0.58,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Hy3 is a 295B-parameter Mixture-of-Experts model from Tencent (21B active, 192 experts with top-8 routing) built for reasoning, agentic workflows, and real-world production use. It supports a configurable reasoning effort:...",
+      "description_zh": "Hy3 是来自腾讯的 295B 参数混合专家模型（21B 活跃，192 位专家，具有 top-8 路由），专为推理、代理工作流程和实际生产使用而构建。它支持可配置的推理工作：..."
+    },
     {
       "id": "poolside/laguna-xs-2.1:free",
       "name": "Laguna XS 2.1 (free)",
@@ -1415,55 +1461,6 @@
       "supports_reasoning": true,
       "description": "MiMo-V2.5 is a native omnimodal model by Xiaomi. It delivers Pro-level agentic performance at roughly half the inference cost, while surpassing MiMo-V2-Omni in multimodal perception across image and video understanding...",
       "description_zh": "MiMo-V2.5是小米原生的全模态机型。它以大约一半的推理成本提供专业级的代理性能，同时在跨图像和视频理解的多模态感知方面超越 MiMo-V2-Omni..."
-    },
-    {
-      "id": "openai/gpt-5.4-image-2",
-      "name": "GPT-5.4 Image 2",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-5.4-image-2-20260421",
-      "created_at": "2026-04-21T18:52:08Z",
-      "context_length": 272000,
-      "modality": "text+image+file->text+image",
-      "input_modalities": [
-        "image",
-        "text",
-        "file"
-      ],
-      "output_modalities": [
-        "image",
-        "text"
-      ],
-      "price_in": 8,
-      "price_out": 15,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": true,
-      "description": "GPT-5.4 Image 2 combines OpenAI's GPT-5.4 model with state-of-the-art image generation capabilities from GPT Image 2. It enables rich multimodal workflows, allowing users to seamlessly move between reasoning, coding, and...",
-      "description_zh": "GPT-5.4 Image 2 将 OpenAI 的 GPT-5.4 模型与 GPT Image 2 最先进的图像生成功能相结合。它支持丰富的多模式工作流程，允许用户在推理、编码和……之间无缝移动。"
-    },
-    {
-      "id": "inclusionai/ling-2.6-flash",
-      "name": "Ling-2.6-flash",
-      "vendor": "Inclusionai",
-      "vendor_slug": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-2.6-flash-20260421",
-      "created_at": "2026-04-21T18:24:46Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.01,
-      "price_out": 0.03,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "Ling-2.6-flash is an instant (instruct) model from inclusionAI with 104B total parameters and 7.4B active parameters, designed for real-world agents that require fast responses, strong execution, and high token efficiency....",
-      "description_zh": "Ling-2.6-flash是inclusionAI的即时（指令）模型，具有104B总参数和7.4B活跃参数，专为需要快速响应、强大执行力和高代币效率的现实世界代理而设计......"
     }
   ]
 }

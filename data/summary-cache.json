@@ -23656,5 +23656,88 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/mozaik-4": {
+    "title_clean": "Mozaik：TypeScript 自组织 AI Agent 运行时",
+    "summary": "Mozaik 是一个 TypeScript 运行时环境，专为自组织 AI Agent 设计。它为开发者提供了构建能够自主协作和组织的 AI 系统的技术基础，对元宝产品经理在 Agent 架构设计和多 Agent 协作方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-06/chip-stocks-rally-in-ai-trade-revival-after-plunge-video": {
+    "title_clean": "芯片股在AI交易复苏后上涨",
+    "summary": "芯片制造商股票反弹，市场推测推动牛市的AI交易仍有进一步上涨空间。这反映了市场对AI硬件需求的持续看好，对元宝产品经理了解AI产业链投资趋势和硬件需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-in-massive-reset-video": {
+    "title_clean": "微软Xbox将裁员3200人，推动游戏业务重组",
+    "summary": "微软Xbox部门计划在未来一年内裁员3200人，约占其员工总数的20%，这是为推动陷入困境的游戏业务增长而进行的大规模重组的一部分。这一调整反映了微软在游戏领域的战略调整，对元宝产品经理了解大型科技公司在游戏业务上的战略变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/standard-bank-warns-of-flight-from-sovereign-debt-as-safety-ebbs": {
+    "title_clean": "标准银行警告主权债务安全属性减弱",
+    "summary": "标准银行警告投资者应减少对政府债券的依赖，因其传统避险属性正在减弱。这一市场信号对AI金融助手产品有参考价值，可考虑增加投资组合分析和避险资产推荐功能，帮助用户应对市场波动。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-06/the-pulse-7-6-2026-video": {
+    "title_clean": "韩国SK海力士、三星将测试AI贸易业务",
+    "summary": "韩国存储巨头SK海力士和三星本周将测试人工智能贸易业务。三星将于周二发布财报，投资者同时准备迎接SK海力士在美国的大规模投资。这对AI硬件供应链和芯片市场具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/path-constrained-mixture-experts": {
+    "title_clean": "Path-Constrained Mixture-of-Experts：专家路径约束的混合模型架构",
+    "summary": "该研究提出了一种新的稀疏专家混合(MoE)架构视角，通过专家路径的概念来约束模型计算，每个标记在每层仅通过部分专家进行处理，旨在优化模型效率和计算路径。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/codemote-remote-control-for-any-ai": {
+    "title_clean": "CodeMote：iPhone驱动的CLI代码助手",
+    "summary": "CodeMote是一款可通过iPhone控制Claude Code、Codex等CLI代码助手的工具，让用户能够通过移动设备远程执行代码操作，为开发者提供更灵活的编程辅助方式，拓展了AI代码助手的交互场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
   }
 }

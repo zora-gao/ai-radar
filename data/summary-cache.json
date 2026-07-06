@@ -23088,5 +23088,66 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/self-driving-startup-turing-gets-amd-backing-adopts-amd-gpus": {
+    "title_clean": "自动驾驶公司Turing获得AMD投资并采用其GPU",
+    "summary": "自动驾驶技术开发商Turing Inc.获得AMD Ventures投资，并开始在系统中采用AMD的AI加速器。这反映了自动驾驶领域对高性能计算芯片的需求增长，以及AMD在AI硬件市场的扩张策略，对元宝产品经理了解AI硬件与自动驾驶结合的商业模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/weaker-commodity-prices-set-to-tip-australia-into-trade-deficit": {
+    "title_clean": "澳大利亚贸易逆差风险：商品价格下跌导致出口增长停滞",
+    "summary": "澳大利亚贸易状况恶化，矿业 boom 带来的贸易优势正在减弱，进口激增而出口增长停滞，可能自2016年以来首次出现年度贸易逆差。这一经济变化可能影响全球商品供应链和贸易政策，对元宝产品经理了解全球经济环境变化及其对AI服务潜在市场的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-05/uk-to-toughen-up-political-donation-rules-in-latest-crackdown": {
+    "title_clean": "英国拟加强政治捐款规则打击离岸政治资金",
+    "summary": "英国计划收紧政治捐款规则，规定离境返回英国的政治捐款人需等待一年才能捐赠超过10万英镑的资金，此举旨在打击离岸政治资金，防止潜在的不当政治影响。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-05/ai-poses-biggest-security-challenge-of-decade-uk-s-cooper-warns": {
+    "title_clean": "英国外交大臣警告：AI构成十年来最大安全挑战",
+    "summary": "英国外交大臣警告称，世界必须紧急制定护栏措施来应对人工智能带来的威胁。这反映了AI安全已成为全球政策制定者关注的焦点，对元宝产品经理而言，需关注AI安全合规方向的产品设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042720&idx=1&sn=d906c197f96af8e07e57e74c70a41480": {
+    "title_clean": "Claude工程师：Fable5焚诀打破模型信息差",
+    "summary": "Claude工程师分享Fable5技术方法，旨在解决用户与AI模型之间的信息不对称问题，提供更透明的模型交互方式，对产品经理优化AI助手透明度和用户体验有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

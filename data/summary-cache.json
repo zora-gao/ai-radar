@@ -24054,5 +24054,140 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042796&idx=1&sn=0f9ca2aeeeb9bc8251eb2a0466b01fc0": {
+    "title_clean": "学而思：AI时代学习过程回归教育理念",
+    "summary": "学而思提出在AI让答案唾手可得的背景下，重新重视学习过程的教育理念，强调知识获取的完整体验而非仅关注结果，这对AI教育产品设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042834&idx=1&sn=bd513f33878c5188a0ebf5899c801bc6": {
+    "title_clean": "WWW时间检验奖颁给唐建博士：图神经网络的十年远征与AI制药的底层逻辑",
+    "summary": "唐建博士因其在图神经网络领域的十年研究及其在AI制药领域的应用贡献获得WWW时间检验奖。该奖项表彰其长期研究对AI药物发现和开发的基础性贡献，为AI在医疗健康领域的应用提供了重要理论支撑。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042834&idx=2&sn=1c7f748ae24f492a2306ca2e0a3b57c6": {
+    "title_clean": "15个推理模型集体翻车，详解输出背后的思考链潜藏风险",
+    "summary": "15个主流推理模型在测试中表现不佳，揭示了模型输出背后的思考链存在严重风险。这一发现对AI产品经理具有重要参考价值，提醒我们在构建AI助手和Agent产品时需更加注重推理过程的可靠性和安全性，避免用户因模型错误推理而产生误导。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042796&idx=2&sn=433485c385b6906b0011b38f8d325fcd": {
+    "title_clean": "ICML 2026：多智能体系统过程评估方法研究",
+    "summary": "ICML 2026将探讨多智能体系统的过程评估方法，重新认识多智能体系统的评估框架。这对AI Agent产品经理了解多智能体系统的评估标准与优化方向具有重要参考价值，有助于提升Agent系统的协作效率与决策质量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042743&idx=1&sn=fffb24f6015fd7f908ebabf57c4d01fd": {
+    "title_clean": "世界模型评测盲区被新基准突破",
+    "summary": "该资讯介绍了一个新的评测基准，针对世界模型评测中存在的最大盲区进行了突破性改进。这一基准的推出将有助于更准确地评估AI模型对现实世界的理解和预测能力，对元宝产品经理在评估AI模型性能和选择技术方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/intel-backed-ai-chip-and-software-maker-syntiant-files-for-ipo": {
+    "title_clean": "Syntiant：AI芯片与软件公司申请IPO",
+    "summary": "Syntiant是一家开发AI芯片和软件的公司，已提交IPO申请，旨在利用投资者对AI技术的热情。该公司获得Intel支持，专注于AI半导体和软件解决方案，其IPO动向反映了AI硬件领域的投资热度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-06/the-close-7-6-2026-video": {
+    "title_clean": "芯片股在AI交易复苏中上涨 | 7月6日收盘分析",
+    "summary": "Bloomberg报道7月6日华尔街收盘前后的市场动态，特别关注芯片股在AI交易复苏中的表现。这一市场动向反映了AI产业对硬件需求的持续增长，对元宝产品经理评估AI服务基础设施需求和商业化机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory": {
+    "title_clean": "三星AI存储芯片需求激增，季度利润暴涨19倍",
+    "summary": "三星电子季度利润飙升19倍，远超市场预期，主要原因是AI数据中心对存储芯片的需求激增。这反映了AI硬件基础设施的强劲增长，对元宝产品经理评估AI服务底层资源成本和供应链趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-06/bdcs-face-pressure-but-not-all-are-impacted-equally-video": {
+    "title_clean": "商业发展公司面临压力但影响不均",
+    "summary": "商业发展公司(BDCs)上半年股价显著承压，彭博情报数据显示中位数回报率下降约7%。这一市场动态对元宝产品经理了解金融科技领域投资环境变化、潜在客户资金状况及金融服务场景需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-06/tepper-s-appaloosa-soars-32-in-first-half-on-memory-chip-makers": {
+    "title_clean": "Tepper's Appaloosa基金：押注存储芯片制造商上半年收益飙升32%",
+    "summary": "David Tepper的Appaloosa管理公司上半年回报率达32%，主要得益于对存储芯片行业的成功投资。这一市场动向表明存储芯片领域存在显著投资机会，可能影响AI硬件供应链和成本结构，对元宝产品经理评估AI服务底层硬件成本和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-06/how-private-credit-is-fueling-the-buy-now-pay-later-boom": {
+    "title_clean": "私人信贷如何推动先买后付市场增长",
+    "summary": "Bloomberg播客探讨私人信贷如何为先买后付(BNPL)行业提供资金支持，分析这对借款人的影响，以及这种关系引发的市场担忧。这反映了金融科技领域的资金流动趋势和潜在风险。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

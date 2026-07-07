@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间部署模型的流程，为元宝产品经理提供了跨平台模型部署的解决方案参考。",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI模型在不同云平台间的部署流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -25259,6 +25259,128 @@
       "AI助手",
       "竞品动态",
       "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043100&idx=1&sn=2194c9f5aae7f7446861574506fe907a": {
+    "title_clean": "魔芯FlashWorld Model：世界模型降本70%达50FPS",
+    "summary": "魔芯FlashWorld Model是一款世界模型，实现了70%的成本降低和50FPS的运行速度。这一突破性进展对AI产品经理具有重要参考价值，特别是在构建高效、低成本的世界模型应用方面，可能为AI助手和Agent提供更强大的实时交互能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043009&idx=1&sn=1c35ad6d8c0833fc3ca02c680c5fef8c": {
+    "title_clean": "空间原生时代正式到来",
+    "summary": "资讯宣布'空间原生'时代的到来，但未提供具体内容或定义。作为产品经理，需关注这一概念是否与AI助手的空间感知、多模态交互或服务场景扩展相关，但目前信息不足，无法评估其具体价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043009&idx=2&sn=9d10e98c30231971fc7a8c357340cd9b": {
+    "title_clean": "前大疆员工推出消费级纺织机，获红杉等数亿元融资",
+    "summary": "前大疆员工团队研发消费级纺织机，已获得红杉资本、顺为资本、米哈游等机构数亿元融资。该项目蛰伏三年后正式推出，代表智能硬件与消费电子领域的新兴创业方向，对元宝产品经理了解硬件+AI结合的创业生态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043007&idx=2&sn=65f9f249f4ff26d937af2c3678d9fa7d": {
+    "title_clean": "TryOnCrafter：4D视频虚拟试衣代理技术",
+    "summary": "TryOnCrafter是ECCV'26上展示的一项新技术，通过4D试衣代理实现视频虚拟试衣的自由视角功能。这项技术为电商和时尚行业的虚拟试衣场景提供了新的解决方案，对元宝在多模态交互和服务场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/billionaires-arrive-for-the-annual-sun-valley-conference-video": {
+    "title_clean": "科技与金融巨头年度峰会：Sun Valley会议",
+    "summary": "科技、媒体和金融行业巨头齐聚爱达荷州Sun Valley参加Allen & Co年度会议，包括Hank Paulson、David Zaslav、Neal Mohan等高管出席。此会议是行业风向标，可能透露科技巨头对AI等新兴技术的战略布局和投资方向，对元宝产品经理了解行业趋势和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator": {
+    "title_clean": "Meta 推出 Muse AI 图像生成模型",
+    "summary": "Meta 发布了 Muse 新型 AI 图像生成模型，支持广告、室内设计和创作者内容生成等多种应用场景。该模型为元宝产品团队提供了多模态 AI 能力的行业参考，特别是在图像生成与商业化应用方面的最新进展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/terawulf-ceo-on-anthropic-data-center-agreement-video": {
+    "title_clean": "TeraWulf：AI数据中心服务提供商",
+    "summary": "TeraWulf与Anthropic达成20年数据中心租赁协议，CEO称这是对其AI基础设施战略的重要认可。该合作表明大型AI公司对专业算力服务的需求增长，为元宝产品经理提供AI基础设施合作与算力获取的商业参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/andrew-cuomo-discuses-trump-crypto-earnings-video": {
+    "title_clean": "前纽约州长库默讨论特朗普加密货币收益",
+    "summary": "前纽约州长安德鲁·库默在彭博加密货币节目中讨论了特朗普2025年至少14亿美元加密货币和迷因币相关收入的报道。这反映了加密货币领域政治人物参与度提高，以及传统政治与加密货币市场的交叉影响，对元宝产品经理了解加密货币服务场景拓展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/bloomberg-crypto-7-7-2026-video": {
+    "title_clean": "Bloomberg Crypto：去中心化金融资讯节目",
+    "summary": "Bloomberg Crypto 是一档专注于去中心化金融领域的节目，报道影响去中心化金融世界的人物、交易和技术。本期嘉宾包括 Ice-OKX 合资企业联合主席及前纽约州长 Andrew Cuomo 等行业重要人物，为产品经理提供 DeFi 行业动态和趋势参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/the-close-7-7-2026-video": {
+    "title_clean": "AI焦虑导致芯片股下跌 | 2026年7月7日市场收盘分析",
+    "summary": "Bloomberg报道AI相关焦虑情绪导致芯片股下跌，采访了Cboe Global Markets副总裁。这一市场动向反映了AI行业波动对硬件供应链的影响，对元宝产品经理了解AI市场情绪与硬件关联性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
     ],
     "v": 4
   }

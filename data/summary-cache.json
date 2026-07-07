@@ -25118,5 +25118,148 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/democrats-aren-t-obstacle-for-clarity-act-cuomo-video": {
+    "title_clean": "前纽约州长库莫谈Clarity法案：民主党不是障碍",
+    "summary": "前纽约州长安德鲁·库莫在彭博加密货币节目中表示，民主党并非Clarity法案的障碍。该法案涉及加密货币监管，库莫的观点可能影响政策制定方向，对关注金融科技政策的产品经理有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/market-strategist-highlights-high-earnings-expectations-video": {
+    "title_clean": "摩根大通分析师：AI行业集中度高，市场盈利预期面临挑战",
+    "summary": "摩根大通资产管理全球市场策略师Jordan Jackson分析了即将到来的财报季，指出AI行业高度集中化背景下，市场对盈利的高预期带来挑战。S&P 500盈利增长面临压力，AI板块成为市场关注焦点。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
+    "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间部署模型的流程，为元宝产品经理提供了跨平台模型部署的解决方案参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet": {
+    "title_clean": "开源AI崛起未影响Anthropic：开源模型与前沿实验室共存",
+    "summary": "开源AI模型的成功并未损害前沿实验室如Anthropic的利益，两者实际上捕捉了同一生命周期的不同阶段，形成互补而非竞争关系，这对AI产品经理理解开源与闭源AI生态共存策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/china-submarine-missile-test-signals-pla-military-buildup-big-take-podcast": {
+    "title_clean": "中国最新导弹测试揭示其不断扩大的武器库",
+    "summary": "中国进行了一次高调的核导弹发射，标志着这个传统上保密的军事力量进入新常态。这一事件对产品经理的参考价值在于了解地缘政治变化可能带来的安全需求变化，以及AI在国防和安全领域的潜在应用场景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models": {
+    "title_clean": "Microsoft加入AI成本削减趋势：更多依赖自研模型",
+    "summary": "微软成为最新削减AI支出的硅谷科技巨头，转向更多依赖自研模型。这一趋势反映了AI行业从单纯依赖第三方模型向成本效益更高的自研方案转变，对元宝产品经理评估AI服务成本与自研模型价值具有重要参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/semiconductor-worker-shortfall-endangers-us-chip-factory-revival": {
+    "title_clean": "美国半导体工人短缺威胁芯片工厂复兴计划",
+    "summary": "美国高技能工人短缺正威胁着全国数十亿美元新半导体工厂的建设进度，并可能制约未来芯片生产能力。这一行业动态对元宝产品经理了解AI硬件基础设施瓶颈和供应链风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/robinhood-rolls-out-perpetual-futures-in-europe-video": {
+    "title_clean": "Robinhood：在欧洲推出商品、ETF和货币的永续期货服务",
+    "summary": "Robinhood在欧洲推出商品、ETF和货币的永续期货服务，这是其加密货币和金融产品扩展的重要举措，对元宝产品经理了解金融科技公司的产品多元化策略和国际化布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/bullish-on-spacex-long-term-ershares-shulman-video": {
+    "title_clean": "ERShares分析师看好SpaceX长期发展：受益于AI趋势",
+    "summary": "SpaceX因纳入纳斯达克100指数获得券商看好，分析师认为公司正受益于AI行业转型趋势，这为股票设定了价格底线，未来可能实现显著增长。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/amazon-fuels-ai-debt-boom-with-another-bond-sale-video": {
+    "title_clean": "Amazon通过债券融资25亿美元加速AI基础设施建设",
+    "summary": "Amazon计划通过发行美元债券筹集至少250亿美元资金，这是该公司最新的巨额债务发行，旨在加速人工智能基础设施投资。这一举措反映了科技巨头在AI领域的激烈竞争和大规模资本投入趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/strategy-sells-216m-of-bitcoin-as-it-begins-overhaul-video": {
+    "title_clean": "Strategy出售2.16亿美元比特币并开始转型",
+    "summary": "Lyn Alden投资策略创始人Lyn Alden在彭博加密货币节目中讨论了Michael Saylor的策略，该策略已出售2.16亿美元比特币并开始全面转型。这一动向可能对AI资产管理工具和加密货币服务场景提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/bc-eyes-legal-action-against-openai-in-wake-of-mass-shooting": {
+    "title_clean": "BC考虑对OpenAI提起法律诉讼：未及时预警ChatGPT上的威胁言论",
+    "summary": "加拿大BC省正考虑对OpenAI提起法律诉讼，指控其在2月坦布勒里奇镇大规模枪击事件前，未能及时向当局预警ChatGPT平台上的威胁言论。此事件引发对AI平台内容监管责任的讨论，对产品经理在内容安全与风险防控方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -24189,5 +24189,67 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom": {
+    "title_clean": "SK Hynix：AI内存芯片制造商将登陆美股",
+    "summary": "SK Hynix作为AI内存芯片制造商正经历业务增长，计划于周五在美国进行数十亿美元的IPO。这反映了AI硬件供应链的扩张趋势，对AI芯片供应商和硬件基础设施布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human": {
+    "title_clean": "AI首次执行勒索软件攻击仍需人工辅助",
+    "summary": "AI代理首次执行了真实世界的勒索软件攻击，但人类仍需选择目标、设置基础设施并提供支持。这表明当前AI安全威胁虽已出现，但仍处于初级阶段，对AI安全防护和监管具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042814&idx=2&sn=3d413233702b9c338cc6a963da1f25d4": {
+    "title_clean": "遥感检测最大数据集与基础模型框架问世：单次训练横扫9个基准",
+    "summary": "遥感检测领域推出最大规模数据集与基础模型框架，该模型通过单次训练即可在9个基准测试中取得优异表现。这一突破为AI在遥感图像分析领域提供了强大工具，对元宝产品经理了解AI技术在专业领域的应用进展和模型能力边界具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/samsung-s-soaring-profit-fails-to-lift-shares-video": {
+    "title_clean": "三星利润增长未提振股价，投资者关注AI投资持续性",
+    "summary": "三星公布财报显示利润增长，但股价未因此上涨，投资者正评估AI领域的高额投资和估值能否持续。这对产品经理了解AI商业化周期和投资者预期有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/wisetech-shares-jump-after-billionaire-white-steps-down-as-chair": {
+    "title_clean": "WiseTech：全球物流软件公司董事长辞职",
+    "summary": "WiseTech Global Ltd.董事长、亿万富翁理查德·怀特辞职，此前他否认涉及人口贩卖指控，但报道称警方正就相关指控对其进行调查。此事件可能影响公司治理和股价表现，对关注企业治理和AI服务稳定性的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

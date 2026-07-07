@@ -24251,5 +24251,163 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/longcat": {
+    "title_clean": "LongCat-2.0：AI专用芯片训练的1.6T MoE模型",
+    "summary": "LongCat-2.0是一款完全在AI专用芯片(ASIC)上训练的1.6T参数混合专家模型(MoE)，代表了AI模型训练硬件优化的最新进展，对产品经理评估AI基础设施成本与性能平衡具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone": {
+    "title_clean": "Kadoink：即时电话召集工具",
+    "summary": "Kadoink是一款允许用户直接拨打电话召集人群的工具，通过电话铃声即时通知目标人员，适用于需要快速集合的场景，如团队协作或紧急联络，为元宝在即时通讯和召集功能方面提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/scribble-network": {
+    "title_clean": "Scribble Network：AI品牌推荐工具",
+    "summary": "Scribble Network是一款AI工具，能够为品牌提供智能推荐服务。该产品通过AI技术帮助品牌提升曝光度和用户触达，为元宝产品经理在AI商业化和服务场景拓展方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/spacex-shares-win-early-bullish-calls-from-wall-street-brokers": {
+    "title_clean": "SpaceX：华尔街分析师看好其火箭与AI业务",
+    "summary": "华尔街分析师对SpaceX股票给出强烈买入建议，认为其火箭和人工智能业务具有巨大增长潜力，最高预期回报可达87%。这反映了市场对SpaceX在航天和AI领域双重业务布局的高度认可。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/asia-stocks-drop-on-chip-selloff-nasdaq-futures-down-video": {
+    "title_clean": "亚洲股市因芯片股抛售下跌，纳指期货走低",
+    "summary": "亚洲股市下跌，三星电子和SK海力士等科技股的抛售加剧了人们对AI驱动上涨可能过快的担忧。纳指期货也随之下跌，这反映了市场对科技股，特别是与AI相关的芯片股的谨慎态度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zoho-tables": {
+    "title_clean": "Zoho Tables：智能工作与数据管理工具",
+    "summary": "Zoho Tables是一款智能工作与数据管理工具，帮助用户更高效地处理工作流程和数据。作为Zoho办公套件的一部分，它提供了表格、数据库和自动化功能，对产品经理了解企业级AI辅助数据管理解决方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner": {
+    "title_clean": "诺贝尔奖得主：AI无法带来经济快速增长时代",
+    "summary": "诺贝尔经济学奖得主警告称，人工智能无法让西方经济体重回快速生产率增长的时代，这一时代可能已永久消失。此观点对产品经理有参考价值，提醒AI产品不应过度承诺经济回报，而应聚焦实际用户价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/glideo": {
+    "title_clean": "Glideo：自动编辑屏幕录像工具",
+    "summary": "Glideo是一款能够自动编辑屏幕录像的工具，可减少手动编辑的工作量。对于元宝产品经理而言，这反映了用户对自动化内容处理的需求，特别是在屏幕录制和视频编辑场景中的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/why-samsung-s-record-profit-failed-to-impress-investors-video": {
+    "title_clean": "三星季度利润激增19倍但未达投资者预期",
+    "summary": "三星电子季度利润飙升19倍，但未能满足投资者对AI芯片供应商高增长的期待。这反映了市场对AI相关企业业绩期望值极高，即使传统电子巨头表现优异，若未达到AI领域的爆发式增长标准，仍可能引发股价波动。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/chinese-firms-leave-nvidia-for-local-ai-suppliers-survey-shows": {
+    "title_clean": "中国企业转向本土AI供应商，减少对英伟达依赖",
+    "summary": "调查显示，中国企业正减少使用英伟达的高端AI加速器，转而采用本土芯片，这反映了中美紧张关系正在重塑AI基础设施格局，并推动北京本土AI芯片产业的发展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox": {
+    "title_clean": "AI Emaily：AI自动收件箱与邮件回复工具",
+    "summary": "AI Emaily是一款AI收件箱工具，能够模仿用户写作风格并自动回复邮件。产品经理可关注其个性化自动回复技术，探索元宝在邮件自动化处理场景的应用可能性，以及如何平衡自动化与用户个性化需求。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/europe-s-defense-stocks-rally-has-much-riding-on-nato-summit": {
+    "title_clean": "欧洲国防股反弹：北约峰会成关键",
+    "summary": "欧洲国防股出现初步反弹，投资者正关注北约峰会以获取成员国国防支出计划的进一步明确。这一动态对元宝产品经理有参考价值，可帮助了解地缘政治变化如何影响特定行业投资趋势，为AI助手在财经信息处理领域提供场景参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042814&idx=1&sn=5f5a325fa97585c67c2d559e46bb4602": {
+    "title_clean": "ICML2026获奖论文揭晓：黄高团队获杰出论文，A3C算法获时间检验奖",
+    "summary": "ICML 2026会议揭晓获奖论文，黄高团队获得杰出论文奖，A3C算法获得时间检验奖。这一结果反映了深度强化学习领域的重要研究成果，对AI产品经理了解算法前沿进展和潜在应用价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -24409,5 +24409,105 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/ex-tesla-scientist-unveils-plans-for-european-humanoid-robot": {
+    "title_clean": "前特斯拉科学家公布欧洲人形机器人计划",
+    "summary": "前特斯拉Optimus机器人科学家宣布计划生产轻型人形机器人，目标应用于制造业、物流仓库和家庭场景。这一动向表明人形机器人领域正加速发展，可能对AI助手在物理世界的应用场景拓展提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says": {
+    "title_clean": "德银分析师：AI生产力提升仍需数年",
+    "summary": "德银分析师Jim Reid表示，人工智能虽有望显著提升生产力，但对经济的实质性影响可能仍需数年时间才能显现。这一观点对产品经理评估AI技术商业化落地时间表具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-07/sap-s-ai-pivot-intensifies-after-46-stock-drop-under-ceo-christian-klein": {
+    "title_clean": "SAP高管变动：AI导致股价暴跌后的战略调整",
+    "summary": "SAP在股价因AI相关因素大幅下跌后进行高层人事调整，反映传统软件巨头面临AI转型压力。这一变动可能预示SAP将加速AI战略布局，对AI服务场景和企业级AI应用市场格局产生影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine": {
+    "title_clean": "Forterra：美国地面无人作战车辆在乌克兰部署",
+    "summary": "Forterra公司已在乌克兰部署超过100辆美国自主地面无人作战车辆，这是美国自主地面无人车辆首次在实战中使用。这一发展对AI军事应用和无人作战系统具有重要参考价值，展示了AI技术在实战场景中的实际应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/ecb-asks-banks-for-plans-to-address-ai-cybersecurity-threats": {
+    "title_clean": "欧洲央行要求银行制定AI网络安全威胁应对计划",
+    "summary": "欧洲银行业监管机构要求银行制定计划，应对前沿AI模型(如Anthropic的Claude Mythos)带来的日益增长的网络安全威胁。这反映了AI技术在金融领域的安全风险正在引起监管高度关注，对AI助手和Agent产品的安全合规设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/nuveen-s-cooper-sees-rotation-back-into-hyperscalers-video": {
+    "title_clean": "Nuveen's Cooper：投资策略师看好超大规模科技公司回流",
+    "summary": "Nuveen全球投资策略师Laura Cooper分析股市前景，认为资金可能回流超大规模科技公司。她指出估值因素是这一轮资金轮动的主要原因，这对AI基础设施领域投资策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/bae-backed-venture-capital-fund-raises-197-million-for-defense-startups": {
+    "title_clean": "BAE支持的Expeditions融资1.97亿欧元投资欧洲国防科技初创企业",
+    "summary": "BAE系统公司和北约创新基金支持的国防科技风投公司Expeditions完成1.97亿欧元融资，将投资欧洲主权军事技术发展。这反映了欧洲在国防科技领域的投资增长，可能对AI在军事和安全领域的应用产生间接影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/google-rwe-back-german-nuclear-startup-proxima-fusion-at-2-4-billion-valuation": {
+    "title_clean": "Google与RWE支持德国核聚变初创公司Proxima Fusion，估值达24亿欧元",
+    "summary": "德国核聚变初创公司Proxima Fusion获得4.11亿欧元融资，投资方包括德国能源公司RWE和谷歌母公司Alphabet。这笔资金将用于开发核聚变发电厂，标志着大型科技和能源企业对清洁能源技术的持续投入。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

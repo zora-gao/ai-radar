@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T10:49:57.875Z",
+  "generated_at": "2026-07-07T14:15:12.212Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -405,7 +405,7 @@
       "price_in": 0.25,
       "price_out": 1,
       "is_free": false,
-      "supports_tools": false,
+      "supports_tools": true,
       "supports_reasoning": true,
       "description": "Nex-N2-Pro is an agentic mixture-of-experts model from Nex AGI, with 17B active parameters out of 397B total. Built on the Qwen3.5 architecture, it accepts text and image input and produces...",
       "description_zh": "Nex-N2-Pro 是 Nex AGI 的代理专家混合模型，共有 397B 个活动参数，其中有 17B 个。它建立在 Qwen3.5 架构之上，接受文本和图像输入并生成..."

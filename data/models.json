@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-07T17:54:53.438Z",
+  "generated_at": "2026-07-07T19:46:46.470Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "aion-labs/aion-3.0-mini",
+      "name": "Aion-3.0-Mini",
+      "vendor": "Aion Labs",
+      "vendor_slug": "aion-labs",
+      "url": "https://openrouter.ai/aion-labs/aion-3.0-mini-20260707",
+      "created_at": "2026-07-07T16:51:36Z",
+      "context_length": 131072,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.7,
+      "price_out": 1.4,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Aion-3.0 Mini is a multi-model roleplaying and storytelling system from AionLabs, built on the DeepSeek family of models. It uses a collaborative generation process in which multiple specialized models each...",
+      "description_zh": "Aion-3.0 Mini 是 AionLabs 的多模型角色扮演和讲故事系统，基于 DeepSeek 系列模型构建。它使用协作生成过程，其中多个专用模型各自......"
+    },
+    {
+      "id": "aion-labs/aion-3.0",
+      "name": "Aion-3.0",
+      "vendor": "Aion Labs",
+      "vendor_slug": "aion-labs",
+      "url": "https://openrouter.ai/aion-labs/aion-3.0-20260707",
+      "created_at": "2026-07-07T16:51:35Z",
+      "context_length": 131072,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 3,
+      "price_out": 6,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Aion-3.0 is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It uses a collaborative generation process in which multiple specialized models each contribute...",
+      "description_zh": "Aion-3.0 是 AionLabs 的多模型角色扮演和讲故事系统，基于 GLM 系列模型构建。它使用协作生成过程，其中多个专用模型各自贡献......"
+    },
     {
       "id": "tencent/hy3:free",
       "name": "Hy3 (free)",
@@ -1413,52 +1459,6 @@
       "supports_reasoning": false,
       "description": "Ling-2.6-1T is an instant (instruct) model from inclusionAI and the company’s trillion-parameter flagship, designed for real-world agents that require fast execution and high efficiency at scale. It uses a “fast...",
       "description_zh": "Ling-2.6-1T是inclusionAI和该公司万亿参数旗舰产品的即时（指令）模型，专为需要大规模快速执行和高效率的现实世界代理而设计。它使用“快速..."
-    },
-    {
-      "id": "tencent/hy3-preview",
-      "name": "Hy3 preview",
-      "vendor": "Tencent",
-      "vendor_slug": "tencent",
-      "url": "https://openrouter.ai/tencent/hy3-preview-20260421",
-      "created_at": "2026-04-22T17:15:50Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.063,
-      "price_out": 0.21,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Hy3 preview is a high-efficiency Mixture-of-Experts model from Tencent designed for agentic workflows and production use. It supports configurable reasoning levels across disabled, low, and high modes, allowing it to...",
-      "description_zh": "Hy3 预览版是腾讯的高效专家混合模型，专为代理工作流程和生产使用而设计。它支持跨禁用、低和高模式的可配置推理级别，使其能够..."
-    },
-    {
-      "id": "xiaomi/mimo-v2.5-pro",
-      "name": "MiMo-V2.5-Pro",
-      "vendor": "Xiaomi",
-      "vendor_slug": "xiaomi",
-      "url": "https://openrouter.ai/xiaomi/mimo-v2.5-pro-20260422",
-      "created_at": "2026-04-22T16:11:13Z",
-      "context_length": 1048576,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.435,
-      "price_out": 0.87,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "MiMo-V2.5-Pro is Xiaomi’s flagship model, delivering strong performance in general agentic capabilities, complex software engineering, and long-horizon tasks, with top rankings on benchmarks such as ClawEval, GDPVal, and SWE-bench Pro....",
-      "description_zh": "MiMo-V2.5-Pro是小米的旗舰机型，在通用代理能力、复杂软件工程、长期任务等方面表现强劲，在ClawEval、GDPVal、SWE-bench Pro等基准测试中均名列前茅。"
     }
   ]
 }

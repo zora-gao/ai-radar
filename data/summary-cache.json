@@ -24960,5 +24960,163 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images": {
+    "title_clean": "Discord：AI审核系统错误封禁用户事件",
+    "summary": "Discord承认其AI审核系统存在漏洞，过去两个月错误封禁了8000多名用户，原因包括 harmless images（无害图像）如电子表格、棋盘和游戏纹理等。此事件对AI审核系统的可靠性和误判率提供了重要参考，产品经理需关注AI审核系统的容错机制和用户申诉流程。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/circle-under-pressure-to-after-open-usd-launch-video": {
+    "title_clean": "Circle：稳定币公司面临Open USD推出后的市场压力",
+    "summary": "Circle作为稳定币发行商，在Open USD推出后股价大幅下跌。这反映了稳定币市场竞争加剧，以及市场对新型稳定币解决方案的反应。对产品经理而言，这提示需关注稳定币领域竞争格局变化及用户对新型数字资产的需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/we-are-a-blockchain-capital-market-cagney-video": {
+    "title_clean": "Figure：区块链资本市场平台",
+    "summary": "Figure Technology创始人Mike Cagney在Bloomberg Crypto节目中表示，公司正在收购Kiavi（面向房屋翻新者和小型企业的领先贷款机构），打造区块链资本市场，这可能影响AI金融服务场景和资产代币化方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/andrew-cuomo-discusses-okx-clarity-act-24-7-trading-video": {
+    "title_clean": "Andrew Cuomo讨论OKX、Clarity法案与24/7交易",
+    "summary": "前纽约州长Andrew Cuomo作为ICE-OKX合资企业联合主席，在彭博加密货币节目中讨论了加密货币交易所OKX、Clarity法案以及24/7全天候交易模式，展示了传统政治人物进入加密货币领域的趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/bloomberg-tech-7-07-2026-video": {
+    "title_clean": "全球AI芯片市场抛售蔓延 | Bloomberg Tech",
+    "summary": "Bloomberg报道三星因内存需求激增季度利润大幅上涨，但仍未能满足投资者预期。同时亚马逊重返债券市场寻求融资。这反映了AI芯片市场可能面临调整，对元宝产品经理了解AI硬件市场趋势和投资者情绪变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/magnificent-seven-tech-stocks-lose-market-swagger-video": {
+    "title_clean": "科技七巨头失去市场主导地位",
+    "summary": "曾经主导标普500指数并影响整体股市走势的科技七巨头，如今已失去市场主导地位。这一变化对AI产品经理具有重要参考价值，可能预示着科技行业格局变化，影响AI巨头的市场策略和投资方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/job-cuts-were-necessary-bitgo-ceo-video": {
+    "title_clean": "BitGo CEO：裁员是必要的商业决策",
+    "summary": "BitGo CEO Mike Belshe在Bloomberg Crypto节目中解释了公司近期近15%的裁员决定，称这是必要的商业调整。这发生在公司宣布裁员不到六个月后，反映了加密货币行业当前面临的挑战和压力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/meta-debuts-new-ai-image-generation-model-inside-chatbot-instagram": {
+    "title_clean": "Meta：在聊天机器人和Instagram中推出新AI图像生成模型",
+    "summary": "Meta在聊天机器人和Instagram中发布了新的AI图像生成模型，这是该公司在首席AI官Alexandr Wang领导下投入数十亿美元重建AI实验室后的首个此类发布。该模型将增强Meta平台的图像生成能力，为用户提供更丰富的AI创作体验，对AI助手产品在图像生成功能上有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai": {
+    "title_clean": "Muse Image：Meta 图像生成模型",
+    "summary": "Meta Superintelligence Labs 推出 Muse Image 图像生成模型，现已集成到 Meta AI 中。这是 Meta 首个图像生成模型，专注于为用户提供更贴近实际使用场景的图像生成能力，对 AI 助手的多模态能力发展具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/ai-fuels-record-m-a-boom-video": {
+    "title_clean": "AI推动并购创纪录增长",
+    "summary": "AI技术、充足资本和友好的监管环境共同推动并购活动达到创纪录水平，但私募股权仍持观望态度。这一趋势对AI行业格局和产品战略有重要参考价值，反映资本对AI领域的持续看好。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/sounding-video-generation": {
+    "title_clean": "文本生成音视频同步技术：通过模态条件与交互优化",
+    "summary": "该研究专注于文本生成音视频同步(T2SV)技术，旨在从文本生成音画同步的视频内容，使音频和视频模态都与文本条件对齐。这项技术对AI多模态交互产品开发具有参考价值，特别是在提升视频生成质量与音画同步度方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/skypilot-hf-storage": {
+    "title_clean": "SkyPilot：跨云AI工作流执行与Hugging Face零出口存储工具",
+    "summary": "SkyPilot允许在任意云平台上运行AI工作负载，并将数据存储在Hugging Face上，提供零出口存储解决方案。这为元宝产品经理提供了多云部署和成本优化的参考思路，特别是在处理大规模AI模型训练和推理时的资源调度策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/australian-payments-plus": {
+    "title_clean": "Australian Payments Plus：利用ChatGPT和Codex加速支付处理",
+    "summary": "Australian Payments Plus采用ChatGPT Enterprise和Codex技术，通过AI处理支付复杂性，提高效率并保证质量，同时保持人类判断在决策中的核心地位，展示了AI在金融支付场景的实际应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

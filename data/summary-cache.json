@@ -24723,5 +24723,242 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/traders-are-dumping-tech-bonds-to-make-room-for-amazon-debt-deal": {
+    "title_clean": "科技债券抛售：亚马逊发债引发投资者调整",
+    "summary": "亚马逊大规模债券发行导致投资者抛售现有科技债券以腾出资金，反映出市场对科技债券供应过剩的疲劳。这一市场动向对元宝产品经理评估AI服务商业化策略和金融场景应用具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork": {
+    "title_clean": "Claude Cowork：跨设备协作AI助手",
+    "summary": "Claude Cowork推出移动端和网页端扩展，支持用户从桌面开始任务，在手机上获取状态更新，并在笔记本电脑关闭后继续完成工作。这一功能扩展提升了AI助手的跨设备协作能力，为产品经理提供了多端协同的参考方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/solstice-buys-element-solutions-video": {
+    "title_clean": "Solstice 收购 Element Solutions",
+    "summary": "Solstice 以145亿美元收购 Element Solutions，CEO Ben Gliklich 解释这一收购难以拒绝，合并后的公司将变得更强大。这对元宝产品经理的参考价值在于了解AI领域的大规模并购趋势及其对行业格局的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/spacex-s-biggest-bull-sees-valuation-soaring-above-10-trillion": {
+    "title_clean": "SpaceX估值预测：华尔街分析师看好其将突破10万亿美元",
+    "summary": "华尔街分析师Brian Gesuale对SpaceX给出极为乐观的估值预测，认为其价值可能超过10万亿美元，成为华尔街最看好的SpaceX分析师。这一预测反映了市场对商业航天和太空探索领域长期增长潜力的信心，对元宝产品经理了解高估值科技公司的市场预期和投资者关注点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/microsoft/foundry-managed-compute": {
+    "title_clean": "Hugging Face Models on Foundry Managed Compute：AI模型托管服务",
+    "summary": "Hugging Face与Foundry合作推出AI模型托管服务，允许用户在Foundry的托管计算平台上部署和运行Hugging Face上的AI模型。这为AI开发者提供了更便捷的模型部署选项，有助于降低AI应用的技术门槛，对元宝产品经理评估AI模型分发和部署方案有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-07/chip-stocks-tumble-on-ai-anxiety-as-oil-climbs-video": {
+    "title_clean": "芯片股因AI焦虑下跌，油价上涨",
+    "summary": "芯片制造商因市场对AI投资能否支撑高估值的担忧而出现抛售，导致股价下跌。这反映了市场对AI投资回报的疑虑，对元宝产品经理评估AI商业化前景和投资风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps": {
+    "title_clean": "Microsoft：用自研AI模型替代OpenAI和Anthropic",
+    "summary": "微软为降低AI成本，开始在其软件产品如Excel和Outlook中用自研AI模型替代OpenAI和Anthropic的模型。这一变化表明微软正加速AI技术自主化，对产品经理评估AI模型选型与成本控制具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/behind-xbox-s-big-layoffs-a-streaming-strategy-that-failed": {
+    "title_clean": "微软Xbox大规模裁员背后的流媒体战略失败",
+    "summary": "微软Xbox在过去十年投入近800亿美元收购《使命召唤》和《上古卷轴》等热门游戏，押注玩家会像使用Netflix一样转向其游戏流媒体服务，但这一战略未能成功，导致近期大规模裁员。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps": {
+    "title_clean": "Meta打击平台儿童剥削内容的工作",
+    "summary": "Meta宣布加强打击Instagram等平台上的儿童剥削内容，包括改进广告审核机制和内容检测技术。这反映了社交媒体平台在内容安全方面的持续挑战，对AI内容审核和儿童保护功能的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/treasuries-fall-before-auction-as-oil-rebounds-amazon-to-borrow": {
+    "title_clean": "美债下跌：油价反弹与亚马逊巨额债券发行",
+    "summary": "美债价格下跌，因中东供应威胁导致油价反弹，同时亚马逊计划发行至少250亿美元的企业债券。这一市场动态反映了当前经济环境中的通胀压力和企业融资策略，对产品经理了解宏观经济环境对企业融资决策的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle": {
+    "title_clean": "欧莱雅、亿滋和雀巢利用AI加速产品开发",
+    "summary": "欧莱雅正利用AI缩短产品开发周期并发现现有成分的新用途，法国化妆品集团已在实验室应用AI技术。这展示了大型消费品企业如何通过AI提升研发效率，为元宝在服务企业客户和拓展垂直领域场景方面提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api": {
+    "title_clean": "Gemini API 扩展托管代理功能：支持后台任务与远程 MCP",
+    "summary": "Gemini API 新增托管代理功能，支持后台任务执行和远程 MCP 协议，帮助开发者构建可靠的生产级 AI 代理。这对元宝产品经理有重要参考价值，特别是在 AI Agent 能力建设和多服务集成方面。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/mt-editflow-image-editing": {
+    "title_clean": "MT-EditFlow：基于强化学习的多轮图像编辑工具",
+    "summary": "MT-EditFlow是一种基于强化学习的多轮图像编辑工具，通过Flow Matching技术实现更精准的图像编辑。该工具能够处理现实世界中的编辑需求，为AI图像编辑领域提供了新的技术路径，对元宝在图像处理功能开发方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/lensvlm-context-expansion": {
+    "title_clean": "LensVLM：压缩视觉文本表示的选择性上下文扩展技术",
+    "summary": "LensVLM是一种视觉语言模型技术，通过将文本渲染为图像处理而非传统token序列，解决了长文本处理问题。该技术采用选择性上下文扩展方法，优化了压缩视觉表示，可提升AI模型对长文本内容的理解效率，对多模态AI助手的产品设计具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/geothermal-startup-raises-144-million-to-drill-superhot-rocks": {
+    "title_clean": "Quaise Energy：地热岩石钻探技术公司",
+    "summary": "Quaise Energy是一家地热技术初创公司，近期获得1.34亿美元融资，用于开发超高温岩石钻探技术。这项技术可能为AI数据中心提供清洁能源解决方案，对元宝产品经理评估AI基础设施可持续性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/weblica-visual-web-agents": {
+    "title_clean": "Weblica：可扩展视觉网页代理训练环境",
+    "summary": "Weblica提供了一个可扩展且可复现的训练环境，专门用于解决视觉网页代理在复杂、开放且不断变化的网页环境中规模化训练数据的挑战。现有数据收集方法局限于离线轨迹，而Weblica旨在突破这一限制，为AI网页代理提供更有效的训练支持，对开发能理解并操作网页的AI助手具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/floweval-ui-evaluation": {
+    "title_clean": "FlowEval：基于参考的生成式UI评估工具",
+    "summary": "FlowEval是一种评估工具，专门用于评估大型语言模型和编码代理在用户界面开发中的能力，特别是在视觉设计和交互方面的表现。该工具解决了开发者难以可靠评估AI生成UI质量的问题，为AI辅助UI开发提供了评估基准。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/dynamics-fine-tuning-llms": {
+    "title_clean": "DynaMiCS：基于性能约束的LLM动态混合微调方法",
+    "summary": "DynaMiCS提出了一种针对大语言模型的多领域微调方法，能够在提升目标领域性能的同时，保持对通用知识和指令遵循等约束领域的表现。这种方法通过动态混合技术解决LLM在多领域应用中的性能平衡问题，为AI产品经理提供了优化模型能力边界的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/single-neuron-safety-alignment": {
+    "title_clean": "大语言模型安全对齐机制研究：单个神经元可绕过安全限制",
+    "summary": "研究发现大语言模型的安全对齐依赖两种机制：拒绝神经元控制有害知识表达，概念神经元编码有害内容。研究证明单个神经元即可绕过安全对齐，这对AI安全防护和模型设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

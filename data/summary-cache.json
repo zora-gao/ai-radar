@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发到部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
+    "summary": "该工具实现Hugging Face模型到Amazon SageMaker Studio的一键迁移，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型部署的解决方案参考，有助于优化元宝产品的模型迁移和部署体验。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -26108,6 +26108,108 @@
     "channels": [
       "服务场景",
       "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/open-data-for-agents": {
+    "title_clean": "Data for Agents：AI代理数据管理工具",
+    "summary": "Data for Agents是一个专门为AI代理提供数据管理解决方案的工具，帮助AI代理更有效地获取、处理和利用数据。对于元宝产品经理而言，这提供了关于如何优化AI代理数据能力的参考价值，特别是在提升代理的决策准确性和执行效率方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/edtech-university-ai-platform-funding-edvisorly": {
+    "title_clean": "EdVisorly：AI大学转学流程自动化平台",
+    "summary": "EdVisorly完成1330万美元A轮融资，开发AI平台自动化处理大学转学流程中的手动后台工作，旨在解决转学流程混乱问题。该产品对教育AI服务场景和垂直领域AI应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-08/chinese-ai-models-advance-causing-us-cybersecurity-anxiety": {
+    "title_clean": "中国AI模型进步引发美国网络安全担忧",
+    "summary": "中国AI模型技术进步引发美国网络安全焦虑，显示全球前沿AI市场格局变化。这对元宝产品经理有参考价值，需关注国际AI竞争态势及地缘政治对AI产品发展的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise": {
+    "title_clean": "Meta：AI眼镜隐私保护与数据扩张策略",
+    "summary": "Meta为其AI眼镜新增隐私保护功能，防止用户秘密录制他人，但同时公司正扩大AI产品收集的个人数据范围，反映其在隐私保护与数据获取间的矛盾策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/paramount-s-deal-for-warner-bros-should-be-delayed-oregon-says": {
+    "title_clean": "Paramount与华纳兄弟交易延迟：俄勒冈州要求提供游说文件",
+    "summary": "俄勒冈州总检察长要求法院命令派拉蒙天空舞蹈公司提供其1100亿美元收购华纳兄弟探索公司的游说相关文件，并要求延迟这笔交易。这反映了大型媒体并购面临的监管审查加强，对元宝产品经理了解内容行业整合与监管趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/introducing-gpt-live": {
+    "title_clean": "GPT-Live：新一代语音模型",
+    "summary": "GPT-Live是新一代语音模型，专注于实现自然的人机交互，现已应用于ChatGPT语音功能。这一技术进展对元宝产品经理在语音交互和AI助手语音能力方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says": {
+    "title_clean": "中国允许AI企业采购英伟达H200芯片",
+    "summary": "中国将允许顶级人工智能公司购买英伟达H200芯片，表明该国正在放宽对美国限制技术的获取。这一政策变化可能影响中国AI企业的算力供应和产品开发能力，对元宝的产品经理了解AI硬件供应格局和潜在合作机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents": {
+    "title_clean": "Prime Intellect：企业AI Agent构建平台",
+    "summary": "Prime Intellect获1.3亿美元A轮融资，帮助企业构建自有AI Agent系统，无需依赖前沿AI实验室。这对元宝产品经理有参考价值，展示了企业级AI Agent构建市场的潜力和投资热度。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
     ],
     "v": 4
   }

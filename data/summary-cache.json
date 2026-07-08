@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键迁移功能，简化了AI模型从开发到部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI工作流和多云部署策略。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -26321,6 +26321,165 @@
       "AI助手",
       "用户需求",
       "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/us-judge-allows-sec-musk-deal-despite-significant-misgivings": {
+    "title_clean": "美国法官批准马斯克与SEC和解协议",
+    "summary": "美国法官批准马斯克支付150万美元与SEC和解，结束其被指控在2022年错过披露期限而欺骗Twitter投资者的诉讼。此案涉及上市公司信息披露合规问题，对AI产品经理了解名人使用AI工具时的法律边界和信息披露义务有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/sonos-loses-top-design-and-product-executives-in-recent-layoffs": {
+    "title_clean": "Sonos裁员：裁撤设计与产品高管",
+    "summary": "Sonos近期裁员中裁撤了部分设计与产品高管职位，引发外界对其突破性产品开发能力的担忧。这对元宝产品经理有参考价值，反映了硬件公司在AI转型期可能面临的高层动荡与产品策略调整风险。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/ai-chip-startup-raises-funds-at-11b-valuation-video": {
+    "title_clean": "AI芯片创企SambaNova融资11亿美元，估值达110亿美元",
+    "summary": "AI芯片创企SambaNova完成11亿美元融资，估值达110亿美元，凸显投资者对AI基础设施需求增长的信心。这一融资动向反映AI芯片市场的高估值趋势，对元宝产品经理评估AI基础设施成本与供应链策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada": {
+    "title_clean": "Meta在加拿大建设首个AI优化数据中心",
+    "summary": "Meta在加拿大阿尔伯塔省Sturgeon County启动建设首个AI优化数据中心，容量为1GW，这是其全球第33个数据中心。这一基础设施扩张反映了Meta对AI计算能力需求的持续增长，对元宝产品经理评估AI基础设施布局和算力资源规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model": {
+    "title_clean": "SpaceXAI发布Grok 4.5：埃隆称其为'Opus级模型'",
+    "summary": "埃隆·马斯克旗下的科技公司SpaceXAI发布了Grok 4.5版本，埃隆称其为'Opus级模型'，承诺这是一个更便宜、更高效的强大AI模型替代方案。这对产品经理了解AI大模型市场新竞争者及其定位有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/ai-chip-startup-sambanova-reaches-11-billion-valuation-video": {
+    "title_clean": "SambaNova CEO：高速推理需求激增",
+    "summary": "芯片初创公司SambaNova以110亿美元估值完成10亿美元融资，CEO表示高速AI推理需求激增。此轮融资反映了投资者对AI基础设施需求的强烈信心，对元宝产品经理了解AI芯片市场趋势和推理服务成本变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/lerer-hippeau-seeing-second-generation-of-ai-startups-video": {
+    "title_clean": "Lerer Hippeau：AI初创企业第二代投资趋势",
+    "summary": "Lerer Hippeau管理合伙人Eric Hippeau在Bloomberg Tech节目中讨论AI领域投资趋势，指出OpenAI、Anthropic和xAI等已吸引大量全球资金，AI正在主导风险投资领域，这对元宝产品经理了解AI行业资本流向和新兴企业机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/steve-pagliuca-says-ai-pharma-sports-are-key-investment-focus": {
+    "title_clean": "Steve Pagliuca：AI、制药和体育是关键投资方向",
+    "summary": "PagsGroup首席执行官Stephen Pagliuca将人工智能、制药和体育视为长期投资的关键增长行业，反映了资本对AI领域持续看好，对元宝产品经理了解行业投资趋势和资本流向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment": {
+    "title_clean": "General Intuition：游戏数据训练物理AI基础模型",
+    "summary": "General Intuition利用数百万小时的游戏数据训练物理AI基础模型，旨在减少机器人开发对真实世界数据的依赖，使构建更智能的机器人变得更加容易。这一方法可能为AI机器人领域带来突破性进展，类似于ChatGPT对语言AI的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup": {
+    "title_clean": "Bezos-backed startup：游戏数据或成AGI突破关键",
+    "summary": "一家获得贝索斯支持的新创公司认为，大型语言模型在实现通用人工智能(AGI)方面存在局限，而游戏数据可能提供关键突破。该观点挑战了当前主流AI发展路径，为元宝产品经理提供了关于AGI发展新思路的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
+    "title_clean": "OpenAI：SWE-Bench Pro 编码评测基准存在可靠性问题",
+    "summary": "OpenAI 发布分析报告指出，流行的编码评测基准 SWE-Bench Pro 存在可靠性问题，这影响了 AI 模型评估的准确性和可信度，对产品经理评估 AI 编码能力工具的评测标准有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/k-12-educators-practical-skills": {
+    "title_clean": "OpenAI Academy与Walton Family Foundation合作：为K-12教育者提供AI技能培训",
+    "summary": "OpenAI学院与沃尔顿家族基金会合作推出AI技能实践工作坊，帮助K-12教育者掌握课堂实用的AI技能，这将有助于元宝产品了解教育领域AI应用场景及教师需求变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/government-national-security-partnerships": {
+    "title_clean": "OpenAI：政府与国家安全合作原则",
+    "summary": "OpenAI发布政府与国家安全合作原则，强调负责任AI使用、民主问责制和公共安全，展示了AI企业在政府合作领域的立场与框架，对元宝产品经理了解AI企业政策边界和政府合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
     ],
     "v": 4
   }

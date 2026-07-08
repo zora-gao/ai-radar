@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键迁移功能，简化了AI模型部署流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI服务部署效率。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -25504,6 +25504,265 @@
     "channels": [
       "商业化",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lemonlime": {
+    "title_clean": "LemonLime：工作流自动化工具",
+    "summary": "LemonLime是一款通过单一提示词自动执行现有工作流的工具，帮助用户简化重复性任务，提高工作效率。对于元宝产品经理而言，这展示了AI在自动化工作流程方面的应用潜力，可作为AI助手功能扩展的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/orbit-for-mac": {
+    "title_clean": "Orbit for Mac：多账户Google管理工具",
+    "summary": "Orbit for Mac是一款桌面应用，允许用户在单个窗口中管理多个Google账户，简化了多账户切换流程。对于元宝产品经理而言，这提供了多账户管理场景的参考价值，特别是在处理用户需要同时管理多个身份或服务的场景时。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nanokvm-go": {
+    "title_clean": "NanoKVM-Go：AI代理物理屏幕控制工具",
+    "summary": "NanoKVM-Go是一款允许AI代理通过物理方式控制任何屏幕的工具，为AI提供了与物理世界交互的能力，扩展了AI代理的应用场景，对元宝产品经理探索AI代理的物理控制能力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/willow-voice": {
+    "title_clean": "Willow Frontier Pro：世界最快最精准的语音听写模型",
+    "summary": "Willow Frontier Pro推出号称全球最快最精准的语音听写模型，专注于提升语音转文字的速度和准确性，可能为AI助手产品提供更高效的语音输入技术支持，值得产品经理关注语音交互领域的最新技术突破。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/link-preview-api": {
+    "title_clean": "Link Preview API：URL元数据获取工具",
+    "summary": "这是一款免费API服务，可获取任何URL的Open Graph数据、标题和图片信息，为AI助手提供网页内容预览能力，有助于增强元宝的网页链接解析和内容展示功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bono-ai": {
+    "title_clean": "Bono AI：多平台内容发布工具",
+    "summary": "Bono AI是一款内容发布工具，用户只需创建一次内容即可发布到多个平台。这类工具对元宝产品经理有参考价值，特别是在内容分发效率和跨平台整合方面，可能启发元宝在内容创作与分发场景的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/farao": {
+    "title_clean": "Orus：Claude永续合约投资工具",
+    "summary": "Orus是一款基于Claude的AI投资工具，专门用于永续合约投资决策。该产品将AI能力应用于加密货币衍生品交易场景，为投资者提供自动化分析和交易建议，对元宝在金融AI服务场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/poptask": {
+    "title_clean": "PopTask for Apple：任务日程管理工具",
+    "summary": "PopTask for Apple是一款将待办事项转化为计划任务的工具，帮助用户更有效地管理日常任务和日程安排。对于元宝产品经理而言，这提供了任务管理类AI助手的功能参考，特别是在任务自动化和日程规划方面的应用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/eodly": {
+    "title_clean": "Eodly：团队工作成果追踪工具",
+    "summary": "Eodly是一款帮助团队追踪每日工作成果的工具，让管理者了解团队实际完成的工作内容。这类工具对产品经理有参考价值，可作为团队协作和项目管理的竞品分析对象，特别是在提高团队透明度和工作效率方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/french-watchdog-orders-meta-to-negotiate-in-news-copyright-case": {
+    "title_clean": "法国监管机构要求Meta就新闻版权问题与新闻组织谈判",
+    "summary": "法国竞争监管机构要求Meta就新闻版权支付问题与新闻组织进行谈判，此前收到两起投诉，指控这家社交媒体巨头滥用其市场地位。这一事件对元宝产品经理有参考价值，因为它涉及AI内容使用与版权问题，可能影响AI助手在新闻内容引用和版权合规方面的产品设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/labor-crunch-tests-growth-limits-for-us-data-center-builders": {
+    "title_clean": "美国数据中心建设面临劳动力短缺挑战",
+    "summary": "美国数据中心建设行业在连续多个季度创纪录订单后，正面临熟练劳动力短缺问题，这限制了数据中心建设商的增长能力。这一情况对元宝产品经理有参考价值，因为AI服务扩张需要强大的基础设施支持，劳动力短缺可能影响AI服务的部署速度和成本。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/bollore-wins-paris-court-ruling-over-vivendi-control-dispute": {
+    "title_clean": "Bolloré赢得巴黎法院裁决，赢得Vivendi控制权纠纷",
+    "summary": "Bolloré在巴黎法院赢得裁决，法官支持其长期持有的不控制Vivendi的主张。若该裁决在后续挑战中得以维持，可能为其公司节省数十亿欧元，这对媒体集团控制权结构有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/apple-loses-spat-with-eu-over-app-store-and-iphone-rules": {
+    "title_clean": "Apple在欧盟反垄断诉讼中败诉，App Store和iPhone规则面临全面审查",
+    "summary": "欧盟法院裁定苹果公司败诉，其App Store和iPhone操作系统将全面接受欧盟对大型科技公司的反垄断调查。这一结果可能影响苹果的应用分发政策和设备操作系统规则，对元宝产品经理了解全球科技监管趋势和平台政策变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/apple-aapl-chip-deal-with-broadcom-avgo-expected-to-exceed-30-billion": {
+    "title_clean": "苹果与博通签署芯片协议，价值将超过300亿美元",
+    "summary": "苹果宣布扩大与博通的芯片供应协议，预计总价值将超过300亿美元，这是苹果增加美国本土组件采购承诺的一部分。这一大规模合作反映了苹果对关键芯片组件的长期战略布局，对供应链管理和成本控制具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips": {
+    "title_clean": "ZML：AI芯片推理加速工具",
+    "summary": "法国AI初创公司ZML推出ZML/LLMD软件，可降低AI运行成本。该公司由图灵奖得主Yann LeCun背书，旨在提升多AI芯片的推理速度。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/openai-to-roll-out-top-ai-model-globally-after-limited-preview": {
+    "title_clean": "OpenAI将向全球发布顶级AI模型",
+    "summary": "OpenAI宣布将于周四正式发布其最先进的AI模型，并扩大预览范围至全球。这一发布标志着OpenAI旗舰模型的广泛可用性，对产品经理了解行业领先模型的发展方向具有重要意义。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/netherlands-and-uk-sign-3-2-billion-deal-on-amphibious-ships": {
+    "title_clean": "荷兰与英国签署32亿美元两栖舰船协议",
+    "summary": "荷兰与英国签署了价值32亿美元的两栖运输舰船生产协议，这是欧洲北约成员国在安卡拉达成的一系列协议之一。这笔交易反映了欧洲国家在国防装备领域的合作趋势，但对AI产品经理的直接参考价值有限。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/alibaba-s-shares-jump-most-in-ten-months-as-earnings-hopes-grow": {
+    "title_clean": "阿里巴巴股价创10个月最大涨幅，反弹希望增强",
+    "summary": "阿里巴巴股价创下10个月来最大单日涨幅，投资者对其盈利前景转为乐观，资金开始流入此前表现落后的大中华区互联网公司。这一市场动向对元宝产品经理评估中国AI市场投资环境和巨头战略方向具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/ai-chip-startup-sambanova-raises-funds-at-11-billion-valuation": {
+    "title_clean": "AI芯片创企SambaNova获11亿美元融资，估值达110亿美元",
+    "summary": "AI芯片公司SambaNova完成11亿美元融资，估值达110亿美元，反映了投资者对AI基础设施需求的强烈信心。这一融资动向表明AI芯片领域持续获得资本青睐，对元宝产品经理评估AI基础设施成本与算力资源获取策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close": {
+    "title_clean": "AI芯片制造商SambaNova获10亿美元融资，估值达110亿美元",
+    "summary": "AI芯片制造商SambaNova完成10亿美元融资，估值达110亿美元，距离上轮大型融资仅5个月。此前英特尔曾尝试以约16亿美元收购该公司，此次融资显示AI芯片领域持续受到资本高度关注。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/temasek-assets-break-400-billion-as-ai-bets-boost-returns": {
+    "title_clean": "淡马锡资产突破4000亿美元，AI投资助推回报增长",
+    "summary": "新加坡国有投资公司淡马锡大幅增加对人工智能和美洲市场的投资敞口，这一战略调整使其投资组合净值达到5180亿新加坡元（约4010亿美元），显示AI领域正获得大型机构资本的高度关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
     ],
     "v": 4
   }

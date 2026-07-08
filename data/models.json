@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:55:17.596Z",
+  "generated_at": "2026-07-08T02:03:08.631Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -681,10 +681,11 @@
       "url": "https://openrouter.ai/x-ai/grok-build-0.1-20260520",
       "created_at": "2026-05-20T17:28:43Z",
       "context_length": 256000,
-      "modality": "text+image->text",
+      "modality": "text+image+file->text",
       "input_modalities": [
         "text",
-        "image"
+        "image",
+        "file"
       ],
       "output_modalities": [
         "text"

@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI模型在不同云平台间的部署流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
+    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI服务部署效率。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -25381,6 +25381,69 @@
     "type": "news",
     "channels": [
       "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043100&idx=2&sn=508512a150cdd6fbfbb48fbf44082abf": {
+    "title_clean": "翁荔博客：通过Harness工程实现AI自我提升",
+    "summary": "翁荔博客发布新内容，介绍如何通过Harness工程实现AI系统的自我提升能力。这为AI产品经理提供了关于AI系统自我迭代和优化的技术思路，可能对元宝的产品迭代策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered": {
+    "title_clean": "Meta's AI Glasses：智能眼镜功能与体验解答",
+    "summary": "Meta发布AI眼镜并解答常见问题，介绍了为佩戴者和周围人设计的舒适功能，展示了AI硬件在社交场景中的应用方向，对元宝产品经理了解AI硬件与社交交互结合有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043009&idx=3&sn=0e903cbffce95ac1593c3e272dd7319e": {
+    "title_clean": "西交大提出FastLeWorldModel：加速世界模型训练",
+    "summary": "西安交通大学研究团队提出FastLeWorldModel，通过'动作前缀并行预训练'技术解决世界模型训练速度慢的问题，为AI系统处理复杂环境提供新思路，对元宝产品经理在AI模型优化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043007&idx=1&sn=3bd3dc940aa1b3d1e6eb722783e367bf": {
+    "title_clean": "家具身公司：AI情绪识别与交互体验优化",
+    "summary": "一家专注于家具产品的公司开发AI情绪识别技术，通过分析用户表情和反应来优化产品交互体验，已完成天使轮融资。这为AI在智能家居和情绪化服务场景的应用提供了新思路，对元宝在情感化交互和用户需求理解方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/samsung-mass-produces-storage-drives-for-nvidia-s-vera-rubin": {
+    "title_clean": "三星扩大NVIDIA Vera Rubin平台数据中心存储产能",
+    "summary": "三星电子已开始量产其最先进的数据中心存储驱动器，该产品将用于NVIDIA即将推出的Vera Rubin平台。这表明三星与NVIDIA在AI基础设施领域的合作深化，对元宝产品经理了解AI硬件供应链和合作伙伴生态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
     ],
     "v": 4
   }

@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI服务部署效率。",
+    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -25438,6 +25438,66 @@
   "https://www.bloomberg.com/news/articles/2026-07-07/samsung-mass-produces-storage-drives-for-nvidia-s-vera-rubin": {
     "title_clean": "三星扩大NVIDIA Vera Rubin平台数据中心存储产能",
     "summary": "三星电子已开始量产其最先进的数据中心存储驱动器，该产品将用于NVIDIA即将推出的Vera Rubin平台。这表明三星与NVIDIA在AI基础设施领域的合作深化，对元宝产品经理了解AI硬件供应链和合作伙伴生态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/australian-pension-shrugs-off-ai-bubble-fears-plans-to-buy-dips": {
+    "title_clean": "澳大利亚大型养老基金无视AI泡沫担忧，计划逢低买入科技股",
+    "summary": "澳大利亚最大养老基金之一UniSuper计划逢低买入美国科技股，无视高估值担忧，押注人工智能将推动长期增长。这一动向表明大型机构对AI商业化前景的信心，对元宝产品经理评估AI投资趋势和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/tencent-wechat-ai-agent-shows-promise-in-super-app-fight-review": {
+    "title_clean": "腾讯微信AI Agent：超级应用竞争中的新进展",
+    "summary": "腾讯正通过微信AI Agent努力重塑其科技创新者形象，以弥补在前沿AI模型开发方面的落后。这一进展表明腾讯正通过超级应用生态布局AI Agent领域，对元宝产品经理在AI助手与超级应用融合策略上具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-07/samsung-to-get-jump-on-apple-s-first-foldable-launch-with-galaxy-fold-8-july-22": {
+    "title_clean": "三星将抢先苹果推出新款折叠屏手机",
+    "summary": "三星电子将于7月22日举办Galaxy Unpacked活动，预计推出Galaxy Z Fold 8折叠屏手机，采用更短更宽的设计。这表明三星正在加速折叠屏手机创新，可能对元宝在移动设备交互场景设计上提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/kkr-backed-smarthr-is-said-to-delay-tokyo-ipo-beyond-this-year": {
+    "title_clean": "SmartHR：日本人力资源平台运营商推迟东京IPO",
+    "summary": "日本人力资源平台运营商SmartHR已将东京首次公开募股计划推迟至最早明年，原因是投资者认为公司目标估值过高。这反映了当前市场对科技企业IPO估值趋于谨慎的态度，对元宝产品经理评估AI服务商业化时机和估值策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/iluvatar-corex-is-said-to-consider-share-sale-after-428-rally": {
+    "title_clean": "Iluvatar CoreX：AI芯片公司考虑港股融资",
+    "summary": "上海芯谋咨询半导体公司Iluvatar CoreX在1月IPO后股价飙升428%，现正考虑在香港进行至少8亿美元的股票发售。这反映了AI芯片市场的强劲需求和投资热度，对AI硬件领域的产品经理有重要参考价值。",
     "score": 65,
     "priority": "P2",
     "type": "news",

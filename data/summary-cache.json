@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现Hugging Face模型到Amazon SageMaker Studio的一键迁移，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型部署的解决方案参考，有助于优化元宝产品的模型迁移和部署体验。",
+    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -26210,6 +26210,117 @@
       "AI Agent",
       "商业化",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/bofa-makes-u-turn-on-openai-provides-520m-credit-line-video": {
+    "title_clean": "美国银行向OpenAI提供5.2亿美元信贷额度",
+    "summary": "美国银行改变了对OpenAI的信贷政策，从最初拒绝向这家AI公司贷款转为提供5.2亿美元信贷额度。这一转变表明大型金融机构对AI领域的投资信心增强，对元宝产品经理评估AI商业化路径和融资环境具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool": {
+    "title_clean": "Google Photos：AI视频编辑工具",
+    "summary": "Google Photos新增AI'Video Remix'功能，可对视频进行电影级重新打光、背景替换和艺术风格添加，提升视频编辑体验，为AI在多媒体处理领域的应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/bloomberg-tech-7-08-2026-video": {
+    "title_clean": "科技市场波动；OpenAI获得美国银行5.2亿美元信贷额度",
+    "summary": "Bloomberg科技报道，美伊紧张局势引发科技市场波动，风险规避情绪升温导致油价上涨。同时，OpenAI获得美国银行5.2亿美元信贷额度，显示大型AI公司融资渠道畅通，对元宝产品经理评估AI行业融资环境和公司财务健康状况有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/open-interest-7-8-2026-video": {
+    "title_clean": "特朗普威胁对伊朗发动更多打击 | 2026年7月8日",
+    "summary": "特朗普威胁对伊朗发动更多打击，霍尔木兹海峡附近紧张局势升级导致油价上涨。此资讯涉及地缘政治风险对能源市场的影响，对元宝产品经理了解国际事件对AI助手服务场景的潜在价值有限。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/microsoft-s-xbox-to-shift-obsidian-studio-to-new-fallout-video-game": {
+    "title_clean": "微软Xbox将Obsidian工作室转向《辐射》新游戏",
+    "summary": "微软Xbox宣布将Obsidian Entertainment工作室从《誓言》续作开发转向新的《辐射》游戏项目，同时取消了去年《誓言》的续作计划。这一调整反映了微软在游戏IP战略上的重新规划，对游戏工作室资源分配和产品路线有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations": {
+    "title_clean": "OpenAI发布新语音模型：支持实时双向对话",
+    "summary": "OpenAI推出新型语音模型，能够同时进行说话和倾听，实现实时双向对话，这一能力对实时翻译场景至关重要，为AI助手的多模态交互提供了新方向。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/parents-phone-addiction-affects-bond-with-kids-new-study-finds": {
+    "title_clean": "父母手机成瘾影响亲子关系，新研究揭示",
+    "summary": "新研究发现父母对手机和屏幕的依赖会对儿童产生长期负面发展及心理影响，这一发现对元宝产品经理在开发家庭场景AI助手时具有重要参考价值，提示需关注如何帮助家长平衡数字使用与亲子互动。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks": {
+    "title_clean": "SpaceXAI与Cursor联合推出Grok AI模型：专攻编程与金融任务",
+    "summary": "SpaceXAI与AI编程初创公司Cursor合作推出Grok AI模型，专注于提升编程、金融和法律任务的处理能力，这是埃隆·马斯克旗下公司在AI垂直领域的重要布局，为元宝产品在专业领域AI应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet": {
+    "title_clean": "游戏数据优于互联网：CEO谈AI训练新思路",
+    "summary": "某CEO认为视频游戏比互联网更适合作为AGI训练数据，指出当前大语言模型如ChatGPT和Claude虽擅长文本处理，但在理解复杂环境方面存在局限。这一观点为AI训练数据选择提供了新思路，对元宝产品经理思考AI能力边界和数据策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "AI Agent"
     ],
     "v": 4
   }

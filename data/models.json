@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-08T17:40:51.062Z",
+  "generated_at": "2026-07-08T19:14:48.942Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
     {
-      "id": "~x-ai/grok-latest",
-      "name": "Grok Latest",
+      "id": "x-ai/grok-4.5",
+      "name": "Grok 4.5",
       "vendor": "xAI",
       "vendor_slug": "x-ai",
-      "url": "https://openrouter.ai/~x-ai/grok-latest",
-      "created_at": "2026-07-08T14:02:40Z",
-      "context_length": 1000000,
+      "url": "https://openrouter.ai/x-ai/grok-4.5-20260708",
+      "created_at": "2026-07-08T15:05:54Z",
+      "context_length": 500000,
       "modality": "text+image+file->text",
       "input_modalities": [
         "text",
@@ -20,8 +20,33 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.25,
-      "price_out": 2.5,
+      "price_in": 2,
+      "price_out": 6,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Grok 4.5 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM.",
+      "description_zh": "Grok 4.5 是 SpaceXAI 最智能的模型，在编码、知识工作和 STEM 方面具有前沿性能。"
+    },
+    {
+      "id": "~x-ai/grok-latest",
+      "name": "Grok Latest",
+      "vendor": "xAI",
+      "vendor_slug": "x-ai",
+      "url": "https://openrouter.ai/~x-ai/grok-latest",
+      "created_at": "2026-07-08T14:02:40Z",
+      "context_length": 500000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -352,8 +377,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.56,
-      "price_out": 1.76,
+      "price_in": 0.42,
+      "price_out": 1.32,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1439,29 +1464,6 @@
       "supports_reasoning": true,
       "description": "DeepSeek V4 Pro is a large-scale Mixture-of-Experts model from DeepSeek with 1.6T total parameters and 49B activated parameters, supporting a 1M-token context window. It is designed for advanced reasoning, coding,...",
       "description_zh": "DeepSeek V4 Pro是DeepSeek推出的大规模Mixture-of-Experts模型，总参数为1.6T，激活参数为49B，支持1M-token上下文窗口。它专为高级推理、编码等而设计。"
-    },
-    {
-      "id": "deepseek/deepseek-v4-flash",
-      "name": "DeepSeek V4 Flash",
-      "vendor": "DeepSeek",
-      "vendor_slug": "deepseek",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-20260423",
-      "created_at": "2026-04-24T03:17:46Z",
-      "context_length": 1048576,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.09,
-      "price_out": 0.18,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
-      "description_zh": "DeepSeek V4 Flash 是 DeepSeek 的效率优化混合专家模型，总参数为 284B，激活参数为 13B，支持 1M 代币上下文窗口。它专为快速推理而设计......"
     }
   ]
 }

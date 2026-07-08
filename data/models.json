@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-07-08T13:48:26.913Z",
+  "generated_at": "2026-07-08T15:59:21.566Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "~x-ai/grok-latest",
+      "name": "Grok Latest",
+      "vendor": "xAI",
+      "vendor_slug": "x-ai",
+      "url": "https://openrouter.ai/~x-ai/grok-latest",
+      "created_at": "2026-07-08T14:02:40Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.25,
+      "price_out": 2.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "This model always redirects to the latest Grok model from xAI.",
+      "description_zh": "该模型始终重定向到 xAI 的最新 Grok 模型。"
+    },
     {
       "id": "aion-labs/aion-3.0-mini",
       "name": "Aion-3.0-Mini",
@@ -1437,29 +1462,6 @@
       "supports_reasoning": true,
       "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
       "description_zh": "DeepSeek V4 Flash 是 DeepSeek 的效率优化混合专家模型，总参数为 284B，激活参数为 13B，支持 1M 代币上下文窗口。它专为快速推理而设计......"
-    },
-    {
-      "id": "inclusionai/ling-2.6-1t",
-      "name": "Ling-2.6-1T",
-      "vendor": "Inclusionai",
-      "vendor_slug": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-2.6-1t-20260423",
-      "created_at": "2026-04-23T12:43:58Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.075,
-      "price_out": 0.625,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "Ling-2.6-1T is an instant (instruct) model from inclusionAI and the company’s trillion-parameter flagship, designed for real-world agents that require fast execution and high efficiency at scale. It uses a “fast...",
-      "description_zh": "Ling-2.6-1T是inclusionAI和该公司万亿参数旗舰产品的即时（指令）模型，专为需要大规模快速执行和高效率的现实世界代理而设计。它使用“快速..."
     }
   ]
 }

@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键迁移功能，简化了AI模型部署流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI服务部署效率。",
+    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发到部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -25999,6 +25999,115 @@
     "channels": [
       "商业化",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates": {
+    "title_clean": "AI初创企业收入增速持续加快",
+    "summary": "部分AI初创企业的收入增长速度正在加速，表明AI市场可能正处于快速增长阶段。这对元宝产品经理了解行业增长趋势和潜在市场机会有参考价值，可帮助判断产品市场时机和竞争格局。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/blue-owl-unveils-infrastructure-venture-catering-to-data-centers": {
+    "title_clean": "Blue Owl 推出数据中心基础设施风险投资",
+    "summary": "Blue Owl Capital 推出新业务，专注于数据中心热潮，将开发、拥有和运营光纤网络，这些网络是基础设施扩展的关键。这反映了数据中心建设热潮带来的投资机会，对元宝产品经理了解AI基础设施投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/financials-have-been-less-loved-hermann-says-video": {
+    "title_clean": "金融板块受市场冷落但现金流充裕",
+    "summary": "纽约人寿投资管理公司全球市场策略师Julia Hermann表示，金融板块近期受到市场冷落，但该行业并不缺乏现金，且具有高质量投资价值。这一市场信号对AI金融助手和投资分析类产品具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/infrastructure-software-is-place-to-be-says-boolani-video": {
+    "title_clean": "花旗分析师：基础设施软件是AI交易的重要领域",
+    "summary": "花旗美国股票研究联席主管Fatima Boolani讨论了科技股抛售情况，并指出在AI交易热潮中，基础设施软件领域具有重要价值。这对元宝产品经理了解AI基础设施市场的投资趋势和商业机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push": {
+    "title_clean": "Mistral AI：发布机器人导航模型支持物理AI",
+    "summary": "Mistral AI宣布推出新的机器人导航模型，这家法国初创公司通过与欧洲主要工业客户达成协议，正在扩展新兴的物理人工智能领域。这一发布标志着AI从虚拟世界向物理世界的延伸，对元宝产品经理探索AI在物理世界应用场景具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/yardeni-says-inflation-fed-back-in-play-on-iran-crisis-video": {
+    "title_clean": "Yardeni：伊朗危机引发通胀与美联储政策担忧",
+    "summary": "Yardeni Research总裁Ed Yardeni表示，与伊朗冲突升级重新引发市场对油价上涨将推高通胀的担忧，可能迫使美联储提高利率。这一分析对产品经理了解宏观经济因素如何影响AI产品市场环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/native-speed-vllm-transformers-backend": {
+    "title_clean": "Native-speed vLLM transformers建模后端：高性能AI模型推理加速",
+    "summary": "vLLM推出原生速度的transformers建模后端，通过优化技术显著提升大语言模型推理性能，为AI产品提供更高效的模型部署方案，对元宝产品经理评估模型性能优化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/crypto-focused-vc-firm-paradigm-raises-1-2-billion-for-ai-bets": {
+    "title_clean": "加密风投公司Paradigm筹集12亿美元专注AI投资",
+    "summary": "加密货币风投公司Paradigm筹集12亿美元新基金，将投资方向扩展至人工智能和机器人领域，表明传统加密投资机构正在向AI领域战略转移，为AI行业带来新的资本关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/former-disney-executive-jason-brenek-named-ceo-of-film-distributor-fathom": {
+    "title_clean": "前迪士尼高管出任电影发行商Fathom CEO",
+    "summary": "前迪士尼高管Jason Brenek被任命为电影发行商Fathom的CEO，计划发布更多宗教题材电影和独立电影。这一人事变动可能影响电影发行策略和内容方向，对元宝产品经理了解内容行业高管流动和内容分发策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
     ],
     "v": 4
   }

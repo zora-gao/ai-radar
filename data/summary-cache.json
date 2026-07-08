@@ -25765,5 +25765,241 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/agents-cli": {
+    "title_clean": "agents-cli：AI编程代理的命令行工具",
+    "summary": "agents-cli是一款专为AI编程代理设计的命令行工具，旨在帮助开发者更高效地构建和部署AI代理。该工具可能提供代码生成、调试和部署功能，对元宝产品经理在AI代理开发工具链方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fini-2": {
+    "title_clean": "Knowledge Atlas by Fini：自学习知识库工具",
+    "summary": "Knowledge Atlas by Fini是一款能够自我学习的知识库系统，能够持续改进自身内容。这款产品对元宝产品经理有参考价值，因为它展示了AI知识管理工具的发展方向，特别是自学习机制如何提升知识库的准确性和实用性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jamboree": {
+    "title_clean": "Jamboree：多人合成器工具",
+    "summary": "Jamboree是一款多人合成器工具，允许多个用户同时参与音乐创作和合成。对于元宝产品经理而言，这展示了AI在协作创作场景的应用潜力，特别是实时多人交互功能对社交类AI产品的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yc-company-explorer": {
+    "title_clean": "ExploreYC：YC与a16z公司数据开源API",
+    "summary": "ExploreYC是一个开源API，提供Y Combinator和a16z投资组合公司的数据访问。产品经理可利用此工具获取创业公司信息，分析投资趋势，识别潜在合作伙伴或竞品，为产品战略和商业决策提供数据支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/assemblyai": {
+    "title_clean": "Universal-3.5 Pro：多语言语音识别与说话人分离模型",
+    "summary": "Universal-3.5 Pro是一款语音识别模型，支持原生代码切换、改进的说话人分离功能，并支持更多语言。这对产品经理评估多语言语音交互能力、说话人识别技术演进有参考价值，尤其对需要处理多语言对话场景的AI助手产品。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/imf-sees-ai-surge-offset-war-oil-shock-and-keeps-growth-outlook": {
+    "title_clean": "IMF报告：AI增长抵消战争对石油冲击，维持经济增长预期",
+    "summary": "国际货币基金组织维持今年全球经济增长预期不变，指出人工智能的繁荣发展抵消了中东冲突对石油市场的冲击，AI技术对经济稳定起到积极作用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notion-agents-ios-app": {
+    "title_clean": "Notion Agents：iOS端AI助手应用",
+    "summary": "Notion推出iOS版AI助手应用，用户可随时与Notion Agents进行对话交互。该产品将AI能力与Notion知识管理平台结合，为移动端用户提供智能问答和信息检索服务，对元宝在移动端AI助手场景设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/compendium-2": {
+    "title_clean": "Compendium：团队与AI代理数据整合工具",
+    "summary": "Compendium是一款团队协作工具，将团队成员、AI代理和数据集中在一个页面上管理，帮助产品经理了解AI代理团队协作的新模式，可能对元宝的多代理协作功能有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space": {
+    "title_clean": "前OpenAI高管加入Stoke Space董事会",
+    "summary": "前OpenAI高管Kevin Weil加入可重复使用火箭公司Stoke Space董事会，表明可重复使用火箭技术可能成为硅谷下一个热点。这一人事变动反映了科技行业对太空探索领域的持续关注，以及AI与航天技术交叉发展的潜在趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/douglas-elliman-bets-on-ai-to-reinvent-brokerage-business": {
+    "title_clean": "Douglas Elliman：AI重塑房地产经纪业务",
+    "summary": "豪华房地产经纪公司Douglas Elliman正利用人工智能扩展业务范围，超越传统的房屋买卖服务，探索AI在房地产领域的新应用场景，为AI服务场景提供行业参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/ai-firm-zhipu-to-sell-4-billion-of-shares-after-1-500-rally": {
+    "title_clean": "智谱AI：拟出售40亿美元股票，股价暴涨1500%",
+    "summary": "中国AI模型公司智谱AI在香港上市后股价暴涨近1500%，现计划通过股票出售筹集约40亿美元资金。这一动态反映了AI模型公司的资本热度，对元宝产品经理评估AI领域商业化路径和估值参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/veryfi": {
+    "title_clean": "On-Device Field Extraction by Verify：离线设备数据提取工具",
+    "summary": "Verify推出离线设备数据提取功能，即使在无网络环境下也能安全提取设备上的信息。这对元宝产品经理有参考价值，特别是在考虑离线功能设计和数据安全策略时，可借鉴其本地化处理方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-08/samsung-sends-chip-investors-on-another-roller-coaster-ride": {
+    "title_clean": "三星芯片业绩波动引发投资者担忧",
+    "summary": "三星电子芯片业务强劲业绩未能满足市场对芯片制造商日益提高的预期，导致股价波动。这一现象反映了芯片行业竞争加剧和投资者期望值上升的趋势，对元宝产品经理了解AI硬件供应链和芯片市场情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/saas/metrics-unit-economics-questions-sagie": {
+    "title_clean": "Your SaaS Metrics Are A Result, Not A Strategy：SaaS业务指标不应作为战略本身",
+    "summary": "文章指出LTV/CAC、NRR、GRR、ARR增长和Rule of 40等SaaS指标是业务表现的重要指标，但领导者和董事会应超越数字本身，理解这些指标只是结果而非战略本身。对元宝产品经理的参考价值在于提醒不应仅关注表面指标而忽视产品战略本质。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/wave-of-earnings-surprises-will-be-hard-to-repeat-says-goldman": {
+    "title_clean": "高盛：AI推动的业绩惊喜浪潮难以重现",
+    "summary": "高盛分析师Christian M表示，上一季度AI推动的业绩惊喜浪潮难以重复，这些业绩结果本身不太可能引发股市大幅上涨。这对AI公司估值和投资者预期有重要参考价值，产品经理需关注AI商业化可持续性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/goldman-sachs-says-hyperscalers-are-well-positioned-video": {
+    "title_clean": "Goldman Sachs：超大规模云服务商处于有利地位",
+    "summary": "高盛投资策略主管表示，半导体行业的杠杆头寸变得\"极端\"，而超大规模云服务商处于有利地位。这反映了AI基础设施投资趋势，对元宝产品经理了解AI服务底层资源分配和云服务商战略布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026": {
+    "title_clean": "Familiar Names Top Active US Investor Ranks In Q2：美国活跃投资者Q2排名分析",
+    "summary": "该资讯分析了2023年第二季度美国最活跃的投资者排名，包括风险投资活跃度、领投次数、投资金额和投资频率等指标。对元宝产品经理的参考价值在于了解当前AI领域投资趋势，可能揭示新兴AI应用方向和潜在的市场机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-08/spacex-stock-price-target-raised-to-800-as-ai-drives-10-5-trillion-valuation": {
+    "title_clean": "SpaceX：AI领域波动下的商业前景分析",
+    "summary": "有分析师认为SpaceX尽管在AI贸易领域面临波动，但仍将保持高速发展，并可能达到10万亿美元估值。这反映了AI与传统航天科技结合的商业潜力，对元宝产品经理评估AI技术跨界应用价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/iluvatar-corex-seeks-to-raise-850-million-after-stock-rally": {
+    "title_clean": "Iluvatar CoreX：半导体公司寻求8.5亿港元融资",
+    "summary": "上海芯谋咨询半导体公司Iluvatar CoreX在1月IPO后股价大幅上涨，现计划在香港通过股票发售筹集约8.5亿美元。此融资动态反映AI芯片领域投资热度，对元宝产品经理了解AI硬件产业链资本动向及潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

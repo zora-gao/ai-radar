@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间部署模型的流程，为元宝产品经理提供了跨平台模型部署的参考方案。",
+    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发环境到生产环境的部署流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -26776,6 +26776,181 @@
     "type": "news",
     "channels": [
       "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/coasty": {
+    "title_clean": "Coasty：计算机使用代理工具",
+    "summary": "Coasty是一款计算机使用代理工具，能够像人类一样运行传统软件。这类工具对元宝产品经理有参考价值，特别是在AI代理如何与现有软件系统交互方面，可能启发多模态交互和跨应用操作的产品方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openai": {
+    "title_clean": "GPT-Live：ChatGPT全双工语音工具",
+    "summary": "GPT-Live为ChatGPT提供全双工语音功能，实现实时双向语音交互。这项技术突破使AI助手能够进行更自然的对话，对提升元宝语音交互体验具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/goose-ad-remixer": {
+    "title_clean": "Goose Ad Remixer：Meta广告优化工具",
+    "summary": "Goose Ad Remixer是一款帮助品牌重新编辑优化Meta平台表现最佳广告的工具，通过分析高转化广告元素，帮助品牌提升广告效果和ROI，对元宝产品经理了解AI在广告优化领域的应用场景具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/monogram-ai": {
+    "title_clean": "Monogram AI：可视化交互式AI工具",
+    "summary": "Monogram AI是一款提供可视化交互界面的AI工具，通过图形化界面增强用户与AI的交互体验。这类产品对元宝产品经理有参考价值，特别是在探索多模态交互和提升用户界面友好性方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aura-28": {
+    "title_clean": "Aura：AI编程代理控制IDE",
+    "summary": "Aura是一款集成AI编程代理控制的IDE工具，内置循环功能，帮助开发者更高效地管理AI编码代理的工作流程。这款产品对元宝产品经理在AI辅助编程领域的产品设计具有参考价值，特别是在如何将AI代理与传统开发工具结合方面提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gate-ai-2": {
+    "title_clean": "Constellation Gate AI：AI提示注入防护与优化工具",
+    "summary": "Constellation Gate AI是一款专注于AI提示注入防护和token优化的工具，在相关基准测试中排名第一。该产品对元宝产品经理具有重要参考价值，特别是在提升AI助手安全性和降低运营成本方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/opper-ai": {
+    "title_clean": "Opper AI：欧洲AI Agent网关",
+    "summary": "Opper AI定位为欧洲AI Agent网关，可能提供AI代理在欧洲市场的接入服务或基础设施。作为欧洲本土AI平台，它可能关注区域合规、数据本地化及欧洲特定场景的AI服务，为元宝产品经理提供欧洲AI市场布局和区域化AI服务的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lispr": {
+    "title_clean": "Lispr：语音输入文本工具",
+    "summary": "Lispr是一款语音输入工具，用户按住键说话即可将语音转换为文本并输入到任何应用中。该产品解决了跨应用语音输入的痛点，为元宝产品经理提供了语音交互场景的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/ispace-ceo-on-lunar-transportation-plans-with-spacex-video": {
+    "title_clean": "Ispace CEO：与SpaceX合作月球运输计划",
+    "summary": "Ispace创始人兼CEO Takeshi Hakamada宣布与SpaceX合作，计划通过SpaceX的Starship火箭提供月球有效载荷运输服务。这一合作标志着商业航天领域的重要进展，为元宝产品经理提供了AI在航天服务场景应用的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/adb-chief-economist-on-apac-growth-outlook-video": {
+    "title_clean": "亚行首席经济学家谈亚太地区增长前景",
+    "summary": "亚行首席经济学家Albert Park讨论了银行最新的亚太地区增长展望。预测显示尽管有所改善，但增长仍将保持低迷，受到各种干扰因素的影响。这对元宝产品经理了解亚太地区经济环境对AI产品市场的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/how-wayfair-has-built-ai-into-its-future": {
+    "title_clean": "Wayfair：家居零售AI技术应用",
+    "summary": "Wayfair作为家居零售商，在其25年发展历程中持续整合先进技术，将AI深度融入其电商平台。这对元宝产品经理了解传统零售业如何通过AI提升用户体验和运营效率有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/auriko": {
+    "title_clean": "Auriko：大语言模型交易执行工具",
+    "summary": "Auriko是一款专门用于大语言模型交易执行的交易台工具，为LLM调用提供专业的交易执行功能。产品经理可关注其如何将AI技术与金融交易场景结合，探索元宝在专业服务领域的应用可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043205&idx=1&sn=31ea416dff11b7166ee1e857ae41b58d": {
+    "title_clean": "机器人为什么要拟人？终于有人正确回答了",
+    "summary": "本文探讨了机器人拟人化的原因和意义，分析了拟人化设计对提升人机交互体验、增强用户接受度以及实现更自然沟通的重要性。对元宝产品经理在AI助手交互设计方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation": {
+    "title_clean": "Positron：AI芯片初创公司寻求融资",
+    "summary": "AI芯片初创公司Positron正寻求约7.5亿美元融资，估值达50亿美元，旨在与Nvidia竞争。这反映了AI芯片领域竞争加剧，对元宝产品经理了解AI基础设施投资趋势和潜在合作伙伴有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
     ],
     "v": 4
   }

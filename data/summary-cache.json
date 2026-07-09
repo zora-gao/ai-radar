@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键迁移功能，简化了AI模型从开发到部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI工作流和多云部署策略。",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间部署模型的流程，为元宝产品经理提供了跨平台模型部署的参考方案。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -26669,6 +26669,113 @@
       "AI助手",
       "商业化",
       "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/memory-chipmaker-cxmt-to-launch-4-3-billion-china-ipo-next-week": {
+    "title_clean": "内存芯片制造商CXMT将启动43亿美元中国IPO",
+    "summary": "内存芯片巨头CXMT公司将于下周开启投资者认购，启动今年最受期待的上市计划的最后阶段。此次IPO规模达43亿美元，反映了半导体行业特别是内存领域的资本动态，对AI硬件基础设施投资有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/australia-regional-train-disruptions-linger-after-telstra-outage": {
+    "title_clean": "澳大利亚电信故障导致铁路服务持续中断",
+    "summary": "澳大利亚电信公司Telstra网络故障导致全国移动和数据服务中断，部分地区铁路服务周四仍无法恢复。此事件凸显了关键基础设施故障对公共服务的影响，对AI助手在交通信息更新和应急服务场景中的应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/imf-raises-s-korea-growth-most-among-major-economies-on-ai-boom": {
+    "title_clean": "IMF上调韩国经济增长预期：AI推动全球主要经济体中最大增幅",
+    "summary": "国际货币基金组织最新预测显示，韩国在全球30个主要经济体中获得了最大幅度的经济增长上调，这进一步证实了该国人工智能产业的快速发展对经济的积极影响。这一数据表明AI技术正成为韩国经济增长的重要驱动力，对元宝产品经理评估AI技术对国家经济的影响具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/ai-costs-lead-westpac-to-prod-staff-toward-sensible-model-use": {
+    "title_clean": "Westpac银行推动员工合理使用AI以控制成本",
+    "summary": "Westpac银行正加强监控AI使用成本，追踪企业内部AI令牌消耗，并将简单任务路由至更便宜的模型，以优化AI资源分配和成本控制。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/bain-exits-kioxia-after-landmark-chip-deal-yields-record-returns": {
+    "title_clean": "Bain Capital退出Kioxia：芯片交易带来丰厚回报",
+    "summary": "Bain Capital已出售其在闪存芯片制造商Kioxia Holdings的全部股份，标志着这笔交易已结束，该交易曾改变日本科技和投资格局。对产品经理而言，这反映了半导体投资回报周期及行业资本流动趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/wayfair-s-big-bet-on-bricks-and-mortar-video": {
+    "title_clean": "Wayfair：大型实体零售战略转型",
+    "summary": "Wayfair作为电商家具和家居用品零售商，正通过开设大型实体店实现业务多元化。这一战略转型表明传统电商正在探索线上线下融合模式，为AI助手在购物场景中提供实体店导航、产品体验等新服务机会提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-08/the-close-7-8-2026-video": {
+    "title_clean": "纳斯达克100指数因地缘政治紧张而波动 | 7月8日收盘分析",
+    "summary": "彭博电视报道了纳斯达克100指数在地缘政治紧张局势下的波动情况，以及华尔街收盘前后的最新新闻和分析。这反映了市场对地缘政治风险的敏感度，对元宝产品经理了解市场情绪和投资者关注点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/india-s-jiostar-taps-ai-for-shopping-tv-movie-night-ideas": {
+    "title_clean": "JioStar：AI购物与影视推荐服务",
+    "summary": "印度流媒体平台JioStar引入生成式AI技术，通过对话为用户提供购物建议和影视内容推荐，旨在提升用户互动体验并增强平台粘性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing": {
+    "title_clean": "苹果供应商立讯精密在香港上市后股价下跌",
+    "summary": "苹果供应商立讯精密在香港上市首日股价下跌，此次融资243亿港元（31亿美元），是今年香港最大规模的IPO。这一动态可能影响苹果供应链稳定性，对元宝产品经理评估供应链风险和合作伙伴关系有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
     ],
     "v": 4
   }

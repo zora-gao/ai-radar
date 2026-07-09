@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T10:49:04.497Z",
+  "generated_at": "2026-07-09T14:41:37.353Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -377,8 +377,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.93,
-      "price_out": 3,
+      "price_in": 0.686,
+      "price_out": 2.156,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1000,52 +1000,6 @@
       "description_zh": "NVIDIA Nemotron™ 3 Nano Omni 是一种 30B-A3B 开放式多模式模型，旨在充当企业代理系统中的感知和上下文子代理。它接受文本、图像、视频和..."
     },
     {
-      "id": "poolside/laguna-xs.2:free",
-      "name": "Laguna XS.2 (free)",
-      "vendor": "Poolside",
-      "vendor_slug": "poolside",
-      "url": "https://openrouter.ai/poolside/laguna-xs.2-20260421",
-      "created_at": "2026-04-28T15:20:04Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Laguna XS.2 is the second-generation model in the XS size class from Poolside, their efficient coding agent series. It combines tool calling and reasoning capabilities with a compact footprint, offering...",
-      "description_zh": "Laguna XS.2 是其高效编码剂系列 Poolside XS 尺寸级别的第二代型号。它将工具调用和推理功能与紧凑的占地面积相结合，提供..."
-    },
-    {
-      "id": "poolside/laguna-xs.2",
-      "name": "Laguna XS.2",
-      "vendor": "Poolside",
-      "vendor_slug": "poolside",
-      "url": "https://openrouter.ai/poolside/laguna-xs.2-20260421",
-      "created_at": "2026-04-28T15:20:04Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.1,
-      "price_out": 0.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Laguna XS.2 is the second-generation model in the XS size class from Poolside, their efficient coding agent series. It combines tool calling and reasoning capabilities with a compact footprint, offering...",
-      "description_zh": "Laguna XS.2 是其高效编码剂系列 Poolside XS 尺寸级别的第二代型号。它将工具调用和推理功能与紧凑的占地面积相结合，提供..."
-    },
-    {
       "id": "poolside/laguna-m.1:free",
       "name": "Laguna M.1 (free)",
       "vendor": "Poolside",
@@ -1464,6 +1418,52 @@
       "supports_reasoning": true,
       "description": "DeepSeek V4 Pro is a large-scale Mixture-of-Experts model from DeepSeek with 1.6T total parameters and 49B activated parameters, supporting a 1M-token context window. It is designed for advanced reasoning, coding,...",
       "description_zh": "DeepSeek V4 Pro是DeepSeek推出的大规模Mixture-of-Experts模型，总参数为1.6T，激活参数为49B，支持1M-token上下文窗口。它专为高级推理、编码等而设计。"
+    },
+    {
+      "id": "deepseek/deepseek-v4-flash",
+      "name": "DeepSeek V4 Flash",
+      "vendor": "DeepSeek",
+      "vendor_slug": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-20260423",
+      "created_at": "2026-04-24T03:17:46Z",
+      "context_length": 1048576,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.09,
+      "price_out": 0.18,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
+      "description_zh": "DeepSeek V4 Flash 是 DeepSeek 的效率优化混合专家模型，总参数为 284B，激活参数为 13B，支持 1M 代币上下文窗口。它专为快速推理而设计......"
+    },
+    {
+      "id": "inclusionai/ling-2.6-1t",
+      "name": "Ling-2.6-1T",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-2.6-1t-20260423",
+      "created_at": "2026-04-23T12:43:58Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.075,
+      "price_out": 0.625,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": false,
+      "description": "Ling-2.6-1T is an instant (instruct) model from inclusionAI and the company’s trillion-parameter flagship, designed for real-world agents that require fast execution and high efficiency at scale. It uses a “fast...",
+      "description_zh": "Ling-2.6-1T是inclusionAI和该公司万亿参数旗舰产品的即时（指令）模型，专为需要大规模快速执行和高效率的现实世界代理而设计。它使用“快速..."
     }
   ]
 }

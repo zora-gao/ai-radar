@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发环境到生产环境的部署流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间的模型部署流程，为元宝产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -27127,6 +27127,176 @@
     "channels": [
       "商业化",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/ai-training-startup-mercor-discusses-20-billion-valuation": {
+    "title_clean": "AI训练公司Mercor寻求200亿美元估值融资",
+    "summary": "Mercor是一家通过丰富专业数据帮助改进AI模型的初创公司，正寻求以约200亿美元的估值进行新一轮融资。这反映了高质量训练数据在AI模型训练中的关键价值，以及市场对专业AI训练工具的高度认可。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/micron-raises-planned-spending-to-meet-memory-demand-video": {
+    "title_clean": "美光增加投资以满足内存芯片需求",
+    "summary": "美光宣布计划投资高达30亿美元，以加强美国半导体供应链，此举导致其股价上涨。这一投资反映了内存芯片需求的持续增长，对AI硬件基础设施和元宝底层算力资源供应有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model": {
+    "title_clean": "扎克伯格承诺以激进价格推出Meta首个付费AI产品",
+    "summary": "Meta CEO扎克伯格宣布将采用激进定价策略推出公司首个付费AI产品，意图在竞争激烈的AI工具市场中通过价格优势获取市场份额。这一动向表明大型科技公司正积极布局AI商业化，对元宝的产品定价策略和市场竞争格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-said-to-guide-us-offering-price-3-1-above-korea-close": {
+    "title_clean": "SK海力士美国IPO定价高于韩国收盘价3.1%",
+    "summary": "SK海力士计划在美国以每份美国存托凭证149美元的价格进行IPO，这一价格比韩国收盘价高出3.1%。尽管近期韩国内存市场波动，该公司仍坚持此定价策略，这对关注半导体行业动态和AI硬件供应链的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/micron-boosts-us-spending-to-250-billion-amid-memory-demand": {
+    "title_clean": "美光科技：美国内存芯片投资增至2500亿美元",
+    "summary": "美光科技宣布将增加在美国新工厂的投资至2500亿美元，以满足由全球人工智能需求激增带来的空前内存芯片需求。这一投资反映了AI发展对硬件基础设施的巨大需求，对元宝产品经理了解AI底层硬件支持与AI服务能力扩展的关系有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/racquel-oden-on-market-inflation-and-ai-rally-video": {
+    "title_clean": "Racquel Oden：市场、通胀与AI行情分析",
+    "summary": "汇丰财富管理主管Racquel Oden分享如何引导客户应对快速变化的市场叙事，强调关注长期基本面。此资讯为AI产品经理提供金融领域AI应用的市场视角，有助于理解AI在财富管理中的价值定位。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund": {
+    "title_clean": "Nandan Nilekani辞去Fundamentum GP职务，同时公司推出2亿美元第三基金",
+    "summary": "Nandan Nilekani辞去Fundamentum GP职务，但仍是该基金的锚定投资者。Fundamentum正在扩充领导团队，并专注于印度AI和金融科技初创企业的投资。这对元宝产品经理了解印度AI投资趋势和金融科技领域机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-09/bloomberg-reporters-find-posting-on-social-media-is-an-uncomfortable-challenge": {
+    "title_clean": "记者社交媒体挑战遭遇冷遇",
+    "summary": "记者在社交媒体上的挑战活动反响平平，用户反映发布内容感觉像是在表演而非真实交流。这反映了社交媒体内容真实性需求与当前内容形式之间的矛盾，对元宝产品经理在内容真实性设计和用户互动方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026": {
+    "title_clean": "欧洲创投资金达四年最高水平，英国增长明显",
+    "summary": "根据Crunchbase数据，欧洲初创企业在第二季度创下了四年来最强的创投资金季度记录，共筹集了240亿美元，环比增长约三分之一。英国表现尤为突出，并购活动保持稳定，这表明欧洲AI创业生态系统正在复苏，对元宝产品经理评估欧洲市场机会和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-09/ai-data-center-boom-hits-a-labor-shortage-as-skilled-workers-run-out": {
+    "title_clean": "数据中心建设面临劳动力短缺问题",
+    "summary": "数据中心建设面临劳动力短缺问题，承包商Sterling Infrastructure和Comfort Systems USA等公司面临工作量超过熟练工供应的情况，这可能影响数据中心建设进度和成本，对AI基础设施扩张构成潜在挑战。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/iran-ceasefire-was-built-to-fail-says-marc-champion-video": {
+    "title_clean": "伊朗停火注定失败：Marc Champion观点",
+    "summary": "Bloomberg Opinion专栏作家Marc Champion分析美国连续两天打击伊朗的行为，认为当前停火协议注定失败，这可能影响中东和平进程。对产品经理参考价值有限，属于国际政治新闻，与AI产品无直接关联。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/wall-street-banks-miss-multibillion-dollar-ai-deals-in-hong-kong": {
+    "title_clean": "华尔街银行错失香港AI巨头58亿美元融资",
+    "summary": "本周香港AI企业完成58亿美元融资，华尔街银行几乎缺席这一交易。这表明中国AI企业在香港融资市场的活跃度提升，传统金融机构可能错失了AI领域的重大商业机会，对元宝产品经理了解AI融资趋势和区域市场动态有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks": {
+    "title_clean": "NHS AI血液测试：减少侵入性子宫癌检查",
+    "summary": "英国NHS多家医院准备使用AI血液测试，在女性接受侵入性子宫癌检查前进行评估。该技术可减少不必要的侵入性检查，提高诊断效率，为医疗AI在癌症筛查场景的应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/a-startup-that-builds-ai-agents-used-one-to-raise-100-million": {
+    "title_clean": "AI代理构建公司：用自研AI助手成功完成1亿美元融资",
+    "summary": "一家帮助企业构建AI代理的创业公司，通过在实际融资过程中部署自研AI助手，证明了该技术的实用价值。这一案例展示了AI代理在企业服务场景中的实际应用效果，为元宝产品经理提供了AI代理技术商业化落地的参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
     ],
     "v": 4
   }

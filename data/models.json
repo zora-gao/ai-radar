@@ -1,8 +1,158 @@
 {
-  "generated_at": "2026-07-09T14:41:37.353Z",
+  "generated_at": "2026-07-09T17:51:06.976Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "openai/gpt-5.6-luna-pro",
+      "name": "GPT-5.6 Luna Pro",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-5.6-luna-pro-20260709",
+      "created_at": "2026-07-09T09:54:27Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 6,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-5.6 Luna Pro is the same underlying model as GPT-5.6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks.",
+      "description_zh": "GPT-5.6 Luna Pro 与 GPT-5.6 Luna 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。"
+    },
+    {
+      "id": "openai/gpt-5.6-luna",
+      "name": "GPT-5.6 Luna",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-5.6-luna-20260709",
+      "created_at": "2026-07-09T09:54:24Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 6,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-5.6 Luna is a fast, cost-efficient model in OpenAI's GPT-5.6 series. It is suited for high-volume, latency-sensitive tasks such as chat, classification, and lightweight agentic workflows, providing capable reasoning for...",
+      "description_zh": "GPT-5.6 Luna 是 OpenAI GPT-5.6 系列中快速、经济高效的型号。它适用于大容量、延迟敏感的任务，例如聊天、分类和轻量级代理工作流程，为...提供强大的推理能力。"
+    },
+    {
+      "id": "openai/gpt-5.6-terra-pro",
+      "name": "GPT-5.6 Terra Pro",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-5.6-terra-pro-20260709",
+      "created_at": "2026-07-09T09:54:21Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2.5,
+      "price_out": 15,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-5.6 Terra Pro is the same underlying model as GPT-5.6 Terra, served with reasoning.mode set to pro for higher-quality responses on complex tasks.",
+      "description_zh": "GPT-5.6 Terra Pro 与 GPT-5.6 Terra 的底层模型相同，将 Reasoning.mode 设置为 pro，以便对复杂任务做出更高质量的响应。"
+    },
+    {
+      "id": "openai/gpt-5.6-terra",
+      "name": "GPT-5.6 Terra",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-5.6-terra-20260709",
+      "created_at": "2026-07-09T09:54:17Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2.5,
+      "price_out": 15,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-5.6 Terra is a balanced model in OpenAI's GPT-5.6 series, positioned between the flagship Sol tier and the cost-efficient Luna tier. It is suited for everyday coding, reasoning, and agentic...",
+      "description_zh": "GPT-5.6 Terra 是 OpenAI GPT-5.6 系列中的平衡型号，定位于旗舰 Sol 层和经济高效的 Luna 层之间。它适用于日常编码、推理和代理......"
+    },
+    {
+      "id": "openai/gpt-5.6-sol-pro",
+      "name": "GPT-5.6 Sol Pro",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol-pro-20260709",
+      "created_at": "2026-07-09T09:54:14Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 5,
+      "price_out": 30,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-5.6 Sol Pro is the same underlying model as GPT-5.6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks.",
+      "description_zh": "GPT-5.6 Sol Pro 与 GPT-5.6 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。"
+    },
+    {
+      "id": "openai/gpt-5.6-sol",
+      "name": "GPT-5.6 Sol",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol-20260709",
+      "created_at": "2026-07-09T09:54:10Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 5,
+      "price_out": 30,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-5.6 Sol is the flagship model in OpenAI's GPT-5.6 series. It is suited for complex reasoning, coding, and agentic workflows, and is particularly strong at command-line and multi-step coding tasks...",
+      "description_zh": "GPT-5.6 Sol是OpenAI GPT-5.6系列中的旗舰型号。它适用于复杂的推理、编码和代理工作流程，并且在命令行和多步骤编码任务方面尤其强大......"
+    },
     {
       "id": "x-ai/grok-4.5",
       "name": "Grok 4.5",
@@ -377,8 +527,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.686,
-      "price_out": 2.156,
+      "price_in": 0.54,
+      "price_out": 1.76,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -424,7 +574,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.74,
+      "price_in": 0.72,
       "price_out": 3.5,
       "is_free": false,
       "supports_tools": true,
@@ -1320,150 +1470,6 @@
       "supports_reasoning": true,
       "description": "Qwen3.6-Max-Preview is a proprietary frontier model from Alibaba Cloud built on a sparse mixture-of-experts architecture with approximately 1 trillion total parameters. It is optimized for agentic coding, tool use, and...",
       "description_zh": "Qwen3.6-Max-Preview是阿里云专有的前沿模型，建立在稀疏专家混合架构上，总参数约为1万亿个。它针对代理编码、工具使用和...进行了优化。"
-    },
-    {
-      "id": "qwen/qwen3.6-27b",
-      "name": "Qwen3.6 27B",
-      "vendor": "Qwen",
-      "vendor_slug": "qwen",
-      "url": "https://openrouter.ai/qwen/qwen3.6-27b-20260422",
-      "created_at": "2026-04-27T01:57:44Z",
-      "context_length": 262144,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.285,
-      "price_out": 2.4,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Qwen3.6 27B is a dense 27-billion-parameter language model from the Qwen Team at Alibaba, released in April 2026. It features hybrid multimodal capabilities — accepting text, image, and video inputs...",
-      "description_zh": "Qwen3.6 27B 是阿里巴巴 Qwen 团队于 2026 年 4 月发布的一个密集的 270 亿参数语言模型。它具有混合多模态功能 - 接受文本、图像和视频输入......"
-    },
-    {
-      "id": "openai/gpt-5.5-pro",
-      "name": "GPT-5.5 Pro",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-5.5-pro-20260423",
-      "created_at": "2026-04-24T17:31:36Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 30,
-      "price_out": 180,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-5.5 Pro is OpenAI’s high-capability model optimized for deep reasoning and accuracy on complex, high-stakes workloads. It features a 1M+ token context window (922K input, 128K output) with support for...",
-      "description_zh": "GPT-5.5 Pro 是 OpenAI 的高性能模型，针对复杂、高风险工作负载的深度推理和准确性进行了优化。它具有 1M+ 令牌上下文窗口（922K 输入，128K 输出），支持..."
-    },
-    {
-      "id": "openai/gpt-5.5",
-      "name": "GPT-5.5",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-5.5-20260423",
-      "created_at": "2026-04-24T17:31:33Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 30,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-5.5 is OpenAI’s frontier model designed for complex professional workloads, building on GPT-5.4 with stronger reasoning, higher reliability, and improved token efficiency on hard tasks. It features a 1M+ token...",
-      "description_zh": "GPT-5.5是OpenAI专为复杂专业工作负载而设计的前沿模型，建立在GPT-5.4的基础上，具有更强的推理能力、更高的可靠性以及在困难任务上提高的代币效率。它具有 1M+ 代币..."
-    },
-    {
-      "id": "deepseek/deepseek-v4-pro",
-      "name": "DeepSeek V4 Pro",
-      "vendor": "DeepSeek",
-      "vendor_slug": "deepseek",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-20260423",
-      "created_at": "2026-04-24T03:17:59Z",
-      "context_length": 1048576,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.435,
-      "price_out": 0.87,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "DeepSeek V4 Pro is a large-scale Mixture-of-Experts model from DeepSeek with 1.6T total parameters and 49B activated parameters, supporting a 1M-token context window. It is designed for advanced reasoning, coding,...",
-      "description_zh": "DeepSeek V4 Pro是DeepSeek推出的大规模Mixture-of-Experts模型，总参数为1.6T，激活参数为49B，支持1M-token上下文窗口。它专为高级推理、编码等而设计。"
-    },
-    {
-      "id": "deepseek/deepseek-v4-flash",
-      "name": "DeepSeek V4 Flash",
-      "vendor": "DeepSeek",
-      "vendor_slug": "deepseek",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-20260423",
-      "created_at": "2026-04-24T03:17:46Z",
-      "context_length": 1048576,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.09,
-      "price_out": 0.18,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
-      "description_zh": "DeepSeek V4 Flash 是 DeepSeek 的效率优化混合专家模型，总参数为 284B，激活参数为 13B，支持 1M 代币上下文窗口。它专为快速推理而设计......"
-    },
-    {
-      "id": "inclusionai/ling-2.6-1t",
-      "name": "Ling-2.6-1T",
-      "vendor": "Inclusionai",
-      "vendor_slug": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-2.6-1t-20260423",
-      "created_at": "2026-04-23T12:43:58Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.075,
-      "price_out": 0.625,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "Ling-2.6-1T is an instant (instruct) model from inclusionAI and the company’s trillion-parameter flagship, designed for real-world agents that require fast execution and high efficiency at scale. It uses a “fast...",
-      "description_zh": "Ling-2.6-1T是inclusionAI和该公司万亿参数旗舰产品的即时（指令）模型，专为需要大规模快速执行和高效率的现实世界代理而设计。它使用“快速..."
     }
   ]
 }

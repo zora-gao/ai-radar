@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键迁移功能，简化了AI模型部署流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI服务部署效率。",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键迁移功能，简化了AI模型从开发环境到生产环境的部署流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -27609,6 +27609,212 @@
       "AI助手",
       "服务场景",
       "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/opinion-robotics-isn-t-living-up-to-the-hype-video": {
+    "title_clean": "Robotics Isn't Living Up to the Hype：机器人技术未达预期",
+    "summary": "在Automate展会上，彭博观点专栏作者Thomas Black观察到大量机器人，但指出距离这些机器人的广泛日常应用仍有很长路要走。这对AI产品经理的参考价值在于评估AI实体化落地的现实挑战与用户期望差距。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia": {
+    "title_clean": "Gradium：AI语音初创公司获1亿美元种子轮融资",
+    "summary": "法国AI语音初创公司Gradium获得1亿美元种子轮融资，由Nvidia领投。资金将用于在美国湾区设立办公室，争夺AI人才，强化其在全球领先AI生态系统中的地位。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-09/longtime-podcast-hosts-go-quiet-as-video-dominates": {
+    "title_clean": "播客时代落幕：资深主持人因视频崛起而停更",
+    "summary": "知名播客主持人如Marc Maron、Al Franken等纷纷停更，反映视频内容崛起对传统音频媒体的冲击。这对产品经理评估多模态内容策略和用户消费习惯变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release": {
+    "title_clean": "政府如何评估OpenAI前沿模型的安全性",
+    "summary": "文章探讨了政府与OpenAI和Anthropic之间关于前沿模型安全评估的对话内容，虽然具体对话细节不明确，但反映了AI安全监管与行业合作的重要趋势，对元宝产品经理了解AI安全监管框架和行业合规要求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/wayve-staff-sold-stock-at-10-discount-on-lse-s-pisces-exchange": {
+    "title_clean": "Wayve员工在伦敦证券交易所Pisce Exchange以10%折扣出售股票",
+    "summary": "自动驾驶技术初创公司Wayve Technologies的员工在伦敦新私人市场以低于公司先前估值10%的价格出售股票，这反映了投资者对自动驾驶领域估值调整的趋势，对AI服务商业化路径有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/the-space-boom-s-biggest-bottleneck-video": {
+    "title_clean": "太空经济最大瓶颈：火箭发射能力不足",
+    "summary": "尽管太空经济资金充裕，SpaceX完成IPO、蓝色起源首次外部融资，但火箭发射能力成为制约行业发展的最大瓶颈。这对元宝产品经理提示：高价值资源分配与供需平衡是服务场景设计的关键考量。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/sk-hynix-draws-massive-investor-demand-video": {
+    "title_clean": "SK海力士美国IPO获超额认购",
+    "summary": "SK海力士美国上市申请获得超过7倍认购，显示投资者对该韩国存储芯片制造商的强烈需求，尽管其近期股价有所波动。这反映了市场对AI硬件基础设施的持续关注，对元宝产品经理了解AI产业链上游投资动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/meta-s-zuckerberg-says-exploring-ai-cloud-business-makes-sense": {
+    "title_clean": "Meta 探索 AI 云业务：Zuckerberg 表示此举合理",
+    "summary": "Meta CEO Zuckerberg 表示公司需要更多计算能力来支持 AI 发展，正在探索进入 AI 云业务领域的可能性。这一动向表明科技巨头正积极布局 AI 基础设施市场，对元宝产品经理了解行业资源竞争格局和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai": {
+    "title_clean": "Google将披露AI生成广告",
+    "summary": "Google宣布将披露哪些广告使用了AI生成内容，此前仅要求政治广告披露AI使用情况。这一政策变化有助于提高广告透明度，防止AI生成内容被用于误导性广告，对元宝产品经理了解AI内容监管趋势和广告透明度要求具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos": {
+    "title_clean": "Meta AI图像生成器使用Instagram照片问题",
+    "summary": "Muse Image允许用户通过标记公开Instagram账户，使用其照片生成AI图像。这引发了隐私问题，因为任何公开Instagram账户的照片都可能被他人用于AI生成，用户需要了解如何保护自己的照片不被未经授权使用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/minimax-seeks-1-9-billion-from-share-sale-convertible-bond": {
+    "title_clean": "MiniMax寻求19亿美元融资：通过新股发行和可转换债券",
+    "summary": "MiniMax Group计划通过发行新股和可转换债券筹集最多14.54亿港元(约1.9亿美元)资金。这一融资动向反映了MiniMax作为AI领域重要玩家的资本需求和市场信心，对元宝产品经理评估AI行业融资趋势和竞争对手资金状况有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/bloomberg-tech-7-09-2026-video": {
+    "title_clean": "SK海力士美国上市需求激增 | Bloomberg Tech",
+    "summary": "SK海力士美国上市需求大幅超额认购，这将成为美国历史上规模最大的外国首次公开发行。同时，美光科技也增加了投资支出。这一动态可能影响全球存储芯片市场竞争格局和资本流向，对AI硬件供应链相关产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/california-lawmakers-seek-to-boost-reserves-ahead-of-hot-ai-ipos": {
+    "title_clean": "加州立法者寻求增加储备金以应对热门AI公司IPO",
+    "summary": "AI驱动的股市上涨使加州财政收入大幅增加，立法者正提议改革州财政储备制度，以在未来热门AI公司IPO时获取更多收益。这反映了AI产业对地方财政的显著影响，以及政府如何调整政策以捕捉科技红利。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87": {
+    "title_clean": "AWS GraphRAG：药物研发周期缩短87%的AI工具",
+    "summary": "AWS GraphRAG在制药环境中将药物研发周期缩短了87%，通过整合之前分离的专有数据源实现这一加速。这对元宝产品经理展示了AI在专业领域加速研发的潜力，特别是在需要处理复杂数据关系的场景中。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/jpmorgan-says-investors-adapt-to-everywhere-ai-trade-video": {
+    "title_clean": "摩根大通：投资者适应'无处不在'的AI交易",
+    "summary": "摩根大通资产管理全球市场策略师表示，人工智能已成为'无处不在'的交易主题，投资者正提高辨别AI投资机会的能力。这对元宝产品经理了解AI投资趋势和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/terawulf-eyes-3-5-billion-for-anthropic-leased-data-center": {
+    "title_clean": "TeraWulf：融资35亿美元建设Anthropic数据中心",
+    "summary": "TeraWulf公司计划通过债务融资筹集35亿美元，在肯塔基州建设数据中心园区，这是其首次进入杠杆贷款市场。该数据中心将租给Anthropic使用，反映了AI基础设施投资热潮，对元宝产品经理了解AI算力资源布局和成本结构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/dronemaker-helsing-alters-staff-stock-plan-before-funding-round": {
+    "title_clean": "Dronemaker Helsing：欧洲国防初创公司调整员工股权计划",
+    "summary": "欧洲国防初创公司Helsing在完成最大一轮融资前调整了内部股权计划，此举引起部分员工不满。这反映了高增长初创公司在融资前调整股权结构的常见做法，对元宝产品经理了解企业融资过程中的员工激励策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
     ],
     "v": 4
   }

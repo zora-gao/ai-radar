@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间的模型部署流程，为元宝产品经理提供了跨平台模型迁移的解决方案参考。",
+    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发到部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI服务部署效率。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -29081,6 +29081,56 @@
     "channels": [
       "商业化",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft": {
+    "title_clean": "Apple起诉OpenAI涉嫌商业机密盗窃",
+    "summary": "Apple指控OpenAI高级管理层包括一名前员工存在不当行为，涉嫌窃取商业机密。这对AI行业竞争格局和商业伦理有重要参考价值，产品经理需关注此类知识产权纠纷对AI产品开发的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/lumen-completes-acquisition-alkira-video": {
+    "title_clean": "Lumen 收购云网络公司 Alkira",
+    "summary": "Lumen 完成 Alkira 的收购，这是一家云原生网络公司。此次收购将增强 Lumen 在云网络服务领域的能力，为元宝产品经理提供云服务整合与网络基础设施方面的行业动态参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/sk-chairman-says-company-may-offer-memory-as-a-service": {
+    "title_clean": "SK集团董事长：公司可能推出'内存即服务'",
+    "summary": "SK海力士正考虑以新方式销售内存芯片访问权限，包括推出'内存即服务'概念，允许客户从这家韩国公司租用内存使用，这可能改变传统硬件销售模式，为AI服务提供基础设施支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case": {
+    "title_clean": "苹果起诉OpenAI涉嫌商业秘密盗窃",
+    "summary": "苹果公司起诉OpenAI及其硬件负责人指控其协调行动窃取即将发布产品的商业秘密信息。这反映了AI行业巨头间知识产权保护的竞争态势，对元宝产品经理了解AI企业间法律边界和商业机密保护策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
     ],
     "v": 4
   }

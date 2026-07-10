@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键迁移功能，简化了AI模型从开发到部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI工作流和多云部署策略。",
+    "summary": "该工具允许用户将Hugging Face上的模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -28122,6 +28122,155 @@
     "channels": [
       "商业化",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter": {
+    "title_clean": "OpenAI称GPT 5.6是微软Copilot 365的首选模型",
+    "summary": "OpenAI宣布其新一代模型将继续为微软的办公和生产力应用套件提供支持，并明确表示GPT 5.6是微软Copilot 365的首选模型，这表明两家公司在AI产品集成方面持续深化合作，有助于元宝了解企业级AI助手的市场格局和合作模式。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/emerging-ai-sovereignty-isn-t-self-sufficiency-video": {
+    "title_clean": "Emerging：AI主权不是'自给自足'",
+    "summary": "探讨AI如何成为地缘政治新战场，Fractal Analytics联合创始人Srikanth Velamakanni分析了各国重新思考AI主权的原因及智能相互依赖的重要性，为产品经理提供AI战略布局的宏观视角。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043310&idx=2&sn=73a45152feabc4b9830747112268d132": {
+    "title_clean": "AI时代的编程语言：中国底层创新",
+    "summary": "中国推出面向AI时代的底层编程语言创新，可能对AI开发工具链和编程范式产生影响。产品经理可关注这一创新如何改变AI应用开发流程，是否会影响元宝的代码生成或辅助编程功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043311&idx=2&sn=885ac0773cd21b913494ab37cb2bb081": {
+    "title_clean": "中国团队开源最适合机器人的视频基座模型",
+    "summary": "中国团队开源了一款专为机器人设计的视频基座模型，该模型能够为机器人提供视觉理解和交互能力，有助于提升机器人在复杂环境中的自主操作能力，对AI助手和AI Agent在物理世界中的应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/crypto-criminal-accused-of-crypto-crimes-again-while-in-jail": {
+    "title_clean": "加密货币罪犯在狱中再次涉足加密犯罪",
+    "summary": "一名已被定罪的加密货币罪犯在服刑期间再次涉足加密犯罪活动，表明加密犯罪即使在监禁环境下仍可能持续，这对加密货币安全监管和监狱管理提出了挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/nexchip-set-to-debut-in-hong-kong-after-890-million-listing": {
+    "title_clean": "Nexchip：中国芯片公司香港上市融资8.9亿美元",
+    "summary": "Nexchip半导体公司通过股票发售筹集8.9亿美元，将于周五在香港开始交易。此次上市测试了在大量中国企业上市后，投资者对中国芯片制造商的接受度，对元宝产品经理了解AI硬件供应链和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role": {
+    "title_clean": "OpenAI二号高管Fidji Simo离职",
+    "summary": "OpenAI二号高管Fidji Simo因产假时间超出预期而辞去全职职务，这一领导层变动发生在公司关键时期，可能影响OpenAI的战略决策和产品发展方向，对元宝产品经理了解AI行业高管变动及其潜在影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/newsletter-july-9-2026": {
+    "title_clean": "Q2 AI市场动态与最大融资轮次分析",
+    "summary": "本文分析了Q2科技领域最活跃的市场和最重要的融资动态，提供了分析师视角下的关键趋势解读，帮助产品经理了解AI市场格局变化和资本流向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic": {
+    "title_clean": "马斯克赞扬Anthropic，承诺不会切断其模型服务",
+    "summary": "马斯克公开赞扬Anthropic的Mythos/Fable平台，并承诺不会切断其模型服务。这涉及约400亿美元的业务价值，表明AI大模型托管服务领域的重要合作动态，对元宝产品经理评估云服务合作与生态建设有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests": {
+    "title_clean": "JPMorgan：AI投资组合管理工具",
+    "summary": "摩根大通开发AI投资代理，在回测中表现超越60/40传统投资组合。这反映了金融机构正在探索AI在投资决策中的应用，对AI助手在金融场景的落地有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-09/robinhood-cio-discusses-trends-as-mag-7-underperform-video": {
+    "title_clean": "Robinhood CIO 探讨市场趋势：'漂亮七巨头'表现不佳",
+    "summary": "Robinhood首席投资官Stephanie Guild在交易日前讨论当前市场动态，重点分析了'漂亮七巨头'股票表现不佳的原因及影响。这对元宝产品经理了解金融科技平台如何解读市场趋势、提供投资洞察有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/gates-heir-s-shopping-app-took-credit-for-sales-it-didn-t-drive": {
+    "title_clean": "Gates Heir's Shopping App：广告营销购物助手",
+    "summary": "Phia是由比尔·盖茨女儿创立的广告营销购物助手应用，被指控夸大其销售贡献。该应用自称能帮助用户找到最低价格商品，但面临虚假宣传质疑，这对AI购物助手类产品的营销边界和诚信问题有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
     ],
     "v": 4
   }

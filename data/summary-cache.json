@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发环境到生产环境的部署流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
+    "summary": "该工具实现Hugging Face模型到Amazon SageMaker Studio的一键迁移，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型部署的解决方案参考，有助于优化AI服务部署效率和用户体验。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -28816,6 +28816,184 @@
     "channels": [
       "商业化",
       "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs": {
+    "title_clean": "SK海力士：美国史上最大规模IPO，获建厂要求",
+    "summary": "SK海力士完成美国史上最大规模IPO，融资265亿美元。随着AI芯片热潮兴起，该公司与三星被要求在美国建设新工厂，反映AI芯片供应链本地化趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales": {
+    "title_clean": "美国放宽对阿联酋AI芯片出口限制",
+    "summary": "美国政府计划放宽对阿联酋的出口限制，允许购买包括商业卫星在内的先进技术，这将使阿联酋能够获得更多AI芯片，可能影响全球AI芯片供应链和市场格局，对元宝产品经理了解AI硬件供应变化和潜在市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-on-sk-hynix-debut-ai-demand-and-us-plans-video": {
+    "title_clean": "SK集团董事长谈SK海力士美国上市、AI需求及美国计划",
+    "summary": "SK集团董事长崔泰旭表示SK海力士在美国上市是\"梦想成真\"，并讨论了提高AI芯片产能的计划。作为全球主要存储芯片制造商，SK海力士的AI战略和扩张计划对AI硬件供应链具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/thornburg-s-di-zhou-sees-memory-supercycle-video": {
+    "title_clean": "Thornburg投资经理Di Zhou：内存超级周期已至",
+    "summary": "Thornburg投资管理公司组合经理Di Zhou表示，当前正处于内存超级周期，SK海力士美国存托凭证上市表现强劲，开盘价高于发行价。这一市场动态对AI硬件基础设施投资具有重要参考价值，可能影响AI产品经理对底层硬件成本和供应链策略的判断。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/sk-chairman-says-he-has-much-much-bigger-us-investment-plan": {
+    "title_clean": "SK集团董事长承诺扩大美国投资计划",
+    "summary": "SK集团董事长崔泰在旗下存储芯片业务完成美国股票发行后，表示计划在美国进行更大规模的投资。这反映了韩国科技巨头对美国市场的战略重视，对元宝产品经理了解国际科技企业投资动向和市场拓展策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-has-much-much-bigger-us-investment-plan-video": {
+    "title_clean": "SK集团董事长宣布扩大美国投资计划",
+    "summary": "SK集团会长崔泰源在彭博科技节目中表示将大幅增加在美国的投资规模，但未披露具体金额和领域。作为全球半导体巨头SK海力士的母公司，此举可能影响全球芯片产业布局，对关注国际供应链和半导体行业动态的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-adrs-surge-after-record-26-billion-us-offering-video": {
+    "title_clean": "SK海力士创纪录265亿美元美国上市后ADR上涨",
+    "summary": "韩国存储芯片制造商SK海力士在美国完成创纪录的265亿美元首次公开募股，成为外国公司在美国最大规模的上市。其美国存托凭证(ADR)在上市后价格上涨，显示市场对其业务前景看好，这对AI芯片供应链和存储市场具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-has-some-confidence-demand-will-grow-video": {
+    "title_clean": "SK集团董事长：客户需求增长信心增强",
+    "summary": "SK集团会长崔泰源表示，客户正要求公司扩大业务规模，他对需求增长抱有一定信心。这一信号可能预示着AI芯片等关键组件市场需求持续扩张，对元宝产品经理评估硬件供应链和AI服务能力扩展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-10/delayed-xbox-layoffs-leave-employees-scared-and-nervous": {
+    "title_clean": "Xbox大规模裁员引发员工恐慌",
+    "summary": "Xbox本周裁员1600人，并计划在未来12个月内再裁员1600人，导致剩余员工处于高度紧张状态。这一大规模裁员反映了游戏行业面临的挑战，对元宝产品经理了解科技巨头业务调整和员工稳定性管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/ai-bust-would-be-worse-than-dot-com-bubble-says-noble-video": {
+    "title_clean": "AI泡沫破裂影响或超互联网泡沫",
+    "summary": "美国股市新高主要由少数股票推动，华尔街人士将其与互联网泡沫前夜相提并论。Noble Capital管理合伙人George Noble表示，AI泡沫破裂的影响将比互联网泡沫更为显著，这对AI产品经理评估市场风险和商业可持续性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/semiconductor-stocks-are-overbought-lisa-shalett-warns-video": {
+    "title_clean": "摩根士丹利警告半导体股票超买",
+    "summary": "摩根士丹利首席投资官Lisa Shalett指出半导体股票已明显超买，部分指数接近高点。这一市场信号对元宝产品经理评估AI硬件产业链投资热度及成本波动风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/morgan-stanley-sees-pressure-rising-on-chipmakers-pricing-power": {
+    "title_clean": "摩根士丹利：芯片制造商定价能力面临压力",
+    "summary": "摩根士丹利分析师Lisa Shalett提醒投资者对芯片制造商保持谨慎，随着证据表明其定价能力有限，芯片股可能因过度乐观而上涨过快。这对AI硬件成本和供应链策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/echostar-bulls-say-it-offers-traders-discounted-spacex-exposure": {
+    "title_clean": "EchoStar：提供SpaceX股票投资机会",
+    "summary": "EchoStar被分析师认为为投资者提供了更便宜的SpaceX股票投资渠道，使公众市场投资者能够间接接触SpaceX的航天技术公司股份。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-calls-sk-hynix-us-debut-a-dream-come-true-video": {
+    "title_clean": "SK集团董事长称SK海力士美国上市是'梦想成真'",
+    "summary": "SK集团董事长崔泰源表示SK海力士在纳斯达克上市是其'梦想成真'，并希望获得良好回报后扩大美国存托凭证(ADR)规模。这反映了韩国科技巨头加速国际化布局的战略动向，对元宝产品经理了解全球科技企业扩张策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/novogratz-morphs-galaxy-into-ai-landlord-one-gigawatt-at-a-time": {
+    "title_clean": "Novogratz：将Galaxy转型为AI能源房东",
+    "summary": "Mike Novogratz计划将其公司Galaxy Digital转型为AI能源房东，以每千兆瓦的速度推进。这反映了传统加密货币公司向AI和能源领域扩展的趋势，对元宝产品经理了解AI企业跨界布局和能源AI化机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
     ],
     "v": 4
   }

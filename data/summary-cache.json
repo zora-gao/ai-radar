@@ -28562,5 +28562,163 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/cuerpo-window-of-opportunity-for-joint-eu-debt-video": {
+    "title_clean": "西班牙财长：欧盟共同借贷存在窗口期",
+    "summary": "西班牙经济部长卡洛斯·奎尔波表示，尽管本周提出的欧盟共同借贷倡议最初遭遇质疑，但他认为现在是重新考虑这一想法的时机，这反映了欧盟内部在财政政策协调上的新动向。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team": {
+    "title_clean": "英伟达CEO提出工程师评估新标准：基于token预算的团队优化策略",
+    "summary": "英伟达CEO黄仁勋在GTC 2026上提出，工程师的价值评估应与其消耗的token预算挂钩，通过优化token使用效率来控制团队规模而不影响产出。这一策略对AI产品经理具有重要参考价值，特别是在资源有限情况下如何平衡团队规模与AI能力投入。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/europe-s-space-race-bloomberg-tech-europe-7-10-2026-video": {
+    "title_clean": "欧洲太空竞赛：Bloomberg Tech探讨欧洲太空经济发展",
+    "summary": "Bloomberg Tech节目聚焦欧洲发展太空经济的努力，分析美国SpaceX技术实力对欧洲的竞争压力，探讨欧洲在太空领域的战略布局与经济潜力，为元宝产品经理提供科技产业竞争格局的参考视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/eu-escalates-meta-probe-over-addictive-design-that-hooks-children": {
+    "title_clean": "欧盟调查Meta针对儿童成瘾性设计指控",
+    "summary": "欧盟指控Meta平台公司使用成瘾性设计且忽视对儿童的风险，正在加强对这家美国社交媒体公司的调查。这一监管动态对产品经理有参考价值，特别是在设计AI助手和社交产品时需考虑用户健康与合规边界。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-what-to-know-about-us-listing-how-it-became-an-ai-powerhouse": {
+    "title_clean": "SK海力士：从挣扎求生到万亿市值芯片制造商",
+    "summary": "SK海力士作为一家内存芯片制造商，曾经历生存危机，如今已成为韩国市值第二大的上市公司，仅次于三星。这一转变对AI硬件领域具有重要参考价值，特别是对理解存储芯片行业在AI时代的发展路径和战略决策。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-adr-allocation-to-key-investors-said-to-be-scaled-back": {
+    "title_clean": "SK海力士美国ADR分配规模缩减",
+    "summary": "SK海力士265亿美元美国上市项目中，主要投资者获得的美国存托凭证(ADR)数量少于预期，其他投资者则获得了更多配额。这一变化反映了大型科技IPO的分配策略调整，对元宝产品经理了解资本市场对AI硬件企业的投资态度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/web-scraper-sets-1-million-bug-bounty-as-industry-scrutinized": {
+    "title_clean": "Bright Data：网络爬虫公司设立百万美元漏洞赏金计划",
+    "summary": "Bright Data作为以色列网络爬虫工具和数据集供应商，宣布设立100万美元的漏洞赏金计划，以识别不良行为者，同时应对执法部门对其业务的日益严格审查。此举反映了数据采集行业面临的安全与合规挑战，对元宝产品经理在数据获取与合规边界方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/deutsche-telekom": {
+    "title_clean": "德国电信：利用AI重塑电信服务",
+    "summary": "德国电信正通过OpenAI技术实现AI化转型，革新客户服务、员工工作流程、网络运营及语音服务未来，展示了传统电信行业与AI深度融合的实践案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/insight-with-haslinda-amin-7-10-2026-video": {
+    "title_clean": "SK海力士借AI热潮成功登陆美国股市",
+    "summary": "SK海力士凭借AI业务增长推动成功在美国上市，反映了AI芯片市场的强劲需求。这一动态对元宝产品经理了解AI硬件与软件协同发展的市场趋势，以及评估AI产业链投资机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/bnp-likes-china-tech-stocks-as-ai-rotation-play-unfolds-video": {
+    "title_clean": "BNP看好中国科技股：AI轮动投资策略",
+    "summary": "法国巴黎资产管理公司投资经理Sophie Huynh讨论科技股前景，看好中国科技股在AI轮动投资策略中的价值。这反映了国际资本对中国AI相关科技企业的关注，对元宝产品经理了解全球AI投资趋势和市场信号有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/torch-attention-profile": {
+    "title_clean": "PyTorch 性能剖析(第三部分)：注意力机制性能分析",
+    "summary": "本文是PyTorch性能剖析系列第三部分，专注于分析注意力机制在深度学习模型中的性能表现。文章探讨了如何有效识别和优化注意力计算中的性能瓶颈，为AI产品经理在模型性能优化方面提供技术参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/softbank-names-ex-goldman-sachs-trader-agne-to-lead-vision-fund-finances": {
+    "title_clean": "软银任命前高盛交易员领导愿景基金财务",
+    "summary": "软银集团任命前高盛交易员Mark Agne领导愿景基金的财务和技术部门，这反映了软银对专业金融人才在AI投资领域的重视，对元宝产品经理了解AI投资机构的决策机制和人才策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/china-omits-job-goal-in-five-year-plan-for-first-time-in-decades": {
+    "title_clean": "中国首次在五年计划中 omit 就业目标",
+    "summary": "中国首次在五年计划中未设定城镇就业数量目标，这可能是由于人工智能在经济中普及导致就业不确定性增加。这一政策变化反映了AI对就业市场的深远影响，对AI产品经理了解政策环境与市场趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

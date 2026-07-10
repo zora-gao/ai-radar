@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具允许用户将Hugging Face上的模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间的模型部署流程，为元宝产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -28270,6 +28270,295 @@
     "channels": [
       "服务场景",
       "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/repstandard": {
+    "title_clean": "RepStandard：实时计数健身次数的计算机视觉工具",
+    "summary": "RepStandard是一款计算机视觉工具，能够实时计数用户的健身重复次数。该产品通过视觉识别技术自动追踪并记录运动次数，为健身爱好者提供准确的训练数据，对元宝在运动健身场景下的AI应用开发具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notion": {
+    "title_clean": "Ship OS by Notion：AI原生软件发布工具",
+    "summary": "Notion推出Ship OS，这是一款专为AI原生设计的软件发布工具，旨在简化软件从开发到上线的全流程。作为Notion生态系统的新成员，它可能整合AI能力来自动化测试、部署和监控，为产品经理提供新的软件发布思路和竞品参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chatcut-ai-video-editor": {
+    "title_clean": "ChatCut：AI视频编辑工具",
+    "summary": "ChatCut是一款可在ChatGPT、桌面和网页端使用的AI视频编辑工具，为用户提供便捷的视频编辑功能。该产品将AI能力融入视频编辑场景，可能对元宝拓展多模态交互和视频处理功能有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sim-studio": {
+    "title_clean": "Sim：AI代理与工作流开源工作空间",
+    "summary": "Sim是一个开源工作空间，专为AI代理和工作流设计，为开发者提供构建和管理AI代理的工具和环境。这对元宝产品经理有参考价值，因为它展示了AI代理工作流管理平台的发展方向，可能启发元宝在代理协作和自动化工作流方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/juicy-battery-app": {
+    "title_clean": "Juicy：Mac 电池健康监控工具",
+    "summary": "Juicy 是一款 Mac 电池监控工具，提供电池健康状态分析、充电提醒和充电限制功能，帮助用户延长电池寿命，对元宝产品经理在设备健康管理场景设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yasmine-works": {
+    "title_clean": "Yasmine Works：AI办公助手",
+    "summary": "Yasmine Works是一款集成在Slack中的AI协作工具，能够帮助用户完成工作任务。作为AI同事，它可以处理日常办公事务，为产品经理提供团队协作效率提升的参考方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/muse-spark-1-1-by-meta": {
+    "title_clean": "Muse Spark 1.1：Meta 多模态推理模型",
+    "summary": "Meta 发布 Muse Spark 1.1 多模态推理模型，专为代理任务设计。该模型能够处理和理解多种模态的数据，为 AI Agent 的复杂任务执行提供技术支持，对元宝在多模态交互和 Agent 能力建设方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/storychief-io": {
+    "title_clean": "StoryChief Connect：Claude内容发布到网站和社交媒体工具",
+    "summary": "StoryChief Connect允许用户将Claude生成的内容直接发布到网站和社交媒体平台，简化了AI内容创作后的分发流程，为AI助手与内容发布系统的集成提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tryscarlett": {
+    "title_clean": "Scarlett：Slack与iMessage AI助手",
+    "summary": "Scarlett是一款AI助手工具，可在Slack和iMessage平台上作为虚拟同事使用，帮助用户处理工作沟通和任务协作。该产品为团队协作场景提供了AI辅助解决方案，对元宝产品经理在跨平台AI助手设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/eu-banks-urged-to-pool-buying-power-in-deals-with-us-tech-giants": {
+    "title_clean": "欧盟银行联合采购美国科技巨头服务提案",
+    "summary": "荷兰提案建议欧盟银行联合采购美国科技服务，以避免在谈判中处于劣势，应对欧洲对美国科技企业的过度依赖问题。这对元宝产品经理了解企业级AI服务采购模式和欧洲市场策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/horizons-middle-east-africa-7-10-2026-video": {
+    "title_clean": "Horizons Middle East & Africa：中东非洲市场分析节目",
+    "summary": "这是一档从迪拜播出的市场分析节目，聚焦中东和非洲这一全球增长最快地区之一，提供全球市场最新动态和分析，以及具有新闻价值的访谈内容，对元宝产品经理了解国际市场动态和区域化服务机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-s-us-trading-debut-unleashes-wave-of-new-leveraged-etfs": {
+    "title_clean": "SK海力士美国上市引发新一轮杠杆ETF产品",
+    "summary": "SK海力士在美国市场的创纪录上市正推动新一轮与其股票挂钩的杠杆产品进入华尔街，这些产品放大了投资者对内存芯片行业的风险敞口，为AI硬件产业链提供了新的投资工具。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/plugthis-chrome-extension-generator": {
+    "title_clean": "PlugThis：Chrome扩展管理工具",
+    "summary": "PlugThis是一款Chrome扩展管理工具，类似于Lovable，专注于帮助用户更高效地管理和组织浏览器扩展。产品经理可参考其扩展管理思路，优化元宝的插件或扩展功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-makes-biggest-foreign-debut-in-us-video": {
+    "title_clean": "SK海力士创外国企业美国上市融资纪录",
+    "summary": "SK海力士在美国发行美国存托凭证(ADR)融资265亿美元，创下外国企业美国首次公开募股(IPO)融资规模的历史最高纪录。这一融资反映了半导体行业特别是存储芯片领域的资本活跃度，对AI硬件基础设施投资具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac": {
+    "title_clean": "Mispher：多功能AI写作与翻译工具",
+    "summary": "Mispher是一款集成语音输入、文本改写、翻译和AI代理功能的工具，提供一站式内容处理解决方案。产品经理可关注其多功能集成模式对提升用户工作效率的启发价值，以及AI代理在写作场景中的应用可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/tcs-ceo-ai-could-reach-20-revenue-jobs-shift-video": {
+    "title_clean": "TCS CEO：AI或占公司20%收入，就业结构将重塑",
+    "summary": "塔塔咨询服务公司CEO表示，AI可能在4-6个季度内贡献公司约20%的收入，自动化将重塑现有岗位，同时催生新的AI相关职位。这一趋势反映了AI在企业营收中的重要性正在快速提升，对AI产品经理评估商业化路径和人才需求具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/neolix-on-business-growth-outlook-video": {
+    "title_clean": "Neolix：中国自动驾驶配送企业业务与增长展望",
+    "summary": "Neolix执行总裁Will Zhao阐述了公司在中东等关键市场的增长和扩张策略，展示了自动驾驶配送企业的业务布局和发展方向，对元宝产品经理了解AI在物流配送领域的应用场景和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/futurum-s-burke-on-sk-hynix-adr-listing-video": {
+    "title_clean": "Futurum分析师谈SK海力士ADR上市前景",
+    "summary": "Futurum半导体研究主管Brendan Burke分析了存储芯片制造商SK海力士的上市前景，该公司即将进行大规模ADR上市。这对AI硬件供应链和芯片市场动态有参考价值，特别是对关注AI基础设施建设的元宝产品经理了解芯片供应趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/technoprobe-s-330-surge-makes-it-a-european-ai-stock-standout": {
+    "title_clean": "Technoprobe：AI芯片测试供应商股价飙升330%",
+    "summary": "Technoprobe作为Nvidia芯片的关键测试供应商，成为欧洲AI热潮中的最大赢家之一，股价飙升330%。这反映了AI产业链上游供应商的爆发式增长，对元宝产品经理了解AI硬件生态和供应链价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/adani-flagship-is-the-next-big-india-pick-for-singapore-s-helios": {
+    "title_clean": "新加坡Helios资本看好印度Adani集团旗舰股，认为其有望在全球AI热潮中脱颖而出",
+    "summary": "新加坡Helios资本管理公司看好印度Adani集团旗舰股票，认为其有望在全球AI热潮中被忽视的市场中成为下一个重大赢家。这反映了资本对非AI领域传统企业价值的重新评估，以及新兴市场在全球科技格局中的潜在机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz": {
+    "title_clean": "腾讯拟成为Manus最大股东",
+    "summary": "腾讯正洽谈成为Manus的最大股东，这家中国AI代理先驱公司此前被Meta收购的交易被北京否决。腾讯此举可能影响中国AI代理领域的竞争格局和国际化战略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-09/openai-executive-fidji-simo-to-step-down-following-medical-leave": {
+    "title_clean": "OpenAI高管Fidji Simo因病休假后离职",
+    "summary": "OpenAI核心业务负责人Fidji Simo在三个月病假后宣布离职，将把职责移交给三位高管。这一人事变动可能影响OpenAI的产品战略和业务方向，对元宝产品经理了解AI行业高管变动及潜在影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/malaysia-s-anwar-to-debut-an-ai-double-that-sounds-just-like-him": {
+    "title_clean": "马来西亚总理将推出AI数字分身",
+    "summary": "马来西亚总理安瓦尔·易卜拉欣将推出一个AI数字分身，用于与公众互动。这是少数国家领导人采用AI技术代表自己与民众交流的案例，对AI助手在政治领域的应用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
       "用户需求"
     ],
     "v": 4

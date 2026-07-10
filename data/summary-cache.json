@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现Hugging Face模型到Amazon SageMaker Studio的一键迁移，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型部署的解决方案参考，有助于优化AI服务部署效率和用户体验。",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间的模型部署流程，为元宝产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -28994,6 +28994,93 @@
     "channels": [
       "商业化",
       "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue": {
+    "title_clean": "开源AI重要性提升，Hugging Face CEO强调其价值",
+    "summary": "Hugging Face CEO Clem Delangue指出开源AI正在蓬勃发展，该公司已成为AI领域的GitHub，让AI开发者能够共享和下载开源模型。这对元宝产品经理了解AI生态发展方向和开源模型价值有重要参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-chief-expects-memory-shortage-to-last-into-next-decade": {
+    "title_clean": "SK海力士CEO：存储芯片短缺将持续至下个十年",
+    "summary": "SK海力士CEO Kwak Noh-Jung表示，困扰计算机、汽车和设备市场的存储芯片短缺问题可能持续到2030年以后。这一预测对AI硬件供应链和产品规划具有重要参考价值，特别是对需要大量存储资源的AI训练和推理服务。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/nasdaq-sees-sk-listing-growing-foreign-ipo-pipeline-video": {
+    "title_clean": "纳斯达克总裁：SK海力士上市吸引更多外国公司赴美IPO",
+    "summary": "纳斯达克总裁表示，SK海力士创纪录的ADR上市已吸引更多外国公司考虑在美国上市，摩根大通参与了此次交易。这表明美国股市对外国科技企业的吸引力增强，可能为元宝拓展国际市场提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-tech-7-10-2026-video": {
+    "title_clean": "SK海力士在纳斯达克上市，发行价上涨14%",
+    "summary": "SK海力士成为外国公司在美最大规模IPO，发行价上涨14%。此次上市对AI芯片供应链有重要参考价值，特别是对关注AI硬件基础设施的产品经理而言，反映了半导体行业动态与资本市场对AI相关企业的态度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/gov-action-vital-for-ai-entrepreneurs-says-pelgo-ceo-video": {
+    "title_clean": "Pelgo CEO：政府行动对AI创业者至关重要",
+    "summary": "Pelgo CEO强调政府行动对AI创业者的关键作用，指出人工智能可能重塑东南亚近8000万人的就业，但目前尚未导致大规模裁员。这一观点对AI产品经理了解政策环境与市场影响具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai": {
+    "title_clean": "Hugging Face CEO：企业为何不再租用AI",
+    "summary": "Hugging Face CEO Clem Delangue表示开源AI正在蓬勃发展，该公司已成为AI领域的GitHub，让AI开发者能够共享和下载开源模型。这反映了企业从租用AI转向自建或使用开源模型的趋势变化，对元宝的产品策略和商业化方向有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova": {
+    "title_clean": "本周十大融资事件：AI基础设施与网络安全领域现十亿美元级融资",
+    "summary": "本周AI领域继续主导风险投资，在十大融资事件中占据五席，其中AI基础设施和网络安全领域各有一笔十亿美元级融资领先。这反映了市场对AI基础设施和网络安全解决方案的强劲需求，对元宝产品经理评估AI商业化方向和竞品生态布局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
     ],
     "v": 4
   }

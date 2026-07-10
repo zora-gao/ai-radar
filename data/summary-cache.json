@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发到部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI服务部署效率。",
+    "summary": "该工具实现Hugging Face模型到Amazon SageMaker Studio的一键迁移，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型部署的解决方案参考，有助于优化元宝产品的模型部署体验。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -29131,6 +29131,143 @@
       "竞品动态",
       "商业化",
       "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043795&idx=1&sn=e4ce73f07afb834facfc519acbe79a47": {
+    "title_clean": "百度搭子全面升级，AI Agent将接住人类90%以上的活",
+    "summary": "百度对其AI助手产品\"搭子\"进行全面升级，目标是通过Agent技术承接人类90%以上的日常任务，展示百度在AI服务场景和自动化执行领域的战略布局，对产品经理了解AI Agent能力边界和服务场景拓展具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043795&idx=3&sn=014ba6e24de771e418bce4daa9ebf355": {
+    "title_clean": "ICML2026：北大提出HOI-Edit图像编辑基准与SCP",
+    "summary": "北大在ICML2026上提出HOI-Edit基准与SCP技术，标志着图像编辑进入「交互理解」时代。该技术通过理解用户交互意图实现更精准的图像编辑，为AI图像处理领域提供了新的研究方向和评估标准。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043685&idx=1&sn=3d6cf76db89e87d37d40988726c300b8": {
+    "title_clean": "具身智能大模型迈入「具身原生」新阶段",
+    "summary": "具身智能大模型进入「具身原生」新阶段，标志着AI从虚拟走向物理世界的重要里程碑。这一进展对元宝产品经理具有重要参考价值，可能影响AI助手与物理世界交互的未来发展方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043685&idx=2&sn=270b8f9ffb25f1debb6f42c44890bf4d": {
+    "title_clean": "XG-Guard：多智能体网络内鬼检测工具",
+    "summary": "XG-Guard是首个用于多智能体网络的无监督图异常检测系统，能够识别网络中的异常行为或'内鬼'。该技术基于图神经网络，为多智能体系统的安全防护提供了新思路，对AI Agent系统的安全架构设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043795&idx=2&sn=fa61c65616702b785f5e795c37bb1ee5": {
+    "title_clean": "「十万卡时代」，谁在定义新标准?",
+    "summary": "本文探讨AI大模型进入十万卡时代的技术标准与行业格局变化，分析各厂商在算力规模、模型性能和商业化路径上的竞争态势，为元宝产品经理提供AI基础设施发展方向的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043526&idx=1&sn=51edfa1f786061b9ca419ab62d3e9799": {
+    "title_clean": "OpenAI发布GPT-5.6并推出生产力工具ChatGPTWork",
+    "summary": "OpenAI全面上线GPT-5.6模型，并将Codex功能合并其中，同时推出面向生产力的专用工具ChatGPTWork，显示OpenAI在垂直场景应用的深入布局，对元宝产品经理在AI生产力工具方向具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043627&idx=1&sn=3f269d313edd4eb8ea906c509c8921a8": {
+    "title_clean": "杭州公司推出中文AI音乐大模型",
+    "summary": "杭州公司开发了一款专注于中文理解的AI音乐大模型，强调其对中国语言的深度理解能力。这一产品可能为音乐创作领域带来新的AI工具，尤其针对中文场景，对元宝在音乐创作或语言理解功能方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video": {
+    "title_clean": "Apple起诉OpenAI涉嫌商业秘密盗窃",
+    "summary": "Apple对OpenAI提起诉讼，指控这家AI初创公司及其硬件负责人参与协调行动，窃取有关未来产品的信息。这反映了AI行业巨头间的知识产权竞争加剧，对元宝产品经理了解AI行业法律风险和商业竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/hedge-fund-elliott-builds-stake-in-software-firm-ccc": {
+    "title_clean": "对冲基金Elliott投资汽车保险软件公司CCC",
+    "summary": "对冲基金Elliott投资管理公司已购入汽车保险软件提供商CCC Intelligent Solutions的大量股份，该公司正探索潜在出售可能。此投资反映金融资本对垂直领域AI服务提供商的关注，对元宝评估AI服务商业化路径有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043627&idx=2&sn=db4a3ea36ce7ed27d7c6a81583f2c8a0": {
+    "title_clean": "ICML 2026：北大团队研究模态缺失挑战",
+    "summary": "北大彭宇新团队联合福州大学柯逍团队在ICML 2026 Spotlight上发表研究，直面AI系统中的模态缺失挑战。这项研究可能对多模态AI系统的鲁棒性和可靠性有重要影响，为元宝产品在处理多模态输入时的容错能力提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle": {
+    "title_clean": "SK Hynix上市：押注AI打破芯片行业周期性波动",
+    "summary": "韩国存储芯片制造商SK Hynix在美国市场完成史上最大规模外国公司IPO，首日股价上涨13%。这反映了AI发展对芯片行业周期性波动的影响，对AI硬件供应链和芯片市场趋势有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
     ],
     "v": 4
   }

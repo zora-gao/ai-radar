@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间的模型部署流程，为元宝产品经理提供了跨平台模型迁移的解决方案参考。",
+    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发环境到生产环境的部署流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -28718,6 +28718,104 @@
     "channels": [
       "用户需求",
       "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-indicated-to-climb-17-after-26-5-billion-adr-offering": {
+    "title_clean": "SK海力士：265亿美元美国存托凭证发行后股价预期上涨17%",
+    "summary": "韩国存储芯片制造商SK海力士通过美国存托凭证(ADR)融资265亿美元，创下美国历史上最大规模上市纪录，其ADR发行价后股价预期上涨17%。这一巨额融资反映了市场对存储芯片行业的高预期，对AI硬件供应链和芯片市场格局有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-10/sk-hynix-us-offering-represents-a-pure-play-ai-boom-bet": {
+    "title_clean": "SK海力士：美国市场首秀，专注AI芯片业务",
+    "summary": "SK海力士作为存储芯片制造商在美国首次亮相，专注于AI芯片业务，这反映了AI硬件市场的增长趋势。对产品经理而言，这表明AI硬件基础设施的竞争正在加剧，可能影响AI服务的底层成本和性能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare": {
+    "title_clean": "5个值得关注的初创企业交易：AI调度水管工、地下作战与简化私人市场文书",
+    "summary": "这篇资讯回顾了过去一个月五家引人注目的初创企业交易，包括一家同时开发生物AI模型的公司，以及致力于简化私人市场文书工作的企业。这些交易反映了AI在传统服务场景（如水管工调度）和金融领域的应用拓展，对元宝探索垂直领域AI服务场景和商业化模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/raytheon-and-rheinmetall-anchor-ai-training-effort-for-uk-army": {
+    "title_clean": "雷神与莱茵金属联合体获得英国20亿英镑AI军事训练合同",
+    "summary": "英国国防部向由雷神公司牵头的联合体授予20亿英镑(27亿美元)合同，用于开发基于AI的军事训练系统，该联合体还包括欧洲防务巨头莱茵金属公司。这标志着AI技术在军事训练领域的重大商业化应用，对AI在专业垂直场景的落地有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground": {
+    "title_clean": "SpaceX上市一个月后特斯拉股价保持稳定",
+    "summary": "SpaceX上市前，华尔街担忧这会对特斯拉构成威胁，但一个月后特斯拉股价依然保持稳定，表明市场对两家公司估值持独立态度，这对理解投资者对科技巨头的评估方式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-10/sovereign-ai-may-soon-mean-state-owned-models-as-us-eyes-stake-in-openai": {
+    "title_clean": "Sovereign AI：国家支持AI模型与政治紧张局势",
+    "summary": "美国政府正积极介入人工智能竞争，推动国家支持的AI模型发展，这可能引发国际政治紧张局势。这一趋势对元宝产品经理具有重要参考价值，需关注国家政策对AI产品发展方向的影响及潜在的地缘政治风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree": {
+    "title_clean": "科技巨头AI投资热潮：债务规模翻倍至3500亿美元",
+    "summary": "大型AI数据中心建设者在过去五年内债务规模翻倍，达到3500亿美元，通过借贷融资支持其声称必要的AI基础设施投资热潮。这一趋势反映了科技巨头对AI领域的巨额投入，对元宝产品经理了解行业资本动向和竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/comedians-create-fake-companies-to-mock-ai-ads-on-new-york-london-subways": {
+    "title_clean": "Ziplink Is Now Froggle：虚假AI广告病毒式传播现象",
+    "summary": "Ziplink品牌更名为Froggle，引发关于虚假AI广告在公共交通上病毒式传播的讨论。这一现象反映了当前AI营销热潮中存在的虚假宣传问题，对产品经理了解AI营销边界和用户对AI广告的警惕性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
     ],
     "v": 4
   }

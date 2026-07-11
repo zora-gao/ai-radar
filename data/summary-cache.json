@@ -29409,5 +29409,94 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043311&idx=1&sn=a63039b3ed0a386ac5ae821361873a90": {
+    "title_clean": "中国团队开源机器人视频基座模型",
+    "summary": "中国团队开源了专为机器人设计的视频基座模型，这一技术突破将提升机器人对视频内容的理解和处理能力，为AI机器人的视觉感知和交互能力提供新支撑，对元宝在多模态交互和AI Agent能力发展具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043861&idx=2&sn=456de316d5269e2d711defc3ab082c98": {
+    "title_clean": "港中文&快手可灵发布ShotStream：实时导演多镜头长视频技术",
+    "summary": "港中文与快手可灵联合发布ShotStream技术，可实现实时导演多镜头长视频，为视频创作提供新的AI辅助工具。这项技术可能改变视频制作流程，对元宝在视频生成和编辑领域的功能开发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043860&idx=1&sn=f629c7404d4e89e90478f11b860e7899": {
+    "title_clean": "从验证Demo到冲刺IPO，AI企业为何更需要一座「产业小镇」?",
+    "summary": "探讨AI企业从产品验证到上市过程中，产业小镇模式如何提供资源整合、生态支持和加速成长的价值，对AI创业公司的战略布局和产品经理理解行业生态有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043815&idx=2&sn=470cba57cf989e221b2e8b11af6b6bdc": {
+    "title_clean": "清华&腾讯提出GPS：小模型指挥大模型RL后训练",
+    "summary": "清华与腾讯联合提出GPS方法，让小模型能够指挥大模型进行强化学习后训练。这一技术突破可能为AI模型训练效率提升提供新思路，对产品经理思考模型优化与资源分配有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043815&idx=1&sn=22a402417f9837be93000837c4e5b9e9": {
+    "title_clean": "苹果状告OpenAI：400多人被挖，带苹果零件去面试",
+    "summary": "苹果公司起诉OpenAI，指控其挖走400多名员工，这些员工在面试时携带苹果零部件。这反映了AI行业人才争夺的激烈程度，以及大公司对核心技术和商业机密保护的重视，对元宝产品经理了解AI人才流动和商业竞争环境有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043860&idx=2&sn=97c8f838e97a33452ca653c26acb0333": {
+    "title_clean": "Claude：11天重写百万行代码工程",
+    "summary": "Claude在11天内完成了百万行代码的重写工程，展示了AI在代码处理方面的强大能力，但同时也引发了开发社区的争议和不满，反映了AI辅助编程工具在实际应用中可能面临的挑战和用户反馈。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043861&idx=1&sn=86f859794865aa73a9613abaacd0b035": {
+    "title_clean": "顶会Poster整活大赛：NeurlPS论文入选ICML",
+    "summary": "作者分享其NeurlPS论文被ICML顶会收录的经历，展示了学术研究到会议发表的完整过程。对产品经理了解AI领域学术前沿与实际应用转化路径有参考价值，可作为竞品技术能力评估的间接指标。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

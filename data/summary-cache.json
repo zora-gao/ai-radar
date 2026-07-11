@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键迁移功能，简化了AI模型从开发环境到生产环境的部署流程，为AI产品经理提供了模型部署效率提升的解决方案参考。",
+    "summary": "该工具实现Hugging Face模型到Amazon SageMaker Studio的一键迁移，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI服务部署效率。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -29292,6 +29292,19 @@
     "type": "news",
     "channels": [
       "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired": {
+    "title_clean": "OpenAI 安全负责人 Heidecke 离职：公司重组引发安全团队变动",
+    "summary": "OpenAI 安全负责人 Johannes Heidecke 在公司重组后离职，这一变动可能影响 OpenAI 的 AI 安全战略和团队架构。对产品经理而言，这反映了 AI 安全领域的高层变动趋势，可能影响产品安全合规方向和团队配置。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
       "用户需求"
     ],
     "v": 4

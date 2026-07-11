@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间的模型部署流程，为元宝产品经理提供了跨平台模型迁移的解决方案参考。",
+    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发到部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",

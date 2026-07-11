@@ -25142,8 +25142,8 @@
     "v": 4
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
-    "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具允许用户将Hugging Face模型一键迁移到Amazon SageMaker Studio，简化了AI模型从开发到部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考。",
+    "title_clean": "Hugging Face：一键迁移至Amazon SageMaker Studio工具",
+    "summary": "Hugging Face推出新功能，允许用户将模型一键迁移至Amazon SageMaker Studio，简化了AI模型从开发到部署的流程。这一工具降低了企业使用Hugging Face模型在AWS上部署的门槛，为产品经理提供了AI服务跨平台整合的参考案例。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -29356,6 +29356,18 @@
       "AI助手",
       "服务场景",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-11/michael-wolf-on-why-ai-is-changing-the-value-of-content-video": {
+    "title_clean": "福克斯：流媒体时代最自律的媒体娱乐公司",
+    "summary": "媒体资深人士Michael Wolf在Allen & Company年会上分析了娱乐行业的大型交易，并解释了为什么福克斯在流媒体时代被称为'最自律'的公司，探讨了广告支持模式对媒体行业的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
     ],
     "v": 4
   }

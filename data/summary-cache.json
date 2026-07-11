@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现Hugging Face模型到Amazon SageMaker Studio的一键迁移，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型迁移的解决方案参考，有助于优化AI服务部署效率。",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键式模型迁移功能，简化了AI开发者在不同云平台间的模型部署流程，为元宝产品经理提供了跨平台模型迁移的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -29306,6 +29306,56 @@
       "AI助手",
       "竞品动态",
       "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/san-fran-sim": {
+    "title_clean": "San Fran Sim：旧金山创业模拟游戏",
+    "summary": "这是一款模拟创业过程的模拟经营游戏，玩家可以在旧金山环境中体验创业公司的建立与发展过程。对于产品经理而言，这类游戏可能提供用户对创业、商业决策和资源管理的兴趣洞察，有助于理解用户在商业模拟场景中的需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kickbacks-cli": {
+    "title_clean": "Kickbacks CLI：终端与菜单栏伴侣工具",
+    "summary": "Kickbacks CLI 是 Kickbacks.ai 的终端和 Mac 菜单栏伴侣工具，为用户提供便捷的命令行界面访问功能，有助于产品经理了解 AI 工具的终端集成方案和用户体验设计。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/soundpipe": {
+    "title_clean": "SoundPipe：Mac音频混音工具",
+    "summary": "SoundPipe是一款面向Mac用户的音频混音工具，提供混音板功能，帮助用户进行音频处理和混音操作。对于元宝产品经理而言，这代表了AI助手在音频处理场景的应用可能性，可作为多模态交互和音频服务场景的参考案例。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chatgpt-work": {
+    "title_clean": "ChatGPT Work：AI工作协作助手",
+    "summary": "ChatGPT Work是OpenAI推出的面向专业工作场景的AI助手，旨在帮助用户完成更复杂、更具挑战性的工作任务。该产品可能针对企业级用户提供定制化AI协作服务，有望成为元宝产品在办公场景下的重要竞品参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
     ],
     "v": 4
   }

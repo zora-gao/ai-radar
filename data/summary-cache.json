@@ -25143,7 +25143,7 @@
   },
   "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
     "title_clean": "Hugging Face到Amazon SageMaker Studio一键迁移工具",
-    "summary": "该工具实现Hugging Face模型到Amazon SageMaker Studio的一键迁移，简化了AI模型从开发平台到云部署的流程，为产品经理提供了跨平台模型部署的解决方案参考，有助于优化元宝产品的模型部署体验。",
+    "summary": "该工具实现了从Hugging Face平台到Amazon SageMaker Studio的一键迁移功能，简化了AI模型从开发环境到生产环境的部署流程，为AI产品经理提供了模型部署效率提升的解决方案参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -29212,10 +29212,10 @@
   },
   "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043627&idx=1&sn=3f269d313edd4eb8ea906c509c8921a8": {
     "title_clean": "杭州公司推出中文AI音乐大模型",
-    "summary": "杭州公司开发了一款专注于中文理解的AI音乐大模型，强调其对中国语言的深度理解能力。这一产品可能为音乐创作领域带来新的AI工具，尤其针对中文场景，对元宝在音乐创作或语言理解功能方面具有参考价值。",
+    "summary": "杭州公司开发了一款专注于中文理解的AI音乐大模型，强调其对中国语言的深度理解能力。该模型可能针对中文音乐创作、生成或处理场景，为AI音乐领域提供本土化解决方案，对元宝在中文音乐AI应用方向的产品开发具有参考价值。",
     "score": 65,
     "priority": "P2",
-    "type": "product",
+    "type": "news",
     "channels": [
       "AI助手",
       "服务场景",
@@ -29268,6 +29268,31 @@
     "channels": [
       "商业化",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash": {
+    "title_clean": "Meta移除Instagram有争议的AI功能",
+    "summary": "Meta在用户强烈反对后移除了Instagram上的AI功能，该功能允许AI模型使用公开内容进行训练。公司表示初衷是提供创意工具并给予用户控制权，但最终听取了用户反馈进行调整。这对产品经理了解AI功能隐私边界和用户接受度有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation": {
+    "title_clean": "AI代理谈判中的行为隐私泄露：通过随机化策略形式化与缓解推理攻击",
+    "summary": "该论文探讨了AI代理在谈判过程中可能存在的隐私泄露风险，提出了通过随机化策略来形式化和缓解推理攻击的方法。研究对元宝产品经理在设计和部署AI代理系统时如何保护用户隐私、防止信息泄露具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
     ],
     "v": 4
   }

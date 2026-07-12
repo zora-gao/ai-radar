@@ -29598,5 +29598,94 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043907&idx=1&sn=85ae34538e46e8189987f02177830f8b": {
+    "title_clean": "南京大学团队发布「世界模型」评估立场论文",
+    "summary": "南京大学团队针对世界模型的评估方法发布立场论文，探讨了如何科学评估AI系统对世界的理解和预测能力。这对元宝产品经理在评估AI助手对现实世界的理解能力方面具有重要参考价值，有助于指导产品方向和竞品分析。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043907&idx=2&sn=c2cccdded9cb01be5560975cad35882f": {
+    "title_clean": "Agentic时代推荐系统范式认知或被颠覆：个性化推荐或将从平台中心转向用户主导",
+    "summary": "探讨Agentic时代下推荐系统可能发生的范式变革，指出个性化推荐或将从传统的平台中心模式转向用户主导模式，这一转变可能重塑推荐系统的设计理念和实现方式，对AI助手产品在个性化服务方面的策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043883&idx=1&sn=64ed5207f9643eb63b56805834d7355b": {
+    "title_clean": "当AI浏览器走向「原生」，AI侧栏会被吞并还是与之共存?",
+    "summary": "探讨AI浏览器原生化趋势下，AI侧栏功能与浏览器主体关系的行业分析，关注AI功能集成方式对产品形态的影响，为元宝产品经理提供AI浏览器功能布局的参考视角。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043906&idx=2&sn=b664726db41281efe1ba814d26ae887c": {
+    "title_clean": "ICML2026：TikTok与NUS提出置信度门控提升奖励模型准确性",
+    "summary": "TikTok与新加坡国立大学在ICML2026上提出置信度门控方法，旨在提升奖励模型的准确性和效率。这项技术通过控制模型预测的置信度，使奖励模型在判断用户反馈时更加可靠，对AI助手和Agent系统的奖励机制优化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043883&idx=2&sn=e69150771c4b6c81ce9088895839b4f5": {
+    "title_clean": "北航、北大和美团联合提出：策略提升强化学习",
+    "summary": "北航、北大和美团联合提出策略提升强化学习方法，可能为AI决策系统提供新的优化路径，对元宝在复杂场景下的决策能力提升有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-12/netflix-combats-questions-about-slowing-growth": {
+    "title_clean": "Netflix：应对增长放缓问题",
+    "summary": "Netflix面临增长放缓的挑战，正在探索应对策略。这对元宝产品经理有参考价值，因为流媒体平台如何应对增长瓶颈可能启发AI服务的产品迭代和商业化策略。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651043906&idx=1&sn=f8bd8f3ee9b7bb634d9a4dea3eeb3545": {
+    "title_clean": "破晓智能：将触觉写入机器人基础模型",
+    "summary": "破晓智能由98年哈工大教授带队，致力于将触觉感知能力整合到机器人基础模型中，这一技术突破可能大幅提升机器人的环境交互能力和精细操作水平，为AI机器人领域带来新的发展方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

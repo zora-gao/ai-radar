@@ -29509,5 +29509,56 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all": {
+    "title_clean": "智谱AI创始人：前沿AI应对所有人开放",
+    "summary": "智谱AI创始人就前沿AI可访问性发表观点，认为人工智能应保持广泛可访问性，而非由少数人控制，反映了当前关于AI开放与管控的讨论趋势，对产品经理思考AI服务普惠化与商业化平衡有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/miora-2": {
+    "title_clean": "Miora：AI创意协作画布工具",
+    "summary": "Miora是一款基于AI的创意协作画布工具，支持编辑功能和智能代理记忆，帮助用户扩展创意并保持创作连贯性。产品经理可关注其AI辅助创意工作流的设计，以及如何将记忆功能融入协作场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/servicebeard": {
+    "title_clean": "ServiceBeard：邮箱与问题跟踪器同步工具",
+    "summary": "ServiceBeard是一款工具，能够将用户的邮箱与问题跟踪系统进行同步，帮助团队更高效地管理客户反馈和任务。对于元宝产品经理而言，这类工具展示了如何将AI助手与实际工作流程集成，特别是在客服和任务管理场景中的应用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/justvibe": {
+    "title_clean": "JustVibe：行动搜索引擎",
+    "summary": "JustVibe是一款专注于行动的搜索引擎，为用户定制化构建应用，帮助用户直接执行任务而非仅提供信息。这类产品对元宝产品经理有参考价值，因为它探索了从信息检索到任务执行的AI服务场景延伸，可能启发元宝在功能整合和用户行动支持方面的创新方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T17:51:35.016Z",
+  "generated_at": "2026-07-13T19:16:55.584Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -250,29 +250,6 @@
       "description_zh": "Aion-3.0 是 AionLabs 的多模型角色扮演和讲故事系统，基于 GLM 系列模型构建。它使用协作生成过程，其中多个专用模型各自贡献......"
     },
     {
-      "id": "tencent/hy3:free",
-      "name": "Hy3 (free)",
-      "vendor": "Tencent",
-      "vendor_slug": "tencent",
-      "url": "https://openrouter.ai/tencent/hy3-20260706",
-      "created_at": "2026-07-06T13:20:48Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Hy3 is a 295B-parameter Mixture-of-Experts model from Tencent (21B active, 192 experts with top-8 routing) built for reasoning, agentic workflows, and real-world production use. It supports a configurable reasoning effort:...",
-      "description_zh": "Hy3 是来自腾讯的 295B 参数混合专家模型（21B 活跃，192 位专家，具有 top-8 路由），专为推理、代理工作流程和实际生产使用而构建。它支持可配置的推理工作：..."
-    },
-    {
       "id": "tencent/hy3",
       "name": "Hy3",
       "vendor": "Tencent",
@@ -296,12 +273,12 @@
       "description_zh": "Hy3 是来自腾讯的 295B 参数混合专家模型（21B 活跃，192 位专家，具有 top-8 路由），专为推理、代理工作流程和实际生产使用而构建。它支持可配置的推理工作：..."
     },
     {
-      "id": "poolside/laguna-xs-2.1:free",
-      "name": "Laguna XS 2.1 (free)",
-      "vendor": "Poolside",
-      "vendor_slug": "poolside",
-      "url": "https://openrouter.ai/poolside/laguna-xs-2.1-20260625",
-      "created_at": "2026-07-02T14:27:09Z",
+      "id": "tencent/hy3:free",
+      "name": "Hy3 (free)",
+      "vendor": "Tencent",
+      "vendor_slug": "tencent",
+      "url": "https://openrouter.ai/tencent/hy3-20260706",
+      "created_at": "2026-07-06T13:20:48Z",
       "context_length": 262144,
       "modality": "text->text",
       "input_modalities": [
@@ -315,8 +292,8 @@
       "is_free": true,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "Laguna XS 2.1 is the latest coding agent model in the 33B-A3B category from Poolside and a step forward from their Laguna XS.2 model (released in April 2026). It combines...",
-      "description_zh": "Laguna XS 2.1 是 Poolside 33B-A3B 类别中的最新编码代理模型，比 Laguna XS.2 模型（于 2026 年 4 月发布）向前迈出了一步。它结合了..."
+      "description": "Hy3 is a 295B-parameter Mixture-of-Experts model from Tencent (21B active, 192 experts with top-8 routing) built for reasoning, agentic workflows, and real-world production use. It supports a configurable reasoning effort:...",
+      "description_zh": "Hy3 是来自腾讯的 295B 参数混合专家模型（21B 活跃，192 位专家，具有 top-8 路由），专为推理、代理工作流程和实际生产使用而构建。它支持可配置的推理工作：..."
     },
     {
       "id": "poolside/laguna-xs-2.1",
@@ -336,6 +313,29 @@
       "price_in": 0.06,
       "price_out": 0.12,
       "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Laguna XS 2.1 is the latest coding agent model in the 33B-A3B category from Poolside and a step forward from their Laguna XS.2 model (released in April 2026). It combines...",
+      "description_zh": "Laguna XS 2.1 是 Poolside 33B-A3B 类别中的最新编码代理模型，比 Laguna XS.2 模型（于 2026 年 4 月发布）向前迈出了一步。它结合了..."
+    },
+    {
+      "id": "poolside/laguna-xs-2.1:free",
+      "name": "Laguna XS 2.1 (free)",
+      "vendor": "Poolside",
+      "vendor_slug": "poolside",
+      "url": "https://openrouter.ai/poolside/laguna-xs-2.1-20260625",
+      "created_at": "2026-07-02T14:27:09Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Laguna XS 2.1 is the latest coding agent model in the 33B-A3B category from Poolside and a step forward from their Laguna XS.2 model (released in April 2026). It combines...",
@@ -681,29 +681,6 @@
       "description_zh": "NVIDIA Nemotron 3.5 内容安全是 NVIDIA 的紧凑型 4B 参数多模式护栏模型，由 Google Gemma-3-4B 进行微调。它调节 LLM 和 VLM 的输入和响应，接受..."
     },
     {
-      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
-      "name": "Nemotron 3 Ultra (free)",
-      "vendor": "NVIDIA",
-      "vendor_slug": "nvidia",
-      "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b-20260604",
-      "created_at": "2026-06-04T05:33:28Z",
-      "context_length": 1000000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "NVIDIA Nemotron 3 Ultra is an open frontier-reasoning and orchestration model from NVIDIA, with 55B active parameters out of 550B total (MoE). Built on a hybrid Transformer-Mamba mixture-of-experts architecture, it...",
-      "description_zh": "NVIDIA Nemotron 3 Ultra 是 NVIDIA 的开放式前沿推理和编排模型，总共 550B 个活动参数 (MoE)，其中包含 55B 个活动参数。它建立在混合 Transformer-Mamba 专家混合架构之上，..."
-    },
-    {
       "id": "nvidia/nemotron-3-ultra-550b-a55b",
       "name": "Nemotron 3 Ultra",
       "vendor": "NVIDIA",
@@ -721,6 +698,29 @@
       "price_in": 0.5,
       "price_out": 2.2,
       "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "NVIDIA Nemotron 3 Ultra is an open frontier-reasoning and orchestration model from NVIDIA, with 55B active parameters out of 550B total (MoE). Built on a hybrid Transformer-Mamba mixture-of-experts architecture, it...",
+      "description_zh": "NVIDIA Nemotron 3 Ultra 是 NVIDIA 的开放式前沿推理和编排模型，总共 550B 个活动参数 (MoE)，其中包含 55B 个活动参数。它建立在混合 Transformer-Mamba 专家混合架构之上，..."
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "name": "Nemotron 3 Ultra (free)",
+      "vendor": "NVIDIA",
+      "vendor_slug": "nvidia",
+      "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b-20260604",
+      "created_at": "2026-06-04T05:33:28Z",
+      "context_length": 1000000,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "NVIDIA Nemotron 3 Ultra is an open frontier-reasoning and orchestration model from NVIDIA, with 55B active parameters out of 550B total (MoE). Built on a hybrid Transformer-Mamba mixture-of-experts architecture, it...",
@@ -1150,29 +1150,6 @@
       "description_zh": "NVIDIA Nemotron™ 3 Nano Omni 是一种 30B-A3B 开放式多模式模型，旨在充当企业代理系统中的感知和上下文子代理。它接受文本、图像、视频和..."
     },
     {
-      "id": "poolside/laguna-m.1:free",
-      "name": "Laguna M.1 (free)",
-      "vendor": "Poolside",
-      "vendor_slug": "poolside",
-      "url": "https://openrouter.ai/poolside/laguna-m.1-20260312",
-      "created_at": "2026-04-28T15:01:44Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Laguna M.1 is the flagship coding agent model from Poolside, optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 256K...",
-      "description_zh": "Laguna M.1 是 Poolside 的旗舰编码代理模型，针对复杂的软件工程任务进行了优化。专为代理编码工作流程而设计，支持工具调用和推理，具有 256K..."
-    },
-    {
       "id": "poolside/laguna-m.1",
       "name": "Laguna M.1",
       "vendor": "Poolside",
@@ -1190,6 +1167,29 @@
       "price_in": 0.2,
       "price_out": 0.4,
       "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Laguna M.1 is the flagship coding agent model from Poolside, optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 256K...",
+      "description_zh": "Laguna M.1 是 Poolside 的旗舰编码代理模型，针对复杂的软件工程任务进行了优化。专为代理编码工作流程而设计，支持工具调用和推理，具有 256K..."
+    },
+    {
+      "id": "poolside/laguna-m.1:free",
+      "name": "Laguna M.1 (free)",
+      "vendor": "Poolside",
+      "vendor_slug": "poolside",
+      "url": "https://openrouter.ai/poolside/laguna-m.1-20260312",
+      "created_at": "2026-04-28T15:01:44Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Laguna M.1 is the flagship coding agent model from Poolside, optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 256K...",

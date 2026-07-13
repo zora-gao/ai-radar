@@ -30215,5 +30215,90 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/lonsdale-suggests-forgoing-patents-to-avoid-china-taking-ip": {
+    "title_clean": "Lonsdale：建议放弃专利以避免中国获取AI知识产权",
+    "summary": "8VC创始人Joe Lonsdale指出，中国正在积极获取美国AI和生命科学初创企业的知识产权，他建议企业考虑放弃专利保护以避免技术被中国获取。这对元宝产品经理在全球化布局和知识产权保护策略上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/palantir-co-founder-lonsdale-on-the-ai-investment-boom-video": {
+    "title_clean": "Palantir联合创始人Joe Lonsdale谈AI投资热潮",
+    "summary": "Palantir联合创始人、8VC管理合伙人Joe Lonsdale讨论了公司15亿美元创纪录基金，解释了为什么创业公司融资规模越来越大，以及AI如何推动风险投资进入新时代。对产品经理了解AI投资趋势和行业资金流向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse": {
+    "title_clean": "AI伦理：探讨AI是否应协助用户规避法律责任",
+    "summary": "本文探讨了完全用户导向的AI世界可能面临的伦理困境，特别是AI是否应协助用户规避法律责任等敏感问题。这对产品经理在设计AI助手时如何设定伦理边界和价值观有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/carr-says-disney-being-disingenuous-of-fcc-inquiries-video": {
+    "title_clean": "Carr指责迪士尼在FCC调查中不诚实",
+    "summary": "FCC主席Brendan Carr指责迪士尼在关于其多元化与包容性实践的调查中不诚实。这一事件反映了监管机构对大型科技公司多元化政策的关注，可能影响元宝在内容审核和多元化策略方面的考量。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-13/chatgpt-s-voice-mode-can-handle-the-um-and-oh-of-real-conversations": {
+    "title_clean": "ChatGPT：升级语音模式模拟真实对话",
+    "summary": "OpenAI升级了ChatGPT的语音模式，使其对话风格更接近真实人类交流，能够捕捉对话中的不完美之处，提升用户体验的自然感。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/general-fusion-soars-after-nasdaq-debut-video": {
+    "title_clean": "General Fusion：核聚变能源公司纳斯达克上市",
+    "summary": "General Fusion在纳斯达克上市后，CEO Greg Twinney表示上市将加速其核聚变发展路线图，并探讨核聚变技术如何为AI数据中心提供能源支持。这对元宝产品经理了解AI基础设施能源需求及新兴技术合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/why-ai-might-actually-create-more-work-for-lawyers-video": {
+    "title_clean": "AI可能为律师创造更多工作",
+    "summary": "探讨AI对法律行业的影响，指出尽管AI可能颠覆许多行业，但法律专业可能面临最不利的结果，特别是在处理文书、研究等任务时，AI可能实际上为律师创造更多工作而非减少。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

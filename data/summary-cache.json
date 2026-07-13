@@ -30044,5 +30044,176 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe": {
+    "title_clean": "Sam Altman 批评太空数据中心概念",
+    "summary": "OpenAI CEO Sam Altman 公开批评太空数据中心概念，认为这是向短期投资者推销的不切实际想法。这一观点与行业专家普遍看法一致，反映了科技界对太空基础设施可行性的谨慎态度，对元宝产品经理评估前沿技术商业化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/sk-hynix-adrs-tumble-in-second-trading-day-after-selloff-video": {
+    "title_clean": "SK海力士ADR在韩国抛售后第二个交易日暴跌",
+    "summary": "韩国AI股引发的抛售潮蔓延至美国市场，SK海力士美国存托凭证单日暴跌9.3%，凸显投资者对AI热潮可能过热的担忧。这一市场波动反映了AI投资情绪的变化，对元宝产品经理评估AI商业化前景和投资者预期具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/more-than-200-experts-urge-action-to-steer-ai-for-society-s-good": {
+    "title_clean": "200多位专家呼吁引导AI向善发展",
+    "summary": "200多位顶尖经济学家和AI研究人员呼吁加强对AI技术影响的研究，认为未来十年AI能力可能变得' radically more powerful'，需要更多行动确保AI服务于社会利益。这对产品经理了解AI治理趋势和潜在社会影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/fcc-s-carr-on-approval-times-paramount-warner-disney-video": {
+    "title_clean": "FCC主席谈审批加速、派拉蒙-华纳交易与迪士尼",
+    "summary": "FCC主席Brendan Carr讨论加速频谱和轨道数据中心审批的必要性，并提及派拉蒙与Skydance试图收购华纳兄弟探索公司的交易及迪士尼相关事宜，对了解媒体行业监管动向与并购趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/fcc-cutting-satellite-approval-lag-in-half-chairman-says": {
+    "title_clean": "FCC削减卫星审批积压量，推动太空与通信经济发展",
+    "summary": "美国联邦通信委员会(FCC)主席布兰登·卡尔表示，该委员会已将卫星应用审批积压量减少一半，此举旨在广泛促进太空和通信经济的发展。这一政策变化可能影响卫星互联网服务提供商的部署速度和市场格局。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us": {
+    "title_clean": "Anthropic在印度推出本地化Claude定价方案",
+    "summary": "Anthropic为印度市场推出印度卢比计价的Claude订阅计划，这是其继美国之后的最大市场。此举表明AI正加速区域化定价策略，对元宝产品经理在国际化定价和本地化服务方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/sunrun-offers-solar-users-hundreds-per-month-in-compute-program": {
+    "title_clean": "Sunrun：太阳能用户计算奖励计划",
+    "summary": "Sunrun推出试点计划，允许使用屋顶太阳能和电池系统的用户每月获得数百美元奖励，这些用户将利用自家电力为家庭计算系统供电。该计划为AI服务提供商提供了新的能源合作模式参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/lazard-s-bilicic-sees-tremendous-demand-for-ai-power-video": {
+    "title_clean": "Lazard高管：AI数据中心电力需求巨大",
+    "summary": "Lazard全球能源业务主管George Bilicic表示，AI数据中心电力需求问题远未解决，预计将推动天然气价格上涨。这对元宝产品经理了解AI基础设施成本趋势和能源约束下的产品规划有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates": {
+    "title_clean": "Waze：新增AI功能与定制化更新",
+    "summary": "Waze新增由谷歌Gemini AI助手驱动的功能，反映谷歌在产品中整合Gemini的战略，同时增强Waze的竞争力。这些更新包括AI驱动的导航和个性化定制选项，为用户提供更智能的出行体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures": {
+    "title_clean": "Sapphire Ventures合伙人Anders Ranum谈AI创业成功关键因素",
+    "summary": "Sapphire Ventures合伙人Anders Ranum分析了AI创业公司在公共市场软件估值与私人市场估值差距中的定位，揭示了成功AI创业企业的关键特征，为元宝产品经理提供了资本视角下的AI产品发展方向参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc": {
+    "title_clean": "美国拟限制中国使用美国AI模型训练",
+    "summary": "Anthropic和OpenAI警告\"对抗性蒸馏\"风险，促使硅谷重启关于AI技术出口限制的讨论。美国正考虑采取措施阻止中国使用美国开发的AI模型进行训练，这可能影响全球AI技术发展格局和市场竞争。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center": {
+    "title_clean": "Meta：路易斯安那州数据中心扩建至5GW算力",
+    "summary": "Meta宣布将路易斯安那州里奇兰教区的数据中心扩建至5GW算力规模，该扩建已为当地教师、企业和学生带来显著收益。这一扩张反映了Meta在AI基础设施领域的持续投入，对元宝产品经理了解科技巨头AI算力布局及区域经济影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/africa-s-raxio-to-enter-tanzania-with-380-million-funding-push": {
+    "title_clean": "Raxio：非洲数据中心公司获3.8亿美元融资",
+    "summary": "非洲数据中心公司Raxio Group获得3.8亿美元融资，计划进入坦桑尼亚市场。CEO Robert Skjødt表示，这笔资金将用于扩大公司在非洲的数据中心业务布局，对元宝产品经理了解AI基础设施投资和非洲市场拓展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/us-cost-for-gas-power-at-17-year-high-and-climbing-lazard-says": {
+    "title_clean": "美国天然气发电成本达17年高点并持续攀升",
+    "summary": "美国天然气发电成本创至少17年来新高，随着新数据中心需求激增，这一成本预计还将继续攀升。这对AI服务提供商和数据中心运营商构成重要成本压力，可能影响AI服务的定价策略和能源消耗决策。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

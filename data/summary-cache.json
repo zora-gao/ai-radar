@@ -29710,5 +29710,242 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/nyx-4": {
+    "title_clean": "Playground：AI黑客竞技奖励平台",
+    "summary": "Playground是一个AI黑客竞技平台，用户通过破解AI代理系统可获得每周10万美元以上的奖励。该平台为AI安全测试和漏洞挖掘提供了新场景，对产品经理了解AI系统安全边界和漏洞防护有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fudge-mcp": {
+    "title_clean": "Fudge MCP：AI网站设计风格提取工具",
+    "summary": "Fudge MCP是一个工具，旨在为AI代理提供从现有网站提取设计风格的能力，帮助AI理解和应用网页设计元素，为AI代理在设计和内容生成方面提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/marked-ql": {
+    "title_clean": "Marked QL：Finder即时Markdown预览工具",
+    "summary": "Marked QL是一款macOS系统工具，为Finder提供即时Markdown文件预览功能，帮助用户快速查看Markdown内容而不需打开编辑器，提升文档浏览效率。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/knockoff-2": {
+    "title_clean": "Knockoff：电商平台正品保障工具",
+    "summary": "Knockoff是一个电商平台，专注于提供正品商品，避免假冒伪劣产品。该平台直接与品牌方合作，确保商品来源可靠，为消费者提供购物保障。对于元宝产品经理而言，这反映了用户对正品保障的需求，可作为AI购物助手功能设计的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tailmux": {
+    "title_clean": "TailMux：多Tailscale网络同时管理工具",
+    "summary": "TailMux允许用户同时管理多个Tailscale tailnet，无需切换或使用虚拟机。这款工具解决了多网络环境下的管理痛点，为需要同时连接多个隔离网络的产品经理提供了技术参考，特别是在企业级应用和远程协作场景中具有实用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentkey": {
+    "title_clean": "AgentKey：AI代理一站式实时数据市场",
+    "summary": "AgentKey是一个为AI代理提供一站式实时数据市场的平台，使AI代理能够获取和使用实时数据。这对元宝产品经理有参考价值，因为它展示了AI代理与实时数据结合的服务场景，可能启发元宝在数据获取和应用方面的功能拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/speechify": {
+    "title_clean": "Simba Voice Agents：语音助手工具",
+    "summary": "Simba Voice Agents 是基于 Simba 3.2 语音模型构建的语音助手工具，号称使用全球排名第一的语音模型。该产品专注于语音交互能力，为产品经理提供了语音助手领域的技术参考和竞品对标方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff": {
+    "title_clean": "苹果6000亿美元市值反弹：AI芯片抛售潮推动资金回流",
+    "summary": "投资者因AI支出担忧而抛售芯片和云计算巨头股票，导致资金回流苹果公司，推动其市值增长6000亿美元。这一市场动态反映了AI投资热潮后的资金轮动趋势，对元宝产品经理评估AI商业化周期和用户投资心理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nomac": {
+    "title_clean": "NoMac.app：AI代理的无头iOS应用发布工具",
+    "summary": "NoMac.app是一个专为AI代理设计的无头iOS应用发布管道，使AI代理能够直接在iOS平台上部署和运行。这一工具解决了AI代理在移动端部署的技术障碍，为元宝产品经理提供了AI代理跨平台部署的新思路，特别是在移动端服务场景的拓展上具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/osaurus": {
+    "title_clean": "Osaurus：本地运行的开源AI代理工具",
+    "summary": "Osaurus是一款可在Mac设备上100%本地运行的开源AI代理工具，为用户提供完全隐私保护的AI代理服务，无需联网即可执行任务，对注重数据安全和离线使用的AI产品经理具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-13/ai-risks-never-skilling-new-research-on-loss-of-critical-thinking-skills": {
+    "title_clean": "研究人员担忧AI可能导致人类技能退化",
+    "summary": "研究人员提出担忧，AI可能使高风险职业的专家群体无法建立真正的专业能力，引发对人类技能发展长期影响的思考，对产品经理评估AI辅助与人类能力平衡有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/how-scambaiters-fight-online-fraud-scam-texts-and-organized-crime": {
+    "title_clean": "反诈骗：民众反击诈骗者的新方式",
+    "summary": "文章介绍了反诈骗(Scambaiting)这一新兴现象，即普通民众主动反击诈骗者的方式。这反映了当前诈骗泛滥背景下，用户对安全防护的新需求，对AI助手产品在安全防护和反欺诈功能开发方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/loomal": {
+    "title_clean": "Loomal：MCP服务器快速商业化工具",
+    "summary": "Loomal是一个能让开发者在5分钟内将任何MCP服务器商业化且无需抽成的工具，解决了AI服务变现的痛点，为元宝产品经理提供了AI服务商业化模式的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/saudi-arabia-becomes-top-buyer-in-taiwan-s-young-drone-industry": {
+    "title_clean": "沙特阿拉伯成为台湾无人机产业最大买家",
+    "summary": "沙特阿拉伯上月创纪录地从台湾购买了价值4720万美元的无人机，显示台湾新兴的无人机产业正对买家产生更大吸引力。这一市场动态可能为AI助手在无人机控制、数据分析或相关服务场景中的应用提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/morgan-stanley-s-wilson-sees-profit-boost-for-stocks-beyond-tech": {
+    "title_clean": "摩根士丹利：科技股以外企业利润将增长",
+    "summary": "摩根士丹利策略师预测，本季度科技巨头以外的美国企业将公布强劲盈利，这将扩大股市上涨范围。这一市场趋势对AI产品经理有参考价值，可能影响投资策略和市场情绪，进而影响AI产品的商业化方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/xi-to-debut-at-china-s-flagship-ai-summit-as-us-rivalry-heats-up": {
+    "title_clean": "习近平将出席中国旗舰AI峰会，中美AI竞争加剧",
+    "summary": "中国国家主席习近平将首次出席中国旗舰AI峰会，表明北京日益重视人工智能技术，同时中美在AI领域的竞争正在加剧。这一事件反映了AI在国家战略层面的重要性提升，对元宝产品经理了解全球AI政策环境和发展方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/jp/news/newsletters/2026-07-13/TI3F02VTTCZK00": {
+    "title_clean": "苹果Mac芯片战略转向：自动驾驶车失败奠定AI基础",
+    "summary": "苹果终止自动驾驶汽车开发，但其技术遗产为当前AI竞争力提供了基础。这一战略转向表明苹果正在将自动驾驶领域的AI技术重新整合到Mac芯片和AI产品中，对理解苹果AI战略布局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/minimax-shares-slump-after-jpmorgan-cuts-target-price-further": {
+    "title_clean": "MiniMax股价大跌：摩根大通再次下调目标价",
+    "summary": "MiniMax Group股价大幅下跌，摩根大通在不到一周内第二次下调这家中国AI模型制造商的目标价，原因是担忧新融资导致的股权稀释问题。这反映了市场对AI公司估值和融资策略的关注，对元宝产品经理评估AI公司商业化路径和投资者预期有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/review-dyson-hushjet-mini-cool-fan-is-in-high-demand-this-summer": {
+    "title_clean": "戴森推出100美元便携风扇：应对高温且销量超预期",
+    "summary": "戴森推出新款便携风扇，在纽约市场成为热门产品且供不应求。这款产品的高科技定位和热销表现反映了消费者对便携降温解决方案的需求增长，对元宝在智能家电和消费电子领域的AI服务场景拓展具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

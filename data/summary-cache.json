@@ -29947,5 +29947,102 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/sk-hynix-selloff-is-not-a-huge-problem-kunst-says-video": {
+    "title_clean": "SK Hynix股价下跌不是大问题，投资机构称",
+    "summary": "Cleo Capital创始人Sarah Kunst表示，SK海力士股价及韩国股市的下跌并非问题，指出SK海力士过去一年涨幅已超过500%。此资讯对产品经理了解半导体行业动态及市场波动对AI硬件供应商的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/intel-invests-5-billion-in-irish-hub-to-keep-up-in-ai-chip-race": {
+    "title_clean": "Intel投资50亿美元扩建爱尔兰工厂，争夺AI芯片制造主导权",
+    "summary": "Intel宣布投资50亿美元扩建爱尔兰工厂，旨在重夺AI芯片制造主导地位。这一投资反映了AI芯片市场的激烈竞争态势，对元宝产品经理了解AI基础设施供应链和算力成本变化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone": {
+    "title_clean": "苹果起诉OpenAI涉嫌窃取知识产权，威胁其iPhone竞品计划",
+    "summary": "苹果公司起诉OpenAI系统性窃取其知识产权，这起诉讼可能严重干扰OpenAI开发iPhone竞品设备的计划，即使案件尚未最终裁决。这对元宝产品经理了解AI巨头间的知识产权纠纷及对硬件产品开发的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag": {
+    "title_clean": "Meta路易斯安那数据中心投资超2500亿美元",
+    "summary": "Meta宣布追加400亿美元投资路易斯安那数据中心园区，总投资将超过2500亿美元。这反映了AI基础设施建设的巨大投入规模，对元宝产品经理了解AI算力基础设施成本与扩张策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/eu-to-present-plan-to-restrict-children-s-access-to-social-media": {
+    "title_clean": "欧盟拟限制儿童使用社交媒体",
+    "summary": "欧盟将提出一项法律，限制儿童访问社交媒体，这是全球范围内对社交媒体危害性日益增长的共识的一部分。这一政策动向可能影响元宝在儿童安全内容过滤和年龄验证方面的产品设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/antenna-maker-smag-sinks-in-debut-as-defense-stock-appetite-ebbs": {
+    "title_clean": "德国Smag公司上市首日股价大跌，欧洲国防股需求减弱",
+    "summary": "德国Smag Mobile Antenna Masts AG在德国上市首日股价较发行价暴跌33%，成为欧洲国防股需求减弱的最新迹象。这对元宝产品经理了解特定行业市场情绪和投资趋势有参考价值，特别是在评估与国防相关科技产品的市场接受度时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/hyundai-hymtf-workers-strike-over-bonuses-ai-robot-job-security": {
+    "title_clean": "现代汽车工人因奖金和机器人就业保障问题罢工",
+    "summary": "现代汽车工人开始为期三天的部分罢工，要求提高奖金并确保工作岗位不会因机器人技术而流失。这一事件反映了制造业中工人对自动化技术替代人工的担忧，以及企业平衡技术创新与员工权益的挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-13/south-korea-to-tap-record-ai-tax-windfall-to-fund-future-growth": {
+    "title_clean": "韩国将利用AI半导体创纪录税收推动未来增长",
+    "summary": "韩国预计从AI驱动的半导体繁荣中获得创纪录的税收收入，为政府提供财政支持以资助其雄心勃勃的AI发展计划。这一税收增长反映了AI产业对国家经济的显著贡献，为元宝产品经理提供了AI产业经济价值的重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

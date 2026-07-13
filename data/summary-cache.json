@@ -30300,5 +30300,57 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/apple-s-lawsuit-could-disrupt-openai-bid-to-rival-iphone-video": {
+    "title_clean": "苹果起诉OpenAI可能扰乱其iPhone竞品计划",
+    "summary": "苹果指控OpenAI系统性窃取其知识产权的诉讼可能扰乱这家AI公司的设备野心，即使案件尚未解决。这反映了AI巨头在硬件领域面临的知识产权挑战，对元宝产品经理评估AI服务与硬件结合的潜在风险有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/bloomberg-tech-7-13-2026-video": {
+    "title_clean": "AI抛售潮、苹果与OpenAI之争及国防科技未来 | Bloomberg Tech",
+    "summary": "Bloomberg分析韩国AI引发的股市抛售如何蔓延至美国市场，导致SK海力士ADR连续两日下跌。同时探讨苹果与OpenAI的竞争关系及国防科技的未来发展，为元宝产品经理提供AI市场波动和科技巨头战略布局的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai": {
+    "title_clean": "苹果对OpenAI的贸易秘密诉讼：指控员工未经授权访问系统",
+    "summary": "苹果对OpenAI提起贸易秘密诉讼，指控包括员工开玩笑讨论未经授权访问苹果系统，以及要求求职者携带苹果敏感信息。此案反映了AI巨头间知识产权保护与商业竞争的紧张关系，对产品经理评估AI服务安全边界与商业合作风险有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules": {
+    "title_clean": "AI agent crawlers需获授权：9月15日起部分网站将默认拦截",
+    "summary": "AI代理爬虫将于9月15日起在部分网站被默认拦截，这类爬虫代表用户实时获取网页内容以提供答案。Cloudflare宣布这一变化，要求AI爬虫必须获得授权才能访问网站，这对AI助手和Agent产品的内容获取策略产生直接影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

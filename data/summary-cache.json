@@ -31493,5 +31493,94 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044417&idx=1&sn=de4b8b792440fe1c139969d1b8024bf0": {
+    "title_clean": "视频音频理解技术：实时处理长视频与复杂环境声音",
+    "summary": "该团队开发了能够实时理解长视频内容和在嘈杂环境中清晰识别声音的技术，将视频音频理解能力从数字世界扩展到物理世界，为AI助手在复杂环境下的感知能力提供了新方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044417&idx=2&sn=2850226b3f27f583fa84efabfa50f2b4": {
+    "title_clean": "北大团队：相变存储器神经动力学系统芯片，实现亚10毫秒脑皮层重建",
+    "summary": "北京大学团队研发出基于相变存储器的神经动力学系统芯片，实现了亚10毫秒的脑皮层重建速度。这一技术突破为AI硬件加速提供了新思路，对元宝产品经理在AI芯片架构和边缘计算方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044209&idx=2&sn=09300c90c11ea0f1e239a93093a6f46e": {
+    "title_clean": "VISReg：AI视觉理解模型",
+    "summary": "VISReg是Yann LeCun连续转发并高度认可的AI视觉理解模型，可能具备强大的图像识别与理解能力。作为AI领域权威专家认可的技术，其技术突破可能对多模态AI助手的发展方向提供重要参考，值得产品经理关注其技术特点与应用潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044179&idx=1&sn=c48e11247664eac72f69339baa6a86ea": {
+    "title_clean": "鸿蒙系统选择极顶数创的AI3D世界模型技术",
+    "summary": "鸿蒙系统与极顶数创合作，引入其AI3D世界模型技术。这一合作可能为鸿蒙带来三维空间理解和生成能力，增强其在元宇宙、AR/VR等场景的应用潜力。对产品经理而言，这反映了AI3D技术在操作系统层面的整合趋势，值得关注其技术实现和商业化路径。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit": {
+    "title_clean": "OpenAI回应苹果商业秘密诉讼",
+    "summary": "OpenAI就苹果公司提起的商业秘密诉讼发表声明，认为该诉讼缺乏依据。这反映了AI巨头间可能存在的知识产权纠纷，对产品经理了解行业法律风险和竞争态势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/india-s-udaan-secures-160-million-to-boost-finances-before-ipo": {
+    "title_clean": "印度电商平台 Udaan 获1.6亿美元融资，为IPO做准备",
+    "summary": "印度B2B电商平台Udaan获得1.6亿美元融资，用于增强财务状况，为即将进行的资本市场上市做准备。这反映了印度B2B电商领域的发展态势和资本动向，对元宝产品经理了解新兴市场电商融资和上市策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/multilingual-semantic-retrieval": {
+    "title_clean": "Multilingual Semantic Retrieval for Apple Music Search：多语言语义搜索技术",
+    "summary": "Apple Music推出多语言语义搜索技术，支持150多个地区和数十种语言的搜索需求，能够处理拼写错误和跨语言查询，提升音乐搜索的准确性和召回率，对AI助手在多语言场景下的搜索优化有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

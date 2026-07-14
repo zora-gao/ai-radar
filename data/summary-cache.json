@@ -31281,5 +31281,92 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery": {
+    "title_clean": "Google Images 推出类似 Pinterest 的发现功能",
+    "summary": "Google Images 进行了 Pinterest 风格的改版，新增了'为你推荐'功能，根据用户兴趣和浏览历史展示个性化图片画廊，提升图片发现体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face": {
+    "title_clean": "Hugging Face CEO：企业更倾向开放模型，前沿模型重要性下降",
+    "summary": "Hugging Face CEO指出，企业因成本、可访问性和所有权考虑，越来越倾向于使用开放模型而非前沿模型。这反映了AI部署策略的转变，对产品经理评估模型选择和商业化策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer": {
+    "title_clean": "Meta高管：工程师AI令牌预算或将设上限",
+    "summary": "Instagram负责人Adam Mosseri预测，企业将需要像管理工资或其他运营费用一样管理AI令牌支出，工程师可能面临AI令牌使用预算限制。这对AI产品经理了解大型科技公司AI资源管理策略和成本控制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/uber-is-said-to-be-in-advanced-talks-on-delivery-hero-takeover": {
+    "title_clean": "Uber 正就收购德国食品配送公司 Delivery Hero 进行深入谈判",
+    "summary": "网约车巨头Uber正与德国食品配送公司Delivery Hero进行收购谈判，这表明Uber可能加强其在食品配送领域的布局，对元宝产品经理了解AI服务场景扩展和行业整合趋势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/managing-ai-investments-in-agentic-era": {
+    "title_clean": "How to manage AI investments in the agentic era：企业AI投资管理指南",
+    "summary": "文章探讨企业在AI Agent时代如何通过衡量每美元产生的有效工作、提高效率和扩展高价值工作流程来管理AI投资，为元宝产品经理提供了AI商业化与投资回报的参考框架。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies": {
+    "title_clean": "Superhuman：AI邮件自动回复功能",
+    "summary": "Superhuman推出最新AI邮件自动回复功能，测试显示生成的回复几乎无需编辑，质量显著提升，展示了AI在邮件场景中的实用价值，对AI助手产品在邮件服务场景的应用有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power": {
+    "title_clean": "Kalshi：AI计算电力期货交易平台",
+    "summary": "Kalshi推出工具预测计算电力未来价格，正与其他交易所和指数运营商一起，围绕驱动人工智能的电力商品构建市场。这反映了AI基础设施金融化趋势，对元宝产品经理了解AI资源市场化和成本波动有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

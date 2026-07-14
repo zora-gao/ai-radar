@@ -31431,5 +31431,67 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary": {
+    "title_clean": "Google Images：视觉搜索25年创新历程",
+    "summary": "Google Images迎来25周年，回顾其视觉搜索领域的重要里程碑，并展示探索和创建视觉内容的新方式。对产品经理了解视觉搜索技术演进和用户交互模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out": {
+    "title_clean": "Anthropic最新广告引发用户不适",
+    "summary": "Anthropic一直试图将自己定位为其他AI公司的道德制衡者，但其最新营销策略却通过拥抱对AI的批评来塑造品牌形象，这种反向营销手法反而引起了用户的负面反应，值得产品经理思考AI品牌定位与用户接受度的平衡。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says": {
+    "title_clean": "国际清算银行警告：AI投资竞赛可能导致债务泡沫破裂",
+    "summary": "国际清算银行指出，当前AI基础设施建设的投资竞赛正超越以往技术热潮，可能导致严重市场动荡。这一预警对元宝产品经理具有重要参考价值，提醒在AI产品开发中需警惕过度投资和债务风险，避免重蹈历史覆辙。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone": {
+    "title_clean": "Hinge创始人融资1800万美元打造AI语音相亲服务Overtone",
+    "summary": "Hinge创始人获1800万美元融资，推出名为Overtone的AI语音相亲服务，该服务以语音和音频为核心，通过AI提供高度精选的相亲匹配。这对元宝产品经理有参考价值，展示了AI在社交场景的创新应用，特别是语音交互在亲密关系建立中的潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta": {
+    "title_clean": "Apple开放全新Siri AI公测：iOS 27公众测试版上线",
+    "summary": "Apple发布iOS 27公众测试版，所有iPhone用户均可体验全新Siri AI助手。这是苹果对Siri的重大重构，标志着其AI战略的重要进展，对AI助手产品经理具有直接参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

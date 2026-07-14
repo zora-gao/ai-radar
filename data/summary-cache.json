@@ -31123,5 +31123,76 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/software-stocks-sink-as-ibm-miss-delivers-devastating-blow": {
+    "title_clean": "IBM业绩不及预期引发软件股大跌",
+    "summary": "IBM发布初步业绩报告未达分析师预期，导致软件和IT服务公司股价周二大幅下跌，重新引发市场对企业盈利能力的担忧。这一事件对元宝产品经理具有参考价值，反映了企业级AI服务市场的波动性和投资者对大型科技公司AI业务表现的密切关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/apple-gets-rare-bear-rating-as-keybanc-downgrades-on-demand-risk": {
+    "title_clean": "苹果获罕见看空评级：KeyBanc下调股票评级",
+    "summary": "苹果公司罕见地获得看空评级，KeyBanc Capital Markets将其股票评级下调至\"低配\"，理由是对需求及估值的担忧。这一评级变化可能预示着苹果产品需求面临挑战，对元宝产品经理评估高端消费电子市场趋势和用户购买力变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-14/private-capital-is-plugging-state-spending-gap-zelter-video": {
+    "title_clean": "私人资本填补政府支出缺口，Apollo高管称",
+    "summary": "Apollo全球管理公司总裁Jim Zelter表示，私人资本正填补政府因资产负债表无法支持大规模工业资本而留下的融资缺口。这一趋势可能影响AI基础设施投资格局，为AI企业提供新的资金来源，值得产品经理关注资本流向变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-14/bailey-boe-might-need-to-respond-if-an-ai-bubble-bursts-video": {
+    "title_clean": "英国央行行长警告AI泡沫破裂可能影响经济",
+    "summary": "英国央行行长Andrew Bailey警告称，AI股票泡沫破裂可能对英国经济造成连锁反应，并可能促使央行调整利率政策。这一言论反映了监管机构对AI市场过热风险的担忧，对产品经理评估AI商业化进程中的市场风险具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/nebius-to-sell-1-billion-in-ai-capacity-to-startup-reflection": {
+    "title_clean": "Nebius向Reflection AI出售10亿美元AI算力",
+    "summary": "云服务提供商Nebius Group与AI模型开发商Reflection AI达成协议，将向其提供价值超过10亿美元的算力支持。Reflection AI由两位前谷歌DeepMind研究员创立，此次交易反映了AI大模型训练对大规模算力的需求增长，对元宝产品经理评估AI基础设施合作与成本控制有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026": {
+    "title_clean": "2026年网络安全初创企业融资表现强劲",
+    "summary": "2026年第二季度，隐私和网络安全初创企业共获得44亿美元的种子期至成长期融资，虽然较第一季度有所回落，但仍显示出强劲的市场需求。这一趋势表明网络安全领域持续受到资本青睐，对AI助手产品在安全防护方面的功能拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -31024,5 +31024,104 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-14/famitsu-magazine-editor-in-chief-on-the-future-of-games-and-media": {
+    "title_clean": "Famitsu：游戏媒体40年发展报告",
+    "summary": "Famitsu作为40周年的游戏周刊媒体，展示了游戏媒体的发展历程、行业阴谋与点击驱动模式，对元宝产品经理了解游戏内容生态和媒体转型有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back": {
+    "title_clean": "IBM：客户缩减支出导致第二季度销售额未达预期",
+    "summary": "IBM公布初步季度销售数据，未达分析师预期，CEO Arvind Krishna表示客户缩减了支出。这反映了企业客户在AI服务上的预算谨慎态度，对元宝产品经理评估企业级AI服务市场需求和定价策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/china-solar-giant-longi-green-sees-deeper-first-half-loss": {
+    "title_clean": "隆基绿能：上半年亏损扩大，尽管太阳能出口曾激增",
+    "summary": "隆基绿能科技预计上半年净亏损将扩大，尽管今年早些时候太阳能出口曾大幅增长。这反映了光伏行业面临的挑战，对元宝产品经理了解清洁能源行业动态和企业经营状况有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-14/fed-s-warsh-forms-ai-panel-with-andreessen-stanford-s-jones-to-study-economy": {
+    "title_clean": "美联储三位AI专家人选显示对AI的积极态度",
+    "summary": "美联储任命三位AI专家加入特别工作组，Kevin Warsh认为AI可能使经济更快扩张而不引发同等通胀，这反映监管层对AI经济潜力的认可，对AI产品经理了解政策风向和AI经济价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/ai-tools-can-help-job-hunters-cheat-on-interviews-and-coding-tests": {
+    "title_clean": "求职者使用AI面试作弊导致职场表现不佳",
+    "summary": "求职者利用AI工具通过面试，但在实际工作中表现不佳，导致管理者产生疑虑并试图改变这一现象。这反映了AI工具在求职场景中的滥用问题及其对招聘流程和职场表现的潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/malaysia-launches-probe-into-srinivasan-s-johor-startup-school": {
+    "title_clean": "马来西亚调查Srinivasan的柔佛创业学校",
+    "summary": "马来西亚当局对一家科技创业学校展开移民调查，此前投资者Balaji Srinivasan曾向官员推介该教育设施并呼吁支持。此事对元宝产品经理的参考价值在于了解国际教育科技项目的监管环境及潜在风险。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-14/softbank-billionaire-nuclear-fusion-as-key-to-ai-future-video": {
+    "title_clean": "软银创始人：核聚变是AI未来的关键能源",
+    "summary": "软银创始人孙正义表示，核聚变技术将为AI数据中心日益增长的能源需求提供最现实的解决方案。他强调在不久的将来，核聚变将成为支撑AI发展的关键能源技术，这对AI基础设施规划和能源战略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/philippine-outsourcing-group-cuts-revenue-jobs-forecasts-on-ai": {
+    "title_clean": "菲律宾外包集团下调营收与就业预期，归因于AI影响",
+    "summary": "菲律宾主要商业流程外包集团下调行业营收和就业预期，甚至警告未来业务可能萎缩，认为人工智能的出现正在影响传统外包业务模式，这对元宝产品经理评估AI对就业市场的影响及服务场景拓展有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

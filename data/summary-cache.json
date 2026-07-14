@@ -30424,5 +30424,105 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout": {
+    "title_clean": "SK海力士股价在首尔波动，受华尔街AI存储芯片抛售影响",
+    "summary": "SK海力士股价在首尔市场波动，投资者在华尔街AI存储芯片抛售后逢低买入。这反映了AI硬件市场的短期波动，对元宝产品经理了解AI基础设施投资情绪和硬件供应链变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone": {
+    "title_clean": "Uber产品负责人谈酒店、自动驾驶出租车与产品战略",
+    "summary": "Uber首席产品官Sachin Kansal向TechCrunch介绍了公司在金融服务领域的雄心，与Waymo日益复杂的关系，以及新成立的AV Labs数据运营业务。这些信息对元宝产品经理了解大型科技公司的多元化战略和AI在交通领域的应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044025&idx=1&sn=e7268436ea4de9b8c561b77e1adb6990": {
+    "title_clean": "AI工具：免费且不限期使用",
+    "summary": "该AI工具选择免费且不限期使用模式，与Codex封号、Claude查证件的做法形成对比。这反映了AI服务在收费策略上的差异化竞争，为产品经理提供了关于用户获取和商业模式的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation": {
+    "title_clean": "Nous Research：Hermes AI Agent 开发商寻求15亿美元估值融资",
+    "summary": "Nous Research正在寻求至少7500万美元融资，由Robot Ventures领投，USV等知名机构参投，公司估值达15亿美元。该公司是Hermes AI Agent的开发者，此轮融资反映了AI Agent领域的高估值趋势和资本热度，对元宝产品经理评估AI Agent商业化路径和竞品融资动态有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044025&idx=3&sn=329919b9bb8108ddc5d0f84bf942ff8c": {
+    "title_clean": "港大提出首个适配300+任务的持续学习架构",
+    "summary": "香港大学在ICML2026上提出了一种新型持续学习架构，能够适配300多种任务，突破了传统AI系统在多任务学习方面的限制。这一技术进展对元宝产品经理具有重要参考价值，可能为开发更强大的AI助手和Agent系统提供技术基础，特别是在处理复杂多任务场景方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/new-mountain-capital-ceo-ai-saaspocalypse-is-overstated-video": {
+    "title_clean": "New Mountain Capital CEO：AI SaaS泡沫被夸大",
+    "summary": "New Mountain Capital CEO Steve Klinsky讨论了当前私募市场状况，指出近期赎回请求主要来自信贷基金的散户投资者，认为AI SaaS领域的衰退被过度夸大，这对AI产品经理评估市场趋势和投资环境有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/tsmc-and-sk-hynix-pull-in-different-directions-video": {
+    "title_clean": "AI芯片巨头台积电与SK海力士走向分化",
+    "summary": "台积电股价飙升而SK海力股价下跌，同为AI芯片关键供应商的两家企业呈现不同发展态势。这对产品经理了解AI芯片供应链格局变化及成本趋势有参考价值，可能影响AI硬件成本与性能规划。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-13/sunrun-s-experiment-to-turn-homes-into-ai-hubs-video": {
+    "title_clean": "Sunrun：家庭太阳能电池AI计算中心计划",
+    "summary": "Sunrun CEO宣布将利用家庭太阳能和电池系统构建AI计算中心，房主每月可赚取数百美元。这一计划将家庭能源设施转变为AI算力节点，开辟了家庭能源与AI结合的新商业模式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -30926,5 +30926,103 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/pgdog": {
+    "title_clean": "PgDog：PostgreSQL 无缝扩展工具",
+    "summary": "PgDog是一款PostgreSQL数据库扩展工具，允许用户在不修改应用程序的情况下实现数据库的水平扩展，解决了传统数据库扩展需要应用层改造的痛点，为AI应用提供更灵活的数据架构支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/ecb-digital-euro-trial-enlists-firms-from-revolut-to-unicredit": {
+    "title_clean": "ECB数字欧元试验：Revolut到UniCredit等36家支付服务商参与",
+    "summary": "欧洲央行宣布数字欧元试验，Revolut、UniCredit和德银等36家支付服务提供商将参与。这标志着央行数字货币(CBDC)在支付服务领域的实际应用测试，对AI助手在金融场景中的支付集成具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-14/state-street-to-continue-buying-tech-dips-veitmane-says-video": {
+    "title_clean": "State Street：继续买入科技股AI交易机会",
+    "summary": "State Street Global Markets股票研究主管Marija Veitmane讨论人工智能交易，认为软件股票存在机会，分析师观点趋于稳定。这反映了机构对AI相关科技股的持续看好，对元宝产品经理了解AI投资趋势和资本市场对AI技术的信心有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/byju-s-founder-loses-bid-to-overturn-singapore-jail-sentence": {
+    "title_clean": "Byju's创始人上诉失败，新加坡维持六个月监禁判决",
+    "summary": "Byju's创始人试图推翻新加坡高等法院对其六个月监禁判决的上诉被驳回，这意味着他将被禁止返回新加坡，除非服刑完毕。这一事件对教育科技行业具有重要警示意义，特别是对大型创业公司的公司治理和创始人责任问题。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/pure-dc-building-finland-ai-data-center-secures-microsoft-deal": {
+    "title_clean": "Pure DC在芬兰建设AI数据中心，获得微软合作",
+    "summary": "Pure Data Centres在芬兰建设AI数据中心，微软将成为其客户之一。这反映了大型科技公司对AI基础设施的持续投入，以及数据中心在支持AI服务方面的重要性，对元宝产品经理了解AI基础设施布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/trillion-dollar-chip-rout-trains-spotlight-on-tsmc-asml-results": {
+    "title_clean": "全球芯片巨头台积电与ASML财报受关注：AI科技股抛售潮下的市场信号",
+    "summary": "台积电和ASML本周财报发布之际正值AI科技股抛售潮引发投资者担忧，这两家芯片巨头的业绩表现对评估AI产业健康状况及未来趋势具有重要参考价值，可能影响AI硬件供应链策略与投资决策。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/trump-accounts": {
+    "title_clean": "Trump Accounts：儿童长期财务规划工具",
+    "summary": "Trump Accounts是一款专为儿童设计的长期财务规划工具，帮助家长为孩子建立财务安全保障。该产品可能涉及储蓄、投资或教育基金等功能，为元宝产品经理提供儿童金融服务场景的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/huawei-and-apple-get-boost-in-china-from-memory-crisis-idc-says": {
+    "title_clean": "华为与苹果在中国智能手机市场扩大领先优势",
+    "summary": "华为和苹果在中国智能手机市场进一步扩大领先优势，消费者选择购买高端设备或推迟升级，IDC报告显示两家公司在第二季度出货量增长。这对元宝产品经理了解高端消费电子市场趋势和用户购买行为有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

@@ -31194,5 +31194,92 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-14/ibm-falls-on-sales-miss-jpmorgan-soars-video": {
+    "title_clean": "IBM销售不及预期股价下跌，摩根大通股票交易超预期上涨",
+    "summary": "IBM第二季度 preliminary sales 低于预期，导致股价大幅下跌；摩根大通股票交易表现超预期，股价上涨。这反映了大型企业IT支出可能放缓，而金融服务领域表现强劲，对元宝产品经理评估企业客户需求变化和AI服务市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-14/ibm-falls-most-since-at-least-1968-on-sales-miss-video": {
+    "title_clean": "IBM销售额不及预期，股价创至少58年来最大跌幅",
+    "summary": "IBM公布第二季度 preliminary 销售数据不及市场预期，导致股价创下至少58年来最大单日跌幅。这一业绩下滑反映了传统科技巨头在AI转型过程中面临的挑战，对元宝产品经理评估AI商业化路径和企业服务市场格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant": {
+    "title_clean": "Spotify：AI音乐助手",
+    "summary": "Spotify推出AI驱动的对话功能，允许高级会员通过聊天方式发现音乐、播客和有声读物等，与ChatGPT类似的交互体验，展示了音乐流媒体平台向AI助手转型的趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers": {
+    "title_clean": "纽约州暂停所有新建数据中心审批",
+    "summary": "纽约州成为首个暂时暂停大型数据中心审批的州，州长凯西·霍赫尔认为AI驱动的建设热潮不应以更高的电力成本为代价。这一政策变化可能影响AI基础设施扩张速度，对元宝等AI产品的算力规划和成本控制具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-mulls-new-funding-weeks-after-7-billion-round-ft-says": {
+    "title_clean": "DeepSeek考虑新一轮融资，刚完成70亿美元融资",
+    "summary": "中国AI公司DeepSeek在完成70亿美元融资后，正考虑新一轮融资。这表明AI领域头部企业资金需求强劲，可能影响行业竞争格局和产品发展策略，对元宝产品经理评估AI行业资本动向和竞争态势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/proactive-agent-research-environment": {
+    "title_clean": "Proactive Agent Research Environment：主动式AI助手评估框架",
+    "summary": "该研究环境通过模拟真实用户行为，评估主动式AI助手的预测需求与自主执行任务能力，解决了当前缺乏真实用户模拟框架的问题，为开发更智能的数字助手提供了评估工具。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-14/ai-spending-reshapes-tech-winners-video": {
+    "title_clean": "AI支出重塑科技行业格局",
+    "summary": "摩根大通首席市场策略师分析最新CPI报告可能如何影响美联储政策，以及AI基础设施投资如何改变科技行业竞争格局，为AI产品经理提供市场趋势和投资方向的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

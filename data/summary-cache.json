@@ -31895,5 +31895,44 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media": {
+    "title_clean": "Reelful：AI社交媒体短视频生成工具",
+    "summary": "Reelful是一款AI应用，可将用户的相册内容自动转换为适合社交媒体的短视频，旨在解决传统视频编辑工具复杂耗时的问题，帮助用户轻松创建社交内容。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models": {
+    "title_clean": "Anthropic与黑石集团押注：AI实施服务将成下一个万亿美元市场",
+    "summary": "Anthropic支持的Ode公司成立，AI实验室认为将工程师嵌入企业内部是加速企业AI采用的关键。这反映了行业从模型研发转向实施服务的战略转变，为元宝提供了企业AI服务模式的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/real-world-voiceeq": {
+    "title_clean": "Real World VoiceEQ：语音AI人类质量测量工具",
+    "summary": "Real World VoiceEQ推出了一款测量语音AI人类质量的工具，通过评估语音交互的自然度和拟人化程度，帮助开发者优化AI语音助手的表现。这一工具对元宝产品经理评估语音交互质量和用户体验具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

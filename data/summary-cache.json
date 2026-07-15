@@ -31870,5 +31870,30 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://news.crunchbase.com/venture/corporate-vc-splitting-paypal-fidelity-brotman-alpha": {
+    "title_clean": "企业风险投资市场分化：头部机构集中化趋势",
+    "summary": "PayPal和Fidelity International等企业风投机构缩减投资规模，数据显示市场权力正向头部机构集中，小型基金将首当其冲受到影响。这一趋势对AI领域投资格局和产品商业化策略有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026": {
+    "title_clean": "金融科技融资增长23%，投资者聚焦AI与金融基础设施",
+    "summary": "2026年上半年金融科技创业公司融资额同比增长23%，但交易数量下降25%以上，显示投资者正集中资金投向AI和金融基础设施领域，这对元宝产品经理了解AI在金融领域的投资趋势和商业化机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

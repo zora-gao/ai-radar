@@ -31973,5 +31973,69 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-snaprefund": {
+    "title_clean": "CEO Interview: SnapRefund",
+    "summary": "SnapRefund CEO接受CB Insights采访，分享公司对市场的看法、客户需求定位及公司战略。作为一家企业服务公司，其CEO阐述了市场定义和公司定位，对了解企业服务领域市场策略和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data": {
+    "title_clean": "AI音乐生成器Suno被曝使用YouTube音频数据训练",
+    "summary": "黑客通过员工凭证获取源代码，发现Suno AI音乐生成器抓取了YouTube上数十年的音频数据进行训练。这一事件揭示了AI音乐生成工具的数据来源问题，对产品经理评估数据合规性和版权风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-lyzr": {
+    "title_clean": "Executive Interview: Lyzr",
+    "summary": "Lyzr首席商务官Siddharth Asokan接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。作为AI产品，其高管观点对了解企业级AI助手市场定位和客户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai": {
+    "title_clean": "Apple Intelligence获准在中国上线，将集成阿里巴巴通义AI模型",
+    "summary": "Apple Intelligence已获中国监管机构批准，将通过与阿里巴巴合作引入通义AI模型，为苹果操作系统提供AI服务。这一长期传闻的合作标志着苹果AI服务正式进入中国市场，对产品经理了解国际科技巨头本土化AI策略及合作模式具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/unlocking-self-improvement-gpt-red": {
+    "title_clean": "GPT-Red：OpenAI 自动化红队系统",
+    "summary": "OpenAI 推出 GPT-Red 自动化红队系统，通过自我对抗游戏提升 AI 安全性、对齐能力和提示注入鲁棒性。该系统通过自我对抗机制自动发现并修复 AI 模型中的安全漏洞，对产品经理了解 AI 安全防护机制和模型鲁棒性提升方法具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

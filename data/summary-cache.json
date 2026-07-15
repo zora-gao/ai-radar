@@ -31672,5 +31672,167 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/jam-pod": {
+    "title_clean": "Jam-Pod：个人音乐收藏播放器",
+    "summary": "Jam-Pod是一款面向拥有个人音乐收藏用户的播放器应用，帮助用户管理和播放自有的音乐库。对于元宝产品经理而言，这反映了用户对本地化内容管理和个性化播放体验的需求，可作为AI助手在音乐场景下的功能参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nudge-26": {
+    "title_clean": "nudge2.0：AI周计划执行助手",
+    "summary": "nudge2.0是一款AI周计划执行工具，能够为用户规划整周的行动安排并督促执行。这款产品聚焦于AI助手的时间管理与任务执行场景，对元宝产品经理在AI任务规划与执行功能设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tiptap": {
+    "title_clean": "Tiptap AI Toolkit：AI实时文档编辑工具",
+    "summary": "Tiptap AI Toolkit允许AI助手直接实时编辑文档，为AI与文档处理场景的结合提供了新方案。产品经理可关注其技术实现方式和交互设计，评估是否将其作为元宝文档处理能力的参考或合作方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/professional-email-templates": {
+    "title_clean": "Professional Email Templates：职场与求职邮件模板库",
+    "summary": "提供75个可直接使用的专业邮件模板，涵盖工作沟通和求职场景，为用户提供标准化的商务邮件内容参考，有助于提升职场沟通效率和专业形象。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/deskmat-for-mac": {
+    "title_clean": "DeskMat：桌面文件隐私管理工具",
+    "summary": "DeskMat 1.3版本新增了隐藏单个文件和文件夹的功能，提供更私密的桌面管理体验。作为一款桌面隐私管理工具，它帮助用户保护敏感文件，对元宝产品经理在AI助手文件管理功能设计上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ccshare": {
+    "title_clean": "ccshare：多人协作Claude代码共享工具",
+    "summary": "ccshare是一个支持多人协作的Claude代码共享工具，允许多个用户同时共享和编辑Claude生成的代码。这类工具对产品经理有参考价值，特别是在AI助手协作功能开发方面，可以启发元宝在代码共享、团队协作场景下的产品功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/eddie-your-ai-video-editor": {
+    "title_clean": "Review by Eddie AI：视频团队协作反馈工具",
+    "summary": "Eddie AI是一款视频协作反馈工具，提供带时间戳的团队反馈功能，结合AI辅助提升视频审核效率。产品经理可参考其AI辅助协作模式，优化元宝在多媒体内容审核场景的交互设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/codenearby": {
+    "title_clean": "CodeNearby：开发者协作匹配工具",
+    "summary": "CodeNearby 2.0 是一款面向开发者的协作平台，类似于开发者版的Tinder，帮助开发者找到编程伙伴并共同构建项目。这款产品解决了开发者寻找合作伙伴的痛点，为产品经理提供了社交化协作工具的设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/eqk-eq-with-ai": {
+    "title_clean": "EQK：Mac动态AI音频均衡器",
+    "summary": "EQK是一款Mac应用程序，提供动态AI音频均衡功能，能够根据音频内容自动调整均衡设置，优化音频体验。产品经理可关注其AI技术在音频处理中的应用，以及如何将类似智能音频处理功能集成到AI助手产品中，提升多模态交互体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/quickquill-2": {
+    "title_clean": "QuickQuill：Mac端本地会议笔记工具",
+    "summary": "QuickQuill是一款专为Mac设计的会议笔记应用，专注于在设备本地处理会议记录，强调隐私保护和数据安全。产品经理可参考其本地化处理模式，为元宝增加类似本地会议记录功能，满足用户对隐私敏感场景的需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/co-present": {
+    "title_clean": "Copresent：手机控制Google幻灯片工具",
+    "summary": "Copresent是一款将手机转变为Google幻灯片遥控器的工具，允许用户通过手机远程控制演示文稿的播放。对于元宝产品经理而言，该产品展示了移动设备与办公软件交互的场景创新，可作为多设备协同功能的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flutterflow": {
+    "title_clean": "Campus：人机协作项目空间工具",
+    "summary": "Campus是一个专为人类和AI agents设计的协作项目空间平台，旨在提供统一的工作环境，促进人与AI助手之间的协作与任务管理，为AI助手团队协作场景提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yagni": {
+    "title_clean": "YAGNI：主动式AI代理团队管理工具",
+    "summary": "YAGNI是一款主动式AI代理团队管理工具，允许用户像管理人类团队一样管理AI代理。该产品专注于AI代理的主动协作与团队管理，为AI Agent的产品经理提供了团队协作模式的新思路，可能启发元宝在多代理协作方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

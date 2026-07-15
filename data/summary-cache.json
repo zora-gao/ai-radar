@@ -31633,5 +31633,44 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044259&idx=1&sn=9235c233d485042c26dbf67428e9537a": {
+    "title_clean": "WAIC思想者论坛：多位AI专家探讨人工智能发展",
+    "summary": "WAIC思想者论坛邀请了姚期智、Sutton、朱松纯、俞勇、李开复、郭毅可等AI领域专家共同探讨人工智能的发展方向与前沿思考，为产品经理提供行业顶尖专家的观点参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044209&idx=1&sn=36e5f9907ed7cd31219a187a71bf3f22": {
+    "title_clean": "强化学习之父Sutton创业：AI领域新动向",
+    "summary": "强化学习领域权威Richard Sutton年近70岁创业，标志着AI基础研究领域向商业应用转化。这一动向对元宝产品经理具有重要参考价值，可能预示着强化学习技术在AI助手和Agent产品中的新应用方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b": {
+    "title_clean": "OpenAI研究员王明正筹备AI药物发现初创公司，估值达20亿美元",
+    "summary": "OpenAI研究员王明正洽谈融资，计划成立AI药物发现初创公司，估值达20亿美元。这反映了投资者对AI在生命科学领域应用的浓厚兴趣，以及AI技术向专业垂直领域拓展的趋势，对元宝产品经理评估AI技术商业化路径和跨领域应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

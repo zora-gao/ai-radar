@@ -32187,5 +32187,117 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex": {
+    "title_clean": "OpenAI：面向Codex编程应用的发光键盘",
+    "summary": "OpenAI在与苹果的硬件法律诉讼期间，发布了一款价值230美元的发光键盘，专为配合其编程代理应用Codex使用。这表明OpenAI正在探索硬件与AI编程工具的结合，可能为其编程代理产品提供更完整的解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ma/stripe-acquisition-pace-accelerates-paypal": {
+    "title_clean": "Stripe加速收购步伐，拟以530亿美元收购PayPal",
+    "summary": "支付巨头Stripe与私募股权公司Advent International联合提出以超过530亿美元收购陷入困境的PayPal。这一潜在收购反映了支付行业整合加速，对元宝产品经理评估AI支付服务整合与商业策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/shippy-tech-blog": {
+    "title_clean": "What building Shippy taught us about building agents：构建AI Agent的经验与启示",
+    "summary": "本文分享了构建Shippy平台过程中关于AI Agent开发的关键经验，包括如何设计有效的代理架构、处理复杂任务以及优化用户交互。这些经验对元宝产品经理在开发AI Agent功能具有重要参考价值，特别是在提升自动化能力和用户体验方面。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt": {
+    "title_clean": "Model Routing Is Simple. Until It Isn't.",
+    "summary": "本文探讨了AI模型路由技术的复杂性和挑战，分析了在多模型系统中如何有效分配任务的技术难题。对于元宝产品经理而言，这有助于理解AI系统架构设计中的关键考量，特别是在构建多模型协作的AI助手产品时可能面临的技术挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-avawatz": {
+    "title_clean": "CEO Interview: AvaWatz",
+    "summary": "AvaWatz CEO接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了AI创业公司市场策略和产品定位的参考视角，对元宝产品经理了解AI行业竞争格局和产品方向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders": {
+    "title_clean": "One Layer Is Enough: 预训练视觉编码器适配图像生成研究",
+    "summary": "该研究提出了一种新方法，通过单层适配即可将预训练的视觉编码器有效应用于图像生成任务，解决了传统扩散模型在压缩潜在空间中训练效率与样本质量平衡的问题，为AI图像生成技术提供了新的优化思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-jones": {
+    "title_clean": "Executive Interview: Jones：CMO谈市场定位与客户需求",
+    "summary": "Jones公司首席营销官Peter Rawlinson接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。该访谈为元宝产品经理提供了AI服务领域企业市场定位和客户需求洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/clara-latent-reasoning": {
+    "title_clean": "CLaRa：结合检索与生成的连续潜在推理模型",
+    "summary": "CLaRa是一种新型检索增强生成模型，通过连续潜在推理技术解决了传统RAG在长上下文和检索-生成优化方面的不足，为AI助手提供了更高效的知识整合能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-orbitsedge": {
+    "title_clean": "Executive Interview: OrbitsEdge",
+    "summary": "OrbitsEdge CTO Rick Ward接受CB Insights采访，分享公司对市场的看法、客户需求定位以及公司在边缘计算领域的战略布局。访谈内容包含市场定义、公司定位及边缘计算市场分析，对了解企业级AI基础设施市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

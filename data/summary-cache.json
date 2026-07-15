@@ -31834,5 +31834,41 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/keepresso": {
+    "title_clean": "Keepresso：Mac系统唤醒工具",
+    "summary": "Keepresso是一款免费开源工具，允许用户自定义控制Mac电脑的唤醒状态，防止系统自动休眠，适用于需要长时间保持电脑活跃的场景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/velo-4": {
+    "title_clean": "Velo 3.0：AI视频基础设施平台",
+    "summary": "Velo 3.0是一款AI视频基础设施平台，旨在帮助用户更快地解释、培训和销售产品。该平台通过AI技术简化视频制作流程，可能为元宝在视频内容生成和培训场景方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia": {
+    "title_clean": "Nokia推出AI-RAN平台：基于NVIDIA的无线电网络技术",
+    "summary": "Nokia于7月15日推出AI-RAN平台，声称这是行业首个此类解决方案。该平台基于Nokia的anyRAN软件和NVIDIA技术构建，旨在通过AI增强无线电接入网络性能，可能对通信基础设施的智能化升级有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

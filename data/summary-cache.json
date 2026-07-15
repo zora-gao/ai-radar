@@ -32037,5 +32037,155 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling": {
+    "title_clean": "Thinking Machines：推出首个开源模型Inkling",
+    "summary": "Thinking Machines公司发布首个开源模型Inkling，这是其一年半来构建AI基础设施后的首次公开成果，旨在打破通用AI的单一模式，为AI助手和Agent领域提供差异化技术路径。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch": {
+    "title_clean": "SpaceX股价跌破135美元IPO价格，正值星舰发射前",
+    "summary": "SpaceX股价从上市后的高点持续下跌，显示市场对埃隆·马斯克在上市前后做出的承诺趋于理性。这一动态对产品经理评估高估值科技公司的市场预期和投资者情绪变化具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-fortaegis": {
+    "title_clean": "Executive Interview: Fortaegis：网络安全CTO谈市场定位与客户需求",
+    "summary": "Fortaegis公司CTO Pradeep Elamanchili接受CB Insights采访，分享了对网络安全市场的看法、客户需求分析以及公司定位。这为元宝产品经理提供了网络安全领域企业视角的市场洞察，有助于理解企业级AI安全服务的需求与机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-thryve": {
+    "title_clean": "Thryve CEO访谈：市场定位与客户需求分析",
+    "summary": "Thryve CEO Friedrich Lämmel接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在市场中的定位。作为一家AI相关企业，其市场策略和客户洞察对元宝产品经理了解行业竞争格局和用户需求变化具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-leo-ai": {
+    "title_clean": "Leo AI CEO访谈：AI助手市场定位与客户需求",
+    "summary": "Leo AI CEO Maor Farid接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在AI助手领域的定位。访谈探讨了如何定义市场空间以及公司如何满足客户需求，为AI产品经理提供了市场定位和客户洞察的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-novaspark-energy": {
+    "title_clean": "CEO Interview: NovaSpark Energy",
+    "summary": "NovaSpark Energy CEO Rick Harlow接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司在能源领域的定位。该访谈提供了能源行业CEO视角的市场洞察，对元宝产品经理了解能源行业AI应用场景有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai": {
+    "title_clean": "Microsoft利用AI修复创纪录的安全漏洞",
+    "summary": "微软在Patch Tuesday安全更新中修复了570个安全漏洞，创历史新高。公司表示这些漏洞的发现得益于AI技术的应用，展示了AI在提升软件安全性和漏洞检测方面的实际价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-cara": {
+    "title_clean": "Cara：AI平台CEO访谈",
+    "summary": "Cara CEO Vic Yeh接受CB Insights访谈，分享公司对市场的看法、客户需求分析以及Cara在AI平台领域的定位。访谈内容对了解AI平台市场格局和产品策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations": {
+    "title_clean": "Whatnot收购Shaped：强化实时直播购物推荐",
+    "summary": "直播购物平台Whatnot收购了专注于实时推荐和搜索的AI初创公司Shaped，此次收购将增强Whatnot的个性化能力，提升用户在直播购物中的商品推荐精准度，为AI在电商场景的应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action": {
+    "title_clean": "美国通过州和联邦行动推进AI安全",
+    "summary": "OpenAI提出\"反向联邦主义\"AI治理方法，通过州法律构建安全、民主的AI国家框架。这一动向表明美国正在加强AI安全监管，对元宝产品经理了解全球AI政策趋势和合规要求具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/thinkingmachines-inkling": {
+    "title_clean": "Welcome Inkling by Thinking Machines：AI内容创作协作平台",
+    "summary": "Thinking Machines推出Inkling，这是一款AI驱动的内容创作协作平台，旨在帮助团队更高效地创建和编辑内容。该平台可能整合了AI辅助写作、团队协作和内容管理功能，为内容创作者提供智能化支持，值得元宝产品经理关注AI在内容创作领域的应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise": {
+    "title_clean": "Ode with Anthropic：AI企业服务咨询平台",
+    "summary": "Ode与Anthropic合作推出企业服务，将AI工程师直接嵌入企业，旨在用少量工程师替代传统咨询团队。这一模式探索了AI在企业服务场景中的应用，为元宝产品经理提供了AI服务商业化与专业服务结合的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -31934,5 +31934,44 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls": {
+    "title_clean": "Rime：企业级AI客服呼叫处理平台",
+    "summary": "Rime获得2400万美元A轮融资，每月处理超过1亿次企业客户呼叫，为企业提供AI客服解决方案。该产品展示了AI在客服场景的规模化应用，对元宝在服务场景拓展和商业化方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch": {
+    "title_clean": "Emergent：印度AI编程独角兽完成1.3亿美元C轮融资",
+    "summary": "印度AI编程初创公司Emergent完成1.3亿美元C轮融资，成为独角兽企业。公司年化收入达1.2亿美元，拥有超过20万付费客户。这表明AI编程工具在印度市场快速增长，为元宝在新兴市场的商业化策略提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet": {
+    "title_clean": "互联网之父Vint Cerf正制定AI网络身份标准",
+    "summary": "互联网协议联合发明人Vint Cerf正在制定AI代理在开放互联网中的身份识别标准，旨在解决AI系统在网络中的身份认证与交互问题，这对AI Agent的规模化部署和互联网生态整合具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

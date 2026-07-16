@@ -32619,5 +32619,104 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/china-internet-stocks-catch-an-ai-lift-as-beijing-warms-to-tech": {
+    "title_clean": "中国互联网股获AI提振，北京对科技态度转暖",
+    "summary": "中国互联网股在长期跑输大盘后迎来反弹，受盈利预期改善、政策支持信号以及对AI领域乐观情绪的推动。这一趋势对元宝产品经理具有重要参考价值，表明中国AI政策环境正在改善，可能为AI产品创造更友好的市场环境。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant": {
+    "title_clean": "Applied Computing：石油天然气行业全厂AI模型",
+    "summary": "Applied Computing完成2000万美元A轮融资，旨在为石油、天然气和石化行业构建基础AI模型，为整个工厂提供智能化解决方案。这反映了AI技术在传统工业领域的垂直应用趋势，对元宝拓展行业垂直场景具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/nvidia-s-huang-courts-japanese-suppliers-with-kanda-pork-skewers": {
+    "title_clean": "Nvidia CEO黄仁勋访问日本AI供应链供应商",
+    "summary": "Nvidia CEO黄仁勋近日在东京中央神田地区会见日本AI供应链供应商，寻求加强合作。此举表明Nvidia正积极拓展全球AI供应链，特别是日本这一关键市场，对元宝产品经理了解AI硬件供应链布局和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories": {
+    "title_clean": "Nvidia 扩展与丰田的AI合作，赋能智慧城市与工厂",
+    "summary": "Nvidia 将向丰田提供AI硬件和软件，支持智慧城市、交通智能系统和汽车制造工厂，扩展双方长达十年的合作关系。这一合作展示了AI技术在工业制造和城市基础设施中的实际应用，对元宝产品经理了解AI技术落地场景和商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears": {
+    "title_clean": "Anthropic计划进行IPO投资者会议，大型上市临近",
+    "summary": "Anthropic正计划与投资者会面，为其潜在的大型IPO做准备。这标志着AI领域又一家重要公司即将进入资本市场，对元宝产品经理了解AI行业商业化进程和竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-15/fbi-crackdown-on-proxy-networks-rattles-obscure-industry": {
+    "title_clean": "FBI打击代理网络行业",
+    "summary": "FBI接管了Alarum Technologies Ltd.的网站，对代理网络行业进行打击。这一行动可能影响元宝产品经理对网络隐私工具和代理服务的合规性考量，以及相关AI服务场景中的数据安全策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-15/apple-gets-approval-for-alibaba-powered-iphone-ai-tools-in-china": {
+    "title_clean": "Apple获准在中国推出iPhone AI，与阿里、百度合作",
+    "summary": "Apple获得中国政府批准，在中国推出Apple Intelligence AI功能，这将帮助其在全球竞争最激烈的智能手机市场获得优势。通过与阿里巴巴和百度的合作，Apple得以在中国市场提供AI服务，这对元宝产品经理了解国际AI巨头在中国市场的本地化策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-15/hinge-debuts-friend-s-take-feature-letting-inner-circle-leave-testimonials": {
+    "title_clean": "Hinge：好友推荐功能上线",
+    "summary": "Hinge推出名为'Friend's Take'的新功能，允许用户邀请熟人撰写推荐内容展示在个人资料页，供其他单身用户参考。这一社交验证机制旨在提升用户资料的可信度和匹配质量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

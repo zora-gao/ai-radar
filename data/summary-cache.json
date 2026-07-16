@@ -32532,5 +32532,92 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044537&idx=2&sn=ad11deb65517808317bab640e0d7163f": {
+    "title_clean": "ISSTA2026|LAVE：面向扩散语言模型的约束解码",
+    "summary": "ISSTA2026会议上一项关于扩散语言模型约束解码的研究，提出LAVE方法，可能对AI语言模型的生成质量和可控性有技术参考价值，适合产品经理关注AI模型底层技术进展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic": {
+    "title_clean": "微软培训销售团队贬低OpenAI和Anthropic",
+    "summary": "微软正培训销售团队推广其自研AI模型，强调其比竞争对手OpenAI和Anthropic的模型更高效、更具成本效益。这反映了微软在AI市场的竞争策略转变，对产品经理了解大厂AI商业化竞争态势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/eu-india-move-to-expand-ties-beyond-landmark-free-trade-deal": {
+    "title_clean": "欧盟与印度扩大贸易合作，印度将参与欧盟旗舰研究计划",
+    "summary": "欧盟与印度同意就印度参与欧盟旗舰Horizon研究项目展开正式谈判，这标志着两国关系超越了一项重要的自由贸易协定，扩大了在科技和研究领域的合作。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044496&idx=1&sn=08a88ed0964527775088a1c0c36f0a77": {
+    "title_clean": "翁荔长文谈Harness自进化：Agent越用越强，评测难点怎么破？",
+    "summary": "翁荔深入探讨Harness自进化Agent技术，分析其如何通过使用不断强化能力，并针对Agent评测难点提出解决方案。这对元宝产品经理理解Agent技术演进路径和评测方法具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-15/google-to-allow-third-party-stores-in-its-app-store-next-week": {
+    "title_clean": "Google将允许第三方应用商店入驻其应用商店",
+    "summary": "Google宣布将从下周起允许美国用户在Google Play Store内下载第三方应用商店，这标志着其应用商店政策重大转变，可能影响移动应用分发生态和竞争格局，对产品经理评估应用商店策略和竞争环境有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-15/older-uk-teens-face-midnight-curfews-on-social-media-apps": {
+    "title_clean": "英国青少年社交媒体午夜宵禁政策",
+    "summary": "英国政府扩大对社交媒体服务的限制，要求部分应用对年满13岁的青少年实施午夜宵禁，并限制成瘾性功能。这一政策变化对元宝产品经理有参考价值，提示需关注青少年使用限制与合规要求，可能影响产品设计方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-15/nokia-to-sell-nvidia-powered-ai-mobile-network-gear-from-2027": {
+    "title_clean": "诺基亚与英伟达发布AI网络技术，实现数据传输量翻倍",
+    "summary": "诺基亚与英伟达合作开发AI网络技术，可帮助电信公司实现数据传输量翻倍，这是两家公司在网络基础设施领域的重要合作成果，对AI在通信网络中的应用具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

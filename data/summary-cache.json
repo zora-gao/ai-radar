@@ -33312,5 +33312,103 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/us-stock-futures-tumble-as-tsmc-s-results-revive-ai-concerns": {
+    "title_clean": "台积电业绩引发AI担忧，美股期货下跌",
+    "summary": "台积电业绩未能提振AI相关股票，同时中东局势恶化，导致美国股市期货周四下跌。这一市场动向反映了投资者对AI芯片需求可能放缓的担忧，对元宝产品经理评估AI硬件供应链风险及市场情绪有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/hollywood-sci-fi-lot-pitched-as-site-to-make-real-space-age-weapons": {
+    "title_clean": "Hollywood片场：太空时代武器制造基地",
+    "summary": "曼哈顿海滩工作室提议将其打造为太空时代武器制造基地，该工作室曾用于拍摄《星球大战：曼达洛人》等科幻影视作品。这一动向可能为AI在影视特效、武器模拟和科幻内容创作领域提供新的应用场景，值得元宝产品经理关注AI与影视工业结合的可能性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/cxmt-s-blockbuster-ipo-212-times-covered-for-retail-investors": {
+    "title_clean": "CXMT：中国存储芯片巨头IPO获零售投资者212倍认购",
+    "summary": "中国存储芯片巨头CXMT公司启动IPO，计划融资98亿美元，成为史上第二大IPO，获得零售投资者212倍认购。这反映了国内半导体行业的高增长潜力与投资者热情，对元宝在AI硬件基础设施领域的战略布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/franklin-templeton-cuts-ai-bets-favors-chinese-internet-stocks": {
+    "title_clean": "Franklin Templeton削减AI投资，转投中国互联网股票",
+    "summary": "富兰克林邓普顿新兴市场股票基金减少对存储芯片制造商的投资，转而青睐阿里巴巴和腾讯等中国互联网公司股票。这反映了市场对AI投资热情降温，对中国互联网板块重新评估的趋势，对元宝产品经理了解AI投资风向和市场情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages": {
+    "title_clean": "Newer Models, Same Advantage：AI模型优势分析",
+    "summary": "该资讯分析了新一代AI模型相比旧版本的优势，探讨了模型迭代过程中保持竞争力的关键因素。对产品经理了解AI技术发展趋势、评估模型升级价值以及制定产品迭代策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/google-must-give-gemini-rivals-equal-access-to-android-system-eu-says": {
+    "title_clean": "欧盟要求Google向Gemini竞品开放Android系统平等访问权限",
+    "summary": "欧盟指令要求Google开放Android系统，允许AI竞争对手访问特定功能，并向搜索引擎提供商提供搜索数据。这对元宝产品经理有重要参考价值，反映了监管机构对AI助手公平竞争的关注，可能影响未来AI助手在移动生态系统的部署策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison": {
+    "title_clean": "AI超级种子轮：高估值限制投资回报",
+    "summary": "分析AI领域备受瞩目的巨额种子轮融资，指出高估值实际上限制了投资者的回报潜力。历史数据显示，过大的首轮融资很少能产生风险投资级别的回报，这对元宝产品经理评估融资策略和估值模型有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/palm-beach-strikes-down-data-center-plan-after-local-backlash": {
+    "title_clean": "Palm Beach：当地居民反对后否决AI数据中心建设计划",
+    "summary": "棕榈滩县委员会周三晚间否决了一项建设AI数据中心和仓库的数字基础设施中心提案，此举顺应了当地居民的强烈反对。这一决策反映了社区对大型AI基础设施项目的抵制态度，对元宝产品经理了解AI服务部署面临的社区阻力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

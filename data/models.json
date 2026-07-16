@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T15:29:05.419Z",
+  "generated_at": "2026-07-16T17:08:59.973Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -9,7 +9,7 @@
       "vendor": "Moonshot AI",
       "vendor_slug": "moonshotai",
       "url": "https://openrouter.ai/moonshotai/kimi-k3-20260715",
-      "created_at": "2026-07-15T12:44:08Z",
+      "created_at": "2026-07-16T15:30:58Z",
       "context_length": 1048576,
       "modality": "text+image->text",
       "input_modalities": [
@@ -33,7 +33,7 @@
       "vendor": "Meta",
       "vendor_slug": "meta",
       "url": "https://openrouter.ai/meta/muse-spark-1.1-20260709",
-      "created_at": "2026-07-11T01:33:11Z",
+      "created_at": "2026-07-16T15:29:01Z",
       "context_length": 1048576,
       "modality": "text+image+file+audio+video->text",
       "input_modalities": [
@@ -624,8 +624,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.934,
-      "price_out": 2.935,
+      "price_in": 0.921,
+      "price_out": 2.895,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

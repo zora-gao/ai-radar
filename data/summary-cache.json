@@ -33484,5 +33484,191 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push": {
+    "title_clean": "Google DeepMind 推出生物韧性AI计划",
+    "summary": "Google DeepMind与Isomorphic Labs联合推出生物韧性AI计划，旨在防止AI在生物学领域的滥用，同时助力疫情应对。该计划通过AI技术增强生物安全性和疫情响应能力，为AI在生物领域的安全应用提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/gamestop-ceo-ryan-cohen-is-coming-for-ebay-one-way-or-another": {
+    "title_clean": "GameStop CEO坚持收购eBay，56亿美元报价遭拒后仍表示将推进",
+    "summary": "GameStop CEO Ryan Cohen在56亿美元收购eBay的报价被拒后，仍表示将以某种方式推进收购。这反映了传统零售商向电商转型的战略意图，对元宝产品经理了解企业并购策略和电商竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/verizon-cuts-store-workers-in-reorganization-strategy": {
+    "title_clean": "Verizon：电信运营商门店裁员重组",
+    "summary": "Verizon宣布裁员约3000名门店员工，这是新CEO Dan Schulman重组战略的一部分。这一裁员动向反映了电信行业在数字化转型背景下，传统线下零售业务面临调整，对AI客服和自助服务解决方案的需求可能增加。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps": {
+    "title_clean": "Google：AI Mode新增应用链接与交互功能",
+    "summary": "Google扩展AI Mode功能，使其不仅能回答问题，还能与用户常用应用进行链接和交互，帮助用户跨应用完成任务。这一更新表明AI助手正向自动化操作方向发展，对元宝产品经理在AI Agent能力建设和多应用集成方面有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/oracle-risks-falling-behind-in-ai-race-as-spending-binge-bites": {
+    "title_clean": "Oracle在AI竞赛中面临资金压力风险",
+    "summary": "Oracle在人工智能领域的扩张计划面临关键障碍：如何在维持信用评级的同时为大规模支出提供资金。这对元宝产品经理了解大型科技公司在AI领域的资金策略和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb": {
+    "title_clean": "NVIDIA Nemotron 3 Embed：AI嵌入模型排名第一",
+    "summary": "NVIDIA的Nemotron 3 Embed模型在RTEB基准测试中排名第一，显著提升了代理检索能力。这一进展对AI助手和Agent产品开发具有重要参考价值，特别是在提升信息检索效率和准确性方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/carney-taps-general-dynamics-for-1-4-billion-canada-armored-vehicle-deal": {
+    "title_clean": "加拿大政府斥资14亿美元采购装甲车辆",
+    "summary": "加拿大政府宣布投入14亿美元用于在安大略省西南部建造装甲战斗支援车辆，这笔为期四年的合同由通用动力公司获得。这笔大额国防采购反映了政府对军事装备的持续投入，但对AI产品经理的直接参考价值有限。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/search/connected-apps": {
+    "title_clean": "Connect more of your apps to Search：AI模式中直接连接并交互常用服务",
+    "summary": "该功能允许用户在AI模式下安全地连接并直接与常用服务进行交互，扩展了AI助手的应用场景和集成能力，为产品经理提供了增强AI助手实用性和跨平台连接能力的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball": {
+    "title_clean": "OpenAI推出ChatGPT篮球：AI硬件产品跨界尝试",
+    "summary": "OpenAI本周发布了首款硬件产品ChatGPT篮球，这是该公司首次涉足实体硬件领域。这一跨界尝试展示了AI公司探索多元化产品形态的动向，对元宝产品经理思考AI服务与实体产品结合的可能性具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/china-led-ai-body-enlists-global-south-states-to-rival-us": {
+    "title_clean": "中国主导的AI组织吸纳全球南方国家以抗衡美国",
+    "summary": "中国主导的世界人工智能合作组织已有29个国家加入，包括俄罗斯。此举旨在与美国争夺在新兴人工智能领域的影响力，标志着全球AI格局的多极化趋势，对元宝产品经理了解国际AI竞争态势和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line": {
+    "title_clean": "DoorDash：命令行点餐工具",
+    "summary": "DoorDash推出dd-cli命令行工具，允许开发者和AI代理在终端搜索商店、构建购物车并下单，标志着软件化服务的重要一步，为AI Agent在餐饮服务场景中的应用提供了新思路。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027": {
+    "title_clean": "苹果即将推出OLED iPad Mini；新款iPad Air和基础版iPad预计2027年发布",
+    "summary": "苹果正准备对iPad mini进行近十年来的最大改版，将采用OLED屏幕，为旅行者和科技爱好者带来新体验。同时，新款iPad Air和基础版iPad预计将于2027年发布。这一产品更新可能影响移动设备市场格局，对元宝产品经理了解硬件与AI服务结合的时机有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai": {
+    "title_clean": "Apple Intelligence获准在中国上线，将接入阿里和百度服务",
+    "summary": "Apple Intelligence已获准在中国市场推出，将整合阿里巴巴和百度的AI服务。这一合作标志着苹果在关键市场推进AI战略的重要里程碑，为元宝产品经理提供了关于国际AI助手本地化策略的参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/cars24": {
+    "title_clean": "Cars24：利用OpenAI扩展对话规模并加速业务发展",
+    "summary": "Cars24采用OpenAI驱动的语音和聊天机器人处理每月超过100万分钟的对话，成功挽回12%的潜在客户流失，并将智能代理工作流程推广至公司各部门，展示了AI在汽车销售领域的实际应用价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/location-invariant-functions": {
+    "title_clean": "Location-Invariant Properties of Functions Versus Properties of Distributions: United in Testing but Separated in Verification",
+    "summary": "该研究探讨了函数的位置不变性与分布属性之间的关系，提出在测试中两者可以统一但在验证中需要分离的观点。这是一篇纯学术论文，专注于数学理论而非AI产品应用，对元宝产品经理的参考价值有限。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
   }
 }

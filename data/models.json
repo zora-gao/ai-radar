@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T17:08:59.973Z",
+  "generated_at": "2026-07-16T19:01:12.314Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -24,8 +24,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "Kimi K3 is an ultra-large-scale, open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at navigating...",
-      "description_zh": "Kimi K3 是 Moonshot AI 推出的超大规模、开放权重多模态推理模型。它适用于复杂的编码、知识工作和长期代理工作流程，并且在导航方面特别强大......"
+      "description": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at...",
+      "description_zh": "Kimi K3是Moonshot AI推出的2.8T参数开放权重多模态推理模型。它适用于复杂的编码、知识工作和长期代理工作流程，并且特别擅长..."
     },
     {
       "id": "meta/muse-spark-1.1",
@@ -624,8 +624,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.921,
-      "price_out": 2.895,
+      "price_in": 0.917,
+      "price_out": 2.882,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

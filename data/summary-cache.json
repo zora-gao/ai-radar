@@ -33670,5 +33670,68 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://openai.com/index/why-teens-deserve-access-safe-ai": {
+    "title_clean": "OpenAI推出青少年安全AI保护措施",
+    "summary": "OpenAI为青少年推出ChatGPT安全保护措施，包括适龄内容过滤、学习工具、家长控制功能和专家合作，旨在为青少年提供安全的AI使用环境，这对元宝产品在青少年用户安全设计方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/cohen-calls-physical-video-game-sales-irrelevant-to-gamestop": {
+    "title_clean": "GameStop CEO：实体游戏销售对公司业务'无关紧要'",
+    "summary": "GameStop CEO瑞安·科恩表示，实体游戏光盘销售仅占公司业务的一小部分， dismissing了关于实体游戏消亡的担忧。这反映了传统游戏零售商向数字服务转型的趋势，对元宝在游戏服务场景的AI应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos": {
+    "title_clean": "Google Vids：AI数字分身视频生成工具",
+    "summary": "Google在Vids中引入个性化AI分身功能，用户可创建以数字版自己为主角的视频，并集成Gemini Omni驱动的视频生成与编辑工具，为AI视频创作提供新场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app": {
+    "title_clean": "Roblox：AI游戏创作功能",
+    "summary": "Roblox在其移动应用中推出名为'Build'的AI功能，用户可通过单个文本提示生成基础游戏。这一功能降低了游戏创作门槛，对元宝产品经理在AI辅助内容生成和降低用户创作门槛方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/visa-is-expanding-its-crypto-push-with-new-stablecoin-platform": {
+    "title_clean": "Visa推出稳定币平台，扩展加密货币业务",
+    "summary": "Visa发布新平台，允许金融机构发行、转移和管理稳定币，这是支付巨头扩展加密货币服务的重要举措，反映了传统金融与加密货币融合的趋势，对元宝产品经理了解金融服务场景拓展和商业化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

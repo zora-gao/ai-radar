@@ -33733,5 +33733,82 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-16/deepmind-ceo-rallies-support-for-international-group-to-vet-ai-models": {
+    "title_clean": "DeepMind CEO呼吁成立国际组织审核AI模型",
+    "summary": "DeepMind首席执行官Demis Hassabis提议成立国际组织来审核AI模型，并计划与美国政策制定者就此提案进行会谈。这一动向反映了AI行业对模型安全性和监管的重视，对元宝产品经理了解行业监管趋势和潜在合规要求有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/deepmind-ceo-to-lobby-washington-on-plan-for-group-to-vet-ai-models": {
+    "title_clean": "DeepMind CEO将游说华盛顿推动AI模型审查小组计划",
+    "summary": "DeepMind首席执行官Demis Hassabis提议成立国际监督机构，对前沿AI模型进行严格测试和审查，并计划前往华盛顿推动这一倡议。这反映了行业对AI安全监管的重视，对元宝产品经理了解AI治理趋势和潜在监管环境具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/new-mexico-denies-gas-pipeline-permit-for-oracle-data-center": {
+    "title_clean": "新墨西哥州否决甲骨文数据中心天然气管道许可",
+    "summary": "新墨西哥州 regulators 第二次否决了为甲骨文数据中心项目提供能源的天然气管道穿越州土地的申请。这反映了数据中心建设面临的能源基础设施挑战，对元宝产品经理了解大型AI项目落地过程中的能源供应问题有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals": {
+    "title_clean": "Google Gemini 3.5 Pro发布延期：技术未达内部目标",
+    "summary": "Google的旗舰AI模型Gemini 3.5 Pro发布已延迟数月，原因是公司正在努力提升其技术能力，特别是性能表现。这对产品经理而言，反映了AI模型开发中技术挑战与发布时间表的平衡问题，以及头部AI公司在追求高质量模型时的审慎态度。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8": {
+    "title_clean": "Kimi 3：中国最大开源AI模型，参数量达2-3万亿",
+    "summary": "据金融时报报道，月之暗面即将推出的Kimi 3将成为中国最大的开源AI模型，参数量在2万亿至3万亿之间，有望缩小与Anthropic Opus 4.8的性能差距。这对产品经理评估国产大模型的技术进步和竞争力有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars": {
+    "title_clean": "Google Vids更新：支持Gemini Omni与个人头像视频创作",
+    "summary": "Google Vids推出两项更新：集成Gemini Omni模型和个人头像功能，使用户能够更轻松地创建、编辑和出演视频。这对产品经理参考AI视频生成工具的多模态交互能力及用户创作场景有重要价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

@@ -33410,5 +33410,79 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product": {
+    "title_clean": "前DeepMind研究员在产品发布前获得3亿美元种子轮融资",
+    "summary": "前DeepMind研究员Andrew Dai凭借在AI系统领域超过十年的经验，包括参与影响ChatGPT开发的研究，在未发布产品前就获得了3亿美元种子轮融资。这反映了顶级AI人才在当前市场的高估值和投资者对AI领域的强烈信心。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/sea-drone-maker-saronic-to-build-new-shipyard-in-south-texas": {
+    "title_clean": "Sea Drone Maker Saronic：海上无人机制造商将在德克萨斯州建造新船厂",
+    "summary": "美国德克萨斯州奥斯汀的科技公司Saronic计划在德克萨斯州南部建造价值32亿美元的新船厂，该公司生产的海上无人机本周首次被美军用于实战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence": {
+    "title_clean": "AMI Labs CEO：拒绝使用'AGI'或'超级智能'标签",
+    "summary": "AMI Labs CEO Alexandre LeBrun表示，尽管AI行业都在追逐'超级智能'概念，但他拒绝使用这一术语。作为Yann LeCun世界模型初创公司的负责人，他的观点反映了AI领域对术语定义的分歧，对产品经理理解行业叙事和定位有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/travel-agency-platform-fora-valued-at-1-billion-in-new-funding": {
+    "title_clean": "Fora：旅游代理AI平台获10亿美元估值",
+    "summary": "Fora是一家面向旅游代理的在线平台，近期获得6000万美元融资，估值达10亿美元。该计划引入AI工具，帮助旅游顾问加速工作流程，这可能对元宝在AI服务场景拓展和商业化方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/interactive-proofs-distribution-properties": {
+    "title_clean": "Interactive Proofs for General Distribution Properties：分布属性交互验证技术",
+    "summary": "该研究提出了一种交互式证明系统，允许数据所有者验证分析师对未知分布属性的计算结果是否正确，即使分析师不可信。这项技术对于保护数据隐私同时确保分析结果可靠性具有重要意义，可为AI产品中的数据验证和隐私保护提供技术参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs": {
+    "title_clean": "Doubly Sub-linear Interactive Proofs of Proximity：超快速近似证明技术",
+    "summary": "该研究提出了一种超快速生成交互式邻近证明(dsIPPs)的技术，可用于对海量输入数据进行近似断言证明，证明生成速度极快，为AI系统中的高效验证提供了新思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
   }
 }

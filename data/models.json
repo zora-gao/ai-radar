@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-07-16T13:28:09.234Z",
+  "generated_at": "2026-07-16T15:29:05.419Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "moonshotai/kimi-k3",
+      "name": "Kimi K3",
+      "vendor": "Moonshot AI",
+      "vendor_slug": "moonshotai",
+      "url": "https://openrouter.ai/moonshotai/kimi-k3-20260715",
+      "created_at": "2026-07-15T12:44:08Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 3,
+      "price_out": 15,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Kimi K3 is an ultra-large-scale, open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at navigating...",
+      "description_zh": "Kimi K3 是 Moonshot AI 推出的超大规模、开放权重多模态推理模型。它适用于复杂的编码、知识工作和长期代理工作流程，并且在导航方面特别强大......"
+    },
+    {
+      "id": "meta/muse-spark-1.1",
+      "name": "Muse Spark 1.1",
+      "vendor": "Meta",
+      "vendor_slug": "meta",
+      "url": "https://openrouter.ai/meta/muse-spark-1.1-20260709",
+      "created_at": "2026-07-11T01:33:11Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video",
+        "file",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.25,
+      "price_out": 4.25,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Muse Spark 1.1 is a multimodal reasoning model from Meta, built for agentic tasks. It accepts text, images, video, audio, and PDF documents and returns text, with a 1M-token context...",
+      "description_zh": "Muse Spark 1.1 是 Meta 的多模态推理模型，专为代理任务而构建。它接受文本、图像、视频、音频和 PDF 文档并返回文本，并带有 1M 令牌上下文......"
+    },
     {
       "id": "kwaipilot/kat-coder-air-v2.5",
       "name": "KAT-Coder-Air V2.5",
@@ -573,8 +624,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.946,
-      "price_out": 2.974,
+      "price_in": 0.934,
+      "price_out": 2.935,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -620,8 +671,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.719,
-      "price_out": 3.49,
+      "price_in": 0.75,
+      "price_out": 3.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1325,7 +1376,7 @@
       "vendor_slug": "moonshotai",
       "url": "https://openrouter.ai/~moonshotai/kimi-latest",
       "created_at": "2026-04-27T19:33:48Z",
-      "context_length": 262144,
+      "context_length": 1048576,
       "modality": "text+image->text",
       "input_modalities": [
         "text",
@@ -1334,8 +1385,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.66,
-      "price_out": 3.41,
+      "price_in": 3,
+      "price_out": 15,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1418,56 +1469,6 @@
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the OpenAI GPT family.",
       "description_zh": "此模型始终重定向到 OpenAI GPT 系列中的最新模型。"
-    },
-    {
-      "id": "qwen/qwen3.5-plus-20260420",
-      "name": "Qwen3.5 Plus 2026-04-20",
-      "vendor": "Qwen",
-      "vendor_slug": "qwen",
-      "url": "https://openrouter.ai/qwen/qwen3.5-plus-20260420",
-      "created_at": "2026-04-27T03:42:48Z",
-      "context_length": 1000000,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.3,
-      "price_out": 1.8,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Qwen3.5 Plus (April 2026) is a large-scale multimodal language model from Alibaba. It accepts text, image, and video input and produces text output, with a 1M token context window. This...",
-      "description_zh": "Qwen3.5 Plus（2026年4月）是阿里巴巴的大规模多模态语言模型。它接受文本、图像和视频输入并生成文本输出，具有 1M 令牌上下文窗口。这..."
-    },
-    {
-      "id": "qwen/qwen3.6-flash",
-      "name": "Qwen3.6 Flash",
-      "vendor": "Qwen",
-      "vendor_slug": "qwen",
-      "url": "https://openrouter.ai/qwen/qwen3.6-flash",
-      "created_at": "2026-04-27T03:42:42Z",
-      "context_length": 1000000,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.188,
-      "price_out": 1.125,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Qwen3.6 Flash is a fast, efficient language model from Alibaba's Qwen 3.6 series. It supports text, image, and video input with a 1M token context window. Tiered pricing kicks in...",
-      "description_zh": "Qwen3.6 Flash是阿里巴巴Qwen 3.6系列中快速、高效的语言模型。它支持带有 1M 令牌上下文窗口的文本、图像和视频输入。阶梯定价开始..."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T18:58:34.243Z",
+  "generated_at": "2026-07-17T20:45:36.704Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -28,8 +28,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "Auto Router (Beta) is a task-aware router from OpenRouter. It classifies each request, then routes it to one of the most popular models for that task based on community spend,...",
-      "description_zh": "Auto Router（Beta）是 OpenRouter 的任务感知路由器。它对每个请求进行分类，然后根据社区支出将其路由到该任务最流行的模型之一，..."
+      "description": "Auto Router (Beta) is a task-aware router from OpenRouter. It classifies each request, then routes it the most popular model for that task based on aggregate spend, filtered by your...",
+      "description_zh": "Auto Router（Beta）是 OpenRouter 的任务感知路由器。它对每个请求进行分类，然后根据总支出将其路由到该任务最流行的模型，并根据您的...进行过滤。"
     },
     {
       "id": "moonshotai/kimi-k3",
@@ -652,8 +652,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.923,
-      "price_out": 2.9,
+      "price_in": 0.917,
+      "price_out": 2.882,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

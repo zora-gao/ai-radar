@@ -34436,5 +34436,55 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard": {
+    "title_clean": "Agility Robotics：人形机器人训练中心落地加州",
+    "summary": "Agility Robotics在加州弗里蒙特开设新的Digit机器人训练中心，这是人形机器人领域的重要布局，对元宝产品经理了解机器人技术发展路径和商业化进程有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/iphone-hacking-firm-sues-ex-worker-over-alleged-theft-of-secrets": {
+    "title_clean": "iPhone 黑客公司起诉前员工涉嫌窃取机密",
+    "summary": "加拿大网络安全公司 Magnet Forensics 起诉前承包商，指控其向竞争对手泄露了用于黑客攻击 iPhone 的未知漏洞的商业机密。这反映了网络安全领域对 iPhone 漏洞的争夺，对元宝产品经理了解安全漏洞交易和竞争情报价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems": {
+    "title_clean": "Bunkerhill：医疗系统AI代理平台获5500万美元融资",
+    "summary": "Bunkerhill Health完成5500万美元B轮融资，用于扩展其AI代理平台Carebricks，该平台旨在医疗系统中部署代理AI技术。此次融资由红杉资本继续参与，显示医疗AI代理领域获得资本认可，对元宝在垂直领域AI代理应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics": {
+    "title_clean": "本周十大融资轮次：AI领域融资持续活跃",
+    "summary": "本周AI领域融资活跃，多家AI公司完成大额融资，其中企业AI初创公司Fireworks AI获得15亿美元融资，成为本周最大一笔。这表明尽管是夏季假期，AI领域的资本投入依然强劲，对AI产品经理而言是行业持续看好AI应用的重要信号。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

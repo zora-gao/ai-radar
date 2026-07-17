@@ -34362,5 +34362,79 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets": {
+    "title_clean": "Moonshot AI：中国大模型引发全球市场震荡",
+    "summary": "中国初创公司Moonshot AI于7月17日发布新AI模型，因其强大能力引发全球关注，并导致全球股市波动。这一事件表明中国AI技术正在快速崛起，可能对全球AI竞争格局产生重大影响，值得元宝产品团队关注其技术特点和市场反应。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans": {
+    "title_clean": "苹果起诉OpenAI商业秘密案或影响其IPO计划",
+    "summary": "苹果公司上周对OpenAI提起商业秘密诉讼，指控其存在不当行为，甚至涉及OpenAI首席硬件官。此诉讼可能对OpenAI的IPO计划造成重大影响，对AI行业格局和OpenAI未来发展具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/a-scorecard-for-the-ai-age": {
+    "title_clean": "OpenAI CFO 发布AI时代评估框架",
+    "summary": "OpenAI首席财务官Sarah Friar推出实用AI评估框架，通过有效工作产出、每成功任务成本、可靠性和计算回报率四个维度衡量AI投资回报，为企业AI应用提供量化评估标准。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/the-odyssey-christopher-nolan-movie-stars-zendaya-matt-damon-in-homer-epic": {
+    "title_clean": "《奥德赛》：克里斯托弗·诺兰执导的荷马史诗电影",
+    "summary": "《奥德赛》将于本周五上映，预计首周末票房约1亿美元。该片由克里斯托弗·诺兰执导，赞达亚和马特·达蒙主演，改编自古希腊荷马史诗。对元宝产品经理的参考价值在于了解AI在影视内容创作和推荐中的应用场景，以及大IP的商业化潜力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/sateliot-expands-funding-to-offer-satellite-service-to-phones": {
+    "title_clean": "Sateliot：卫星手机服务提供商",
+    "summary": "西班牙卫星初创公司Sateliot正在将融资额提升至1.5亿欧元，旨在为手机提供卫星连接服务。这一扩展反映了卫星通信与移动设备融合的市场趋势，对元宝产品经理了解AI服务在特殊场景下的连接解决方案有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai": {
+    "title_clean": "苹果起诉OpenAI：指控高管泄露商业机密",
+    "summary": "苹果公司上周对OpenAI提起商业机密诉讼，指控其存在不当行为，甚至涉及OpenAI首席硬件官。这一诉讼发生在AI行业关键时期，可能影响OpenAI与苹果的合作关系及产品发展，对AI助手行业的竞争格局和商业合作模式有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

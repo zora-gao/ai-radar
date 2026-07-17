@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-07-17T17:05:49.512Z",
+  "generated_at": "2026-07-17T18:58:34.243Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "openrouter/auto-beta",
+      "name": "Auto Router (Beta)",
+      "vendor": "OpenRouter",
+      "vendor_slug": "openrouter",
+      "url": "https://openrouter.ai/openrouter/auto-beta",
+      "created_at": "2026-07-17T17:59:25Z",
+      "context_length": 2000000,
+      "modality": "text+image+file+audio+video->text+image",
+      "input_modalities": [
+        "text",
+        "image",
+        "audio",
+        "file",
+        "video"
+      ],
+      "output_modalities": [
+        "text",
+        "image"
+      ],
+      "price_in": null,
+      "price_out": null,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Auto Router (Beta) is a task-aware router from OpenRouter. It classifies each request, then routes it to one of the most popular models for that task based on community spend,...",
+      "description_zh": "Auto Router（Beta）是 OpenRouter 的任务感知路由器。它对每个请求进行分类，然后根据社区支出将其路由到该任务最流行的模型之一，..."
+    },
     {
       "id": "moonshotai/kimi-k3",
       "name": "Kimi K3",
@@ -624,8 +652,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.928,
-      "price_out": 2.917,
+      "price_in": 0.923,
+      "price_out": 2.9,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1444,31 +1472,6 @@
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the Anthropic Claude Sonnet family.",
       "description_zh": "此模型始终重定向到 Anthropic Claude Sonnet 系列中的最新模型。"
-    },
-    {
-      "id": "~openai/gpt-latest",
-      "name": "OpenAI GPT Latest",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/~openai/gpt-latest",
-      "created_at": "2026-04-27T19:32:14Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 30,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the OpenAI GPT family.",
-      "description_zh": "此模型始终重定向到 OpenAI GPT 系列中的最新模型。"
     }
   ]
 }

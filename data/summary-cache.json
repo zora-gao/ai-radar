@@ -34274,5 +34274,93 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports": {
+    "title_clean": "Meta与Anthropic洽谈计算资源租赁交易",
+    "summary": "Meta正在与Anthropic进行初步谈判，计划从其数据中心租赁计算资源给Anthropic，这笔交易可能价值高达20亿美元，为期两年。这反映了AI大模型公司对计算资源的高需求，以及大型科技公司通过资源变现的新商业模式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-17/valve-s-14-year-journey-to-make-the-steam-machine": {
+    "title_clean": "Valve：Steam游戏主机14年研发历程",
+    "summary": "Valace从2012年开始研发Steam游戏主机，历经14年终于推出。这一历程展示了硬件开发与游戏平台整合的长期挑战，对元宝产品经理在硬件与AI服务结合方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel": {
+    "title_clean": "NVIDIA NeMO AutoModel与🤗 Diffusers：大规模视频和图像模型微调工具",
+    "summary": "NVIDIA推出NeMO AutoModel与Hugging Face Diffusers集成，支持大规模视频和图像模型的微调。这一工具组合为AI开发者提供了更高效的模型训练和优化方案，有助于提升多模态AI模型的性能和应用场景，对元宝在图像和视频处理能力上的技术选型有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/apple-in-early-settlement-talks-with-doj-over-antitrust-case": {
+    "title_clean": "苹果与司法部就反垄断案进行早期和解谈判",
+    "summary": "苹果公司与美国司法部正在就2024年提起的反垄断诉讼进行早期和解谈判，该诉讼指控苹果违反了反垄断法。这一案件可能影响苹果App Store政策、设备生态系统及第三方开发者接入规则，对元宝产品经理了解科技巨头监管环境及合规边界有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/spain-and-portugal-s-data-center-boom-faces-grid-bottlenecks": {
+    "title_clean": "西班牙、葡萄牙数据中心扩张遭遇电网瓶颈",
+    "summary": "西班牙和葡萄牙正经历显著的数据中心建设热潮，但电网容量、网络接入和许可审批等限制因素正在减缓新项目的发展速度。这对元宝产品经理了解AI基础设施扩张的潜在瓶颈和区域市场机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/unlearning-free-low-influence": {
+    "title_clean": "利用低影响点降低计算成本：机器学习中的数据遗忘技术",
+    "summary": "该研究提出了一种新的机器学习数据遗忘方法，通过利用低影响点来降低计算成本，解决模型训练后移除特定数据点的隐私问题。这项技术对元宝产品经理在处理用户数据隐私和模型更新方面具有参考价值，可能影响AI助手的数据处理策略和隐私保护方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them": {
+    "title_clean": "Patreon：停止阻止AI爬虫并开始主动拦截",
+    "summary": "Patreon与Cloudflare合作，开始拦截未经许可抓取创作者内容训练AI模型的爬虫，标志着其从被动阻止转向主动防御。这一变化对AI产品经理具有重要参考价值，反映了内容平台对AI训练数据获取策略的转变，以及可能影响AI产品获取训练数据的合规性考量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

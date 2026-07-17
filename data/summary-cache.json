@@ -33909,5 +33909,100 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/deepseek-champions-china-s-bid-to-flood-the-world-with-cheap-ai": {
+    "title_clean": "DeepSeek：中国AI企业推动全球AI普及",
+    "summary": "DeepSeek作为杭州热门创业公司，通过四小时路演向投资者展示其AI产品，旨在推动中国AI技术在全球范围内的普及，可能影响AI产品定价策略和市场格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/tata-group-resorts-to-older-tech-to-launch-its-chip-foray": {
+    "title_clean": "Tata Group：印度半导体制造采用老旧技术",
+    "summary": "塔塔电子公司计划使用比预期老旧的技术生产印度首批半导体晶圆，反映了该国在半导体制造领域面临的挑战。这一信息对产品经理了解全球供应链限制和新兴市场技术发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/mitsubishi-electric-eyes-power-chip-merger-with-rohm-and-toshiba": {
+    "title_clean": "三菱电机寻求与罗姆和东芝合并功率半导体业务",
+    "summary": "三菱电机计划在9月前与竞争对手东芝和罗姆达成协议，合并三家公司的功率半导体业务。这一行业整合可能影响半导体供应链格局，对AI硬件供应商和芯片采购策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/netflix-pledges-more-programs-ai-to-reverse-slowing-growth": {
+    "title_clean": "Netflix 预测销售增长放缓引发投资者担忧",
+    "summary": "Netflix 预测连续第二个季度销售增长放缓，预计营收为129亿美元，引发投资者对这家流媒体巨头未来的担忧。这一业绩预警对元宝产品经理评估订阅制服务增长瓶颈和用户留存策略具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/chipmaker-kioxia-s-market-value-halves-from-peak-on-ai-selloff": {
+    "title_clean": "铠侠市值因AI抛售腰斩",
+    "summary": "日本存储芯片厂商铠侠市值在一个月内从日本市值最高公司腰斩，市场对AI驱动芯片行业上涨的担忧加剧。这一变化反映了AI硬件市场的波动性，对元宝产品经理评估AI基础设施投资风险和硬件依赖度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-16/dhs-seizes-30-000-mobile-sim-cards-in-effort-to-stop-phone-fraud": {
+    "title_clean": "美国国土安全局查获3万张手机SIM卡打击电话欺诈",
+    "summary": "美国国土安全调查局在全国范围内查获了超过3万张手机SIM卡，此次行动摧毁了犯罪分子使用的电话欺诈基础设施。这一执法行动反映了电信安全领域面临的挑战，对AI助手和通信服务提供商在安全防护方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/july-16-newsletter": {
+    "title_clean": "科技领域大额融资占Q2总额81%，一家公司解析原因",
+    "summary": "科技领域大额融资在Q2达到总融资额的81%，本文分析了这一现象背后的原因，并提供了分析师对重要科技动态的见解，对产品经理了解行业融资趋势和资本动向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/simple-self-distillation": {
+    "title_clean": "Embarrassingly Simple Self-Distillation：代码生成自蒸馏技术",
+    "summary": "研究展示了一种无需验证器、教师模型或强化学习的简单自蒸馏方法，可提升大语言模型的代码生成能力。这项技术仅利用模型自身的原始输出来改进性能，为代码生成领域提供了新的训练思路，对元宝产品经理在AI代码助手功能优化方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

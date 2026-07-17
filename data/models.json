@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-07-17T20:45:36.704Z",
+  "generated_at": "2026-07-17T22:42:09.204Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "thinkingmachines/inkling",
+      "name": "Inkling",
+      "vendor": "Thinkingmachines",
+      "vendor_slug": "thinkingmachines",
+      "url": "https://openrouter.ai/thinkingmachines/inkling-20260715",
+      "created_at": "2026-07-17T22:05:56Z",
+      "context_length": 1048576,
+      "modality": "text+image+audio->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 4.05,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Inkling is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 41B active parameters out of 975B total. It is designed for general-purpose reasoning, coding, agentic and tool-use systems,...",
+      "description_zh": "Inkling 是 Thinking Machines Lab 的开放权重多模态专家混合模型，共有 975B 个主动参数，其中包含 41B 个。它是为通用推理、编码、代理和工具使用系统而设计的，..."
+    },
     {
       "id": "openrouter/auto-beta",
       "name": "Auto Router (Beta)",
@@ -652,8 +677,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.917,
-      "price_out": 2.882,
+      "price_in": 0.911,
+      "price_out": 2.864,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1447,31 +1472,6 @@
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the Google Gemini Flash family.",
       "description_zh": "此模型始终重定向到 Google Gemini Flash 系列中的最新模型。"
-    },
-    {
-      "id": "~anthropic/claude-sonnet-latest",
-      "name": "Anthropic Claude Sonnet Latest",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/~anthropic/claude-sonnet-latest",
-      "created_at": "2026-04-27T19:32:48Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the Anthropic Claude Sonnet family.",
-      "description_zh": "此模型始终重定向到 Anthropic Claude Sonnet 系列中的最新模型。"
     }
   ]
 }

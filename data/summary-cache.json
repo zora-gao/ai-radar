@@ -34004,5 +34004,56 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-stocks-dive-as-investors-worry-about-ai-rally-s-run-mro83xih": {
+    "title_clean": "日本股市下跌引发AI涨势可持续性担忧",
+    "summary": "日本股市大幅下跌，受华尔街抛售潮影响，投资者开始担忧全球AI涨势的可持续性。这一市场动向反映了AI投资热潮背后的风险意识，对元宝产品经理评估AI商业化周期和用户投资心理具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit": {
+    "title_clean": "习近平在中国顶级科技峰会上承诺普惠AI",
+    "summary": "习近平在中国顶级科技峰会上首次亮相，强调中国在低成本人工智能领域的进展，呼吁更开放的AI发展，并亲自推动中国在全球AI领域的影响力扩张。这一政策动向可能影响国内AI产品的发展方向和市场环境，对元宝产品经理了解政策导向和潜在市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/live-blog/2026-07-17/xi-jinping-ai-speech-china-waic-conference": {
+    "title_clean": "习近平推动AI人类监督，中国扩大全球影响力",
+    "summary": "中国领导人习近平强调对AI实施人类监督的重要性，同时中国正积极扩大AI领域的全球合作与影响力。这一政策动向表明中国正在平衡AI发展与安全监管，对元宝产品经理了解中国AI监管趋势和国际合作机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651044730&idx=3&sn=f62cd93208613e626722624d195fd062": {
+    "title_clean": "Lychee-FD：哈工大全双工语音大模型突破",
+    "summary": "哈工大张民教授团队在全双工语音大模型领域取得重要突破，Lychee-FD模型实现了全双工语音交互技术的重大进展，为AI语音助手实时对话能力提供了新的技术路径，对提升产品交互体验具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -34176,5 +34176,56 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data": {
+    "title_clean": "阿根廷与西班牙初创企业融资趋势分析",
+    "summary": "该文分析了阿根廷和西班牙这两个世界杯决赛国家的近期初创企业融资情况和趋势。虽然这两个国家在全球或区域融资总额中占比不大，但文章提供了两国创业生态的对比数据，对元宝产品经理了解不同地区AI创业环境与投资偏好有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-17/ai-based-businesses-are-diversifying-and-rejecting-ai-model-monogamy": {
+    "title_clean": "AI企业多元化发展，拒绝单一模型依赖",
+    "summary": "企业正减少对单一AI模型的依赖，通过采用多种AI模型来降低风险。这一趋势表明AI服务提供商需要提供更灵活、可组合的解决方案，而非锁定客户于单一模型，这对元宝的产品策略和生态建设具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals": {
+    "title_clean": "中国AI新突破引发市场震荡",
+    "summary": "中国AI初创公司Moonshot取得突破性进展，引发全球AI和半导体股票大幅下跌，投资者将其与去年的DeepSeek事件相提并论。这一事件表明中国AI技术正在快速追赶，可能改变全球AI竞争格局，对元宝产品经理评估竞品动态和市场策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI搜索",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-17/china-can-still-win-the-ai-race-with-inferior-technology": {
+    "title_clean": "中国仍能以技术劣势赢得AI竞赛",
+    "summary": "本文探讨中国如何通过经济实力、政治影响力及工程能力弥补AI技术上的不足，分析非技术因素在AI竞争中的关键作用，为元宝产品经理思考AI产品竞争策略提供新视角。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -34055,5 +34055,126 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/scribble-party": {
+    "title_clean": "Scribble Party：本地化白板创作工具",
+    "summary": "Scribble Party是一款面向教师和创作者的本地化白板工作室工具，支持离线使用，专注于提供本地优先的协作创作环境，为教育内容创作者和知识分享者提供便捷的视觉表达工具。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/timely-9": {
+    "title_clean": "Timely：日历快速同步工具",
+    "summary": "Timely是一款日历管理工具，能在3秒内快速同步用户的日程安排，帮助高效管理时间。对于元宝产品经理而言，这展示了AI助手在时间管理场景的应用价值，可作为日程管理功能开发的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aye-browser": {
+    "title_clean": "Aye：AI浏览器助手工具",
+    "summary": "Aye是一款可训练的AI助手，专门用于日常浏览器工作，可作为用户的AI实习生协助完成各类浏览器任务。产品经理可参考其AI助手在特定场景（浏览器操作）的应用方式和用户交互设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yapper-leaderboard": {
+    "title_clean": "Yapper Leaderboard：X/Twitter 创业公司影响力排行榜",
+    "summary": "Yapper Leaderboard 是一个展示 X/Twitter 平台上最具影响力的创业公司排行榜，帮助用户追踪哪些初创企业在社交媒体上获得最多关注和讨论，为产品经理提供社交媒体营销和品牌曝光的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pixycad-3d-solid-modelling": {
+    "title_clean": "PixyCAD：iPad和Mac原生3D CAD设计工具",
+    "summary": "PixyCAD是一款专为iPad和Mac平台开发的快速精确3D CAD设计工具，采用原生架构构建，为苹果设备用户提供专业级三维设计能力，可能对元宝在移动端设计工具集成或多平台支持方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pebbles-ai": {
+    "title_clean": "Pebbles AI：B2B销售团队AI平台",
+    "summary": "Pebbles AI是一款面向现代B2B团队的AI销售平台，旨在帮助销售团队提升效率。该产品可能提供智能销售流程管理、客户数据分析或自动化销售辅助功能，对元宝产品经理了解AI在企业销售场景的应用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/softbank-plans-new-60-billion-bond-after-retail-overseas-deals": {
+    "title_clean": "软银计划发行600亿日元债券",
+    "summary": "软银集团计划于本月向日本机构投资者发行约600亿日元(3.69亿美元)债券，此前已进行了国内零售和外汇债券发行。这反映了软银的融资策略和资本运作动向，对了解大型科技公司的资金规划和市场信心有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales": {
+    "title_clean": "Z.AI：中国首个年销售额达10亿美元的AI企业",
+    "summary": "Z.AI预计将实现10亿美元的年度经常性收入，这是一家专注于企业市场的AI初创公司，在中国竞争激烈的市场中努力应对众多竞争对手。这一里程碑事件表明中国AI企业市场已出现规模化盈利案例，对元宝在B端市场的商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/toybird-labs": {
+    "title_clean": "Pocket Screen：Mac窗口悬浮小屏工具",
+    "summary": "Pocket Screen是一款Mac应用，可将任意窗口以悬浮小屏形式保持可见，帮助用户同时查看多个应用内容，提升多任务处理效率。对元宝产品经理有参考价值，可作为多窗口管理和多任务处理场景的功能设计参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/unabyss": {
+    "title_clean": "Unabyss for Claude：跨应用与LLM共享记忆工具",
+    "summary": "Unabyss为Claude提供跨应用和LLM的共享记忆功能，解决AI助手在不同平台间记忆不连贯的问题。这对元宝产品经理有重要参考价值，特别是在设计多场景AI助手记忆连贯性和跨平台服务整合方面。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

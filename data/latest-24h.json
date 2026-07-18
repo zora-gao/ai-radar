@@ -1,26 +1,20 @@
 {
-  "generated_at": "2026-07-18T20:39:47.317Z",
+  "generated_at": "2026-07-18T22:41:36.831Z",
   "window_hours": 24,
-  "total_items": 17,
-  "total_items_ai_raw": 17,
-  "total_items_raw": 17,
-  "total_items_all_mode": 17,
+  "total_items": 21,
+  "total_items_ai_raw": 21,
+  "total_items_raw": 21,
+  "total_items_all_mode": 21,
   "topic_filter": "ai_tech_robotics",
-  "archive_total": 3766,
+  "archive_total": 3767,
   "site_count": 18,
-  "source_count": 4,
+  "source_count": 3,
   "site_stats": [
     {
       "site_id": "jiqizhixin",
       "site_name": "机器之心",
-      "count": 7,
-      "raw_count": 7
-    },
-    {
-      "site_id": "techcrunch-ai",
-      "site_name": "TechCrunch AI",
-      "count": 5,
-      "raw_count": 5
+      "count": 14,
+      "raw_count": 14
     },
     {
       "site_id": "bloomberg-tech",
@@ -29,10 +23,10 @@
       "raw_count": 4
     },
     {
-      "site_id": "meta-ai",
-      "site_name": "Meta",
-      "count": 1,
-      "raw_count": 1
+      "site_id": "techcrunch-ai",
+      "site_name": "TechCrunch AI",
+      "count": 3,
+      "raw_count": 3
     },
     {
       "site_id": "ai-news",
@@ -101,6 +95,12 @@
       "raw_count": 0
     },
     {
+      "site_id": "meta-ai",
+      "site_name": "Meta",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
       "site_id": "microsoft-ai",
       "site_name": "Microsoft AI",
       "count": 0,
@@ -120,6 +120,33 @@
     }
   ],
   "items": [
+    {
+      "id": "44703e83333dd02f52ccb4adf84f912a3ee20a76",
+      "site_id": "jiqizhixin",
+      "site_name": "机器之心",
+      "source": "机器之心",
+      "title": "全球首个云端具身大模型炸场WAIC：一脑控多手、30秒换手，行业首例",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045172&idx=1&sn=e3dee68ad33d820999ca949ff53fde15",
+      "published_at": "2026-07-18T22:41:36.831Z",
+      "first_seen_at": "2026-07-18T22:41:36.831Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
+      "description": "全球首个云端具身大模型炸场WAIC：一脑控多手、30秒换手，行业首例",
+      "feed_rank": 6,
+      "title_original": "全球首个云端具身大模型炸场WAIC：一脑控多手、30秒换手，行业首例",
+      "title_en": null,
+      "title_zh": "全球首个云端具身大模型炸场WAIC：一脑控多手、30秒换手，行业首例",
+      "title_bilingual": "全球首个云端具身大模型炸场WAIC：一脑控多手、30秒换手，行业首例",
+      "title_clean": "全球首个云端具身大模型亮相WAIC：一脑控多手、30秒换手",
+      "summary": "全球首个云端具身大模型在WAIC上展示，实现一脑控制多只机械手，30秒内完成换手操作，这是行业首次实现此类技术突破，为AI多模态交互和机器人控制领域带来新可能。",
+      "radar_score": 85,
+      "radar_priority": "P0",
+      "radar_type": "news",
+      "radar_channels": [
+        "多模态",
+        "AI Agent",
+        "服务场景"
+      ]
+    },
     {
       "id": "cb6bb3b517e58063568ede76ba080a39fb032b24",
       "site_id": "jiqizhixin",
@@ -148,6 +175,87 @@
       ]
     },
     {
+      "id": "7232217640505edf19e6aedaf6eff1908fc3257e",
+      "site_id": "jiqizhixin",
+      "site_name": "机器之心",
+      "source": "机器之心",
+      "title": "极佳视界通用世界模型成WAIC焦点：从生成到行动，这才是物理AGI的最佳...",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045266&idx=1&sn=ff631e78718f61d22625ba0a2c77b429",
+      "published_at": "2026-07-18T22:41:36.831Z",
+      "first_seen_at": "2026-07-18T22:41:36.831Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
+      "description": "极佳视界通用世界模型成WAIC焦点：从生成到行动，这才是物理AGI的最佳...",
+      "feed_rank": 1,
+      "title_original": "极佳视界通用世界模型成WAIC焦点：从生成到行动，这才是物理AGI的最佳...",
+      "title_en": null,
+      "title_zh": "极佳视界通用世界模型成WAIC焦点：从生成到行动，这才是物理AGI的最佳...",
+      "title_bilingual": "极佳视界通用世界模型成WAIC焦点：从生成到行动，这才是物理AGI的最佳...",
+      "title_clean": "极佳视界通用世界模型成WAIC焦点：从生成到行动，这才是物理AGI的最佳",
+      "summary": "极佳视界通用世界模型在WAIC大会上成为焦点，该模型实现了从内容生成到实际行动的转变，被描述为物理AGI的最佳路径。这一进展对AI助手产品经理具有重要参考价值，展示了AI从虚拟内容生成向物理世界行动能力发展的趋势。",
+      "radar_score": 75,
+      "radar_priority": "P1",
+      "radar_type": "news",
+      "radar_channels": [
+        "AI Agent",
+        "多模态",
+        "服务场景"
+      ]
+    },
+    {
+      "id": "db9cfa0e9bacbe20853e3b495ae1ccd329805c72",
+      "site_id": "jiqizhixin",
+      "site_name": "机器之心",
+      "source": "机器之心",
+      "title": "「自驱型公司」来了！代码暴增3倍，事故不增加",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045262&idx=2&sn=14fc28131bc913feadf89279a25a5cc2",
+      "published_at": "2026-07-18T22:41:36.831Z",
+      "first_seen_at": "2026-07-18T22:41:36.831Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
+      "description": "「自驱型公司」来了！代码暴增3倍，事故不增加",
+      "feed_rank": 4,
+      "title_original": "「自驱型公司」来了！代码暴增3倍，事故不增加",
+      "title_en": null,
+      "title_zh": "「自驱型公司」来了！代码暴增3倍，事故不增加",
+      "title_bilingual": "「自驱型公司」来了！代码暴增3倍，事故不增加",
+      "title_clean": "自驱型公司：代码量增长3倍但事故率不变",
+      "summary": "某公司实现了代码量增长3倍的同时保持事故率不变，展示了自驱型开发模式的高效与可靠性。这一成果对AI产品经理有重要参考价值，特别是在如何平衡功能扩展与系统稳定性方面提供了实践案例。",
+      "radar_score": 75,
+      "radar_priority": "P1",
+      "radar_type": "news",
+      "radar_channels": [
+        "AI助手",
+        "服务场景",
+        "用户需求"
+      ]
+    },
+    {
+      "id": "55af5df4fe613a00bdb1b57d270829212c688cc8",
+      "site_id": "jiqizhixin",
+      "site_name": "机器之心",
+      "source": "机器之心",
+      "title": "ARC-AGI-3近被完美攻破，这个Harness能让AI掌握物理学家思维",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045172&idx=2&sn=ca69d0fe0944f355ab0b379e50fce08e",
+      "published_at": "2026-07-18T22:41:36.831Z",
+      "first_seen_at": "2026-07-18T22:41:36.831Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
+      "description": "ARC-AGI-3近被完美攻破，这个Harness能让AI掌握物理学家思维",
+      "feed_rank": 7,
+      "title_original": "ARC-AGI-3近被完美攻破，这个Harness能让AI掌握物理学家思维",
+      "title_en": null,
+      "title_zh": "ARC-AGI-3近被完美攻破，这个Harness能让AI掌握物理学家思维",
+      "title_bilingual": "ARC-AGI-3近被完美攻破，这个Harness能让AI掌握物理学家思维",
+      "title_clean": "ARC-AGI-3被完美攻破：Harness让AI掌握物理学家思维",
+      "summary": "ARC-AGI-3基准测试被完美攻破，Harness技术使AI能够模拟物理学家的思维方式，这可能对AI推理能力和问题解决能力产生重要影响，为元宝产品在复杂问题处理和科学推理方面提供新思路。",
+      "radar_score": 75,
+      "radar_priority": "P1",
+      "radar_type": "news",
+      "radar_channels": [
+        "AI Agent",
+        "竞品动态",
+        "用户需求"
+      ]
+    },
+    {
       "id": "570c0072d66a9643cdfe22aa372dba2aae68d95a",
       "site_id": "techcrunch-ai",
       "site_name": "TechCrunch AI",
@@ -156,7 +264,7 @@
       "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace",
       "published_at": "2026-07-18T18:51:07Z",
       "first_seen_at": "2026-07-18T18:53:32.911Z",
-      "last_seen_at": "2026-07-18T20:39:47.317Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
       "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
       "feed_rank": 1,
       "title_original": "Kimi: Threat or menace?",
@@ -182,7 +290,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china",
       "published_at": "2026-07-18T11:00:00Z",
       "first_seen_at": "2026-07-18T12:58:51.774Z",
-      "last_seen_at": "2026-07-18T20:39:47.317Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
       "description": "At an event in Beijing earlier this year, some of China’s top artificial intelligence leaders warned that the country remained meaningfully behind the US in developing cutting-edge AI models, with one",
       "feed_rank": 1,
       "title_original": "Moonshot’s Kimi Upends Conventional Wisdom on US Lead Over China",
@@ -209,7 +317,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era",
       "published_at": "2026-07-18T05:45:30Z",
       "first_seen_at": "2026-07-18T07:38:36.572Z",
-      "last_seen_at": "2026-07-18T20:39:47.317Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
       "description": "ZTE Corp. showcased for the first time a lineup of co-designed smartphones with built-in AI services, joining a growing number of Chinese companies trying to reimagine mobile devices with artificial i",
       "feed_rank": 2,
       "title_original": "China Joins Rush to Rethink the Smartphone for the AI Era",
@@ -309,29 +417,29 @@
       ]
     },
     {
-      "id": "71826f08ed96ddb6abdcbc2dbb5cd1b0752c73ee",
-      "site_id": "techcrunch-ai",
-      "site_name": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act",
-      "published_at": "2026-07-17T22:12:56Z",
-      "first_seen_at": "2026-07-17T22:41:37.696Z",
-      "last_seen_at": "2026-07-18T20:39:47.317Z",
-      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-      "feed_rank": 4,
-      "title_original": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "title_en": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "title_zh": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位",
-      "title_bilingual": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位 / Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "title_clean": "Databricks：AI编程开源模型成本效益研究",
-      "summary": "Databricks重塑为AI公司，发布关于开源AI模型在编程领域成本节约的研究，估值达1880亿美元，巩固其在AI领域的地位。对产品经理了解AI模型商业化路径和成本效益分析有参考价值。",
-      "radar_score": 75,
-      "radar_priority": "P1",
+      "id": "a0271819b16dde08e76f57564e3ce8c02f107506",
+      "site_id": "jiqizhixin",
+      "site_name": "机器之心",
+      "source": "机器之心",
+      "title": "Grog创始人深度洞察：推理越快=模型越聪明？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045262&idx=3&sn=632ab1936c1767d45bc5591194fde793",
+      "published_at": "2026-07-18T22:41:36.831Z",
+      "first_seen_at": "2026-07-18T22:41:36.831Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
+      "description": "Grog创始人深度洞察：推理越快=模型越聪明？",
+      "feed_rank": 5,
+      "title_original": "Grog创始人深度洞察：推理越快=模型越聪明？",
+      "title_en": null,
+      "title_zh": "Grog创始人深度洞察：推理越快=模型越聪明？",
+      "title_bilingual": "Grog创始人深度洞察：推理越快=模型越聪明？",
+      "title_clean": "Grog创始人深度洞察：推理速度与模型智能关系探讨",
+      "summary": "Grog创始人分享关于AI模型推理速度与智能水平关系的深度见解，探讨推理速度是否等同于模型聪明度的关键问题，为产品经理思考AI能力评估提供新视角。",
+      "radar_score": 65,
+      "radar_priority": "P2",
       "radar_type": "news",
       "radar_channels": [
-        "商业化",
         "AI助手",
+        "竞品动态",
         "用户需求"
       ]
     },
@@ -344,7 +452,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
       "published_at": "2026-07-18T02:59:20Z",
       "first_seen_at": "2026-07-18T04:43:18.928Z",
-      "last_seen_at": "2026-07-18T20:39:47.317Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
       "description": "China brushed off allegations that the country distills foreign technology, after US firms including Anthropic PBC said Chinese rivals illicitly extract results from top American models to advance the",
       "feed_rank": 4,
       "title_original": "China Dismisses Claim that It Illicitly Extracts Foreign AI Tech",
@@ -370,7 +478,7 @@
       "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs",
       "published_at": "2026-07-17T22:55:09Z",
       "first_seen_at": "2026-07-18T01:51:50.923Z",
-      "last_seen_at": "2026-07-18T20:39:47.317Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
       "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
       "feed_rank": 3,
       "title_original": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
@@ -468,58 +576,6 @@
       ]
     },
     {
-      "id": "75965f72a06743e53ad99ee2a516dc3c9fdcd18b",
-      "site_id": "meta-ai",
-      "site_name": "Meta",
-      "source": "Meta",
-      "title": "The 2026 Summer of Football: A Record-Breaking Moment Across Meta",
-      "url": "https://about.fb.com/news/2026/07/the-2026-summer-of-football-a-record-breaking-moment-across-meta",
-      "published_at": "2026-07-17T22:12:42Z",
-      "first_seen_at": "2026-07-17T22:41:37.696Z",
-      "last_seen_at": "2026-07-18T20:39:47.317Z",
-      "description": "During the 2026 summer of soccer, engagement across Instagram, Threads, Facebook, and WhatsApp broke records.",
-      "feed_rank": 1,
-      "title_original": "The 2026 Summer of Football: A Record-Breaking Moment Across Meta",
-      "title_en": "The 2026 Summer of Football: A Record-Breaking Moment Across Meta",
-      "title_zh": "2026 年夏季足球：Meta 的破纪录时刻",
-      "title_bilingual": "2026 年夏季足球：Meta 的破纪录时刻 / The 2026 Summer of Football: A Record-Breaking Moment Across Meta",
-      "title_clean": "Meta平台2026年夏季足球赛事创纪录互动",
-      "summary": "2026年夏季足球赛事期间，Instagram、Threads、Facebook和WhatsApp等Meta平台用户互动量创历史新高，展示了体育赛事对社交平台用户参与度的显著提升，为元宝产品经理提供了大型事件驱动用户活跃度的参考案例。",
-      "radar_score": 65,
-      "radar_priority": "P2",
-      "radar_type": "news",
-      "radar_channels": [
-        "服务场景",
-        "用户需求"
-      ]
-    },
-    {
-      "id": "64a3bddabf2048dd1a210a2687f784c05823a387",
-      "site_id": "techcrunch-ai",
-      "site_name": "TechCrunch AI",
-      "source": "TechCrunch AI",
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me",
-      "published_at": "2026-07-17T21:20:47Z",
-      "first_seen_at": "2026-07-17T22:41:37.696Z",
-      "last_seen_at": "2026-07-18T20:39:47.317Z",
-      "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-      "feed_rank": 5,
-      "title_original": "The Zoom hack that says, ‘Don’t record me’",
-      "title_en": "The Zoom hack that says, ‘Don’t record me’",
-      "title_zh": "Zoom 黑客说：“别录我”",
-      "title_bilingual": "Zoom 黑客说：“别录我” / The Zoom hack that says, ‘Don’t record me’",
-      "title_clean": "Zoom隐私功能：会议中禁止录制提醒",
-      "summary": "Zoom推出新功能，允许用户在会议中设置'禁止录制'提醒，保护隐私。随着会议转录和总结普及，该功能旨在防止敏感对话被未经同意录制，为用户提供更多控制权。",
-      "radar_score": 65,
-      "radar_priority": "P2",
-      "radar_type": "news",
-      "radar_channels": [
-        "用户需求",
-        "服务场景"
-      ]
-    },
-    {
       "id": "659a54b0b10b96a5d08b5ade73cbb68339235b6a",
       "site_id": "techcrunch-ai",
       "site_name": "TechCrunch AI",
@@ -528,7 +584,7 @@
       "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
       "published_at": "2026-07-18T04:47:25Z",
       "first_seen_at": "2026-07-18T07:38:36.572Z",
-      "last_seen_at": "2026-07-18T20:39:47.317Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
       "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
       "feed_rank": 2,
       "title_original": "Neil Rimer thinks the AI money is coming back out",
@@ -545,6 +601,32 @@
       ]
     },
     {
+      "id": "474d632cec754b0c57f2dd890612816b852c52fa",
+      "site_id": "jiqizhixin",
+      "site_name": "机器之心",
+      "source": "机器之心",
+      "title": "ECCV2026|当RGB变成不可靠变量：InfraNet用非对称学习重构RGB-IR检测",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045266&idx=2&sn=be0e771abdbbed6b36404718101b42ee",
+      "published_at": "2026-07-18T22:41:36.831Z",
+      "first_seen_at": "2026-07-18T22:41:36.831Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
+      "description": "ECCV2026|当RGB变成不可靠变量：InfraNet用非对称学习重构RGB-IR检测",
+      "feed_rank": 2,
+      "title_original": "ECCV2026|当RGB变成不可靠变量：InfraNet用非对称学习重构RGB-IR检测",
+      "title_en": null,
+      "title_zh": "ECCV2026|当RGB变成不可靠变量：InfraNet用非对称学习重构RGB-IR检测",
+      "title_bilingual": "ECCV2026|当RGB变成不可靠变量：InfraNet用非对称学习重构RGB-IR检测",
+      "title_clean": "InfraNet：非对称学习重构RGB-IR检测技术",
+      "summary": "InfraNet提出非对称学习方法解决RGB图像在特定场景下不可靠的问题，通过重构RGB-IR检测技术提升跨模态检测的准确性。这项技术对元宝在复杂环境下的视觉识别能力提升有参考价值，特别是在光线不足或特殊场景下的多模态交互应用。",
+      "radar_score": 45,
+      "radar_priority": "P3",
+      "radar_type": "news",
+      "radar_channels": [
+        "多模态",
+        "AI助手"
+      ]
+    },
+    {
       "id": "309571e39a1ae2c2927a705a405d631c193a9ba3",
       "site_id": "bloomberg-tech",
       "site_name": "Bloomberg Tech",
@@ -553,7 +635,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-18/apple-raises-iphone-17-price-by-10-in-japan-as-yen-stays-weak",
       "published_at": "2026-07-18T04:11:48Z",
       "first_seen_at": "2026-07-18T04:43:18.928Z",
-      "last_seen_at": "2026-07-18T20:39:47.317Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
       "description": "Apple Inc. raised the prices of iPhones and some other products in Japan as the local currency continues to hover near its lowest level in four decades.",
       "feed_rank": 3,
       "title_original": "Apple Raises iPhone 17 Price by 10% in Japan as Yen Stays Weak",
@@ -568,6 +650,23 @@
       "radar_channels": [
         "商业化"
       ]
+    },
+    {
+      "id": "5fc64ac7edb6d49d93ebf31a1b917219b4c40750",
+      "site_id": "jiqizhixin",
+      "site_name": "机器之心",
+      "source": "机器之心",
+      "title": "WAIC直击：2O0家机器人企业同场竞技，但物理AI的入场券属于闭环玩家",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045262&idx=1&sn=4e9f234cb8189b966d219c24af3c6eee",
+      "published_at": "2026-07-18T22:41:36.831Z",
+      "first_seen_at": "2026-07-18T22:41:36.831Z",
+      "last_seen_at": "2026-07-18T22:41:36.831Z",
+      "description": "WAIC直击：2O0家机器人企业同场竞技，但物理AI的入场券属于闭环玩家",
+      "feed_rank": 3,
+      "title_original": "WAIC直击：2O0家机器人企业同场竞技，但物理AI的入场券属于闭环玩家",
+      "title_en": null,
+      "title_zh": "WAIC直击：2O0家机器人企业同场竞技，但物理AI的入场券属于闭环玩家",
+      "title_bilingual": "WAIC直击：2O0家机器人企业同场竞技，但物理AI的入场券属于闭环玩家"
     }
   ]
 }

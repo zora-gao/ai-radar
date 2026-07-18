@@ -34796,5 +34796,82 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045266&idx=2&sn=be0e771abdbbed6b36404718101b42ee": {
+    "title_clean": "InfraNet：非对称学习重构RGB-IR检测技术",
+    "summary": "InfraNet提出非对称学习方法解决RGB图像在特定场景下不可靠的问题，通过重构RGB-IR检测技术提升跨模态检测的准确性。这项技术对元宝在复杂环境下的视觉识别能力提升有参考价值，特别是在光线不足或特殊场景下的多模态交互应用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045266&idx=1&sn=ff631e78718f61d22625ba0a2c77b429": {
+    "title_clean": "极佳视界通用世界模型成WAIC焦点：从生成到行动，这才是物理AGI的最佳",
+    "summary": "极佳视界通用世界模型在WAIC大会上成为焦点，该模型实现了从内容生成到实际行动的转变，被描述为物理AGI的最佳路径。这一进展对AI助手产品经理具有重要参考价值，展示了AI从虚拟内容生成向物理世界行动能力发展的趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045262&idx=3&sn=632ab1936c1767d45bc5591194fde793": {
+    "title_clean": "Grog创始人深度洞察：推理速度与模型智能关系探讨",
+    "summary": "Grog创始人分享关于AI模型推理速度与智能水平关系的深度见解，探讨推理速度是否等同于模型聪明度的关键问题，为产品经理思考AI能力评估提供新视角。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045262&idx=2&sn=14fc28131bc913feadf89279a25a5cc2": {
+    "title_clean": "自驱型公司：代码量增长3倍但事故率不变",
+    "summary": "某公司实现了代码量增长3倍的同时保持事故率不变，展示了自驱型开发模式的高效与可靠性。这一成果对AI产品经理有重要参考价值，特别是在如何平衡功能扩展与系统稳定性方面提供了实践案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045172&idx=1&sn=e3dee68ad33d820999ca949ff53fde15": {
+    "title_clean": "全球首个云端具身大模型亮相WAIC：一脑控多手、30秒换手",
+    "summary": "全球首个云端具身大模型在WAIC上展示，实现一脑控制多只机械手，30秒内完成换手操作，这是行业首次实现此类技术突破，为AI多模态交互和机器人控制领域带来新可能。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045172&idx=2&sn=ca69d0fe0944f355ab0b379e50fce08e": {
+    "title_clean": "ARC-AGI-3被完美攻破：Harness让AI掌握物理学家思维",
+    "summary": "ARC-AGI-3基准测试被完美攻破，Harness技术使AI能够模拟物理学家的思维方式，这可能对AI推理能力和问题解决能力产生重要影响，为元宝产品在复杂问题处理和科学推理方面提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

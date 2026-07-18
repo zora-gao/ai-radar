@@ -34662,5 +34662,28 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-18/apple-raises-iphone-17-price-by-10-in-japan-as-yen-stays-weak": {
+    "title_clean": "苹果在日本将iPhone 17价格上调10%",
+    "summary": "苹果公司因日元持续疲软（接近四十年最低水平）而在日本上调iPhone及其他产品价格10%。这反映了汇率波动对全球科技产品定价策略的影响，对元宝产品经理了解国际市场定价策略和汇率风险管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech": {
+    "title_clean": "中国否认非法获取外国AI技术",
+    "summary": "中国否认美国企业指控中国竞争对手非法获取美国顶级AI模型结果的指控。这一事件反映了中美在AI技术领域的竞争态势，对元宝产品经理了解国际AI技术竞争环境和潜在的地缘政治风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -34685,5 +34685,78 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/openmarkdown": {
+    "title_clean": "OpenMarkdown：AI协作式Markdown编辑器",
+    "summary": "OpenMarkdown是一款支持用户与AI Agent共同协作编辑的Markdown编辑工具，实现了人机协同的文档创作体验，为AI辅助写作和内容协作提供了新的交互方式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wx": {
+    "title_clean": "WX：可玩式生成音效合成器",
+    "summary": "WX是一款实验性的合成器工具，专注于生成可交互的音效。产品经理可关注其在AI生成音频领域的创新交互方式，为元宝的多模态能力拓展提供参考，特别是声音生成与用户互动结合的场景应用。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mirage-15": {
+    "title_clean": "Mirage：SaaS产品快速演示生成工具",
+    "summary": "Mirage是一款能让用户在90秒内将SaaS产品转化为可点击演示的工具，帮助产品经理快速创建交互式产品演示，降低用户试用门槛，提升产品转化率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mainichi-2": {
+    "title_clean": "Mainichi：日本分地区日语学习工具",
+    "summary": "Mainichi是一款日语学习应用，采用按日本不同地区进行学习的方式，帮助用户分区域掌握日语知识。这种地理分区学习方法为语言学习提供了新思路，对元宝产品经理在语言学习类AI功能设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/acebuilder": {
+    "title_clean": "Acebuilder：基于Aceternity UI的落地页构建工具",
+    "summary": "Acebuilder是一款基于Aceternity UI的落地页构建工具，帮助用户快速创建专业的营销落地页。对于元宝产品经理而言，这提供了AI辅助网页构建的参考案例，特别是在UI组件和模板设计方面可能具有启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out": {
+    "title_clean": "风投大佬预测AI财富将重新分配",
+    "summary": "Index Ventures联合创始人Neil Rimer预测，硅谷AI创造的巨额财富将面临重新分配，无论是自愿还是非自愿。这对产品经理了解AI投资趋势和潜在市场格局变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

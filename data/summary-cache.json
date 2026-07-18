@@ -34587,5 +34587,80 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs": {
+    "title_clean": "Vertu：高端AI手机助手",
+    "summary": "Vertu推出售价6880美元的折叠式AI手机，专为高管设计，整合AI工作流、长续航和高级安全功能。这款产品展示了高端市场对AI助手的需求，为元宝在高端用户市场的产品定位提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045079&idx=1&sn=9b32aa87b5c1e23463892e99d2c74aa4": {
+    "title_clean": "千寻智能最强大脑亮相WAIC：攻克AI记忆难题，终结单一任务Demo内卷",
+    "summary": "千寻智能在WAIC大会上展示了其最强大脑技术，解决了AI的'金鱼记忆'问题，能够持续记忆和跨任务处理，突破了当前AI产品只能完成单一任务Demo的限制，为AI助手向全能型助手演进提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/visual-concept-inference": {
+    "title_clean": "Show Me Examples: Inferring Visual Concepts from Image Sets：视觉概念推断研究",
+    "summary": "该研究探讨了视觉语言模型如何从图像集合中推断共享概念，解决了当前模型在纯视觉上下文推理方面的局限性。这项研究对元宝产品经理在多模态交互和视觉理解功能开发方面具有重要参考价值，有助于提升AI助手从视觉信息中提取概念的能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045079&idx=3&sn=8ba606a40bb495b24f4f870084665f71": {
+    "title_clean": "FreeStyle：从社区LoRA中挖掘风格与内容的图像生成工具",
+    "summary": "FreeStyle是一种图像生成技术，通过从社区LoRA模型中提取风格与内容特征，实现基于双参考图像的更可控图像生成。这为AI图像生成领域提供了新的控制思路，对产品经理了解AI图像生成技术的发展方向和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me": {
+    "title_clean": "Zoom隐私功能：会议中禁止录制提醒",
+    "summary": "Zoom推出新功能，允许用户在会议中设置'禁止录制'提醒，保护隐私。随着会议转录和总结普及，该功能旨在防止敏感对话被未经同意录制，为用户提供更多控制权。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045079&idx=2&sn=8137bdf18198d8cf74b6eff472a43a0a": {
+    "title_clean": "Kimi K3发布：国产Fable 5模型",
+    "summary": "Kimi发布K3模型，定位为国产Fable 5级别的大语言模型，标志着国产AI模型在性能上的新突破。这对产品经理评估国产大模型能力、竞品技术路线及产品迭代方向具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

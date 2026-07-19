@@ -34910,5 +34910,68 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/kobbe": {
+    "title_clean": "Kobbe：隐私友好的网站流量与收入分析工具",
+    "summary": "Kobbe是一款注重隐私保护的网站分析工具，提供流量和收入数据追踪功能。对于元宝产品经理而言，这反映了用户对隐私保护与数据分析结合的需求，可作为产品中隐私保护功能设计的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/basert": {
+    "title_clean": "BaseRT：高性能大模型推理引擎",
+    "summary": "BaseRT是一款新型推理引擎，性能显著优于现有方案，比llama.cpp快6.4倍，比MLX快3.9倍。作为AI基础设施工具，其性能提升对元宝等AI助手产品的响应速度和用户体验具有重要参考价值，可能影响底层技术选型。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/detourmap": {
+    "title_clean": "Detourmap：值得绕道前往的地点地图工具",
+    "summary": "Detourmap是一个交互式地图平台，专门收录和展示值得绕道前往的特色地点。产品经理可参考其如何通过地图形式整合和呈现特色内容，为元宝探索基于地理位置的服务场景提供思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac": {
+    "title_clean": "Rewisp：Mac环境记忆助手",
+    "summary": "Rewisp是一款Mac应用，能够记录用户在电脑上看到的内容，并允许用户后续通过提问来检索这些信息。它为Mac用户提供了一种环境记忆功能，类似于增强型记忆助手，可以帮助用户回顾和查找之前浏览过的内容。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openseo": {
+    "title_clean": "OpenSEO：开源Ahrefs替代工具",
+    "summary": "OpenSEO是一款开源的SEO工具，定位为Ahrefs的替代方案。对于元宝产品经理而言，这代表了一个潜在的市场机会，即开发或整合开源SEO功能，为用户提供更经济实惠的网站分析和优化服务。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

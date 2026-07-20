@@ -35234,5 +35234,282 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/backbeat-forge": {
+    "title_clean": "Backbeat Forge：鼓点音频转编辑乐谱工具",
+    "summary": "Backbeat Forge是一款将鼓点音频转换为可编辑乐谱的工具，帮助音乐创作者将音频内容转化为可编辑的乐谱格式，提升音乐制作效率，对元宝在音乐创作场景下的AI服务拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rex-7": {
+    "title_clean": "Rex：AI订单到现金运营工具",
+    "summary": "Rex是一款AI代理工具，专门处理从订单到现金的完整业务流程，包括订单处理、收款和财务管理。这类自动化工具对元宝产品经理有参考价值，特别是在探索AI代理在财务和商业流程自动化方面的应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tinker-2": {
+    "title_clean": "Inkling：开源975B多模态大模型",
+    "summary": "Inkling是一款开源的975B参数多模态大模型，专为微调而设计。该模型支持文本、图像等多种模态的处理，为AI产品经理提供了开源大模型的技术参考，可能影响未来AI助手的多模态能力发展方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/autoplot": {
+    "title_clean": "Autoplot：数据分析与绘图统一工具",
+    "summary": "Autoplot是一款将数据分析和绘图功能整合于一体的工作空间工具，帮助用户在一个界面内完成数据处理和可视化工作，提升数据分析效率。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kogvio": {
+    "title_clean": "Kogvio：网页内容理解工具",
+    "summary": "Kogvio是一款网页内容理解工具，允许用户在不离开当前页面的情况下理解在线内容。这种功能对于元宝产品经理在优化AI助手的信息获取和内容理解能力方面具有参考价值，特别是在多页面内容处理和用户交互体验方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/scriptyard": {
+    "title_clean": "Scriptyard：可视化故事创作工作空间",
+    "summary": "Scriptyard是一款免费的可视化故事开发工作空间，为创作者提供直观的界面来构建和规划故事结构。对于元宝产品经理而言，这展示了AI在创意辅助领域的应用场景，可作为多模态交互和创意工具开发的参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/creed-2": {
+    "title_clean": "Creed：AI Agent个人上下文文件工具",
+    "summary": "Creed是一款为AI Agent提供个人上下文文件管理的工具，帮助Agent更好地理解用户个人背景和偏好，提升个性化服务能力。这对元宝产品经理在构建更智能、更个性化的AI助手服务具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/capturekit-2": {
+    "title_clean": "CaptureKit：桌面截图自动整理工具",
+    "summary": "CaptureKit是一款自动整理桌面截图的工具，帮助用户保持桌面整洁。通过自动组织和管理截图，解决了用户手动整理截图的痛点，为AI助手类产品在文件管理和桌面整理场景提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lnkflow": {
+    "title_clean": "LnkFlow：AI点击追踪分析工具",
+    "summary": "LnkFlow是一款AI驱动的点击追踪工具，能够分析哪些链接和内容真正促进业务增长，帮助产品经理了解用户行为与业务转化之间的关系，优化产品推广策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lunen-ai": {
+    "title_clean": "Lunen.ai：团队AI代理构建与管理平台",
+    "summary": "Lunen.ai提供团队级AI代理构建与管理工具，允许整个团队运行和控制AI代理。该平台可能解决企业级AI代理协作与权限控制需求，对元宝产品经理在团队协作AI代理设计方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/free-ai-tools-4": {
+    "title_clean": "Free AI Tools：免登录日常任务浏览器工具",
+    "summary": "这是一组无需登录即可使用的免费浏览器AI工具，专注于解决日常任务。产品经理可参考其轻量化设计思路和免登录体验，评估元宝是否应提供类似轻量级工具，以及如何平衡功能完整性与使用便捷性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/neurovidz": {
+    "title_clean": "NeuroVidz：脑电波视频反应分析工具",
+    "summary": "NeuroVidz是一款能够分析观众大脑对视频内容反应的工具，通过脑电波数据评估视频内容的吸引力和情感影响，为内容创作者提供客观的观众反馈，帮助优化视频制作策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/blockscopechat": {
+    "title_clean": "BlockscopeChat：AI 加密货币调查与研究助手",
+    "summary": "BlockscopeChat 是一款专注于加密货币领域的 AI 调查与研究助手，能够帮助用户进行加密货币相关的调查分析工作。该产品针对加密货币这一特定垂直领域，为需要追踪和分析加密货币活动的专业人士提供了 AI 辅助工具，对元宝在垂直领域 AI 助手的场景拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/loova-agents": {
+    "title_clean": "Loova Ads Studio：AI广告创作工具",
+    "summary": "Loova Ads Studio是一款专注于创作高转化率AI广告的工具，强调广告的实际效果而不仅仅是视觉吸引力。该工具可能帮助产品经理了解AI在广告创作领域的应用，以及如何通过AI提升广告转化率，对元宝的产品商业化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skippr-3": {
+    "title_clean": "Skippr AI：产品内AI员工服务工具",
+    "summary": "Skippr AI是一款在产品内部署的AI员工工具，能够为所有用户提供实时服务。该产品可能帮助元宝了解如何将AI助手深度集成到产品中，为用户提供更直接、个性化的服务体验，对产品经理思考AI服务形态有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-07-20/chatgpt-claude-infiltrate-dating-apps-by-helping-singles-flirt-with-matches": {
+    "title_clean": "ChatGPT与Claude渗透约会应用：帮助单身用户与匹配对象聊天",
+    "summary": "ChatGPT和Claude被单身用户用于辅助约会聊天，这改变了浪漫关系的建立方式。产品经理需关注AI在社交场景的应用，以及这种自动化聊天对真实人际连接的影响，可能涉及AI辅助社交功能的设计与伦理考量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead": {
+    "title_clean": "Moonshot AI's Kimi K3：挑战OpenAI与Anthropic的大模型",
+    "summary": "Moonshot AI发布Kimi K3大模型，性能表现惊艳投资者，迫使硅谷重新审视行业长期假设。该产品对元宝产品经理具有参考价值，可作为竞品分析对象，了解大模型技术突破方向和市场格局变化。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/influencers-are-being-paid-to-spread-the-mormon-church-s-gospel": {
+    "title_clean": "摩门教会通过旗下广告公司付费影响者推广福音",
+    "summary": "摩门教会通过其营利性子公司拥有多家广告公司，这些公司设有影响者营销部门，付费让网红传播教会信息。这一模式展示了传统宗教机构如何利用现代营销策略和AI辅助工具扩大影响力，对元宝产品经理了解非传统AI客户群体和内容营销合作有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china": {
+    "title_clean": "Kimi K3 open-weight model：中国最大AI模型专注记忆而非算力",
+    "summary": "Moonshot AI发布的Kimi K3开放权重模型拥有2.8万亿参数，是迄今为止最大的开放权重模型。该模型的核心创新在于强调记忆能力而非算力，这可能改变AI模型的发展方向，对产品经理思考AI模型架构和性能优化具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/ai-is-new-engine-keeping-chinese-economy-from-harder-landing": {
+    "title_clean": "AI成为中国经济增长新引擎",
+    "summary": "人工智能基础设施建设热潮成为中国经济增长的关键驱动力，帮助中国经济在近年来的低迷期实现软着陆。这一趋势表明AI技术正成为中国经济转型的重要支柱，对元宝产品经理了解AI在宏观经济层面的应用价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai": {
+    "title_clean": "美国公共卫生机构测试OpenAI和Anthropic的AI模型",
+    "summary": "美国公共卫生部门将联合健康AI联盟、OpenAI、Anthropic和埃森哲，测试生成式AI工具在公共卫生领域的应用。这一合作项目旨在评估AI模型在公共卫生场景中的实用性和安全性，为元宝在医疗健康服务场景的AI应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/prysmian-inks-6-3-billion-deal-with-molex-for-data-center-gear": {
+    "title_clean": "Prysmian与Molex签署63亿美元数据中心光缆供应协议",
+    "summary": "Prysmian与Koch旗下Molex签署价值63亿美元的光缆供应协议，为数据中心提供产品。这笔交易反映了AI投资热潮带动数据中心基础设施需求增长的趋势，对元宝产品经理了解AI基础设施供应链变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

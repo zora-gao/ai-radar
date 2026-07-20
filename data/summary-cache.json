@@ -35922,5 +35922,126 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045642&idx=1&sn=ba8c81c2f351eaac7fbe67986a26534e": {
+    "title_clean": "电信推出超低带宽微信语音解决方案",
+    "summary": "电信推出仅需0.266kbps带宽的微信语音技术，解决微信语音卡顿问题。这一技术突破对产品经理有重要参考价值，特别是在网络条件受限场景下的语音通信优化和用户体验提升方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045642&idx=2&sn=cf2d7568f2100fe7e26e71f582a970e8": {
+    "title_clean": "雅可比猜想被Fable5证伪？",
+    "summary": "数学领域重大突破，Fable5系统成功证伪了困扰数学家多年的雅可比猜想。这一发现可能对AI辅助数学研究的方法论产生重要影响，为元宝在数学推理和复杂问题解决方面的能力提升提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045520&idx=2&sn=a1e27a68fdf26af58ce56e6f248d53eb": {
+    "title_clean": "在WAIC现场，我们见到了Richard Sutton",
+    "summary": "本文记录了在WAIC世界人工智能大会上与强化学习之父Richard Sutton的现场交流。作为AI领域的重要学者，Sutton的出现可能预示着强化学习技术在AI产品中的应用新方向，对元宝产品经理了解前沿AI技术发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045520&idx=1&sn=3c7e7168d5241a4aa94770c393f0833c": {
+    "title_clean": "WAIC世界模型「六小龙」同台，全栈玩家入局",
+    "summary": "在WAIC世界模型论坛上，六家领先企业同台展示，赛道中涌现出一家提供全栈解决方案的玩家，表明世界模型领域竞争加剧，全栈式解决方案成为新趋势，对AI产品经理把握行业格局和产品方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-atlas": {
+    "title_clean": "Atlas CEO访谈：市场定位与客户需求",
+    "summary": "Atlas公司CEO Felipe Carvalho Siqueira接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在行业中的定位。这对元宝产品经理了解AI服务企业的市场策略和客户洞察有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/ubs-trading-desk-says-buy-momentum-stocks-as-selloff-nears-end": {
+    "title_clean": "瑞银交易台建议买入动量股票，抛售接近尾声",
+    "summary": "瑞银交易台表示，动量股票的急剧抛售可能接近尾声，投资者可开始重建人工智能和半导体股票的头寸。这反映了机构投资者对AI和半导体板块的看好态度，对元宝产品经理了解AI投资趋势和市场情绪有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-artificial-labs": {
+    "title_clean": "Executive Interview: Artificial Labs - AI公司创始人谈市场定位与客户需求",
+    "summary": "Artificial Labs总裁Eric Joost接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在行业中的定位。这为元宝产品经理提供了AI创业公司视角的市场洞察和客户需求理解，有助于产品方向决策。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/blackrock-s-meta-deal-to-show-the-power-of-25-billion-m-a-spree": {
+    "title_clean": "BlackRock收购Meta数据中心：25亿美元并购 spree 展示金融科技巨头转型",
+    "summary": "BlackRock以超过12亿美元收购Meta数据中心，展示其从传统投资巨头向私有市场重头的转型。这笔交易是BlackRock 250亿美元并购计划的一部分，反映了金融科技巨头在AI基础设施领域的战略布局，对元宝产品经理了解AI服务场景的资本动向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-ledger-rocket": {
+    "title_clean": "Executive Interview: Ledger Rocket",
+    "summary": "Ledger Rocket创始人Jeremie Vaislic接受CB Insights采访，分享了他们对市场的看法、客户需求以及公司定位。这为理解区块链安全领域的市场格局和产品策略提供了高管视角，对元宝产品经理了解垂直领域AI服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/length-value-model": {
+    "title_clean": "Length Value Model: 可扩展的令牌级长度建模预训练方法",
+    "summary": "该研究提出了一种针对自回归模型的令牌级长度建模方法，通过预训练技术优化生成长度，直接影响推理成本和推理性能。对元宝产品经理有参考价值，特别是在优化AI输出长度控制和推理效率方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

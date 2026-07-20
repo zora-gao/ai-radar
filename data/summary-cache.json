@@ -35110,5 +35110,79 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/china-steps-up-efforts-to-stabilize-its-sagging-stock-market": {
+    "title_clean": "国家队入市：中国股市反弹",
+    "summary": "中国股市在经历上周大跌后反弹，两只主要国家基金宣布新增购买，监管机构将与关键行业参与者会面。这反映了政府对市场的干预力度，对元宝产品经理了解中国市场的政策敏感度和市场情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/traders-cut-taiwan-stock-leverage-at-fastest-pace-in-15-months": {
+    "title_clean": "台湾投资者减少股票杠杆投资",
+    "summary": "台湾散户投资者以15个月来最快速度减少杠杆股票投资，推动当地股市进入技术性调整。这一市场动向反映了投资者风险偏好的变化，对AI投资助手和金融场景服务的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-19/teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027": {
+    "title_clean": "Teleperformance：计划2027年前实现全员AI赋能",
+    "summary": "法国商业流程外包公司Teleperformance计划到2027年前，为其50万员工全面嵌入人工智能工作流程，加速AI技术在企业服务中的实际应用。这对AI助手产品经理具有重要参考价值，展示了AI在企业级服务场景中的规模化应用趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/moutai-hikes-price-of-flagship-liquor-for-second-time-in-months": {
+    "title_clean": "茅台：旗舰白酒产品二次涨价",
+    "summary": "贵州茅台公司再次上调其飞天茅台白酒价格，这是数月内的第二次涨价。作为中国最大的白酒制造商，茅台此举旨在应对需求下滑导致的利润压力，对了解高端消费品市场策略和价格调整机制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-19/the-brewing-battle-between-netflix-and-youtube-over-creators": {
+    "title_clean": "Netflix与YouTube争夺创作者的竞争加剧",
+    "summary": "Netflix正积极与YouTube头部创作者签约合作，引发两大平台在内容创作者资源上的直接竞争。这一动态对元宝产品经理有参考价值，提示AI助手类产品在内容生态建设和创作者合作方面的策略考量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-19/tsmc-s-265-billion-us-spend-driven-by-demand-rivals-cfo-says": {
+    "title_clean": "台积电2650亿美元美国投资计划：应对需求与竞争",
+    "summary": "台积电宣布追加100亿美元亚利桑那州投资，以满足美国客户强劲需求并应对竞争对手挑战。此举反映了半导体行业对AI芯片需求的持续增长，以及供应链本地化趋势，对元宝产品经理评估AI基础设施成本与供应链风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

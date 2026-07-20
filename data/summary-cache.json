@@ -35697,5 +35697,128 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-dartle": {
+    "title_clean": "CEO访谈：Dartle",
+    "summary": "Dartle CEO Nihal Pradeep接受CB Insights采访，分享公司对市场定位、客户需求的理解以及业务发展方向。作为AI领域企业，其市场策略和产品定位对元宝产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-lyzr": {
+    "title_clean": "Lyzr CEO访谈：AI助手市场定位与客户需求",
+    "summary": "Lyzr CEO Siva Surendira接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在AI助手领域的定位。访谈探讨了如何定义市场空间以及Lyzr的差异化策略，为AI助手产品经理提供市场洞察和竞争参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-aryon-security": {
+    "title_clean": "Executive Interview: Aryon Security：网络安全公司高管访谈",
+    "summary": "Aryon Security首席技术官Ariel Litmanovich接受CB Insights采访，分享公司对市场的看法、客户需求以及公司定位。该访谈提供了网络安全行业视角，对元宝产品经理了解企业级AI安全服务场景有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd": {
+    "title_clean": "Microsoft与AMD合作扩展Azure AI和高性能计算基础设施",
+    "summary": "Microsoft与AMD合作扩展Azure AI和高性能计算基础设施，这将增强微软云平台的AI计算能力，为元宝等AI产品提供更强大的底层支持，可能影响AI服务的性能和成本结构。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-enrollhere": {
+    "title_clean": "Executive Interview: EnrollHere",
+    "summary": "EnrollHere首席营收官Marcelle Gathing接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家面向教育行业的SaaS平台，EnrollHere专注于解决教育机构的招生和入学管理问题，其市场定位和客户洞察对元宝在教育服务场景的拓展具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai": {
+    "title_clean": "Adobe相机应用：AI照片背景移除功能",
+    "summary": "Adobe的Project Indigo为其相机应用新增AI功能，可自动移除照片中的各类背景。这一功能展示了AI在图像处理领域的应用，对元宝产品经理在图像编辑和AI辅助功能设计方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vouch": {
+    "title_clean": "CEO Interview: Vouch",
+    "summary": "Vouch CEO Sam Hodges接受CB Insights采访，分享公司对市场的看法、客户需求分析以及Vouch在AI领域的定位。作为一家AI公司，Vouch阐述了其市场定位和战略方向，为AI产品经理提供了创业公司视角的市场洞察。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026": {
+    "title_clean": "墨西哥风投领先巴西，全球VC加速进入拉丁美洲",
+    "summary": "墨西哥初创企业在2023年第二季度融资9.44亿美元，较去年同期增长131%，大幅领先巴西成为拉丁美洲创投中心。这一趋势表明全球风投正加速布局拉美市场，为元宝拓展拉美市场提供重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-crypto4a": {
+    "title_clean": "Executive Interview: Crypto4A",
+    "summary": "Crypto4A CTO Jim Goodman接受CB Insights采访，分享公司对市场的看法、客户需求定位以及公司在行业中的定位。作为一家加密技术公司，其市场观点和战略布局对理解企业级安全解决方案市场有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/lvsum-video-summarization": {
+    "title_clean": "LVSum：长视频时间感知摘要基准",
+    "summary": "LVSum是一个针对长视频时间感知摘要的基准测试，主要解决多模态大语言模型在长时间视频摘要中保持时间一致性的挑战，为AI视频理解能力评估提供标准。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

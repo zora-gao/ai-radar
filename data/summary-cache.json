@@ -35511,5 +35511,43 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/deck-9": {
+    "title_clean": "Deck：AI助手与独立邮箱整合工具",
+    "summary": "Deck是一款AI助手产品，具有独立邮箱功能，能够处理邮件和其他任务。这款产品将AI助手与邮箱系统整合，为用户提供更智能的邮件管理和任务处理能力，对元宝产品经理在AI助手功能整合和用户交互设计方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-ai-is-creating-new-winners-and-losers-in-the-ai-trade": {
+    "title_clean": "Moonshot AI：新AI模型引发市场重估",
+    "summary": "Moonshot AI突然发布新AI模型，对全球科技市场产生冲击，迫使投资者重新评估科技股上涨背后的核心假设。这一动态可能改变AI行业竞争格局，对产品经理评估市场趋势和竞品策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/backdrop": {
+    "title_clean": "Backdrop：AI项目与运营执行助手",
+    "summary": "Backdrop是一款AI协作工具，能够自主执行项目和运营任务。它代表了AI助手向自动化执行方向的发展，对元宝产品经理在AI Agent能力拓展和自动化服务场景设计方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

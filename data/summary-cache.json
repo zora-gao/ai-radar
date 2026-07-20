@@ -35820,5 +35820,107 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort": {
+    "title_clean": "X：Android应用全球重版上线",
+    "summary": "X平台经过一年努力，重新构建的Android应用已在全球范围内发布。此次重版可能涉及界面优化、功能增强或性能提升，对产品经理了解主流社交平台的产品迭代策略和用户体验改进方向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-prima": {
+    "title_clean": "Executive Interview: Prima：AI产品市场定位与客户需求访谈",
+    "summary": "Prima首席产品官Nicolo Robba接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在市场中的定位。这对元宝产品经理了解AI产品市场定位策略和客户需求洞察有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use": {
+    "title_clean": "Model Context Protocol：AI互操作性基础协议简化使用",
+    "summary": "Model Context Protocol (MCP)是AI互操作性的基础构建块，为AI模型提供安全访问外部数据源和服务的方式。该协议的简化使用将增强AI系统间的互操作性，对元宝产品经理评估AI系统整合能力与外部服务接入具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-cowbell": {
+    "title_clean": "CEO Interview: Cowbell保险科技CEO谈市场定位与客户需求",
+    "summary": "Cowbell保险科技CEO Jack Kudale接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在保险科技领域的定位。这为元宝产品经理提供了保险科技行业CEO视角的市场洞察和客户需求理解，有助于评估垂直领域AI服务的市场机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-biodimension-technology": {
+    "title_clean": "Executive Interview: Biodimension Technology",
+    "summary": "Biodimension Technology首席商务官Ranjith Kumar Velusamy接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司战略。该访谈提供了生物技术行业高管对市场趋势和客户需求的见解，对元宝产品经理了解垂直行业AI应用场景有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/snap-nears-settlement-of-addiction-case-ahead-of-jury-trial": {
+    "title_clean": "Snap 即将就未成年人成瘾案达成和解",
+    "summary": "Snap公司宣布已就社交媒体平台对未成年人成瘾指控达成初步和解协议，这起案件原定于陪审团审判前进行。此案反映了社交媒体平台面临的监管压力和未成年人保护问题，对元宝产品经理了解行业合规风险和产品设计伦理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai": {
+    "title_clean": "Z.AI：中国芯片AI训练数据中心建成",
+    "summary": "Z.AI完成全中国芯片AI训练数据中心建设，这是北京替代被限制的英伟达芯片发展AI的重要一步。数据中心采用国产芯片，对元宝产品经理了解AI基础设施供应链变化及国产AI发展路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-vigilant-ai-ai": {
+    "title_clean": "Executive Interview: Vigilant AI.ai：AI安全市场定位与客户需求分析",
+    "summary": "Vigilant AI.ai首席商务官Coleshill接受CB Insights采访，分享公司对AI安全市场的看法、客户需求分析以及自身在市场中的定位。这对元宝产品经理了解AI安全领域的市场格局和客户痛点有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -35624,5 +35624,78 @@
       "多模态"
     ],
     "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/cosmos3edge": {
+    "title_clean": "Introducing Cosmos 3 Edge：AI边缘计算模型",
+    "summary": "Introducing Cosmos 3 Edge是一款新的AI边缘计算模型，专注于在本地设备上运行AI任务，减少云端依赖。这对元宝产品经理有参考价值，特别是在考虑AI模型轻量化、离线功能和隐私保护方面，为移动端和IoT设备上的AI应用提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-simbian": {
+    "title_clean": "CEO Interview: Simbian",
+    "summary": "Simbian公司CEO Ambuj Kumar接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。作为AI领域企业，其市场观点和产品策略对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-s-kimi-ai-model-sets-off-anxiety-in-the-us": {
+    "title_clean": "Moonshot Kimi AI模型引发美国焦虑",
+    "summary": "Moonshot发布的Kimi K3模型在美国引发激烈讨论，作为中国AI产品在国际市场的影响力提升，反映了全球AI竞争格局变化，对元宝产品经理评估国际竞品策略和市场定位有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/alibaba-fined-550-million-for-illegal-sales-in-biggest-dsa-case": {
+    "title_clean": "阿里巴巴被欧盟罚款5.5亿欧元：因销售非法产品",
+    "summary": "阿里巴巴因在欧盟销售非法产品被处以5.5亿欧元罚款，这是欧盟内容 moderation 规则下的最大罚单。这一事件对电商平台的合规管理、内容审核机制以及跨境业务风险控制具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-kudos": {
+    "title_clean": "Kudos CEO访谈：企业员工认可平台市场定位",
+    "summary": "Kudos CEO Tikue Anazodo接受CB Insights采访，阐述其市场定位、客户需求及公司战略。该平台专注于企业员工认可领域，探讨如何满足企业对员工激励的需求，以及在该市场中的竞争策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/safety-alignment-long-horizon-models": {
+    "title_clean": "OpenAI分享长周期AI模型部署的安全与对齐经验",
+    "summary": "OpenAI分享了部署长期运行AI模型的实践经验，指出了新的安全风险和观察到的失败案例，并通过迭代部署改进了保障措施。这对元宝产品经理在AI助手长期运行场景下的安全设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

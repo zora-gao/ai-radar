@@ -35549,5 +35549,80 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos": {
+    "title_clean": "YouTube明确AI低质视频 upsetting videos政策",
+    "summary": "YouTube更新了其广告变现政策，更清晰地界定了无法获得广告收入的AI生成和低质量视频类型。这一政策更新对内容创作者和AI内容平台具有重要参考价值，反映了主流平台对AI内容质量的管控趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-unsiloed-ai": {
+    "title_clean": "CEO访谈：Unsiloed AI",
+    "summary": "Unsiloed AI CEO Aman Mishra接受CB Insights采访，分享公司对市场的看法、客户需求定位以及公司战略方向。作为AI领域企业，其市场定位和战略对元宝产品经理了解行业竞争格局和企业级AI服务市场有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says": {
+    "title_clean": "谷歌开发AI服务器芯片提升Gemini模型效率",
+    "summary": "谷歌母公司Alphabet股价上涨，据报道公司正在开发专门优化Gemini AI模型的服务器芯片，此举将提升AI运算效率并可能降低成本，对AI基础设施竞争格局有重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/andreessen-horowitz-adds-connor-love-to-american-dynamism-team": {
+    "title_clean": "Andreessen Horowitz：美国国防与科技领域投资团队扩充",
+    "summary": "知名风投公司Andreessen Horowitz聘请国防与太空技术投资人Connor Love加入其\"美国活力\"团队，该团队专注于对美国国家安全至关重要的初创企业投资。此次人事变动反映风投机构对国防科技领域的战略重视，对元宝产品经理了解AI在国防安全领域的应用机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/chinese-ai-sensation-moonshot-s-gamble-on-big-models-pays-off": {
+    "title_clean": "Chinese AI Sensation Moonshot's Gamble on Big Models Pays Off：中国AI大模型明星月之暗面成功案例",
+    "summary": "月之暗面在中国顶级科技峰会上吸引了大量关注，其大模型战略取得成功。该AI公司在中国科技巨头阿里巴巴和腾讯的展位旁获得超高人气，表明其大模型技术已获得市场认可，对元宝产品经理评估中国AI大模型竞争格局和用户接受度有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/rayrope-projective-ray": {
+    "title_clean": "RayRoPE: 多视图注意力投影射线位置编码",
+    "summary": "RayRoPE是一种针对多视图Transformer的位置编码方法，通过投影射线编码图像区块，实现SE(3)不变性注意力机制，有助于提升多视角图像处理能力，对AI助手的多模态理解能力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态"
+    ],
+    "v": 4
   }
 }

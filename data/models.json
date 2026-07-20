@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-07-20T13:53:43.578Z",
+  "generated_at": "2026-07-20T15:47:05.063Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "meituan/longcat-2.0",
+      "name": "LongCat 2.0",
+      "vendor": "Meituan",
+      "vendor_slug": "meituan",
+      "url": "https://openrouter.ai/meituan/longcat-2.0-20260720",
+      "created_at": "2026-07-20T13:37:38Z",
+      "context_length": 1048756,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.3,
+      "price_out": 1.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "LongCat 2.0 is a sparse mixture-of-experts language model from Meituan, with 48B active parameters out of 1.6T total. It is suited for coding, repository-level changes, long-horizon problem solving, and agentic...",
+      "description_zh": "LongCat 2.0 是美团的稀疏专家混合语言模型，共有 1.6T 活跃参数，其中有 48B 个。它适用于编码、存储库级更改、长期问题解决和代理..."
+    },
     {
       "id": "thinkingmachines/inkling",
       "name": "Inkling",
@@ -677,8 +700,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.969,
-      "price_out": 3.045,
+      "price_in": 0.959,
+      "price_out": 3.014,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1445,33 +1468,6 @@
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the MoonshotAI Kimi family.",
       "description_zh": "此模型始终重定向到 MoonshotAI Kimi 系列中的最新模型。"
-    },
-    {
-      "id": "~google/gemini-flash-latest",
-      "name": "Google Gemini Flash Latest",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/~google/gemini-flash-latest",
-      "created_at": "2026-04-27T19:33:18Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1.5,
-      "price_out": 9,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the Google Gemini Flash family.",
-      "description_zh": "此模型始终重定向到 Google Gemini Flash 系列中的最新模型。"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T17:10:03.696Z",
+  "generated_at": "2026-07-21T19:08:45.308Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -18,8 +18,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.06,
-      "price_out": 0.12,
+      "price_in": 0.1,
+      "price_out": 0.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -33,7 +33,7 @@
       "vendor_slug": "poolside",
       "url": "https://openrouter.ai/poolside/laguna-s-2.1-20260720",
       "created_at": "2026-07-21T16:51:23Z",
-      "context_length": 1048576,
+      "context_length": 262144,
       "modality": "text->text",
       "input_modalities": [
         "text"
@@ -133,7 +133,7 @@
       "vendor_slug": "thinkingmachines",
       "url": "https://openrouter.ai/thinkingmachines/inkling-20260715",
       "created_at": "2026-07-17T22:05:56Z",
-      "context_length": 1048576,
+      "context_length": 524288,
       "modality": "text+image+audio->text",
       "input_modalities": [
         "text",
@@ -721,7 +721,7 @@
       "vendor_slug": "google",
       "url": "https://openrouter.ai/google/gemini-3-pro-image-20260528",
       "created_at": "2026-06-18T03:40:54Z",
-      "context_length": 65536,
+      "context_length": 131072,
       "modality": "text+image->text+image",
       "input_modalities": [
         "image",
@@ -777,8 +777,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.801,
-      "price_out": 2.517,
+      "price_in": 0.791,
+      "price_out": 2.486,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -937,7 +937,7 @@
       "vendor_slug": "nvidia",
       "url": "https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b-20260604",
       "created_at": "2026-06-04T05:33:28Z",
-      "context_length": 1000000,
+      "context_length": 512288,
       "modality": "text->text",
       "input_modalities": [
         "text"
@@ -1032,7 +1032,7 @@
       "vendor_slug": "stepfun",
       "url": "https://openrouter.ai/stepfun/step-3.7-flash-20260528",
       "created_at": "2026-05-28T16:17:49Z",
-      "context_length": 256000,
+      "context_length": 262144,
       "modality": "text+image+video->text",
       "input_modalities": [
         "text",

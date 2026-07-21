@@ -36839,5 +36839,67 @@
       "多模态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro": {
+    "title_clean": "Google发布三款新Gemini模型，但未推出3.5 Pro版本",
+    "summary": "Google发布了Gemini 3.6 Flash、3.5 Flash-Lite和Flash Cyber三款新模型，但未推出备受期待的3.5 Pro版本，这引发了对Google AI战略的新疑问。产品经理需关注Google的产品线布局策略及市场定位变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/china-s-moonshot-in-talks-on-pre-ipo-funds-at-50-billion-value": {
+    "title_clean": "中国AI独角兽Moonshot拟融资50亿美元，估值达500亿美元",
+    "summary": "Moonshot AI计划于8月开始最后一轮融资，估值目标达500亿美元，为香港上市做准备。这反映了AI大模型领域的资本热度，对元宝产品经理了解行业估值水平和融资趋势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated": {
+    "title_clean": "Deezer：音乐流媒体平台AI生成内容占比超50%",
+    "summary": "Deezer报告显示，6月份平台每日上传的AI生成音乐超过9万首，占每日上传总量的50%以上。这一数据反映了AI在音乐创作领域的快速渗透，对音乐流媒体平台的内容审核、版权管理和用户体验策略提出了新的挑战。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/new-parental-supervision-tools-coming-threads": {
+    "title_clean": "Meta 推出 Threads 家长监督工具",
+    "summary": "Meta 在社交应用 Threads 上推出家长监督功能，为家长提供更多工具来监控和支持青少年在 Meta 生态中的应用使用。这反映了社交平台对青少年安全管理的重视，对元宝产品经理在家庭用户场景设计和安全功能上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/amazon-e-commerce-portal-for-business-nears-60-billion-in-sales": {
+    "title_clean": "Amazon企业电商销售平台年销售额接近600亿美元",
+    "summary": "亚马逊企业销售部门年销售额预计将达到600亿美元，较2023年增长约71%，显示全球最大在线零售商在企业市场的强劲增长。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

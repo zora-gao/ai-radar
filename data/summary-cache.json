@@ -36191,5 +36191,306 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/protoflow-2": {
+    "title_clean": "ProtoFlow：AI PCB设计工具",
+    "summary": "ProtoFlow是一款面向工程师和硬件团队的AI驱动PCB设计工具，通过人工智能技术辅助电路板设计流程，提高设计效率和准确性，为硬件开发团队提供智能化设计支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openchatcut": {
+    "title_clean": "OpenChatCut：开源AI视频编辑工具",
+    "summary": "OpenChatCut是一款开源的AI视频编辑工具，具有实时时间线功能。该产品为元宝产品经理提供了AI在视频编辑领域的应用参考，展示了AI工具如何提升内容创作效率，可能启发元宝在多媒体处理或AI辅助创作方向的功能拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/arachstudio": {
+    "title_clean": "ArachStudio：浏览器内GitHub组件实时编辑工具",
+    "summary": "ArachStudio是一款浏览器内直接编辑GitHub组件的工具，允许开发者在浏览器环境中实时修改和调试GitHub上的代码组件，提升了开发效率和协作体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/manifest-363": {
+    "title_clean": "Manifest：网页转AI代理行动清单工具",
+    "summary": "Manifest是一款将任意网页转换为AI代理行动清单的工具，使AI能够理解和执行网页上的操作。这为元宝产品经理提供了网页内容结构化处理的新思路，可能启发AI代理在网页自动化操作、跨应用服务场景中的应用方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skim-5": {
+    "title_clean": "Skim：免费开源AI邮件客户端",
+    "summary": "Skim是一款免费开源的AI邮件客户端，专为Windows系统设计。该产品通过AI技术增强邮件处理体验，为元宝产品经理提供了AI在邮件场景应用的可参考案例，有助于探索AI助手在办公场景中的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/diffsmith-code-review-studio": {
+    "title_clean": "Diffsmith：AI 代码协作工具",
+    "summary": "Diffsmith 是一款专为 AI 代理设计的代码协作工具，允许用户对 AI 生成的代码进行评论并协作修改。产品经理可关注其如何解决 AI 代码生成后的协作与迭代问题，为元宝的 AI 代理功能提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bud-voice-canvas": {
+    "title_clean": "BUD：语音优先的绘图白板工具",
+    "summary": "BUD是一款语音优先的绘图白板工具，专注于速记和头脑风暴场景。产品通过语音输入实现快速绘图和协作，为AI助手在会议记录、创意捕捉等场景提供了新的交互思路，值得产品经理关注语音交互在协作工具中的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ditto-site": {
+    "title_clean": "ditto.site：网站克隆开源工具",
+    "summary": "ditto.site是一款免费开源工具，可将任何网站克隆为干净代码。产品经理可关注其技术实现方式，为元宝的网页解析、内容提取或代码生成功能提供参考，特别是在处理网页数据结构化方面可能有启发价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tterm": {
+    "title_clean": "tterm：终端与浏览器集成工具",
+    "summary": "tterm是一款将终端、真实浏览器和Claude Code集成于一体的工具，为开发者提供统一的工作环境，可能提升AI辅助编程的效率与体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meetisland": {
+    "title_clean": "MeetIsland：会议准时提醒工具",
+    "summary": "MeetIsland是一款专注于帮助用户准时参加会议的工具，通过动态提醒功能确保用户不错过重要会议。这款产品针对办公场景中的时间管理痛点，为AI助手类产品提供了在日程提醒和会议管理方面的功能参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/phantomstory": {
+    "title_clean": "Phantomstory：一键创建第三方博客工具",
+    "summary": "Phantomstory是一款简化工具，允许用户通过两次点击快速创建第三方博客，旨在帮助用户轻松获得AEO（可能指某种认证或排名优势）。该工具针对需要快速建立内容平台或提升在线可见性的用户，为元宝产品经理在内容生成和用户增长策略方面提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/createos-sandbox": {
+    "title_clean": "CreateOS Sandbox：AI代理硬件隔离沙箱工具",
+    "summary": "CreateOS Sandbox提供即时、硬件隔离的沙箱环境，专为AI代理设计，确保安全执行任务。这一工具对产品经理有参考价值，因为它解决了AI代理执行任务时的安全性问题，可能启发元宝在安全隔离机制方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bolna-2": {
+    "title_clean": "Bolna Agent Studio：语音AI Agent快速构建工具",
+    "summary": "Bolna Agent Studio是一款能让开发者在10分钟内构建语音AI Agent的平台，专注于语音交互场景，为AI助手产品提供语音Agent开发解决方案，有助于元宝团队探索语音交互Agent的快速开发能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tidy-5": {
+    "title_clean": "Tidy：Mac文件自动整理工具",
+    "summary": "Tidy是一款Mac系统工具，可自动整理截图、安装包和下载文件夹，帮助用户保持文件系统整洁。对于元宝产品经理而言，这类系统级文件管理功能可作为AI助手自动化服务场景的参考，特别是在桌面环境下的文件组织与智能整理方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dualstream": {
+    "title_clean": "DualStream：桌面与手机同步直播工具",
+    "summary": "DualStream是一款支持桌面和移动设备同时直播的工具，提供便捷的双平台同步直播功能，适用于内容创作者和需要多平台直播的用户。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rerun-2": {
+    "title_clean": "Rerun：AI任务构建工具",
+    "summary": "Rerun是一款简化AI代理构建的工具，旨在帮助用户快速创建能够执行各种任务的AI代理。该工具可能通过低代码或可视化界面降低AI代理开发门槛，对元宝产品经理在AI代理功能设计和用户体验优化方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery": {
+    "title_clean": "Bristol Myers Squibb采购Nvidia AI系统加速药物研发",
+    "summary": "Bristol Myers Squibb采购基于Nvidia Vera Rubin架构的DGX SuperPOD系统，支持其药物研发与开发全流程的AI应用，显示制药巨头对AI加速药物发现的重视。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lev8": {
+    "title_clean": "Lev8：AI精准触达工具",
+    "summary": "Lev8是一款AI驱动的联系人发现与研究工具，帮助用户精准找到目标人群并进行有效触达。该产品对元宝产品经理在用户触达和精准营销方面具有参考价值，可作为AI助手在商务场景下的应用案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/tsmc-in-talks-to-raise-prices-by-up-to-10-in-2027-nikkei-says": {
+    "title_clean": "台积电计划2027年芯片价格上涨最高10%",
+    "summary": "台积电计划在2027年将芯片价格提高最高10%，以应对制造成本上升。这一价格调整反映了半导体制造业的成本压力，可能影响AI芯片供应链和成本结构，对AI硬件产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved": {
+    "title_clean": "Anthropic获15亿美元版权诉讼和解获批",
+    "summary": "Anthropic与版权方达成15亿美元和解协议，此案解决了一起具体诉讼，但未解决AI模型训练使用版权作品的更广泛问题。对产品经理而言，这反映了AI训练数据合规风险及行业面临的版权挑战，可能影响未来产品数据策略和成本结构。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/grabette": {
+    "title_clean": "Grabette：机器人操作数据开源记录系统",
+    "summary": "Grabette是一个开源系统，专门用于记录机器人操作数据。该系统为机器人训练和AI模型开发提供了数据收集的基础设施，对元宝产品经理在AI助手与物理世界交互能力方面具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet": {
+    "title_clean": "英国设立首位内阁级AI部长",
+    "summary": "英国新任首相安迪·伯纳姆任命卡尼什卡·纳拉扬为人工智能部长，这是AI部长职位首次提升至内阁级别，显示英国政府对AI战略的高度重视。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst": {
+    "title_clean": "Oracle信用风险达近18年新高，AI投资引发债务担忧",
+    "summary": "Oracle公司债务违约保护成本创多年新高，现有债券遭抛售，市场对其大规模AI投资能否产生回报产生质疑。这一情况反映了AI投资热潮下的企业财务风险，对元宝产品经理评估AI商业化路径和风险控制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient": {
+    "title_clean": "Google开发新AI芯片提升Gemini效率",
+    "summary": "Google母公司Alphabet正在开发一款新型AI芯片，旨在显著提升Gemini模型的运行效率。这一技术进展可能影响AI大模型的性能优化路径，对元宝产品经理评估AI基础设施与模型效率关系有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

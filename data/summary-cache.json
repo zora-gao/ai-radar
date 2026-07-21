@@ -36990,5 +36990,145 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045760&idx=1&sn=35283d00e29d19f1352d941eed20e263": {
+    "title_clean": "苏度：AI助手经受大型活动检验",
+    "summary": "苏度AI助手在WAIC大会期间接受了观众提问和宁德时代等企业检验，展示了其在复杂场景下的稳定性和可靠性，为AI助手在专业场景中的应用提供了实际案例参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045886&idx=1&sn=387a85851bb185a5d9d8abf6a4341810": {
+    "title_clean": "AI编程竞赛冠军获得融资、论文和专利",
+    "summary": "该资讯报道了AI编程竞赛冠军团队在去年获得了融资、论文和专利成果，暗示AI编程领域正获得更多关注和资源投入，对元宝产品经理了解AI编程工具的发展趋势和商业化机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045934&idx=1&sn=3b20400089eb5e6f99498f8dbf85a6dd": {
+    "title_clean": "多模态迎来「架构换代」：商汤连出两张牌，划定大一统基座新标准",
+    "summary": "商汤科技发布多模态架构升级方案，通过两张核心技术牌重新定义多模态处理标准，为AI系统提供统一基座。这对元宝产品经理评估多模态技术路线和竞品技术演进具有重要参考价值，可能影响产品架构设计和技术选型方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045700&idx=1&sn=174ae2bdc9611783afa2d8d69adfd8bd": {
+    "title_clean": "图灵鉴X：AI商品鉴定与估价工具",
+    "summary": "图灵鉴X利用AI技术对商品进行真伪鉴定、成色评估和价格估算，旨在将交易信任量化并验证，为电商和二手交易平台提供可信度评估服务，有助于解决商品交易中的信任问题。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045700&idx=2&sn=41b22bfcfbcedc0ab6ec188c1b5d75a2": {
+    "title_clean": "ICML2026：Agent Primitives让多智能体系统实现模块化复用",
+    "summary": "Agent Primitives提出了一种模块化方法，使多智能体系统(MAS)能够像搭积木一样复用组件，提高了系统的灵活性和开发效率。这一研究为AI Agent的架构设计提供了新思路，有助于简化复杂多智能体系统的构建过程。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/super-micro-jumps-after-preliminary-outlook-shows-rising-backlog": {
+    "title_clean": "Super Micro：服务器订单创纪录增长",
+    "summary": "服务器制造商Super Micro Computer发布初步业绩报告，显示季度新订单积压额超过600亿美元，创下历史新高，股价在盘后交易中上涨约15%。这一数据反映了企业对高性能计算基础设施的强劲需求，对AI基础设施供应商的业绩有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models": {
+    "title_clean": "OpenAI：Hugging Face数据泄露源于其预发布模型测试失误",
+    "summary": "OpenAI承认Hugging Face数据泄露事件源于其内部测试失误，使用了预发布模型导致安全漏洞。这一事件对AI产品经理有重要参考价值，提醒在模型测试阶段需加强安全管控，避免内部测试工具对第三方平台造成安全风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app": {
+    "title_clean": "AI与通用娱乐应用的崛起",
+    "summary": "文章探讨了AI如何使创建、组织和推荐内容变得更加容易，推动娱乐平台从单一格式向通用应用转变。这对元宝产品经理有参考价值，特别是在多模态内容整合和个性化推荐方面的产品策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft": {
+    "title_clean": "美国威胁对中国AI模型实施IP盗窃制裁",
+    "summary": "美国财政部长表示可能因 alleged IP theft 对中国开源AI模型实施制裁，这是特朗普政府减缓中国AI进步的最新举措。这一政策动向可能影响全球AI技术合作格局，对元宝产品经理需关注国际AI政策变化对产品出海和竞品策略的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/intel-rallies-after-saying-it-ll-make-more-headcount-reductions": {
+    "title_clean": "英特尔宣布裁员计划以削减成本并重组数据中心业务",
+    "summary": "英特尔确认将进行更多裁员以削减成本并重组其关键的数据中心业务，导致公司股价上涨。这一动向对元宝产品经理有参考价值，因为英特尔作为芯片巨头，其业务调整可能影响AI硬件供应链和数据中心服务市场格局。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/david-velez-robin-vince-join-openai-boards": {
+    "title_clean": "David Vélez和Robin Vince加入OpenAI基金会和OpenAI集团PBC董事会",
+    "summary": "David Vélez和Robin Vince加入OpenAI基金会和OpenAI集团PBC董事会，为OpenAI带来金融、技术和治理领域的全球领导力。这一人事变动可能影响OpenAI的战略方向和治理结构，对元宝产品经理了解OpenAI的组织架构和战略调整有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -36043,5 +36043,67 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/china-s-gigaai-seeks-2026-hong-kong-ipo-in-first-for-world-model": {
+    "title_clean": "GigaAI寻求2026年香港IPO，世界模型企业首次上市",
+    "summary": "中国AI企业GigaAI计划于2026年在香港进行首次公开募股，这将是世界模型企业的首次上市。该公司正与投资者讨论相关事宜，加入了中国AI企业赴港上市的热潮，反映了AI领域资本市场的活跃态势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/nextdc-shares-jump-after-data-center-operator-wins-new-contracts": {
+    "title_clean": "NEXTDC数据中心赢得新合约，股价上涨",
+    "summary": "澳大利亚布里斯班数据中心运营商NEXTDC宣布赢得新客户合约，使其在截至6月的三个月内签约利用率提升11%，公司股价因此上涨。这反映了数据中心服务需求增长，对元宝产品经理了解企业级AI服务基础设施需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned": {
+    "title_clean": "特朗普最新AI负责人已辞职",
+    "summary": "特朗普政府设立的AI标准和创新中心(CAISI)负责人职位频繁变动，最新任命的AI负责人已辞职，此前David Sacks也辞去了该职位。这反映了美国AI治理团队的不稳定性，可能影响政策连续性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be": {
+    "title_clean": "OpenAI担忧开源大模型，美国是否应限制中国开源大模型",
+    "summary": "OpenAI对开源大模型表示担忧，并讨论是否应限制中国制造的开源大模型，这反映了将AI转化为商业面临的挑战。对产品经理而言，这提示需关注开源模型对商业AI产品的竞争压力及政策环境变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045609&idx=1&sn=1d9afcfd1dc1f4df53535dbb590b9ee2": {
+    "title_clean": "无问芯穹：跨集群异构PD分离技术",
+    "summary": "无问芯穹在WAIC上首发跨集群异构PD分离技术，通过专访形式介绍了其Token工厂「超级管」的技术架构与应用场景，为AI芯片与模型部署提供了新的技术方案，对产品经理了解AI基础设施前沿技术有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

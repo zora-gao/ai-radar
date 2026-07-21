@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T22:53:24.417Z",
+  "generated_at": "2026-07-21T02:01:56.184Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -446,29 +446,6 @@
       "description_zh": "Hy3 是来自腾讯的 295B 参数混合专家模型（21B 活跃，192 位专家，具有 top-8 路由），专为推理、代理工作流程和实际生产使用而构建。它支持可配置的推理工作：..."
     },
     {
-      "id": "tencent/hy3:free",
-      "name": "Hy3 (free)",
-      "vendor": "Tencent",
-      "vendor_slug": "tencent",
-      "url": "https://openrouter.ai/tencent/hy3-20260706",
-      "created_at": "2026-07-06T13:20:48Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Hy3 is a 295B-parameter Mixture-of-Experts model from Tencent (21B active, 192 experts with top-8 routing) built for reasoning, agentic workflows, and real-world production use. It supports a configurable reasoning effort:...",
-      "description_zh": "Hy3 是来自腾讯的 295B 参数混合专家模型（21B 活跃，192 位专家，具有 top-8 路由），专为推理、代理工作流程和实际生产使用而构建。它支持可配置的推理工作：..."
-    },
-    {
       "id": "poolside/laguna-xs-2.1",
       "name": "Laguna XS 2.1",
       "vendor": "Poolside",
@@ -700,8 +677,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.93,
-      "price_out": 2.922,
+      "price_in": 0.973,
+      "price_out": 3.058,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1468,6 +1445,33 @@
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the MoonshotAI Kimi family.",
       "description_zh": "此模型始终重定向到 MoonshotAI Kimi 系列中的最新模型。"
+    },
+    {
+      "id": "~google/gemini-flash-latest",
+      "name": "Google Gemini Flash Latest",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/~google/gemini-flash-latest",
+      "created_at": "2026-04-27T19:33:18Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video",
+        "file",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.5,
+      "price_out": 9,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "This model always redirects to the latest model in the Google Gemini Flash family.",
+      "description_zh": "此模型始终重定向到 Google Gemini Flash 系列中的最新模型。"
     }
   ]
 }

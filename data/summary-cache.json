@@ -36751,5 +36751,93 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://openai.com/index/introducing-chatgpt-small-business-program": {
+    "title_clean": "OpenAI推出面向小企业的ChatGPT计划",
+    "summary": "OpenAI推出面向小企业的ChatGPT计划，帮助企业家构建AI技能、自动化工作流程，并通过ChatGPT Work实现业务增长。该计划为小企业提供了AI应用的具体场景和商业化路径，对元宝拓展企业服务市场具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs": {
+    "title_clean": "Google发布Gemini 3.6 Flash：面向企业AI代理的降本模型",
+    "summary": "Google推出Gemini 3.6 Flash和3.5 Flash-Lite两款新模型，专为降低企业AI代理的延迟和token成本而设计。这对元宝产品经理评估企业级AI代理的成本效益和性能优化具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/nvidia-touts-progress-getting-new-rubin-design-to-customers": {
+    "title_clean": "Nvidia：新款Rubin芯片设计交付进展",
+    "summary": "Nvidia宣布其最新的Rubin芯片设计已开始交付客户，这将有助于巩固其在AI芯片领域的领导地位。作为AI半导体核心企业，Nvidia的新一代芯片进展对AI硬件基础设施发展具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models": {
+    "title_clean": "OpenAI CEO将向美国官员介绍新一代AI模型",
+    "summary": "OpenAI首席执行官Sam Altman计划下周向特朗普政府和美国议员介绍即将推出的人工智能模型，这反映了美国在AI监管方面的最新动向，对元宝产品经理了解行业政策走向和头部企业战略规划具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-21/dating-apps-face-scam-challenge-of-ai-powered-chatfishing": {
+    "title_clean": "约会应用面临AI'聊天钓鱼'诈骗挑战",
+    "summary": "约会应用公司正面临AI驱动的'聊天钓鱼'诈骗问题，但企业要么不愿处理，要么不知如何应对。这反映了AI技术在欺诈场景中的新应用，对元宝产品经理了解AI安全防护和内容审核机制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/blackrock-mgx-consortium-eyes-5-billion-aligned-data-centers-expansion": {
+    "title_clean": "BlackRock-MGX Consortium 计划投资50亿美元扩建数据中心",
+    "summary": "BlackRock全球基础设施合作伙伴与阿布扎比MGX组成的财团计划额外投资50亿美元，扩建Aligned Data Centers以推动增长。这反映了大型金融机构对AI基础设施的持续投入，对元宝产品经理了解AI算力资源供应和行业资本动向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/calibrated-sparse-attention": {
+    "title_clean": "Accelerating Text-to-Video Generation with Calibrated Sparse Attention：文本生成视频加速技术",
+    "summary": "该研究提出了一种校准稀疏注意力机制，用于加速文本到视频的生成过程。通过优化扩散模型中的时空注意力计算，解决了高质量视频生成模型运行速度慢的问题，对提升AI视频生成工具的实用性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态"
+    ],
+    "v": 4
   }
 }

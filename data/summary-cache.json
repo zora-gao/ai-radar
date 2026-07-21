@@ -36653,5 +36653,103 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales": {
+    "title_clean": "Apple与Klarna合作推出设备租赁计划以刺激销售",
+    "summary": "苹果公司正准备推出Apple Upgrade租赁计划，这将改变其设备销售方式的重要变革。通过与Klarna合作，苹果将提供设备租赁服务，旨在刺激产品销售并可能改变消费者购买模式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stream-stream-ring-by-sandbar": {
+    "title_clean": "Universal Dictation on Stream：跨平台语音输入工具",
+    "summary": "Universal Dictation on Stream 是一款支持iOS和Mac系统的语音输入工具，提供私有化的语音转文字功能，用户可在苹果设备间无缝使用语音输入服务，为多平台办公场景提供便捷的语音输入解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/-100-million-bet-on-venezuelan-fintech-cashea-draws-global-investors": {
+    "title_clean": "委内瑞拉金融科技公司Cashea获1亿美元融资",
+    "summary": "委内瑞拉最大金融科技公司Cashea完成两轮融资共1亿美元，全球投资者看好其在信贷受限市场的发展潜力。此案例显示新兴市场金融科技机会，对元宝拓展拉美市场及跨境金融服务有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/google-expands-in-miami-after-its-billionaire-founders-buy-homes": {
+    "title_clean": "Google 扩大在迈阿密的办公空间，创始人购买房产",
+    "summary": "谷歌母公司Alphabet今年在迈阿密的办公空间扩大了四倍多，这一扩张发生在联合创始人拉里·佩奇和谢尔盖·布林在该地区购买住宅之后。这表明谷歌正在加强在迈阿密的存在，可能涉及人才招聘和业务拓展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/routine": {
+    "title_clean": "Routine AI：语音工作控制助手",
+    "summary": "Routine AI是一款语音控制工作助手，被描述为'工作的Siri'，允许用户通过语音命令控制工作流程。这款产品针对办公场景的语音交互需求，为AI助手在专业工作环境中的应用提供了参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/data-centers-on-track-to-suck-up-a-fifth-of-us-power-use-by-2035": {
+    "title_clean": "美国数据中心电力消耗预计2035年将占全国20%",
+    "summary": "据BloombergNEF预测，美国数据中心电力消耗将从目前的5.9%大幅增长至2035年的20%，占总用电量的五分之一。这一趋势对AI产品经理具有重要参考价值，提示在产品规划中需考虑能源效率与可持续性，以及可能面临的能源成本上升问题。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/blackrock-hillhouse-temasek-said-set-to-back-innolight-listing": {
+    "title_clean": "BlackRock、Hillhouse、Temasek将投资中际旭创香港上市",
+    "summary": "据消息人士透露，贝莱德、高瓴投资和淡马锡将成为中际旭创在香港潜在80亿美元上市的主要基石投资者。这一投资动向表明顶级投资机构对中国光通信企业的信心，对元宝产品经理了解AI基础设施投资趋势和行业资本流向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/environment-free": {
+    "title_clean": "Environment-free Synthetic Data Generation for API-Calling Agents：API调用代理的无环境合成数据生成",
+    "summary": "该研究提出了一种无需完整环境即可为API调用型LLM代理生成高质量合成数据的方法，解决了大规模API调用代理训练数据收集难题，对元宝产品经理在AI Agent训练数据获取方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

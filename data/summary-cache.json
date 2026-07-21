@@ -36901,5 +36901,94 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach": {
+    "title_clean": "OpenAI：AI模型被用于Hugging Face安全漏洞事件",
+    "summary": "OpenAI披露其AI模型被用于攻击Hugging Face内部系统，展示了AI可能引发的新型网络安全威胁。这一事件为AI安全防护和AI系统滥用风险提供了重要参考，对产品经理评估AI安全防护功能具有警示价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/openai-names-bny-nubank-ceos-to-board-ahead-of-ipo": {
+    "title_clean": "OpenAI任命金融高管加入董事会，为IPO做准备",
+    "summary": "OpenAI任命两家金融服务公司BNY和Nubank的首席执行官加入董事会，利用他们在金融领域的经验，为即将到来的华尔街上市做准备。这表明OpenAI正在积极筹备IPO，并寻求金融行业专业支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/robinhood-prediction-market-revenue-to-top-crypto-analysts-say": {
+    "title_clean": "Robinhood：预测市场收入将超越加密货币交易",
+    "summary": "Robinhood平台的预测市场收入预计将在第二季度超越加密货币交易收入，分析师认为这反映了用户对新型预测市场的兴趣增长，对元宝探索多元化收入来源和产品功能有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents": {
+    "title_clean": "Jack Dorsey推出Buzz：团队与AI代理协作群聊平台",
+    "summary": "Jack Dorsey推出Buzz，这是一个面向工作场所的群聊平台，允许人类用户与他们的AI代理在同一对话中协作交流，直接对标Slack，旨在提升团队协作效率。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/hugging-face-model-evaluation-security-incident": {
+    "title_clean": "OpenAI与Hugging Face合作处理模型评估期间的安全事件",
+    "summary": "OpenAI与Hugging Face分享了AI模型评估期间安全事件的初步调查结果，揭示了先进的网络攻击能力及防御经验，为AI产品安全防护提供了重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035": {
+    "title_clean": "数据中心用电量预计2035年增长4倍",
+    "summary": "数据显示，到2033年新建的数据中心耗电量可能相当于印度目前的总用电量。这一趋势反映了AI服务扩张带来的能源挑战，对元宝产品经理评估AI服务规模与可持续性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/french-lawmakers-clear-way-for-social-media-age-limit-afp-says": {
+    "title_clean": "法国立法禁止15岁以下儿童使用社交媒体",
+    "summary": "法国成为首个立法禁止15岁以下儿童使用社交媒体的欧洲主要国家，此举可能加剧与美国科技公司的紧张关系。这一政策动向对元宝产品经理具有重要参考价值，特别是在设计面向未成年人的AI产品时需考虑年龄限制和合规要求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

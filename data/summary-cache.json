@@ -36105,5 +36105,91 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/won-daily-trading-volume-jumps-on-extended-hours-stock-selloff": {
+    "title_clean": "韩元24小时交易量激增：外资抛售芯片股推动",
+    "summary": "韩元24小时交易启动两周后交易量显著上升，主要受外资抛售韩国芯片股驱动。这一市场变化可能影响外汇交易策略和流动性管理，对涉及跨境支付和汇率波动的AI金融服务产品有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/samsung-hires-ex-boston-dynamics-executive-in-robotics-push": {
+    "title_clean": "三星聘请波士顿动力前高管推进机器人业务",
+    "summary": "三星电子从现代汽车集团聘请韩国顶尖机器人高管，负责新成立的机器人部门，此举加剧了机器人领域的竞争。三星正积极布局机器人业务，表明科技巨头正将机器人视为下一个重要发展方向，这对AI助手和AI Agent产品经理了解科技巨头战略布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045435&idx=1&sn=87e4632cd03583c94e44d603857b918f": {
+    "title_clean": "WAIC展会：机器人平台化战略发布",
+    "summary": "在WAIC展会上，某机器人企业展示了独特的平台化战略，不强调硬件表演，而是致力于成为机器人领域的操作系统平台，类似安卓在手机行业的地位，旨在推动机器人生态系统的标准化和开放性发展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045609&idx=2&sn=c5fbe0858e43e6208dbd862bea43d773": {
+    "title_clean": "GPU资源紧张导致KimiK3暂停新用户订阅，月之暗面计划IPO",
+    "summary": "由于GPU资源紧张，KimiK3已暂停新用户订阅，同时AI公司月之暗面正准备IPO。这反映了当前AI大模型发展面临的算力瓶颈，以及头部AI公司寻求资本支持的动向，对元宝的产品规划和资源分配具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045435&idx=2&sn=e503ba0c7da94a01291b5fe075686937": {
+    "title_clean": "WAIC展示全球最小微型无框力矩电机",
+    "summary": "在WAIC上展示了全球最小的微型无框力矩电机，这是一项微型电机技术的突破。对于产品经理而言，这可能为AI设备的小型化和精密控制提供新的技术可能性，特别是在需要微型驱动的AI硬件产品开发中具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-ovianta": {
+    "title_clean": "CEO Interview: Ovianta",
+    "summary": "Ovianta CEO Alex Quintans接受CB Insights采访，分享公司对市场的看法、客户需求分析以及市场定位。作为AI行业高管访谈，提供了企业视角的市场洞察和战略思考，对元宝产品经理了解行业趋势和竞争格局有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-20/paytm-s-profit-rises-after-turnaround-boosts-bottom-line": {
+    "title_clean": "Paytm利润大幅增长：支付与金融服务业务推动扭亏为盈",
+    "summary": "Paytm报告净利润增长79%，主要得益于成本削减以及支付和金融服务业务的增长。这一业绩表明该公司通过业务调整实现了盈利能力改善，对金融科技产品经理在业务多元化与成本控制策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

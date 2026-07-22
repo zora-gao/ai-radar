@@ -37668,5 +37668,90 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-wocap": {
+    "title_clean": "Wocap CEO访谈：市场定位与客户需求分析",
+    "summary": "Wocap CEO Petros Patronis接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在市场中的定位。这为元宝产品经理提供了AI服务市场定位和客户需求洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/israel-plans-crocodile-infested-moats-to-guard-hamas-prisoners": {
+    "title_clean": "以色列计划用鳄鱼沟渠关押哈马斯囚犯",
+    "summary": "以色列当局计划用鳄鱼填满的沟渠来关押高安全级别的哈马斯囚犯，称此举既能节省成本，又能以囚犯'应得的方式'对待他们。这一特殊安保措施反映了特殊安全环境下的非常规应对策略。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026": {
+    "title_clean": "浏览器战争焦点转向：Chrome与Safari的替代品评测",
+    "summary": "文章概述了当前市场上挑战Chrome和Safari的主流替代浏览器，为产品经理了解浏览器市场格局变化和用户选择趋势提供了参考，有助于评估AI助手在不同浏览器平台上的集成机会和用户获取策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/openai-plans-to-spend-over-30-billion-on-georgia-data-center": {
+    "title_clean": "OpenAI计划在佐治亚州投资超30亿美元建设数据中心",
+    "summary": "OpenAI计划在佐治亚州萨凡纳附近投资数十亿美元建设大型数据中心，以满足人工智能软件激增的需求。这反映了ChatGPT背后的公司正在大力扩展基础设施以支持其AI服务的快速增长，对元宝产品经理评估AI基础设施扩张与需求关系具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/rogers-beats-as-growing-sports-empire-gives-further-windfall": {
+    "title_clean": "Rogers：体育资产推动业绩超预期",
+    "summary": "Rogers Communications Inc. 凭借体育资产的强劲表现，超出分析师盈利预期。这表明体育内容作为高价值数字资产，对媒体公司收入有显著贡献，对元宝在内容合作与商业化方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching": {
+    "title_clean": "Synthesia：AI企业培训平台扩展至实时教练",
+    "summary": "Synthesia推出AI角色扮演会话功能，员工可与AI虚拟角色进行工作场景对话练习，系统提供反馈、评分和分析功能，将传统视频培训升级为互动式实时教练体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-07-22/samsung-revamps-foldable-lineup-with-galaxy-z-fold-8-z-fold-8-ultra-z-flip-8": {
+    "title_clean": "三星发布Galaxy Z Fold 8系列：可折叠手机新设计",
+    "summary": "三星推出Galaxy Z Fold 8、Z Fold 8 Ultra和Z Flip 8三款可折叠手机新品，其中Z Fold 8采用更适合视频观看的矮胖设计。这一更新反映了可折叠设备在多模态交互场景下的演进，对元宝产品经理了解硬件创新如何影响AI服务交互形态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

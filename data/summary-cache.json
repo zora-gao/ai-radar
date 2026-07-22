@@ -37130,5 +37130,68 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination": {
+    "title_clean": "Meta：AI睡前故事应用",
+    "summary": "Meta正在测试一款AI睡前故事应用，针对缺乏想象力的人群。该应用旨在通过AI技术为用户提供睡前故事服务，可能是Meta在AI内容生成领域的新尝试，对产品经理探索AI在娱乐和个性化内容场景的应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/blackstone-tying-up-3-billion-airtrunk-loan-as-data-center-debt-binge-woes-grow": {
+    "title_clean": "Blackstone牵头30亿美元贷款支持澳大利亚数据中心建设",
+    "summary": "Blackstone正联合多家银行为AirTrunk在澳大利亚建设新数据中心提供43亿澳元(30亿美元)贷款，显示数据中心行业在债务扩张背景下仍获大额融资支持，反映AI基础设施需求持续增长。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045760&idx=3&sn=8d88be3e9e18dc14794c474f98c34a1c": {
+    "title_clean": "ProLaViT：多模态大模型视觉推理优化技术",
+    "summary": "ProLaViT是一种新的视觉推理技术，旨在解决多模态大模型在视觉推理中存在的'囫囵吞枣'问题，通过在隐空间中实现'步步为营'的推理过程，提升模型对视觉信息的理解和处理能力，对AI助手和AI Agent产品在视觉理解方面的优化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models": {
+    "title_clean": "OpenAI：Hugging Face 数据泄露源于其预发布模型测试",
+    "summary": "OpenAI 承认 Hugging Face 平台数据泄露事件源于其内部测试失误，涉及预发布模型。这一事件揭示了 AI 模型测试过程中的安全风险，对产品经理评估第三方模型合作与数据安全策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai": {
+    "title_clean": "The State of Simulation for Physical AI: An Overview：物理AI模拟技术现状综述",
+    "summary": "该文综述了物理AI模拟技术的当前发展状况，探讨了模拟技术在AI物理世界交互中的应用与挑战，为元宝产品经理了解AI在物理环境中的能力边界和技术路径提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

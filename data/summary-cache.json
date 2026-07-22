@@ -37257,5 +37257,230 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/redential": {
+    "title_clean": "Redential：开发者成就证明工具",
+    "summary": "Redential 是一个为开发者提供成就证明的平台，能够展示用户实际构建的项目和技能，帮助开发者证明自己的技术能力和项目经验。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/arkor": {
+    "title_clean": "Arkor：TypeScript开源模型微调部署工具",
+    "summary": "Arkor是一个TypeScript工具，允许开发者对开源模型进行微调并部署。这为元宝产品经理提供了在TypeScript生态中集成和定制AI模型的技术路径参考，有助于评估在客户端或边缘场景部署定制化模型的可行性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/garmin-cirqa-smart-band": {
+    "title_clean": "Garmin CIRQA™ Smart Band：无屏健康健身追踪器",
+    "summary": "Garmin推出无屏幕的健康健身追踪手环CIRQA™，无需订阅即可使用。这款产品专注于基础健康数据追踪，简化了传统智能手环的屏幕交互，为注重隐私和简洁的用户提供了轻量化选择，对元宝在健康类AI助手功能设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-3-6-flash-family": {
+    "title_clean": "Gemini 3.6 Flash Family：谷歌新一代轻量级AI模型系列",
+    "summary": "谷歌发布Gemini 3.6 Flash系列模型，包括3.6 Flash、3.5 Flash-Lite和3.5 Flash Cyber三个版本，针对不同场景提供轻量级AI能力，为元宝产品经理提供竞品技术迭代参考，特别是在轻量级模型应用和性能优化方面。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/light-phone": {
+    "title_clean": "Light Flip：智能手机怀旧体验工具",
+    "summary": "Light Flip 是一款模拟智能手机出现前体验的应用，主打怀旧情怀，通过模拟老式手机界面和交互方式，满足用户对过去科技时代的情感需求。这款产品反映了用户对数字疲劳的抵抗和对简单交互的向往，为元宝产品经理提供了情感化设计和差异化体验的参考方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/generative-mui": {
+    "title_clean": "Generative MUI：基于Material UI主题的LLM界面生成工具",
+    "summary": "Generative MUI是一个让大语言模型根据用户自定义的Material UI主题自动生成用户界面的工具。它将AI能力与前端UI设计结合，允许开发者通过自然语言描述快速创建符合设计规范的界面组件，对元宝产品经理在AI辅助UI设计和多模态交互方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/monocloud-for-startups-free-for-1-year": {
+    "title_clean": "MonoCloud for Startups：客户身份统一管理平台",
+    "summary": "MonoCloud为初创企业提供客户、API和代理的身份统一管理解决方案，简化多系统身份验证流程，有助于元宝产品经理思考身份管理在AI服务中的整合方式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jam-pod-android": {
+    "title_clean": "Jam-Pod：本地音乐播放器",
+    "summary": "Jam-Pod是一款面向拥有个人音乐收藏用户的Android音乐播放器应用，专注于为用户提供本地音乐管理播放功能，适合注重音乐收藏完整性和自主控制权的用户群体。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lattics-2": {
+    "title_clean": "Lattics：AI知识库与深度研究工具",
+    "summary": "Lattics是一款类脑知识库工具，结合AI写作和深度研究功能，帮助用户构建和管理知识体系。产品经理可关注其知识组织方式和AI辅助研究功能，为元宝的知识管理和研究功能提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/humalike-2": {
+    "title_clean": "Humalike x Hermes：社交智能插件",
+    "summary": "Humalike为Hermes Agent开发了社交智能插件，增强AI助手在社交场景中的理解与交互能力。这一合作表明AI助手正向更专业的社交服务场景拓展，为元宝产品在社交功能开发上提供参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ultrapod": {
+    "title_clean": "UltraPod：旧iPhone转音乐功能手机",
+    "summary": "UltraPod是一款工具，可将旧iPhone转换为专注于音乐播放的功能手机，简化设备用途，专注于音乐体验。这对产品经理有参考价值，展示了如何通过软件功能转换实现设备价值重塑，可能启发元宝在设备功能简化或特定场景专注方面的产品设计思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/acme-bot": {
+    "title_clean": "ACME.BOT：AI SEO 采访助手",
+    "summary": "ACME.BOT 是一款AI SEO代理工具，通过先采访用户来获取信息，避免内容质量低劣。这种先访谈再生成内容的方式可能对元宝的产品设计有启发，特别是在如何通过前置交互提升生成内容质量方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/chicken-back-on-menu-as-cyber-hit-nichirei-restores-operations": {
+    "title_clean": "日冷公司：网络攻击后恢复鸡肉产品供应",
+    "summary": "日本食品生产商日冷公司宣布将在本周全面恢复运营，此前网络攻击导致其食品配送服务中断，影响了全国范围内的客户。此次事件凸显了食品供应链面临的网络安全风险，对AI助手在供应链管理和危机预警方面的应用具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/china-steps-up-austerity-by-cutting-spending-most-since-october": {
+    "title_clean": "中国财政支出大幅削减，经济刺激政策收紧",
+    "summary": "中国上月财政支出降幅为去年10月以来最大，显示尽管经济增长放缓且呼吁更多支持的声音增加，政府仍进一步收紧财政政策。这一动向可能影响AI服务在政府场景的应用机会和商业化路径。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agine-academy": {
+    "title_clean": "AGINE Academy：Claude交互式学习游戏",
+    "summary": "AGINE Academy是一款以故事驱动的游戏化学习工具，通过实践操作帮助用户学习使用Claude AI助手。这种游戏化学习方式对AI产品经理有参考价值，可能启发如何将AI工具学习过程变得更加有趣和易于上手。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/tencent-slides-most-in-over-a-year-leading-china-gaming-selloff": {
+    "title_clean": "腾讯股价创一年最大跌幅，中国游戏板块集体下挫",
+    "summary": "腾讯控股股价创下一年多来最大跌幅，拖累中国游戏板块整体走低。投资者对腾讯移动游戏业务感到担忧，同时部分资金回流至AI相关股票，显示市场对游戏与AI板块的偏好正在转变。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-21/newborn-town-targets-global-viewers-with-ai-made-short-dramas": {
+    "title_clean": "Newborn Town：AI生成短剧平台",
+    "summary": "中国社交娱乐公司Newborn Town正利用AI技术制作短剧，希望通过降低成本同时推动业务增长。此举展示了AI在内容创作领域的商业化应用，为元宝在AI生成内容方向的产品开发提供了参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045760&idx=2&sn=e221a58a04367573bee37784e530c8c1": {
+    "title_clean": "为什么让AI理解世界的前提是读懂因果?",
+    "summary": "本文探讨了AI理解世界的关键在于掌握因果关系，而非仅依赖相关性。这一观点对AI产品设计有重要启示，提示开发者在构建AI系统时应注重因果推理能力的培养，以提升AI对现实世界的理解和决策能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

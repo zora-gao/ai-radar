@@ -38252,5 +38252,181 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046100&idx=1&sn=6d195588b534066e124b29a3b99c692e": {
+    "title_clean": "VideoRebirth：视频原生技术路线",
+    "summary": "VideoRebirth选择视频原生技术路线，与行业普遍涌向世界模型的趋势形成差异化。这一选择可能为AI视频处理领域提供新的技术方向，对产品经理思考产品差异化战略具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046100&idx=2&sn=e0b29816f1d1b24ffc948c91a2df896e": {
+    "title_clean": "Gemini 3.5 Pro 继续跳票，谷歌推出三款Flash模型",
+    "summary": "谷歌延迟发布Gemini 3.5 Pro模型，转而推出三款Flash模型作为替代。这一调整反映了AI模型开发中的策略变化，对产品经理了解大厂产品迭代节奏和市场应对策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045966&idx=2&sn=2566789cacb7d9d89a85d3dbf797f3de": {
+    "title_clean": "Cortex：自主切分规划subtask的双向协同Agent",
+    "summary": "上海AI Lab提出的Cortex是一种能够自主切分规划子任务的双向协同Agent，可实现长程化任务处理。这一技术对AI Agent的自主规划和执行能力有重要参考价值，有助于提升元宝在复杂任务处理方面的能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045966&idx=1&sn=e53e304b5aa408146b2b057f055f39ef": {
+    "title_clean": "清华团队提出HarnessVLA：具身智能token化新范式",
+    "summary": "清华团队提出HarnessVLA，将具身智能引入token时代，引领技术范式变迁。这一创新可能改变AI与物理世界交互的方式，为元宝产品团队在多模态交互和AI Agent能力发展方面提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/samsung-s-400-000-bonus-fuels-labor-disputes-across-south-korea": {
+    "title_clean": "三星发放40万美元奖金引发韩国全国劳资纠纷",
+    "summary": "三星电子向部分员工发放超过40万美元奖金后引发韩国全国性劳资纠纷，工会组织正在全国范围内进行抗议活动。这一事件反映了韩国科技行业劳资关系的紧张状况，对元宝产品经理了解全球科技企业薪酬策略和员工激励方式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045937&idx=1&sn=cc17475554af4e8cf43c9bdc24f65615": {
+    "title_clean": "小红书引擎架构团队：HELMSMAN重塑大规模向量检索基础架构",
+    "summary": "小红书引擎架构团队在OSDI 2026上发布HELMSMAN，这是一种新型大规模向量检索基础架构，旨在提升向量检索效率和性能。这一成果对AI助手和AI Agent产品在处理大规模向量数据时具有重要的技术参考价值，可能影响相关产品的底层架构设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business": {
+    "title_clean": "Google云业务增长支撑AI巨额投入",
+    "summary": "Google云业务表现强劲，企业采用其AI和AI基础设施服务帮助科技巨头创下创纪录利润。这表明AI服务正成为云业务的重要增长点，对元宝产品经理评估AI商业化路径和云服务合作机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/google-says-cloud-services-backlog-expands-to-514-billion": {
+    "title_clean": "Google云服务未确认收入积压达5140亿美元",
+    "summary": "谷歌云部门拥有5140亿美元未确认收入的积压合同，显示其支撑人工智能的基础服务需求强劲。这一数据表明企业对AI云服务的投资规模巨大，为元宝产品经理提供了AI服务商业化潜力和市场需求的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-futureproof": {
+    "title_clean": "CEO访谈：FutureProof公司市场定位与客户需求分析",
+    "summary": "FutureProof公司CEO Alisa Valderrama接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在行业中的定位。这对元宝产品经理了解AI服务公司的市场策略和客户洞察有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/cable-one-faces-12-yield-to-fund-buyout-after-debt-swap-stalls": {
+    "title_clean": "Cable One：债务交换停滞后面临12%收益率的收购融资困境",
+    "summary": "Cable One公司因债务交换计划停滞，在收购另一家公司时面临高达12%的收益率融资压力，这可能影响其收购进程和财务状况。对产品经理而言，这反映了企业并购融资环境的变化，可能影响相关AI服务在企业并购场景中的应用机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vove-id": {
+    "title_clean": "VOVE ID：CEO谈身份验证市场定位",
+    "summary": "VOVE ID CEO Aoussar Khalid接受CB Insights采访，阐述公司对市场定位、客户需求的理解。作为身份验证服务提供商，其观点对元宝产品经理了解身份验证领域市场格局和用户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/google-boosts-2026-spending-estimate-to-as-much-as-205-billion": {
+    "title_clean": "Google大幅上调2026年资本支出预算至2050亿美元",
+    "summary": "Alphabet公司上调2026年资本支出预算至1950亿至2050亿美元，旨在巩固其在AI领域的领先优势。这一大幅增加的投入反映了Google对AI基础设施和研发的重视程度，对元宝产品经理了解科技巨头在AI领域的战略投入和竞争态势有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai": {
+    "title_clean": "Monday.com裁员数百人专注AI平台",
+    "summary": "Monday.com宣布裁员20%（约630人）以支持更精简的运营模式，公司将资源集中发展AI Work Platform，反映企业级协作工具向AI战略转型的趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/-golden-age-dawns-for-technology-ipos-barclays-banker-says": {
+    "title_clean": "科技IPO迎来黄金时代，巴克莱银行分析师称",
+    "summary": "巴克莱银行科技媒体股权资本市场主管Jamie Turturici表示，科技行业正迎来IPO的\"黄金时代\"，多家科技公司正准备上市。这对元宝产品经理评估资本市场环境、融资时机及公司估值有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

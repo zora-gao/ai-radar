@@ -37193,5 +37193,69 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/gas-rich-australian-region-backs-28-billion-data-center-project": {
+    "title_clean": "澳大利亚北部地区批准280亿美元数据中心项目",
+    "summary": "澳大利亚北部地区批准了一项大型数据中心项目，该项目预计将吸引400亿澳元（280亿美元）的私人投资。这一项目将为AI基础设施提供重要支持，对元宝产品经理评估全球AI基础设施布局和潜在合作机会具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter": {
+    "title_clean": "Anthropic-Physical Intelligence传闻引发AI圈热议",
+    "summary": "Anthropic与OpenAI在2026年的积极收购传闻引发周末热议，涉及Physical Intelligence领域。这一动态可能预示着AI巨头在物理智能方向的战略布局，对元宝产品经理了解行业竞争态势和潜在发展方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook": {
+    "title_clean": "中国AI全面突破挑战美国遏制战略",
+    "summary": "中国人工智能模型全球竞争力迅速提升，引发美国警惕，对传统的保护主义战略构成挑战。这一动态表明中国AI技术正加速发展，可能重塑全球AI竞争格局，对元宝产品经理评估国际市场环境和技术竞争态势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI搜索",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories": {
+    "title_clean": "索尼与三菱设立AI视觉合资企业，专注工厂自动化",
+    "summary": "索尼集团与三菱电机宣布成立合资企业，结合双方在人工智能和图像传感器领域的专业知识，为工厂提供自动化服务。这一合作将强化工业自动化领域的AI视觉技术应用，为元宝在工业场景的AI应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651045886&idx=2&sn=3f6fbb0ea597ed25566d31eec02e31c1": {
+    "title_clean": "Kimi K3引发美国对中国开放模型的禁令担忧",
+    "summary": "Kimi K3模型的热度引发美国可能对中国开放模型实施限制的讨论。这一动态反映了中美AI竞争加剧，对中国AI产品出海和国际合作环境带来不确定性，对元宝产品经理评估国际市场策略和合规风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

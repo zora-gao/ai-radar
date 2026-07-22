@@ -37592,5 +37592,81 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us": {
+    "title_clean": "Passionfroot：B2B创作者交易平台",
+    "summary": "德国创业公司Passionfroot完成1500万美元A轮融资，由Insight Partners领投。该平台连接B2B创作者与品牌，计划扩展至美国市场，为创作者经济提供B2B对接服务。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/samsung-says-smart-glasses-privacy-concerns-need-industrywide-fix": {
+    "title_clean": "三星：智能眼镜隐私问题需行业共同解决",
+    "summary": "三星与谷歌、Warby Parker和Gentle Monster合作开发的智能眼镜亮相，展示了电池寿命和耐用性等细节。三星强调智能眼镜的隐私问题需要行业层面的解决方案，这对AI助手产品在可穿戴设备领域的隐私设计具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community": {
+    "title_clean": "OpenAI在佐治亚州埃芬厄姆县启动Project Camellia：AI基础设施建设项目",
+    "summary": "OpenAI在佐治亚州埃芬厄姆县启动Project Camellia项目，承诺负责任能源使用、社区投资、就业机会和提供Codex访问权限。该项目展示了AI公司在基础设施布局中的社区责任与资源投入策略，对元宝在区域化服务部署和社区合作方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026": {
+    "title_clean": "三星Galaxy Unpacked 2026：谷歌为三星新折叠屏/手表/眼镜提供生产力更新",
+    "summary": "谷歌在三星Galaxy Unpacked 2026活动上宣布了针对三星新折叠屏手机、智能手表和智能眼镜的三项更新，旨在提升用户生产力并节省时间。这些更新表明谷歌正在积极拓展其AI服务在硬件设备上的应用场景，为元宝产品在移动端AI助手功能提供参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/fintech/ai-wave-banking-innovation-morris-qed": {
+    "title_clean": "AI将彻底改写全球金融价值链",
+    "summary": "作者Nigel认为AI将从根本上改写全球金融价值链，使边际运营成本接近于零，并创造高度个性化、此前不可能实现的产品。这为元宝产品经理提供了AI在金融服务领域变革的视角，有助于思考AI如何重塑行业价值链和产品形态。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/introducing-openai-presence": {
+    "title_clean": "OpenAI Presence：企业级AI语音与聊天代理平台",
+    "summary": "OpenAI Presence是一个企业级AI代理平台，可帮助组织部署可信的语音和聊天代理，用于客户服务和内部工作流程。这对元宝产品经理具有重要参考价值，展示了OpenAI在企业AI代理领域的布局，以及如何将AI技术应用于实际业务场景。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

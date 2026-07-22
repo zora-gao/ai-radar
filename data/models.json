@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T11:44:31.881Z",
+  "generated_at": "2026-07-22T13:28:11.416Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -78,7 +78,7 @@
     },
     {
       "id": "google/gemini-3.5-flash-lite",
-      "name": "Gemini 3.5 Flash-Lite",
+      "name": "Gemini 3.5 Flash Lite",
       "vendor": "Google",
       "vendor_slug": "google",
       "url": "https://openrouter.ai/google/gemini-3.5-flash-lite-20260721",
@@ -100,8 +100,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "Gemini 3.5 Flash-Lite is a high-efficiency model from Google with upgraded agentic capabilities. It is suited for subagents that execute focused tasks within complex, multi-agent workflows.",
-      "description_zh": "Gemini 3.5 Flash-Lite是Google推出的一款高效模型，具有升级的代理能力。它适合在复杂的多代理工作流程中执行重点任务的子代理。"
+      "description": "Gemini 3.5 Flash Lite is a high-efficiency model from Google with upgraded agentic capabilities. It is suited for subagents that execute focused tasks within complex, multi-agent workflows.",
+      "description_zh": "Gemini 3.5 Flash Lite是Google推出的一款高效模型，具有升级的代理能力。它适合在复杂的多代理工作流程中执行重点任务的子代理。"
     },
     {
       "id": "meituan/longcat-2.0",
@@ -777,8 +777,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.784,
-      "price_out": 2.464,
+      "price_in": 0.819,
+      "price_out": 2.574,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

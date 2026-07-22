@@ -37753,5 +37753,131 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b": {
+    "title_clean": "OpenAI：未来十年将投入750亿美元建设AI基础设施",
+    "summary": "OpenAI计划到2030年投入相当于瑞典GDP的750亿美元用于AI基础设施建设，显示其对AI基础设施的巨额投入和长期战略布局，这对元宝产品经理评估AI基础设施投入规模和竞争格局具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai": {
+    "title_clean": "Substack推出AI内容检测工具：识别AI生成的新闻通讯内容",
+    "summary": "Substack为读者提供了一项新功能，可估算新闻通讯中由AI生成的内容比例，这标志着行业正朝着AI辅助内容透明化方向发展。该工具有助于读者了解内容创作方式，对内容平台和AI工具开发者都有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/french-social-media-ban-kicks-off-wave-of-new-rules-in-the-eu": {
+    "title_clean": "法国禁止青少年使用社交媒体：欧盟将迎来新一轮监管浪潮",
+    "summary": "法国成为首个禁止青少年使用社交媒体的欧盟成员国，此举预计将引发欧盟新一轮监管浪潮。这一政策变化对元宝产品经理具有重要参考价值，特别是在青少年用户保护、内容审核机制以及产品合规策略方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/meta-taps-new-chief-security-officer-from-qualtrics-paypal": {
+    "title_clean": "Meta任命新首席信息安全官，来自Qualtrics和PayPal",
+    "summary": "Meta任命了来自Qualtrics和PayPal的资深网络安全高管担任新首席信息安全官，接替上月宣布离职的前任CISO。这一人事变动反映了Meta对网络安全领域的重视，对产品经理了解大型科技公司在安全架构和人才战略方面的考量有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio": {
+    "title_clean": "Apple 将推出新款 Mac 产品线，搭载 AI 芯片",
+    "summary": "苹果公司正准备全面更新 Mac 产品线，包括 MacBook Air、iMac、MacBook Pro、Mac Mini 和 Mac Studio，旨在利用人工智能热潮带来的对高性能笔记本电脑和台式机的需求增长。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/revolut-confirms-115-billion-valuation-in-secondary-share-sale": {
+    "title_clean": "Revolut确认115亿美元估值完成二次股票出售",
+    "summary": "Revolut启动员工股票出售程序，公司估值达1150亿美元。作为欧洲金融科技独角兽，此次高估值反映了市场对AI驱动的数字银行服务的认可，对元宝在金融AI服务领域的商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/new-unicorn-board-startups-exits-ai-semiconductors-june-2026": {
+    "title_clean": "10家AI实验室加入Crunchbase独角兽榜单，DeepSeek领衔",
+    "summary": "6月份共有34家公司加入Crunchbase独角兽榜单，新增价值超过1100亿美元，其中10家为AI实验室，总估值达650亿美元，DeepSeek领衔。这表明AI领域投资热度持续高涨，对元宝产品经理评估AI赛道竞争格局和资本流向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/new-whatsapp-features-keep-up-with-the-way-you-actually-live": {
+    "title_clean": "WhatsApp：新增生活化功能",
+    "summary": "WhatsApp推出新功能，旨在让用户更轻松地将WhatsApp融入日常生活。这些更新反映了即时通讯平台向生活服务场景扩展的趋势，对元宝产品经理在社交AI与生活服务结合方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/advancing-the-next-era-of-national-science": {
+    "title_clean": "OpenAI与美国能源部合作推进国家科学发展",
+    "summary": "OpenAI与美国能源部及国家实验室合作，利用前沿AI技术加速科学发现，展示了AI在科研领域的应用潜力，对元宝产品经理了解AI在专业场景的应用价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/whoop-names-a-former-fda-committee-chair-as-new-medical-chief": {
+    "title_clean": "Whoop任命前FDA委员会主席为新任首席医疗官",
+    "summary": "健身追踪器品牌Whoop在近期与联邦监管机构发生争执后，任命前FDA委员会主席担任新首席医疗官。这一人事变动表明公司正加强医疗合规性，对AI健康产品经理在监管合规方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

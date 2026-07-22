@@ -37482,5 +37482,115 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/overflight-sky-radar": {
+    "title_clean": "Overflight：天空飞机识别工具",
+    "summary": "Overflight是一款能够识别用户所在天空中的所有飞机的工具。它通过实时监测和识别飞行器信息，为用户提供空中交通的即时数据，可能对需要航空信息或对飞行感兴趣的用户有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentmanager": {
+    "title_clean": "AgentManager：Claude Code 会话管理工具",
+    "summary": "AgentManager 是一款用于管理 Claude Code 会话的工具，帮助用户不会错过需要输入的会话。对于使用 Claude Code 进行开发的产品经理来说，这个工具可以提高与 AI 助手协作的效率，特别是在长时间或复杂任务中。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up": {
+    "title_clean": "商汤科技Galaxy项目：国内AI芯片规模化计划",
+    "summary": "商汤科技推出Galaxy项目，联合近20家合作伙伴在中国扩大AI芯片基础设施规模。该项目旨在通过产业链合作提升国内AI芯片能力，对元宝产品经理了解AI硬件生态与本土化供应链布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-22/alphabet-under-pressure-to-show-all-that-ai-spending-is-paying-off": {
+    "title_clean": "Alphabet面临压力：需证明AI投入回报",
+    "summary": "Alphabet将在周三的财报报告中展示其AI投入的成果，投资者正密切关注其AI战略的进展与回报情况。这对元宝产品经理了解科技巨头AI商业化路径及投资者期望具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/box-4": {
+    "title_clean": "box：AI Agent全虚拟机计算机工具",
+    "summary": "Box推出专为AI Agent设计的简化计算机，提供完整虚拟机功能，使AI系统能够在独立环境中运行复杂任务。这对元宝产品经理有参考价值，可作为AI Agent执行复杂任务的底层基础设施解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/remote-openclaw-2": {
+    "title_clean": "Remote OpenClaw：AI编程代理的MCP服务器与插件库",
+    "summary": "Remote OpenClaw提供了超过13,000个MCP服务器、技能和插件，专门服务于AI编程代理。这一资源库极大扩展了AI编程助手的能力边界，为元宝产品经理在AI Agent工具调用和跨应用操作方面提供了重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era": {
+    "title_clean": "Glow：AI时代终端安全挑战者",
+    "summary": "Glow以12亿美元估值出圈，专注于解决企业内部AI代理和开发者工具快速 adoption 带来的新型终端安全风险。作为新兴安全厂商，其产品方向对AI助手在企业环境中的安全部署具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/retina-chip-designed-to-restore-sight-to-go-on-sale-in-europe": {
+    "title_clean": "Retina Chip：恢复视力的视网膜芯片将在欧洲上市",
+    "summary": "Science Corp公司将在欧洲销售一种视网膜芯片，能够帮助部分年龄相关性盲症患者恢复视力，这是该公司在医疗AI领域的重要里程碑。该产品代表了AI技术在医疗辅助领域的实际应用，对元宝产品经理了解AI在特殊场景下的应用价值有参考意义。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/ai-borrowers-are-pushing-a-niche-credit-market-to-its-limits": {
+    "title_clean": "AI企业推动利基信贷市场扩张",
+    "summary": "数据中心开发商PolarDC Group通过北欧高收益债券市场为AI项目融资，显示AI企业正在开拓传统金融渠道，为产品经理提供AI企业融资新思路和潜在合作机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

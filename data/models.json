@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-07-23T17:12:42.284Z",
+  "generated_at": "2026-07-23T19:04:33.997Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "inclusionai/ling-3.0-flash:free",
+      "name": "Ling-3.0-flash (free)",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-20260723",
+      "created_at": "2026-07-23T14:56:20Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ling-3.0-flash is a 124B-parameter Mixture-of-Experts (MoE) model , with approximately 5.1B parameters activated per token . The model is designed with token efficiency and production-scale agentic inference as key priorities, enabling developers...",
+      "description_zh": "Ling-3.0-flash 是一个 124B 参数的专家混合 (MoE) 模型，每个代币激活大约 5.1B 个参数。该模型的设计以代币效率和生产规模代理推理为关键优先事项，使开发人员能够..."
+    },
     {
       "id": "poolside/laguna-s-2.1",
       "name": "Laguna S 2.1",
@@ -777,8 +800,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.822,
-      "price_out": 2.583,
+      "price_in": 0.818,
+      "price_out": 2.57,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1444,31 +1467,6 @@
       "supports_reasoning": true,
       "description": "Laguna M.1 is the flagship coding agent model from Poolside, optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 256K...",
       "description_zh": "Laguna M.1 是 Poolside 的旗舰编码代理模型，针对复杂的软件工程任务进行了优化。专为代理编码工作流程而设计，支持工具调用和推理，具有 256K..."
-    },
-    {
-      "id": "~anthropic/claude-haiku-latest",
-      "name": "Anthropic Claude Haiku Latest",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/~anthropic/claude-haiku-latest",
-      "created_at": "2026-04-27T19:34:52Z",
-      "context_length": 200000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1,
-      "price_out": 5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the Anthropic Claude Haiku family.",
-      "description_zh": "此模型始终重定向到 Anthropic Claude Haiku 系列中的最新模型。"
     }
   ]
 }

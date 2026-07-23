@@ -39674,5 +39674,70 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models": {
+    "title_clean": "Anthropic更新Claude语音模式：支持会议重排和邮件撰写",
+    "summary": "Anthropic升级了Claude的语音模式，新模型能够帮助用户重新安排会议或起草邮件，展示了AI助手在语音交互和任务执行方面的能力提升，对产品经理设计语音交互功能有参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing": {
+    "title_clean": "AegisAI：AI驱动的钓鱼攻击防护工具",
+    "summary": "AegisAI由前谷歌安全高管创立，完成3600万美元A轮融资，总融资额达4900万美元。该公司专注于开发AI驱动的钓鱼攻击防护解决方案，旨在应对日益增长的AI驱动网络钓鱼威胁，为企业和个人提供安全保障。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/amd-unveils-new-products-in-pursuit-of-2-trillion-opportunity": {
+    "title_clean": "AMD发布新产品挑战Nvidia，瞄准2万亿美元AI市场",
+    "summary": "AMD宣布推出一系列数据中心新产品，声称性能将超越竞争对手Nvidia，目标是在快速增长的AI市场中获得更大份额。这一动向直接关系到AI基础设施竞争格局，对元宝产品经理评估AI服务底层算力供应和成本结构有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/microsoft-replacing-openai-image-ai-models-in-powerpoint-bing": {
+    "title_clean": "Microsoft 替换 OpenAI 图像生成模型：PowerPoint 和 Bing 将采用自研技术",
+    "summary": "Microsoft 正在用自研图像生成技术替换 OpenAI 的模型，应用于 PowerPoint 和 Bing 等产品。这一变化表明微软正在加强 AI 技术自主控制，减少对 OpenAI 的依赖，对 AI 产品经理评估技术路线和供应商策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-23/keeping-kids-safe-online-from-ai-shows-us-and-china-on-different-paths": {
+    "title_clean": "中美儿童网络安全路径差异：中国积极监管AI与社交媒体",
+    "summary": "中美在保护儿童网络安全方面采取不同策略，中国通过积极监管AI和社交媒体取得成效，与美国形成对比。这为元宝产品在儿童安全功能设计和区域化策略提供参考，提示需考虑不同市场的监管环境与用户需求差异。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

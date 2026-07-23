@@ -39801,5 +39801,117 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046313&idx=2&sn=013a1df6a999a158c16b41760c3fc580": {
+    "title_clean": "WorkflowGym：Agent落地仿真测试工具",
+    "summary": "WorkflowGym是一款专注于解决AI Agent落地难题的工具，通过告别传统仿真测试方式，帮助开发者更有效地测试和优化Agent在实际环境中的表现，缩短从开发到部署的鸿沟。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046305&idx=2&sn=88e71062ffb92b1721e020b4a87b9b6d": {
+    "title_clean": "李飞飞团队：视频世界模型跨本体双向推演技术",
+    "summary": "李飞飞团队研发的新技术允许将动作'画'给视频世界模型，实现跨本体的双向推演。这项技术可能为AI视频生成和交互提供新思路，对元宝在多模态交互和视频理解方向的产品开发有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046250&idx=1&sn=709b758872d0c1cf9d49696dae3e6dfb": {
+    "title_clean": "影眸科技：具身智能安全加速技术获顶会提名",
+    "summary": "影眸科技研发的具身智能安全加速技术实现139.6倍加速并满足100%安全约束，被机器人学顶会RSS提名最佳论文。该技术对AI Agent的安全执行与效率提升有重要参考价值，尤其适用于需要高安全约束的机器人控制场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046250&idx=2&sn=e461f3e9eb678e12f0a68d39a5cbeefa": {
+    "title_clean": "CUDA源码成功运行于苹果GPU",
+    "summary": "开发者成功将CUDA源码运行在苹果GPU上，这表明苹果GPU可能开始支持CUDA生态，对元宝产品经理评估跨平台AI模型部署和兼容性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046178&idx=1&sn=6f899388347fa9144a72188bf6f83aa9": {
+    "title_clean": "灵初智能EgoSteer：机器人双手全栈训练系统",
+    "summary": "灵初智能推出EgoSteer全栈训练系统，专为机器人双手设计，提升灵巧手的操作能力与适应性。该系统可能为AI助手在物理世界中的交互能力提供技术参考，对元宝产品经理评估AI实体化交互方向有借鉴价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million": {
+    "title_clean": "Genesis AI：AI机器人创业公司融资5亿美元",
+    "summary": "AI机器人创业公司Genesis AI正与投资者洽谈新一轮融资，金额约5亿美元。这表明AI机器人领域获得资本市场高度关注，对元宝产品经理了解AI+硬件结合的融资趋势和行业热度有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth": {
+    "title_clean": "Intel：AI数据中心业务推动销售超预期",
+    "summary": "Intel发布超预期的销售预测，显示数据中心业务强劲增长，特别是AI相关需求推动公司业绩回升。这对元宝产品经理了解AI基础设施投资趋势和芯片巨头在AI领域的战略布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-anthropic-stake-jumps-to-around-124-billion": {
+    "title_clean": "Alphabet对Anthropic投资价值飙升至1240亿美元",
+    "summary": "Alphabet对AI初创公司Anthropic的投资价值飙升至约1240亿美元，成为该公司历史上最成功的投资之一。这反映了大型科技公司对AI领域的巨额投入，以及Anthropic作为AI竞争对手的重要性，对元宝产品经理了解AI行业资本动向和竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/trump-expands-ai-data-center-pledge-in-bid-to-ease-power-costs": {
+    "title_clean": "特朗普扩大AI数据中心承诺以降低电力成本",
+    "summary": "特朗普总统欢迎电力公司和数据中心开发商的新承诺，要求科技公司为其驱动AI所需的电力付费。这一政策可能影响AI基础设施建设和运营成本，对元宝等AI产品的成本控制和能源效率策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

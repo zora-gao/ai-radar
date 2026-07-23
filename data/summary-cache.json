@@ -39536,5 +39536,143 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/auraspeak": {
+    "title_clean": "AuraSpeak：日英互译扫码工具",
+    "summary": "AuraSpeak是一款通过扫码实现日英语言互译的工具，旨在打破英语和日语之间的语言障碍。产品经理可关注其轻量级交互方式，为多语言场景下的AI助手功能提供参考，特别是在旅游、商务等跨语言服务场景的应用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rehello": {
+    "title_clean": "Rehello：内向人士社交记忆与重连工具",
+    "summary": "Rehello 是一款专为内向人士设计的社交工具，帮助用户记住他人信息并自然地重新建立联系。这款产品针对社交焦虑人群，提供了一种低压力的社交方式，对元宝在社交场景拓展和用户需求细分方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/astartis-x-codex": {
+    "title_clean": "Astartis x Codex：企业开发者安全控制平台",
+    "summary": "Astartis与Codex合作推出企业开发者安全控制平台，围绕证据提供安全控制功能。该产品针对企业开发环境的安全管理需求，提供集中化的安全控制能力，对元宝产品经理在AI企业服务安全架构设计方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users": {
+    "title_clean": "OpenAI：ChatGPT健康功能向全美用户开放",
+    "summary": "OpenAI已将ChatGPT健康功能向所有美国用户开放，用户可整合Apple Health、Function和MyFitnessPal等个人健康数据服务。这一功能扩展标志着AI助手在健康领域的应用深化，为元宝产品在健康场景的AI服务提供参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction": {
+    "title_clean": "Meta：使用人类灭绝主题歌曲的AI乐观主义广告",
+    "summary": "Meta使用David Bowie关于人类灭绝的歌曲《Five Years》制作了一则 supposedly 激励人心的AI广告，该歌曲讲述人类得知在末日来临前只剩五年生存时间的故事。这反映了AI营销中的创意选择与品牌形象塑造问题，对产品经理思考AI内容创作与品牌定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon": {
+    "title_clean": "Nvidia：向月球提供GPU计算支持",
+    "summary": "Nvidia宣布将向月球提供GPU计算支持，这表明AI硬件正在向太空探索领域扩展，为未来月球基地的AI计算需求奠定基础，对元宝产品经理了解AI硬件应用边界拓展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini": {
+    "title_clean": "Google's Gemini：AI助手用户接近十亿里程碑",
+    "summary": "Google的Gemini AI助手在2月月活用户已超过7.5亿，接近十亿用户里程碑。这一数据反映了AI助手市场的快速增长，对元宝产品经理评估用户规模增长路径和市场渗透率具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/drone-navigation-companies-seek-new-ways-past-warzone-jamming": {
+    "title_clean": "无人机导航公司寻求突破战区干扰的新方法",
+    "summary": "GPS欺骗和其他反制措施使战场无人机面临干扰威胁，促使导航系统创新，开发能在强干扰环境下正常工作的新型导航技术，这对AI助手在复杂环境下的导航能力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/health-in-chatgpt": {
+    "title_clean": "ChatGPT：健康数据整合功能",
+    "summary": "ChatGPT推出健康功能，允许符合条件的美国用户安全连接医疗记录和Apple Health数据，提供更个性化的健康洞察，帮助用户更好地理解自身健康状况。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/on-prem-systems-vs-cloud-security-sagie": {
+    "title_clean": "本地化系统回归：企业决策者重新评估本地部署优势",
+    "summary": "本文探讨了企业决策者如何看待本地化系统在长期安全性方面的优势，以及云迁移策略的转变。这一趋势对AI产品经理有重要参考价值，特别是在设计企业级AI解决方案时需要考虑本地部署需求与安全考量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good": {
+    "title_clean": "专家称Kimi K3的强大并非源于对Anthropic Fable的简单蒸馏",
+    "summary": "专家分析指出，Kimi K3模型的快速提升并非简单通过蒸馏Anthropic的Fable模型实现，暗示可能采用了更先进的训练方法或技术路线，这对AI大模型训练策略和竞品技术路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -39739,5 +39739,67 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system": {
+    "title_clean": "AMD 推出 Helios AI 机架系统挑战 Nvidia",
+    "summary": "AMD 推出 Helios AI 机架系统，直接挑战竞争对手 Nvidia，该系统将于今年晚些时候开始向客户发货。这标志着 AMD 在 AI 硬件市场的积极扩张，对元宝产品经理了解 AI 基础设施竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/sap-cloud-revenue-beats-estimates-as-legacy-support-nears-cutoff": {
+    "title_clean": "SAP云收入超预期：传统软件支持截止推动客户迁移",
+    "summary": "SAP云业务收入增速超出分析师预期，主要受客户在传统软件支持截止日期前加速向云端迁移的推动。这一趋势表明企业软件市场正加速云化转型，对AI助手产品在B端企业服务场景的拓展具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-23/a-group-of-industry-powerbrokers-are-unveiling-a-new-definition-of-podcast": {
+    "title_clean": "行业巨头发布播客新定义",
+    "summary": "行业重量级人物经过数月秘密会议后发布白皮书，正式确立播客新框架。这一变化可能影响内容创作、分发和商业模式，对元宝在音频内容理解和生成领域的产品方向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/us-to-produce-ukraine-s-magura-sea-drones-for-the-first-time": {
+    "title_clean": "美国将首次生产乌克兰设计的Magura海上无人机",
+    "summary": "美国制造商将首次生产乌克兰设计的、经过实战检验的Magura海上无人机，此举旨在加强美国军事生产能力并扩大其无人装备库。这对产品经理的参考价值在于了解军事无人系统的技术发展和应用场景，可能启发民用或商业领域的自动化解决方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded": {
+    "title_clean": "Runway推出AI模型路由器：智能选择最佳生成模型",
+    "summary": "Runway发布Media Router工具，可根据开发者对质量、速度或成本的优先级，自动选择最适合的图像、视频或音频生成模型，帮助应对生成式媒体市场竞争加剧的挑战。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

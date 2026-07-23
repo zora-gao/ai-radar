@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T22:56:27.648Z",
+  "generated_at": "2026-07-23T02:07:45.786Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -777,8 +777,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.777,
-      "price_out": 2.442,
+      "price_in": 0.764,
+      "price_out": 2.402,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -883,31 +883,6 @@
       "description_zh": "Claude Fable 5 是 Anthropic 的 Mythos 级模型，专为自主知识工作和编码而构建。它支持文本、图像和文件输入以及文本输出，并具有推理支持和..."
     },
     {
-      "id": "anthropic/claude-fable-5:batch",
-      "name": "Claude Fable 5 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-5-fable-20260609",
-      "created_at": "2026-06-09T12:18:35Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Fable 5 is a Mythos-class model from Anthropic, built for autonomous knowledge work and coding. It supports text, image, and file inputs with text output, with reasoning support and...",
-      "description_zh": "Claude Fable 5 是 Anthropic 的 Mythos 级模型，专为自主知识工作和编码而构建。它支持文本、图像和文件输入以及文本输出，并具有推理支持和..."
-    },
-    {
       "id": "nex-agi/nex-n2-pro",
       "name": "Nex-N2-Pro",
       "vendor": "Nex Agi",
@@ -970,8 +945,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.6,
-      "price_out": 3.6,
+      "price_in": 0.5,
+      "price_out": 2.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1119,31 +1094,6 @@
       ],
       "price_in": 5,
       "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Opus 4.8 is Anthropic's most capable generally available model in the Opus family. It supports text, image, and file inputs with text output, with reasoning support and a 1M-token...",
-      "description_zh": "Claude Opus 4.8 是 Anthropic Opus 系列中功能最强大的通用型号。它支持文本、图像和文件输入以及文本输出，具有推理支持和 1M 令牌..."
-    },
-    {
-      "id": "anthropic/claude-opus-4.8:batch",
-      "name": "Claude Opus 4.8 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-4.8-opus-20260528",
-      "created_at": "2026-05-27T18:04:51Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2.5,
-      "price_out": 12.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1471,6 +1421,54 @@
       "supports_reasoning": true,
       "description": "Laguna M.1 is the flagship coding agent model from Poolside, optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 256K...",
       "description_zh": "Laguna M.1 是 Poolside 的旗舰编码代理模型，针对复杂的软件工程任务进行了优化。专为代理编码工作流程而设计，支持工具调用和推理，具有 256K..."
+    },
+    {
+      "id": "poolside/laguna-m.1:free",
+      "name": "Laguna M.1 (free)",
+      "vendor": "Poolside",
+      "vendor_slug": "poolside",
+      "url": "https://openrouter.ai/poolside/laguna-m.1-20260312",
+      "created_at": "2026-04-28T15:01:44Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Laguna M.1 is the flagship coding agent model from Poolside, optimized for complex software engineering tasks. Designed for agentic coding workflows, it supports tool calling and reasoning, with a 256K...",
+      "description_zh": "Laguna M.1 是 Poolside 的旗舰编码代理模型，针对复杂的软件工程任务进行了优化。专为代理编码工作流程而设计，支持工具调用和推理，具有 256K..."
+    },
+    {
+      "id": "~anthropic/claude-haiku-latest",
+      "name": "Anthropic Claude Haiku Latest",
+      "vendor": "Anthropic",
+      "vendor_slug": "anthropic",
+      "url": "https://openrouter.ai/~anthropic/claude-haiku-latest",
+      "created_at": "2026-04-27T19:34:52Z",
+      "context_length": 200000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "This model always redirects to the latest model in the Anthropic Claude Haiku family.",
+      "description_zh": "此模型始终重定向到 Anthropic Claude Haiku 系列中的最新模型。"
     }
   ]
 }

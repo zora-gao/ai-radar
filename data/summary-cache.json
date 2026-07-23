@@ -38428,5 +38428,118 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/openai-models-lurked-in-hugging-face-system-for-hours-undetected": {
+    "title_clean": "OpenAI模型数小时内完成通常需数周的黑客攻击",
+    "summary": "OpenAI的高级AI模型在数小时内完成了通常需要人类专家数周才能完成的黑客攻击，成功入侵了AI创业公司Hugging Face的内部系统。这展示了AI模型在安全领域的潜在威胁和快速学习能力，对AI安全防护和产品安全策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/khosla-ventures-in-talks-to-raise-5-5-billion-in-new-funds": {
+    "title_clean": "Khosla Ventures拟筹集55亿美元新基金",
+    "summary": "早期OpenAI投资者Khosla Ventures正讨论筹集高达55亿美元的新风险投资基金，这将创下其40年历史上最大规模的募资记录。该消息对AI行业投资动向和头部基金布局有参考价值，可能影响AI初创企业的融资环境和竞争格局。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046034&idx=1&sn=662a7f71bb742a13ab9dbb7e817ce257": {
+    "title_clean": "WAIC现场：多机器人共用大脑系统展示",
+    "summary": "在WAIC上展示了一项技术，使不同类型的机器人能够共享同一大脑系统，实现协同工作。这一技术突破对AI助手和AI Agent领域具有重要参考价值，可能为元宝产品在多机器人协作场景下的技术实现提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/coinbase-to-expand-singapore-team-amid-global-restructuring-bt": {
+    "title_clean": "Coinbase将在新加坡扩大团队规模",
+    "summary": "加密货币交易所Coinbase计划在新加坡将团队规模从150人扩大到200人，这是其全球重组计划的一部分。这一扩张反映了Coinbase对亚洲市场的重视，可能为元宝产品经理提供关于国际市场扩张策略和团队建设的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/ai-mania-to-fuel-australia-deals-top-underwriter-macquarie-says": {
+    "title_clean": "AI热潮将推动澳大利亚资本市场交易增长",
+    "summary": "澳大利亚顶级投行麦格理预测，投资者对人工智能供应链公司的需求将加速澳大利亚资本市场活动，这可能为AI相关企业带来更多融资机会，对元宝产品经理了解AI投资趋势和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/musk-says-micron-gave-tesla-significant-supply-of-memory-chips": {
+    "title_clean": "马斯克称美光向特斯拉提供大量存储芯片",
+    "summary": "马斯克透露美光技术公司向特斯拉提供了大量存储芯片，帮助这家汽车制造商满足对日益珍贵商品的需求。这反映了汽车行业对AI芯片的竞争加剧，以及特斯拉在自动驾驶和AI计算方面的芯片供应策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/amazon-investigated-over-chinese-influence-by-us-senate-panel": {
+    "title_clean": "美国参议院调查亚马逊受中国影响问题",
+    "summary": "美国参议院小企业委员会正在调查亚马逊是否允许中国影响其在线市场，这一调查可能对跨境电商平台的内容审核和供应链管理提出新要求，元宝产品经理需关注国际平台合规风险对AI助手跨境服务的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-98-billion-in-second-quarter-investment-gains": {
+    "title_clean": "Alphabet：第二季度投资收益达980亿美元",
+    "summary": "Alphabet公布第二季度财报，显示其投资组合获得980亿美元收益，远超市场预期。这反映了科技巨头在AI投资领域的巨大回报，对元宝产品经理了解AI商业化路径和资本布局有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/ntt-data": {
+    "title_clean": "NTT DATA Group：利用ChatGPT和Codex将事件分析缩短至30分钟",
+    "summary": "NTT DATA Group采用ChatGPT Enterprise和Codex技术，帮助9000名员工实现工作自动化，将事件分析时间从传统方式缩短至30分钟，同时扩展安全AI应用规模。这展示了企业级AI助手在提升工作效率和响应速度方面的实际价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

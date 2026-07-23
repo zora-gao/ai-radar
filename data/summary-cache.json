@@ -39163,5 +39163,231 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/empathy-engine-live-support-copilot": {
+    "title_clean": "Empathy Engine：人机协同客户支持工具",
+    "summary": "Empathy Engine是一款人机协同的客户支持代理工具，能够追踪客户信号并提供支持。该产品通过结合人工干预与AI能力，帮助客服团队更有效地识别和响应客户需求，对提升客户服务体验和效率有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fathom-6": {
+    "title_clean": "Fathom：银行数据财务决策工具",
+    "summary": "Fathom是一款将混乱的银行导出数据转化为清晰财务决策的工具，帮助用户从银行交易记录中提取有价值信息，辅助财务分析和决策制定，对元宝在金融服务场景的AI应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mnemcore": {
+    "title_clean": "Mnemcore：团队视频与笔记搜索记忆工具",
+    "summary": "Mnemcore是一款将团队会议视频和笔记转化为可搜索记忆的工具，帮助用户快速从大量会议内容中提取关键信息，提升团队知识管理效率，对AI助手产品在知识检索和内容理解方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vizhi": {
+    "title_clean": "Vizhi：Codex CLI的Logitech MX键盘控制工具",
+    "summary": "Vizhi是一款为Codex CLI设计的控制工具，通过Logitech MX键盘实现类似任务控制的功能，帮助开发者更高效地使用Codex CLI进行编程操作。这款工具展示了AI编程辅助工具与硬件设备结合的新交互方式，对元宝产品经理在AI工具与硬件集成方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/speakworld": {
+    "title_clean": "Speakworld：语言学习探索工具",
+    "summary": "Speakworld是一款语言学习应用，通过探索虚拟世界与当地居民对话的方式帮助用户学习语言。这种沉浸式学习方法可能为元宝在语言学习场景下的AI交互设计提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/plow-mac-app-safely-run-gpt-5-6-agents": {
+    "title_clean": "Plow Mac App：在Mac上安全运行GPT-5.6与OpenClaw工具",
+    "summary": "Plow是一款Mac应用程序，允许用户在本地安全运行GPT-5.6和OpenClaw、Hermes等AI模型，为AI助手产品经理提供了本地化AI部署的参考方案，有助于理解如何在终端设备上高效运行大型语言模型。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/valv-2": {
+    "title_clean": "Valv：AI安全数据库查询工具",
+    "summary": "Valv是一个专为AI Agent设计的数据库查询安全工具，确保AI助手能够安全地访问和查询数据库。产品经理可关注其安全机制设计，为元宝的数据库交互功能提供参考，特别是在保护用户数据安全方面的解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/blaxel": {
+    "title_clean": "Blaxel Agent Drive：AI代理共享文件系统",
+    "summary": "Blaxel Agent Drive是一个专为AI代理设计的共享文件系统，解决了AI代理之间文件共享和协作的需求。这一产品对元宝产品经理有参考价值，因为它直接关系到AI Agent的协作能力和跨应用操作场景，是构建更强大AI服务生态的重要基础设施。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/south-africa-fund-plans-609-million-vc-raise-with-exits-rising": {
+    "title_clean": "南非基金计划筹集6.09亿美元风险投资",
+    "summary": "南非一家主要基金计划筹集高达60亿美元风险资本，用于支持高增长初创企业发展，这将扩大南非科技领域并加速技术生态系统建设，对关注新兴市场AI投资机会的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cosyra": {
+    "title_clean": "Cosyra 2.0：手机端AI编程代理云工作空间",
+    "summary": "Cosyra 2.0是一款云工作空间产品，允许用户通过手机操作AI编程代理，为移动端开发者提供便捷的代码生成与调试环境，拓展了AI Agent在移动场景下的应用边界。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/infosys-cuts-revenue-forecast-as-it-service-demand-remains-muted": {
+    "title_clean": "Infosys任命Insider为新CEO应对科技支出放缓",
+    "summary": "Infosys下调销售预测上限，任命Insider为新CEO，以引导公司度过科技支出长期放缓的时期。这反映了当前科技行业面临的经济压力，以及大型IT服务公司为应对市场变化进行的领导层调整。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem": {
+    "title_clean": "Nvidia：物理AI解决医疗机器人数据问题",
+    "summary": "Nvidia推出医疗物理模拟框架，将医疗机器人视为需要通过实体经验学习的物理AI系统，而非仅依赖代码。这一物理AI方法可能为医疗机器人提供更真实的训练数据，解决传统AI在医疗场景中的数据瓶颈问题，对元宝在医疗AI服务场景的探索有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/askcodi": {
+    "title_clean": "AskCodi：AI Agent规模化编排工具",
+    "summary": "AskCodi是一款专注于AI Agent规模化编排的工具，旨在帮助用户在降低成本的同时高效管理多个AI代理。产品经理可关注其在Agent编排与成本优化方面的解决方案，为元宝的Agent能力扩展提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/billion-dollar-plus-round-counts-rising-ai-fintech-healthcare-h1-2026": {
+    "title_clean": "十亿美元级融资激增：今年全球60%风投流向超大额交易",
+    "summary": "根据Crunchbase数据，今年全球约60%的初创企业融资（约3200亿美元）流向了10亿美元以上的超大额交易，这类交易正推动全球风投资金流向集中化，对AI领域投资格局和头部企业融资策略有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-23/ai-climate-change-are-creating-a-perfect-storm-for-us-power-grids": {
+    "title_clean": "AI与气候变化：美国电网面临双重挑战",
+    "summary": "AI技术与气候变化正在共同加剧美国电网的紧急情况和服务中断风险，形成'完美风暴'。这对产品经理了解AI在能源基础设施管理中的应用场景及潜在服务机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/tinder-brings-in-person-dating-events-to-more-cities-in-the-us-europe": {
+    "title_clean": "Tinder：美国及欧洲扩展线下单身交友活动",
+    "summary": "Tinder在洛杉矶测试成功后，将线下单身交友活动扩展至美国和欧洲更多城市。这一举措表明约会平台正从纯线上向线上线下结合模式转型，为产品经理提供了社交平台线下场景拓展的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/singapore-core-inflation-accelerates-to-1-6-as-oil-risks-linger": {
+    "title_clean": "新加坡核心通胀率加速至1.6%",
+    "summary": "新加坡核心通胀率上月加速至1.6%，全球能源成本上涨开始传导至消费者价格。这一经济数据对元宝产品经理评估AI服务在通胀环境下的定价策略和用户消费行为变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046034&idx=2&sn=28d08b24db4deb725bd70d2f6b20d1da": {
+    "title_clean": "GPT-6：未发布前已入侵Hugging Face平台",
+    "summary": "GPT-6在正式发布前已出现在Hugging Face平台上，引发行业关注。这一事件表明OpenAI可能正在提前测试或泄露新模型，对AI助手产品经理而言，这是观察下一代大模型能力方向的重要信号，值得密切关注其技术特性和市场影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

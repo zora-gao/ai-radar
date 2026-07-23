@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T13:41:26.722Z",
+  "generated_at": "2026-07-23T15:50:59.230Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -133,7 +133,7 @@
       "vendor_slug": "thinkingmachines",
       "url": "https://openrouter.ai/thinkingmachines/inkling-20260715",
       "created_at": "2026-07-17T22:05:56Z",
-      "context_length": 524288,
+      "context_length": 1048576,
       "modality": "text+image+audio->text",
       "input_modalities": [
         "text",
@@ -777,8 +777,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.784,
-      "price_out": 2.464,
+      "price_in": 0.776,
+      "price_out": 2.438,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

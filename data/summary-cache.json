@@ -39389,5 +39389,152 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/swiftscale-software": {
+    "title_clean": "SwiftScale Software：AI应用测试代理工具",
+    "summary": "SwiftScale Software推出一款AI测试代理工具，能够以人类解释的方式测试应用程序。该工具通过模拟用户实际使用场景来测试应用，帮助开发团队发现潜在问题，提升应用质量，对元宝产品经理在AI测试和自动化测试领域有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/thermo-fisher-rises-as-instrument-demand-recovery-lifts-outlook": {
+    "title_clean": "Thermo Fisher：实验室仪器需求复苏推动业绩增长",
+    "summary": "Thermo Fisher Scientific上调营收预期，因生物技术和制药客户支出超预期，以及实验室仪器需求反弹。这一趋势表明科研领域对实验设备的需求正在恢复，对AI助手在科研服务场景的应用可能有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gta-datacity-san-francisco": {
+    "title_clean": "GTA DataCity：旧金山共享办公数据可视化游戏",
+    "summary": "GTA DataCity是一款将旧金山共享办公空间数据以游戏形式进行可视化的工具，通过游戏化方式呈现城市共享办公分布情况，为产品经理提供数据可视化的创新思路和城市空间规划参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors": {
+    "title_clean": "AI芯片创企Etched获103亿美元估值，推出无需GPU的AI推理芯片",
+    "summary": "Etched由三位哈佛辍学生创立，开发新型芯片和内存组件，可在任何AI模型上加速推理过程，无需GPU支持。该创企获得知名投资者103亿美元估值，表明AI硬件领域正迎来重要创新，对元宝产品经理评估AI基础设施成本与性能有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentloop-2": {
+    "title_clean": "AgentLoop：AI代码生成优化工具",
+    "summary": "AgentLoop是一个代码生成工具，通过在每个周期启动新的Codex工作线程和评估器来优化代码生成过程。这为AI代码生成领域提供了新的技术思路，对元宝产品经理在AI代码辅助功能开发方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/google-says-it-holds-94-billion-in-spacex-shares-after-ipo": {
+    "title_clean": "Google持有SpaceX 941亿美元股份",
+    "summary": "谷歌母公司Alphabet披露持有SpaceX价值941亿美元的股份，这是在太空与AI公司SpaceX进行大规模IPO后的最新持股情况。这一投资反映了谷歌对AI与航天领域结合的战略布局，对元宝产品经理了解科技巨头在AI领域的投资方向具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-future-spending-commitments-soar-to-811-billion": {
+    "title_clean": "Alphabet未来支出承诺飙升至8110亿美元",
+    "summary": "Alphabet Inc.的Google在6月底拥有8110亿美元的合同未来支出承诺，比三个月前增加了近5000亿美元。这一巨额投资反映了谷歌在AI基础设施和云计算领域的战略扩张，对元宝产品经理了解科技巨头在AI领域的资本投入方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/t-mobile-beats-on-wireless-accounts-as-loyalty-perks-pay-off": {
+    "title_clean": "T-Mobile：美国第二大电信运营商营收不及预期",
+    "summary": "T-Mobile美国公司公布营收未达分析师预期，用户增长放缓，作为美国第二大电信运营商未能满足华尔街对其的高期望，反映了电信行业增长面临的挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/israel-s-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge": {
+    "title_clean": "以色列AI芯片与数据中心扩张计划",
+    "summary": "以色列计划建设芯片制造厂和扩建数据中心，积极寻求与美国及亚洲大型半导体厂商合作，以保持其在AI领域的竞争优势。这一基础设施扩张将直接影响全球AI芯片供应链格局，对元宝等AI产品在区域部署和算力获取策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/absa-nears-tanzania-deal-to-combine-3-billion-of-banking-assets": {
+    "title_clean": "Absa接近完成坦桑尼亚30亿美元资产合并交易",
+    "summary": "Absa集团正接近达成一项交易，将其在坦桑尼亚的银行业务进行合并，以扩大其在东非地区的业务规模。此次合并涉及30亿美元资产，是银行区域扩张战略的重要举措。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/bt-profit-falls-as-lower-broadband-voice-margins-offset-cuts": {
+    "title_clean": "BT利润下滑：宽带和语音业务利润下降抵消了成本削减效果",
+    "summary": "英国电信集团(BT)公布第一财季利润略有下滑，其宽带和语音业务的利润下降抵消了成本削减措施带来的效益。这对元宝产品经理了解传统电信运营商在AI时代面临的业务挑战和转型压力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-22/uber-cuts-10-of-customer-service-jobs-citing-embrace-of-ai": {
+    "title_clean": "Uber裁员10%客服岗位拥抱AI",
+    "summary": "Uber宣布裁减10%的客服岗位，作为其精简团队和拥抱人工智能战略的一部分。这一举措反映了大型企业正在用AI替代部分人工客服的趋势，对AI助手产品经理具有重要参考价值，特别是在成本控制和效率提升方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

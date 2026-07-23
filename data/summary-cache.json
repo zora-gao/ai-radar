@@ -38651,5 +38651,517 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/promptscout": {
+    "title_clean": "PromptScout：AI品牌自动曝光工具",
+    "summary": "PromptScout是一款帮助品牌自动提升在AI平台可见性的工具，通过自动化方式增加品牌在AI应用中的曝光度，为产品经理提供了AI营销和品牌推广的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ai-eyes-2": {
+    "title_clean": "AI Eyes：AI助手实时感知权限工具",
+    "summary": "AI Eyes是一款为AI助手提供实时感知能力的工具，采用权限优先设计，使AI助手能够获取实时环境信息。这为元宝产品经理提供了关于AI助手多模态感知能力实现方式的参考，特别是在隐私保护和用户授权方面的设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/xpitch-football-match-analytics": {
+    "title_clean": "xPitch：业余足球运动员社交平台",
+    "summary": "xPitch是一款面向业余足球运动员的社交平台，类似于Strava在跑步领域的应用，帮助用户记录足球活动、分享成绩并建立社区连接，为元宝在体育垂直领域AI服务场景拓展提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/crawlraven": {
+    "title_clean": "CrawlRaven：SEO分析与网站爬虫工具",
+    "summary": "CrawlRaven是一款SEO分析工具，整合了Google Search Console和Google Analytics 4数据，并提供200项网站爬虫分析功能，帮助网站优化搜索引擎表现和网站性能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notifybridge": {
+    "title_clean": "NotifyBridge：IoT设备推送通知工具",
+    "summary": "NotifyBridge是一个面向创客和爱好者的简单IoT设备推送通知解决方案，帮助用户轻松实现物联网设备的消息提醒功能，对元宝产品经理在IoT服务场景和用户需求方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/opencode-superapp": {
+    "title_clean": "OpenCode Superapp：本地自托管代码生成工具",
+    "summary": "OpenCode Superapp是一款结合Codex能力的本地自托管代码生成工具，支持语音交互。该产品允许开发者在本地环境中运行AI代码生成模型，提供隐私保护和离线使用能力，对元宝产品经理评估本地化AI开发工具市场具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hol-guard": {
+    "title_clean": "HOL Guard：AI Agent防火墙工具",
+    "summary": "HOL Guard是全球首个专为AI Agent设计的防火墙产品，旨在保护AI系统免受安全威胁。这一产品填补了AI Agent安全防护的市场空白，为元宝产品经理提供了AI安全领域的新产品方向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chimlo-agents-in-your-macbook-notch": {
+    "title_clean": "Chimlo：AI代码助手与Notch集成工具",
+    "summary": "Chimlo是一款能够追踪Codex和Claude代码生成内容，并与Notch平台集成的AI代码助手工具。它帮助开发者更高效地管理和响应AI生成的代码，对元宝产品经理在AI代码辅助服务场景和跨平台集成方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wispro": {
+    "title_clean": "Wispro：语音转文字写作工具",
+    "summary": "Wispro是一款语音转文字工具，用户可通过语音输入获得精准生成的文本内容，旨在提高写作效率，减少手动输入的工作量，为需要快速生成文本的用户提供便捷解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rechroma": {
+    "title_clean": "Rechroma：色彩系统构建工具",
+    "summary": "Rechroma是一款色彩系统构建工具，帮助设计师创建更好的色彩调色板并完成完整的色彩系统设计。对于元宝产品经理而言，这反映了AI在设计辅助工具领域的应用拓展，特别是在视觉设计自动化方面的产品机会。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mis-trained-model-fikry": {
+    "title_clean": "Fikry：基于错误数据和自信的AI模型",
+    "summary": "Fikry是一个被错误训练的AI模型，其性能受到不良数据的影响，但仍表现出过度自信。这为产品经理提供了关于AI模型训练数据质量与模型行为关系的重要参考，提醒在AI产品开发中需重视数据质量与模型校准。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/swenest": {
+    "title_clean": "Swenest：现实世界代码导航学习平台",
+    "summary": "Swenest是一个专注于教授如何导航现实世界代码的学习平台，旨在帮助开发者理解和掌握实际项目中的代码结构与应用，对元宝产品经理在AI辅助编程教育方向具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/reexplain": {
+    "title_clean": "ReExplain：AI知识发现工具",
+    "summary": "ReExplain是一款知识发现工具，用户可向AI输入已知信息，帮助发现知识盲点。该产品通过交互式对话方式，帮助用户系统梳理和扩展知识体系，对元宝产品经理在知识管理类AI功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mufal": {
+    "title_clean": "Mufal：AI会议隐形助手",
+    "summary": "Mufal是一款专为实时会议设计的AI辅助工具，能够在会议中提供隐形支持，帮助用户更高效地参与和沟通。这款产品针对会议场景的AI助手应用，对元宝产品经理在会议辅助功能开发上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vevey": {
+    "title_clean": "Vevey：iOS游戏开发辅导工具",
+    "summary": "Vevey是一款iOS平台的游戏开发辅导工具，为游戏开发者提供专业指导。这款产品对元宝产品经理有一定参考价值，因为它展示了AI在教育领域的垂直应用场景，特别是技能培训类AI助手的产品形态和用户交互方式。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/trend-seeker": {
+    "title_clean": "Trend Seeker：市场研究与创意验证工具",
+    "summary": "Trend Seeker是一款市场研究工具，通过分析14万多个信号来帮助用户进行创意验证和市场趋势分析，为产品经理提供产品方向和市场需求判断的数据支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/drawsy": {
+    "title_clean": "Drawsy：AI画布与代码协作工具",
+    "summary": "Drawsy是一款AI工作空间工具，将画布与代码功能整合在一起，允许用户在同一个环境中进行视觉创作与编程开发，为需要同时处理设计和技术任务的产品提供了新的协作可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/smash-voice-to-invoice": {
+    "title_clean": "SMASH Voice to Invoice：语音快速生成报价工具",
+    "summary": "SMASH Voice to Invoice是一款语音转发票工具，允许用户通过语音快速创建和发送报价单，将口头沟通直接转化为正式商业文档，提高销售流程效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/findborg": {
+    "title_clean": "Findborg：无广告搜索引擎",
+    "summary": "Findborg是一款无广告的搜索引擎，专注于提供纯净的搜索体验。对于元宝产品经理而言，这反映了用户对无干扰搜索体验的需求，可作为产品差异化设计的参考方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fable-flight": {
+    "title_clean": "Fable Flight：AI飞行教练工具",
+    "summary": "Fable Flight是一款提供实时AI飞行指导的应用，用户可以通过AI教练学习飞行技能。这款产品将AI技术应用于专业培训场景，为元宝产品经理提供了AI教育应用和实时交互指导的产品设计参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/canitbebuilt": {
+    "title_clean": "canitbebuilt：硬件创意可行性评估工具",
+    "summary": "canitbebuilt是一个硬件创意评估平台，能够为用户的硬件创意提供可行性分析、物料清单(BOM)和3D模型生成服务。产品经理可参考其如何将AI应用于硬件创意评估环节，为元宝拓展物理世界交互能力提供思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nugget-6": {
+    "title_clean": "Nugget：AI笔记整理工具",
+    "summary": "Nugget是一款AI笔记整理工具，能够帮助用户捕捉并整理零散的想法内容，保留有价值的信息。产品经理可关注其AI辅助信息筛选与知识管理功能，为元宝的笔记整理与信息提炼功能提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/caw": {
+    "title_clean": "Caw：AI代理开源网页终端多路复用器",
+    "summary": "Caw是一款开源的网页终端多路复用器，专为AI代理设计，能够帮助AI代理更高效地管理多个终端会话。这一工具对元宝产品经理有参考价值，因为它可能启发AI代理在多任务处理和终端操作方面的能力增强方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lapuai": {
+    "title_clean": "LapuAi：AI计算机操作系统驱动工具",
+    "summary": "LapuAi是一款专为AI设计的操作系统驱动工具，使AI系统能够直接使用计算机功能。这一产品解决了AI与计算机硬件交互的底层问题，为AI助手和Agent产品提供了更强大的执行能力，对元宝产品经理在AI系统底层交互设计方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/honorbox": {
+    "title_clean": "HonorBox：数字产品销售工具",
+    "summary": "HonorBox是一个简化数字产品销售的解决方案，用户只需集成Stripe支付和GitHub仓库即可开始销售数字产品。该工具为元宝产品经理提供了轻量级数字商品变现的参考方案，特别适合需要快速上线数字内容销售功能的场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/penguinharness": {
+    "title_clean": "PenguinHarness：AI Agent 自动构建工具",
+    "summary": "PenguinHarness 是一款能让 AI Agent 自主构建更优 Agent 的工具，成本仅需 0.02 美元。这对产品经理了解如何降低 Agent 开发成本、提升自主构建能力有参考价值，尤其适用于需要快速迭代 Agent 功能的场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/motionly": {
+    "title_clean": "Motionly：AI原生动态图形编辑工具",
+    "summary": "Motionly是一款AI原生的动态图形编辑工具，专注于简化视频制作流程，可能通过AI技术实现自动化动画生成和编辑，为内容创作者提供更高效的视觉内容创作解决方案，对元宝在多媒体生成和内容创作场景的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/el-nino": {
+    "title_clean": "El Niño：太平洋气候变暖监测工具",
+    "summary": "El Niño是一个实时监测太平洋气候变暖信号的工具，提供厄尔尼诺现象的实时数据。对于产品经理而言，这可能与气候相关的AI服务场景开发有关，可作为多模态数据展示和气候信息服务的参考案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/moxie-docs": {
+    "title_clean": "Moxie Docs：开发者与AI工具自动化文档生成",
+    "summary": "Moxie Docs是一款自动化文档生成工具，专为开发者、用户和AI工具设计，能够自动创建知识库文档，提高技术文档的生成效率，对元宝产品经理在AI助手文档体系建设方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/promptql": {
+    "title_clean": "PromptQL：多人协作AI替代Slack工具",
+    "summary": "PromptQL是一款多人协作AI工具，旨在替代Slack，提供团队协作的AI解决方案。它可能整合了聊天、任务管理和AI助手功能，为团队提供更智能的沟通和协作体验，对产品经理探索AI在团队协作场景的应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cubby-clipboard": {
+    "title_clean": "Cubby Clipboard：Windows剪贴板历史与截图搜索工具",
+    "summary": "Cubby Clipboard是一款Windows系统剪贴板历史管理工具，支持在截图内容中进行搜索，帮助用户快速定位和复用历史剪贴板信息，提升工作效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches": {
+    "title_clean": "Google因违反欧盟数字市场法被罚款8.9亿欧元",
+    "summary": "欧盟因Google违反数字市场法对其处以8.9亿欧元罚款，涉及搜索和应用商店业务违规。这一处罚可能加剧美欧科技监管冲突，对元宝产品经理了解全球AI监管环境及合规成本有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/comcast-earnings-beat-estimates-on-peacock-box-office-successes": {
+    "title_clean": "康卡斯特：Peacock流媒体平台首季度盈利助推业绩超预期",
+    "summary": "康卡斯特公布业绩超出分析师预期，主要得益于旗下Peacock流媒体平台首次实现季度盈利，以及一系列好莱坞票房成功作品。这对AI流媒体服务商业化及内容生态建设具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/google-will-now-let-users-sign-in-to-accounts-with-a-selfie-video": {
+    "title_clean": "Google 推出自拍视频登录账户功能",
+    "summary": "Google 新增自拍视频登录选项，为用户提供替代性账户验证方式，解决因设备丢失或密码遗忘导致的账户锁定问题。这一功能增强了账户安全性与用户便利性，可作为产品经理设计身份验证方案的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal": {
+    "title_clean": "AMD向Anthropic投资50亿美元：AI基础设施合作",
+    "summary": "AMD与Anthropic达成AI基础设施协议，AMD将投资高达50亿美元，Anthropic将部署高达两吉瓦的AI系统容量。这笔大规模投资反映了AI基础设施领域的竞争加剧，对元宝产品经理了解AI底层资源分配和算力合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/spacex-attempts-major-flight-test-again-in-post-ipo-spotlight": {
+    "title_clean": "SpaceX 再次尝试 Starship 火箭重大飞行测试",
+    "summary": "SpaceX 将于周四再次尝试其大型 Starship 火箭的重大测试，此前上周因故中止发射。此次测试发生在公司上市后，暴露了投资者对其开发周期波动的风险关注，对元宝产品经理了解高风险科技项目管理与投资者沟通有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/basement-browser": {
+    "title_clean": "Basement：AI购物浏览器与智能结账助手",
+    "summary": "Basement是一款结合了AI购物浏览与智能结账功能的产品，能够帮助用户在购物过程中自动完成结账流程。这款产品对于元宝产品经理在探索AI助手在电商场景的应用和自动化服务方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/intel-needs-more-than-blowout-earnings-as-chips-rally-falters": {
+    "title_clean": "英特尔财报强劲但股价仍下跌，芯片行业面临挑战",
+    "summary": "英特尔预计将公布强劲的第二季度财报，但即使业绩超出预期，可能也无法扭转其7月份的股价下滑。这反映了芯片行业整体面临的挑战，尽管个别公司业绩良好，但市场信心仍然脆弱。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-s-51-arbitrage-trade-stymied-by-strict-conversion-cap": {
+    "title_clean": "SK海力克斯：51%套利交易因严格转换上限受阻",
+    "summary": "SK海力克斯的一项高达51%的套利交易因严格的转换上限限制而无法执行，这表明即使在市场存在套利机会的情况下，监管限制仍可能阻碍此类交易活动，对金融AI交易产品设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/china-cuts-ai-gap-as-moonshot-shows-zhipu-isn-t-one-off-bi-says": {
+    "title_clean": "中国AI模型性能差距缩小至6%，智谱AI非特例",
+    "summary": "根据彭博情报数据，中国AI模型与美国的性能差距在6月降至历史最低的6%，较5月的9%进一步缩小。这一趋势表明中国AI发展并非偶然，对美国AI领先地位构成挑战，对元宝产品经理评估全球AI竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nunchaku-diffusers": {
+    "title_clean": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers：AI模型推理优化技术",
+    "summary": "该技术将Nunchaku 4位扩散模型推理集成到Diffusers库中，通过量化技术显著降低AI模型推理的计算资源需求，提高运行效率。这对产品经理了解AI模型轻量化部署方案、优化产品性能和降低成本具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

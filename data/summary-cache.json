@@ -39913,5 +39913,84 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/sk-hynix-samsung-and-kioxia-face-pivotal-earnings-test-on-ai-swings": {
+    "title_clean": "SK海力士、三星和铠侠面临AI芯片市场波动考验",
+    "summary": "SK海力士、三星和铠侠将公布季度财报，其业绩将反映全球AI芯片市场的波动情况。韩国股市已成为全球AI情绪的晴雨表，这些存储芯片巨头的表现将直接影响投资者对AI硬件市场的信心。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/australia-to-spend-another-3-2-billion-to-set-up-aukus-shipyard": {
+    "title_clean": "澳大利亚将再投入32亿美元建立Aukus造船厂",
+    "summary": "澳大利亚计划投入32亿美元扩建国有造船厂，为建造核动力潜艇做准备，这是其海军升级和扩大国内造船能力的重要举措。这一决策反映了国家战略安全投入的增加，对国防工业供应链和高端制造领域有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046305&idx=3&sn=0d47144d424c092f019369befff39627": {
+    "title_clean": "清华、华为提出层次化技能元演化框架HiSME：Agent技能演化方法",
+    "summary": "清华大学与华为合作提出HiSME框架，旨在让AI Agent掌握技能演化的能力。该框架采用层次化设计，帮助Agent自主学习如何优化和扩展自身技能，为提升AI Agent的自主学习和适应能力提供了新思路，对元宝产品在Agent能力演进方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-billionaire-to-get-long-awaited-ruling-on-divorce-case": {
+    "title_clean": "SK海力士亿万富翁离婚案终将迎来判决",
+    "summary": "SK海力士亿万富翁蔡泰元与其前妻的长期离婚纠纷案即将迎来法院新判决，这场激烈的法律争斗接近尾声。此案作为企业高管私人法律纠纷，对元宝产品经理的AI助手或服务场景开发无直接参考价值。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/july-23-newsletter": {
+    "title_clean": "Inside Q2's biggest AI deals：第二季度最大AI交易分析",
+    "summary": "本文分析了第二季度科技行业最大的AI交易案例，提供了分析师对这些重要交易的见解。这些大型交易反映了AI领域的投资趋势和战略方向，对元宝产品经理了解行业资本流向和潜在合作机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/tech-bonds-hit-by-selloff-as-ai-debt-fears-race-through-markets": {
+    "title_clean": "科技债券遭抛售：AI债务担忧引发市场震荡",
+    "summary": "美国大型科技公司债券周四下跌，市场对债务驱动的AI热潮规模以及中东冲突升级的担忧加剧。这反映了AI发展可能带来的金融风险，对元宝产品经理评估AI商业化可持续性和潜在市场波动有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging": {
+    "title_clean": "Nvidia与Amkor签署15亿美元芯片封装协议",
+    "summary": "Nvidia与Amkor Technology签署15亿美元协议，用于加强芯片封装设施，这是Nvidia扩大美国半导体业务计划的一部分。这一合作将帮助Nvidia提升芯片制造能力，对AI硬件供应链具有重要意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

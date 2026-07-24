@@ -40379,5 +40379,95 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts": {
+    "title_clean": "Meta AI：从思考到行动的智能体",
+    "summary": "Meta AI升级为Muse Spark 1.1驱动，现在能够构建计划并从头到尾执行任务，标志着AI助手从单纯思考向实际行动转变，对产品经理设计AI Agent的执行能力有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5": {
+    "title_clean": "Anthropic推出Opus 5：更经济高效的AI模型",
+    "summary": "Anthropic发布Opus 5模型，相比前代Fable模型价格更低且限制更少，预计在大多数使用场景中更具优势。这对产品经理评估AI模型性价比和选择合适的技术方案有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi": {
+    "title_clean": "Nvidia与微软联合呼吁推广开放权重AI模型",
+    "summary": "Nvidia与微软等科技巨头联合呼吁政策制定者促进开放权重AI模型发展，认为这是确保AI创新与安全的关键举措。这一动向可能影响AI行业生态格局，对元宝产品经理评估开放模型战略与商业机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions": {
+    "title_clean": "美国考虑对中国AI采取回应措施，业界呼吁避免对开源AI模型实施广泛限制",
+    "summary": "英伟达和Mistral等AI公司敦促政策制定者避免对开源AI模型实施广泛限制，此前华盛顿正在辩论对中国AI的回应措施以及所谓的模型蒸馏问题。这反映了AI行业对开放创新与国家安全平衡的关注，对元宝产品经理了解国际AI政策环境及开源生态发展有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street": {
+    "title_clean": "Kimi K3引发华尔街恐慌：中国AI模型与'AI共产主义'争议",
+    "summary": "中国AI公司Moonshot的开放模型Kimi本周引发病毒式传播，主要原因是美国AI行业对其的反应而非模型本身。同时，一个未发布的模型被描述为'AI共产主义'，引发了关于AI发展路径和行业竞争的讨论。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck": {
+    "title_clean": "LEAD：突破长程推理中的无恢复瓶颈",
+    "summary": "该研究解决了大型语言模型在长程执行中的不稳定性问题，通过在受控算法谜题上的评估，展示了分解策略的有效性，为提升AI系统的长期推理能力提供了新思路，对元宝产品经理优化AI助手的长任务处理能力有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records": {
+    "title_clean": "OpenAI：将ChatGPT接入患者健康记录",
+    "summary": "OpenAI在ChatGPT中推出健康功能，允许用户连接Apple健康数据和医疗记录至聊天机器人。18岁及以上已登录用户现可通过网页端访问此功能，标志着AI助手向医疗健康场景的重要拓展。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

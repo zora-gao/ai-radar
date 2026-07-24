@@ -40607,5 +40607,44 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046506&idx=1&sn=ca1aed233db9c04a28cea5bb72237cb6": {
+    "title_clean": "世界级编程大师：AI写的代码，我一行都不看",
+    "summary": "知名编程大师表示完全信任AI生成的代码，无需人工审查。这一观点反映了AI编程工具在专业开发者中的接受度提升，对元宝产品经理评估AI辅助编程功能的市场接受度和用户信任度有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046398&idx=1&sn=77be884ec207fd1d12b8ce7e5f825882": {
+    "title_clean": "国产开源模型发布：探索非规模增长路径",
+    "summary": "又一国产开源模型发布，表明AI模型发展不再仅依赖规模扩大，可能转向效率优化或特定能力提升。这对产品经理评估技术路线和产品策略有参考价值，特别是关注开源模型在元宝产品中的应用可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m": {
+    "title_clean": "Prentis：AI任务自动化实验室",
+    "summary": "Prentis是由Reid Hoffman和Marc Pincus共同创立的新AI实验室，正在寻求筹集1亿美元资金。该实验室认为自动化常规计算机任务将成为AI最大的应用场景，可能超越编程成为AI的主要用途。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

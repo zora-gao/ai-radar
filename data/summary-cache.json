@@ -40144,5 +40144,127 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/liso-listen-to-highlights": {
+    "title_clean": "Liso：网页文本转语音工具",
+    "summary": "Liso是一款网页文本转语音工具，允许用户在任意网页上高亮选中文本并将其转换为音频。该产品为元宝产品经理提供了网页内容多模态交互的参考案例，特别是在文本朗读功能上的应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/catl-s-first-half-profit-jumps-42-on-energy-storage-tailwind": {
+    "title_clean": "CATL：全球最大电池制造商上半年利润增长42%",
+    "summary": "全球最大电动汽车电池制造商宁德时代(CATL)公布上半年利润增长42%，主要受益于储能系统需求的强劲增长。这一数据反映了能源存储市场的快速增长趋势，对元宝产品经理了解AI在能源管理领域的应用场景和商业化机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/introducing-seller-app-facebook-marketplace": {
+    "title_clean": "Seller：Facebook Marketplace卖家管理工具",
+    "summary": "Facebook推出Seller应用，帮助Marketplace卖家简化管理流程，提升销售效率。该工具针对电商卖家需求，提供便捷的店铺管理功能，对元宝在电商服务场景的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026": {
+    "title_clean": "General Catalyst超越Y Combinator成为500万美元以上金融科技交易主要投资方",
+    "summary": "根据Crunchbase数据，General Catalyst在第二季度首次超越Y Combinator，成为参与500万美元以上金融科技交易最多的投资机构。这一变化反映了金融科技投资格局的动态调整，对元宝产品经理了解AI+金融科技领域的投资趋势和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/verizon-beats-on-wireless-internet-revenue-amid-turnaround": {
+    "title_clean": "Verizon无线与互联网收入超预期，转型计划初显成效",
+    "summary": "Verizon通信公司第二季度移动和宽带销售超出华尔街预期，表明CEO Dan Schulman的转型计划开始见效。这一业绩表现对元宝产品经理有参考价值，可作为电信运营商数字化转型成功案例，以及AI服务在传统行业应用的市场信号。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/samsung-sk-hynix-to-ink-large-chip-supply-deals-with-us-firms": {
+    "title_clean": "三星、SK海力士将与美国公司签署大型芯片供应协议",
+    "summary": "三星电子和SK海力计划在韩国总统李在明访问硅谷期间，与美国主要科技公司签署涉及'巨额'资金的重大协议。这反映了全球芯片供应链格局变化，对AI硬件供应链和成本结构有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/biggest-talent-challenge-resilience-vaidya-crafting": {
+    "title_clean": "AI人才挑战的核心是韧性而非速度",
+    "summary": "文章指出，工程领导者应构建高度适应性强、供应商无关的基础设施，而非依赖昂贵且不可预测的专有超大规模服务提供商。这对元宝产品经理在技术架构选择和团队建设方面具有重要参考价值，特别是在AI基础设施规划和人才战略方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents": {
+    "title_clean": "OpenAI Presence：企业级AI代理托管服务",
+    "summary": "OpenAI于7月22日推出企业级AI代理托管服务Presence，通过有限渠道交付，不涉及在线购买，而是提供工程师随附的完整解决方案，为企业提供定制化AI代理服务。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/vietnam-weighs-limiting-social-media-use-for-children-under-16": {
+    "title_clean": "越南拟限制16岁以下儿童使用社交媒体",
+    "summary": "越南考虑禁止16岁以下儿童在社交媒体上发布内容、评论或互动反应，这是全球加强未成年人网络保护趋势的一部分。这一政策动向对元宝产品经理具有重要参考价值，提示在设计AI助手服务时需考虑未成年人使用限制和内容安全合规问题。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/tech-names-find-investors-much-harder-to-please-taking-stock": {
+    "title_clean": "科技股投资者疑虑加剧：上涨停滞与盈利预期上升",
+    "summary": "科技股财报季显示投资者对科技股上涨过快表示担忧，尽管盈利预期上升，但投资者变得更加挑剔，不愿追高买入。这对元宝产品经理了解科技市场情绪和投资者行为变化有参考价值，可能影响AI产品商业化策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

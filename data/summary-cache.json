@@ -40469,5 +40469,104 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-24/getting-ditched-by-amazon-revitalized-one-game-studio": {
+    "title_clean": "被亚马逊抛弃的游戏工作室Maverick Games重获新生",
+    "summary": "Maverick Games在被亚马逊放弃后，凭借其游戏《Clutch》成功独立发展，展示了企业合作关系终止后，工作室仍能保持活力并继续发展的可能性，对产品经理评估合作伙伴关系风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage": {
+    "title_clean": "Cognition收购Poke：AI人格化成为竞争优势",
+    "summary": "AI编程公司Cognition以近十亿美元估值收购了AI助手Poke，后者提供类似朋友聊天的对话风格。此次收购表明AI人格化能力正成为市场竞争的关键优势，对AI助手产品设计具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley": {
+    "title_clean": "SpaceX估值：摩根士丹利称100美元股价意味着AI业务零价值",
+    "summary": "摩根士丹利分析师指出，SpaceX股价下跌至100美元左右，意味着投资者对其人工智能业务估值几乎为零。这一市场信号反映了投资者对AI业务在SpaceX整体价值中的认可度，对AI商业化路径和投资者预期有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai": {
+    "title_clean": "Meta、微软等科技巨头支持开放权重AI模型",
+    "summary": "Meta、微软、英伟达、IBM等二十多家公司联合签署公开信，呼吁美国政策制定者保护开放权重AI模型。这一行动表明科技巨头正在推动AI开源生态发展，对元宝产品经理了解行业政策动向和开源AI战略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/google-must-face-conservative-activist-s-ai-defamation-lawsuit": {
+    "title_clean": "Google被要求应对Robby Starbuck的AI诽谤诉讼",
+    "summary": "Google未能驳回由Robby Starbuck提起的诉讼，该诉讼指控Google的AI聊天机器人生成虚假陈述并造成诽谤风险。此案涉及AI生成内容的责任归属问题，对AI产品经理在内容审核和法律责任方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps": {
+    "title_clean": "Midjourney收购占星应用Co-Star并开发独立图像生成应用",
+    "summary": "AI实验室Midjourney收购了流行的占星应用Co-Star，并正在开发其首个独立图像生成应用。这一举措表明Midjourney正在拓展业务范围，从AI图像生成向更多元的应用领域扩张，为产品经理提供了AI公司多元化发展的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/qualcomm-tells-customers-that-prices-are-going-up-by-double-digits": {
+    "title_clean": "高通计划大幅提高芯片价格",
+    "summary": "高通作为最大智能手机处理器制造商，计划将芯片价格提高两位数百分比，这一举措可能对整个科技行业产生连锁反应。产品经理需关注硬件成本上升对AI设备价格和普及度的影响，以及可能带来的供应链调整机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app": {
+    "title_clean": "OpenAI：ChatGPT桌面应用新增语音模式",
+    "summary": "OpenAI将ChatGPT语音功能引入桌面应用，可与ChatGPT Work和Codex协作完成任务和控制Agent。这一更新标志着AI语音交互在桌面环境中的进一步应用，为产品经理提供了语音交互与多Agent协作的设计参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
   }
 }

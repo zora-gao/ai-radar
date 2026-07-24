@@ -40568,5 +40568,44 @@
       "多模态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/cftc-warns-prediction-markets-over-blanket-self-certifications": {
+    "title_clean": "CFTC：警告预测市场过度使用标准化自我认证",
+    "summary": "美国商品期货交易委员会(CFTC)对预测市场使用\"一刀切\"的标准化自我认证合同提出警告，此类合同可能适用于多种事件。这一监管动向对AI预测类产品和服务场景合规性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks": {
+    "title_clean": "Anthropic 推出更高效的日常任务AI模型",
+    "summary": "Anthropic 发布了新的AI模型，专门用于高效处理日常工作任务，强调成本效益。这一发布反映了客户对成本敏感度的提升，以及AI模型在商业应用中的经济性考量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms": {
+    "title_clean": "本周十大融资轮次：物理AI初创公司Atoms领衔",
+    "summary": "本周大型融资轮次呈现多元化格局，物理AI初创公司Atoms领衔，资金流向生物技术、网络安全、AI基础设施和金融科技等多个领域。这反映了投资者对AI实体化应用的持续关注，为元宝产品经理提供了AI应用场景拓展和商业化方向的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

@@ -40721,5 +40721,56 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips": {
+    "title_clean": "SK集团主席称Anthropic寻求供应以自主制造芯片",
+    "summary": "Anthropic向SK海力士寻求芯片供应，计划自主制造半导体。这反映了AI公司正积极构建自己的硬件基础设施，以减少对第三方供应商的依赖，对元宝产品经理了解AI公司垂直整合战略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046343&idx=1&sn=d6220bbf5fd26ffe5516be8fcd09d048": {
+    "title_clean": "小红书开源BigMac：多模态大模型训练优化方案",
+    "summary": "小红书开源了名为BigMac的技术方案，解决了多模态大模型训练中的显存与吞吐瓶颈问题。这一突破性进展对AI产品经理具有重要参考价值，可能影响多模态AI产品的训练效率和成本结构，为构建更强大的多模态AI助手提供技术基础。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-25/china-fines-trip-com-765-million-for-abusing-market-dominance": {
+    "title_clean": "中国对Trip.com处以76.5亿美元反垄断罚款",
+    "summary": "中国监管机构对Trip.com处以76.5亿美元罚款，认定该国最大旅游预订平台存在市场支配地位滥用行为。这一处罚结果源于数月调查，对旅游平台反垄断监管具有重要参考价值，也提示元宝在服务场景中需关注合规风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord": {
+    "title_clean": "Nvidia将投资10亿美元给Naver并扩大与SK集团合作",
+    "summary": "Nvidia将向韩国Naver公司投资10亿美元，用于资助韩国正在建设的人工智能数据中心，这是这家全球最有价值公司一系列交易中的最新举措。这笔投资反映了AI基础设施领域的资本流动和行业合作趋势，对元宝产品经理了解AI基础设施投资动向和潜在合作伙伴关系有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

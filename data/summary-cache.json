@@ -40772,5 +40772,180 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/banquish-make-the-web-your-workspace": {
+    "title_clean": "Banquish：网页内容协作工作台",
+    "summary": "Banquish是一款网页内容协作工具，允许用户将网页上的内容片段收集到同一画布上，实现网页内容的整合与管理，为AI助手产品在信息收集与协作场景提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ade-agentic-development-environment": {
+    "title_clean": "ADE：AI代码助手同步工具",
+    "summary": "ADE是一款代码助手工具，能够同步所有AI编码代理，提供永久免费服务。产品经理可关注其多代理协作与同步机制，为元宝的AI助手生态建设提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/heard-2": {
+    "title_clean": "Heard：为Claude和Codex提供语音功能",
+    "summary": "Heard是一款工具，旨在为Claude和Codex代码模型添加语音交互能力，使AI助手能够通过语音进行对话和操作。这反映了AI助手向多模态交互发展的趋势，为元宝产品在语音交互功能开发上提供了参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/velane": {
+    "title_clean": "Velane：AI Agent工具云服务",
+    "summary": "Velane提供云服务，专门用于AI Agent的工具和功能管理。该产品为AI Agent开发者提供云端工具部署和管理平台，有助于简化Agent功能扩展和维护流程，对元宝产品经理在Agent架构设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wisprkey-mac-ai-assistant": {
+    "title_clean": "Wisprkey：Mac应用对话工具",
+    "summary": "Wisprkey是一款Mac平台工具，允许用户通过对话方式与任何应用程序交互，可能通过AI技术实现跨应用的语音或文本控制，为元宝在多应用交互场景和AI Agent能力方面提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/seller-by-facebook": {
+    "title_clean": "Seller by Facebook：Facebook Marketplace销售助手",
+    "summary": "Facebook推出Seller工具，简化用户在Facebook Marketplace上的销售流程，提供商品发布、管理等功能，帮助商家更便捷地利用社交平台进行交易。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/speechius": {
+    "title_clean": "Speechius：AI语音提词器",
+    "summary": "Speechius是一款智能语音提词器，能够实时听取并跟随演讲者的语速调整文本显示，帮助演讲者保持流畅表达。这款产品对元宝产品经理在语音交互和实时反馈功能设计上有参考价值，特别是在提升AI助手在演讲辅助场景中的应用能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/opencomputer": {
+    "title_clean": "OpenComputer：AI代理部署管理工具",
+    "summary": "OpenComputer提供了一种简便的方式用于部署和管理AI代理，简化了AI代理的部署流程，为产品经理在AI代理服务化方面提供了技术实现参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/speech-to-markdown": {
+    "title_clean": "Speech To Markdown：本地AI语音转笔记工具",
+    "summary": "Speech To Markdown是一款利用本地AI技术将语音转换为Markdown格式笔记的工具，强调本地处理以保护隐私，为AI助手产品提供了语音转文本功能的本地化实现思路，对注重数据安全的用户场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fluentdb-2": {
+    "title_clean": "FluentDB：Mac端AI数据库客户端",
+    "summary": "FluentDB是一款专为Mac设计的AI数据库客户端工具，帮助用户更高效地管理和操作数据库。对于元宝产品经理而言，这代表了AI在数据库管理领域的应用拓展，可能启发将AI能力融入数据处理场景的产品方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi": {
+    "title_clean": "Browser FX：网页音频实时效果工具",
+    "summary": "Browser FX是一款网页音频实时处理工具，能够为网页音频添加各种实时效果，增强用户的音频体验。对于元宝产品经理而言，这展示了AI在音频处理领域的应用可能性，可作为多模态交互和音频增强功能的参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/capsomnia": {
+    "title_clean": "Capsomnia：Mac笔记本保持唤醒工具",
+    "summary": "Capsomnia是一款Mac工具，即使笔记本合盖也能通过Caps Lock键保持系统唤醒，解决Mac笔记本合盖后自动休眠的问题，为需要长时间后台运行任务的用户提供便利。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/islet-2": {
+    "title_clean": "Islet：Mac动态岛功能工具",
+    "summary": "Islet是一款将iPhone的Dynamic Island功能引入到Mac电脑刘海屏的工具，让Mac用户也能体验动态岛交互效果。该产品展示了跨平台功能迁移的案例，对元宝产品经理思考多设备协同交互有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-25/india-s-modi-adopts-reels-amid-instagram-fueled-student-unrest": {
+    "title_clean": "印度总理莫迪采用Instagram Reels应对学生抗议",
+    "summary": "印度学生抗议活动蔓延期间，总理纳伦德拉·莫迪转向Meta公司的Instagram Reels平台，用原始自拍视频取代了标志性的电影风格视频，直接向年轻受众传达信息。这一策略变化反映了政治人物在社交媒体传播方式上的调整，对元宝产品经理了解政治人物如何利用短视频平台与年轻群体沟通具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -40646,5 +40646,80 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else": {
+    "title_clean": "OpenAI发布新AI键盘：专为编程设计",
+    "summary": "OpenAI推出新型AI键盘工具，主要面向编程开发者提供辅助功能，对普通用户可能较难理解。这一产品展示了OpenAI在垂直领域AI工具的探索，对产品经理思考AI工具的专业化定位有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-25/big-asia-stock-funds-turn-to-laggards-to-cut-risk-from-ai-swings": {
+    "title_clean": "亚洲大型股票基金转向非AI股票以降低风险",
+    "summary": "亚洲投资者正增持印尼银行、中国电商巨头和印度科技公司的股票，同时减少对波动性日益增加的热门AI股票的投资，以降低投资组合风险。这一趋势反映了市场对AI板块过热风险的担忧，以及多元化投资策略的回归。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046398&idx=2&sn=c38f9b765d5ff6f58b488e0d73e7249f": {
+    "title_clean": "菲尔兹奖得主宣布加入OpenAI",
+    "summary": "菲尔兹奖得主在获奖后宣布加入OpenAI，这表明顶级数学人才正在向AI领域集中，可能增强OpenAI在数学研究和算法方面的实力，对元宝产品经理评估顶尖人才流动对AI产品能力的影响有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-24/spacex-launches-major-starship-flight-test-in-post-ipo-spotlight": {
+    "title_clean": "SpaceX Starship：成功部署升级版星链卫星",
+    "summary": "SpaceX的Starship火箭在IPO测试中成功部署了升级版Starlink卫星，并基本完好返回地球，推进了埃隆·马斯克将主导火箭业务扩展到人工智能领域的计划。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046343&idx=2&sn=675eb8eb35b86720c630ed100251b1b8": {
+    "title_clean": "腾讯SkillHone：Agent技能优化决策记忆工具",
+    "summary": "腾讯推出SkillHone工具，使AI Agent能够记住每次优化决策，实现技能的持续改进。该技术通过记录和复用历史优化经验，提升Agent的学习效率和任务执行能力，为AI助手产品迭代提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m": {
+    "title_clean": "Prentis：AI任务自动化实验室",
+    "summary": "Prentis是由Reid Hoffman和Mark Pincus共同创立的新AI实验室，正在寻求筹集1亿美元资金。该实验室认为，自动化常规计算机任务将成为AI最大的应用场景，可能超越编程成为AI的主要用途。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

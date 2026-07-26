@@ -41061,5 +41061,30 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046632&idx=1&sn=2eb352c5a4a291242d36dffef4a60b8b": {
+    "title_clean": "Claude Code大幅精简系统提示词",
+    "summary": "Claude Code一夜之间删除了80%的系统提示词，这一调整可能简化了AI编程助手的工作方式，对产品经理思考AI助手提示词优化和效率提升有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-26/memory-frenzy-primes-china-champion-cxmt-for-historic-debut": {
+    "title_clean": "Memory Frenzy Primes China Champion CXMT for Historic Debut：中国存储芯片巨头CXMT即将历史性上市",
+    "summary": "中国存储芯片企业CXMT Corp.即将进行近历史规模的首次公开募股(IPO)，投资者对存储芯片交易的兴奋情绪为其上海上市设定了过高预期。这反映了半导体行业特别是存储芯片领域的市场热度，对AI硬件基础设施发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

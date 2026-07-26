@@ -41123,5 +41123,141 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/sf-apartment-finder": {
+    "title_clean": "SF Apartment Finder：旧金山租房匹配工具",
+    "summary": "SF Apartment Finder是一个整合网络房源的旧金山租房平台，采用类似Tinder的滑动匹配方式帮助用户快速筛选合适的租赁房源，为AI助手在本地生活服务场景中提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/purebox-ai": {
+    "title_clean": "PureBox.ai：AI邮箱清理工具",
+    "summary": "PureBox.ai是一款专注于Gmail邮箱的AI清理工具，采用优先审查机制帮助用户整理真实收件箱。该产品针对邮件管理痛点，通过AI技术自动分类和处理邮件，为用户提供更高效的邮箱体验，对元宝产品经理在邮件管理场景的AI应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/appufo-localise-apps-with-ai": {
+    "title_clean": "AppUFO：本地化应用快速发布工具",
+    "summary": "AppUFO是一款专注于帮助开发者快速发布本地化应用的产品，通过简化多语言适配流程，缩短应用在不同地区的上线时间，对元宝产品经理在全球化服务场景规划上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pulse-island": {
+    "title_clean": "Pulse Island：Mac刘海屏动态壁纸工具",
+    "summary": "Pulse Island是一款为Mac刘海屏设计的动态壁纸工具，能在屏幕刘海区域展示动态岛屿景观，为用户提供个性化的视觉体验。产品经理可参考其针对特定硬件特性开发增值功能的思路，探索元宝在设备适配与个性化展示方面的可能性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/touchgrass-2": {
+    "title_clean": "TouchGrass：情境感知休息提醒工具",
+    "summary": "TouchGrass是一款情境感知的休息提醒应用，无需获取过多权限即可根据用户当前使用场景智能提醒休息，帮助用户避免长时间使用电子设备导致的疲劳问题，对关注用户健康和产品体验的元宝产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/codexbar-lite": {
+    "title_clean": "CodexBar Lite：macOS菜单栏隐私优先代码追踪工具",
+    "summary": "CodexBar Lite是一款专为macOS设计的轻量级菜单栏工具，专注于隐私保护的代码追踪功能。产品经理可参考其如何在有限界面空间内高效展示技术信息，以及隐私优先设计对开发者工具的影响。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/keyopera": {
+    "title_clean": "KeyOpera 2.0：Mac键盘个性化音效工具",
+    "summary": "KeyOpera 2.0是一款Mac应用，为用户的键盘按键提供个性化音效，让每次敲击都有独特的声音体验。这款产品针对Mac用户群体，通过自定义键盘声音提升使用体验，对元宝产品经理在AI交互个性化设计方面有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yatta": {
+    "title_clean": "yatta!：庆祝式待办清单工具",
+    "summary": "yatta!是一款小巧的待办清单应用，其特色在于当用户完成任务时会提供庆祝反馈，通过游戏化元素增强用户完成任务的成就感和动力。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openbase-2": {
+    "title_clean": "Openbase：AI团队语音管理工具",
+    "summary": "Openbase是一款允许用户通过语音远程管理AI团队的产品，解决了AI协作中的远程管理需求，为元宝产品经理提供了AI团队管理场景的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aymo-ai": {
+    "title_clean": "Aymo AI：团队一体化AI平台",
+    "summary": "Aymo AI是一款面向团队的一体化AI平台，提供团队协作所需的AI工具集。该产品整合了多种AI功能，旨在提升团队工作效率，为产品经理提供团队级AI解决方案的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/brainfeed-scroll-better": {
+    "title_clean": "BrainFeed：个性化学习信息流工具",
+    "summary": "BrainFeed是一款个性化学习信息流工具，能够重新定向用户的浏览行为，将社交媒体的滚动浏览转化为有价值的学习内容。产品经理可参考其如何将用户碎片时间转化为学习场景，以及个性化内容推荐机制在知识服务中的应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -41372,5 +41372,55 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046706&idx=2&sn=e898955a97f8121989a03245d944e18f": {
+    "title_clean": "MonkeyOCRv2：文档页面视觉记忆重建技术",
+    "summary": "MonkeyOCRv2是一种文档处理技术，通过视觉记忆重建方法保留文档页面的完整证据信息，从传统的视觉压缩提升到更高精度的文档还原，对需要精确文档处理的AI服务场景具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046709&idx=2&sn=1d3f00b2332d53f5322fa3dae1e90d65": {
+    "title_clean": "VibeCoding：解决AI编程局部失忆问题",
+    "summary": "VibeCoding提出新思路解决AI编程中的\"局部失忆\"问题，即AI在编程过程中遗忘上下文或局部信息的情况。这对产品经理有参考价值，因为如何让AI在复杂任务中保持上下文连贯性是提升编程助手产品能力的关键挑战。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-26/inside-the-six-year-fight-to-reopen-a-hollywood-movie-palace": {
+    "title_clean": "Inside The Six-Year Fight to Reopen a Hollywood Movie Palace：好莱坞影院六年重开历程",
+    "summary": "一位26岁的演员通过游说、抗议等方式，最终说服一个神秘家庭达成协议，重新开放了好莱坞一家历史悠久的影院。这展示了文化场所保护与商业开发的复杂博弈，对元宝在处理用户需求与商业机会平衡方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046706&idx=1&sn=4a09f2999e1f18e03cdb92c5a8019cdb": {
+    "title_clean": "新智具身与复旦大学合作：基于3万小时触觉数据的具身智能研究",
+    "summary": "新智具身与复旦大学合作，利用3万小时触觉数据提升具身智能的触觉感知能力，为AI机器人提供更真实的'手感'体验，这可能对元宝在多模态交互和物理世界理解方面提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

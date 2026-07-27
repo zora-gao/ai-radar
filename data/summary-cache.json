@@ -42268,5 +42268,78 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google": {
+    "title_clean": "Claude共享聊天与项目内容可能泄露至Google",
+    "summary": "Claude的'共享聊天'功能存在安全漏洞，用户创建的分享链接可能导致对话和项目内容被Google获取。这提醒产品经理需重视AI助手内容分享功能的安全边界设计，避免类似数据泄露风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/orange-morrison-partner-on-french-data-center-project": {
+    "title_clean": "Orange与Morrison合作法国数据中心项目",
+    "summary": "Orange SA与基础设施管理公司Morrison合作在法国创建数据中心公司，旨在加强欧洲数字主权。这对元宝产品经理有参考价值，因为数字基础设施合作可能影响AI服务的部署和区域化策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-exosystems": {
+    "title_clean": "CEO访谈：Exosystems",
+    "summary": "Exosystems CEO Hooman Lee接受CB Insights采访，分享公司对市场的看法、客户需求定位以及公司战略方向。访谈探讨了市场定义和公司定位，对了解AI服务市场格局和企业战略规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/asml-slides-after-report-of-china-beginning-duv-tool-production": {
+    "title_clean": "ASML股价下跌：中国开始量产DUV光刻机",
+    "summary": "ASML股价跌至6月初以来最低点，因报道称中国一家国有公司已开始批量生产特定芯片制造设备，可能对ASML的DUV光刻机业务构成潜在威胁。这对元宝产品经理了解全球半导体供应链变化及AI硬件竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/lenders-to-distressed-cloud-tech-firm-dye-durham-tap-advisers": {
+    "title_clean": "Lenders to Distressed Cloud Tech Firm Dye & Durham Tap Advisers",
+    "summary": "云技术公司Dye & Durham面临资本困境，其贷款方已聘请Houlihan Lokey作为财务顾问，表明该公司的财务状况正受到严格审查。这对AI产品经理了解云服务提供商的财务稳定性及潜在合作风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-calibre": {
+    "title_clean": "CEO Interview: Calibre",
+    "summary": "Calibre CEO Alexander Weber接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及市场定位。这为元宝产品经理提供了AI行业企业战略视角和客户需求洞察，有助于理解市场格局和竞争态势。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

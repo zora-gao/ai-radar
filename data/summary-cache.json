@@ -41544,5 +41544,281 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/comms-ai-agents-inside-imessage": {
+    "title_clean": "Comms：iMessage智能助手快速部署工具",
+    "summary": "Comms是一款允许用户在iMessage中快速部署AI助手的工具，简化了消息应用中的AI集成流程。产品经理可关注其轻量化部署方案对即时通讯场景AI应用落地的参考价值，以及如何降低用户使用AI助手的门槛。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/grok": {
+    "title_clean": "Grok 4.5：AI编程与智能代理工具",
+    "summary": "SpaceXAI发布的Grok 4.5模型专注于编程、智能代理任务和知识工作，为AI助手产品提供了在代码生成和自动化任务处理方面的技术参考，对元宝的产品经理了解AI在专业领域的应用价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tunio": {
+    "title_clean": "Tunio：AI音乐运营平台",
+    "summary": "Tunio是一个专为场所设计的AI音乐运营平台，能够帮助场所管理音乐播放、优化音乐体验并提升顾客满意度。该平台可能通过AI技术提供个性化音乐推荐、播放列表管理和音乐效果分析等功能，为场所经营者提供音乐运营的智能化解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rivault": {
+    "title_clean": "Rivault：AI代理数据安全存储工具",
+    "summary": "Rivault提供安全的数据和上下文存储服务，专为AI代理设计，帮助AI系统安全地管理和存储关键信息，解决AI应用中的数据安全问题，对元宝产品经理在AI代理安全架构设计方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/finddiskkiller": {
+    "title_clean": "FindDiskKiller：Mac磁盘占用分析工具",
+    "summary": "FindDiskKiller是一款Mac系统工具，能够帮助用户识别哪些应用程序过度占用磁盘资源，为系统性能优化提供依据。这类工具对AI助手产品在系统资源管理、性能监控方面的功能设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/edit-mind-3": {
+    "title_clean": "Edit Mind × Strava：运动视频自动匹配工具",
+    "summary": "Edit Mind 与 Strava 合作，能够将运动视频片段自动匹配到对应的 Strava 活动记录中，为运动爱好者提供更便捷的视频编辑体验。这一合作展示了 AI 在运动内容创作领域的应用，为元宝在服务场景拓展方面提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/localskills-sh": {
+    "title_clean": "localskills.sh：AI技能与MCP服务器管理工具",
+    "summary": "localskills.sh是一款面向团队和企业的AI技能与MCP(Model Context Protocol)服务器管理工具，帮助企业集中管理和部署AI技能与服务，提升团队协作效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/estera": {
+    "title_clean": "Estera：AI接待员工具",
+    "summary": "Estera是一款AI接待员工具，可24/7接听电话和WhatsApp消息，为企业提供全天候客户服务支持。该产品解决了企业人工客服覆盖不全的问题，对元宝产品经理在AI客服场景和自动化服务设计方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cynative-deep-infra-research": {
+    "title_clean": "Cynative Security Research Agent：云安全智能研究助手",
+    "summary": "Cynative Security Research Agent是一款云安全研究工具，允许用户在不影响生产环境的情况下查询云基础设施安全信息。该工具对元宝产品经理具有参考价值，特别是在AI助手如何安全地处理企业敏感数据、提供专业领域知识查询方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notate-2": {
+    "title_clean": "Notate：AI标注工具",
+    "summary": "Notate是一款标注工具，专为人类及其AI代理设计，能够对各类内容进行标注处理。该产品可能为AI助手提供更精准的信息理解和处理能力，对元宝产品经理在提升AI内容理解与处理功能方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/socap": {
+    "title_clean": "Audos Summer Camp：AI创业项目孵化营",
+    "summary": "Audos推出夏季创业孵化营，为参与者提供无限Fable/Sol平台积分支持，助力其构建商业创意。这为元宝产品经理提供了AI创业生态和资源支持模式的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/webhound": {
+    "title_clean": "Webhound：AI智能体研究引擎",
+    "summary": "Webhound是一款专为AI智能体设计的研究引擎，能够帮助AI助手高效获取和处理网络信息。这一产品对元宝产品经理具有参考价值，因为它展示了如何为AI Agent提供专业的研究能力，可能启发元宝在信息检索和知识整合方面的功能优化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/illume-labs": {
+    "title_clean": "Illume Labs：个性化健康陪伴助手",
+    "summary": "Illume Labs是一款24/7全天候个性化健康陪伴应用，用户可通过短信与AI助手互动获取健康建议。该产品展示了AI在健康服务场景中的应用，为元宝产品经理提供了AI助手在垂直领域服务场景的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/openai-announces-european-expansion-to-meet-growing-ai-demand": {
+    "title_clean": "OpenAI宣布在爱尔兰扩张以满足AI需求增长",
+    "summary": "OpenAI正在都柏林扩建其欧洲总部，计划新增250个职位。这一扩张反映了欧洲市场对AI服务需求的持续增长，也表明OpenAI正积极扩大其全球业务布局，为元宝产品经理提供了AI企业国际化战略的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/repaint-ai-website-builder": {
+    "title_clean": "Repaint Socials：社交媒体网站构建工具",
+    "summary": "Repaint Socials 是一款工具，允许用户从 Google Business、Instagram 或 Facebook 快速构建网站。该产品为希望将社交媒体内容转化为独立网站的企业提供解决方案，对元宝产品经理在社交媒体整合与网站生成功能方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-27/samsung-shows-smart-glasses-still-work-best-tied-to-a-phone": {
+    "title_clean": "Samsung：智能眼镜需连接手机才能发挥最佳性能",
+    "summary": "三星展示其智能眼镜产品，强调当前智能眼镜产品在连接手机等配套设备时性能最佳，这反映了当前可穿戴设备与智能手机协同发展的趋势，对元宝产品经理在多设备协同AI服务场景设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/cxmt-founder-zhu-yiming-pledges-5-6-billion-in-worker-bonuses-after-china-ipo": {
+    "title_clean": "CXMT创始人朱一鸣承诺中国IPO后发放56亿美元员工奖金",
+    "summary": "CXMT创始人朱一鸣在中国IPO后承诺发放56亿美元员工奖金，成为中美科技竞争中获得巨大财富的亿万富翁之一。这一举措反映了科技巨头在成功上市后对员工激励的重视，以及中美科技竞争背景下中国科技企业家的财富积累现象。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing": {
+    "title_clean": "NVIDIA：7500亿美元AI基础设施交易引发融资循环担忧",
+    "summary": "NVIDIA正推进价值超7500亿美元的AI基础设施新交易，加速投资步伐。市场担忧这可能人为推高需求，引发对AI融资循环泡沫的担忧，对元宝产品经理评估AI基础设施投资热潮与市场风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/cosmos-h-dreams": {
+    "title_clean": "NVIDIA Cosmos-H-Dreams：实时生成式模拟手术机器人系统",
+    "summary": "NVIDIA推出Cosmos-H-Dreams系统，为手术机器人提供实时生成式模拟功能。该技术通过AI生成逼真的手术场景和交互，帮助医生在虚拟环境中训练和优化手术操作，提升手术机器人的精准度和安全性，为医疗AI服务场景提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-27/ai-and-layoffs-how-companies-are-talking-to-employees-and-investors": {
+    "title_clean": "AI与裁员：企业如何同时向员工和投资者沟通",
+    "summary": "该文章探讨了企业在裁员过程中如何同时向员工和投资者传达信息，特别是在AI技术变革背景下的沟通策略。这对元宝产品经理有参考价值，特别是在AI工具可能替代部分工作场景时，如何平衡技术发展与员工关系的沟通策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs": {
+    "title_clean": "Multiverse：AI成本削减工具获5.7亿美元融资",
+    "summary": "Multiverse Computing完成5.7亿美元融资，估值达17亿美元，专注于降低AI使用成本。此轮融资反映了市场对AI成本优化解决方案的强烈需求，为元宝产品经理提供了AI商业化与成本控制方向的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai": {
+    "title_clean": "Are brain waves the next unlock for physical AI?：脑电波或成物理AI新突破",
+    "summary": "前沿物理AI模型正从多摄像头角度和密集标注向脑电波数据读取方向发展，这可能成为解锁物理AI能力的新途径，为AI与人类交互提供更直接的神经接口参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -41982,5 +41982,93 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control": {
+    "title_clean": "OpenAI Hugging Face安全事件引发AI对齐与控制争议",
+    "summary": "OpenAI在Hugging Face平台发生的安全漏洞事件重新点燃了关于AI对齐与控制的讨论，暴露出业界对日益强大的AI系统应更注重对齐还是管控的分歧，这对AI产品安全策略与治理框架设计有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows": {
+    "title_clean": "Google AI搜索成为默认搜索方式",
+    "summary": "数据显示Google的AI搜索概览(AI Overviews)现已出现在43%的搜索结果中，表明AI生成答案正迅速成为人们在线获取信息的主要方式。这对元宝产品经理具有重要参考价值，反映了AI搜索功能的市场渗透速度和用户接受度。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps": {
+    "title_clean": "AppLock：物理NFC钥匙应用锁定工具",
+    "summary": "这是一款售价9美元的NFC物理钥匙，需要用户扫描才能解锁手机上的分心应用。这款产品针对数字专注力问题提供实体解决方案，对元宝产品经理思考如何帮助用户管理数字习惯和专注力有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.microsoft.com/source/emea/features/fantasy-premier-league-companion-gives-managers-a-new-tool-for-success": {
+    "title_clean": "Fantasy Premier League Companion：足球梦幻联赛管理工具",
+    "summary": "Fantasy Premier League Companion是一款专为足球梦幻联赛管理者设计的新工具，旨在帮助用户提升游戏表现和管理效率。该工具可能提供数据分析、球员表现追踪和策略建议等功能，对元宝产品经理在体育垂直领域AI助手设计有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research": {
+    "title_clean": "Ilya Sutskever的Safe Superintelligence与Nvidia合作扩大AI研究规模",
+    "summary": "OpenAI联合创始人Ilya Sutskever创立的Safe Superintelligence在隐秘运营两年后宣布与Nvidia建立长期合作伙伴关系，准备扩大AI研究规模。这对元宝产品经理具有重要参考价值，反映了AI安全与超级智能领域的重要合作动向，可能影响未来AI安全研究方向和行业格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/gh-esd": {
+    "title_clean": "GH-ESD：基于假设驱动的视觉任务错误切片发现方法",
+    "summary": "GH-ESD是一种针对视觉任务中模型系统性失败的新方法，通过发现语义连贯的子集（错误切片）来揭示模型在鲁棒性和评估方面的局限性。该方法采用假设驱动的方式，有助于AI产品经理理解视觉模型的局限性，改进产品评估和鲁棒性设计。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-07-27/palantir-rival-chapsvision-wins-french-spy-agency-contract-as-trump-ties-fray": {
+    "title_clean": "ChapsVision：法国间谍机构数据分析工具获Palantir竞争合同",
+    "summary": "ChapsVision在法国获得Palantir竞争合同，现正成为法国间谍机构的数据分析供应商，目标是成为欧洲数据分析领域的领先企业。这对元宝产品经理有参考价值，表明欧洲政府市场对专业数据分析工具的需求增长，以及Palantir在欧洲面临竞争加剧。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

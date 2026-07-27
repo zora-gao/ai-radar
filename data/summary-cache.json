@@ -42341,5 +42341,80 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046982&idx=1&sn=5c42142465a5f6b9479f3bc4de2ff44f": {
+    "title_clean": "兔展智能UniWorld-View：世界模型登顶WorldScore榜单",
+    "summary": "兔展智能的UniWorld-世界模型在世界模型评估榜单WorldScore上取得领先成绩，标志着世界模型技术在理解和生成复杂场景方面的新突破，对AI多模态理解和生成能力发展有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046982&idx=2&sn=572acfa9bf3e3fc043557b2d1b2cd52f": {
+    "title_clean": "SearchOS：开源多智能体协作框架",
+    "summary": "SearchOS是一个开源的多智能体协作框架，旨在为搜索智能体提供类似操作系统的支持，促进多个AI智能体之间的协作与任务分配。这一框架对元宝产品经理在构建多智能体协作系统、提升AI助手复杂任务处理能力方面具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046849&idx=2&sn=3f00a958155975765e5ced2d9a4e5f3c": {
+    "title_clean": "机器学习求职面试真相：DeepMind、Meta等大厂面试经验分享",
+    "summary": "一位求职者获得DeepMind、Meta等多家科技公司Offer后，分享了机器学习岗位面试的真实经验和技巧。内容涵盖面试流程、常见问题及应对策略，对AI产品经理了解行业人才需求和招聘标准有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046849&idx=3&sn=c690c9f57ac254603f5850cd1fecc854": {
+    "title_clean": "影石：开源户外全景重建算法",
+    "summary": "影石公司开源了一项户外全景重建算法，该技术能够将户外场景转化为全景图像，为空间智能应用提供技术支持。这一开源举措可能为AR/VR、虚拟旅游等应用场景提供技术参考，对元宝在空间感知和多模态交互方面具有启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/what-is-moonshot-ai-s-kimi-k3-model-and-why-is-it-making-waves": {
+    "title_clean": "Moonshot AI发布Kimi K3大模型引发全球关注",
+    "summary": "中国初创公司Moonshot AI发布的新一代AI模型Kimi K3因其强大能力获得全球关注，现已向公众开放使用。该模型的技术突破可能对AI助手领域产生重要影响，值得元宝产品团队关注其技术特性和市场表现。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive": {
+    "title_clean": "微软CEO：过度依赖单一AI模型的企业可能无法生存",
+    "summary": "微软CEO纳德拉指出，没有自有AI模型或缺乏AI网关层来分离提示与模型的企业将面临困境。这反映了企业级AI服务架构的重要性，对元宝产品经理思考企业客户AI部署策略和竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

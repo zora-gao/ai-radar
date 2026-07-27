@@ -41820,5 +41820,167 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text": {
+    "title_clean": "Rescript：免费开源的Descript替代工具",
+    "summary": "Rescript是一款免费开源的音频/视频编辑工具，可作为Descript的替代方案，直接在浏览器中运行。产品经理可关注其轻量化、无需安装的交互模式，以及开源策略对AI工具市场的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/superfile": {
+    "title_clean": "superfile：终端可视化文件管理工具",
+    "summary": "superfile是一款现代化的终端可视化文件管理工具，通过图形化界面提升命令行环境下的文件操作体验。对于元宝产品经理而言，这反映了用户对复杂系统操作可视化的需求，可作为AI助手在文件管理场景交互设计的参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gstack-joins-your-meeting": {
+    "title_clean": "Gstack：AI Google会议反馈助手",
+    "summary": "Gstack是一款AI工具，能够加入用户的Google Meet会议并提供实时反馈。该产品针对会议场景，通过AI技术帮助用户提升会议质量和效率，对元宝在会议助手场景的产品设计具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-internet-backyard": {
+    "title_clean": "CEO访谈：Internet Backyard",
+    "summary": "Internet Backyard的CEO Mai Trinh接受CB Insights采访，分享了公司对市场的看法、客户需求以及自身定位。该访谈提供了关于这家公司市场策略和业务定位的见解，对了解新兴AI服务公司的市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup": {
+    "title_clean": "Nvidia投资Sutskever的AI初创公司Safe Superintelligence",
+    "summary": "Nvidia对由前OpenAI首席科学家Ilya Sutskever联合创立的AI初创公司Safe Superintelligence进行了'重大'投资。这反映了行业对AI安全与超级智能领域的关注，以及大公司对顶尖AI人才的争夺。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/china-vows-response-to-us-sanctions-threat-against-ai-firms": {
+    "title_clean": "中国誓言回应美国对AI公司的制裁威胁",
+    "summary": "中国警告称，如果美国因中国AI公司不当使用美国模型训练系统而实施制裁，将采取\"一切必要措施\"。这反映了中美在AI技术领域的竞争加剧，可能影响全球AI供应链和产品国际化策略，对元宝产品经理评估地缘政治风险和全球化布局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tackly": {
+    "title_clean": "Tackly：AI实时思维导图工具",
+    "summary": "Tackly是一款AI辅助的思维导图工具，能够实时映射用户思维过程，帮助用户整理和可视化想法。对于元宝产品经理而言，这代表了AI在知识组织和思维辅助场景的应用探索，可启发元宝在思维整理、创意生成等场景的产品设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center": {
+    "title_clean": "汇丰银行将在新加坡设立全球AI中心并招聘100名AI专家",
+    "summary": "汇丰银行计划在新加坡设立全球AI中心，并招聘超过100名AI专家，显示传统金融机构正加速AI人才布局，这对元宝在金融场景的AI应用和人才策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-07-27/samsung-galaxy-z-fold-8-review-foldable-model-to-compete-with-google-apple": {
+    "title_clean": "三星Galaxy Z Fold 8评测：可折叠手机与谷歌、苹果竞争",
+    "summary": "三星发布Galaxy Z Fold 8可折叠手机，采用更短更宽的设计，将与谷歌和苹果的可折叠产品竞争。美国消费者将看到更多此类形态的可折叠设备，这对元宝产品经理了解硬件形态变化对AI交互的影响有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/truist-names-jefferies-veteran-mineard-co-head-of-tmt": {
+    "title_clean": "Truist任命Jefferies前高管Mineard为TMT联席主管",
+    "summary": "Truist金融公司任命Jefferies金融集团前高管Craig Mineard为其投资银行科技、媒体和电信(TMT)集团的联席主管。这反映了金融科技领域人才流动趋势，对元宝产品经理了解金融科技行业高管变动及潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": {
+    "title_clean": "AI如何扩展职场工作范围",
+    "summary": "OpenAI新研究表明，ChatGPT用户正在跨角色承担任务，重塑工作边界。AI正在扩展职场人员的工作范围，这对元宝产品经理了解AI如何改变工作流程和任务分配有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china": {
+    "title_clean": "AI缩短中国药物研发周期",
+    "summary": "Insilico Medicine通过结合人工智能与实验室研究，将部分药物开发候选物的生产时间缩短至约一年，这展示了AI在加速药物研发方面的实际应用，对元宝在医疗健康领域的AI服务场景拓展具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy": {
+    "title_clean": "美国AI投资热潮重塑经济",
+    "summary": "美国人工智能投资已成为关键投资趋势，微软等科技巨头持续加大投入，这一热潮正在重塑美国经济结构，为AI产品经理提供市场趋势和投资方向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

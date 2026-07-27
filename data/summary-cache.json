@@ -41422,5 +41422,78 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/china-s-industrial-profit-growth-slows-to-weakest-pace-this-year": {
+    "title_clean": "中国工业企业利润增长放缓至年内最低",
+    "summary": "中国工业企业利润连续第二个月增速放缓，显示世界第二大经济体的企业复苏不均衡。这一经济信号对元宝产品经理评估企业服务市场潜力及用户需求变化具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says": {
+    "title_clean": "Meta平台违规投放中国AI换脸应用广告",
+    "summary": "Meta的Facebook和Instagram违反公司政策，通过其在中国唯一的广告合作伙伴投放了数千个AI换脸应用广告。这些应用能够将人物照片替换为裸露内容，引发平台广告审核和内容监管问题，对AI应用合规性和平台内容审核机制有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-26/chinese-biotech-overtakes-ai-as-emerging-market-growth-trade": {
+    "title_clean": "中国生物科技超越AI成为新兴市场增长交易热点",
+    "summary": "随着人工智能在新兴市场的增长势头放缓，投资者正转向中国生物科技作为高增长替代选择。这一趋势反映了市场投资热点的转移，对元宝产品经理了解新兴市场投资动向和潜在服务场景变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/sk-hynix-listing-emboldens-korea-s-drive-to-repatriate-dollars": {
+    "title_clean": "SK海力士美国上市助推韩国鼓励企业回流美元",
+    "summary": "SK海力士创纪录的美国上市推动韩元反弹，韩国当局借此鼓励出口企业将海外美元回流国内。这一动态可能影响韩国科技企业的资金策略和美元储备政策，对关注国际资本流动和科技企业融资的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-26/china-memory-champion-cxmt-set-to-debut-after-9-8-billion-ipo": {
+    "title_clean": "中国芯片制造商CXMT上市首日暴涨472%，市值达980亿美元",
+    "summary": "中国存储芯片制造商CXMT在上海证券交易所上市首日股价暴涨472%，成为中国内地市值最大的上市公司。这一现象反映了市场对中国半导体产业的高度关注和投资热情，对AI硬件供应链和芯片市场格局有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download": {
+    "title_clean": "Moonshot AI：Kimi K3模型开放下载",
+    "summary": "Moonshot AI计划将其Kimi K3模型向公众开放下载，此举将扩大其在全球开源软件社区的影响力，正值美国对中国AI技术发展日益担忧之际。这对产品经理了解中国AI大模型的国际化策略和开源生态布局具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

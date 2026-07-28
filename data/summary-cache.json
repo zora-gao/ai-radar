@@ -43272,5 +43272,189 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047190&idx=1&sn=f34df69246c2bbc11bbf8ce577c55d08": {
+    "title_clean": "Kimi开放K3权重并招募全球大使",
+    "summary": "Kimi开放其K3模型权重并启动全球大使招募计划，这可能是一次战略扩张行动，旨在扩大其AI助手在全球市场的影响力，同时通过开源权重吸引开发者生态。这对产品经理评估AI助手开源策略和国际化扩张具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047000&idx=1&sn=ef9bf7d002e6a1555502b2ab8ad59158": {
+    "title_clean": "全球首个大规模Agentic扩散模型发布",
+    "summary": "全球首个大规模Agentic扩散模型问世，标志着AI模型在自主决策和生成能力上的新突破。这一技术进展可能为AI助手和Agent产品带来更强大的自主任务处理能力，值得产品经理关注其在实际应用场景中的潜力与局限。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046999&idx=1&sn=65e1121db1d9098425f37d0f46d6d6ab": {
+    "title_clean": "翁荔因身体透支离开Thinking Machines Lab",
+    "summary": "AI领域知名人物翁荔因身体原因宣布离开Thinking Machines Lab，这一变动可能影响AI研究团队方向和项目进展，对关注AI人才流动和研究机构动态的产品经理有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047190&idx=3&sn=03bcc51f7b6b28861b85baf2a620db45": {
+    "title_clean": "厦大团队：论文自动转可运行代码工具",
+    "summary": "厦门大学团队研发技术，能将网络系统论文在两小时内自动转化为可运行代码，显著降低科研人员复现顶会研究成果的门槛，为AI辅助科研开发提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight": {
+    "title_clean": "Spur：AI流量识别与反机器人检测工具",
+    "summary": "Spur Intelligence完成2亿美元融资，开发技术用于识别真实人类流量与机器人流量。这对元宝产品经理有参考价值，特别是在保护AI服务免受自动化攻击和确保用户体验真实性方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/goldman-says-japan-s-ai-stock-trade-not-broken-after-rout": {
+    "title_clean": "高盛：日本AI股票暴跌后存在买入机会",
+    "summary": "高盛日本公司表示，日本AI相关股票的暴跌创造了买入机会，认为强劲的盈利能力可能重新激发投资者对半导体等AI相关领域的兴趣。这对产品经理了解AI投资趋势和市场情绪变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-28/bitcoin-excluded-from-new-s-p-pantera-digital-asset-index": {
+    "title_clean": "比特币被排除在标普潘tera数字资产指数之外",
+    "summary": "标普与潘tera资本联合发布的新数字资产指数中未纳入比特币，这一决定可能反映机构对比特币作为数字资产价值的重新评估，对元宝产品经理了解数字资产市场趋势和机构投资策略变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-28/future-of-finance-will-run-on-crypto-rails-vangrack-video": {
+    "title_clean": "Coinbase高管：金融未来将运行在'加密货币轨道'上",
+    "summary": "Coinbase副主席兼企业事务负责人Ryan VanGrack在彭博加密货币节目中表示，美国《清晰法案》的通过对金融未来发展至关重要，认为未来金融将建立在加密货币基础设施之上。这对元宝产品经理了解金融科技发展趋势和潜在服务场景有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-28/bloomberg-crypto-7-28-2026-video": {
+    "title_clean": "特朗普加密货币政策成《清晰法案》最大障碍",
+    "summary": "Bloomberg Crypto报道特朗普的加密货币政策可能成为《清晰法案》通过的最大障碍，Coinbase高管参与讨论。这对元宝产品经理了解加密货币监管政策变化及合规要求有参考价值，特别是涉及AI金融服务场景时需考虑政策风险。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-28/bloomberg-tech-7-28-2026-video": {
+    "title_clean": "芯片抛售、SpaceX与苹果5万亿美元里程碑：Bloomberg科技分析",
+    "summary": "Bloomberg科技分析报道芯片股抛售导致纳斯达克100指数接近修正区域，同时中国芯片制造进展引发可持续性担忧。文章还涉及SpaceX动态和苹果市值突破5万亿美元里程碑，对科技行业趋势和投资环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-tandemstride": {
+    "title_clean": "CEO访谈：TandemStride",
+    "summary": "TandemStride CEO Matt Kalina接受CB Insights采访，分享公司市场定位、客户需求及业务策略。作为一家企业服务公司，其CEO对市场定义和公司定位的见解对元宝产品经理了解企业服务市场格局和客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/asm-outlook-beats-estimates-as-ai-boosts-demand-for-chip-tools": {
+    "title_clean": "ASM International：AI芯片设备制造商业绩超预期",
+    "summary": "ASM International第三季度营收超出分析师预期，AI基础设施建设推动了对该公司芯片工具的需求增长。这反映了AI热潮对硬件供应链的积极影响，对元宝产品经理了解AI技术商业化进程和硬件支持需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-28/china-chip-advances-rattle-global-markets-video": {
+    "title_clean": "芯片行业波动拖累纳斯达克100指数接近回调",
+    "summary": "中国芯片产业的新进展引发投资者关注，北京的技术追赶速度可能超出预期，导致芯片股下跌并拖累纳斯达克100指数接近回调水平。这一动态对元宝产品经理了解科技行业波动性及地缘政治对AI硬件供应链的潜在影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-28/next-ai-winners-won-t-build-models-sapphire-ventures-video": {
+    "title_clean": "Open-Weight Backers Stand to Profit, Says Sapphire Ventures：AI行业应用投资价值凸显",
+    "summary": "Sapphire Ventures合伙人Cathy Gao表示，风险投资者不应只关注基础模型，而应投资于医疗、房地产等行业的专用AI，这些领域将创造下一波价值。这对元宝产品经理提示了垂直行业AI应用的商业机会和投资方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers": {
+    "title_clean": "苹果发布Siri Expressive Voices：设备端实时语音合成技术",
+    "summary": "苹果推出Siri Expressive Voices，采用AFM 3 Core Advanced基础模型，实现设备端实时、可配置的语音合成。这项技术展示了在移动设备上高效生成高质量语音的能力，对AI助手产品在语音交互和本地化处理方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

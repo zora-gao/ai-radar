@@ -42416,5 +42416,43 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai": {
+    "title_clean": "Anthropic CEO回应：不反对开源模型，但担忧中国AI发展",
+    "summary": "Anthropic创始人兼CEO Dario Amodei明确表示不反对开源模型，但对中国AI能力的增长表示担忧。这一表态反映了AI行业对开源与闭源路线的分歧，以及对地缘政治因素影响AI发展的关注，对元宝产品经理评估AI战略方向和竞品动态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/australia-s-world-first-data-center-rules-face-first-hurdle": {
+    "title_clean": "澳大利亚推出全球首个数据中心环保法规",
+    "summary": "澳大利亚总理提出针对1500亿澳元数据中心的环保与能源管控新规，这是全球首个此类法规，将于周二面临首次审议。该法规可能影响全球数据中心建设与AI基础设施布局，对元宝产品经理评估海外服务部署与合规成本有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046849&idx=1&sn=1b2181ec19053f45ef78944a2041baa9": {
+    "title_clean": "TO-VLA：机器人长程任务思考系统",
+    "summary": "TO-VLA是一种新型机器人思考系统，旨在提升具身智能处理长程任务的能力。该系统通过优化机器人的决策和规划过程，使机器人能够更有效地完成复杂、多步骤的任务，为AI助手在物理世界的应用提供了新的技术路径。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

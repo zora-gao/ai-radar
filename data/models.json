@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:48:29.580Z",
+  "generated_at": "2026-07-28T16:00:54.511Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -715,6 +715,31 @@
       "description_zh": "Sonnet 5 是 Anthropic 最强大的 Sonnet 级模型，在编码、代理和专业工作方面具有前沿性能。它支持适应性思维，具有可选择的推理努力级别（低、中、高、最大……"
     },
     {
+      "id": "anthropic/claude-sonnet-5:batch",
+      "name": "Claude Sonnet 5 (batch)",
+      "vendor": "Anthropic",
+      "vendor_slug": "anthropic",
+      "url": "https://openrouter.ai/anthropic/claude-sonnet-5-20260630",
+      "created_at": "2026-06-30T18:11:23Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Sonnet 5 is Anthropic's most capable Sonnet-class model, with frontier performance across coding, agents, and professional work. It supports adaptive thinking with selectable reasoning effort levels (low, medium, high, max,...",
+      "description_zh": "Sonnet 5 是 Anthropic 最强大的 Sonnet 级模型，在编码、代理和专业工作方面具有前沿性能。它支持适应性思维，具有可选择的推理努力级别（低、中、高、最大……"
+    },
+    {
       "id": "google/gemini-3.1-flash-lite-image",
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "vendor": "Google",
@@ -981,6 +1006,31 @@
       "description_zh": "Claude Fable 5 是 Anthropic 的 Mythos 级模型，专为自主知识工作和编码而构建。它支持文本、图像和文件输入以及文本输出，并具有推理支持和..."
     },
     {
+      "id": "anthropic/claude-fable-5:batch",
+      "name": "Claude Fable 5 (batch)",
+      "vendor": "Anthropic",
+      "vendor_slug": "anthropic",
+      "url": "https://openrouter.ai/anthropic/claude-5-fable-20260609",
+      "created_at": "2026-06-09T12:18:35Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 5,
+      "price_out": 25,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Claude Fable 5 is a Mythos-class model from Anthropic, built for autonomous knowledge work and coding. It supports text, image, and file inputs with text output, with reasoning support and...",
+      "description_zh": "Claude Fable 5 是 Anthropic 的 Mythos 级模型，专为自主知识工作和编码而构建。它支持文本、图像和文件输入以及文本输出，并具有推理支持和..."
+    },
+    {
       "id": "nex-agi/nex-n2-pro",
       "name": "Nex-N2-Pro",
       "vendor": "Nex Agi",
@@ -1199,6 +1249,31 @@
       "description_zh": "Claude Opus 4.8 是 Anthropic Opus 系列中功能最强大的通用型号。它支持文本、图像和文件输入以及文本输出，具有推理支持和 1M 令牌..."
     },
     {
+      "id": "anthropic/claude-opus-4.8:batch",
+      "name": "Claude Opus 4.8 (batch)",
+      "vendor": "Anthropic",
+      "vendor_slug": "anthropic",
+      "url": "https://openrouter.ai/anthropic/claude-4.8-opus-20260528",
+      "created_at": "2026-05-27T18:04:51Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2.5,
+      "price_out": 12.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Claude Opus 4.8 is Anthropic's most capable generally available model in the Opus family. It supports text, image, and file inputs with text output, with reasoning support and a 1M-token...",
+      "description_zh": "Claude Opus 4.8 是 Anthropic Opus 系列中功能最强大的通用型号。它支持文本、图像和文件输入以及文本输出，具有推理支持和 1M 令牌..."
+    },
+    {
       "id": "qwen/qwen3.7-max",
       "name": "Qwen3.7 Max",
       "vendor": "Qwen",
@@ -1397,79 +1472,6 @@
       "supports_reasoning": false,
       "description": "GPT Chat Latest points to OpenAI's stable API alias chat-latest that always resolves to the latest Instant chat model used in ChatGPT. As OpenAI rolls out new Instant model updates...",
       "description_zh": "GPT Chat Latest 指向 OpenAI 的稳定 API 别名 chat-latest，它始终解析为 ChatGPT 中使用的最新即时聊天模型。随着 OpenAI 推出新的 Instant 模型更新......"
-    },
-    {
-      "id": "x-ai/grok-4.3",
-      "name": "Grok 4.3",
-      "vendor": "xAI",
-      "vendor_slug": "x-ai",
-      "url": "https://openrouter.ai/x-ai/grok-4.3-20260430",
-      "created_at": "2026-04-30T23:30:21Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1.25,
-      "price_out": 2.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Grok 4.3 is a reasoning model from xAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
-      "description_zh": "Grok 4.3 是 xAI 的推理模型。它接受文本和图像输入以及文本输出，适用于代理工作流程、遵循指令的任务以及需要高事实性的应用程序..."
-    },
-    {
-      "id": "ibm-granite/granite-4.1-8b",
-      "name": "Granite 4.1 8B",
-      "vendor": "Ibm Granite",
-      "vendor_slug": "ibm-granite",
-      "url": "https://openrouter.ai/ibm-granite/granite-4.1-8b-20260429",
-      "created_at": "2026-04-30T19:24:31Z",
-      "context_length": 131072,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.05,
-      "price_out": 0.1,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "Granite 4.1 8B is a dense, decoder-only 8-billion-parameter language model from IBM, part of the Granite 4.1 family. It supports a 131K-token context window and is designed for enterprise tasks...",
-      "description_zh": "Granite 4.1 8B 是来自 IBM 的密集、仅解码器的 80 亿参数语言模型，是 Granite 4.1 系列的一部分。它支持 131K 令牌上下文窗口，专为企业任务而设计..."
-    },
-    {
-      "id": "mistralai/mistral-medium-3-5",
-      "name": "Mistral Medium 3.5",
-      "vendor": "Mistral AI",
-      "vendor_slug": "mistralai",
-      "url": "https://openrouter.ai/mistralai/mistral-medium-3.5-20260430",
-      "created_at": "2026-04-30T17:33:59Z",
-      "context_length": 262144,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1.5,
-      "price_out": 7.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Mistral Medium 3.5 is a dense 128B instruction-following model from Mistral AI. It supports text and image inputs with text output, and is designed for agentic workflows, coding, and complex...",
-      "description_zh": "Mistral Medium 3.5 是 Mistral AI 的密集 128B 指令跟踪模型。它支持文本和图像输入以及文本输出，专为代理工作流程、编码和复杂的..."
     }
   ]
 }

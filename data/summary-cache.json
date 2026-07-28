@@ -42988,5 +42988,67 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/sub-wave": {
+    "title_clean": "SUB/WAVE：AI电台托管服务",
+    "summary": "SUB/WAVE是一款自托管电台服务，配备AI DJ功能并提供单一共享流。产品经理可关注其AI内容生成与流媒体结合的模式，探索元宝在音频内容生成与个性化推荐方面的可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders": {
+    "title_clean": "LFM2.5-Encoders：CPU长上下文快速推理编码器",
+    "summary": "LFM2.5-Encoders是一种新型编码器，专为在CPU上实现长上下文快速推理而设计。这项技术可能对元宝产品经理在优化AI模型处理长文本能力方面提供参考，特别是在资源受限环境下的性能优化方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid": {
+    "title_clean": "美国最大电网运营商计划对数据中心实施临时停电以防止断电",
+    "summary": "美国最大电网运营商宣布将从明年开始对大型数据中心实施临时停电措施，以防止电网出现大规模断电情况。这一变化可能影响AI服务提供商的运营策略和成本结构，对元宝的产品经理了解AI基础设施风险和能源管理挑战有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/moonshot-seeks-more-nvidia-chips-for-next-ai-model-report-says": {
+    "title_clean": "Moonshot寻求更多英伟达芯片训练Kimi K4模型",
+    "summary": "中国初创公司Moonshot AI正寻求获取更多英伟达Blackwell芯片，用于训练其Kimi K4模型的下一个版本。这反映了AI大模型训练对高端芯片的持续需求，以及中国AI企业在算力资源方面的竞争态势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips": {
+    "title_clean": "Google Search：AI 晚宴策划助手",
+    "summary": "Google Search 推出 AI 功能，可帮助用户策划晚宴菜单、设计餐桌布置及处理其他派对规划任务，展示了 AI 在生活服务场景中的应用潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

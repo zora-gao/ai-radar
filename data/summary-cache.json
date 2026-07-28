@@ -42851,5 +42851,142 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/tag-your-photos": {
+    "title_clean": "Tag Your Photos：AI照片关键词标注工具",
+    "summary": "一款为Apple Photos提供AI关键词标注功能的Mac应用，完全在本地设备运行，无需上传照片。产品经理可参考其本地化AI处理方案，为元宝的图片理解功能提供隐私保护与离线处理思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/spacex-falls-20-below-ipo-price-erasing-1-2-trillion-value": {
+    "title_clean": "SpaceX股价跌破IPO价20%，市值蒸发1.2万亿美元",
+    "summary": "SpaceX自创纪录上市以来股价下跌20%，市值蒸发1.2万亿美元，投资者正规避风险较高的科技股。这反映了市场对AI和航天领域投资态度的变化，对元宝产品经理评估AI商业化风险和投资者预期有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon": {
+    "title_clean": "Recursive Superintelligence：与亚马逊签署4.1亿美元计算协议",
+    "summary": "Recursive Superintelligence与亚马逊达成4.1亿美元计算协议，这笔支出占该公司迄今为止融资总额的大部分。这反映了AI企业对大规模计算资源的需求增长，对元宝产品经理评估AI基础设施成本和合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop": {
+    "title_clean": "Throne Science：AI马桶健康监测工具",
+    "summary": "Throne Science开发了一款AI马桶摄像头，用于监测肠道健康和水分摄入情况，已完成1000万美元A轮融资。该产品通过智能马桶技术提供健康数据，为健康管理场景提供了新的AI应用方向，对元宝在健康服务场景的拓展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips": {
+    "title_clean": "搜索中的AI模式：帮助用户享受现实世界的5种方式",
+    "summary": "谷歌搜索的AI工具可帮助用户优化线下体验，如预订演唱会门票或寻找完美餐厅等，展示了AI如何从线上搜索延伸至现实世界服务场景，为元宝产品经理提供AI助手服务场景拓展的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/new-apple-tv-4k-box-homepod-mini-and-siri-ai-smart-home-hub-are-coming": {
+    "title_clean": "苹果发布新款Apple TV 4K、HomePod mini及Siri智能家居中心",
+    "summary": "苹果公司正通过新设备和软件大力进军智能家居市场，推出新款Apple TV 4K机顶盒、HomePod mini音箱以及作为智能家居中心的Siri AI功能，这表明苹果正加速布局智能家居生态，对AI助手与智能家居场景融合有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/after-ford-soars-44-on-ai-fever-traders-want-proof-it-s-real": {
+    "title_clean": "福特股价因AI热潮暴涨44%，投资者寻求实质证据",
+    "summary": "福特汽车在AI热潮带动下股价两个月内飙升44%，投资者开始质疑这一涨势是否有实质业务支撑，要求证明AI技术对传统制造业的实际价值。这对元宝产品经理评估AI概念炒作与实际业务价值的平衡有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/alabama-dog-shelter-sues-to-block-data-center-putting-44-000-animals-at-risk": {
+    "title_clean": "阿拉巴马州动物收容所起诉数据中心：称其危及4.4万只动物",
+    "summary": "阿拉巴马州一家动物收容所起诉当地数据中心项目，称其建设和运营将危及4.4万只动物的生命安全。这反映了AI基础设施扩张可能带来的非技术性社会影响，对元宝产品经理评估AI服务部署的潜在社会风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026": {
+    "title_clean": "AI与网络安全初创企业获投资者青睐",
+    "summary": "今年AI与网络安全交叉领域的初创企业已完成超过150轮种子轮融资，总金额达8.55亿美元。这表明投资者对AI安全解决方案的强烈兴趣，为元宝产品经理提供了AI在安全领域应用的市场信号和潜在合作方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso": {
+    "title_clean": "Meta与BlackRock合作开发德克萨斯州数据中心",
+    "summary": "Meta与BlackRock宣布成立合资企业，共同资助和运营位于德克萨斯州埃尔帕索的数据中心园区。这一合作表明大型科技公司正在加强基础设施投资，可能影响AI服务的计算资源供应和成本结构，对元宝的产品经理了解行业基础设施布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/meta-is-signing-the-eu-ai-act-code-of-practice-on-transparency-of-ai-generated-content": {
+    "title_clean": "Meta签署欧盟AI生成内容透明度实践准则",
+    "summary": "Meta加入欧盟AI法案关于AI生成内容透明度的实践准则，致力于开发帮助用户识别AI生成媒体的工具。此举表明大型科技公司正积极应对AI内容真实性挑战，对元宝产品经理在内容标识和透明度方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

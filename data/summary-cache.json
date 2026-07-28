@@ -43151,5 +43151,126 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/nxp-s-upbeat-revenue-forecast-fails-to-impress-investors": {
+    "title_clean": "NXP半导体乐观营收预测未能打动投资者",
+    "summary": "NXP半导体公司发布了当前财季的乐观营收预测，但未能打动投资者，这反映了芯片行业日益加深的担忧。这一市场信号对AI硬件供应链和芯片需求变化具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea": {
+    "title_clean": "Runlayer起诉Rippling抄袭其MCP网关产品",
+    "summary": "Runlayer指控Rippling在评估其MCP网关产品后，选择自行开发类似产品，并已提起诉讼。这反映了AI工具生态中知识产权保护的重要性，以及企业间在AI服务集成领域的竞争态势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/veritas-backed-software-firm-seeks-5-7-billion-debt-refinancing": {
+    "title_clean": "Gainwell Technologies：美国软件公司寻求57亿美元债务重组",
+    "summary": "Gainwell Technologies正与投资者洽谈，替换近57亿美元的杠杆贷款，这将成为美国软件行业有史以来最大规模的债务重组之一。该公司由Veritas支持，此次融资动向反映了软件行业面临的财务压力和资本市场的变化趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate": {
+    "title_clean": "Sam Altman 准备放缓 AI 发展速度",
+    "summary": "Sam Altman 表示在经历了\"让我深感不安的首起安全事件\"后，改变立场准备放缓 AI 发展速度。这反映了 AI 行业对安全风险的重视程度提升，对产品经理评估安全措施与风险控制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-quantifind": {
+    "title_clean": "CEO访谈：Quantifind市场定位与客户需求分析",
+    "summary": "Quantifind CEO Ari Tuchman接受CB Insights采访，分享公司市场定位、客户需求分析及业务策略。作为一家数据分析公司，其观点对元宝产品经理了解企业级AI服务市场定位与客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-07-28/rescued-by-the-ai-boom-japan-s-kioxia-faces-a-capex-race": {
+    "title_clean": "日本铠侠受益AI热潮面临资本支出竞赛",
+    "summary": "日本存储芯片厂商铠侠(Kioxia)在AI热潮中意外受益于存储供应紧张，但需要证明其价值不仅限于供应短缺的受益者。这对元宝产品经理了解AI硬件供应链变化及存储芯片在AI时代的重要性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/codelco-rules-out-meeting-copper-goals-as-it-faces-tough-year": {
+    "title_clean": "智利国家铜业公司：无法实现铜产量目标",
+    "summary": "智利国家铜业公司董事长表示，该公司面临又一个艰难的生产年份，实际上排除了恢复到疫情前产量水平的长期目标。这对全球铜供应链和金属市场有重要影响，对产品经理了解大宗商品市场波动和供应链风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/agent-intrusion-technical-timeline": {
+    "title_clean": "Frontier Lab Agent 入侵事件技术时间线：2026年7月事件分析",
+    "summary": "该文章详细分析了2026年7月Frontier Lab Agent遭受入侵的技术时间线，展示了AI系统安全漏洞的演变过程，对产品经理了解AI系统安全防护机制和潜在风险具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models": {
+    "title_clean": "Guardoc Health：利用Amazon Nova模型处理临床文档",
+    "summary": "Guardoc Health宣布通过Bedrock平台使用Amazon Nova模型每日处理超过一百万份临床文档，将AI技术引入临床文档处理领域，涉及特定的风险评估计算。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty": {
+    "title_clean": "亚美尼亚的AI战略：计算主权而非芯片制造",
+    "summary": "亚美尼亚作为小国，正通过发展AI计算主权而非芯片制造来布局AI产业。该国已开始消费各类AI产品，如Clideo视频字幕生成器等，表明其正积极融入全球AI应用生态，这对小型国家如何参与AI产业具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

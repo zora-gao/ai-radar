@@ -42519,5 +42519,227 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/g-i-a-ac": {
+    "title_clean": "G.I.A.ac：一句话生成真实应用工具",
+    "summary": "G.I.A.ac是一款AI工具，能够通过单句指令直接生成可运行的应用程序。这展示了AI在应用开发领域的突破性进展，对元宝产品经理在降低用户使用门槛和简化应用创建流程方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/easycircuit": {
+    "title_clean": "EasyCircuit：硬件原型设计工具",
+    "summary": "EasyCircuit是一款硬件原型设计工具，旨在简化硬件原型制作过程，使其像 vibe-coding 一样简单。该工具可能通过降低硬件开发门槛，为AI助手在物理世界交互场景中的应用提供新的可能性，对产品经理探索AI与硬件结合的交互模式具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pinery": {
+    "title_clean": "Pinery Prose：AI书籍协作编辑工具",
+    "summary": "Pinery Prose是一款AI书籍协作编辑工具，提供AI辅助写作功能，每次编辑都会生成差异版本供用户确认。这款产品针对书籍创作场景，通过AI辅助提升写作效率，同时保持作者对内容修改的最终控制权。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zenithbar": {
+    "title_clean": "ZenithBar：Windows 活动岛工具",
+    "summary": "ZenithBar 是一款为 Windows 系统提供类似 macOS 活动岛功能的工具，允许用户在桌面上显示实时通知和活动信息，提升多任务处理效率。产品经理可参考其交互设计思路，为元宝在桌面场景下的通知展示提供灵感。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cercle": {
+    "title_clean": "Cercle：好友社交信号工具",
+    "summary": "Cercle是一款社交工具，允许用户向最亲密的朋友发送信号，类似于蝙蝠侠的蝙蝠信号，用于快速联系或通知特定好友群体，可能为元宝在社交场景下的AI助手功能提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mcp-billing": {
+    "title_clean": "MCP-Billing：MCP服务器基于使用量的Stripe计费工具",
+    "summary": "MCP-Billing为MCP服务器提供OAuth 2.1认证和基于使用量的Stripe计费解决方案，帮助AI服务实现精细化计费模式，对元宝产品经理设计商业化策略和计费系统有直接参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/growth-opt-playbook": {
+    "title_clean": "Growth Opt Playbook：营销数据优化工具",
+    "summary": "Growth Opt Playbook是一款营销数据分析工具，能够将营销活动数据转化为可执行的营销策略。产品经理可参考其数据处理与策略生成逻辑，优化元宝的营销决策流程与用户增长方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tinybridge": {
+    "title_clean": "TinyBridge：在Mac中运行Linux的虚拟机工具",
+    "summary": "TinyBridge是一款在Mac系统中运行Linux操作系统的虚拟机工具，支持图形界面显示。对于产品经理而言，这代表了跨平台兼容性解决方案的技术进展，可能启发AI助手在不同操作系统环境下的部署策略和用户体验优化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/qsa-sh-quick-security-audit": {
+    "title_clean": "qsa.sh：终端IP安全扫描工具",
+    "summary": "qsa.sh是一款可在终端中直接使用的IP安全扫描工具，允许用户自行检测外部安全漏洞。产品经理可参考其轻量化、本地化安全检测思路，思考元宝是否可集成类似安全自查功能，提升用户对AI助手数据安全的信任度。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/phantom-6": {
+    "title_clean": "Phantom：语音优先的Mac AI助手",
+    "summary": "Phantom是一款语音优先的AI助手，能够直接操作Mac系统，通过语音命令完成各种任务。这款产品展示了AI助手在桌面环境中的新交互方式，对元宝产品经理在语音交互和系统级操作功能设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/recipebook-by-shofo": {
+    "title_clean": "RecipeBook by Shofo：视频训练数据按小时购买平台",
+    "summary": "RecipeBook by Shofo提供按小时计费的视频训练数据服务，拥有超过2500万条视频片段。这为AI模型训练特别是视觉识别领域提供了灵活的数据获取方案，对需要大量视频数据训练AI模型的产品经理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/conduit-ai": {
+    "title_clean": "Conduit：酒店行业专用AI助手",
+    "summary": "Conduit是一款专为酒店行业设计的AI助手，旨在为酒店客户提供智能化服务。该产品聚焦于酒店场景，可能提供客房服务、预订管理、客户咨询等功能，为酒店行业提供AI解决方案，对元宝在垂直领域AI应用的产品经理有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ycode": {
+    "title_clean": "Ycode AI Agents：AI网站构建工具",
+    "summary": "Ycode推出AI Agents功能，允许用户通过AI辅助构建网站。这一工具可能简化网站开发流程，为元宝产品经理提供AI辅助内容创作与生成的参考案例，特别是在降低技术门槛和提高效率方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lottiefiles": {
+    "title_clean": "Lottie Creator 2.0：网页版After Effects工具",
+    "summary": "Lottie Creator 2.0是一款基于Lottie技术的网页版After Effects工具，允许用户在网页环境中创建和编辑动画。这对元宝产品经理有参考价值，因为Lottie动画广泛应用于AI助手界面和交互体验中，了解此类工具有助于优化产品动画效果和提升用户交互体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/origin-says-about-900-000-customers-data-accessed-in-breach": {
+    "title_clean": "Origin能源公司约90万客户数据遭泄露",
+    "summary": "Origin能源公司发生安全漏洞，约90万当前和前客户数据被访问，这是澳大利亚主要企业和公共服务机构遭遇的一系列网络攻击中的最新一起。事件提醒产品经理需重视用户数据安全防护措施。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/koei-tecmo-shares-fall-as-earnings-miss-long-term-doubts-grow": {
+    "title_clean": "Koei Tecmo：游戏公司业绩不及预期股价大跌",
+    "summary": "日本游戏公司Koei Tecmo公布第一季度营业利润未达市场预期，软件销售疲软导致股价创下3月以来最大跌幅，反映出游戏行业面临的长期挑战，对元宝产品经理评估游戏行业AI应用场景和商业化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/orange-raises-full-year-estimates-on-spain-deal-africa-growth": {
+    "title_clean": "Orange上调全年业绩预期：受益于西班牙交易与非洲市场增长",
+    "summary": "法国电信运营商Orange上调全年利润预期，主要得益于非洲和中东市场的增长以及在西班牙的新业务收购。这一增长趋势反映了电信运营商在新兴市场的扩张策略，对元宝产品经理评估国际市场拓展和区域化服务策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cardzen": {
+    "title_clean": "Cardzen：信用卡积分追踪工具",
+    "summary": "Cardzen是一款信用卡积分追踪工具，帮助用户管理各类信用卡积分、权益和奖励，防止过期失效。产品经理可参考其积分管理功能设计，为用户提供资产追踪服务，增强用户粘性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

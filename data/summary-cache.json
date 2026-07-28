@@ -43050,5 +43050,106 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/uk-proposes-fees-to-weed-out-speculative-data-center-projects": {
+    "title_clean": "英国拟对数据中心项目征收费用以遏制投机行为",
+    "summary": "英国能源监管机构提议新规，要求数据中心项目提交高额前期财务承诺并设定更严格的项目里程碑，以防止投机性数据中心项目堵塞电网连接队列。这一政策可能影响AI基础设施扩张速度，对元宝等AI服务提供商的部署策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/scientific-computing-agentic-ai": {
+    "title_clean": "Scientific computing in the age of agentic AI：AI代理时代科学计算新趋势",
+    "summary": "新研究报告揭示了科学家如何利用AI编码代理革新科学计算，加速基因组学等领域的软件开发与发现。这对元宝产品经理了解AI代理在专业领域的应用场景具有重要参考价值，可启发元宝在科研辅助领域的功能拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/china-duv-chipmaking-how-machine-advances-could-reduce-reliance-on-asml-nvidia": {
+    "title_clean": "中国DUV芯片制造：机器进步或减少对ASML、Nvidia的依赖",
+    "summary": "中国半导体行业可能在芯片制造设备领域取得突破，上海一家国有企业在DUV光刻技术方面取得进展，这可能减少对荷兰ASML和美国Nvidia的依赖，对全球芯片供应链格局产生重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress": {
+    "title_clean": "OpenAI与Anthropic员工联名呼吁美国政府协助放缓AI发展",
+    "summary": "OpenAI和Anthropic员工正在发起请愿，呼吁美国政府支持建立机制，有意识地放缓AI发展速度，以防止技术失控。这一动向反映了AI行业内部对技术快速发展的担忧，对元宝产品经理了解行业自律与监管趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/07/whatsapp-web-calling-new-features": {
+    "title_clean": "WhatsApp Web新增通话功能及更多新特性",
+    "summary": "WhatsApp Web新增网页端通话功能，支持通话转移和背景噪音抑制等特性，扩展了即时通讯平台的多端服务能力，为产品经理提供通讯产品功能扩展的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks": {
+    "title_clean": "Gemini API：推出托管代理新功能",
+    "summary": "Gemini API宣布为托管代理增加多项新功能，包括3.6 Flash模型、hooks等，帮助开发者构建可靠、可投入生产环境的AI代理系统，提升代理的实用性和稳定性。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises": {
+    "title_clean": "Fish Audio：AI语音模型开发商获5200万美元种子轮融资",
+    "summary": "Fish Audio是一家AI语音模型开发商，在过去一年中已有超过800万人使用其开源或托管版本模型，目前年经常性收入达2100万美元。该公司近期获得5200万美元种子轮融资，专注于为创作者和企业提供AI语音模型服务。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-infrastructure": {
+    "title_clean": "OlmoEarth：全球地理空间推理平台",
+    "summary": "OlmoEarth平台提供全球规模的地理空间推理能力，能够处理和分析大规模地理数据。该技术可能为AI助手提供更精准的地理位置服务、环境分析和空间决策支持，对元宝在地理信息处理和空间智能方面的产品开发具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

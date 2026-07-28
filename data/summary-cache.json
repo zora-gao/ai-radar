@@ -42741,5 +42741,115 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/space-bin": {
+    "title_clean": "Space-Bin：无需注册的安全临时工作空间",
+    "summary": "Space-Bin提供无需注册的安全临时工作空间服务，用户可以快速创建和使用临时工作环境，适合需要临时协作或测试的场景，为产品经理提供了轻量化协作工具的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lamoom": {
+    "title_clean": "Lamoom：Claude内部代理应用市场",
+    "summary": "Lamoom是一个平台，允许用户在Claude内部运行代理应用，或将自己的代理应用在平台上销售。这为AI助手扩展第三方服务提供了新思路，对元宝的产品经理了解AI代理应用生态和商业化模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-28/samsung-sk-hynix-leveraged-etfs-bring-boom-and-bust-to-south-korean-investors": {
+    "title_clean": "三星、SK海力士杠杆ETF引发韩国投资者市场波动",
+    "summary": "三星和SK海力士等存储芯片制造商相关ETF的涌入导致韩国市场波动性增加。这种投资热潮反映了投资者对半导体行业的投机行为，同时也揭示了ETF产品可能带来的市场风险，对AI硬件供应链相关投资决策有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/liminal-4": {
+    "title_clean": "Liminal：AI工作空间与第二大脑工具",
+    "summary": "Liminal是一款AI工作空间与第二大脑工具，专为个人、AI代理和团队协作设计，旨在整合信息管理、知识存储与团队协作功能，为AI助手类产品提供团队协作与知识管理场景的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/uk-regulator-ofcom-moves-to-block-bt-openreach-network-discount": {
+    "title_clean": "英国通信监管机构拟阻止BT Openreach网络折扣计划",
+    "summary": "英国通信监管机构Ofcom首次阻止BT集团旗下批发宽带子公司Openreach的\"激进折扣\"计划，理由是竞争担忧。这反映了监管机构对电信市场公平竞争的关注，对元宝产品经理了解互联网服务监管环境及市场竞争策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-28/ai-s-circular-financing-is-back-with-nvidia-s-latest-deals": {
+    "title_clean": "AI循环融资回归：英伟达最新交易引发担忧",
+    "summary": "英伟达最新交易标志着AI循环融资的回归，投资者担忧此类循环交易可能人为放大需求，并在AI无法实现盈利时加剧损失。这对产品经理评估AI行业融资环境与可持续性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/european-stocks-advance-as-lvmh-results-boost-luxury-sector": {
+    "title_clean": "欧洲股市上涨：联合利华与赛峰业绩提振市场信心",
+    "summary": "欧洲股市上涨，受联合利华和赛峰等公司乐观业绩提振。这一市场动态表明企业基本面表现对股市情绪有直接影响，对元宝产品经理了解市场情绪与企业业绩关系有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba": {
+    "title_clean": "AI开始取代客服岗位：微软、优步、CBA等公司受影响",
+    "summary": "AI技术已开始取代微软、优步和CBA等公司的客服岗位，表明AI在客户服务领域的应用正在加速落地，这对元宝产品经理评估AI客服替代人工场景、竞品动态及服务自动化方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/meta-blackrock-plan-to-invest-in-giant-texas-data-center": {
+    "title_clean": "Meta与BlackRock计划投资140亿美元建设数据中心",
+    "summary": "Meta与BlackRock将在德克萨斯州联合建设一个1吉瓦的数据中心综合体，投资额约140亿美元，这反映了AI时代对大规模计算基础设施的迫切需求，对元宝产品经理评估AI服务底层资源成本与扩展策略具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

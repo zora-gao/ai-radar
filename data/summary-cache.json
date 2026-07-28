@@ -42454,5 +42454,70 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe": {
+    "title_clean": "台湾拘留英伟达员工：调查AI芯片走私至中国",
+    "summary": "台湾检方拘留一名英伟达员工并搜查公司办公室，调查AI加速器芯片走私至中国的案件。此事件反映全球AI芯片供应链管制趋严，对元宝产品经理了解AI硬件供应限制及合规风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing": {
+    "title_clean": "Anthropic CEO Amodei 反对开放模型禁令但呼吁加强测试",
+    "summary": "Anthropic CEO Dario Amodei 与英伟达CEO黄仁勋等硅谷领袖警告政府不应全面禁止开放权重AI模型，同时呼吁加强模型测试。这对元宝产品经理了解行业监管态度与合规方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing": {
+    "title_clean": "Cursor：AI编程助手加大印度市场布局",
+    "summary": "Cursor宣布印度已成为其全球第三大市场，计划扩大本地招聘和企业销售，并推出本地化定价策略，此举发生在SpaceX收购前夕，显示其重视印度市场的战略意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046896&idx=1&sn=e4ce41ca98893ed1edd7dddb2b5cd80e": {
+    "title_clean": "超脑未来WorldDreamerV4横扫多个权威榜单，世界模型进入群体智能时代",
+    "summary": "超脑未来的WorldDreamerV4模型在多个权威榜单上取得优异成绩，标志着世界模型技术进入群体智能新阶段。这一进展对AI助手和AI Agent领域具有重要参考价值，可能影响多模态交互和群体智能协作的产品发展方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651046896&idx=2&sn=c6455bdf87241716fb6b1ad15e3814fe": {
+    "title_clean": "世界模型迎来因果升级：CD-LAM仅用几千步微调即可显著增强动作控制",
+    "summary": "CD-LAM技术通过因果推理升级世界模型，仅需几千步微调就能显著提升动作控制能力。这一突破对AI Agent的自主决策和环境交互能力有重要参考价值，可能为元宝的智能体功能开发提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

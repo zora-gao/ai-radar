@@ -43674,5 +43674,216 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/task-monki": {
+    "title_clean": "Task Monki：AI 编程代理开发工具",
+    "summary": "Task Monki 是一款工具，能够让 AI 编程代理完成完整的软件开发流程，从代码编写到测试部署的全过程自动化，为产品经理提供了 AI 在软件开发领域应用的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bo-ai": {
+    "title_clean": "Bo AI：AI个人文本助手",
+    "summary": "Bo AI是一款基于文本的AI个人助手，能够通过对话为用户提供帮助。作为新兴的AI助手产品，其专注于文本交互场景，对元宝产品经理在AI助手产品设计和交互模式方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/totem-5": {
+    "title_clean": "Totem：Twitter书签整理工具",
+    "summary": "Totem是一款帮助用户整理Twitter书签的工具，旨在提高阅读效率。对于元宝产品经理而言，这反映了用户对信息整理和内容消费管理的需求，可作为AI助手内容管理功能的参考案例。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/epilude": {
+    "title_clean": "Epilude：Mac本地语音转文字工具",
+    "summary": "Epilude是一款专为Mac设计的本地语音转文字工具，能够将语音输入转换为精炼文本，帮助用户高效处理语音内容。对于元宝产品经理而言，这反映了语音输入在办公场景的应用价值，可作为多模态交互的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/scenenote-free-video-feedback-tool": {
+    "title_clean": "SceneNote：视频协作反馈工具",
+    "summary": "SceneNote是一款面向编辑和客户的免费视频反馈工具，提供视频协作和反馈功能，帮助团队更高效地完成视频编辑工作。对于元宝产品经理而言，这代表了AI在创意协作领域的应用场景，可作为视频处理和协作功能的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vela-4": {
+    "title_clean": "Vela：AI招聘协调助手",
+    "summary": "Vela是一款AI招聘协调工具，能够自动化处理招聘流程中的协调工作，包括面试安排、日程管理等，帮助HR团队提高招聘效率。对于元宝产品经理而言，这展示了AI在专业服务场景中的应用潜力，可作为服务场景拓展和商业化模式的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/spine-2": {
+    "title_clean": "/mission for Claude Code：AI代码任务多代理协作工具",
+    "summary": "Claude Code新增/mission功能，允许用户将代码任务分解并分配给多个AI代理协作完成，提升复杂编程任务的执行效率，为元宝产品经理提供AI任务分解与多代理协作的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/blackflare": {
+    "title_clean": "BlackFlare：Mac系统保持唤醒与Claude/Codex任务提醒工具",
+    "summary": "BlackFlare是一款Mac系统工具，能够保持电脑持续唤醒状态，并在Claude或Codex任务完成时发送提醒通知。这款工具解决了AI编程助手任务执行期间电脑休眠的问题，对使用AI编程工具的开发者具有实用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/justty": {
+    "title_clean": "JusTTY：macOS 终端工具",
+    "summary": "JusTTY 是一款基于 Swift 和 libghostty 构建的简单原生 macOS 终端应用。作为终端工具，它可能为元宝产品经理提供 macOS 平台轻量级终端解决方案的参考价值，特别是在跨平台工具开发或终端交互设计方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/memorycustodian": {
+    "title_clean": "MemoryCustodian：代码智能体原生记忆工具",
+    "summary": "MemoryCustodian是一款为代码智能体提供原生记忆功能的工具，使AI编程助手能够更好地记住上下文和代码历史，提升代码连贯性和开发效率。这对元宝产品经理在优化AI编程助手记忆能力方面有直接参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-29/volatility-driving-dealmaking-goldman-sachs-video": {
+    "title_clean": "Volatility Driving Dealmaking: Goldman Sachs",
+    "summary": "高盛报告指出，尽管市场波动和地缘政治不确定性增加，大型企业在并购方面反而展现出更多信心，正更加果断地进行交易决策。这对AI助手产品经理了解企业服务市场动态和潜在客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/advantest-lifts-outlook-after-demand-for-ai-chip-testers-soars": {
+    "title_clean": "Advantest上调业绩预期：AI芯片测试器需求激增",
+    "summary": "Advantest公司上调业绩预期，指出AI数据中心所需芯片测试器需求强劲增长，反映了AI芯片制造复杂度提升带来的测试需求增加，对元宝产品经理了解AI硬件基础设施市场趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/legrand-lifts-outlook-as-clients-pour-billions-into-data-centers": {
+    "title_clean": "Legrand上调业绩预期：客户向数据中心投入数十亿美元",
+    "summary": "Legrand SA上调销售预期，原因是客户持续大力投资人工智能基础设施。这反映了AI数据中心建设热潮对企业业绩的直接影响，对元宝产品经理评估AI基础设施投资趋势和商业机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value": {
+    "title_clean": "Moonshot AI：中国AI独角兽完成35亿美元融资",
+    "summary": "Moonshot AI完成新一轮融资，估值达350亿美元，超出预期。此次融资得益于其Kimi K3模型的突破性进展，该模型在中文大模型领域表现突出。这反映了国内AI大模型市场的竞争加剧和资本对AI基础设施的持续关注。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-29/hongkong-land-cfo-on-1h26-results-video": {
+    "title_clean": "HongKong Land CFO：商业地产公司上半年利润增长11%",
+    "summary": "香港置地首席财务官Craig Beattie讨论了公司上半年11%的利润增长，并展望了未来发展战略。作为商业地产公司的财务表现，对元宝产品经理了解企业客户服务场景和商业合作机会有一定参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047000&idx=2&sn=182863c2a6492a54520f75f1598ed2a8": {
+    "title_clean": "华为联合高校训练2K图像模型Boogu-lmage-0.1，成本低比肩闭源",
+    "summary": "华为联合6所高校投入40万美元、使用2亿张图像数据训练出2K分辨率模型Boogu-lmage-0.1，成本远低于同类闭源模型，性能相当。这对AI图像生成领域的产品经理具有重要参考价值，展示了低成本高质量模型的可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-28/sk-hynix-s-profit-jump-misses-lofty-ai-expectations-video": {
+    "title_clean": "SK海力士季度利润增长557%未达AI预期",
+    "summary": "SK海力士季度利润大幅增长557%，但仍未达到市场对AI芯片的预期，引发对AI热潮推动半导体行业增速可能放缓的担忧。这对元宝产品经理评估AI硬件供应链稳定性及AI服务成本趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

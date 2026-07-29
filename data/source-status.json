@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29T05:22:11.749Z",
+  "generated_at": "2026-07-29T08:27:49.801Z",
   "sites": [
     {
       "site_id": "jiqizhixin",
       "site_name": "机器之心",
       "ok": true,
       "item_count": 8,
-      "duration_ms": 802,
+      "duration_ms": 573,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI News",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 982,
+      "duration_ms": 964,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "TechCrunch AI",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 298,
+      "duration_ms": 127,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "The Information",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 381,
+      "duration_ms": 213,
       "error": "Status code 403"
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "Bloomberg Tech",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 646,
+      "duration_ms": 586,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 202,
+      "duration_ms": 248,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "There's An AI For That",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 220,
       "error": "Status code 403"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "YC Companies",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 299,
+      "duration_ms": 633,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Hugging Face Trending",
       "ok": true,
       "item_count": 833,
-      "duration_ms": 127,
+      "duration_ms": 362,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "Crunchbase",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 165,
+      "duration_ms": 307,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "CB Insights",
       "ok": true,
       "item_count": 25,
-      "duration_ms": 124,
+      "duration_ms": 1668,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "OpenAI",
       "ok": true,
       "item_count": 1052,
-      "duration_ms": 137,
+      "duration_ms": 351,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "Google AI",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 178,
+      "duration_ms": 200,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "Anthropic",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 136,
+      "duration_ms": 392,
       "error": "Status code 404"
     },
     {
@@ -118,23 +118,23 @@
       "site_name": "Meta",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 106,
+      "duration_ms": 211,
       "error": null
     },
     {
       "site_id": "microsoft-ai",
       "site_name": "Microsoft AI",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 103,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 19711,
+      "error": "Status code 522"
     },
     {
       "site_id": "apple-ml",
       "site_name": "Apple Intelligence",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 141,
+      "duration_ms": 178,
       "error": null
     },
     {
@@ -142,21 +142,22 @@
       "site_name": "Perplexity",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 376,
+      "duration_ms": 80,
       "error": "Status code 403"
     }
   ],
-  "successful_sites": 14,
+  "successful_sites": 13,
   "failed_sites": [
     "theinformation",
     "theresanaiforthat",
     "anthropic",
+    "microsoft-ai",
     "perplexity"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 2095,
-  "items_before_topic_filter": 545,
-  "items_in_24h": 88,
+  "fetched_raw_items": 2085,
+  "items_before_topic_filter": 553,
+  "items_in_24h": 95,
   "rss_opml": {
     "enabled": false,
     "path": null,

@@ -44365,5 +44365,114 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast": {
+    "title_clean": "Meta发布疲软第三季度营收预测",
+    "summary": "Meta Platforms发布低于预期的第三季度营收预测，引发投资者对公司人工智能领域巨额支出的担忧。这一数据反映了AI投入与商业回报之间的平衡挑战，对元宝产品经理评估AI商业化路径具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/arm-outlook-leaves-investors-unmoved-despite-topping-estimates": {
+    "title_clean": "Arm 超预期业绩未提振投资者信心",
+    "summary": "Arm Holdings 发布超预期的销售预测，但未能打动投资者，近期芯片行业前景担忧加剧。这对AI芯片供应商的业绩预期和估值逻辑有参考价值，特别是对依赖芯片算力的AI产品成本预测。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/qualcomm-profit-forecast-misses-estimates-in-sign-of-phone-woes": {
+    "title_clean": "高通发布疲软利润预警，反映手机市场困境",
+    "summary": "高通作为最大智能手机处理器制造商，发布当前季度疲软利润预警，表明组件短缺和成本上升正对其主要市场造成影响。这对元宝产品经理了解手机产业链变化及AI硬件需求趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor": {
+    "title_clean": "Hugging Face AI安全事件：通过熊比喻解读",
+    "summary": "本文通过熊闯入营地的比喻，解读Hugging Face平台发生的安全入侵事件。作为AI领域的重要开源平台，此次安全事件对AI服务提供商的安全防护策略和用户数据保护具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/potential-financing-political-issues-brewing-for-data-centers": {
+    "title_clean": "数据中心融资与政治问题：AI基础设施建设的潜在挑战",
+    "summary": "美国AI基础设施建设持续获得银行、私募股权和资本市场的大力融资支持，但数据中心领域正面临潜在融资和政治问题，这可能影响AI基础设施的扩张速度和成本结构，对元宝的产品经理评估AI服务基础设施成本和稳定性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-29/open-interest-7-29-2026-video": {
+    "title_clean": "微软与Meta财报成为市场焦点",
+    "summary": "微软和Meta将发布重要财报，投资者密切关注这两家科技巨头的业绩表现。这反映了大型科技公司在AI领域的市场地位和商业价值，对元宝产品经理了解AI行业巨头的发展方向和市场预期有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/spacex-starship-heat-shield-can-t-support-rapid-flights-experts": {
+    "title_clean": "SpaceX星舰隔热盾或阻碍快速复用计划",
+    "summary": "专家警告SpaceX星舰重返地球时使用的隔热盾可能成为重大障碍，影响埃隆·马斯克实现星舰快速复用的目标。这对元宝产品经理了解航天技术挑战与复用性设计有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/ftc-split-lets-ionq-skywater-quantum-deal-close-without-changes": {
+    "title_clean": "IonQ-SkyWater量子交易获FTC批准：18亿美元半导体收购案无附加条件",
+    "summary": "IonQ将以18亿美元收购半导体代工厂SkyWater Technology，联邦贸易委员会(FTC)在内部意见分歧后未附加任何条件批准该交易。这表明量子计算领域的并购活动获得监管认可，对AI硬件基础设施和量子计算商业化发展具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
+    "title_clean": "GPT-5.6：融合前沿智能与效率的AI模型",
+    "summary": "GPT-5.6通过改进模型、推理和智能工作流程的效率，实现每美元提供更多有用智能，为AI产品经理提供提升AI效能的技术参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
   }
 }

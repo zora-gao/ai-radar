@@ -43577,5 +43577,102 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/vantage-is-said-to-mull-2-billion-data-center-sale-in-malaysia": {
+    "title_clean": "Vantage：数据中心运营商考虑出售马来西亚资产",
+    "summary": "Vantage Data Centers正考虑出售其在马来西亚的数据中心资产，交易估值可能达到20亿美元。这反映了数据中心行业在AI发展背景下的资产重组趋势，对元宝产品经理了解AI基础设施布局和成本结构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/airtrunk-gets-2-3-billion-green-loan-for-malaysia-data-center": {
+    "title_clean": "AirTrunk获得23亿美元绿色贷款用于马来西亚数据中心建设",
+    "summary": "Blackstone旗下数据中心公司AirTrunk获得30家金融机构提供的23亿美元绿色贷款，用于在马来西亚建设新数据中心，这是该公司迄今为止单笔资产的最大融资规模。这笔融资反映了数据中心行业在AI时代的重要性和资本市场的支持力度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs": {
+    "title_clean": "美国扩大对中国技术限制，涉及机器人和逆变器",
+    "summary": "美国政府扩大对中国技术限制，新增包括人形机器人和逆变器在内的外国制造商品限制措施，进一步加剧中美科技对抗。这一政策变化可能影响全球AI硬件供应链，对元宝等AI产品在硬件集成和国际化布局方面带来挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/malaysia-drops-blockchain-event-backing-over-ex-onlyfans-star": {
+    "title_clean": "马来西亚政府撤回区块链活动支持：因前OnlyStars艺人引发争议",
+    "summary": "马来西亚政府因区块链会议派对宣传中出现前OnlyStars艺人而撤回对活动的支持，这一事件反映了在穆斯林占多数的国家中，区块链活动面临的文化与道德审查挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047068&idx=1&sn=e0937a894d1d3b49938e50c0b52da9d2": {
+    "title_clean": "阿里技术人的夏日副本：人机对决、AIGX上新、双城开聊",
+    "summary": "阿里技术团队举办夏日技术活动，包含人机对决挑战、AIGX功能更新以及双城技术交流活动。这反映了阿里在AI技术领域的持续投入和产品迭代，对了解大型科技公司的AI产品研发方向和技术演进有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-28/crypto-rewiring-financial-infrastructure-video": {
+    "title_clean": "Crypto Rewiring Financial Infrastructure：加密货币重塑金融基础设施",
+    "summary": "彭博情报加密资产分析师Dushyant Shahrawat表示加密货币将持续存在并改变金融产品制造方式。他认为加密货币将像我们习惯的其他技术一样，成为金融基础设施的重要组成部分，为金融服务带来根本性变革。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-28/sk-hynix-s-record-profit-misses-investors-lofty-ai-expectations": {
+    "title_clean": "SK海力士季度利润大增557%但未达AI市场预期",
+    "summary": "SK海力士季度利润增长557%，但仍低于市场预期，引发对AI热潮推动半导体行业增长可能放缓的担忧。这对元宝产品经理评估AI硬件需求与市场预期差距有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-28/trump-s-crypto-bonanza-is-biggest-clarity-act-hurdle-video": {
+    "title_clean": "特朗普14亿美元加密货币资产成《清晰法案》最大障碍",
+    "summary": "特朗普价值14亿美元的加密货币资产已成为其推动数字资产全面立法的最大障碍。这一情况反映了加密货币监管与政治利益之间的复杂关系，对元宝产品经理了解加密货币政策环境及潜在商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

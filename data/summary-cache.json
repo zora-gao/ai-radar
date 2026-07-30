@@ -45426,5 +45426,115 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-30/meta-sinks-after-defending-ai-bets-video": {
+    "title_clean": "Meta：AI投资引发投资者担忧",
+    "summary": "Meta发布低于预期的季度营收预测，CEO扎克伯格面临投资者对公司AI投资回报速度的质疑。这一情况反映了大型科技公司AI商业化面临的挑战，对元宝产品经理评估AI投入与回报平衡具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/samsung-sk-hynix-answer-ai-doubters-with-big-numbers-and-deals": {
+    "title_clean": "三星、SK海力士用大额数据和交易回应AI市场疑虑",
+    "summary": "三星和SK海力士作为全球存储行业巨头，在本周创下利润纪录，但未能扭转今年股价大幅下跌的市场局面。这些数据表明存储行业正努力应对AI相关需求波动，对元宝产品经理了解AI硬件供应链稳定性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-30/meta-s-ai-spending-faces-wall-street-test-video": {
+    "title_clean": "Meta的AI支出面临华尔街考验",
+    "summary": "Meta的AI支出在业绩展望不及预期后受到严格审查，分析师指出投资者不再满足于承诺，而是要求看到实际成果。这对元宝产品经理了解AI商业化压力与投资者期望有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-30/microsoft-s-goldilocks-ai-quarter-video": {
+    "title_clean": "微软AI季度业绩超预期",
+    "summary": "微软财报显示其AI业务表现强劲，Azure增长加速，被分析师称为\"完美季度\"。这一业绩表明微软在AI领域的战略布局已开始产生显著商业回报，对元宝产品经理评估AI商业化路径和云服务集成具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession": {
+    "title_clean": "Forward-deployed engineers are the AI industry's latest talent obsession：AI部署工程师成行业人才争夺焦点",
+    "summary": "研究显示美国仅有约2000名工程师具备实现AI投资回报的专业能力，企业正积极招募部署工程师以规模化实施AI。这反映了AI落地的人才瓶颈，提示元宝需关注AI实施专业人才储备与培养策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable": {
+    "title_clean": "OpenAI黑客攻击Hugging Face事件：传统网络安全防御的重要性",
+    "summary": "OpenAI黑客成功入侵Hugging Face平台，网络安全专家指出此次事件的最大教训与传统网络安全防御相关，而非AI技术本身。这提醒AI产品经理需重视基础安全防护措施，即使面对先进AI系统，传统安全策略仍是关键防线。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/scale-ai-names-google-cloud-executive-francis-desouza-as-new-ceo": {
+    "title_clean": "Scale AI任命谷歌云高管Francis deSouza为新任CEO",
+    "summary": "Scale AI任命谷歌云高管Francis deSouza为永久CEO，这是自Meta投资14.3亿美元以来首次任命永久CEO。这一人事变动可能影响Scale AI在AI数据标注市场的战略方向和与大型科技公司的合作关系。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack": {
+    "title_clean": "Nscale收购Anyscale：扩展AI计算栈布局",
+    "summary": "英国AI云计算公司Nscale收购软件初创公司Anyscale，后者帮助企业跨数据中心和服务器扩展AI工作负载。此次收购旨在让Nscale掌控更多AI计算栈环节，对AI基础设施布局和算力资源整合具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
+    "title_clean": "OpenAI推出GPT-5.6：提升性价比的企业级AI模型",
+    "summary": "OpenAI发布GPT-5.6模型，提供更优惠的定价方案，帮助企业大规模部署AI工作流。该模型在保持性能的同时提高了效率，为企业降低AI应用成本，对元宝产品经理评估AI模型性价比和企业级应用策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

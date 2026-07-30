@@ -45089,5 +45089,103 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/futures-climb-with-boost-from-microsoft-s-surging-cloud-growth": {
+    "title_clean": "微软云业务增长推动美股期货上涨",
+    "summary": "微软云业务实现四年最快增长，推动公司股价上涨9.8%，进而带动美股期货上扬。半导体公司如美光科技和英伟达也随之上扬。这一动态对AI产品经理具有重要参考价值，反映了云基础设施与AI服务市场的强劲增长态势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/docktor": {
+    "title_clean": "docktor：Mac Dock侧边空间小工具",
+    "summary": "docktor是一款Mac应用，旨在利用Dock侧边被浪费的空间添加小工具，提升桌面空间利用效率。产品经理可关注其空间优化思路，对元宝桌面布局或多任务界面设计有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/eu-pledges-10-billion-in-public-funding-for-new-ai-data-centers": {
+    "title_clean": "欧盟承诺提供100亿欧元公共资金建设新AI数据中心",
+    "summary": "欧盟宣布提供100亿欧元公共资金支持建设多达七个AI数据中心，旨在减少对美国的依赖并推动欧洲AI基础设施建设。这一大规模投资将为AI服务提供商提供新的发展机会，同时也可能影响全球AI算力格局和成本结构。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-30/meta-ceo-mark-zuckerberg-fails-to-fill-in-the-details-on-an-ai-cloud-business": {
+    "title_clean": "Meta CEO未披露AI云业务细节",
+    "summary": "Meta CEO马克·扎克伯格尚未公布其AI云业务的具体细节，投资者和分析师仍在等待相关信息。这反映了大型科技公司在AI商业化方面的谨慎态度，对元宝产品经理了解AI业务拓展策略和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/virre": {
+    "title_clean": "Virre：职业与私人关系管理系统",
+    "summary": "Virre是一款专注于职业发展和私人关系管理的系统，帮助用户构建和维护职业网络。对于元宝产品经理而言，这提供了AI助手在职业关系管理场景的应用参考，可能启发社交关系图谱、职业规划等功能的开发。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/cityfibre-said-to-raise-900-million-to-challenge-bt-s-openreach": {
+    "title_clean": "CityFibre：英国光纤网络运营商融资9亿英镑",
+    "summary": "英国最大独立光纤运营商CityFibre计划向股东融资9亿英镑，作为对BT集团Openreach的主要竞争对手。此融资将加强其在英国光纤市场的竞争地位，对元宝产品经理了解电信基础设施投资和市场竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-30/gilbert-meta-on-hyperscaler-spend-without-the-business-video": {
+    "title_clean": "Gilbert：Meta在超大规模云服务上的投入未带来业务回报",
+    "summary": "Meta在超大规模云服务上的投入未能转化为业务回报，导致股价下跌，而微软凭借云计算和人工智能的强劲表现超出预期，股价上涨。这反映了AI基础设施投入与实际业务回报之间的差距，对元宝产品经理评估AI服务商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/nscale-to-buy-ai-software-startup-anyscale-for-1-65-billion": {
+    "title_clean": "Nscale收购AI软件公司Anyscale：AI计算资源优化服务",
+    "summary": "云服务提供商Nscale宣布以16.5亿美元收购AI软件初创公司Anyscale，旨在帮助客户更高效地利用AI计算资源。此次收购反映了AI计算资源优化服务市场的快速增长，对元宝产品经理评估AI基础设施服务整合与商业化策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

@@ -45312,5 +45312,119 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-30/bargain-airfares-are-under-threat-from-ai-pricing-video": {
+    "title_clean": "Bargain Airfares：AI机票定价威胁低价机票",
+    "summary": "航空公司正采用AI定价技术，通过动态调整票价最大化每趟航班的收入，这可能导致消费者难以找到低价机票。这一趋势对元宝产品经理有重要参考价值，特别是在AI服务场景中的个性化定价和用户成本优化方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming": {
+    "title_clean": "Meta：AI正简化新应用开发，更多新产品即将推出",
+    "summary": "Meta表示AI正显著简化新消费应用的构建和发布流程，CEO扎克伯格向投资者透露，在近期发布新产品后，公司还有更多消费级产品即将推出。这对元宝产品经理有参考价值，表明AI正在降低应用开发门槛，可能影响市场竞争格局和产品创新方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/Dharma-AI/gpu-management": {
+    "title_clean": "GPU管理：闲置GPU如同停飞的飞机",
+    "summary": "文章探讨了GPU资源管理的重要性，指出闲置GPU如同停飞的飞机一样造成资源浪费。对于元宝产品经理而言，这提示在AI服务中需要优化GPU资源分配策略，提高计算资源利用率，避免因资源闲置导致的成本浪费和性能瓶颈。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity": {
+    "title_clean": "Google：Gemini AI机器人全身协调模型",
+    "summary": "Google DeepMind发布新型AI模型Gemini，使类人机器人能够协调全身动作，解决机器人灵巧性难题。这是Google在机器人AI领域的重要进展，对元宝产品经理了解AI在物理交互和机器人控制方面的前沿应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/oracle-gains-after-expanding-google-gemini-ai-partnership": {
+    "title_clean": "Oracle与Google Gemini AI合作扩展，股价上涨8%",
+    "summary": "Oracle宣布扩大与Google Cloud的合作，将Gemini人工智能工具引入其企业客户，导致股价上涨超过8%。这一合作表明大型云服务提供商正积极整合AI能力，为企业客户提供更全面的AI解决方案，对元宝产品经理了解AI企业服务市场格局和合作模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come": {
+    "title_clean": "TechCrunch Disrupt 2026：科技领袖大会聚焦行业前沿对话",
+    "summary": "TechCrunch Disrupt 2026大会将邀请亚马逊、Replit、Tether等科技企业领袖参与，这是科技领域最具影响力的对话平台之一，拥有超过十年的历史。对产品经理而言，这是了解行业趋势、竞争格局和未来发展方向的重要窗口。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy": {
+    "title_clean": "Zuckerberg details Meta's personal AI superintelligence strategy",
+    "summary": "扎克伯格在华尔街日报发表观点文章，强调超级智能应惠及个人而非少数机构，阐述了Meta公司关于个人AI超级智能的战略方向，对元宝产品经理了解科技巨头AI战略布局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom": {
+    "title_clean": "Dili：AI合规基础设施工具",
+    "summary": "Dili完成2170万美元A轮融资，由Khosla Ventures领投，Allianz、Rebel Fund等参投。该公司专注于为基础设施行业提供AI合规解决方案，帮助企业在AI应用激增的背景下满足监管要求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/iconiq-backs-satellite-startup-k2-space-at-6-8-billion-value": {
+    "title_clean": "Iconiq投资卫星创业公司K2 Space，估值达68亿美元",
+    "summary": "卫星创业公司K2 Space获得5亿美元融资，估值达68亿美元。该公司专注于建造大型卫星，用于高功率任务如数据密集型通信和国防任务。这笔大额融资表明高价值卫星通信领域持续受到资本青睐，对元宝产品经理了解AI基础设施投资方向和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

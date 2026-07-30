@@ -44650,5 +44650,152 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-30/meta-strains-to-assuage-investor-worries-on-ai-bet-video": {
+    "title_clean": "Meta的扎克伯格努力缓解投资者对AI投资的担忧",
+    "summary": "Meta发布了低于预期的季度收入预测，加剧了投资者对其在人工智能领域巨额投入未能快速带来回报的担忧。扎克伯格试图向投资者解释Meta的AI战略，表明公司正积极投资AI技术以保持长期竞争力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/blue-owl-s-stack-seeks-5-9-billion-loan-extending-ai-debt-boom": {
+    "title_clean": "Blue Owl's Stack寻求59亿美元贷款，延续AI债务热潮",
+    "summary": "Blue Owl Capital旗下数据中心公司Stack Infrastructure正寻求85亿澳元(59亿美元)银团贷款，用于资助其在墨尔本的最新项目。这反映了AI基础设施投资热潮下，数据中心融资需求持续增长的趋势，对元宝产品经理了解AI服务底层基础设施投资动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years": {
+    "title_clean": "扎克伯格预测：数十亿人将在五年内拥有个人AI助手",
+    "summary": "Meta CEO扎克伯格预测五年内数十亿人将拥有个人AI助手，同时Meta正投入巨资建设AI基础设施和AI助手，试图向投资者证明这一投入的回报价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047221&idx=1&sn=b0d162c66c20d5a8e3e2d0859bf5ef27": {
+    "title_clean": "大模型简化设计理念：少即是多",
+    "summary": "探讨大模型如何通过简化设计理念实现高效功能，强调在AI产品开发中精简设计的重要性，为元宝产品经理提供产品方向和交互设计的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains": {
+    "title_clean": "AI算法挤压航线优惠：热门航线机票价格或将上涨",
+    "summary": "AI算法正在改变机票定价模式，可能导致热门航线的廉价机票消失。这一趋势对元宝产品经理有参考价值，提示AI在服务场景中可能带来的价格透明度变化和消费者行为影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/senators-warn-apple-not-to-buy-memory-chips-from-chinese-firms": {
+    "title_clean": "美国参议员警告苹果不要从中国公司购买内存芯片",
+    "summary": "美国两党参议员敦促苹果停止从被列入黑名单的中国半导体供应商CXMT和长江存储购买芯片，警告这可能带来国家安全风险。这对元宝产品经理了解国际供应链风险和地缘政治对科技产品的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai": {
+    "title_clean": "Thinking Machines 联合创始人 Lilian Weng 因健康原因离职后加入 OpenAI",
+    "summary": "Lilian Weng 曾担任 OpenAI AI 安全研究副总裁，后离开 Thinking Machines 公司，现重新加入 OpenAI。这一人事变动可能影响 AI 安全研究领域的团队布局和战略方向，对关注 AI 安全和人才流动的产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/analog-devices-discloses-data-breach-after-unauthorized-access": {
+    "title_clean": "Analog Devices：遭遇数据泄露事件",
+    "summary": "Analog Devices公司上月发现系统未经授权访问，调查确认部分文件被从受影响系统中泄露。此事件对AI产品经理的参考价值在于了解企业级数据安全风险，特别是AI系统可能面临的攻击和数据保护挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates": {
+    "title_clean": "微软云业务增速创四年新高",
+    "summary": "微软云业务实现2022年以来最快增长，且增速正在加快，表明其AI和计算服务正在获得客户认可。这一趋势对元宝产品经理有重要参考价值，反映了企业级AI服务市场的强劲需求。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
+    "title_clean": "API设置提升GPT-5.6在ARC-AGI-3基准测试中的性能",
+    "summary": "研究显示，通过两个API设置，GPT-5.6在ARC-AGI-3基准测试中的得分提高了三倍，同时提升了效率。这些设置保留了推理能力并实现了压缩，对AI模型性能优化有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-over-130-billion-in-new-data-center-leases": {
+    "title_clean": "微软报告130亿美元新数据中心租赁",
+    "summary": "微软宣布过去季度签署了超过130亿美元的新数据中心租赁协议，显示其在人工智能基础设施上的支出正在加速增长。这一数据反映了AI基础设施建设的巨大投入趋势，对元宝产品经理评估AI服务成本和扩展策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-29/meta-s-free-cash-flow-dwindles-to-lowest-in-nearly-four-years": {
+    "title_clean": "Meta自由现金流降至近四年最低",
+    "summary": "Meta Platforms自由现金流降至2022年第三季度以来最低水平，这是其从社交媒体应用制造商转型为AI公司的结果。这一财务变化反映了Meta在AI领域的重大投资战略，对产品经理评估AI转型成本与回报具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

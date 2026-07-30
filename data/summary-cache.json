@@ -45187,5 +45187,130 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://news.crunchbase.com/seed/vanessa-larco-nea-premise-vc-investment-thesis-seed-ai": {
+    "title_clean": "前NEA合伙人Vanessa Larco谈创始人特质与AI评估标准",
+    "summary": "Crunchbase News采访前NEA合伙人Vanessa Larco，她分享如何基于创始人潜力而非初始想法评估初创公司，并寻找能利用AI实现突破的团队。这对元宝产品经理了解AI投资视角和创始人评估标准有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sorinai": {
+    "title_clean": "Sorinai：会议交互式AI笔记本",
+    "summary": "Sorinai是一款专为会议设计的交互式AI笔记本工具，能够实时记录会议内容并提供智能交互功能。产品经理可参考其AI在会议场景中的应用方式，探索元宝在会议记录、内容整理等垂直场景的产品化可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-bitcoin-faithful-wait-on-rebound": {
+    "title_clean": "Strategy暂停比特币购买，投资者等待反弹",
+    "summary": "Strategy Inc.作为最大的比特币买家，在经历了动荡时期后暂停了五周的比特币购买，投资者正等待市场反弹。这一动态反映了加密货币市场的不确定性，对关注数字资产投资策略的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/meta-reports-279-billion-in-future-data-center-leases-for-ai": {
+    "title_clean": "Meta：未来AI数据中心租赁达2790亿美元",
+    "summary": "Meta宣布已签署2790亿美元的未来数据中心租赁协议，主要用于支持人工智能发展，但这些租赁尚未反映在资产负债表上。这表明Meta正在大规模投资AI基础设施，对AI行业基础设施建设和企业AI战略规划具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/european-banks-want-a-slice-of-ai-profits-but-less-of-the-risk": {
+    "title_clean": "欧洲银行寻求AI利润但规避风险",
+    "summary": "欧洲顶级银行希望从债务驱动的AI热潮中获取更多利润，同时寻求限制和抵消对这一热门行业的风险敞口。这反映了金融机构对AI投资的双重态度，对元宝产品经理了解AI商业化过程中的风险控制与盈利模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/us-stock-futures-today-chipotle-crocs-meta-microsoft-starbucks": {
+    "title_clean": "美股期货今日：微软等科技股推动标普500指数上涨",
+    "summary": "美股标普500指数期货上涨0.7%，受微软业绩提振科技板块情绪。微软作为AI领域重要参与者，其业绩表现可能反映AI商业化进展，对元宝产品经理评估AI技术商业化路径有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-30/why-ai-is-making-cheap-flights-harder-to-find": {
+    "title_clean": "AI动态定价：廉价机票更难找了",
+    "summary": "航空公司利用AI技术实现动态精准定价，关闭了旅客曾喜爱的价格差，导致廉价机票更难被发现。这对产品经理了解AI在价格歧视中的应用及消费者权益保护有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses": {
+    "title_clean": "AI如何改变企业Linux VPS安全防护",
+    "summary": "该文章探讨AI技术如何重塑中小企业在Linux VPS环境下的网络安全策略，分析AI驱动的安全解决方案如何应对日益增长的数据保护和应用程序安全需求，为元宝产品经理提供AI在安全服务场景的应用参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-earnings-will-test-stock-s-status-as-the-ai-safety-play": {
+    "title_clean": "苹果财报将测试其AI安全股地位",
+    "summary": "苹果公司因华尔街对AI支出的突然规避而成为今年科技股明星，但其周四发布的财报可能提醒投资者苹果在AI领域面临的挑战，这对评估苹果AI战略的市场反应具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/disney-ceo-d-amaro-wants-to-overhaul-disney-streaming-to-compete-with-netflix": {
+    "title_clean": "迪士尼CEO计划改革Disney+以对抗Netflix",
+    "summary": "迪士尼CEO表示将进行技术改革并增加外语内容，以应对Disney+订阅增长停滞的问题。这一战略调整反映了流媒体市场竞争加剧，对AI助手产品在内容推荐和用户体验优化方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

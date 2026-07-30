@@ -44909,5 +44909,185 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/yap-5": {
+    "title_clean": "Yap：Mac端开源语音听写工具",
+    "summary": "Yap是一款专为Mac设计的开源语音听写工具，完全在设备端运行，无需联网处理语音数据。对于关注AI语音处理和隐私保护的产品经理来说，这代表了本地化语音处理技术的实用案例，值得研究其离线语音识别的实现方式和用户体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/premation": {
+    "title_clean": "Premation：开源AI视频动画制作工具",
+    "summary": "Premation是一款开源AI工具，旨在作为Adobe After Effects的替代方案，提供视频动画制作功能。这对元宝产品经理有参考价值，因为它展示了AI在创意工具领域的应用，可能启发元宝在多媒体内容生成或创意辅助方面的功能拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cursor-crane": {
+    "title_clean": "Cursor Crane：键盘控制Mac工具",
+    "summary": "Cursor Crane是一款通过键盘控制Mac操作的工具，允许用户无需鼠标即可完成系统操作，提高工作效率。对于元宝产品经理而言，这提供了键盘交互设计的参考价值，特别是在优化AI助手与系统的集成控制方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/focus-room": {
+    "title_clean": "Focus Room：YouTube学习平台工具",
+    "summary": "Focus Room是一款将YouTube转变为个人学习平台的工具，帮助用户从视频中提取有价值的学习内容，提升学习效率。产品经理可参考其如何将娱乐平台转化为学习工具，以及AI内容筛选与组织的产品设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/prnotch": {
+    "title_clean": "PRNotch：Mac刘海屏GitHub PR管理工具",
+    "summary": "PRNotch是一款在Mac刘海屏显示GitHub pull requests的工具，让开发者无需切换应用即可查看PR状态，提升代码审查效率。对元宝产品经理有参考价值，展示了如何在特定设备上优化开发工具的交互体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pally": {
+    "title_clean": "Pally：短信个人助手",
+    "summary": "Pally是一款通过短信提供个人助理服务的产品，用户可直接在短信中与AI助手交互，完成日程管理、信息查询等任务。这种短信交互方式为AI助手提供了新的服务场景，可能影响元宝在轻量级交互渠道上的产品设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/langwatch": {
+    "title_clean": "Claude Code：AI代码助手使用成本追踪工具",
+    "summary": "LangWatch推出Claude Code使用追踪功能，帮助用户监控Claude Code会话的实际成本。这对产品经理了解AI代码助手的使用模式和成本结构有参考价值，有助于优化定价策略和用户成本管理。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/greplica": {
+    "title_clean": "Greplica：编程代理自动更新知识库工具",
+    "summary": "Greplica 是一个专为编程代理设计的自动更新知识库工具，能够持续维护和更新编程相关信息，为AI编程助手提供准确、最新的技术文档和代码参考，有助于提升AI代理在编程任务中的准确性和时效性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/phantom-voice": {
+    "title_clean": "Phantom Voice：Mac本地按键语音输入工具",
+    "summary": "Phantom Voice是一款Mac平台的本地按键语音输入工具，支持本地化的按键对讲(dictation)功能。对于元宝产品经理而言，这反映了语音交互在桌面场景的应用价值，可作为语音输入功能的竞品参考，特别是在本地化处理和按键交互方面的设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ski": {
+    "title_clean": "SKI：免费语音编程工具",
+    "summary": "SKI是一款支持Claude Code、Codex等编程工具的免费语音编程工具，允许用户通过语音指令进行代码编写，为AI编程助手提供了新的交互方式，对元宝产品经理探索语音交互在编程场景的应用具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-30/samsung-s-chip-profit-soars-250-fold-on-memory-shortages-video": {
+    "title_clean": "三星半导体利润因内存短缺激增250倍",
+    "summary": "三星电子半导体部门第二季度营业利润达89.2万亿韩元，同比增长250倍。这一数据反映了全球内存芯片市场的严重短缺状况，对AI硬件供应链和成本结构有重要参考价值，元宝产品经理需关注内存价格波动对AI服务部署成本的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever": {
+    "title_clean": "微软加大与OpenAI、Anthropic的AI竞争力度",
+    "summary": "微软向华尔街展示其自主研发的AI模型、工具套件，并推出对标Mythos的产品，表明将持续扩大在AI领域的竞争布局，这对元宝产品经理了解科技巨头AI战略方向和市场竞争态势有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/caimera-2": {
+    "title_clean": "Caimera：AI时尚视觉制作平台",
+    "summary": "Caimera是一款专为时尚团队设计的AI视觉制作平台，能够帮助时尚行业团队高效创建和管理视觉内容。该平台可能整合了AI图像生成、编辑和优化功能，为时尚品牌提供创意支持，对元宝在垂直行业AI应用场景拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-30/australia-online-regulator-starts-civil-proceedings-against-telegram": {
+    "title_clean": "澳大利亚监管机构对Telegram提起民事诉讼",
+    "summary": "澳大利亚电子安全监管机构因Telegram未能检测和移除恐怖主义内容，在联邦法院对Telegram提供商提起民事诉讼。这反映了内容监管责任与AI内容审核能力的挑战，对元宝的内容安全策略和合规框架有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

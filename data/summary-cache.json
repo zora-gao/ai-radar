@@ -46657,5 +46657,151 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/tracellm": {
+    "title_clean": "TraceLLM：AI应用生产环境可观测性工具",
+    "summary": "TraceLLM是一款专为生产环境AI应用设计的可观测性工具，类似于OpenTelemetry在传统软件中的应用，旨在帮助开发者监控、追踪和分析AI系统的性能与行为，为AI应用运维提供关键数据支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/former-england-player-eni-aluko-on-fifa-spinoff-plans-video": {
+    "title_clean": "前英格兰女足球员批评欧足联抵制FIFA计划缺乏协商",
+    "summary": "前英格兰女足球员兼体育投资人Eni Aluko指出，欧足联若抵制FIFA赛事主席 Infantino 出售股份的计划，表明其决策过程缺乏充分协商。这一体育组织内部矛盾反映了国际足坛治理问题，对元宝产品经理了解体育行业决策机制和用户对权威机构信任度的变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/ares-ceo-on-earnings-ai-deployment-private-credit-video": {
+    "title_clean": "Ares CEO：AI部署与私募信贷业务策略",
+    "summary": "Ares首席执行官Michael Arougheti讨论了人工智能部署及第二季度业绩表现，强调希望在私募信贷领域实现横向多元化发展。这反映了金融机构在AI应用和业务多元化方面的战略方向，对元宝产品经理了解AI在金融领域的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba": {
+    "title_clean": "Moonshot Kimi：基于阿里2万块英伟达芯片训练",
+    "summary": "中国AI公司Moonshot与阿里巴巴达成计算能力协议，使用约2万块英伟达芯片训练其Kimi模型，凸显中国AI企业对西方半导体技术的持续依赖。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/the-race-to-salvage-situational-awareness-ai-bets-video": {
+    "title_clean": "The Race to Salvage Situational Awareness' AI Bets：对冲基金AI投资大幅缩水",
+    "summary": "对冲基金Situational Awareness在一个月内资产从450亿美元暴跌至100亿美元，Bloomberg报道该基金正在努力挽救其AI投资。这一事件反映了AI投资领域的巨大波动风险，对元宝产品经理评估AI商业化路径和风险管理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/telus-more-than-halves-dividend-after-pressure-to-cut-debt": {
+    "title_clean": "Telus削减股息并计划出售资产，新CEO实施重组战略",
+    "summary": "加拿大电信公司Telus削减约55%的股息，并计划出售包括健康部门在内的部分资产，新任CEO Victor Dodig正通过这些措施修复公司财务状况。这一战略调整反映了传统通信企业在AI时代面临的财务压力和转型需求，对元宝产品经理了解传统行业在AI冲击下的应对策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-31/microsoft-keeps-data-center-spending-steady-while-peers-ramp-up-ai-plans": {
+    "title_clean": "Microsoft：数据中心支出稳定，平衡AI投资与云收入增长",
+    "summary": "Microsoft在同行大幅增加AI投资的情况下保持数据中心支出稳定，同时平衡AI投入与云收入增长，公司股价因此上涨。这反映了微软在AI投资策略上的审慎态度，以及其云业务与AI协同发展的商业模式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/hong-kong-s-economy-slows-more-than-forecast-despite-export-boom": {
+    "title_clean": "香港经济增长放缓超预期，AI热潮未能提振整体经济",
+    "summary": "香港经济增长速度超出预期放缓，尽管全球人工智能投资热潮推动了该城市出口增长，但整体经济表现仍不及预期。这一现象表明AI产业对区域经济的提振作用可能存在局限性，产品经理需评估AI技术对整体经济的影响范围和时效性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/deepseek-unveils-public-beta-api-for-flagship-ai-model": {
+    "title_clean": "DeepSeek：旗舰AI模型V4 Flash公开测试版API发布",
+    "summary": "中国AI公司DeepSeek为其旗舰AI模型V4 Flash推出公开测试版API，强调其在智能代理能力方面的进步。这为元宝产品经理提供了关于中国AI模型API开放和智能代理能力发展的参考信息。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/murata-raises-outlook-in-sign-of-strong-demand-for-ai-components": {
+    "title_clean": "Murata：AI支出增长将放缓",
+    "summary": "电子元件制造商Murata警告称，尽管上调了利润预期，但全球AI技术建设热潮终将降温。这对元宝产品经理提示了AI硬件市场可能面临增长放缓的信号，需关注AI基础设施投资趋势对AI服务需求的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-31/ai-use-complicating-relationships-and-dividing-friends-families": {
+    "title_clean": "AI正在分化人际关系：朋友与家庭因对AI未来愿景不同而产生分歧",
+    "summary": "AI技术不仅因其能力差异，更因人们对未来生活愿景的不同而分化人际关系，朋友与家庭因对AI的态度产生分歧，这对产品经理了解用户接受度和潜在社会影响有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/the-china-show-7-31-2026-video": {
+    "title_clean": "AI热潮推动科技股上涨 | The China Show",
+    "summary": "Bloomberg《中国秀》节目报道了AI热潮推动科技股上涨的市场动态，聚焦全球经济第二大经济体在科技领域的趋势变化，为元宝产品经理提供AI市场情绪和资本流向的参考信息。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-07-31T06:39:12.088Z",
+  "generated_at": "2026-07-31T10:32:05.351Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "deepseek/deepseek-v4-flash-0731",
+      "name": "DeepSeek V4 Flash 0731",
+      "vendor": "DeepSeek",
+      "vendor_slug": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-20260731",
+      "created_at": "2026-07-31T06:21:48Z",
+      "context_length": 1048576,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.14,
+      "price_out": 0.28,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows.",
+      "description_zh": "DeepSeek V4 Flash 0731 是 DeepSeek 的稀疏专家混合模型，总共 284B 个活动参数，其中有 13B 个。这种经过重新训练的修订版适用于编码、推理和代理工作流程。"
+    },
     {
       "id": "qwen/qwen3.7-flash",
       "name": "Qwen3.7 Flash",
@@ -954,8 +977,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.19,
-      "price_out": 3.74,
+      "price_in": 1.12,
+      "price_out": 3.52,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1453,31 +1476,6 @@
       "supports_reasoning": true,
       "description": "Gemini 3.5 Flash is Google's high-efficiency multimodal model, bringing near-Pro level coding and reasoning at Flash-tier cost and speed. It is highly optimized for coding proficiency and parallel agentic execution...",
       "description_zh": "Gemini 3.5 Flash 是 Google 的高效多模式模型，以 Flash 级别的成本和速度带来接近 Pro 级别的编码和推理。它针对编码能力和并行代理执行进行了高度优化......"
-    },
-    {
-      "id": "anthropic/claude-opus-4.7-fast",
-      "name": "Claude Opus 4.7 (Fast)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-4.7-opus-fast-20260512",
-      "created_at": "2026-05-12T19:10:11Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 30,
-      "price_out": 150,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Fast-mode variant of Opus 4.7 - identical capabilities with higher output speed at premium 6x pricing. Learn more in Anthropic's docs: https://platform.claude.com/docs/en/build-with-claude/fast-mode",
-      "description_zh": "Opus 4.7 的快速模式变体 - 具有相同的功能和更高的输出速度，价格高出 6 倍。在 Anthropic 的文档中了解更多信息：https://platform.claude.com/docs/en/build-with-claude/fast-mode"
     }
   ]
 }

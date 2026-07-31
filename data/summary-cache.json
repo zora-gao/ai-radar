@@ -47051,5 +47051,79 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/griffin-s-knack-for-sniffing-out-trouble-set-to-reward-citadel": {
+    "title_clean": "Griffin：华尔街风险预警系统",
+    "summary": "Citadel创始人Ken Griffin被华尔街视为市场风向标，其投资动向常被视为市场风险信号。这对元宝产品经理了解金融领域AI风险预警系统的应用场景和用户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video": {
+    "title_clean": "Lux Capital：医疗与机器人领域将迎来下一波AI浪潮",
+    "summary": "Lux Capital合伙人Deena Shakir指出，随着Anthropic和OpenAI等公司关注重点转向实际部署和安全，医疗和机器人领域将成为AI发展的下一个热点，这为AI助手在垂直场景的应用提供了新方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/anthropic-hack-adds-to-fears-over-ai-safety-video": {
+    "title_clean": "Anthropic遭遇黑客攻击，引发AI安全担忧",
+    "summary": "Anthropic披露其AI模型遭遇黑客攻击，这是继OpenAI类似披露后又一大型AI公司遭遇的安全事件。此事件引发对AI系统安全性的广泛担忧，对产品经理评估AI安全风险和防护措施具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/spacex-short-interest-soars-ahead-of-big-share-unlock-earnings": {
+    "title_clean": "SpaceX：做空情绪高涨，面临股权解禁与首份财报",
+    "summary": "SpaceX在即将迎来首次公开财报和大规模股权解禁前，做空头寸大幅增加。这一市场动向反映了投资者对公司估值和未来表现的担忧，对AI产品经理了解科技巨头资本运作和投资者情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/apple-battles-chip-shortages-video": {
+    "title_clean": "苹果面临芯片短缺挑战",
+    "summary": "苹果正面临芯片短缺、内存成本上升和利润压力，但需求依然强劲。分析师解释投资者为何看好苹果，这对元宝产品经理了解硬件供应链对AI服务的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/building-abundant-intelligence": {
+    "title_clean": "Building abundant intelligence：全栈AI能力提升方案",
+    "summary": "该方案采用全栈方法，旨在提升高级AI的能力、降低成本并扩大应用范围。对产品经理有参考价值，特别是在AI能力优化和成本控制方面，可能启发元宝在AI能力提升和普及化方面的策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -46902,5 +46902,154 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": {
+    "title_clean": "OpenAI 打破利用ChatGPT的柬埔寨诈骗团伙",
+    "summary": "OpenAI成功瓦解了一个位于柬埔寨的诈骗团伙，该团伙利用ChatGPT支持投资、浪漫关系、赌博和冒充等多种诈骗活动。这一事件展示了AI平台在防止技术被用于非法活动方面的监管挑战和应对措施。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai": {
+    "title_clean": "OpenAI CEO Sam Altman呼吁AI行业放缓发展",
+    "summary": "OpenAI CEO Sam Altman近期表示，AI行业可能需要'放慢脚步'，这距离其自身模型出现突破仅几天时间。这一表态反映了行业内部对AI发展速度的反思，对产品经理评估技术发展节奏与风险管理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-31/inside-tencent-s-failed-attempt-to-take-on-grand-theft-auto": {
+    "title_clean": "腾讯《光速先遣队》开发失败：六年投入数亿美元挑战《侠盗猎车手》",
+    "summary": "腾讯旗下游戏《光速先遣队》历经六年开发，投入数亿美元，最终未能成功挑战《侠盗猎车手》市场。这对元宝产品经理的参考价值在于，即使巨头级投入也可能面临产品市场匹配失败，提醒在AI产品开发中需更注重市场验证和风险控制。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/eric-trump-expands-family-s-defense-portfolio-with-space-eyes": {
+    "title_clean": "Eric Trump扩展家族国防投资组合：Space-Eyes国防软件公司",
+    "summary": "特朗普家族成员Eric Trump成为国防软件公司Space-Eyes的投资人和顾问，此举扩展了家族在军事技术领域的投资组合，引发伦理监督组织和总统的批评。对产品经理而言，这反映了政商界对国防科技领域的持续关注，可能影响AI在国防和安全领域的应用方向。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/ai-has-reached-an-inflection-point-video": {
+    "title_clean": "AI已达到转折点：投资重心从基础设施转向收入生成",
+    "summary": "AllianceBernstein主题创新股票首席投资官Lei Qiu表示，AI已达到转折点，行业焦点正从基础设施投资转向收入生成。这一转变对AI产品经理具有重要参考价值，提示产品开发应更注重商业化路径和收入模式设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users": {
+    "title_clean": "Siri AI或将推出付费功能：面向高级用户的算力升级服务",
+    "summary": "苹果CEO蒂姆·库克透露，Siri AI未来可能通过iCloud+订阅服务提供付费升级，让用户购买更多算力以增强AI能力。这标志着苹果正探索AI服务的商业化路径，对产品经理思考AI功能分层与付费模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content": {
+    "title_clean": "Snapchat停止推荐纯AI生成内容",
+    "summary": "Snapchat调整推荐系统，仅将真人创作的视频纳入Spotlight推荐范围，明确反对AI生成内容泛滥。此举反映平台对内容真实性的重视，对AI助手产品在内容审核与真实性判断方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/index-ventures-firm-behind-wiz-revolut-raises-2-billion-for-trio-of-funds": {
+    "title_clean": "Index Ventures：投资Wiz和Revolut的风投机构融资20亿美元",
+    "summary": "Index Ventures是一家投资了网络安全公司Wiz和金融科技公司Revolut的风投机构，现已筹集20亿美元新资金，用于支持处于不同发展阶段的多家初创企业。这笔融资反映了投资者对科技领域特别是网络安全和金融科技领域的持续关注。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/jana-adds-more-sale-pressure-on-alkami-in-new-letter-to-board": {
+    "title_clean": "Jana向Alkami施压要求加速出售",
+    "summary": "激进投资者Jana Partners致函Alkami Technology董事会，指控该公司未能进行真正的出售流程，要求加速出售进程。这对金融科技领域的企业并购动态和估值策略有参考价值，尤其是对AI金融服务提供商的潜在收购机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off": {
+    "title_clean": "OpenAI呼吁AI行业放缓发展，亚马逊和SpaceX仍加速推进",
+    "summary": "OpenAI CEO Sam Altman提出AI行业应'放缓'发展，这一表态发生在OpenAI自身模型突破之后。这反映了行业内部对发展速度的分歧，对元宝产品经理评估AI发展节奏和战略方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech": {
+    "title_clean": "2025年种子轮融资热点：500万至1000万美元集中在特定领域",
+    "summary": "本文分析了2025年种子轮融资的热门领域，包括癌症治疗技术和太空技术等，揭示了当前投资机构对特定赛道的偏好趋势，为产品经理判断AI在医疗和科技领域的应用方向提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/amazon-s-trillion-dollar-aws-ai-bet-video": {
+    "title_clean": "Amazon的万亿级AWS AI押注",
+    "summary": "Amazon的AI投入开始产生可衡量的成果，TD Cowen分析师John Blackledge解释了AWS需求激增可能导致Amazon产能受限的情况，这对元宝产品经理了解云服务商AI战略与市场格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

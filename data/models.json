@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:58:32.158Z",
+  "generated_at": "2026-07-31T17:37:22.288Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -223,33 +223,6 @@
       "description_zh": "Gemini 3.6 Flash 是 Google 的一个高效模型，用于编码、代理工作流程以及 Web 和应用程序开发。它旨在产生精美的输出，减少不必要的编辑和..."
     },
     {
-      "id": "google/gemini-3.6-flash:batch",
-      "name": "Gemini 3.6 Flash (batch)",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-3.6-flash-20260721",
-      "created_at": "2026-07-21T15:12:13Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.75,
-      "price_out": 3.75,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemini 3.6 Flash is a high-efficiency model from Google for coding, agentic workflows, and web and app development. It is designed to produce polished outputs with fewer unnecessary edits and...",
-      "description_zh": "Gemini 3.6 Flash 是 Google 的一个高效模型，用于编码、代理工作流程以及 Web 和应用程序开发。它旨在产生精美的输出，减少不必要的编辑和..."
-    },
-    {
       "id": "google/gemini-3.5-flash-lite",
       "name": "Gemini 3.5 Flash Lite",
       "vendor": "Google",
@@ -270,33 +243,6 @@
       ],
       "price_in": 0.3,
       "price_out": 2.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemini 3.5 Flash Lite is a high-efficiency model from Google with upgraded agentic capabilities. It is suited for subagents that execute focused tasks within complex, multi-agent workflows.",
-      "description_zh": "Gemini 3.5 Flash Lite是Google推出的一款高效模型，具有升级的代理能力。它适合在复杂的多代理工作流程中执行重点任务的子代理。"
-    },
-    {
-      "id": "google/gemini-3.5-flash-lite:batch",
-      "name": "Gemini 3.5 Flash Lite (batch)",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-3.5-flash-lite-20260721",
-      "created_at": "2026-07-21T15:12:06Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.15,
-      "price_out": 1.25,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -817,31 +763,6 @@
       "description_zh": "Sonnet 5 是 Anthropic 最强大的 Sonnet 级模型，在编码、代理和专业工作方面具有前沿性能。它支持适应性思维，具有可选择的推理努力级别（低、中、高、最大……"
     },
     {
-      "id": "anthropic/claude-sonnet-5:batch",
-      "name": "Claude Sonnet 5 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-sonnet-5-20260630",
-      "created_at": "2026-06-30T18:11:23Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1,
-      "price_out": 5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Sonnet 5 is Anthropic's most capable Sonnet-class model, with frontier performance across coding, agents, and professional work. It supports adaptive thinking with selectable reasoning effort levels (low, medium, high, max,...",
-      "description_zh": "Sonnet 5 是 Anthropic 最强大的 Sonnet 级模型，在编码、代理和专业工作方面具有前沿性能。它支持适应性思维，具有可选择的推理努力级别（低、中、高、最大……"
-    },
-    {
       "id": "google/gemini-3.1-flash-lite-image",
       "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
       "vendor": "Google",
@@ -1108,31 +1029,6 @@
       "description_zh": "Claude Fable 5 是 Anthropic 的 Mythos 级模型，专为自主知识工作和编码而构建。它支持文本、图像和文件输入以及文本输出，并具有推理支持和..."
     },
     {
-      "id": "anthropic/claude-fable-5:batch",
-      "name": "Claude Fable 5 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-5-fable-20260609",
-      "created_at": "2026-06-09T12:18:35Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Fable 5 is a Mythos-class model from Anthropic, built for autonomous knowledge work and coding. It supports text, image, and file inputs with text output, with reasoning support and...",
-      "description_zh": "Claude Fable 5 是 Anthropic 的 Mythos 级模型，专为自主知识工作和编码而构建。它支持文本、图像和文件输入以及文本输出，并具有推理支持和..."
-    },
-    {
       "id": "nex-agi/nex-n2-pro",
       "name": "Nex-N2-Pro",
       "vendor": "Nex Agi",
@@ -1276,31 +1172,6 @@
       "description_zh": "MiniMax-M3 是 MiniMax 的多模式基础模型。它支持文本、图像和视频输入以及文本输出、1M 令牌上下文窗口，适合长期代理工作、编码等。"
     },
     {
-      "id": "minimax/minimax-m3:batch",
-      "name": "MiniMax M3 (batch)",
-      "vendor": "MiniMax",
-      "vendor_slug": "minimax",
-      "url": "https://openrouter.ai/minimax/minimax-m3-20260531",
-      "created_at": "2026-05-31T16:36:14Z",
-      "context_length": 524288,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.15,
-      "price_out": 0.6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "MiniMax-M3 is a multimodal foundation model from MiniMax. It supports text, image, and video inputs with text output, a 1M-token context window, and is suited for long-horizon agentic work, coding,...",
-      "description_zh": "MiniMax-M3 是 MiniMax 的多模式基础模型。它支持文本、图像和视频输入以及文本输出、1M 令牌上下文窗口，适合长期代理工作、编码等。"
-    },
-    {
       "id": "stepfun/step-3.7-flash",
       "name": "Step 3.7 Flash",
       "vendor": "Stepfun",
@@ -1369,31 +1240,6 @@
       ],
       "price_in": 5,
       "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Opus 4.8 is Anthropic's most capable generally available model in the Opus family. It supports text, image, and file inputs with text output, with reasoning support and a 1M-token...",
-      "description_zh": "Claude Opus 4.8 是 Anthropic Opus 系列中功能最强大的通用型号。它支持文本、图像和文件输入以及文本输出，具有推理支持和 1M 令牌..."
-    },
-    {
-      "id": "anthropic/claude-opus-4.8:batch",
-      "name": "Claude Opus 4.8 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-4.8-opus-20260528",
-      "created_at": "2026-05-27T18:04:51Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2.5,
-      "price_out": 12.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1474,6 +1320,156 @@
       "supports_reasoning": true,
       "description": "Gemini 3.5 Flash is Google's high-efficiency multimodal model, bringing near-Pro level coding and reasoning at Flash-tier cost and speed. It is highly optimized for coding proficiency and parallel agentic execution...",
       "description_zh": "Gemini 3.5 Flash 是 Google 的高效多模式模型，以 Flash 级别的成本和速度带来接近 Pro 级别的编码和推理。它针对编码能力和并行代理执行进行了高度优化......"
+    },
+    {
+      "id": "anthropic/claude-opus-4.7-fast",
+      "name": "Claude Opus 4.7 (Fast)",
+      "vendor": "Anthropic",
+      "vendor_slug": "anthropic",
+      "url": "https://openrouter.ai/anthropic/claude-4.7-opus-fast-20260512",
+      "created_at": "2026-05-12T19:10:11Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 30,
+      "price_out": 150,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Fast-mode variant of Opus 4.7 - identical capabilities with higher output speed at premium 6x pricing. Learn more in Anthropic's docs: https://platform.claude.com/docs/en/build-with-claude/fast-mode",
+      "description_zh": "Opus 4.7 的快速模式变体 - 具有相同的功能和更高的输出速度，价格高出 6 倍。在 Anthropic 的文档中了解更多信息：https://platform.claude.com/docs/en/build-with-claude/fast-mode"
+    },
+    {
+      "id": "perceptron/perceptron-mk1",
+      "name": "Perceptron Mk1",
+      "vendor": "Perceptron",
+      "vendor_slug": "perceptron",
+      "url": "https://openrouter.ai/perceptron/perceptron-mk1-20260512",
+      "created_at": "2026-05-12T14:43:49Z",
+      "context_length": 32768,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.15,
+      "price_out": 1.5,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Perceptron Mk1 (Mark One) is Perceptron's highest-quality vision-language model for video and embodied reasoning. It accepts image and video inputs paired with natural language queries, and produces detailed visual understanding...",
+      "description_zh": "Perceptron Mk1 (Mark One) 是 Perceptron 用于视频和具体推理的最高质量视觉语言模型。它接受与自然语言查询配对的图像和视频输入，并产生详细的视觉理解......"
+    },
+    {
+      "id": "inclusionai/ring-2.6-1t",
+      "name": "Ring-2.6-1T",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ring-2.6-1t-20260508",
+      "created_at": "2026-05-08T13:37:20Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.075,
+      "price_out": 0.625,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ring-2.6-1T is a 1T-parameter-scale thinking model with 63B active parameters, built for real-world agent workflows that require both strong capability and operational efficiency. It is optimized for coding agents, tool...",
+      "description_zh": "Ring-2.6-1T是一个1T参数规模的思维模型，具有63B个主动参数，专为现实世界中需要强大能力和运营效率的代理工作流程而构建。它针对编码代理、工具进行了优化..."
+    },
+    {
+      "id": "google/gemini-3.1-flash-lite",
+      "name": "Gemini 3.1 Flash Lite",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-3.1-flash-lite-20260507",
+      "created_at": "2026-05-07T15:47:08Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video",
+        "file",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.25,
+      "price_out": 1.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 3.1 Flash Lite is Google’s GA high-efficiency multimodal model optimized for low-latency, high-volume workloads. It supports text, image, video, audio, and PDF inputs, and is designed for lightweight agentic...",
+      "description_zh": "Gemini 3.1 Flash Lite 是 Google 的 GA 高效多模式模型，针对低延迟、大容量工作负载进行了优化。它支持文本、图像、视频、音频和 PDF 输入，专为轻量级代理而设计..."
+    },
+    {
+      "id": "openai/gpt-chat-latest",
+      "name": "GPT Chat Latest",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-chat-latest-20260505",
+      "created_at": "2026-05-05T16:56:52Z",
+      "context_length": 400000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 5,
+      "price_out": 30,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": false,
+      "description": "GPT Chat Latest points to OpenAI's stable API alias chat-latest that always resolves to the latest Instant chat model used in ChatGPT. As OpenAI rolls out new Instant model updates...",
+      "description_zh": "GPT Chat Latest 指向 OpenAI 的稳定 API 别名 chat-latest，它始终解析为 ChatGPT 中使用的最新即时聊天模型。随着 OpenAI 推出新的 Instant 模型更新......"
+    },
+    {
+      "id": "x-ai/grok-4.3",
+      "name": "Grok 4.3",
+      "vendor": "xAI",
+      "vendor_slug": "x-ai",
+      "url": "https://openrouter.ai/x-ai/grok-4.3-20260430",
+      "created_at": "2026-04-30T23:30:21Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.25,
+      "price_out": 2.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Grok 4.3 is a reasoning model from xAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
+      "description_zh": "Grok 4.3 是 xAI 的推理模型。它接受文本和图像输入以及文本输出，适用于代理工作流程、遵循指令的任务以及需要高事实性的应用程序..."
     }
   ]
 }

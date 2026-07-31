@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:14:38.135Z",
+  "generated_at": "2026-07-31T20:57:28.172Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -46,7 +46,7 @@
       "price_in": 0.58,
       "price_out": 1.44,
       "is_free": false,
-      "supports_tools": false,
+      "supports_tools": true,
       "supports_reasoning": true,
       "description": "Inkling Small is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 12B active parameters out of 276B total. It is positioned as the smaller, more efficient member of...",
       "description_zh": "Inkling Small 是 Thinking Machines Lab 的开放权重多模态专家混合模型，共有 276B 个主动参数，其中有 12B 个。它被定位为更小、更高效的成员......"

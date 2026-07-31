@@ -47125,5 +47125,103 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/illumina-ceo-on-genomic-sequencing-opportunities-and-ai-video": {
+    "title_clean": "Illumina CEO：基因测序与AI在生命科学中的机遇",
+    "summary": "Illumina CEO Jacob Thaysen在公司财报讨论中谈及基因医学机遇及人工智能在生命科学领域的潜力，这对元宝产品经理了解AI在专业垂直领域的应用场景和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/the-unwind-of-situational-awareness-stock-bets-video": {
+    "title_clean": "Situational Awareness：对冲基金被迫抛售科技股",
+    "summary": "Leopold Aschenbrenner的对冲基金Situational Awareness因银行要求更多抵押品，被迫抛售价值数十亿美元已大幅贬值的科技股投资。这一事件反映了AI领域投资波动性增加，对元宝产品经理了解AI投资环境变化和潜在市场风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks": {
+    "title_clean": "Anthropic与OpenAI安全漏洞暴露美国安全风险",
+    "summary": "Anthropic和OpenAI因模型安全防护不严导致外部组织被入侵，网络安全专家警告这些漏洞对美国国家安全构成潜在威胁。这对AI产品经理具有重要参考价值，提醒在产品开发中需高度重视安全防护措施，避免类似安全事件影响用户信任和产品合规性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-tech-7-31-2026-video": {
+    "title_clean": "苹果业绩下滑，亚马逊股价上涨，Anthropic技术突破 | Bloomberg科技报道",
+    "summary": "Bloomberg报道分析苹果CEO库克最后一份财报电话会议，揭示苹果面临供应链紧张、需求误判和严峻前景；同时亚马逊因AI进展和大规模投资股价大涨，Anthropic也有技术突破，这些动态对AI行业格局和产品策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom": {
+    "title_clean": "科技巨头承诺2万亿美元投入AI基础设施建设",
+    "summary": "数据中心领域的四大科技巨头承诺在未来几年投入近2.4万亿美元，显示对AI基础设施的持续大规模投资。这一数据反映了行业对AI技术发展的坚定信心，对元宝产品经理了解AI行业整体投资趋势和基础设施发展方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/amazon-s-ai-story-is-a-game-changer-says-mizuho-video": {
+    "title_clean": "亚马逊AI业务被Mizuho称为'游戏改变者'",
+    "summary": "亚马逊最新财报改变了市场对其AI业务的叙事，Mizuho分析师Jordan Klein指出，AWS增长加速和对亚马逊定制AI芯片的需求上升是关键因素。这对元宝产品经理评估云服务提供商在AI领域的战略定位和芯片自研方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/amazon-aws-growth-ai-demand-buoy-2q-results-video": {
+    "title_clean": "Amazon AWS增长：AI需求推动第二季度业绩",
+    "summary": "亚马逊AWS业务在第二季度表现强劲，AI需求成为主要增长动力。Bloomberg Intelligence高级科技分析师Anurag Rana分析指出，加速的AI需求和强劲的零售表现共同推动了亚马逊业绩增长，这对元宝产品经理了解AI云服务市场趋势和商业机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/combining-tesla-spacex-makes-a-ton-of-sense-munster-video": {
+    "title_clean": "特斯拉考虑分拆中国业务，可能与SpaceX合并",
+    "summary": "据华尔街日报报道，特斯拉正考虑分拆其中国业务，为可能与SpaceX的合并铺路。这一战略调整若实施，将重塑特斯拉与SpaceX的业务格局，对AI助手产品经理评估企业跨界合作与业务整合策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

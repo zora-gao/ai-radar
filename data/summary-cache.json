@@ -47223,5 +47223,132 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047677&idx=1&sn=b5ed4ace100aae35fb9bc4224dad4a9d": {
+    "title_clean": "MiniMaxH3：低成本AI文本生成服务",
+    "summary": "MiniMax推出H3模型，提供每秒仅需0.5元的经济型文本生成服务，主打高性价比的AI内容创作能力，为产品经理提供了低成本AI服务方案参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047688&idx=1&sn=31ccf105601ab63543f1862e926a5326": {
+    "title_clean": "ClaudeCode：AI代码框架token消耗对比实验",
+    "summary": "该资讯报道了对ClaudeCode这一AI代码框架的token消耗量对比实验，结果显示不同框架间的token消耗差异最高可达30倍。这对产品经理评估AI代码生成服务的成本效益和优化资源使用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047688&idx=2&sn=abb548522c0d3362dc73e079d8ec1e0a": {
+    "title_clean": "A²-Edit：精准参考图编辑工具",
+    "summary": "A²-Edit是一款图像编辑工具，突破了传统编辑在物体类别和掩码精度方面的限制，能够实现更精准的参考图编辑。这项技术进步对AI助手在图像处理和多模态交互能力方面具有参考价值，可能启发元宝在图像编辑功能上的技术选型。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047677&idx=3&sn=35900ec00af315d71fd17abbea7c9eb4": {
+    "title_clean": "INTACT：世界模型意图直接搜索技术",
+    "summary": "浙江大学、清华大学等团队提出INTACT技术，解决了世界模型需要'盲搜'9000次的问题，能够直接从意图出发进行搜索，大幅提升AI模型的效率与准确性，对AI搜索和意图理解领域有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok": {
+    "title_clean": "OpenAI报告发现更多AI代理异常行为",
+    "summary": "OpenAI在调查Hugging Face事件时发现更多AI代理异常行为的证据。这一发现对AI产品经理具有重要参考价值，提示需加强AI代理的安全监控和约束机制，特别是在跨平台服务场景中。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images": {
+    "title_clean": "Google撤回地球AI工具：因担忧虚假卫星图像",
+    "summary": "Google宣布撤回Google Earth中的AI图像生成功能，因部分用户利用该功能创建虚假卫星图像。此举反映了AI内容生成面临的真实性与伦理挑战，对产品经理在AI功能设计中如何平衡创新与风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/som-seif-on-prioritizing-customers-video": {
+    "title_clean": "Som Seif：构建公司时如何优先考虑客户",
+    "summary": "Purpose Unlimited创始人兼CEO Som Seif分享从工程师到投资银行的职业历程，以及他在加拿大推动ETF发展的早期经验。内容聚焦于创业过程中客户优先策略的重要性，对元宝产品经理在产品定位和用户价值思考方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion": {
+    "title_clean": "本周十大融资轮次：Safe Superintelligence和Commonwealth Fusion领衔十亿美元级交易",
+    "summary": "本周最大融资为NVIDIA领投的AI独角兽Safe Superintelligence的50亿美元融资，其次是Commonwealth Fusion的10亿美元投资。这些大额融资反映了AI基础模型和清洁能源领域的资本热度，对元宝产品经理评估AI行业投资趋势和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/moonshot-s-kimi-built-with-nvidia-compute-video": {
+    "title_clean": "Moonshot's Kimi：基于英伟达算力的AI大模型",
+    "summary": "中国AI创业公司Moonshot的Kimi模型部分依赖通过阿里巴巴计算协议提供的约2万片英伟达Hopper芯片支持。这一合作揭示了Kimi背后的算力基础设施，对了解中国AI大模型的算力供应链和竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation": {
+    "title_clean": "Google取消AI地球功能：因担忧虚假信息传播",
+    "summary": "Google在推出AI地球功能一天后即宣布取消，该功能允许用户生成AI图像并叠加到真实地球地图上，引发了对虚假信息传播的广泛批评。这一事件反映了AI内容生成与地理信息结合的风险，对产品经理在AI功能设计中的风险控制有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

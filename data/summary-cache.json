@@ -46803,5 +46803,104 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year": {
+    "title_clean": "SpaceX延迟移除xAI未获许可的风力发电机",
+    "summary": "SpaceX正在为xAI的Colossus数据中心建设新发电厂，但将推迟移除现有的未获许可风力发电机，这一延迟将持续一年以上。这反映了大型AI基础设施项目面临的许可和能源供应挑战，对元宝产品经理了解AI巨头的基础设施规划和能源管理策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code": {
+    "title_clean": "OpenAI：与欧盟AI法案GPAI准则对齐安全实践",
+    "summary": "OpenAI详细阐述了如何将安全、透明度工作与欧盟AI法案的GPAI准则对齐，表明公司已参与并支持欧盟的通用人工智能规范。这对元宝产品经理了解全球AI监管趋势和合规要求具有重要参考价值，特别是在产品安全设计和国际市场准入方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/ai-wunderkind-s-hedge-fund-unravels": {
+    "title_clean": "AI天才对冲基金崩盘：24岁AI投资新星因杠杆和保证金要求被迫抛售科技股",
+    "summary": "24岁的AI投资天才曾成为市场最具影响力的投资者之一，但由于过度使用杠杆和面临保证金要求，被迫抛售价值数十亿美元的科技股。这一事件对AI投资领域和风险管理具有重要参考价值，提醒AI产品经理关注AI系统在金融领域的风险控制能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human": {
+    "title_clean": "Smallest.ai：超拟人化语音AI电话助手",
+    "summary": "Smallest.ai获1300万美元融资，开发超快语音AI模型，旨在让AI电话通话通过图灵测试，实现高度拟人化的语音交互体验，为AI电话客服场景提供技术突破。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/kospi-surges-18-on-ai-optimism-video": {
+    "title_clean": "韩国Kospi指数因AI乐观情绪上涨18%",
+    "summary": "韩国Kospi指数因芯片制造商反弹而上涨18%，创下历史性涨幅，科技股集体上涨。这反映了市场对AI技术前景的乐观预期，对元宝产品经理了解AI行业投资趋势和市场信心有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/china-s-minimax-and-bytedance-release-dueling-ai-video-models": {
+    "title_clean": "中国MiniMax与字节跳动发布竞争性AI视频模型",
+    "summary": "MiniMax与字节跳动在数小时内相继更新其AI视频生成模型，这凸显了中国在AI视频生成领域的领先地位和激烈竞争。这对元宝产品经理了解中国AI视频生成技术发展动态和竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/proto-labs-lifts-guidance-on-new-data-center-defense-clients": {
+    "title_clean": "Proto Labs：数据中心与国防客户业务增长",
+    "summary": "Proto Labs公司因注塑业务复苏和新数据中心客户增长，业绩达到七年高点，上调全年业绩预期。这对元宝产品经理了解企业级AI服务在制造业的应用场景和客户拓展策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-31/engie-flags-lower-renewable-additions-due-to-slow-us-permitting": {
+    "title_clean": "Engie：美国可再生能源项目许可放缓",
+    "summary": "法国能源公司Engie SA表示，由于特朗普政府在美国发放可再生能源项目许可的速度放缓，其可再生能源和电池存储业务的增长将暂时放缓。这一情况反映了政策变化对清洁能源项目实施的影响，对元宝产品经理了解能源行业政策环境变化及其对清洁能源项目的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

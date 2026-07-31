@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T13:48:58.813Z",
+  "generated_at": "2026-07-31T15:58:32.158Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -25,6 +25,31 @@
       "supports_reasoning": true,
       "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows.",
       "description_zh": "DeepSeek V4 Flash 0731 是 DeepSeek 的稀疏专家混合模型，总共 284B 个活动参数，其中有 13B 个。这种经过重新训练的修订版适用于编码、推理和代理工作流程。"
+    },
+    {
+      "id": "thinkingmachines/inkling-small",
+      "name": "Inkling Small",
+      "vendor": "Thinkingmachines",
+      "vendor_slug": "thinkingmachines",
+      "url": "https://openrouter.ai/thinkingmachines/inkling-small-20260730",
+      "created_at": "2026-07-30T20:25:17Z",
+      "context_length": 524288,
+      "modality": "text+image+audio->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.58,
+      "price_out": 1.44,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Inkling Small is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 12B active parameters out of 276B total. It is positioned as the smaller, more efficient member of...",
+      "description_zh": "Inkling Small 是 Thinking Machines Lab 的开放权重多模态专家混合模型，共有 276B 个主动参数，其中有 12B 个。它被定位为更小、更高效的成员......"
     },
     {
       "id": "qwen/qwen3.7-flash",
@@ -1444,33 +1469,6 @@
       ],
       "price_in": 1.5,
       "price_out": 9,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemini 3.5 Flash is Google's high-efficiency multimodal model, bringing near-Pro level coding and reasoning at Flash-tier cost and speed. It is highly optimized for coding proficiency and parallel agentic execution...",
-      "description_zh": "Gemini 3.5 Flash 是 Google 的高效多模式模型，以 Flash 级别的成本和速度带来接近 Pro 级别的编码和推理。它针对编码能力和并行代理执行进行了高度优化......"
-    },
-    {
-      "id": "google/gemini-3.5-flash:batch",
-      "name": "Gemini 3.5 Flash (batch)",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-3.5-flash-20260519",
-      "created_at": "2026-05-19T12:30:00Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.75,
-      "price_out": 4.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

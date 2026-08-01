@@ -47624,5 +47624,30 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps": {
+    "title_clean": "法院拒绝xAI请求阻止明尼苏达州'换脸'应用禁令",
+    "summary": "xAI起诉未能阻止明尼苏达州禁止允许用户'换脸'应用的禁令，该禁令将正式实施。这反映了AI生成内容监管趋势，对产品经理评估合规边界和内容安全策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy": {
+    "title_clean": "YouTuber Hank Green：反思AI使用过度依赖问题",
+    "summary": "知名YouTuber Hank Green公开反思自己对大型语言模型(LLMs)的过度依赖，称从AI交互中获得的多巴胺水平'不健康'，并对世界产生负面影响。这反映了AI使用中的潜在成瘾风险和伦理问题，对产品经理设计健康AI交互模式有警示价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

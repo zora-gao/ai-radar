@@ -47599,5 +47599,17 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps": {
+    "title_clean": "AppLock：物理NFC钥匙锁定应用工具",
+    "summary": "这是一款售价9美元的NFC物理钥匙，需要用户扫描才能解锁手机上的干扰应用，旨在帮助用户减少手机使用时间，提高专注力。产品经理可参考其物理干预机制在数字健康管理场景中的应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

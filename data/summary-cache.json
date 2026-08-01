@@ -47350,5 +47350,66 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047571&idx=1&sn=6495a253edb8987a4b26ec66390e8960": {
+    "title_clean": "李飞飞SimFoundry与Real2Sim技术对比",
+    "summary": "李飞飞团队推出的SimFoundry是一个模拟框架，而Real2Sim技术提供了更多方法。这反映了AI领域在模拟与真实世界数据融合方面的技术发展，对元宝产品经理在AI训练数据获取和模型优化方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047571&idx=2&sn=9ae40b52aec4acbe4566b3262b6d6a83": {
+    "title_clean": "0人公司实验：让GPT自主经营24小时亏损447美元",
+    "summary": "一项实验让GPT自主经营一家公司，24小时内亏损447美元，展示了AI自主决策在商业运营中的挑战与局限性，为AI助手商业化路径提供了反面案例参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/masters-in-business-with-som-seif-video": {
+    "title_clean": "金融科技创新：从工程师到投资银行家的创业历程",
+    "summary": "本文讲述了Purpose Unlimited创始人兼CEO Som Seif从工程师转型投资银行家，并在加拿大推动ETF发展的创业历程。对元宝产品经理的参考价值在于了解金融科技领域的创新路径和商业模式转型，可能启发AI助手在金融服务场景中的应用思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them": {
+    "title_clean": "印度应用市场开始转向付费模式",
+    "summary": "印度应用市场在第二季度创造了3.45亿美元的创纪录收入，表明用户从免费下载转向付费购买应用的趋势正在形成。这对元宝产品经理了解新兴市场用户付费意愿和商业化策略有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-31/the-close-7-31-2026-video": {
+    "title_clean": "美股收涨结束动荡月份 | 彭博电视市场分析",
+    "summary": "彭博电视报道美股在7月最后一个交易日收涨，结束动荡月份。节目聚焦华尔街收盘前后的最新新闻与分析，特邀瑞银美国利率策略负责人解读市场走势，为投资者提供专业视角。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

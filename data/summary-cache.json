@@ -47448,5 +47448,144 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/essaykraft": {
+    "title_clean": "EssayKraft：Mac与iPad原生论文写作应用",
+    "summary": "EssayKraft是一款专为Mac和iPad设计的原生论文写作应用，专注于提供本地化的写作体验。对于元宝产品经理而言，这反映了AI写作工具在特定平台上的垂直化趋势，值得考察其功能设计和用户交互方式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/deepseek": {
+    "title_clean": "DeepSeek-V4-Flash-0731：前沿智能代理模型",
+    "summary": "DeepSeek发布V4-Flash-0731模型，提供前沿智能代理能力，价格定位为Flash级别，可能降低企业使用高级AI代理的门槛，对产品经理评估成本与性能平衡有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/terminalwidget": {
+    "title_clean": "TerminalWidget：桌面脚本输出小工具",
+    "summary": "TerminalWidget允许用户将脚本输出直接显示在桌面或主屏幕的小组件中，提供了一种便捷的方式在设备表面展示命令行或自动化脚本的结果，有助于产品经理思考如何将技术功能转化为用户可见的界面元素。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentmicro": {
+    "title_clean": "AgentMicro：macOS菜单栏实时代码任务状态工具",
+    "summary": "AgentMicro是一款macOS工具，可在菜单栏实时显示代码任务状态，帮助开发者快速了解编程任务进度，提升工作效率。对于元宝产品经理而言，此类轻量级AI辅助工具展示了如何将AI能力融入日常开发场景，值得参考其简洁交互设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/syncstaq": {
+    "title_clean": "SyncStaq：Stripe计费数据同步工具",
+    "summary": "SyncStaq是一款工具，可将Stripe的计费数据实时同步到Google Sheets中，确保财务数据始终保持最新状态。产品经理可参考其数据同步方案，为元宝设计与第三方支付系统的数据对接功能，提升财务数据管理效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/port22": {
+    "title_clean": "Port22：手机端Claude代码助手工具",
+    "summary": "Port22是一款手机应用，允许用户在移动设备上使用Claude Code、Codex等AI编程助手，为开发者提供便捷的移动端代码生成与辅助功能，有助于元宝拓展移动端AI编程服务场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nudgeforme": {
+    "title_clean": "NudgeForMe：邮件跟进AI助手",
+    "summary": "NudgeForMe是一款AI跟进助手，专门处理错过的邮件机会，自动跟进未回复的邮件，帮助用户提高邮件回复率和商业机会转化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents": {
+    "title_clean": "Kopai：AI代理知识变现平台",
+    "summary": "Kopai是一个让用户分享专业知识并通过AI代理为他人提供服务的平台，用户可以通过分享自己的专长让AI代理代为服务并获取收益。这种模式为知识变现提供了新思路，对元宝探索AI代理商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yamanote-3d": {
+    "title_clean": "Yamanote 3D：东京山手线3D模拟体验",
+    "summary": "Yamanote 3D是一款将东京山手线地铁系统转化为3D虚拟世界的应用，用户可在其中体验山手线的运行。这展示了AI在交通模拟和虚拟旅游场景的应用潜力，为元宝在多模态交互和虚拟体验场景开发提供了参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tandem-11": {
+    "title_clean": "Tandem：AI办公空间租赁经纪平台",
+    "summary": "Tandem是一个AI驱动的办公空间租赁经纪平台，利用AI技术优化商业地产租赁流程，为企业提供更高效的办公空间解决方案。该产品展示了AI在商业地产服务场景中的应用，对元宝在B端服务场景拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/ten-advances-in-mathematics": {
+    "title_clean": "OpenAI：数学与理论计算机科学领域取得突破",
+    "summary": "OpenAI在数学和理论计算机科学领域取得新进展，解决了长期存在的开放问题，涉及几何学、密码学和复杂性理论等领域。这些成果可能为AI在数学推理和复杂问题解决方面的能力提供新思路，对元宝产品在数学辅助和复杂问题处理功能开发有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -47411,5 +47411,42 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047677&idx=2&sn=0587314f59ea555680c09d5ff41856be": {
+    "title_clean": "DeepSeek-V4-Flash正式版发布",
+    "summary": "DeepSeek-V4-Flash正式版发布，这是DeepSeek公司推出的最新AI模型版本。作为一款大语言模型更新，其性能和效率提升对AI助手产品经理具有参考价值，可能影响竞品动态和用户需求变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-01/can-africa-power-the-ai-boom-video": {
+    "title_clean": "非洲能否推动AI繁荣？",
+    "summary": "Teraco CEO探讨非洲成为数据中心关键目的地的原因，分析云基础设施发展趋势，强调能源和可持续性将决定非洲在AI产业中的地位。对元宝产品经理了解全球AI基础设施布局和新兴市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047571&idx=3&sn=021130aee02036ff3b28128319ac9048": {
+    "title_clean": "北大团队提出AgentHOI：大模型无需标注即可理解人-物交互",
+    "summary": "北大团队在ECCV2026上提出AgentHOI技术，使大模型无需任何人-物交互(HOI)标注数据即可理解图像中的人物与物体交互关系，这为AI视觉理解能力提供了新思路，对提升多模态模型在复杂场景下的理解能力有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

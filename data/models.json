@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-01T16:54:03.415Z",
+  "generated_at": "2026-08-01T18:59:53.788Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "~deepseek/deepseek-v4-flash-latest",
+      "name": "DeepSeek V4 Flash Latest",
+      "vendor": "DeepSeek",
+      "vendor_slug": "deepseek",
+      "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
+      "created_at": "2026-08-01T17:40:09Z",
+      "context_length": 1048576,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.09,
+      "price_out": 0.18,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "This model always redirects to the latest model in the DeepSeek V4 Flash family.",
+      "description_zh": "此模型始终重定向到 DeepSeek V4 Flash 系列中的最新模型。"
+    },
     {
       "id": "deepseek/deepseek-v4-flash-0731",
       "name": "DeepSeek V4 Flash 0731",
@@ -1445,31 +1468,6 @@
       "supports_reasoning": false,
       "description": "GPT Chat Latest points to OpenAI's stable API alias chat-latest that always resolves to the latest Instant chat model used in ChatGPT. As OpenAI rolls out new Instant model updates...",
       "description_zh": "GPT Chat Latest 指向 OpenAI 的稳定 API 别名 chat-latest，它始终解析为 ChatGPT 中使用的最新即时聊天模型。随着 OpenAI 推出新的 Instant 模型更新......"
-    },
-    {
-      "id": "x-ai/grok-4.3",
-      "name": "Grok 4.3",
-      "vendor": "xAI",
-      "vendor_slug": "x-ai",
-      "url": "https://openrouter.ai/x-ai/grok-4.3-20260430",
-      "created_at": "2026-04-30T23:30:21Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1.25,
-      "price_out": 2.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Grok 4.3 is a reasoning model from xAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
-      "description_zh": "Grok 4.3 是 xAI 的推理模型。它接受文本和图像输入以及文本输出，适用于代理工作流程、遵循指令的任务以及需要高事实性的应用程序..."
     }
   ]
 }

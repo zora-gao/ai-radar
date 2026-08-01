@@ -47649,5 +47649,91 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047745&idx=1&sn=30f44b4b00be917356b7c48da45f84d1": {
+    "title_clean": "OpenAI全新模型Astra曝光",
+    "summary": "OpenAI曝光了全新模型Astra，具体功能和细节尚未公布。作为OpenAI的最新模型，Astra可能代表了AI技术的前沿进展，对产品经理关注AI模型迭代方向和竞品动态具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047761&idx=1&sn=6c5e16bb714dfbaaf33f45678ab88bb7": {
+    "title_clean": "ICLR新规遭DeepMind研究者「反讽」请愿",
+    "summary": "ICLR会议限制每人最多提交20篇论文的新规引发DeepMind研究者集体反讽请愿，反映AI研究领域对论文数量限制的不满，可能影响AI研究者的工作方式和学术产出，对AI产品经理了解行业研究生态变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047745&idx=3&sn=6ab2a6421cb435d13a631ff81646eea5": {
+    "title_clean": "JarvisHub：创作Agent出框工具",
+    "summary": "JarvisHub是一个让创作Agent突破传统聊天框限制的平台，可能扩展了AI创作工具的应用场景和交互方式，为元宝产品在Agent多场景应用方面提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047705&idx=1&sn=26503f42e9938b776f23fcfd53cab112": {
+    "title_clean": "物理AI如何成为下一个前沿？",
+    "summary": "本文探讨物理AI作为新兴技术前沿的发展趋势，分析其在物理世界中的应用潜力与挑战，对元宝产品经理了解AI技术拓展方向和未来产品布局具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-01/zepto-turns-to-private-funding-with-ipo-plans-on-hold-for-now": {
+    "title_clean": "Zepto：印度即时电商推迟IPO寻求私人融资",
+    "summary": "印度即时电商Zepto推迟IPO计划，未能达到预期估值，现转向主要投资者进行私人股份出售。这反映了快速电商领域估值调整趋势，对元宝在服务场景拓展和商业化路径上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047705&idx=2&sn=95e8b7c2e8fe999f3b2af1ffdb9f9461": {
+    "title_clean": "ICML2026：蒸馏模型作为采样器降低Diffusion RL成本",
+    "summary": "该研究提出将蒸馏模型作为采样器应用于Diffusion RL，成功将采样成本降低一个数量级。这一技术突破对AI训练效率有重要意义，可为元宝产品团队在模型优化和成本控制方面提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047704&idx=1&sn=a3b66b18ae6e5f1cb57a0bbb76856bd5": {
+    "title_clean": "ChatGPT成「杀猪盘」帮凶，OpenAI出手封禁柬埔寨诈骗网络",
+    "summary": "OpenAI封禁了利用ChatGPT进行柬埔寨诈骗活动的网络，显示AI工具可能被不法分子用于金融诈骗。这一事件提醒产品经理需关注AI安全与滥用防范，考虑在产品中增加内容审核与滥用检测机制。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

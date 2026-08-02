@@ -47760,5 +47760,92 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/finamie-know-your-money-for-real": {
+    "title_clean": "Finamie：语音记账与消费洞察工具",
+    "summary": "Finamie是一款语音记账工具，用户可通过语音记录支出并获得即时消费洞察。该产品通过语音交互简化记账流程，帮助用户快速了解消费习惯和财务状况，对元宝在语音交互和财务服务场景的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lumichats-offline": {
+    "title_clean": "Lumichats：Claude Code终端替代工具",
+    "summary": "Lumichats是一款免费工具，为不使用终端的用户提供Claude Code的替代方案。它简化了代码交互方式，适合不熟悉命令行的开发者使用，为元宝产品经理提供了AI工具简化用户交互的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/termexo": {
+    "title_clean": "Termexo：Claude Code 本地工作台",
+    "summary": "Termexo 是一款本地化 Windows 工作台，专为 Claude Code 和 Codex 设计，提供本地化编程环境支持。这对元宝产品经理有参考价值，因为它展示了 AI 编程助手本地化部署的解决方案，可能启发元宝在本地化编程支持方面的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/capptivo": {
+    "title_clean": "Capptivo：开源屏幕录制与演示编辑工具",
+    "summary": "Capptivo是一款免费开源的屏幕录制与演示编辑工具，可帮助用户轻松录制屏幕内容并进行编辑制作演示。对于产品经理而言，这类工具可能被用于产品演示录制、用户教程制作或内部协作，是AI助手产品中屏幕理解与交互功能的潜在参考方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zen-whisper": {
+    "title_clean": "Zen Whisper：Mac端语音输入工具",
+    "summary": "Zen Whisper是一款在Mac设备上运行的语音输入工具，能够将语音内容直接输入到任何应用程序中，为用户提供便捷的语音输入解决方案，对元宝产品经理在语音交互和跨应用输入功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/timeos-ultimate-task-manager-for-pro": {
+    "title_clean": "TimeOS 2.0：AI任务管理与计费工具",
+    "summary": "TimeOS 2.0是一款面向专业人士的任务管理与计费工具，帮助用户高效管理任务并自信地向客户计费。该产品对元宝产品经理有参考价值，因为它展示了AI在专业服务场景中的应用，可能启发元宝在任务管理、计费功能或专业服务场景方面的产品规划。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/freqwave-eq-browser-audio-equalizer": {
+    "title_clean": "FreqWave EQ：网页音频实时均衡器工具",
+    "summary": "FreqWave EQ是一款网页音频实时均衡器工具，允许用户自定义网页音频的均衡设置。产品经理可参考其音频处理技术，为元宝增加网页音频增强功能，提升用户在浏览网页时的音频体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

@@ -47922,5 +47922,95 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047784&idx=3&sn=a74f56e85f789beb84b93367d0759674": {
+    "title_clean": "Stream3D：哈佛MIT港科大联合开发的流式3D重建与生成技术",
+    "summary": "哈佛大学、麻省理工学院与香港科技大学合作开发了Stream3D技术，实现了从'看见'到'补全'的流式3D重建与生成。这项技术能够实时处理3D数据流，为AI助手在空间理解、虚拟场景构建和多模态交互方面提供了新的技术路径，对元宝在3D内容生成和空间感知能力上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047781&idx=1&sn=c88565be9e170643f5408f13cd447b28": {
+    "title_clean": "「触觉」会是具身智能感知世界的最后一块拼图吗?",
+    "summary": "探讨触觉在具身智能中的关键作用，分析触觉感知如何帮助AI系统更全面地理解物理世界，为AI产品设计提供新的感知维度参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047784&idx=1&sn=598a3d591b08cc4d5a1b71ed5d257b48": {
+    "title_clean": "小模型突破：单卡训练100M参数内最佳模型",
+    "summary": "该研究声称仅使用一张显卡就训练出了100M参数规模内性能最优的小型语言模型，这可能对元宝等AI助手产品的轻量化部署和成本优化具有重要参考价值，特别是在资源受限的场景下。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047771&idx=2&sn=b20f64a7e2260d059b63017fa4d4d8f1": {
+    "title_clean": "5万条网页众源轨迹：AXIS基准测试机器人模型训练效果",
+    "summary": "AXIS基准测试通过5万条网页众源轨迹数据，评估机器人模型训练效果，为AI助手在网页操作、自动化任务等场景提供模型优化参考，对产品经理了解AI Agent能力边界有重要价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-02/ai-is-turning-retail-traders-into-diy-hedge-funds": {
+    "title_clean": "AI工具赋能散户交易者：打造个人对冲基金",
+    "summary": "新型AI工具正促使散户交易者尝试创建自动化交易系统，模拟对冲基金策略。这一趋势反映了AI在金融服务领域的应用扩展，为元宝产品经理提供了AI赋能普通用户实现专业级服务的场景参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-02/netflix-looks-to-add-hot-ones-to-its-growing-stable-of-youtube-hits": {
+    "title_clean": "Netflix寻求收购YouTube热门节目《Hot Ones》",
+    "summary": "Netflix正尝试将YouTube热门美食访谈节目《Hot Ones》纳入其内容库，这是其获取顶级YouTube创作者内容战略的一部分。此举反映了流媒体平台与传统视频平台之间的内容竞争加剧，对元宝产品经理理解内容平台合作模式与创作者生态有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate": {
+    "title_clean": "Sam Altman与AI发展减速辩论",
+    "summary": "Sam Altman呼吁行业放缓AI发展速度，这一表态反映了AI行业对技术发展速度的反思，对产品经理评估技术路线和产品节奏具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

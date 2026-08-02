@@ -47735,5 +47735,30 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047761&idx=2&sn=6733c3b27b70bf3f3cf2abe090b0fecb": {
+    "title_clean": "生成模型实现端到端训练：基于for循环的核心方法",
+    "summary": "该研究提出了一种通过for循环实现生成模型端到端训练的新方法，突破了传统训练方式的限制。这一技术进展可能简化AI模型训练流程，提高训练效率，对元宝产品团队优化模型训练架构具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047745&idx=2&sn=4670f2f83ab1a9ae3642279256c02a8e": {
+    "title_clean": "Mac运行Kimi K3：128GB内存支持1.6TB模型权重",
+    "summary": "技术爱好者成功在Mac设备上运行Kimi K3大模型，通过128GB内存硬塞1.6TB权重，展示了本地化运行大模型的可能性，为AI产品经理提供了关于模型轻量化与本地部署的技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

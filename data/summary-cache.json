@@ -48420,5 +48420,128 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt": {
+    "title_clean": "ChatGPT：美国国会首选AI办公工具",
+    "summary": "OpenAI的ChatGPT在美国国会大厦占据主导地位，成为付费AI工具的首选。国会办公室依赖该聊天机器人起草备忘录、总结立法内容并协助处理选民事务，展示了AI在政府办公场景中的实际应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ctruh-studio": {
+    "title_clean": "Ctruh Studio：无代码3D与XR交互创建工具",
+    "summary": "Ctruh Studio是一款无需编程即可创建交互式3D和XR(扩展现实)体验的平台，为元宝产品经理提供AI多模态交互与虚拟场景构建的新思路，可能启发AI助手在三维空间中的交互能力拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/mark-penn-ai-won-t-replace-agencies-video": {
+    "title_clean": "Mark Penn：AI助力营销公司赢得全球客户",
+    "summary": "Stagwell CEO Mark Penn在Bloomberg节目中表示，AI正帮助这家营销挑战者赢得全球大客户，实现更精准的目标定位和更快速的内容生产，展示了AI在营销服务领域的实际应用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-03/falconx-cuts-staff-on-extended-downturn-in-crypto-markets": {
+    "title_clean": "FalconX：加密货币经纪公司裁员应对市场低迷",
+    "summary": "加密货币经纪公司FalconX在全球范围内裁员10%，以应对加密货币市场的长期低迷。这一裁员反映了加密行业当前面临的挑战，对元宝产品经理了解金融科技领域在市场波动下的业务调整策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-03/robinhood-private-company-fund-to-back-y-combinator-startups": {
+    "title_clean": "Robinhood：YC初创企业投资基金",
+    "summary": "Robinhood推出第二支公开交易封闭式基金，专门投资曾参与YC创业加速器的初创公司。这反映了Robinhood向金融服务多元化扩展的战略，对元宝产品经理了解金融科技巨头如何通过投资布局AI服务生态具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/japanese-yen-surges-after-washington-steps-in-video": {
+    "title_clean": "日元汇率干预：美日联合干预15年来首次",
+    "summary": "美日官员联合干预外汇市场，为15年来首次共同行动，明确表示决心捍卫日元汇率。这一行动导致日元汇率大幅上涨，反映了两国对日元贬值的担忧和干预决心，对国际金融市场和跨境交易有重要影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/gary-cohn-says-warsh-is-reverting-fed-to-historic-norms-video": {
+    "title_clean": "Warsh将美联储恢复至历史常态，Gary Cohn评论市场反应",
+    "summary": "IBM副总裁Gary Cohn评论美联储主席Kevin Warsh的政策调整，指出市场已'习惯于预测美联储行动'，分析Warsh如何将美联储恢复至历史常态及其对市场的影响。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-03/spacex-investors-want-to-quiz-elon-musk-about-a-potential-tesla-merger": {
+    "title_clean": "SpaceX投资者希望质询马斯克关于潜在特斯拉合并事宜",
+    "summary": "SpaceX投资者希望与马斯克就潜在特斯拉合并的可能性进行质询，引发市场对两家公司未来整合的猜测。这一动态可能影响电动汽车和航天科技领域的商业格局，对产品经理关注行业巨头战略方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt": {
+    "title_clean": "Siri AI 与新版 ChatGPT 对比分析",
+    "summary": "苹果将于今年秋季为 Siri 引入 AI 功能，本文对比了 Siri 与 ChatGPT 在写作、网络搜索、个人数据和生产力方面的差异。这对元宝产品经理了解传统语音助手与新型 AI 助手的竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/alignment-multimodal-llms": {
+    "title_clean": "多模态大语言模型对齐研究：全面解析偏好对齐技术",
+    "summary": "该研究探讨了偏好对齐在提升大语言模型性能中的关键作用，并分析了其对多模态大语言模型的影响。作为元宝产品经理，此研究有助于理解多模态AI系统的对齐技术发展，为优化产品交互体验和模型表现提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

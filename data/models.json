@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-08-03T14:24:01.632Z",
+  "generated_at": "2026-08-03T17:45:39.043Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "qwen/qwen3.8-max",
+      "name": "Qwen3.8 Max",
+      "vendor": "Qwen",
+      "vendor_slug": "qwen",
+      "url": "https://openrouter.ai/qwen/qwen3.8-max-20260803",
+      "created_at": "2026-08-03T04:33:32Z",
+      "context_length": 1000000,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 6,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Qwen3.8 Max is the flagship model in Alibaba's Qwen3.8 series, the general-availability successor to the Qwen3.8 Max Preview. It is a multimodal reasoning model intended for complex reasoning, visual understanding,...",
+      "description_zh": "Qwen3.8 Max是阿里巴巴Qwen3.8系列的旗舰机型，是Qwen3.8 Max预览版的全面上市后继产品。它是一个多模态推理模型，旨在用于复杂推理、视觉理解……"
+    },
     {
       "id": "~deepseek/deepseek-v4-flash-latest",
       "name": "DeepSeek V4 Flash Latest",
@@ -946,8 +971,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.696,
-      "price_out": 2.187,
+      "price_in": 0.629,
+      "price_out": 1.976,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1443,31 +1468,6 @@
       "supports_reasoning": true,
       "description": "Gemini 3.1 Flash Lite is Google’s GA high-efficiency multimodal model optimized for low-latency, high-volume workloads. It supports text, image, video, audio, and PDF inputs, and is designed for lightweight agentic...",
       "description_zh": "Gemini 3.1 Flash Lite 是 Google 的 GA 高效多模式模型，针对低延迟、大容量工作负载进行了优化。它支持文本、图像、视频、音频和 PDF 输入，专为轻量级代理而设计..."
-    },
-    {
-      "id": "openai/gpt-chat-latest",
-      "name": "GPT Chat Latest",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-chat-latest-20260505",
-      "created_at": "2026-05-05T16:56:52Z",
-      "context_length": 400000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 30,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "GPT Chat Latest points to OpenAI's stable API alias chat-latest that always resolves to the latest Instant chat model used in ChatGPT. As OpenAI rolls out new Instant model updates...",
-      "description_zh": "GPT Chat Latest 指向 OpenAI 的稳定 API 别名 chat-latest，它始终解析为 ChatGPT 中使用的最新即时聊天模型。随着 OpenAI 推出新的 Instant 模型更新......"
     }
   ]
 }

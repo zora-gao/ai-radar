@@ -48208,5 +48208,217 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/the-garden-of-mind": {
+    "title_clean": "The Garden of Mind：潜意识思维可视化工具",
+    "summary": "一款将潜意识思维可视化为3D花园的应用，用户可以通过日常\"浇灌\"来培育和管理自己的潜意识思维。这款产品为元宝产品经理提供了AI在心理健康和自我认知领域的新应用场景参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/murmell": {
+    "title_clean": "Murmell：团队与AI协作文画布工具",
+    "summary": "Murmell是一个云端协作平台，允许团队成员和AI代理共同在画布上工作，提供实时协作环境，可能支持AI辅助创作和团队项目管理，对元宝产品经理在AI协作场景设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mpai": {
+    "title_clean": "mpai：AI编程协作工具",
+    "summary": "mpai是一款工具，可将现有的Codex和Claude Code编程会话转变为多人协作模式，使AI编程助手支持实时多人协作，提升团队开发效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/open-minis": {
+    "title_clean": "Open Minis：手机端开源AI助手",
+    "summary": "Open Minis是一款运行在手机上的本地化AI助手，强调开放性与安全性。作为端侧AI Agent，它无需云端处理即可在设备上运行，为元宝产品经理提供了轻量化、隐私保护的AI助手实现思路参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/inventory": {
+    "title_clean": "Inventory：AI Agent与IDE对话搜索工具",
+    "summary": "Inventory是一款专门用于搜索AI Agent和IDE对话的工具，帮助用户快速查找和管理各类AI助手与集成开发环境中的对话内容，提高工作效率和信息检索能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentsky": {
+    "title_clean": "AgentSky：云托管AI代理服务",
+    "summary": "AgentSky提供云托管AI代理服务，支持接入任意工具和大型语言模型，可按需部署。产品经理可关注其多LLM集成与云托管架构，为元宝的Agent部署与扩展提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/coachai-fitness-coach": {
+    "title_clean": "CoachAI：iPhone摄像头健身动作指导工具",
+    "summary": "CoachAI是一款利用iPhone摄像头实时监测用户健身动作并提供指导的工具，通过AI分析用户的姿势和动作，帮助用户正确完成健身训练，提高训练效果并减少受伤风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/ibm-s-cohn-on-warsh-s-fed-yen-intervention-markets-video": {
+    "title_clean": "IBM高管Gary Cohn谈美联储政策与市场影响",
+    "summary": "IBM副董事长Gary Cohn评论美联储主席Kevin Warsh对美元政策的处理方式，指出市场已'对美联储决策产生依赖'，分析其市场反应及影响。对元宝产品经理了解宏观经济环境与AI服务市场关联性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/opinion-china-s-next-ai-race-goes-beyond-chatbots-video": {
+    "title_clean": "中国AI竞赛超越聊天机器人",
+    "summary": "彭博观点专栏指出，美国过度关注Kimi K3，而中国正推动AI从聊天机器人向物理世界拓展，这可能代表AI应用的新方向，对元宝的产品战略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis": {
+    "title_clean": "Menlo Ventures：AI投资浪潮与30亿美元新资本布局",
+    "summary": "Menlo Ventures合伙人Matt Murphy分享AI领域投资策略转变，包括为何AI推动其转向更大规模交易，从Anthropic合作中学到的经验，以及他看到的下一个重大机会。对元宝产品经理了解AI投资趋势和资本动向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/prysmian-strikes-deal-to-buy-us-electric-maker-atkore-video": {
+    "title_clean": "Prysmian收购美国电气制造商Atkore",
+    "summary": "意大利 Prysmian 公司以全现金方式收购美国电气制造商 Atkore，每股作价95美元，企业估值达。这是电线电缆行业的重要并购事件，反映了行业整合趋势，但对AI产品经理的直接参考价值有限。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data": {
+    "title_clean": "Why biological data matters more in AI drug discovery",
+    "summary": "GSK与英国生物技术公司Relation Therapeutics达成价值高达1.1亿美元的研究合作，扩展双方在AI辅助药物发现方面的现有工作。这表明生物数据在AI药物发现中的重要性日益增加，对AI在专业领域应用的产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-03/the-ai-domination-race-is-adding-to-us-china-tensions": {
+    "title_clean": "中美AI竞争加剧：美国采取措施限制中国AI发展",
+    "summary": "美国采取多种措施试图减缓中国在人工智能领域的进展，这一系列行动正在加剧中美之间的紧张关系。对于元宝产品经理而言，这反映了AI技术竞争的地缘政治背景，可能影响全球AI技术发展路径和市场格局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding": {
+    "title_clean": "DeepX：AI芯片设计公司获22亿美元融资",
+    "summary": "韩国AI芯片设计公司DeepX完成新一轮融资，估值达到22亿美元，是此前估值的大约四倍。这表明市场对AI芯片领域持续保持高度关注，对元宝产品经理了解AI基础设施投资趋势和芯片技术发展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-03/asml-supplier-zeiss-says-it-can-handle-demand-for-key-ai-parts": {
+    "title_clean": "ASML供应商Zeiss表示可满足关键AI零部件需求",
+    "summary": "德国半导体行业关键供应商Zeiss集团回应投资者对AI供应链瓶颈的担忧，表示有信心满足关键AI零部件的生产需求。这对元宝产品经理了解AI硬件供应链稳定性及潜在供应风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-03/china-s-wu-vows-further-expansion-of-market-links-to-hong-kong": {
+    "title_clean": "中国承诺进一步扩大与香港的市场连接",
+    "summary": "中国正与香港当局密切合作，通过增加人民币计价股票和房地产投资信托(REITs)来扩大沪深港通跨境交易机制。这一举措将深化两地金融市场互联互通，为跨境投资提供更多渠道，对元宝产品经理了解区域金融政策变化和潜在服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-03/apple-siri-ai-vs-chatgpt-which-ai-assistant-is-better": {
+    "title_clean": "Apple Siri AI vs. ChatGPT：两大AI助手对比分析",
+    "summary": "Apple即将在iOS 27中发布Siri AI，这将使其成为全球覆盖面最广的人工智能聊天机器人。该资讯对比分析了Apple Siri AI与ChatGPT两大助手的优劣，对元宝产品经理了解主流AI助手的竞争格局和用户选择具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

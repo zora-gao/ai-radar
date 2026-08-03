@@ -48012,5 +48012,44 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047784&idx=2&sn=d19fc8f179e9d1aba69a02da026e60db": {
+    "title_clean": "JeffDean：从TPU到自我进化Agent的AI发展路径",
+    "summary": "Jeff Dean分享了他对AI技术发展的见解，从TPU硬件创新到自我进化Agent的演进路径。这对元宝产品经理具有参考价值，有助于理解前沿AI技术发展方向和潜在的产品机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047781&idx=2&sn=bbbba3858744c2919e479dc75e022449": {
+    "title_clean": "清华团队VeriLoopCoder-E1开源：可验证的递归式自我改进AI编程模型",
+    "summary": "清华大学团队开源了VeriLoopCoder-E1模型，该模型采用循证螺旋方法实现可验证的递归式自我改进，为AI编程工具提供了新的技术路径，对元宝产品经理在AI编程助手领域的技术选型和功能设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047771&idx=1&sn=6de0567456896565988b0ca26c397304": {
+    "title_clean": "OpenAI下一代Astra：低成本开放问题突破模型",
+    "summary": "OpenAI发布新一代Astra模型，在10项开放问题测试中取得突破性进展，研发成本仅2000美元，显著降低高性能AI模型的研发门槛，为产品经理提供了低成本高性能AI模型的研发方向参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

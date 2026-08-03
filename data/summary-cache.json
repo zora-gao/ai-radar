@@ -48051,5 +48051,40 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video": {
+    "title_clean": "The Cyber Alchemist创始人谈AI网络安全风险",
+    "summary": "The Cyber Alchemist创始人兼首席信息安全官Ajoy Ghosh就近期黑客事件分享了企业应考虑的网络安全措施与解决方案，为AI产品在安全防护方面提供了专业视角。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-03/prysmian-strikes-deal-to-buy-us-electrical-maker-atkore": {
+    "title_clean": "Prysmian收购美国电气制造商Atkore",
+    "summary": "意大利 Prysmian 公司以全现金方式收购美国电气制造商 Atkore，这是一项企业并购交易，属于传统制造业领域，与AI助手、AI Agent或AI服务无直接关联，对元宝产品经理的参考价值有限。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance": {
+    "title_clean": "阿里巴巴发布Qwen3.8-Max AI模型，性能宣称与Anthropic相当",
+    "summary": "阿里巴巴推出其史上最大AI模型Qwen3.8-Max，宣称性能与全球领先企业Anthropic相当，这是中国AI领域最新突破，旨在挑战美国竞争对手。对元宝产品经理而言，这反映了中美AI技术竞争态势，以及中国大模型能力的快速提升，可能影响产品技术选型和竞争策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

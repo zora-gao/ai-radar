@@ -49090,5 +49090,79 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/modi-seeks-sweeping-tax-cuts-for-electronics-firms-global-funds": {
+    "title_clean": "印度寻求大幅削减电子企业税收以吸引全球投资",
+    "summary": "印度计划推动议会批准税收改革，以刺激外国投资和本地制造业发展。这一政策可能影响全球电子产业链布局，对元宝产品经理评估海外市场拓展和供应链策略具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers": {
+    "title_clean": "中国AI模型密集发布形成'死亡地带'，挤压美国竞争对手",
+    "summary": "中国AI企业密集发布新模型，迅速缩小与硅谷的技术差距，为缺乏前沿技术的竞争对手形成'死亡地带'。这一动态表明中国AI发展速度超预期，对全球AI竞争格局产生重大影响，元宝产品经理需关注中国AI技术突破对国际竞争态势的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-08-04/big-ai-bets-divide-venture-capital-leaving-smaller-funds-behind": {
+    "title_clean": "AI投资分歧：大型风投押注AI，小型基金被边缘化",
+    "summary": "风险投资机构Felix Capital去年计划筹集6亿美元基金，重点押注AI领域，而小型基金因资金规模限制难以参与大型AI项目投资，导致AI投资市场两极分化加剧，这对元宝产品经理了解AI投资趋势和资本动向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/alibaba-backed-3d-modeling-startup-vast-is-said-to-weigh-hk-ipo": {
+    "title_clean": "Vast：3D建模初创公司考虑香港IPO",
+    "summary": "Vast是一家获得阿里巴巴投资的3D建模初创公司，正考虑在香港进行首次公开募股。这一动向表明3D建模领域正获得资本市场关注，可能对元宝在3D内容生成和AR/VR应用方向的产品规划提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/portal-innovations-ceo-on-future-of-us-medical-research-video": {
+    "title_clean": "Portal Innovations CEO谈美国医疗研究未来：特朗普政府计划每年投入200亿美元",
+    "summary": "特朗普政府推进每年200亿美元的医疗研究资金计划，将重点支持个人科学家和私人研究机构，而非传统机构。Portal Innovations CEO分享了对这一政策变化的见解，可能影响AI在医疗研究领域的应用方向和投资机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651047963&idx=1&sn=27282fe131d4a5cd46a7032a701d2779": {
+    "title_clean": "机器人是具身大模型的「用户」：超维动力如何打通从人类经验到机器人行动？",
+    "summary": "探讨超维动力如何将人类经验转化为机器人行动，实现具身大模型与机器人的结合。这一技术突破可能为AI助手提供更真实的物理交互能力，拓展服务场景至实体世界，对产品经理思考AI与物理世界的融合具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
   }
 }

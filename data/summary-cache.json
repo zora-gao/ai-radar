@@ -49339,5 +49339,188 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/snipplet": {
+    "title_clean": "Snipplet：地点分享指南创建工具",
+    "summary": "Snipplet是一款允许用户从喜爱的地点创建和分享精美指南的工具，适用于旅游、美食探索等场景，为元宝在服务场景拓展和内容生成方面提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vibe-buddy": {
+    "title_clean": "Vibe Buddy：AI编程硬件工具",
+    "summary": "Vibe Buddy是一款专为AI编程设计的硬件工具，旨在提升开发者在AI编码过程中的体验和效率。该产品针对AI编程场景提供硬件支持，可能涉及专用加速器或优化开发环境的设备，对元宝产品经理在AI工具硬件化方向具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/airproof-ai": {
+    "title_clean": "AirProof AI：空气净化器位置优化工具",
+    "summary": "AirProof AI是一款AI工具，能帮助用户在几秒钟内找到家中空气净化器的最佳放置位置，通过智能分析提升净化效率，为智能家居场景提供实用解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zapdigits": {
+    "title_clean": "ZapDigits MCP：营销数据MCP服务器",
+    "summary": "ZapDigits MCP是一款专为营销数据设计的MCP服务器，为AI助手提供结构化营销数据访问能力。产品经理可关注其如何将营销数据与AI助手集成，拓展AI在营销场景的应用边界，为元宝开发营销相关功能提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/glasp-mcp-connector": {
+    "title_clean": "Glasp MCP Connector：AI笔记跨平台搜索工具",
+    "summary": "Glasp MCP Connector允许用户在Claude和ChatGPT中搜索和查找高亮内容与笔记，实现AI助手间的知识互通。该工具解决了用户在不同AI平台间管理笔记的痛点，为元宝产品经理提供了跨平台知识整合的参考方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/coreweave-to-enter-asian-market-with-indonesian-data-centers": {
+    "title_clean": "CoreWeave：AI云服务公司进军亚洲市场",
+    "summary": "CoreWeave作为AI云服务公司将在印尼建立首个亚洲数据中心，以满足该地区快速增长的计算需求。这一扩张反映了亚洲市场对AI基础设施的迫切需求，为元宝产品经理提供了AI云服务区域化布局的市场信号参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026": {
+    "title_clean": "7月创纪录的140亿美元融资推动风投热潮",
+    "summary": "7月全球风投总额达650亿美元，同比增长100%，创下单月最多十亿美元级融资轮次的历史记录。这表明AI等领域风投持续活跃，对元宝产品经理判断市场资金流向和行业热度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-04/zepto-s-ipo-hopes-were-chilled-by-investors-looking-for-profitability": {
+    "title_clean": "Zepto：印度即时配送公司IPO遇冷",
+    "summary": "印度即时配送公司Zepto在寻求IPO过程中遭遇投资者冷遇，因公开市场要求其展示明确的盈利路径。这一事件反映投资者对高增长但未盈利的科技创业公司态度趋严，对元宝在考虑商业化路径和投资者沟通策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/ex-nubank-executives-launch-ai-wealth-adviser-in-brazil": {
+    "title_clean": "前Nubank高管推出巴西AI财富顾问服务",
+    "summary": "由两位前Nubank高管创立的AI创业公司在巴西推出金融咨询服务，受益于当地消费者对创新服务（如Pix支付系统）的快速采用。这反映了AI在金融服务领域的应用扩展，特别是面向新兴市场的个性化财富管理解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/spotify-users-climb-12-following-splashy-product-announcements": {
+    "title_clean": "Spotify：音乐流媒体服务用户与收入预测不及预期",
+    "summary": "Spotify作为全球最大音乐流媒体服务，发布第三季度财报显示活跃用户和运营收入预测均低于分析师预期，导致股价在盘前交易中下跌。这一数据对产品经理评估音乐流媒体市场增长趋势和用户付费意愿具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/cxmt-narrows-gap-with-sk-hynix-and-samsung-in-smartphone-memory": {
+    "title_clean": "CXMT缩小与SK海力士和三星在智能手机内存领域的差距",
+    "summary": "中国国有背景的CXMT公司即将生产与行业最先进设计相当的智能手机内存芯片，凸显北京在半导体领域快速追赶的态势。这对元宝产品经理了解全球供应链变化和潜在合作伙伴技术实力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/chinese-startup-ai-robotics-is-said-to-consider-hong-kong-ipo": {
+    "title_clean": "AI² Robotics：中国机器人公司考虑香港IPO",
+    "summary": "中国机器人制造商AI² Robotics正考虑在香港进行首次公开募股，旨在利用市场对机器人行业日益增长的关注。这一动向表明机器人领域正获得更多资本市场关注，对元宝产品经理了解AI硬件与机器人结合的商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-04/blackrock-overweight-ai-despite-higher-risks-li-says-video": {
+    "title_clean": "BlackRock：看好AI投资前景",
+    "summary": "贝莱德全球首席投资策略师表示，尽管存在商品化和资本容量等风险，公司仍维持对AI整体投资前景的坚定看好。这反映了大型金融机构对AI长期价值的认可，对元宝产品经理了解AI商业化趋势和投资方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/apple-briefly-takes-telegram-off-app-store-over-abusive-content": {
+    "title_clean": "Apple短暂下架Telegram应用：因发现违反儿童性虐待材料禁令的内容",
+    "summary": "Apple因在Telegram平台上发现违反儿童性虐待材料禁令的内容，短暂将该应用从App Store下架。这一事件反映了平台内容审核的重要性，以及科技公司在保护儿童安全方面的责任与挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/bank-of-america-taps-new-africa-benelux-investment-bank-leads": {
+    "title_clean": "美国银行任命非洲和比荷卢投资银行负责人",
+    "summary": "美国银行任命资深交易商Simbah Mutasa和Sjoerd van Hooijdonk分别领导其非洲和比荷卢业务，旨在扩大企业银行业务市场份额。这一人事调整反映了银行对非洲和欧洲特定区域市场的战略重视，对元宝产品经理了解金融机构区域扩张策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

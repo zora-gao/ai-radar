@@ -50058,5 +50058,198 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/pipeline-owners-race-to-build-capacity-as-ai-power-demand-jumps": {
+    "title_clean": "美国管道运营商竞相扩建容量以满足AI电力需求",
+    "summary": "美国管道运营商正加速扩建管道容量，以支持新建数据中心所需的电力供应。这反映了AI技术快速发展带来的基础设施压力，对元宝产品经理了解AI服务部署的能源需求和基础设施挑战有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-estimates-in-first-earnings-since-ipo-video": {
+    "title_clean": "SpaceX：卫星与航天业务超预期营收",
+    "summary": "SpaceX在IPO后首次季度财报中营收超出华尔街预期，显示其卫星和航天业务表现强劲。这对元宝产品经理的参考价值在于，了解科技巨头多元化业务布局的成功案例，以及航天科技与AI结合的潜在商业机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/japan-human-sized-refrigerator-cooling-booth-sees-demand-as-heat-waves-intensify": {
+    "title_clean": "日本人体冷藏降温舱：应对极端高温的创新解决方案",
+    "summary": "日本推出人体尺寸的冷藏降温舱，通过玻璃门关闭后释放冷气，为头部、颈部和肩部提供即时降温效果，以应对日益严重的热浪天气。这种创新产品反映了极端气候下人们对即时降温解决方案的需求增长，为AI助手在环境服务场景中的应用提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/amd-sales-outlook-disappoints-investors-after-ai-fueled-rally": {
+    "title_clean": "AMD AI数据中心销售预期不及市场预期",
+    "summary": "AMD最新销售预期令投资者失望，表明市场对其全球AI数据中心扩张的回报期望过高。这一结果反映了AI芯片市场竞争激烈，AMD面临来自英伟达等巨头的压力，对AI硬件供应商的商业策略和产品路线图有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/match-s-quarterly-revenue-outlook-fall-shy-of-analyst-estimates": {
+    "title_clean": "Match集团季度收入与展望低于分析师预期",
+    "summary": "Match集团当前季度收入预测略低于分析师预期，表明其约会网站仍需吸引更多年轻用户以实现转型目标。这对元宝产品经理有参考价值，特别是在用户群体拓展和商业模式调整方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta": {
+    "title_clean": "Anthropic与AI云创企Volta签署100亿美元合作协议",
+    "summary": "Anthropic近期持续拓展云合作伙伴关系，最新与AI云创企Volta达成100亿美元合作协议。这一大额交易表明Anthropic正在加强云基础设施布局，对AI助手产品的云服务策略和成本结构具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/echostar-s-hughes-wins-approval-to-use-lender-cash-in-bankruptcy": {
+    "title_clean": "EchoStar旗下Hughes获准在破产中使用贷款方现金",
+    "summary": "EchoStar旗下Hughes卫星系统公司获法官批准，可在未来四周使用贷款方现金维持运营，此前该公司在破产期间如何支付账单经历了两天的法庭争辩。这对元宝产品经理参考价值有限，属于传统卫星通信企业财务重组新闻，与AI产品方向关联度低。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you": {
+    "title_clean": "Wrinkles：AI历史故事探索应用",
+    "summary": "Wrinkles是一款跨平台AI音频导览应用，通过揭示地点背后的隐藏历史和当地故事，为用户提供沉浸式的探索体验。这款产品展示了AI在增强现实探索和本地文化服务场景中的应用潜力，为元宝在位置服务和知识型AI助手功能开发上提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/palantir-short-sellers-take-3-billion-hit-after-30-stock-surge": {
+    "title_clean": "Palantir股价暴涨30%致空头亏损30亿美元",
+    "summary": "Palantir Technologies股价大幅上涨30%，导致做空该股票的投资者损失约30亿美元，抹去了今年以来的所有账面收益。这一市场波动反映了投资者对Palantir业务前景的重新评估，对AI领域企业估值波动具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress": {
+    "title_clean": "Nvidia领头的Open Secure AI联盟一周内提出AI代理防御方案",
+    "summary": "Nvidia牵头成立的Open Secure AI Alliance成立仅一周已扩展至120多家公司，并已提出针对AI代理的防御方案。这一快速进展表明行业对AI安全问题的重视程度正在提高，对元宝产品经理了解AI安全生态和潜在合作机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-04/nikesh-arora-we-have-to-fight-ai-with-ai-video": {
+    "title_clean": "Palo Alto 推出AI网络安全平台：实现数小时内威胁修复",
+    "summary": "Palo Alto Networks发布AI驱动的新网络安全平台，帮助组织在数小时内而非数周内检测漏洞并部署防护措施。CEO Nikesh Arora介绍了该平台如何加速威胁响应，这对AI安全服务场景和自动化防护能力有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-04/why-bank-of-america-is-bullish-on-palantir-video": {
+    "title_clean": "Palantir 商业AI业务持续增长",
+    "summary": "Palantir的商业AI业务持续加速发展，客户正在深化使用其软件平台。这一趋势表明企业级AI解决方案在关键行业如航空航天和国防领域的应用正在深化，为元宝在B端AI服务场景拓展提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-04/on-ten-yard-line-on-clarity-act-mersinger-video": {
+    "title_clean": "On Ten Yard Line On Clarity Act: Mersinger：区块链协会CEO谈加密货币监管",
+    "summary": "区块链协会CEO兼前CFTC委员Mersinger在Bloomberg Crypto节目中讨论了加密货币伦理标准的监管争议，探讨了谁应该负责监督新的道德标准，这对元宝产品经理了解加密货币监管环境变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/doj-says-openai-settles-worker-discrimination-allegations": {
+    "title_clean": "OpenAI与美国司法部达成员工歧视指控和解",
+    "summary": "OpenAI一家子公司与美国司法部达成和解，解决其涉嫌歧视美国员工的指控。这反映了AI公司在员工管理方面的合规风险，对元宝产品经理了解行业合规要求和潜在法律风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/live-blog/2026-08-04/spacex-second-quarter-earnings-live-updates": {
+    "title_clean": "SpaceX公布首份财报：埃隆·马斯克公开财务数据",
+    "summary": "SpaceX首次公开财务数据，展示了其商业航天业务的盈利能力和增长情况。这对元宝产品经理了解科技巨头的多元化业务布局和商业化策略有参考价值，特别是探索AI与航天科技结合的可能性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/ai-now-fuels-over-half-of-africa-s-cybercrime-study-finds": {
+    "title_clean": "AI驱动非洲超过半数网络犯罪",
+    "summary": "最新研究发现，人工智能已成为非洲超过半数网络犯罪的驱动力，使犯罪分子能够发起更快、更复杂的攻击，导致财务损失持续增加。这一趋势对AI安全防护和内容审核系统提出了更高要求。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

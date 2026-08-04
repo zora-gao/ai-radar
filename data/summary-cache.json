@@ -49003,5 +49003,92 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/the-close-8-3-2026-video": {
+    "title_clean": "美股与债券上涨：美伊局势缓和致油价下跌",
+    "summary": "Bloomberg报道，美伊局势缓和引发油价下跌，带动美股与债券市场上涨。这一市场动态反映了地缘政治对能源市场和金融市场的直接影响，对元宝产品经理了解宏观经济因素如何影响投资决策和用户资产配置需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/nab-tests-ai-agents-in-plan-to-deploy-tech-to-banking-customers": {
+    "title_clean": "NAB测试AI代理技术计划向银行客户部署",
+    "summary": "澳大利亚国家银行(NAB)将开始测试AI代理平台的安全性和运营护栏，这是该国最大银行计划向客户部署AI技术的举措。该测试聚焦于确保AI代理在金融服务场景中的安全可靠应用，对银行AI服务部署具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/investor-interview-manchesterstory-group-on-penguin-ai": {
+    "title_clean": "Investor Interview: ManchesterStory Group on Penguin AI",
+    "summary": "ManchesterStory Group创始合伙人Matt Kinley接受CB Insights采访，分享对Penguin AI市场定位、差异化优势的看法，以及对AI行业未来趋势的判断。这对元宝产品经理了解AI投资方向和行业判断有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-03/grab-boosts-earnings-forecast-on-robust-ride-delivery-demand": {
+    "title_clean": "Grab上调东南亚出行与外卖需求预测",
+    "summary": "Grab控股公司上调年度盈利和销售预测，表明东南亚通勤者强劲需求正在帮助抵消中东局势导致的高油价影响。这对元宝产品经理参考东南亚地区出行与外卖服务市场表现及用户消费意愿有价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-03/openai-hack-could-have-been-worse-hugging-face-says-video": {
+    "title_clean": "OpenAI安全漏洞被Hugging Face CEO评价为'本可能更严重'",
+    "summary": "Hugging Face CEO表示OpenAI的安全漏洞若非防御措施得当，本可能造成更严重后果。他将此事件视为行业警钟，指出安全漏洞对AI公司声誉和用户信任的潜在影响，提醒产品经理需重视AI产品的安全防护措施。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist": {
+    "title_clean": "Palantir CEO 称 AI 行业为「马克思主义」",
+    "summary": "Palantir CEO Alex Karp 在公司实现10亿美元季度利润后，再次警告称前沿 AI 实验室对企业而言过于不可靠。这反映了大型 AI 企业对行业现状的担忧，对元宝产品经理了解企业级 AI 服务的信任度挑战有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/circles": {
+    "title_clean": "Circles：基于OpenAI技术的电信个性化AI服务",
+    "summary": "Circles利用OpenAI API和Codex技术为电信行业提供AI原生体验，帮助运营商提升ARPU 22%，降低客户流失率9%，并提高开发效率。该产品展示了AI技术在电信个性化服务中的商业价值，为元宝在垂直行业应用方面提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T14:21:16.470Z",
+  "generated_at": "2026-08-04T17:38:58.007Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -1339,8 +1339,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "Grok Build 0.1 is xAI’s fast coding model trained specifically for agentic software engineering workflows. It supports text and image inputs with text output, and is optimized for interactive coding...",
-      "description_zh": "Grok Build 0.1 是 xAI 的快速编码模型，专门针对代理软件工程工作流程进行了训练。它支持文本和图像输入以及文本输出，并针对交互式编码进行了优化..."
+      "description": "Grok Build 0.1 is SpaceXAI’s fast coding model trained specifically for agentic software engineering workflows. It supports text and image inputs with text output, and is optimized for interactive coding...",
+      "description_zh": "Grok Build 0.1 是 SpaceXAI 的快速编码模型，专门针对代理软件工程工作流程进行了训练。它支持文本和图像输入以及文本输出，并针对交互式编码进行了优化..."
     },
     {
       "id": "google/gemini-3.5-flash",

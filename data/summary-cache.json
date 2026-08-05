@@ -50554,5 +50554,80 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/-holistic-ai-safety-approach-needed-rhodium-s-goujon-video": {
+    "title_clean": "AI Bot安全漏洞凸显全面防护需求",
+    "summary": "Rhodium Group主任Reva Goujon讨论了AI公司面临的安全挑战，提出美国和国际监管机构需要更好协调，建立更全面的AI安全防护措施，这对元宝产品经理在安全设计方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/china-s-official-newspaper-warns-us-over-expanding-tech-curbs": {
+    "title_clean": "中国官方报纸警告美国扩大技术限制",
+    "summary": "中国官方报纸警告美国扩大技术限制可能引发反制措施，华盛顿正考虑禁止部分中国AI组件进口。这反映了中美科技竞争加剧，对AI供应链和全球AI产业发展格局有重要影响，元宝产品经理需关注地缘政治对AI技术获取和产品国际化的潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/softbank-earnings-to-test-appetite-for-ai-bets-beyond-chatgpt": {
+    "title_clean": "软银财报将测试投资者对ChatGPT以外AI投资的兴趣",
+    "summary": "软银集团本周将发布关键财报，投资者希望确认该公司AI价值是否仅限于对陷入困境的ChatGPT运营商OpenAI的债务押注。财报结果将反映市场对软银AI战略多元化方向的信心程度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/lab-monkeys-for-26-000-show-china-s-biotech-quest-to-rival-us": {
+    "title_clean": "中国实验室猴子价格飙升至2.6万美元，显示生物技术竞争美国",
+    "summary": "中国实验室猴子价格大幅上涨，增加了新药研发试验的难度，促使中国从邻国进口更多灵长类动物。这一趋势反映了中国在生物技术领域追赶美国的努力，以及生物科技研发成本上升的现实挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-04/opinion-one-startup-s-plan-to-monetize-the-sun-video": {
+    "title_clean": "One Startup：太空镜商业化太阳能计划",
+    "summary": "一家初创公司计划通过部署巨型太空镜来控制并商业化利用太阳光，试图将太阳能采集扩展至太空领域。这一创新方案展示了能源商业化与太空技术的结合，为元宝产品经理提供了能源科技商业化模式的参考案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/chinese-telecom-hack-exposed-data-centers-house-report-to-say": {
+    "title_clean": "美国电信公司数据中心安全漏洞：中国黑客可大规模入侵",
+    "summary": "美国众议院调查发现，美国电信公司通过连接数据中心和相关基础设施的方式，使其系统面临网络安全漏洞，可能为中国黑客提供大规模入侵机会。这一事件对元宝产品经理有重要参考价值，提醒在AI服务部署和数据安全方面需警惕地缘政治风险和供应链安全。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

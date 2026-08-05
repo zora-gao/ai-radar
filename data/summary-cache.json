@@ -51422,5 +51422,117 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/meta-debuts-ai-coding-agent-in-race-with-openai-and-anthropic": {
+    "title_clean": "Meta发布AI编程助手Muse Code，与OpenAI和Anthropic竞争",
+    "summary": "Meta推出首个AI编程助手Muse Code，CEO扎克伯格宣布这一产品发布，标志着Meta在AI编程领域与OpenAI和Anthropic展开直接竞争，为产品经理提供了AI助手在专业编程场景的应用参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/ebay-reports-second-quarter-sales-profit-that-beat-expectations": {
+    "title_clean": "EBay：二手服装市场收购后业绩超预期",
+    "summary": "EBay公布第二季度销售和利润超出预期，收购二手服装平台Depop后增强了与新兴竞争对手Vinted的竞争地位，显示其二手电商战略成效显著。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders": {
+    "title_clean": "Klaviyo收购Elias Torres公司：电商AI负责人加盟",
+    "summary": "电商营销平台Klaviyo收购了创始人Elias Torres的公司，后者将以首席产品官身份加入，领导其AI代理产品开发。这反映了电商领域对AI代理能力的重视，以及人才流动对AI产品战略的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup": {
+    "title_clean": "Jeff Dean等谷歌AI顶尖研究员离职创业，专注AI推动科学发现",
+    "summary": "谷歌传奇高管Jeff Dean与其他多位谷歌高管共同离职创业，致力于利用AI加速科学发现进程。这一动向表明AI在科研领域的应用正吸引顶尖人才独立创业，可能对元宝在科研服务场景的布局提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/expedia-boosts-its-full-year-sales-outlook-on-strong-bookings": {
+    "title_clean": "Expedia上调全年销售预期：酒店预订需求强劲",
+    "summary": "Expedia集团上调全年销售预期，表明消费者并未因酒店价格上涨和机票价格而减少预订。这一趋势对旅游服务类AI助手产品具有重要参考价值，反映了用户在旅游服务场景中的持续需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show": {
+    "title_clean": "微软AI收入主要来自OpenAI",
+    "summary": "微软最新披露显示，其人工智能收入主要来自OpenAI合作。这对产品经理了解AI巨头间的商业合作模式与收入分配有参考价值，有助于评估元宝在AI生态中的潜在合作方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/canada-billionaire-buys-half-of-tech-fund-commits-125-million": {
+    "title_clean": "加拿大富豪收购科技基金半股权，承诺投资1.25亿美元",
+    "summary": "加拿大房地产大亨收购科技投资公司Vistara Growth半数股权，并承诺向新基金投资高达1.25亿美元。这笔交易源于商学院建立的友谊，显示科技投资领域持续获得大额资本注入，对AI产品经理而言反映资本市场对科技领域的持续看好。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/bloomberg-tech-8-5-2026-video": {
+    "title_clean": "SpaceX AI投入与Uber动向：Bloomberg科技报道",
+    "summary": "SpaceX首次财报显示大规模AI支出，星链计划扩张，马斯克预测年营收将达1000亿美元。同时报道Uber最新动向和Zoox里程碑事件，为AI产品经理提供科技巨头AI战略与商业化参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/why-spacex-s-ai-business-matters-more-than-rockets-video": {
+    "title_clean": "SpaceX：AI云计算业务快速增长",
+    "summary": "德意志银行分析师Edison Yu指出，SpaceX的AI云计算业务正成为公司增长最快的业务之一，该业务通过租赁AI计算能力提供服务。这一动态表明传统航天企业正积极布局AI基础设施市场，为元宝产品经理提供了航天科技与AI服务结合的新商业案例参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

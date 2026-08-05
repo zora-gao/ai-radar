@@ -51534,5 +51534,152 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048691&idx=2&sn=42722e4af68bd7657c8960554ca6bd23": {
+    "title_clean": "Transformer上限触顶，Mobius能否引发下一代模型架构的革命?",
+    "summary": "探讨Transformer架构可能已达上限，分析新模型架构Mobius是否能够引领下一代AI模型架构的革命。对产品经理了解AI底层技术演进方向、评估未来产品技术路线有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048691&idx=1&sn=a8be4447631a8996c03c45496ac93d7f": {
+    "title_clean": "视觉AI从「会生成」走向「能创作」，RabbitVis探索AI应用新范式",
+    "summary": "RabbitVis推动视觉AI从简单生成向智能创作转变，探索AI应用新范式。这一转变对元宝产品经理有重要参考价值，特别是在多模态交互和AI创作能力方面，可能启发新的产品方向和功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048694&idx=2&sn=2d79d350a3fcf7df53f8c7e4a4472b3c": {
+    "title_clean": "ECCV2026北大团队提出AtomicDance：基于原子动作的可解释音乐生成",
+    "summary": "北大团队在ECCV2026上提出AtomicDance，这是一种基于原子动作的可解释音乐生成方法，通过分解音乐为基本动作单元来提高生成过程的可解释性，为AI音乐创作提供了新的技术路径。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048380&idx=1&sn=91063b6e567c6c3353808fb6465c7d0e": {
+    "title_clean": "SpaceX、英伟达合作：AI数据中心太空计划",
+    "summary": "SpaceX与英伟达宣布合作将AI数据中心送入太空，旨在利用太空环境优势提升AI计算能力。这一合作可能开创AI基础设施新范式，为元宝产品经理提供AI服务部署与边缘计算场景的创新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/psiquantum-ceo-on-quantum-computing-progress-chip-space-video": {
+    "title_clean": "PsiQuantum CEO：量子计算进展与芯片技术",
+    "summary": "PsiQuantum CEO Victor Peng详细介绍了公司独特的量子计算方法，强调使用光子作为量子比特并展示其在光子学领域的专业知识。这为AI产品经理提供了量子计算硬件发展的重要参考，特别是光子量子计算这一前沿技术路线的进展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases": {
+    "title_clean": "Meta：Muse Code 大型代码库AI助手",
+    "summary": "Meta推出Muse Code，这是一款专为处理复杂软件任务而设计的AI代码助手，能够应对大型代码库的复杂需求，扩展了Meta在AI编程领域的服务能力，为开发者提供更强大的代码辅助工具。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vinyl-equity": {
+    "title_clean": "CEO访谈：Vinyl Equity",
+    "summary": "Vinyl Equity CEO Rob Schoder接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家投资机构，其观点对了解AI领域投资趋势和市场需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/bloomberg-deals-8-5-2026-video": {
+    "title_clean": "Starboard Reveals Shake Shack Stake：投资机构增持餐饮股份",
+    "summary": "Starboard CEO Jeff Smith在Bloomberg Deals节目中宣布增持Shake Shack股份，显示投资机构对餐饮行业的关注。这反映了资本对AI服务场景中餐饮垂直领域的潜在兴趣，为元宝在生活服务场景的AI助手功能提供市场信号参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-theia-insights-ltd": {
+    "title_clean": "Theia Insights CEO访谈：市场定位与客户需求分析",
+    "summary": "Theia Insights CEO向CB Insights分享了公司对市场的看法、客户需求分析以及自身定位。这为元宝产品经理提供了AI服务市场定位和客户需求洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/ai-risks-require-tougher-cyber-defenses-top-us-officials-warn": {
+    "title_clean": "美国官员警告：AI驱动的网络攻击威胁需要加强网络安全防御",
+    "summary": "美国最高信息安全官员警告，全国计算机系统需要加强防御能力，以应对由人工智能驱动的网络攻击日益增长的威胁。这对元宝产品经理提示了AI安全防护的重要性，特别是在开发AI助手时需考虑安全防护机制。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/taming-outlier-tokens": {
+    "title_clean": "Taming Outlier Tokens in Diffusion Transformers：扩散模型异常标记处理研究",
+    "summary": "该研究针对扩散模型(DiT)中的异常标记问题，探索了这些高范数标记如何影响图像生成质量，并提出解决方案。这对AI图像生成产品经理了解模型优化方向和潜在质量改进点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/why-disney-keeps-outperforming-video": {
+    "title_clean": "迪士尼IP战略如何推动业务增长",
+    "summary": "迪士尼最新财报表现超出预期，其增长不仅来自流媒体业务，更得益于独特的IP变现能力。分析师Helena Wang解释了迪士尼如何通过知识产权战略实现商业价值，这对元宝产品经理思考内容IP与AI服务结合的商业模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

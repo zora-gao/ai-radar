@@ -51087,5 +51087,153 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/uber-ceo-sees-no-sign-of-consumer-slowdown-video": {
+    "title_clean": "Uber CEO：未发现消费者需求放缓迹象",
+    "summary": "Uber发布二季度预订数据，仅达到分析师预期，出行量未达目标，股价下跌。CEO Dara Khosrowshahi表示未观察到消费者需求放缓，这对共享出行平台的市场判断和业务规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google": {
+    "title_clean": "Shopify：AI搜索提升店铺流量与销售额，未替代Google",
+    "summary": "Shopify报告显示，AI搜索并未像对出版商那样分流搜索流量，反而使AI驱动的店铺流量和订单在第二季度同比增长三倍，表明AI搜索能为电商带来实际商业价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/carlyle-cfo-plouffe-on-m-a-market-private-credit-and-ai-video": {
+    "title_clean": "Carlyle CFO谈并购市场、私人信贷与AI",
+    "summary": "Carlyle首席财务官Justin Plouffe表示，公司已保持超过一年的强劲退出节奏，在日本、欧洲和美国等地区实现广泛变现。他分享了在当前市场环境下，私募股权公司如何利用AI技术优化投资决策和风险管理。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/tech-melt-up-drives-3-5t-nasdaq-100-gain-in-four-days-video": {
+    "title_clean": "科技股反弹推动纳斯达克100指数四天内市值增长3.5万亿美元",
+    "summary": "科技股出现戏剧性反弹，纳斯达克100指数在四天内市值增长3.5万亿美元，主要受强劲财报表现提振，投资者信心增强。这一市场动态对元宝产品经理了解科技行业投资情绪和资本流向变化有参考价值，可能影响AI产品商业化策略和投资者预期。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks": {
+    "title_clean": "Hark：浏览器任务执行AI代理",
+    "summary": "Hark推出浏览器使用AI代理，声称其任务执行速度更快且成本更低。这反映了AI代理在自动化浏览器操作领域的竞争，对元宝产品经理在自动化任务执行和成本优化方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/brookfield-bets-big-on-ai-boom-video": {
+    "title_clean": "Brookfield大举押注AI热潮",
+    "summary": "Brookfield资产管理公司CEO表示，公司正迎来创纪录的募资年，这一增长主要由AI需求激增和基础设施投资驱动。这反映了大型资本对AI领域的持续看好，可能预示着AI基础设施和服务市场的进一步扩张。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team": {
+    "title_clean": "Anthropic组建AI芯片设计团队",
+    "summary": "Anthropic正在组建团队设计自有AI芯片，计划通过软硬件协同优化提升Claude模型的运行速度和效率。这对AI大模型公司自研芯片的趋势有重要参考价值，也反映了AI算力竞争已进入硬件层面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/citadel-cashes-in-on-situational-awareness-deal-video": {
+    "title_clean": "Citadel基金：通过收购Situational Awareness股票实现近6%增长",
+    "summary": "Citadel基金以折扣价收购Situational Awareness大部分流通股后，7月份上涨近6%，今年以来累计涨幅达12%。这笔交易展示了金融投资机构对特定领域企业的价值判断，对AI产品经理了解资本流向和行业投资热点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/meta-apologizes-to-indian-officials-over-removal-of-modi-s-video": {
+    "title_clean": "Meta就移除莫迪视频向印度官员道歉",
+    "summary": "Meta平台公司就暂时限制印度总理莫迪的Facebook帖子向印度官员道歉，试图安抚这个关键增长市场的政府担忧。此事反映了科技公司在处理政治内容时面临的监管压力和本地化挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/ai-focus-created-market-complacency-mclennan-video": {
+    "title_clean": "AI Focus Created Market Complacency: McLennan",
+    "summary": "First Eagle Investments全球价值团队负责人Matt McLennan在彭博节目中指出，AI领域的高度集中导致了市场自满情绪。这一观点对产品经理有参考价值，提醒在AI产品开发中需警惕市场过度集中可能带来的风险与机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/strategies-enhancing-exit-value-acquisitions-sagie": {
+    "title_clean": "AI战略可能降低企业退出价值",
+    "summary": "科技战略顾问Itay Sagie指出，虽然AI集成常被视为提升初创企业估值的方式，但可能无意中降低退出价值。这对产品经理评估AI战略的商业影响和长期价值有重要参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/us-ban-on-chinese-optical-parts-hurts-hyperscalers-report-says": {
+    "title_clean": "美国对中国光模块进口禁令影响超大规模云服务商",
+    "summary": "报告指出，美国可能禁止进口中国光模块将损害美国超大规模云服务商，加剧供应链瓶颈，且没有美国公司能够缓解这一问题。这提醒产品经理关注AI硬件供应链风险，特别是涉及光模块等关键组件的供应稳定性问题。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -50457,5 +50457,102 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-04/the-close-8-4-2026-video": {
+    "title_clean": "SpaceX首份财报分析：市场表现与影响评估",
+    "summary": "Bloomberg电视节目深入分析SpaceX首份财报，探讨其在华尔街收盘前后的市场表现与投资影响，为元宝产品经理提供航天科技企业商业化案例参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/australia-to-cut-price-of-rooftop-solar-for-factories-afr-says": {
+    "title_clean": "澳大利亚降低工厂屋顶太阳能安装价格",
+    "summary": "澳大利亚政府将降低仓库和工厂屋顶太阳能板的安装价格，以加速太阳能的推广。这一政策可能影响AI助手在能源管理、工业自动化等场景的应用机会，为元宝产品经理提供AI服务在工业领域的新思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048208&idx=3&sn=8b47e2bdd229509515ce2995c42b5f36": {
+    "title_clean": "千寻智能高阳团队新作：机器人学习中的数据迁移研究",
+    "summary": "千寻智能高阳团队研究了机器人更换硬件后，原有数据是否仍可利用的问题，探讨了机器人学习中的数据迁移技术。这项研究对AI产品经理在机器人数据利用和模型迁移方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048280&idx=1&sn=bcf60b3a2bbef3e386b7f81296ba5d39": {
+    "title_clean": "腾讯混元 Hy ASR 3.0preview发布：语音识别能力全面提升",
+    "summary": "腾讯发布混元大模型语音识别系统3.0预览版，在通用识别、方言覆盖和场景鲁棒性方面实现显著提升。这一更新对元宝产品经理具有重要参考价值，特别是在多方言语音交互和复杂场景下的语音识别能力建设方面。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year": {
+    "title_clean": "SpaceX购买3.29亿美元特斯拉Megapack电池",
+    "summary": "SpaceX今年已购买价值3.29亿美元的特斯拉Megapack电池，展示了埃隆·马斯克旗下企业间的紧密联系。这对元宝产品经理的参考价值在于，揭示了科技巨头通过内部资源整合实现业务协同的可能性，以及跨领域合作对AI产品生态构建的启示。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-04/scottsmiracle-gro-ceo-on-new-growth-algorithm-pricing-video": {
+    "title_clean": "ScottsMiracle-Gro CEO谈新增长算法与定价策略",
+    "summary": "ScottsMiracle-Gro新任CEO兼总裁Nate Baxter在公司投资者日活动后分享了公司的新增长算法和定价策略。作为传统园艺用品企业高管分享的增长算法和定价策略，对元宝产品经理在商业模式和定价策略方面有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-04/samsung-reveals-new-3d-memory-roadmap-in-bid-for-ai-tech-lead": {
+    "title_clean": "三星发布3D存储技术路线图，争夺AI技术领先地位",
+    "summary": "三星电子展示了其最先进的存储硬件，强调性能和能效提升，旨在超越SK海力士和美光科技。这一技术路线图对AI芯片和计算性能有直接影响，对元宝产品经理评估硬件支持AI能力的技术演进有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048055&idx=1&sn=2716604abdf269b186d785981a7761e9": {
+    "title_clean": "帕西尼再融10亿元，具身感知赛道跑出35亿元融资纪录",
+    "summary": "帕西尼完成10亿元新一轮融资，创下具身感知赛道35亿元融资纪录。这一融资动态表明具身感知技术在AI硬件领域获得资本市场高度关注，为元宝产品经理提供了AI硬件与感知技术商业化路径的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

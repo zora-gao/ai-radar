@@ -50802,5 +50802,166 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/backengine-mcp": {
+    "title_clean": "BackEngine MCP：企业知识AI化工具",
+    "summary": "BackEngine MCP是一个将企业私有知识转化为AI可用资源的工具，旨在解决企业内部信息孤岛问题，使AI系统能够访问和使用公司内部知识库，提升企业AI应用的实用性和效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/x-money-2": {
+    "title_clean": "X Money：全球最强网络金融服务",
+    "summary": "X Money是一款基于全球最强网络的金融服务产品，专注于为用户提供安全高效的资金管理服务。该产品可能利用区块链或分布式网络技术，为用户提供跨境支付、资产管理等金融服务，对元宝产品经理在金融科技服务场景和AI Agent金融服务能力方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/keystroke-2": {
+    "title_clean": "Keystroke：AI代理与工作流构建工具",
+    "summary": "Keystroke是一款专注于构建AI代理和工作流的产品，旨在帮助用户创建能够自动执行复杂任务的AI系统。对于元宝产品经理而言，该工具代表了AI代理自动化领域的新兴解决方案，值得关注其技术实现方式和应用场景，可能为元宝的自动化功能开发提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/capex-is-only-way-to-musk-s-spacex-ai-vision-dan-ives-video": {
+    "title_clean": "SpaceX AI愿景：马斯克称资本支出是唯一途径",
+    "summary": "Yorkville Ives & Co.合伙人Dan Ives分析SpaceX首季度报告，指出该公司在人工智能方面的支出超出预期。马斯克认为资本支出是实现SpaceX AI愿景的唯一途径，这对AI产品经理了解大型科技公司在AI领域的投资策略和资源分配有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn": {
+    "title_clean": "MagicSchool AI：教育者创立的AI教育科技初创公司",
+    "summary": "MagicSchool AI由一位对ChatGPT教育潜力着迷的教育者创立，已获得6300万美元风险投资。该案例展示了非技术背景的教育工作者如何成功进入AI教育领域，为元宝产品团队提供了教育场景AI应用的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/uber-gives-in-line-outlook-says-brazil-rivals-hurt-trips-growth": {
+    "title_clean": "Uber下调业绩预期，巴西市场竞争加剧影响出行订单增长",
+    "summary": "Uber发布符合分析师预期的预订量展望，但指出巴西市场的激烈竞争影响了出行订单量增长，这加剧了投资者对该公司业务表现的担忧。对产品经理的参考价值在于了解出行平台在竞争激烈市场中的业绩压力和用户获取挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-05/bezos-arnault-premji-pour-money-into-ai-humanoid-robot-startups": {
+    "title_clean": "贝佐斯、阿尔诺、普雷姆吉投资AI人形机器人初创公司",
+    "summary": "贝佐斯、阿尔诺和普雷姆吉等富豪家族办公室正大举投资AI人形机器人初创公司，这类机构在AI机器人领域具有独特的投资优势。这一动向表明AI人形机器人领域正获得顶级资本关注，可能预示着AI服务场景和商业化方向的新趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/circle-revenue-misses-estimates-as-crypto-markets-mired-in-rout": {
+    "title_clean": "Circle上调Arc区块链支付业务收入预期",
+    "summary": "Circle作为美国最大稳定币发行商，上调了其Arc区块链支付业务的收入预期，导致股价在盘前交易中上涨。这反映了稳定币在区块链支付领域的商业价值正在被市场认可，对元宝在区块链支付和稳定币应用场景方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/the-opening-trade-8-5-2026-video": {
+    "title_clean": "全球股市创纪录：AI交易与伊朗协议前景推动上涨",
+    "summary": "全球股市创下历史新高，主要受美国与伊朗协议打开霍尔木兹海峡的希望以及人工智能交易热潮推动，芯片制造商因此获得显著增长。这一市场动向反映了AI领域投资热情持续高涨，对元宝产品经理评估AI商业化趋势和投资方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/shein-is-said-to-plan-gauging-investor-demand-for-hong-kong-ipo": {
+    "title_clean": "Shein计划评估香港IPO投资者需求",
+    "summary": "快时尚零售商Shein Global Holdings计划于本周开始评估投资者对其香港首次公开募股(IPO)的需求。这一动态对元宝产品经理有参考价值，因为Shein作为大型电商平台，其IPO动向可能反映投资者对电商及AI服务相关企业的估值预期和市场信心。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/sandisk-earnings-give-dip-buyers-an-opening-after-stock-s-plunge": {
+    "title_clean": "Sandisk财报：股价暴跌后财报能否吸引投资者",
+    "summary": "Sandisk股价上月大幅下跌，公司将于周三公布财报，市场关注强劲业绩能否重新吸引投资者买入。这对产品经理了解科技企业财报对股价的影响及投资者心理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/nvidia-partner-hon-hai-s-sales-rise-54-on-strong-ai-demand": {
+    "title_clean": "英伟达合作伙伴鸿海销售额增长54%：AI需求强劲",
+    "summary": "鸿海精密工业公司报告月销售额增长54.2%，表明包括英伟达在内的客户对全球AI基础设施建设的持续需求强劲。这一数据反映了AI硬件市场的快速增长趋势，对元宝产品经理评估AI基础设施合作伙伴关系和市场机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/moove-hits-2-1-billion-valuation-in-mubadala-led-fundraising": {
+    "title_clean": "Moove获2.1亿美元估值，阿布扎比主权基金领投",
+    "summary": "Moove完成由阿布扎比主权基金Mubadala领投的2.5亿美元融资，估值达21亿美元。这家汽车融资和车队管理初创公司将利用资金拓展自动驾驶汽车相关服务，为AI在交通领域的应用提供新场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

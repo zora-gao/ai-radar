@@ -51235,5 +51235,92 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/be-diversified-within-ai-trade-pandit-video": {
+    "title_clean": "摩根资产管理策略师：AI投资需多元化",
+    "summary": "摩根资产管理全球市场策略师Meera Pandit表示，投资者需要在AI领域进行多元化配置，因为不同AI板块间的资金流动受市场情绪驱动。这对产品经理了解AI投资趋势和资本流向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/trip-slowdown-in-brazil-hurt-uber-ceo-says-video": {
+    "title_clean": "Uber CEO：巴西业务因竞争加剧导致出行放缓",
+    "summary": "Uber CEO Dara Khosrowshahi表示公司业务持续增长，每周完成3亿次出行，但承认巴西市场因竞争加剧导致出行量放缓。这一信息对元宝产品经理了解出行服务市场竞争格局和区域市场挑战有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/booking-ceo-on-travel-resilience-video": {
+    "title_clean": "Booking CEO：旅游需求韧性分析",
+    "summary": "Booking Holdings CEO Glenn Fogel在Bloomberg节目中解释了为何战争、极端天气和更高成本下旅游需求依然强劲，并揭示了旅行者的适应方式。这对元宝产品经理了解旅游服务场景的用户需求变化和行业韧性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/amazon-s-zoox-to-levy-fares-in-us-first-for-controls-free-taxis": {
+    "title_clean": "Amazon's Zoox：美国无控制自动驾驶出租车开始收费",
+    "summary": "Amazon旗下的自动驾驶出租车公司Zoox将在拉斯维加斯开始收费运营，这是美国首次推出无方向盘、无踏板的完全自动驾驶出租车服务，标志着自动驾驶商业化的重要里程碑。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-05/ai-chatbots-seen-in-survey-as-more-trustworthy-than-politicians": {
+    "title_clean": "调查：AI聊天机器人比政治家更值得信赖",
+    "summary": "调查显示，人们认为聊天机器人比地方政治领袖提供更准确、有用的信息。这一发现反映了公众对AI助手信息可靠性的认可，对元宝产品经理评估用户信任度与AI助手定位具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/paypal-puts-revenue-targets-on-key-units-as-ceo-reviews-strategy": {
+    "title_clean": "PayPal：关键业务单元设定营收目标",
+    "summary": "PayPal新CEO首次公开表示将分拆业务单元结果并设定营收目标，此举表明公司正进行战略审查，可能影响其支付业务和金融服务的发展方向，对元宝产品经理了解大型科技公司业务调整策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store": {
+    "title_clean": "MacPaw与Liquid AI合作：为应用商店开发者提供设备端AI推理能力",
+    "summary": "MacPaw正使用Liquid AI的模型构建其AI助手Eney的本地版本，为应用商店开发者提供设备端AI推理能力。此举展示了AI助手本地化部署的趋势，对元宝产品经理在AI助手本地化实现和开发者生态合作方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

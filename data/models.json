@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:52:23.711Z",
+  "generated_at": "2026-08-06T01:56:11.351Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -200,6 +200,29 @@
       "supports_reasoning": true,
       "description": "Claude Opus 5 is Anthropic’s flagship model for demanding reasoning, coding, and long-horizon agentic work. It is particularly strong at end-to-end software tasks, code review and bug finding, visual analysis...",
       "description_zh": "Claude Opus 5 是 Anthropic 的旗舰模型，适用于要求较高的推理、编码和长期代理工作。它在端到端软件任务、代码审查和错误查找、可视化分析方面尤其强大......"
+    },
+    {
+      "id": "inclusionai/ling-3.0-flash",
+      "name": "Ling-3.0-flash",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-20260723",
+      "created_at": "2026-07-23T14:56:20Z",
+      "context_length": 131072,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.075,
+      "price_out": 0.22,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ling-3.0-flash is a 124B-parameter Mixture-of-Experts (MoE) model , with approximately 5.1B parameters activated per token . The model is designed with token efficiency and production-scale agentic inference as key priorities, enabling developers...",
+      "description_zh": "Ling-3.0-flash 是一个 124B 参数的专家混合 (MoE) 模型，每个代币激活大约 5.1B 个参数。该模型的设计以代币效率和生产规模代理推理为关键优先事项，使开发人员能够..."
     },
     {
       "id": "inclusionai/ling-3.0-flash:free",
@@ -1445,29 +1468,6 @@
       "supports_reasoning": true,
       "description": "Perceptron Mk1 (Mark One) is Perceptron's highest-quality vision-language model for video and embodied reasoning. It accepts image and video inputs paired with natural language queries, and produces detailed visual understanding...",
       "description_zh": "Perceptron Mk1 (Mark One) 是 Perceptron 用于视频和具体推理的最高质量视觉语言模型。它接受与自然语言查询配对的图像和视频输入，并产生详细的视觉理解......"
-    },
-    {
-      "id": "inclusionai/ring-2.6-1t",
-      "name": "Ring-2.6-1T",
-      "vendor": "Inclusionai",
-      "vendor_slug": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ring-2.6-1t-20260508",
-      "created_at": "2026-05-08T13:37:20Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.075,
-      "price_out": 0.625,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Ring-2.6-1T is a 1T-parameter-scale thinking model with 63B active parameters, built for real-world agent workflows that require both strong capability and operational efficiency. It is optimized for coding agents, tool...",
-      "description_zh": "Ring-2.6-1T是一个1T参数规模的思维模型，具有63B个主动参数，专为现实世界中需要强大能力和运营效率的代理工作流程而构建。它针对编码代理、工具进行了优化..."
     }
   ]
 }

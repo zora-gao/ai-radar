@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-06T14:15:13.113Z",
+  "generated_at": "2026-08-06T23:53:58.546Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "inclusionai/ling-3.0-tiny:free",
+      "name": "Ling 3.0 Tiny (free)",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.0-tiny-20260806",
+      "created_at": "2026-08-06T16:48:10Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ling 3.0 Tiny is a mixture-of-experts model from InclusionAI, with 1.3B active parameters out of 7.9B total. It is designed for responsive agents, instruction following, and multi-turn conversations, with switchable...",
+      "description_zh": "Ling 3.0 Tiny 是 InclusionAI 的混合专家模型，共有 7.9B 个活跃参数，其中有 1.3B 个。它专为响应式代理、指令遵循和多轮对话而设计，具有可切换..."
+    },
     {
       "id": "meta/muse-spark-1.2",
       "name": "Muse Spark 1.2",
@@ -233,29 +256,6 @@
       "vendor_slug": "inclusionai",
       "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-20260723",
       "created_at": "2026-07-23T14:56:20Z",
-      "context_length": 131072,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.075,
-      "price_out": 0.22,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Ling-3.0-flash is a 124B-parameter Mixture-of-Experts (MoE) model , with approximately 5.1B parameters activated per token . The model is designed with token efficiency and production-scale agentic inference as key priorities, enabling developers...",
-      "description_zh": "Ling-3.0-flash 是一个 124B 参数的专家混合 (MoE) 模型，每个代币激活大约 5.1B 个参数。该模型的设计以代币效率和生产规模代理推理为关键优先事项，使开发人员能够..."
-    },
-    {
-      "id": "inclusionai/ling-3.0-flash:free",
-      "name": "Ling-3.0-flash (free)",
-      "vendor": "Inclusionai",
-      "vendor_slug": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-20260723",
-      "created_at": "2026-07-23T14:56:20Z",
       "context_length": 262144,
       "modality": "text->text",
       "input_modalities": [
@@ -264,9 +264,9 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
+      "price_in": 0.021,
+      "price_out": 0.063,
+      "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Ling-3.0-flash is a 124B-parameter Mixture-of-Experts (MoE) model , with approximately 5.1B parameters activated per token . The model is designed with token efficiency and production-scale agentic inference as key priorities, enabling developers...",
@@ -1300,8 +1300,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.56,
-      "price_out": 1.76,
+      "price_in": 0.546,
+      "price_out": 1.716,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

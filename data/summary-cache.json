@@ -52213,5 +52213,144 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/gesture-synth-school": {
+    "title_clean": "Gesture Synth School：手势音乐学习应用",
+    "summary": "一款通过手势学习演奏音乐的练习应用，用户可通过手部动作控制音乐创作，为AI助手在音乐教育场景下的交互设计提供参考，特别是手势识别与多模态交互的结合。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ododok": {
+    "title_clean": "Ododok：AirPods咀嚼计数工具",
+    "summary": "Ododok是一款利用AirPods传感器技术自动记录用户咀嚼次数的应用，可能用于健康监测或饮食管理，为AI助手在健康场景下的应用提供了新思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce": {
+    "title_clean": "前Spotify员工获1000万美元融资：将AI推荐技术引入电商",
+    "summary": "这家初创公司开发了一个AI平台，能够预测消费者可能想要购买的产品，学习用户的整体品味，并根据用户的实时行为持续优化推荐。这为元宝在电商场景下的个性化推荐功能提供了重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/microsoft-opens-fourth-data-center-region-in-india-for-azure": {
+    "title_clean": "Microsoft在印度开设第四个数据中心区域，扩展Azure云与AI能力",
+    "summary": "Microsoft宣布在印度启用第四个数据中心区域，作为该国205亿美元投资计划的一部分，旨在扩展Azure云服务和人工智能基础设施。这表明微软正加速在印度市场的云与AI布局，对元宝产品经理了解国际云服务商在AI基础设施上的战略扩张有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai": {
+    "title_clean": "Mirendil与Google Cloud签署1亿美元+合作，扩展自改进AI系统",
+    "summary": "Mirendil与Google Cloud签署价值1亿美元以上的合作协议，扩展其计算基础设施，支持自改进AI系统的研究，这些系统旨在加速科学发现。这一合作展示了大型云厂商对自改进AI技术的投资支持，对元宝产品经理评估AI系统自优化能力与云厂商合作模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform": {
+    "title_clean": "Omilia获6700万美元融资，扩展客户支持平台",
+    "summary": "Omilia完成6700万美元B轮融资，自2020年以来年收入增长10倍至6000万美元。该客户支持平台获得资本支持，表明AI客服领域持续受到市场关注，对元宝在客户服务场景的拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-06/roche-uses-recursion-ai-to-uncover-new-brain-disease-targets": {
+    "title_clean": "Roche与Recursion AI合作：利用AI发现新脑疾病靶点",
+    "summary": "罗氏制药与Recursion AI合作，利用人工智能技术发现新的脑疾病药物靶点，旨在减少药物试验失败率。这展示了AI在药物研发领域的实际应用，对元宝产品经理了解AI在专业场景中的落地价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/china-launches-cybersecurity-review-into-palo-alto-networks": {
+    "title_clean": "中国启动对Palo Alto Networks网络安全审查",
+    "summary": "中国对美国科技公司Palo Alto Networks的产品启动正式安全审查，此前该公司被指控存在安全隐患。这一审查可能影响其在华业务，对元宝产品经理了解国际网络安全政策变化及海外市场准入风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/social-media-ban-how-do-limits-for-children-and-teens-work": {
+    "title_clean": "多国限制未成年人使用社交媒体",
+    "summary": "澳大利亚禁止16岁以下青少年使用社交媒体后，已有二十多个国家相继实施类似限制或正在考虑相关法规。这一趋势对AI助手产品在青少年内容过滤和家长控制功能方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-06/siemens-is-winning-customers-in-china-ceo-says-video": {
+    "title_clean": "西门子CEO：西门子在中国赢得客户",
+    "summary": "西门子CEO表示，公司在中国市场竞争力强劲，自动化业务表现优异，并就数据中心业务发表评论。这反映了工业自动化巨头在中国市场的成功策略，对元宝产品经理了解AI在工业场景的应用和国际化竞争策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/baseten": {
+    "title_clean": "Baseten：AI模型推理服务提供商",
+    "summary": "Baseten与Hugging Face合作，成为其推理服务提供商之一，为企业提供AI模型部署和推理能力。这一合作表明AI模型推理服务市场正在扩展，元宝产品经理可关注此类服务如何提升AI应用的部署效率和成本效益。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

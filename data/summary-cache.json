@@ -51783,5 +51783,78 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/siemens-raises-earnings-outlook-on-software-data-center-gains": {
+    "title_clean": "西门子上调盈利预期：数据中心与软件业务推动增长",
+    "summary": "西门子因数据中心支出激增及工业软件销售回报提高，年内第二次上调盈利预期。这反映了工业领域对软件和数据服务的强劲需求，对元宝产品经理评估B端AI服务商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-06/cybersecurity-firm-aura-ceo-on-2q26-results-video": {
+    "title_clean": "网络安全平台Aura CEO谈2026年第二季度业绩",
+    "summary": "网络安全平台Aura创始人兼CEO Hari Ravinchandran讨论公司增长前景，报告显示其调整后收入同比增长27%。这反映了网络安全服务市场的持续增长趋势，对元宝产品经理了解企业级AI安全服务市场格局和商业化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/chinese-renewable-energy-giant-envision-launches-data-center": {
+    "title_clean": "远景能源：中国可再生能源巨头进军数据中心领域",
+    "summary": "远景能源在中国内蒙古启动了吉瓦级数据中心的首期工程，这是可再生能源企业进入人工智能领域的罕见尝试。该动向表明传统能源巨头正积极布局AI基础设施，为元宝产品经理提供了能源与AI结合的新场景参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-plans-significant-price-increase-for-its-ai-services": {
+    "title_clean": "DeepSeek计划大幅提高AI服务价格",
+    "summary": "DeepSeek计划对其AI服务实施大幅提价，这一举措与此前通过低价策略给中美竞争对手带来压力的做法形成鲜明对比。这一价格变动可能反映AI服务市场成本结构变化或商业策略调整，对行业定价策略和竞争格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-05/bny-s-portney-on-global-digital-transfer-agency-launch-video": {
+    "title_clean": "BNY与Galaxy Digital合作推出全球数字转账机构",
+    "summary": "BNY宣布与Galaxy Digital建立新合作伙伴关系，旨在增强其数字资产基础设施，反映该银行持续扩大在数字资产领域存在的战略。这对产品经理了解传统金融机构与数字资产领域的融合趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048380&idx=2&sn=0ed98bd19c4dd5fde6f00883d086e147": {
+    "title_clean": "Fable5仅做对3.5%：大模型被动视觉能力测试",
+    "summary": "Fable5测试显示大模型在视觉任务上表现不佳，仅正确完成3.5%的任务，表明当前AI虽然具备图像识别能力，但缺乏主动视觉能力，无法像人类一样主动探索和理解环境。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

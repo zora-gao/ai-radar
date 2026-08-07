@@ -53375,5 +53375,68 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function": {
+    "title_clean": "Airbnb：AI加速功能开发并测试新搜索功能",
+    "summary": "Airbnb宣布利用AI加速产品功能开发，并推出一款带有切换按钮的AI驱动搜索体验。这展示了大型平台如何通过AI提升开发效率和用户体验，对AI助手在大型应用场景中的应用具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/shootclip": {
+    "title_clean": "ShootClip：AI视频加速编辑工具",
+    "summary": "ShootClip是一款AI视频编辑工具，声称能将视频编辑速度提升10倍。该产品专注于提高视频编辑效率，可能通过自动化处理、智能剪辑等功能实现快速编辑，对元宝产品经理在AI辅助内容创作工具方向具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/indra-wins-1-6-billion-contract-with-eu-satellite-project": {
+    "title_clean": "Indra赢得16亿欧元欧盟卫星项目合同",
+    "summary": "Indra旗下Hispasat公司成为欧盟IRIS²卫星项目主要承包商，合同价值超16亿欧元。该项目将为欧盟提供卫星通信服务，显示大型科技企业在政府航天项目中的商业机会，对元宝在政府与企业服务场景拓展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-07/apple-moves-to-capitalize-on-iphone-desire-in-india": {
+    "title_clean": "Apple 加速拓展印度市场：增设门店与融资方案",
+    "summary": "苹果公司通过增加零售店和提供融资方案，旨在提升印度市场iPhone用户覆盖率。这一策略反映了苹果对新兴市场的重视，以及通过本地化服务扩大用户基础的产品策略，对元宝在新兴市场的本地化运营有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-06/google-s-shakeup-complicates-race-with-openai-anthropic": {
+    "title_clean": "Google组织变动加剧与OpenAI、Anthropic的竞争",
+    "summary": "谷歌进入新的转型期，组织架构变动可能影响其在AI领域的竞争态势，特别是与OpenAI和Anthropic的竞争格局。产品经理需关注谷歌AI战略调整对行业竞争格局的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

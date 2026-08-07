@@ -52696,5 +52696,193 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/tencent-ai-spending-key-after-magnificent-7-rout": {
+    "title_clean": "腾讯AI支出：科技巨头投资策略调整",
+    "summary": "腾讯AI支出计划将受到投资者密切关注，随着市场对人工智能领域大规模投资的热情降温，腾讯等科技巨头的AI投资策略面临调整，这对AI行业整体投资趋势和产品商业化路径具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia": {
+    "title_clean": "AI数据中心公司Firmus获20亿美元融资",
+    "summary": "AI数据中心公司Firmus完成20亿美元融资，由Coatue、英伟达、黑石和Jane Street等机构投资。此轮融资反映AI基础设施领域的高资本投入趋势，对元宝产品经理评估AI服务底层成本和算力资源合作有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-07/bmi-s-chowdhury-on-copper-gold-oil-markets-video": {
+    "title_clean": "BMI分析师：地缘政治对铜、黄金和石油市场的影响",
+    "summary": "BMI商品研究主管Sabrin Chowdhury分析伊朗在霍尔木兹海峡袭击\"敌对目标\"后，贵金属和石油市场的前景。这为元宝产品经理提供了地缘政治事件对大宗商品市场影响的参考，有助于理解市场波动因素，为金融资讯类AI服务提供内容方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048783&idx=3&sn=5b6e1d931ace267aa578908218188315": {
+    "title_clean": "Meta发布首款编程Agent：模型能力直追Opus 5",
+    "summary": "Meta推出首款编程Agent，其背后模型能力已接近Opus 5水平。这一产品展示了Meta在AI编程助手领域的最新进展，对元宝产品经理了解AI Agent在编程场景的应用能力和发展方向具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400": {
+    "title_clean": "OpenAI：AI智能音箱售价300-400美元",
+    "summary": "OpenAI即将推出一款AI智能音箱，售价在300-400美元之间。这款产品将直接与亚马逊Echo、Google Home等竞品竞争，标志着OpenAI从纯软件向硬件领域拓展，对AI助手产品经理具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-06/conference-board-ceo-on-c-suite-optimism-hiring-plans-video": {
+    "title_clean": "Conference Board CEO谈高管乐观度与招聘计划",
+    "summary": "Conference Board CEO Steve Odland分享了最新高管信心调查结果，显示2026年第二至第三季度信心指数从47上升至52，反映了企业高管对未来商业环境的乐观态度及招聘计划的变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-06/cais-ceo-talks-new-funding-round-ai-s-fintech-impact-video": {
+    "title_clean": "CAIS CEO谈新融资轮次及AI对金融科技的影响",
+    "summary": "CAIS创始人、董事长兼CEO Matt Brown宣布公司完成1.7亿美元D轮融资，由Vista领投，Allianz Bernstein、Blue Owl和Carlyle参投。此次融资反映了AI在金融科技领域的投资热度，对元宝产品经理了解AI在金融服务场景的应用趋势和资本动向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-06/real-yield-8-6-2026-video": {
+    "title_clean": "美联储政策与市场环境分析：2026年8月6日",
+    "summary": "彭博真实收益率节目聚焦市场动态，摩根资产管理市场策略主管和法国巴黎银行专家讨论美联储政策沉默与利差收紧环境下的市场影响，为金融产品经理提供宏观经济与市场趋势参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300": {
+    "title_clean": "OpenAI推出环形智能音箱：售价超300美元",
+    "summary": "OpenAI即将推出一款环形设计的智能音箱设备，配备可动部件赋予其个性化外观，预计售价超过300美元。这款产品标志着OpenAI向硬件领域扩展，可能与其AI助手服务形成生态整合，对元宝产品经理评估AI硬件化趋势和商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-neoflo-ai": {
+    "title_clean": "Executive Interview: Neoflo AI：AI助手市场定位与合作伙伴策略访谈",
+    "summary": "Neoflo AI合作伙伴负责人Aakriti Nirvan接受CB Insights访谈，分享公司对市场的看法、客户需求分析以及自身在AI助手市场的定位。内容包含市场定义、公司战略定位及合作伙伴策略，对元宝产品经理了解AI助手市场格局和竞争策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/deepseek-resumes-8-billion-round-with-monolith-in-the-running": {
+    "title_clean": "DeepSeek重启80亿美元融资，Monolith Management参与竞标",
+    "summary": "DeepSeek已重启第二轮融资，寻求近80亿美元资金，Monolith Management正参与竞标。这对元宝产品经理具有重要参考价值，反映了AI大模型领域的资本热度与竞争态势，可能影响行业格局和资源分配。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/bose-debuts-revamped-quietcomfort-headphones-with-better-noise-cancellation": {
+    "title_clean": "Bose 推出新款 QuietComfort 耳机：升级降噪与设计",
+    "summary": "Bose 发布了 QuietComfort 耳机的最新版本，采用全新设计，改进了主动降噪功能，并保留了高端 'Ultra' 型号的几项特性。这款产品更新展示了传统音频厂商在降噪技术上的持续创新，对关注多模态交互和用户体验的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/uae-fund-weighs-6-3-billion-ai-data-center-investment-in-japan": {
+    "title_clean": "阿联酋考虑在日本投资63亿美元建设AI数据中心",
+    "summary": "阿联酋正考虑在日本投资高达63亿美元建设人工智能数据中心，这一投资规模反映了全球AI基础设施建设的加速趋势，对元宝产品经理了解AI算力资源布局和区域合作机会具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/deepambigqa-multihop-questions": {
+    "title_clean": "DeepAmbigQA：复杂多跳问题基准测试工具",
+    "summary": "DeepAmbigQA是一个基准测试工具，用于评估大型语言模型在处理复杂多跳问题时的答案完整性。该研究揭示了即使具备搜索工具的LLM在回答复杂问题时也常常无法提供完整的答案集合，这对AI助手产品在处理复杂查询时的能力评估具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai": {
+    "title_clean": "OpenAI与美国心理协会合作推进青少年心理健康与负责任AI使用",
+    "summary": "OpenAI与美国心理协会合作，共同推进基于证据的指导方针、资源和保障措施，旨在促进负责任的AI使用并关注青少年心理健康问题。这一合作为AI产品在青少年群体中的应用提供了专业指导框架，对元宝产品在安全设计和伦理应用方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

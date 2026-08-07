@@ -53035,5 +53035,168 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/blueberry-6": {
+    "title_clean": "Blueberry：防止社交失联工具",
+    "summary": "Blueberry是一款帮助用户避免在社交关系中'冷处理'他人（即突然停止联系）的工具，旨在改善人际关系管理，特别适合需要维护社交网络但容易忘记回复的用户。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentone-desktop": {
+    "title_clean": "AgentOne Desktop：免费可扩展桌面AI自动化工具",
+    "summary": "AgentOne Desktop是一款免费且可扩展的桌面AI自动化工具，旨在帮助用户自动化处理重复性工作。作为桌面端AI Agent产品，它为元宝产品经理提供了桌面自动化场景的参考价值，特别是在工具调用和自动执行方面的实现思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/andromeld": {
+    "title_clean": "AndroMeld：Android与Mac跨设备协同工具",
+    "summary": "AndroMeld是一款跨平台工具，旨在为Android和Mac设备提供类似苹果生态系统中的连续体验，实现设备间的无缝协作与数据同步。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stepshot-2": {
+    "title_clean": "StepShot：AI工作流程指南生成工具",
+    "summary": "StepShot是一款AI工具，能够将实际工作流程自动转化为分步骤操作指南。产品经理可参考其如何将复杂流程简化为用户指导，这对元宝的AI助手在提供操作指引和用户培训方面具有启发价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/reference-2": {
+    "title_clean": "Reference：AI 本地语义搜索工具",
+    "summary": "Reference 是一款专为 AI Agent 设计的本地语义搜索工具，能够帮助 AI 系统在本地数据中进行高效语义检索，提升 AI 对本地信息的理解和处理能力，对元宝产品经理在优化 AI 本地知识检索功能方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/prompt-bridge-2": {
+    "title_clean": "Prompt Bridge：AI上下文便携工具",
+    "summary": "Prompt Bridge是一款帮助用户在不同AI工具间保持上下文连续性的工具，解决了AI对话中上下文丢失的问题，使AI助手能跨平台保持对话连贯性，对提升AI助手用户体验具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-to-spend-38-billion-on-chip-factory-expansion-in-korea": {
+    "title_clean": "SK海力士斥资380亿美元扩建韩国芯片工厂",
+    "summary": "SK海力士计划在韩国投资54万亿韩元(380亿美元)扩建芯片制造设施，旨在快速将产能翻倍并缓解全球内存芯片短缺问题。这一大规模投资反映了半导体行业对内存芯片需求的持续增长，对AI硬件供应链和成本结构有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/troopr": {
+    "title_clean": "Troopr AI Scrum Master：AI敏捷开发会议助手",
+    "summary": "Troopr AI Scrum Master是一款AI工具，能根据实际工作内容自动生成敏捷开发团队的站会报告，并能记住团队成员信息。这款产品对元宝产品经理有参考价值，因为它展示了AI在专业工作场景中的应用，特别是如何通过AI助手帮助团队提高会议效率和记录质量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/alconost-localization": {
+    "title_clean": "Nitro 4.0：AI代理专用翻译平台",
+    "summary": "Nitro 4.0是全球首个专为AI代理设计的翻译平台，解决了AI在跨语言交互中的翻译需求。这一产品对元宝产品经理具有重要参考价值，因为它直接关联AI Agent的核心能力建设，特别是在多语言服务场景中的应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048735&idx=2&sn=ede9665de13b5750c3461462fb87d786": {
+    "title_clean": "反击VLA中「L」无用论：用对位置指令泛化能力暴涨20-40%",
+    "summary": "该研究针对视觉语言模型(VLA)中位置编码(L)无用论提出反驳，通过优化位置指令使用方法，使模型泛化能力提升20-40%。对AI产品经理理解多模态模型优化方向和性能提升策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs": {
+    "title_clean": "Suno：AI音乐生成水印技术",
+    "summary": "Suno公司宣布将为其AI生成的歌曲添加水印，此举正值该公司面临多起法律诉讼之际。这一技术措施可能有助于保护版权并应对法律挑战，对AI内容生成工具的合规发展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/us-futures-mixed-as-traders-weigh-memory-results-iran-progress": {
+    "title_clean": "美国股市因加息和中东担忧持续下跌",
+    "summary": "美国股市周四继续下跌，投资者正应对加息风险和地缘政治担忧加剧的双重压力。这一市场动向反映了宏观经济环境对科技企业估值的影响，对元宝产品经理评估市场环境变化和用户投资需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-06/why-universal-music-is-struggling-to-impress-investors": {
+    "title_clean": "环球音乐集团在AI时代难以打动投资者",
+    "summary": "环球音乐集团在AI音乐时代面临投资者信任危机，难以证明自身价值。这反映了传统音乐行业在AI冲击下的定位困境，对元宝产品经理思考AI内容创作与版权保护的服务场景有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

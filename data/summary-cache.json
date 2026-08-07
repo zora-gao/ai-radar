@@ -53438,5 +53438,78 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents": {
+    "title_clean": "Cloudflare：Kitesurf AI代理专用浏览器",
+    "summary": "Cloudflare推出Kitesurf，这是一款专为AI代理而非人类设计的云端浏览器，声称在常见自动化任务中比Chrome消耗更少的计算资源。这反映了AI代理工具链的发展趋势，对元宝的产品经理了解AI代理的运行环境和效率优化有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/eu-accelerates-sovereign-satellite-plans-citing-defense-needs": {
+    "title_clean": "欧盟加速推进主权卫星计划以应对国防需求",
+    "summary": "欧盟宣布加快主权卫星星座计划，将服务启动时间提前至2029年，以应对变化的安全环境。这一动向反映了地缘政治紧张局势下，欧洲在太空基础设施自主性方面的战略调整，对AI助手在国防和安全领域的应用场景拓展具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
+    "title_clean": "OpenAI：发布Astra网络安全评估与安全强化措施",
+    "summary": "OpenAI公布了Astra的初步网络安全评估结果，并分享了加强安全防护和控制措施的具体步骤。这反映了AI公司在应对网络安全挑战方面的最新进展，对元宝产品经理了解AI安全防护机制和行业标准具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets": {
+    "title_clean": "SK海力斯考虑出售重庆价值30亿美元资产",
+    "summary": "韩国SK海力斯公司正考虑出售其位于重庆的资产，包括引入投资者帮助加速增长。这一决策可能影响全球存储芯片供应链格局，对关注半导体行业动态和供应链风险的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-07/what-deepmind-s-shakeup-means-for-the-uk-s-ai-ambitions-video": {
+    "title_clean": "DeepMind高层变动对英国AI雄心的影响",
+    "summary": "DeepMind负责人Demis Hassabis离职削弱了伦敦在AI竞赛中的竞争力，反映了谷歌内部AI战略的'引力转变'。这一变动可能影响英国AI发展路径和全球AI竞争格局，对元宝产品经理了解AI行业领导层变动带来的战略调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/scaling-categorical-flow-maps": {
+    "title_clean": "Scaling Categorical Flow Maps：语言模型新方法研究",
+    "summary": "该研究探讨了连续扩散和流匹配模型作为语言建模中自回归方法的替代方案，指出其解锁了当前仅限于特定方法的优势。这项研究对AI产品经理了解语言模型前沿技术方向有参考价值，可能影响未来AI助手的产品架构设计。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

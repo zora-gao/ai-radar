@@ -53657,5 +53657,78 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-07/gen-ceo-on-earnings-new-cybersecurity-attack-tracker-video": {
+    "title_clean": "Gen Digital CEO谈业绩与新型网络安全攻击追踪器",
+    "summary": "Gen Digital上调盈利预期后股价近一年内达到最高点，CEO Vincent Pilette就公司业绩表现及新型网络安全攻击追踪器发表评论。这对产品经理了解企业级AI安全产品市场动态和商业化机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-finmo": {
+    "title_clean": "CEO访谈：Finmo",
+    "summary": "Finmo Tech CEO David Hanna接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了金融科技领域创业公司的市场策略和客户洞察，对元宝产品经理了解B端金融科技服务场景和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns": {
+    "title_clean": "OpenAI暂停Astra模型开发：加强网络安全防护",
+    "summary": "OpenAI因发现其新AI模型Astra在网络安全能力上显著提升，决定暂停部分内部工作以实施更严格的安全保障措施。这反映了AI安全与能力发展之间的平衡挑战，对产品经理评估AI模型安全策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli": {
+    "title_clean": "Stanford Evo 2 AI模型：生成对抗大肠杆菌的噬菌体",
+    "summary": "斯坦福研究人员利用Evo 2生成式AI模型创建DNA序列，合成了近300种噬菌体，实验室测试筛选出16种对大肠杆菌具有强效作用的噬菌体。这展示了AI在药物发现和生物合成领域的应用潜力，为元宝在医疗健康场景的AI应用提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/uk-to-tighten-land-rules-used-by-aldi-and-lidl-to-avoid-rivals": {
+    "title_clean": "英国将收紧折扣超市Aldi和Lidl的土地使用规则",
+    "summary": "英国反垄断监管机构宣布将修改土地使用规则，禁止折扣超市Aldi和Lidl阻止竞争对手在其门店附近开设新店，旨在为零售市场创造更公平的竞争环境。这一政策变化可能影响零售业选址策略和市场竞争格局，对元宝在服务场景拓展和商业化策略上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/softbank-backed-3d-printer-maker-formlabs-is-said-to-weigh-ipo": {
+    "title_clean": "Formlabs：3D打印机制造商考虑IPO",
+    "summary": "Formlabs是一家3D打印机制造商，据消息人士透露，该公司正在与潜在顾问进行早期洽谈，考虑进行首次公开募股(IPO)。这对元宝产品经理的参考价值在于了解硬件+软件结合的公司商业化路径，特别是3D打印这一垂直领域的市场动态和资本动向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

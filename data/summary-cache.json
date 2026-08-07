@@ -52646,5 +52646,55 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-directs-chip-windfall-into-korean-corporate-bond-market": {
+    "title_clean": "SK海力士：芯片行业繁荣推动企业债券市场投资",
+    "summary": "SK海力士利用AI芯片行业带来的资金盈余，积极投资韩国企业债券市场。这一动向反映了半导体企业在AI热潮中的资金配置策略，对元宝产品经理了解AI硬件产业链的资金流向和投资趋势具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651048893&idx=2&sn=1b22b7c3eda4d926e7d1ebc76d5a5662": {
+    "title_clean": "DeepSeek官宣即将大幅涨价，服务器负载激增",
+    "summary": "DeepSeek宣布即将大幅调整价格策略，导致服务器负载激增。这一变化反映了AI服务成本压力增大，可能影响市场定价策略和用户使用习惯，对产品经理评估AI服务成本结构和定价策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-06/bloomberg-tech-8-06-2026-video": {
+    "title_clean": "红杉资本、Alphabet与AI资本周期 | Bloomberg Tech",
+    "summary": "Bloomberg报道Alphabet最新巨额债券发行获得约1150亿美元认购，远超原计划的250亿美元，显示投资者对AI相关债务的强烈兴趣。这反映了AI领域资本流动趋势，对元宝产品经理判断AI行业投资热度与资金流向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company": {
+    "title_clean": "Naïve：企业自动化基础设施工具",
+    "summary": "Naïve获得2850万美元融资，其基础设施可自动化处理企业设立和运营的大部分工作，将'氛围编程'概念进一步扩展到企业运营自动化领域。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

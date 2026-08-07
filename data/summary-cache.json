@@ -52884,5 +52884,156 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/bap-studio": {
+    "title_clean": "BAP Studio：浏览器运行的MPC风格鼓机工具",
+    "summary": "BAP Studio是一款在浏览器标签页中运行的MPC风格鼓机工具，为音乐创作者提供便捷的在线鼓点制作体验。产品经理可关注其轻量化音乐工具的开发模式，探索AI在音乐创作辅助领域的应用可能性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/har": {
+    "title_clean": "HAR：开源多智能体编码工作流工具",
+    "summary": "HAR是一个开源工具，专为多智能体编码工作流设计，能够协调多个AI智能体协同完成编程任务。产品经理可关注其多智能体协作机制，为元宝的AI Agent功能开发提供参考，特别是在复杂编程任务中的分工协作模式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mem0-5": {
+    "title_clean": "Mem0：AI Agent 持久化记忆层",
+    "summary": "Mem0 是一个为 AI Agent 提供持久化记忆层的工具，使 AI 能够长期保存和利用用户交互信息，提升个性化服务能力。这对元宝产品经理在构建长期记忆功能和个性化服务方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code": {
+    "title_clean": "Crew：Claude Code 代理小助手工具",
+    "summary": "Crew 是一款为 Claude Code 代理提供的小型助手工具，帮助用户管理和操作 AI 代理团队。该工具可能增强 Claude 的多代理协作能力，对元宝产品经理在 AI 代理团队管理功能设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/datablur": {
+    "title_clean": "DataBlur：屏幕敏感信息模糊工具",
+    "summary": "DataBlur是一款屏幕信息模糊工具，可在他人查看前自动模糊屏幕上的敏感数据，帮助用户保护隐私信息。产品经理可参考其隐私保护功能设计，为元宝增加类似的数据安全防护能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/whop-cli": {
+    "title_clean": "Whop CLI：终端业务管理工具",
+    "summary": "Whop CLI是一款通过命令行界面管理整个业务的工具，允许用户在终端中执行各种业务操作。对于元宝产品经理而言，这展示了AI助手向企业级业务管理场景扩展的可能性，特别是在简化复杂业务流程和提升效率方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/progress-ai-observability": {
+    "title_clean": "Progress AI Observability：AI生产环境观测工具",
+    "summary": "Progress推出AI Observability工具，用于追踪、评估和改进生产环境中的AI代理性能。该工具帮助产品经理监控AI系统在生产环境中的表现，优化Agent执行效果，是AI产品运维和迭代的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rindler": {
+    "title_clean": "Rindler：网页工作自动化工具",
+    "summary": "Rindler是一款自动化工具，旨在帮助团队将手动执行的网页工作流程自动化，可能涉及数据提取、表单填写或网页交互等任务，可提升团队效率并减少重复性人工操作，对元宝产品经理在自动化服务场景设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/chinese-ai-chipmakers-poised-to-gain-from-beijing-s-tech-push": {
+    "title_clean": "中国AI芯片制造商有望受益于北京的技术推动",
+    "summary": "中国AI芯片设计公司预计在本财季实现强劲销售，受益于北京推动本土企业使用国产组件、减少对美国技术依赖的政策。这一趋势为元宝产品经理提供了AI硬件供应链变化的参考，可能影响AI服务成本与本地化策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-06/advanced-micro-devices-to-buy-startup-taalas-for-new-ai-chips": {
+    "title_clean": "AMD收购Taalas公司拓展AI芯片业务",
+    "summary": "AMD宣布收购加拿大初创公司Taalas，此举将使其能够为蓬勃发展的数据中心行业提供另一种类型的人工智能芯片，进一步强化其在AI硬件领域的竞争力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-dentira": {
+    "title_clean": "Dentira：CEO访谈与市场定位",
+    "summary": "Dentira CEO Vikas Gupta接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身在行业中的定位。这为理解AI服务企业的市场策略和客户洞察提供了参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking": {
+    "title_clean": "Gen Z约会应用Ditto：AI匹配替代滑动交友",
+    "summary": "针对Z世代对滑动交友应用的失望，Ditto等约会应用转向AI匹配技术，通过算法帮助用户寻找更合适的伴侣，反映了年轻用户对传统交友方式的厌倦和对AI辅助社交的接受度提升。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

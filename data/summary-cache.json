@@ -54014,5 +54014,30 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/astrapixels": {
+    "title_clean": "AstraPixels：像素艺术太阳系实时位置展示",
+    "summary": "AstraPixels是一款将太阳系天体以像素艺术形式实时展示的工具，能够准确呈现各行星在当前的真实位置。产品经理可参考其将天文数据可视化、实时位置追踪等交互方式融入AI助手，为用户提供教育类或兴趣类服务场景的创新思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bevel-4": {
+    "title_clean": "Hexis：AI Agent的Git支持技能工具",
+    "summary": "Hexis是一个为AI Agent提供Git支持的技能、工具和上下文平台，使AI能够利用Git版本控制系统管理其技能和工具，增强AI Agent的可扩展性和可维护性，对构建更强大的AI Agent架构具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

@@ -53939,5 +53939,56 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool": {
+    "title_clean": "Rippling：企业AI支出追踪工具",
+    "summary": "Rippling在投入数百万美元用于AI后，推出AI Spend Console，用于追踪员工和团队的AI支出情况。这反映了企业对AI成本管理的需求，为元宝产品经理提供了企业级AI工具商业化的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns": {
+    "title_clean": "OpenAI因安全顾虑放缓Astra模型开发",
+    "summary": "OpenAI表示其仍在开发中的Astra模型已达到\"关键网络安全阈值\"，能够独立识别并执行针对传统安全系统的网络攻击，因此放缓了该模型的开发进度。这对AI安全边界和产品经理评估AI能力风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands": {
+    "title_clean": "摩根大通：科技企业AI债券发行规模将超5000亿美元",
+    "summary": "摩根大通预测，科技企业今年相关债券发行规模将超过5000亿美元，超大规模企业正积极投入资本用于AI基础设施建设。这反映了AI领域巨大的资本投入趋势，对元宝产品经理了解AI行业投资热点和商业化机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049145&idx=1&sn=31528b6df755f233fbea545acd96a0df": {
+    "title_clean": "Dario：企业员工调查工具",
+    "summary": "Dario公司被曝雇佣专人调查自家员工，引发关于企业监控与员工隐私的争议。这一事件反映了AI时代企业内部管理的新挑战，对产品经理思考AI助手在企业场景中的应用边界与伦理问题具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

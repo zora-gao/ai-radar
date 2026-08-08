@@ -54065,5 +54065,67 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049201&idx=3&sn=0d392ccc606293b0469161d091a1d940": {
+    "title_clean": "浙大提出Agent：让生成式模型实现空间智能",
+    "summary": "浙江大学提出一种新方法，让生成式模型通过'画'出空间智能而非输出坐标，这可能改变AI对空间信息的处理方式，为空间理解类AI应用提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049212&idx=2&sn=ce443ab5ab3be4e1244f871e621ca9f6": {
+    "title_clean": "Anthropic：ClaudeCode 全自动编程工具更安全",
+    "summary": "Anthropic对1000名程序员测试后发现，ClaudeCode全自动编程模式比半自动模式更安全可靠。这一发现对AI编程工具的设计具有重要参考价值，提示全自动模式可能更适合代码生成场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049164&idx=1&sn=0bc45dc80a60435f12d623fa09c1111b": {
+    "title_clean": "Netflix CPTO：AI时代人才重构策略",
+    "summary": "Netflix首席产品技术官分享在AI技术变革背景下，公司如何调整人才战略和组织结构，以应对AI带来的挑战和机遇。这对元宝产品经理有参考价值，特别是在AI团队建设和人才转型方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049164&idx=2&sn=f1da17c3ed342b8ba29ca7a6f0c86fdb": {
+    "title_clean": "南京大学基于昇腾算力提出连续扩散语言模型",
+    "summary": "继何恺明团队ELF后，南京大学基于昇腾算力同步提出连续扩散语言模型，这是语言模型架构的创新尝试，可能影响AI大模型的训练效率和性能表现，对产品经理了解AI技术前沿有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s": {
+    "title_clean": "亚马逊德州数据中心计划：或成美国最大气候污染源",
+    "summary": "亚马逊计划在德州建设数据中心，并配套建设现场发电厂，该发电厂可能成为美国最大的气候污染源。这一信息对产品经理了解科技巨头在可持续发展方面的挑战与权衡有参考价值，特别是在评估AI服务环境成本时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

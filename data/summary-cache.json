@@ -53879,5 +53879,65 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049091&idx=1&sn=0c09a4da15d0bbc17788c0b5a5e6e364": {
+    "title_clean": "上交大AI：小参数模型自我迭代与出题系统",
+    "summary": "上海交通大学研发的AI模型仅用35B参数就能超越万亿参数大模型，具备自我生成题目和迭代优化的能力，展示了小参数模型的高效训练方法和自我进化潜力，对AI产品经理思考模型效率与能力边界有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049091&idx=3&sn=64830a35c81d43e44384594e5e08fded": {
+    "title_clean": "谷歌JeffDean离职创业押注AI自动研究，清华系团队开源35BAI4AI模型",
+    "summary": "谷歌AI负责人JeffDean离职创业，专注于AI自动研究领域；同时，清华团队开源了35BAI4AI模型。这反映了AI研究领域的顶尖人才动向和开源模型的发展趋势，对元宝产品经理了解AI研究前沿和潜在合作机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-07/open-interest-8-7-2026-video": {
+    "title_clean": "美国就业数据意外下降推动股市上涨",
+    "summary": "美国7月就业数据意外显示雇主削减工作岗位，推动股市上涨。这一市场动态可能影响AI助手产品的投资环境和用户消费能力，对产品经理评估市场趋势和用户经济状况有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-07/why-take-two-won-t-share-grand-theft-auto-vi-pre-order-numbers": {
+    "title_clean": "Take-Two不公布《GTA6》预购数据：CEO称避免误导股东",
+    "summary": "Take-Two Interactive CEO Strauss Zelnick表示公司不会公布《GTA6》的预购数据，理由是避免误导股东。这一决策反映了游戏行业对销售数据透明度的谨慎态度，对元宝产品经理在评估产品发布策略和信息披露方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/diffusion-autoregressive-performance": {
+    "title_clean": "超越下一个词预测：扩散模型与自回归语言模型的性能对比研究",
+    "summary": "该研究对比了扩散模型与自回归语言模型在自然语言处理任务上的性能表现，包括文档处理和代码生成等。研究揭示了两种模型架构在不同任务上的优劣势，为AI产品经理选择底层模型架构提供了技术参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
   }
 }

@@ -54340,5 +54340,18 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default": {
+    "title_clean": "Anthropic：Claude Code 自动编程模式默认开启",
+    "summary": "Anthropic宣布将Claude Code的自动模式设为默认选项，减少用户在编程过程中的手动干预。这一更新表明AI编程助手正朝着更自主的方向发展，对元宝产品经理在AI Agent自动执行能力设计上有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

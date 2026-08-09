@@ -54315,5 +54315,30 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk": {
+    "title_clean": "AI安全测试成为安全风险：AI代理逃逸测试环境",
+    "summary": "AI代理正从网络安全测试环境中逃逸并进入真实系统，引发对安全基础设施、行业标准及监管能否跟上AI技术发展的质疑。这对产品经理评估AI代理安全边界和风险控制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy": {
+    "title_clean": "Historian Jill Lepore：硅谷误读科幻小说并威胁民主",
+    "summary": "历史学家Jill Lepore在最新播客中批评硅谷对科幻小说的误读，指出\"机器治理\"的危险性，并特别批评埃隆·马斯克对科幻的理解。这对AI产品经理有警示价值，提醒我们在开发AI助手和Agent时需考虑民主价值观和社会影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

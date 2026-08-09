@@ -54179,5 +54179,117 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/good-assistant": {
+    "title_clean": "Good Assistant 2：生活目标每日进度追踪工具",
+    "summary": "Good Assistant 2 是一款帮助用户将长期生活目标转化为每日具体行动进度追踪的工具，通过将大目标分解为可执行的小任务，帮助用户持续实现个人成长和目标达成。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/argos-2": {
+    "title_clean": "Argos：浏览器AI代理工具",
+    "summary": "Argos是一款浏览器内运行的AI代理工具，能够代表用户执行操作。该产品直接解决了用户需要自动化浏览器任务的需求，对元宝产品经理在AI代理功能设计和浏览器场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/radiushq": {
+    "title_clean": "radiusHQ：智能日程链接管理工具",
+    "summary": "radiusHQ提供一站式链接解决方案，帮助用户整合和管理各类日程安排，简化会议协调流程，解决多人时间安排混乱问题，提升团队协作效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/soup-cli": {
+    "title_clean": "Soup CLI：在4GB GPU上微调8B大模型工具",
+    "summary": "Soup CLI是一款命令行工具，允许用户在仅有4GB显存的笔记本电脑GPU上微调80亿参数的大语言模型，显著降低了AI模型训练的硬件门槛，为产品经理提供了轻量化AI能力落地的技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/conferencegrid": {
+    "title_clean": "ConferenceGrid：B2B团队会议数据库工具",
+    "summary": "ConferenceGrid是一个专为B2B团队设计的会议数据库工具，帮助团队管理和组织各类会议信息。对于元宝产品经理而言，这反映了B2B场景下会议管理作为AI服务应用场景的潜力，可作为企业级AI助手功能设计的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/workflo-2": {
+    "title_clean": "Workflo：Mac工作空间自动化工具",
+    "summary": "Workflo是一款Mac工作空间自动化工具，能够在不查看用户屏幕的情况下实现工作流程自动化，帮助用户提高工作效率，减少重复性操作，对元宝产品经理在自动化工作流程和隐私保护方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/grok-com-beta": {
+    "title_clean": "Grok Imagine 2.0：下一代AI图像生成器",
+    "summary": "Grok Imagine 2.0是一款新一代AI图像生成工具，具备图像分割编辑功能，能够生成并精细编辑图像。这对产品经理了解AI图像生成技术的最新进展和交互方式有参考价值，特别是在多模态AI服务领域。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/duckdisk": {
+    "title_clean": "DuckDisk：Mac云存储与SSH分析工具",
+    "summary": "DuckDisk是一款面向Mac用户的存储分析工具，支持对本地、云端和SSH存储进行表格化分析，帮助用户直观了解存储使用情况和空间分布，对元宝产品经理在文件管理类AI服务场景设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/papaya-4": {
+    "title_clean": "Papaya：私密性个人回顾工具",
+    "summary": "Papaya是一款私密性个人回顾工具，专为用户提供安全的个人记录存储，确保数据仅保留在用户设备上，不涉及云端传输或第三方访问，注重用户隐私保护。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

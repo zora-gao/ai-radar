@@ -54127,5 +54127,57 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049157&idx=1&sn=9c96fab98d891cea74930d48365974af": {
+    "title_clean": "OpenAI紧急暂停最强模型Astra发布",
+    "summary": "OpenAI紧急暂缓发布其最强模型Astra，具体原因未公开。这一突发动态对AI行业格局和产品规划有重要参考价值，表明顶级AI模型发布可能面临技术或战略调整风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049201&idx=2&sn=8a27a26d25acedc9665fe59d19f41e5a": {
+    "title_clean": "谷歌AI重组：创始人布林亲自盯Gemini，哈萨比斯交权",
+    "summary": "谷歌进行AI业务重组，创始人拉里·布林将亲自监督Gemini项目，DeepMind负责人哈萨比斯交权。这反映了谷歌对AI战略的调整，对元宝产品经理了解科技巨头AI组织架构变化和产品方向调整有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI搜索",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049212&idx=1&sn=e9b3e21559336370ab6b5a5d4e575262": {
+    "title_clean": "ClaudeCode：AI助手跨窗口私聊功能更新",
+    "summary": "ClaudeCode推出重大更新，实现AI助手之间的跨窗口私聊功能。这一功能增强了AI协作能力，为产品经理提供了AI Agent间通信与协作的新思路，对构建多AI协同系统具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049201&idx=1&sn=f8110edb2ca6e5ca038bf0e8196394b0": {
+    "title_clean": "Harness：AI模型性能优化工具",
+    "summary": "Harness工具在五项测试中击败了价格高出57.1倍的Claude Opus 4.8模型，表明优化技术可能比模型本身对性能影响更大。这对产品经理思考AI服务成本与效率平衡有参考价值，可能启发轻量化、高性价比的AI解决方案方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

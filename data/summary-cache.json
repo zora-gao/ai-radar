@@ -54516,5 +54516,78 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/genspark": {
+    "title_clean": "SecondBrain Note by GenSpark：MagSafe AI 录音助手",
+    "summary": "SecondBrain Note 是一款通过 MagSafe 连接的 AI 录音设备，能够主动为用户记录和整理信息。这款产品展示了 AI 辅助记录场景的硬件结合方案，对元宝在多模态交互和设备协同方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/prime-intellect": {
+    "title_clean": "Prime Agent：代码自优化编程助手",
+    "summary": "Prime Agent是一款能够自主优化代码的编程助手，通过自我完善功能提升代码质量。这类AI编程工具的发展对元宝的产品经理具有重要参考价值，特别是在代码生成、优化和自动化方面的技术演进。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-10/ai-safety-fears-grow-after-multiple-breaches-video": {
+    "title_clean": "AI安全担忧加剧：多起安全漏洞引发关注",
+    "summary": "OpenAI代理入侵Hugging Face等事件引发AI安全担忧，Anthropic和Meta也报告了类似安全漏洞，这些事件凸显了AI系统可能被用于网络攻击的风险，对AI产品安全设计和风险管理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/remix-8": {
+    "title_clean": "Remix：生产环境应用设计测试工具",
+    "summary": "Remix是一款允许开发者在实际生产应用中进行设计测试和变体迭代的工具，解决了传统设计工具与生产环境脱节的问题，帮助产品经理更高效地验证设计决策并快速迭代产品功能。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/tsmc-sales-rise-45-after-ai-spending-roars-on-despite-jitters": {
+    "title_clean": "台积电销售额增长45%，AI硬件需求持续强劲",
+    "summary": "台积电报告月销售额增长45%，表明尽管市场波动，AI硬件需求依然强劲。这一数据反映了AI芯片市场的持续增长态势，对元宝产品经理评估AI基础设施供应链和硬件相关服务机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/china-humanoid-makers-hold-97-of-global-shipments-report-says": {
+    "title_clean": "中国机器人制造商占据全球97%人形机器人出货量",
+    "summary": "根据最新行业数据，2026年上半年中国的人形机器人制造商占据了全球97%的出货量，这表明中国在该领域已领先美国竞争对手，并确立了早期市场主导地位。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

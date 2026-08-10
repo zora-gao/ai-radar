@@ -54589,5 +54589,54 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ai-group-call": {
+    "title_clean": "AI Group Call：多人实时语音AI协作工具",
+    "summary": "用户输入目标后可加入包含六个人工智能的实时语音通话，通过AI协作完成特定任务。该产品为团队协作提供了新型AI交互方式，对元宝在多模态交互和AI协作场景设计方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gutta": {
+    "title_clean": "Gutta：Mac菜单栏离线任务清单工具",
+    "summary": "Gutta是一款轻量级Mac菜单栏任务管理工具，支持离线使用，专注于简洁高效的任务记录功能。对于元宝产品经理而言，这反映了轻量化、本地化任务管理工具的市场需求，可作为AI助手任务管理功能设计的参考方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/rakuten-earns-first-profit-in-six-years-due-to-e-commerce-jump": {
+    "title_clean": "乐天集团：金融科技助力实现六年来首次盈利",
+    "summary": "乐天集团凭借金融科技和电商业务的强劲增长，实现了六年来首次季度净利润。这一盈利转变表明金融科技业务已成为集团重要增长引擎，对元宝产品经理评估AI服务商业化路径具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vidaya": {
+    "title_clean": "Vidaya：健康寿命评分工具",
+    "summary": "Vidaya是一款健康数据分析工具，通过整合可穿戴设备、实验室检测和DNA数据，为用户提供健康寿命评分。该产品将多源健康数据转化为量化指标，对元宝在健康服务场景的AI应用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
   }
 }

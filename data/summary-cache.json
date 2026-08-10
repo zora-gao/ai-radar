@@ -54790,5 +54790,105 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-10/intel-drops-after-issuing-common-stock-offering-video": {
+    "title_clean": "英特尔宣布150亿美元股票融资，股价下跌",
+    "summary": "英特尔宣布将发行150亿美元普通股融资，资金将用于AI领域增长机会。这一消息导致公司股价周一早盘下跌，反映了市场对大规模融资可能稀释股权的担忧，同时也表明英特尔正加大在AI领域的投入力度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-10/nyt-ceo-on-running-a-media-brand-in-the-age-of-ai-video": {
+    "title_clean": "纽约时报CEO谈AI时代的媒体品牌运营",
+    "summary": "纽约时报CEO和总裁Meredith Kopit Levien在Odd Lots播客中分享了生成式AI在新闻采集中的良好应用观点，探讨了AI如何重塑媒体行业，对元宝产品经理了解AI内容创作和媒体行业AI应用策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/responsible-ai-infrastructure-texas": {
+    "title_clean": "OpenAI致德州州长信函：承诺在德克萨斯州建设负责任AI基础设施",
+    "summary": "OpenAI向德州州长Greg Abbott致函，承诺在德克萨斯州建设负责任的AI基础设施，支持可靠、透明的AI发展，以造福德州居民。这反映了OpenAI对区域AI治理的重视，对元宝在区域化AI服务部署和合规策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/apple-cut-at-jefferies-on-iphone-worries-as-sell-ratings-pile-up": {
+    "title_clean": "苹果遭Jefferies下调评级，iPhone销售担忧引发分析师集体看跌",
+    "summary": "Jefferies将苹果评级下调至\"跑输大盘\"，成为近期多家机构对苹果持悲观态度的最新案例。这反映了市场对iPhone销售表现的担忧，可能影响苹果的AI服务战略和产品经理对AI助手生态布局的判断。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/microsoft-plans-production-boost-for-ai-chips-information-says": {
+    "title_clean": "Microsoft计划大幅提升AI芯片产量",
+    "summary": "微软计划大幅增加下一代AI芯片的产量，这表明公司正在加大对AI基础设施的投资，以满足不断增长的AI计算需求。这一动向对元宝产品经理具有重要参考价值，反映了AI芯片供应市场的变化趋势，可能影响AI服务的成本和可用性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/unitree-s-shanghai-ipo-5-526-times-subscribed-by-retail-buyers": {
+    "title_clean": "宇树科技上海IPO获零售投资者5526倍认购",
+    "summary": "中国领先的人形机器人制造商宇树科技(Unitree Robotics)在上海进行首次公开募股，获得零售投资者5526倍认购，显示市场对人形机器人领域的强烈兴趣和投资热情。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips": {
+    "title_clean": "Discovered Materials：AI芯片材料研发公司",
+    "summary": "Discovered Materials获得900万美元融资，利用AI技术寻找新型材料以开发更高效的芯片。该公司专注于通过AI方法加速材料发现过程，为半导体行业提供创新解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-10/tsmc-sales-rise-as-ai-hardware-demand-stays-strong-video": {
+    "title_clean": "台积电销售额增长：AI硬件需求持续强劲",
+    "summary": "台积电月销售额增长45%，显示在市场波动情况下AI硬件需求依然强劲。这一数据表明AI芯片市场持续火热，对元宝产品经理评估AI基础设施供应链和硬件相关服务机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

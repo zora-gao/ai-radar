@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-08-10T20:34:57.758Z",
+  "generated_at": "2026-08-10T22:30:13.295Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "meta/muse-glimmer-30b",
+      "name": "Muse Glimmer 30B",
+      "vendor": "Meta",
+      "vendor_slug": "meta",
+      "url": "https://openrouter.ai/meta/muse-glimmer-30b-20260810",
+      "created_at": "2026-08-09T19:06:34Z",
+      "context_length": 131072,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.35,
+      "price_out": 1.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Muse Glimmer 30B is a dense, open-weight multimodal model from Meta Superintelligence Labs, distilled from Muse Spark and optimized for autonomous agents on consumer hardware. It is suited for long-horizon...",
+      "description_zh": "Muse Glimmer 30B 是来自 Meta Superintelligence Labs 的密集、开放权重多模态模型，从 Muse Spark 中提炼出来，并针对消费类硬件上的自主代理进行了优化。它适用于长视野..."
+    },
     {
       "id": "inclusionai/ling-3.0-tiny:free",
       "name": "Ling 3.0 Tiny (free)",
@@ -1300,8 +1324,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.531,
-      "price_out": 1.668,
+      "price_in": 0.503,
+      "price_out": 1.58,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1446,31 +1470,6 @@
       ],
       "price_in": 10,
       "price_out": 50,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Fable 5 is a Mythos-class model from Anthropic, built for autonomous knowledge work and coding. It supports text, image, and file inputs with text output, with reasoning support and...",
-      "description_zh": "Claude Fable 5 是 Anthropic 的 Mythos 级模型，专为自主知识工作和编码而构建。它支持文本、图像和文件输入以及文本输出，并具有推理支持和..."
-    },
-    {
-      "id": "anthropic/claude-fable-5:batch",
-      "name": "Claude Fable 5 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-5-fable-20260609",
-      "created_at": "2026-06-09T12:18:35Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 25,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

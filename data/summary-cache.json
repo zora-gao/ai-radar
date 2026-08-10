@@ -54890,5 +54890,127 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-10/apple-downgraded-at-jefferies-on-iphone-outlook-video": {
+    "title_clean": "苹果被下调评级：iPhone前景担忧",
+    "summary": "Jefferies分析师将苹果评级从持有下调至跑输大市，并将目标价从285.56美元下调至263.66美元。分析师担忧苹果已不再是供应链的王者，iPhone前景面临挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/building-an-ai-native-finance-function": {
+    "title_clean": "OpenAI CFO分享构建AI原生财务职能的经验",
+    "summary": "OpenAI财务总监Sarah Friar分享了构建AI原生财务职能的五点经验，包括自动化预测、强化控制和AI投资回报率等方面，为AI产品在财务场景的应用提供了实践参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-10/gamestop-may-pull-56-billion-ebay-bid-video": {
+    "title_clean": "GameStop可能放弃560亿美元收购eBay计划",
+    "summary": "GameStop可能放弃对eBay的560亿美元收购提案，转而寻求合作。这一潜在交易变化可能影响电商与游戏零售行业的整合趋势，对元宝产品经理了解大型企业战略调整与市场整合有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision": {
+    "title_clean": "Meta发布Glimmer AI模型：展示扎克伯格的个人智能愿景",
+    "summary": "Meta推出开源的Muse Glimmer模型，展现了扎克伯格的个人超级智能愿景，同时揭示了用户可拥有与访问的AI之间日益扩大的差距。该模型对产品经理了解科技巨头对AI个人化发展的战略方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.microsoft.com/signal/articles/how-to-build-an-ai-agent-guide": {
+    "title_clean": "如何构建AI代理：面向所有人的简易指南",
+    "summary": "这篇指南介绍了构建AI代理的基本方法和步骤，适合非技术人员理解AI代理的开发流程。对元宝产品经理有参考价值，可作为产品设计和功能实现的入门指导。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-tmrw": {
+    "title_clean": "Executive Interview: TMRW",
+    "summary": "TMRW公关与传播主管Melissa Circosta接受CB Insights采访，分享公司对市场的看法、客户需求认知以及自身定位。该访谈提供了TMRW的市场战略和业务定位信息，对了解该公司的市场策略和竞争定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/model-ml": {
+    "title_clean": "Model ML：GPT-5.6 Sol驱动的金融工作效率工具",
+    "summary": "Model ML利用GPT-5.6 Sol技术，将金融工作从研究分析到可编辑、可追踪的PowerPoint演示文稿和Excel工作簿流程化，显著提升金融工作效率。该工具展示了AI在专业领域工作流整合的应用价值，对元宝在垂直领域AI应用场景拓展具有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-10/meta-releases-ai-model-you-can-use-at-home-video": {
+    "title_clean": "Meta 发布可在本地运行的 Muse Glimmer AI 模型",
+    "summary": "Meta 发布了名为 Muse Glimmer 的小型 AI 模型，消费者可下载并在个人电脑上使用。这标志着大型科技公司开始提供本地化 AI 解决方案，可能影响元宝在轻量级 AI 模型部署方面的产品策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/public/ai-ipo-results-lp-liquidity-gershfeld-flint": {
+    "title_clean": "AI上市最大影响：后续融资循环与行业资本流动",
+    "summary": "AI公司大规模上市不仅影响公开市场估值，更重要的是为有限合伙人带来显著流动性，进而推动新一轮风险投资基金筹集，形成资本循环。这对元宝产品经理理解AI行业资本动向和投资趋势有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards": {
+    "title_clean": "Meta 支持德州州长数据中心标准",
+    "summary": "Meta 支持德州州长 Greg Abbott 关于负责任数据中心发展的承诺，Meta 承担其数据中心的全部能源和水成本，不转嫁给消费者。这反映了大型科技公司在数据中心可持续发展方面的责任担当。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

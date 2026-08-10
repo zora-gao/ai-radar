@@ -54688,5 +54688,107 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers": {
+    "title_clean": "Anthropic与麦格理和GIC合作成立AI数据中心合资企业",
+    "summary": "Anthropic与麦格理资产管理公司和新加坡主权财富基金GIC建立战略合作，共同为Claude开发者建设数据中心。这一合作表明大型AI模型开发商正在积极解决基础设施扩展问题，对元宝的产品经理评估AI服务基础设施策略和成本结构有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus": {
+    "title_clean": "Meta Muse Glimmer：本地AI代理模型",
+    "summary": "Meta发布Muse Glimmer模型，这是一款可在消费级GPU上运行的本地AI代理，拥有300亿参数，采用Apache 2.0许可证开源。这对产品经理评估本地AI代理的部署成本和性能边界有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth": {
+    "title_clean": "英特尔：150亿美元股票发行，借AI数据中心需求热潮",
+    "summary": "英特尔宣布将发行150亿美元普通股，利用人工智能数据中心业务需求激增的机遇，抓住市场对其业务前景重新关注的有利时机。这反映了AI硬件市场的强劲需求和英特尔的资本运作策略，对AI基础设施领域的产品经理有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": {
+    "title_clean": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "summary": "该研究探讨了如何降低知识蒸馏的计算成本，使其能够大规模部署。知识蒸馏是一种将大型模型知识转移到小型模型的技术，对元宝等AI助手产品优化性能和降低资源消耗具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/08/the-future-is-for-everyone": {
+    "title_clean": "扎克伯格：构建普惠AI未来的路径",
+    "summary": "扎克伯格发布公开信，阐述构建普惠AI未来的愿景与路径，强调AI技术应惠及所有人，这对元宝产品经理思考AI产品的普惠性与社会责任具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight": {
+    "title_clean": "Siemens：物理AI设计加速工具",
+    "summary": "Siemens推出物理AI技术，能在传统仿真处理少量设计变体的时间内探索数千种设计变体，速度提升可达1000倍。该技术展示了AI在工程设计领域的应用潜力，同时强调人类仍需保持最终决策权，这对AI辅助设计工具的产品经理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/muse-glimmer": {
+    "title_clean": "Meta发布Muse Glimmer：本地化多模态开源AI助手",
+    "summary": "Meta推出Muse Glimmer，这是一款本地化、多模态、开源的AI助手，强调代理能力和开放性。该产品代表了Meta在AI助手领域的最新探索，对产品经理在本地化AI解决方案和开源策略方面具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-10/nyt-ceo-kopit-levien-on-running-a-media-brand-in-ai-age-video": {
+    "title_clean": "纽约时报CEO谈AI时代的媒体品牌运营",
+    "summary": "纽约时报CEO分享过去十年通过收购和战略转型重塑品牌的经验，探讨在AI时代媒体如何保持竞争力。这对元宝产品经理了解传统媒体如何应对AI挑战、寻找新商业机会具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

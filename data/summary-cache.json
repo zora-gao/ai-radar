@@ -55717,5 +55717,90 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/vinspace-signs-launch-pact-with-spacex-for-2027-mission-mso67c3g": {
+    "title_clean": "VinSpace与SpaceX签署2027年发射协议",
+    "summary": "VinSpace作为Vingroup旗下公司，已与SpaceX签署协议，计划明年发射首颗卫星，致力于构建涵盖卫星制造在内的国内航天业务。这一合作标志着越南航天产业的重要发展，对元宝产品经理了解航天科技商业化路径具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/amkor-is-said-to-explore-stake-sale-in-1-5-billion-china-unit": {
+    "title_clean": "Amkor考虑出售中国业务15亿美元股权",
+    "summary": "半导体封装测试服务提供商Amkor Technology正在考虑出售其中国业务的部分股权，交易价值可能达15亿美元。这一动向对元宝产品经理有参考价值，因为它可能影响全球半导体供应链格局，尤其是中国市场的服务生态变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/apple-s-glass-centric-20th-anniversary-iphone-remains-on-track-for-2027": {
+    "title_clean": "苹果计划2027年推出玻璃中心设计的20周年纪念版iPhone",
+    "summary": "苹果公司仍计划在iPhone 20周年之际推出以玻璃为中心的全面革新设计，此消息与分析师此前关于该项目被搁置的报道相矛盾。这一设计变更可能影响未来iPhone的外观和材质选择，对元宝产品经理了解高端消费电子产品的设计趋势和用户偏好变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049608&idx=2&sn=74ec08ba54914347ae3f6ed40b8fcc81": {
+    "title_clean": "83亿AI接待员上线：大规模AI助手服务部署",
+    "summary": "报道大规模AI助手服务部署，83亿AI接待员开始上线，暗示AI助手服务正从概念走向大规模实际应用，对产品经理了解AI助手规模化部署趋势和用户接受度有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/openai-buys-back-7-billion-of-employee-shares-in-tender-offer": {
+    "title_clean": "OpenAI完成70亿美元员工股票回购",
+    "summary": "OpenAI完成了一项价值70亿美元的员工股票回购交易，帮助员工出售公司股份，这可能是为华尔街上市做准备。这一举措反映了OpenAI的资本运作和员工激励机制，对了解AI巨头的估值和上市计划有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/virgin-atlantic/chatgpt-work": {
+    "title_clean": "Virgin Atlantic：ChatGPT Work助力客户旅程优化",
+    "summary": "维珍航空引入ChatGPT Work工具，加速研究、产品规划和决策过程，帮助团队连接客户旅程中的信号点，提升整体客户体验和内部协作效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable": {
+    "title_clean": "Google AI团队：招聘筛选工具不可靠",
+    "summary": "Google向企业客户推销其AI工具，声称能快速筛选海量求职简历以找到最佳候选人。然而，Google内部AI团队却警告求职者，其人力资源筛选工具并不可靠，存在明显缺陷。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

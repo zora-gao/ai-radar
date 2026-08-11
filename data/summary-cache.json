@@ -56206,5 +56206,128 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems": {
+    "title_clean": "Anthropic未公开模型在数学难题上取得进展",
+    "summary": "Anthropic的未公开模型在困扰数学界150多年的黎曼猜想上取得了突破性进展，虽然尚未完全解决，但展示了AI在解决复杂数学问题上的潜力，这对AI推理能力和知识边界探索具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/private-capital-powers-big-tech-s-ai-ambitions-video": {
+    "title_clean": "华尔街巨头向英伟达提供5000亿美元支持AI基础设施",
+    "summary": "英伟达获得华尔街六家金融机构5000亿美元资金承诺，用于支持AI基础设施建设。这反映了大型科技公司AI野心的资本支持力度，对元宝产品经理了解AI行业投资趋势和基础设施发展有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/aig-ceo-on-earnings-shipping-in-hormuz-ai-buildout-video": {
+    "title_clean": "AIG CEO：地缘政治风险为保险业带来AI发展机遇",
+    "summary": "AIG首席执行官Eric Anderson表示，地缘政治风险为保险公司创造了巨大机遇，并讨论了需要运输服务的客户需求。该信息对元宝产品经理了解AI在保险行业的应用场景及商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/manus-to-resume-independent-operations-in-unwind-of-meta-deal": {
+    "title_clean": "Manus：中国AI创业公司将恢复独立运营",
+    "summary": "中国AI创业公司Manus宣布将恢复独立运营，这是Meta平台公司收购案解体后的最新进展。该事件对元宝产品经理具有参考价值，反映了AI初创公司与科技巨头之间合作关系的动态变化，以及独立运营对AI创业公司战略方向的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/rocket-lab-pushes-for-first-neutron-launch-this-year-video": {
+    "title_clean": "Rocket Lab：推进今年首次中子火箭发射",
+    "summary": "Rocket Lab创始人兼CEO表示公司正全力推进，计划在今年首次发射其Neutron火箭。这一消息对航天科技领域和商业航天发展具有重要参考价值，特别是对关注火箭发射技术和商业航天产品经理而言。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/chicago-mayor-demands-data-center-moratorium-after-backlash": {
+    "title_clean": "芝加哥市长要求数据中心暂停建设",
+    "summary": "芝加哥市长Brandon Johnson推动临时暂停数据中心建设，并签署行政命令为未来开发制定新规则。这一政策变化可能影响AI基础设施布局，对元宝产品经理评估云服务成本和区域政策风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/defense-startup-neros-triples-valuation-to-2-5-billion": {
+    "title_clean": "Defense Startup Neros Triples Valuation to $2.5 Billion",
+    "summary": "Neros Inc.完成2.5亿美元融资，估值增至25亿美元，资金将用于加速无人机研发和生产，以满足美国政府日益增长的需求。这反映了国防科技领域特别是无人机技术的投资热潮和市场机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models": {
+    "title_clean": "Anthropic：将为AI生成文本添加水印",
+    "summary": "Anthropic宣布将为AI模型生成的文本添加水印，并将此功能扩展至旧版模型。此举有助于识别AI生成内容，对内容真实性验证和版权保护具有重要意义，产品经理可关注AI内容溯源技术的发展趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws": {
+    "title_clean": "Novo Nordisk与AWS合作将AI Agent引入药物研发",
+    "summary": "诺和诺德与AWS扩大合作，将AI Agent技术应用于药物研发全流程，包括靶点识别、治疗方案设计和研究工作流优化。这一合作展示了AI Agent在专业服务场景中的实际应用，为元宝在医疗健康领域的AI服务场景拓展提供了参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations": {
+    "title_clean": "Spotify将标记'AI身份'艺术家并排除其音乐推荐",
+    "summary": "Spotify将引入'AI身份'标签来标识AI生成的艺术家身份，并默认将这些艺术家的音乐从编辑推荐、算法推荐和个性化推荐中排除，旨在区分人类创作者与AI生成内容。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

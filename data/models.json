@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-11T14:52:43.867Z",
+  "generated_at": "2026-08-11T16:52:20.005Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "nvidia/nemotron-3.5-lightning",
+      "name": "Nemotron 3.5 Lightning",
+      "vendor": "NVIDIA",
+      "vendor_slug": "nvidia",
+      "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning-20260807",
+      "created_at": "2026-08-11T12:52:31Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.1,
+      "price_out": 0.25,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "NVIDIA Nemotron 3.5 Lightning is an open mixture-of-experts model from NVIDIA, with 3B active parameters out of 30B total. It is suited for high-throughput agentic workloads and specialized tasks that...",
+      "description_zh": "NVIDIA Nemotron 3.5 Lightning 是 NVIDIA 的开放式专家混合模型，共有 30B 个活动参数，其中有 3B 个。它适用于高吞吐量代理工作负载和专门任务..."
+    },
     {
       "id": "nvidia/nemotron-3.5-lightning:free",
       "name": "Nemotron 3.5 Lightning (free)",
@@ -1449,30 +1472,6 @@
       "supports_reasoning": false,
       "description": "Fusion turns your prompt into a small multi-model deliberation. A panel of expert models (see below) analyzes your prompt in parallel with web search and web fetch enabled, then a...",
       "description_zh": "Fusion 将您的提示转变为小型的多模型审议。专家模型面板（见下文）在启用网络搜索和网络获取的同时分析您的提示，然后..."
-    },
-    {
-      "id": "moonshotai/kimi-k2.7-code",
-      "name": "Kimi K2.7 Code",
-      "vendor": "Moonshot AI",
-      "vendor_slug": "moonshotai",
-      "url": "https://openrouter.ai/moonshotai/kimi-k2.7-code-20260612",
-      "created_at": "2026-06-12T12:12:41Z",
-      "context_length": 262144,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.7,
-      "price_out": 3.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "MoonshotAI: Kimi K2.7 Code is a coding-focused model in Moonshot AI's Kimi K2 family, built to complete end-to-end programming tasks reliably over long contexts. It uses a native multimodal mixture-of-experts...",
-      "description_zh": "MoonshotAI：Kimi K2.7 Code 是 Moonshot AI 的 Kimi K2 系列中以编码为中心的模型，旨在在长上下文中可靠地完成端到端编程任务。它使用本地多模式专家组合......"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:52:20.005Z",
+  "generated_at": "2026-08-11T18:53:32.259Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -211,8 +211,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.08,
-      "price_out": 0.16,
+      "price_in": 0.072,
+      "price_out": 0.144,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -241,6 +241,31 @@
       "supports_reasoning": true,
       "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows.",
       "description_zh": "DeepSeek V4 Flash 0731 是 DeepSeek 的稀疏专家混合模型，总共 284B 个活动参数，其中有 13B 个。这种经过重新训练的修订版适用于编码、推理和代理工作流程。"
+    },
+    {
+      "id": "bytedance-seed/seed-2.0-code",
+      "name": "Seed-2.0-Code",
+      "vendor": "Bytedance Seed",
+      "vendor_slug": "bytedance-seed",
+      "url": "https://openrouter.ai/bytedance-seed/seed-2.0-code-20260730",
+      "created_at": "2026-07-30T22:48:39Z",
+      "context_length": 262144,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.5,
+      "price_out": 3,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Seed 2.0 Code is a model from ByteDance Seed optimized for agentic coding. It is suited for frontend development, multilingual programming tasks, and coding-agent workflows in tools such as Claude...",
+      "description_zh": "Seed 2.0 Code 是字节跳动 Seed 针对代理编码进行优化的模型。它适用于前端开发、多语言编程任务以及 Claude 等工具中的编码代理工作流程..."
     },
     {
       "id": "thinkingmachines/inkling-small",
@@ -1449,29 +1474,6 @@
       "supports_reasoning": true,
       "description": "GLM 5.2 is a large-scale reasoning model from Z.ai. It supports text input and output with a 1M-token context window, and is suited for long-horizon agent workflows, project-level software engineering,...",
       "description_zh": "GLM 5.2是Z.ai的大规模推理模型。它支持带有 1M 令牌上下文窗口的文本输入和输出，适用于长期代理工作流程、项目级软件工程……"
-    },
-    {
-      "id": "openrouter/fusion",
-      "name": "Fusion",
-      "vendor": "OpenRouter",
-      "vendor_slug": "openrouter",
-      "url": "https://openrouter.ai/openrouter/fusion",
-      "created_at": "2026-06-13T17:27:27Z",
-      "context_length": 1000000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": null,
-      "price_out": null,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": false,
-      "description": "Fusion turns your prompt into a small multi-model deliberation. A panel of expert models (see below) analyzes your prompt in parallel with web search and web fetch enabled, then a...",
-      "description_zh": "Fusion 将您的提示转变为小型的多模型审议。专家模型面板（见下文）在启用网络搜索和网络获取的同时分析您的提示，然后..."
     }
   ]
 }

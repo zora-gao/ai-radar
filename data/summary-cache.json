@@ -55913,5 +55913,91 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/gitar": {
+    "title_clean": "Gitar：AI代码审查与修复工具",
+    "summary": "Gitar是一款AI代码审查工具，不仅能发现代码问题，还能自动修复这些问题。对于元宝产品经理而言，这展示了AI在代码辅助领域的应用价值，可作为AI助手在专业场景中的功能参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/voice-gecko": {
+    "title_clean": "VoiceGecko：开源本地语音转文本工具",
+    "summary": "VoiceGecko是一款开源的本地语音转文本工具，专注于在本地设备上处理语音识别任务，无需依赖云端服务。这为元宝产品经理提供了关于本地化语音处理能力的技术参考，特别是在隐私保护和离线场景应用方面的产品设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bb": {
+    "title_clean": "bb：自我构建的IDE工具",
+    "summary": "bb是一款自称'自我构建的IDE'的开发工具，可能具备自动化代码生成或自我完善功能，对AI辅助编程和开发工具有参考价值，产品经理可关注其如何将AI能力融入开发流程。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/india-s-malhotra-says-brics-eyeing-faster-cross-border-payments": {
+    "title_clean": "印度央行行长：金砖国家正推进更快的跨境支付系统",
+    "summary": "印度央行行长表示，金砖国家正致力于建立更快速、更便宜的跨境支付系统，同时与贸易伙伴推广本地货币结算。这一动向可能影响国际支付格局，对元宝在跨境金融服务场景的布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/sessions/2026-08-11/live-q-amp-a-why-apple-is-making-iphones-in-india-and-what-it-means-for-supply-chains": {
+    "title_clean": "苹果在印度扩大iPhone生产：重塑全球科技供应链",
+    "summary": "苹果在印度大幅扩大iPhone生产规模，这一变化正在重塑全球科技供应链格局。这对元宝产品经理了解全球供应链变化、潜在市场扩张机会以及可能的合作伙伴关系具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/titan-cfo-on-expansion-plans-gold-demand-video": {
+    "title_clean": "Titan CFO：扩张计划与黄金需求",
+    "summary": "Titan公司首席财务官Ashok Sonthalia宣布计划在未来一至两年内新增35家旗舰Tanishq珠宝店，同时讨论了黄金需求等业务动态。这对了解珠宝行业扩张策略和消费趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/screenmark-annotation-draw": {
+    "title_clean": "ScreenMark：屏幕标注与白板叠加工具",
+    "summary": "ScreenMark是一款菜单栏应用，提供实时屏幕标注和白板叠加功能，帮助用户在屏幕上进行即时标记和协作。这类工具对产品经理了解AI辅助办公场景中的交互设计有参考价值，特别是多模态交互和实时协作功能的产品化方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

@@ -55999,5 +55999,78 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/dating-app-bumble-to-let-men-make-the-first-move-with-messaging-change": {
+    "title_clean": "Bumble：约会应用允许男性主动发消息",
+    "summary": "Bumble将改变其标志性的女性先发消息规则，允许男性主动发起对话，以吸引年轻用户并提升竞争力。这一重大策略转变反映了约会应用市场对用户行为和偏好的重新考量，对产品经理了解社交应用策略调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gotcha-5": {
+    "title_clean": "Gotcha：Android AI 助手工具",
+    "summary": "Gotcha 是全球首个 Android AI 副驾驶工具，用户通过语音指令即可完成操作，展示了 AI 在移动设备上的自动化执行能力，对元宝在移动端 AI 助手功能开发有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/native-not-sprinkle-business-growth-change-morse-strattam": {
+    "title_clean": "AI-Native：企业应重新设计工作流程而非简单添加AI工具",
+    "summary": "文章指出企业获得AI最大生产力提升的关键不是在现有工作流程中添加AI工具，而是围绕AI重新设计团队、角色和日常工作。这对元宝产品经理有重要参考价值，提示AI助手产品应深入理解企业业务流程，提供原生AI解决方案而非简单叠加功能。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees": {
+    "title_clean": "Monashees：拉美顶尖VC在硅谷设立永久办公室",
+    "summary": "拉美最古老且最具影响力的风投公司Monashees认为，该地区创业生态系统的发展需要在硅谷设立永久性办公室，已在旧金山开设办事处。这一动向表明拉美创业生态正加速与硅谷融合，对元宝拓展拉美市场或寻找国际合作伙伴具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/horizons-middle-east-africa-8-11-2026-video": {
+    "title_clean": "Horizons Middle East & Africa：中东非洲市场分析节目",
+    "summary": "这是一档聚焦中东和非洲这一全球增长最快地区的每日市场分析节目，从迪拜直播，提供全球市场最新动态和分析，以及具有新闻价值的访谈内容。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/anthropic-strikes-9-billion-deal-with-cloud-computing-firm-riot": {
+    "title_clean": "Anthropic与Riot Platforms达成91亿美元云服务合作",
+    "summary": "Anthropic与比特币挖矿公司Riot Platforms达成91亿美元云服务协议，后者近期开始销售AI数据中心算力。这笔大额交易反映了AI企业对云基础设施的强劲需求，也表明传统行业正通过转型AI服务寻求新增长点。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

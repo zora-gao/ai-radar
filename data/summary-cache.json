@@ -55655,5 +55655,67 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/ai-boom-set-to-drive-singapore-growth-as-high-as-5-5-this-year": {
+    "title_clean": "新加坡AI经济：人工智能推动2026年经济增长预期上调至5.5%",
+    "summary": "新加坡上调2026年经济增长预期，人工智能热潮带动贸易和制造业增长，抵消了中东持续冲突带来的负面影响。这一趋势表明AI已成为区域经济增长的重要驱动力，对元宝产品经理评估AI在经济发展中的作用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer": {
+    "title_clean": "OpenAI完成70亿美元员工股权回购",
+    "summary": "据报道，OpenAI完成了价值70亿美元的员工股权回购计划，这反映了公司对人才保留的重视。此消息对产品经理有参考价值，表明OpenAI在人才竞争策略上的投入，可能影响行业人才流动和薪酬结构。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/intel-is-said-to-near-share-sale-upsize-to-raise-20-billion": {
+    "title_clean": "Intel拟扩大股票发行规模至200亿美元",
+    "summary": "Intel正寻求将股票发行规模增加至约200亿美元，比最初宣布的目标高出三分之一。这一大规模融资可能对AI芯片市场格局产生重要影响，对元宝产品经理评估AI基础设施成本和供应链策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/trump-media-losses-hit-238-million-as-firm-pivots-to-fast-feeds": {
+    "title_clean": "特朗普媒体公司转向快速信息流业务，亏损达2.38亿美元",
+    "summary": "特朗普社交媒体公司从加密货币转向争议性的快速信息流业务，导致亏损扩大至2.38亿美元。这一业务转型反映了社交媒体平台探索新型变现模式的尝试，对元宝产品经理在探索AI服务商业化路径和用户付费模式方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model": {
+    "title_clean": "OpenAI推出新型网络安全防御AI模型",
+    "summary": "OpenAI扩展其AI网络安全防御计划Daybreak，并同步发布一款专门针对网络安全训练的新AI模型，以应对日益增多的AI驱动攻击。这对产品经理了解AI在安全防御领域的应用及OpenAI的产品布局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

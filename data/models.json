@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-10T22:30:13.295Z",
+  "generated_at": "2026-08-11T01:11:23.511Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "upstage/solar-pro4",
+      "name": "Solar Pro 4",
+      "vendor": "Upstage",
+      "vendor_slug": "upstage",
+      "url": "https://openrouter.ai/upstage/solar-pro4-20260810",
+      "created_at": "2026-08-10T14:20:36Z",
+      "context_length": 524288,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.03,
+      "price_out": 0.12,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Solar Pro 4 is a large language model from Upstage. It is suited for agentic workflows, office productivity, document-intensive work, and coding.",
+      "description_zh": "Solar Pro 4 是来自 Upstage 的大型语言模型。它适用于代理工作流程、办公效率、文档密集型工作和编码。"
+    },
     {
       "id": "meta/muse-glimmer-30b",
       "name": "Muse Glimmer 30B",
@@ -1324,8 +1347,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.503,
-      "price_out": 1.58,
+      "price_in": 0.76,
+      "price_out": 2.42,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1450,31 +1473,6 @@
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the Claude Fable family.",
       "description_zh": "该型号始终重定向至 Claude Fable 系列中的最新型号。"
-    },
-    {
-      "id": "anthropic/claude-fable-5",
-      "name": "Claude Fable 5",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-5-fable-20260609",
-      "created_at": "2026-06-09T12:18:35Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 10,
-      "price_out": 50,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Fable 5 is a Mythos-class model from Anthropic, built for autonomous knowledge work and coding. It supports text, image, and file inputs with text output, with reasoning support and...",
-      "description_zh": "Claude Fable 5 是 Anthropic 的 Mythos 级模型，专为自主知识工作和编码而构建。它支持文本、图像和文件输入以及文本输出，并具有推理支持和..."
     }
   ]
 }

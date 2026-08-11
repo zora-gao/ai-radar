@@ -55556,5 +55556,104 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/goldman-s-boak-on-rba-policy-australia-s-economy-video": {
+    "title_clean": "高盛经济学家谈澳洲央行政策与经济前景",
+    "summary": "高盛澳洲与新西兰首席经济学家Andrew Boak在澳洲央行政策决策前，就澳洲经济前景发表分析观点。这为元宝产品经理提供了了解国际经济政策分析视角的机会，有助于拓展AI助手在经济信息解读方面的服务场景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-10/nvidia-taps-wall-street-for-500-billion-funding-video": {
+    "title_clean": "Nvidia获华尔街500亿美元投资",
+    "summary": "Nvidia与华尔街多家投资巨头合作，获得500亿美元投资用于人工智能领域。这笔巨额融资反映了市场对AI基础设施的强烈需求，对元宝产品经理评估AI行业资本流向和基础设施投资趋势具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/kioxia-says-investment-vehicle-for-sk-hynix-is-top-shareholder": {
+    "title_clean": "铠侠：SK海力士投资公司成为最大股东",
+    "summary": "铠侠控股公司最大股东为SK海力士投资公司，该投资机构持有被竞争对手SK海力士声称拥有的股份。这一股权变动可能影响存储芯片行业的竞争格局和两家公司的战略关系，对产品经理了解行业资本动态和企业合作模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049280&idx=1&sn=7b55cfcb0141ebcf05151a83a1116b1c": {
+    "title_clean": "Sonnet 5.5大泄露：对标DeepSeek的新一代性价比之王",
+    "summary": "Sonnet 5.5模型信息泄露，被宣传为对标DeepSeek的新一代性价比之王。这一信息对产品经理评估AI模型竞争格局、性价比策略及市场定位具有重要参考价值，可能影响产品选型与定价策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI搜索",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049541&idx=1&sn=10d7635d6749ad986d2eebf5a428545c": {
+    "title_clean": "全球最大AI「超级单体」在中国点亮",
+    "summary": "中国已建成全球最大的AI「超级单体」，标志着AI算力进入百万卡时代。这一超级单体可能代表大规模AI集群或算力中心的建设，对元宝产品经理了解AI基础设施发展、评估未来AI服务能力扩展方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-creditchek": {
+    "title_clean": "CreditChek：企业信用评估服务CEO访谈",
+    "summary": "CreditChek首席执行官Kingsley Ibe接受CB Insights采访，分享公司对市场的定位、客户需求的理解以及企业信用评估服务的行业洞察。这对元宝产品经理了解B2B信用评估服务场景和商业模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/zapier": {
+    "title_clean": "Zapier：利用ChatGPT Work优化营销流程",
+    "summary": "Zapier企业营销团队使用ChatGPT Work减少潜在客户转化漏斗中的流失率，构建营销素材并自动化报告生成。展示了AI助手在B2B营销场景中的实际应用价值，为元宝产品在营销自动化领域提供参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-10/five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai": {
+    "title_clean": "扎克伯格6500字AI宣言：五大核心观点",
+    "summary": "Meta CEO扎克伯格发布6500字长文阐述AI观点，强调更广泛获取AI模型的重要性，提出对AI未来发展的五大核心见解，为AI产品经理提供行业巨头战略方向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

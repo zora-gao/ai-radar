@@ -56633,5 +56633,181 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049682&idx=2&sn=d8fbd89f632c9691d0ade2d835614790": {
+    "title_clean": "openJiuwen：智能体算力亲和技术",
+    "summary": "openJiuwen与昇腾合作开发智能体'算力亲和'技术，将首token时延降低一半，提升AI响应速度。这项技术优化了AI模型与硬件的协同效率，对提升AI助手性能有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049742&idx=3&sn=eab502c5d7d6b21bfeb1cda716ee0e79": {
+    "title_clean": "人大高领团队与蚂蚁集团发布LLaDAMoEv2：扩散语言模型扩展定律研究",
+    "summary": "中国人民大学高瓴人工智能学院与蚂蚁集团联合发布LLaDAMoEv2，揭示了扩散语言模型的扩展定律。这项研究对理解大模型性能增长规律具有重要参考价值，可为元宝产品团队在模型架构设计和性能优化方面提供理论支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049682&idx=3&sn=d75ed46815c5084cde7772925b8bdc83": {
+    "title_clean": "RefCaptioner：视频参考图语义精准匹配工具",
+    "summary": "RefCaptioner解决了视频语言模型(VLM)在描述视频时可能错误使用参考图的问题，通过技术实现参考图与视频内容的语义精准匹配，提升视频描述的准确性和相关性，为AI视频理解领域提供新的技术方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/upwork-ceo-on-ai-disruption-concerns-earnings-slide-video": {
+    "title_clean": "Upwork CEO谈AI颠覆担忧与业绩下滑",
+    "summary": "Upwork CEO海登·布朗讨论公司近期财务表现，全年预测未达分析师预期导致股价大幅下跌。布朗就AI对自由职业平台可能带来的颠覆性影响发表看法，这对了解AI对在线工作平台的影响及应对策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/google-to-add-three-subsea-cable-systems-across-the-americas": {
+    "title_clean": "Google将在美洲新增三条海底电缆系统",
+    "summary": "Google宣布在美洲地区新增三条海底电缆连接，包括连接巴拿马、多米尼加共和国和智利的一条线路，智利正努力将自己打造为区域数字中心。这反映了Google在全球网络基础设施方面的持续投资，对元宝产品经理了解科技巨头的基础设施布局和全球服务扩展策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049682&idx=1&sn=3812b616a9be51cbdf6da6e589ed9a52": {
+    "title_clean": "TechBio公司：生物世界数据发电厂建设",
+    "summary": "这家TechBio公司在4个月内融资1亿美元，已建成3座数据发电厂，致力于构建生物世界数据基础设施。其快速融资和大规模基础设施建设表明生物科技数据领域正获得大量资本关注，对元宝产品经理了解AI在生物科技数据应用场景的资本动向和技术方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/sitime-ceo-on-role-in-ai-data-centers-renesas-deal-video": {
+    "title_clean": "SiTime CEO谈AI数据中心角色与Renesas交易",
+    "summary": "SiTime CEO Rajesh Vashist讨论了公司三位数的年收入增长，并将加速增长归因于AI驱动需求和数据中心扩张。这对元宝产品经理了解AI硬件基础设施需求增长趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/vertiv-ceo-on-ai-infrastructure-buildout-supply-chain-video": {
+    "title_clean": "Vertiv CEO谈AI基础设施建设和供应链",
+    "summary": "Vertiv CEO Gio Albertazzi讨论公司最新财报，指出AI相关企业通常超出收入预期但在盈利方面表现不佳。此信息对元宝产品经理了解AI基础设施供应商的商业模式和盈利挑战有参考价值，有助于评估AI服务成本结构。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/bloomberg-crypto-8-11-2026-video": {
+    "title_clean": "比特币钱包安全事件引发行业震动 | Bloomberg Crypto",
+    "summary": "Bloomberg Crypto报道了比特币钱包安全事件，采访了Galaxy Digital研究主管和Ledger高管，探讨去中心化金融领域的技术与交易安全问题，对元宝产品经理了解加密货币安全风险与防护措施有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/-brave-new-world-with-ai-tied-to-hacks-ledger-s-rogers-video": {
+    "title_clean": "Ledger高管谈AI与黑客攻击的新世界",
+    "summary": "Ledger首席人类事务官Ian Rogers在Bloomberg Crypto节目中讨论了AI与黑客攻击结合带来的新挑战，这一背景源于Coinkite公司Coldcard钱包遭受的安全漏洞事件。这反映了AI技术在加密货币安全领域面临的新威胁，对AI安全防护和风险管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/apple-executive-in-charge-of-apple-pay-and-wallet-services-is-leaving": {
+    "title_clean": "Apple Pay与钱包服务负责人离职",
+    "summary": "Apple公司负责Apple Pay和钱包服务的高管Jennifer Bailey宣布退休，她在公司任职超过二十年。这一变动正值iPhone制造商进行大规模管理层调整之际，可能对Apple支付和数字钱包服务的未来发展方向产生影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new": {
+    "title_clean": "OpenAI 长期 COO Brad Lightcap 离职创业",
+    "summary": "OpenAI 长期首席运营官 Brad Lightcap 宣布离职，将开始新的创业项目。作为公司核心高管之一，他的离职可能对 OpenAI 的运营战略和团队稳定性产生影响，值得产品经理关注高管变动对 AI 行业格局的潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/daybreak-models-are-now-available-on-aws": {
+    "title_clean": "Daybreak模型：OpenAI与AWS合作的企业级网络安全工具",
+    "summary": "OpenAI与AWS合作，通过Amazon Bedrock平台推出Daybreak网络安全模型，旨在支持企业安全工作流程。这一合作将AI能力引入企业级安全防护领域，为元宝产品经理提供了AI在企业安全场景应用的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai": {
+    "title_clean": "River AI获11亿美元融资：xAI联合创始人创立的AI智能体公司",
+    "summary": "River AI由xAI联合创始人Igor Babuschkin创立，专注于个人AI智能体领域，成立仅2个月即获得11亿美元融资，由General Catalyst领投。这一高额融资反映了市场对AI智能体领域的强烈看好，为元宝产品经理提供了AI Agent商业化路径和资本动向的重要参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

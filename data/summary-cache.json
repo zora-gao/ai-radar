@@ -57041,5 +57041,170 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/unsloth": {
+    "title_clean": "Unsloth Desktop：本地AI模型运行训练工具",
+    "summary": "Unsloth Desktop是一款桌面应用，允许用户在本地设备上运行和训练AI模型。这为元宝产品经理提供了关于本地化AI部署方案的重要参考，特别是在用户隐私保护和离线使用场景方面的技术实现可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/beardrive": {
+    "title_clean": "BearDrive：团队AI代理共享文件夹开源工具",
+    "summary": "BearDrive是一款开源工具，专为团队AI代理提供共享文件夹功能，解决AI代理间协作与文件共享问题。产品经理可关注其如何实现AI代理间的数据共享与协作机制，为元宝的团队协作功能提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nearfield": {
+    "title_clean": "Nearfield：多显示器立体声音响工具",
+    "summary": "Nearfield是一款可以将两台或更多台苹果Studio Display显示器转换为立体声音响的工具，通过软件方式实现多显示器的音频输出功能，为用户提供更丰富的音频体验。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/click-6": {
+    "title_clean": "Click：ChatGPT和Claude的实时研究上下文工具",
+    "summary": "Click为ChatGPT和Claude提供实时研究上下文功能，帮助AI助手在对话中获取最新信息。这一工具解决了AI模型知识更新延迟的问题，为产品经理提供了增强AI助手实时信息处理能力的参考方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/codeburn": {
+    "title_clean": "CodeBurn：AI代码支出追踪工具",
+    "summary": "CodeBurn是一款帮助开发者追踪AI代码服务支出的工具，能够清晰展示AI编程成本的流向和使用情况，为产品经理提供AI服务成本管理的参考方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/laracopilot": {
+    "title_clean": "LaraCopilot：AI工程师助手工具",
+    "summary": "LaraCopilot是一款AI工程师助手工具，能够帮助用户构建实际应用程序。该工具专注于AI代理技术，为开发者提供自动化编程和应用程序开发支持，对元宝产品经理在AI助手功能拓展和自动化服务场景方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rightcard": {
+    "title_clean": "RightCard：无银行登录的信用卡选择工具",
+    "summary": "RightCard是一款信用卡选择工具，无需用户登录银行账户即可提供信用卡推荐服务。它通过简化信用卡选择流程，帮助用户快速找到适合自己需求的信用卡产品，对金融科技领域的AI服务场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ballet": {
+    "title_clean": "Ballet：AI Agent工作流自动化工具",
+    "summary": "Ballet是一款AI Agent工作流自动化工具，能够确保每次执行都产生相同的结果，专注于提供稳定可靠的自动化工作流解决方案，对产品经理在构建可靠AI Agent服务方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/swipe-9": {
+    "title_clean": "Swipe：客户匹配与营销工具",
+    "summary": "Swipe是一款客户匹配与营销工具，通过滑动操作帮助用户快速匹配潜在客户，简化客户获取流程。产品经理可参考其交互设计思路和客户匹配算法，优化元宝的用户匹配与推荐功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/tencent-sales-top-estimates-on-wechat-ad-surge-resilient-games": {
+    "title_clean": "腾讯广告收入超预期，游戏业务稳健发展",
+    "summary": "腾讯控股营收超出预期，主要得益于广告销售激增和游戏业务稳健表现，同时公司正努力追赶人工智能领域发展。这一业绩表现对元宝产品经理了解腾讯在广告变现和AI布局方面的战略方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/digi-neil-campling-on-coreweave-super-micro-sk-hynix": {
+    "title_clean": "CoreWeave与Super Micro推动AI交易增长，股市上涨",
+    "summary": "CoreWeave和Super Micro两家AI基础设施公司业绩超预期，前者销售增长强劲，后者营收预测高于估计，带动亚洲股市上涨及美股期指走高。这反映了AI硬件市场的强劲需求，对元宝产品经理评估AI服务基础设施合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/argos": {
+    "title_clean": "Media Sharing：AI代理在拉取请求中分享截图和视频",
+    "summary": "Media Sharing 是一款工具，允许AI代理在代码拉取请求中自动添加截图和视频，增强代码审查的可视化效果。这为元宝产品经理提供了AI辅助代码协作的新思路，特别是在多模态交互和自动化工作流程方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/ex-alibaba-ai-architect-wins-tencent-hsg-backing-for-new-lab": {
+    "title_clean": "前阿里巴巴AI架构师获腾讯和高盛支持创立新实验室",
+    "summary": "前阿里巴巴旗舰模型架构师创立AI Agent初创公司，获得腾讯和高盛等投资机构支持。这反映了AI Agent领域获得顶级资本关注，以及大型科技公司人才流动对行业格局的影响，对元宝产品经理评估AI Agent赛道竞争格局和人才动向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

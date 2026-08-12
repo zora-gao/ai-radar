@@ -56809,5 +56809,102 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/peak-memory-fears-put-focus-on-samsung-sk-hynix-cash-returns": {
+    "title_clean": "三星、SK海力士内存芯片厂商考虑增加股东现金回报",
+    "summary": "内存芯片制造商面临市场降温，考虑通过增加股东现金回报作为防御策略。这一动向反映了半导体行业周期性波动下的商业策略调整，对元宝产品经理了解硬件厂商在市场变化中的资本运作方式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/south-korea-s-ai-investment-plans-video": {
+    "title_clean": "韩国AI投资计划：600亿至1000亿韩元",
+    "summary": "韩国创新与增长副部长Min Kyung-seol透露，韩国明年AI投资规模预计在600亿至1000亿韩元之间。这一大规模投资反映了韩国政府对AI技术发展的战略重视，为元宝产品经理提供了AI市场政策支持和资金动向的重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics": {
+    "title_clean": "韩国主权财富基金将加入AI与机器人全球竞赛",
+    "summary": "韩国计划明年投入超1万亿韩元(约707亿美元)成立新的主权财富基金，重点投资AI及其他战略产业，加入全球AI与机器人领域的竞争。这一动向表明韩国政府将AI视为国家战略重点，可能影响全球AI投资格局和产业布局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049640&idx=2&sn=dc4142d4a6a74bda646823c0e42c05ff": {
+    "title_clean": "黄仁勋：AI算力将转化为资产",
+    "summary": "英伟达CEO黄仁勋发表长文，提出AI算力将转变为可交易资产的观点，这可能重塑AI基础设施的商业化模式，对元宝的产品经理思考AI资源分配与商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/accel-raises-3-5-billion-to-invest-in-emerging-global-ai-startups": {
+    "title_clean": "Accel融资35亿美元投资全球新兴AI初创企业",
+    "summary": "全球风投机构Accel完成35亿美元新基金募集，将用于全球早期AI初创企业投资。该基金覆盖硅谷、伦敦和班加罗尔，表明AI领域投资热度持续攀升，对元宝产品经理了解行业资本动向和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last": {
+    "title_clean": "Accel完成5.5亿美元印度基金超额募集，距上次基金仅19个月",
+    "summary": "美国风投公司Accel在距上一次印度基金仅19个月后，迅速完成5.5亿美元印度基金的超额募集，且仍有55%的上期6.5亿美元基金可供投资。这表明印度市场持续吸引大额资本，对关注新兴市场的AI产品经理有区域投资风向参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux": {
+    "title_clean": "OpenAI推出Linux版ChatGPT桌面应用",
+    "summary": "OpenAI正式发布面向Linux操作系统的ChatGPT桌面应用，扩展了其桌面端覆盖范围，为Linux用户提供更便捷的AI助手访问方式，这反映了OpenAI在多平台支持上的持续努力，对产品经理了解平台扩展策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/super-micro-gives-sales-forecast-that-tops-rosiest-projections": {
+    "title_clean": "Super Micro：AI服务器销售超预期",
+    "summary": "Super Micro Computer Inc.发布的当前季度收入预测超出分析师预期，表明持续火爆的AI市场继续推动该公司服务器销售增长。这一数据反映了AI硬件需求的强劲态势，对元宝产品经理评估AI基础设施市场趋势和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

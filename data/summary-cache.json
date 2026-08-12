@@ -57841,5 +57841,154 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/pivotal-advisors-ceo-affirms-long-term-confidence-in-ai-video": {
+    "title_clean": "Pivotal Advisors CEO：坚定看好AI长期发展前景",
+    "summary": "Pivotal Advisors CEO兼CIO Tiffany McGhee在财经节目中表达了对AI行业的长期坚定信心，尽管承认AI技术正在快速演变并具有变革性，但认为投资者对AI的审视不会动摇其长期价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/cisco-beats-on-sales-outlook-citing-broad-based-record-demand": {
+    "title_clean": "思科销售超预期，称AI数据中心需求强劲",
+    "summary": "思科系统公司当前季度销售预测远超华尔街预期，表明其在AI数据中心领域的供应策略取得成功，反映了企业对AI基础设施的广泛需求增长，对元宝产品经理了解AI基础设施市场趋势和企业级AI服务需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/morgan-stanley-s-weaver-warns-of-risks-in-ai-compute-bottleneck": {
+    "title_clean": "摩根士丹利警告AI计算瓶颈风险",
+    "summary": "摩根士丹利分析师Michelle Weaver指出，尽管企业AI应用日益深入，但计算供应限制已成为制约AI增长的关键瓶颈。这一风险提示对元宝产品经理评估AI服务扩展能力和资源规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/nvidia-taps-wall-street-for-500b-funding-video": {
+    "title_clean": "Nvidia：获500亿美元AI基础设施融资",
+    "summary": "Nvidia与华尔街投资巨头Apollo、Blackstone、BlackRock和Brookfield合作，筹集500亿美元用于人工智能基础设施建设。这反映了AI基础设施投资的巨大规模和市场对AI基础设施的强烈需求，对元宝产品经理了解AI行业资本动向和基础设施布局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/wedding-planner-the-knot-grapples-with-debt-and-ratings-downgrade": {
+    "title_clean": "婚礼策划网站The Knot面临债务危机与信用降级",
+    "summary": "婚礼策划网站The Knot Worldwide Inc.因即将到期的债务问题，其信用评级被大幅下调至垃圾级。这反映了垂直领域平台在面临债务压力时的经营困境，对元宝产品经理了解垂直行业平台商业模式和风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/bloomberg-tech-8-12-2026-video": {
+    "title_clean": "CoreWeave与Supermicro财报表现强劲，AI市场持续推动科技股上涨",
+    "summary": "CoreWeave和Supermicro发布积极财报，显示AI市场持续推动其销售增长。同时，Silicon Data也获得新融资。这些科技企业业绩反映了AI基础设施需求的强劲增长，对元宝产品经理了解AI市场趋势和潜在合作机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/google-takes-on-apple-samsung-with-new-phones-video": {
+    "title_clean": "Google 推出新款 Pixel 智能手机挑战苹果与三星",
+    "summary": "Google 在 Made by Google 活动前发布多款新硬件，包括最新一代 Pixel 智能手机，搭载创新功能如 HiLight 特性。这对元宝产品经理具有参考价值，可作为手机厂商 AI 功能布局的竞品参考，了解大厂如何将 AI 能力集成到硬件产品中。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise": {
+    "title_clean": "OpenAI支持的Thrive Holdings融资20亿美元，致力于将AI引入企业市场",
+    "summary": "Thrive Holdings获得软银、D1 Capital Partners和Altimeter Capital等投资者20亿美元融资，估值达120亿美元，专注于将AI技术引入企业市场。这表明大型资本看好AI在企业级应用的前景，可能影响元宝在B端市场的产品策略和商业化路径。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/ai-boom-fuels-warehouse-demand-video": {
+    "title_clean": "AI热潮推动仓储需求增长",
+    "summary": "Link Logistics CEO Luke Petherbridge在Bloomberg节目中表示，AI热潮正在数据中心之外引发第二波需求增长，包括冷却设备和芯片制造等配套设施。这对元宝产品经理了解AI基础设施扩展带来的服务场景机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/opinion-google-s-ai-is-killing-the-internet-video": {
+    "title_clean": "Google的AI正在改变互联网流量结构",
+    "summary": "AI机器人首次生成超过人类的网络流量，而谷歌通过其搜索基础设施加速了自动化活动的增长。这一趋势对元宝产品经理有重要参考价值，反映了AI驱动的流量变化可能影响内容生态和搜索策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-08-12/google-s-pixel-11-pro-tries-to-reinvent-the-camera-flash": {
+    "title_clean": "Google Pixel 11 Pro：尝试重新设计相机闪光灯",
+    "summary": "Google推出Pixel 11 Pro，试图重新设计相机闪光灯功能，以应对竞争对手不断更新的设计趋势。尽管只有小幅改进，但这一更新可能影响手机相机交互体验，对AI助手在图像处理和增强现实应用中的能力评估有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/formlabs-partners-with-former-apple-hardware-chief-dan-riccio": {
+    "title_clean": "Formlabs：3D打印机制造商与苹果前硬件高管合作",
+    "summary": "Formlabs作为3D打印机制造商，邀请苹果前硬件主管Dan Riccio加入董事会并成为战略顾问，同时Riccio还持有公司股份。这一合作可能为Formlabs带来苹果级别的硬件设计经验，对元宝产品经理在AI硬件合作与战略顾问模式上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

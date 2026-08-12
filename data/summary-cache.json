@@ -56967,5 +56967,54 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/vacuum-pump-makers-gases-producers-are-the-new-ai-winners": {
+    "title_clean": "真空泵与特种气体制造商：AI产业新赢家",
+    "summary": "欧洲真空泵、热交换器和特种气体制造商正成为人工智能热潮中的新兴赢家，为谨慎的投资者创造了新的投资机会。这些传统工业设备供应商因AI芯片制造需求激增而受益，反映了AI产业链的延伸与多元化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/aapa-on-asia-s-airline-industry-passenger-demand-video": {
+    "title_clean": "亚太航空协会：亚洲航空业展望与燃油价格对乘客需求的影响",
+    "summary": "亚太航空协会总干事Wong Hong讨论了该地区航空公司的前景以及航空燃油价格上涨对乘客需求的影响。这为元宝产品经理提供了了解特定行业动态和用户需求变化的参考，有助于评估AI助手在旅行服务场景中的应用潜力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-revenue-surges-on-booming-demand-for-ai-computing": {
+    "title_clean": "CoreWeave：AI计算基础设施提供商",
+    "summary": "CoreWeave作为AI系统计算基础设施提供商，因AI需求激增推动销售增长超预期，股价在盘后交易中大幅上涨。这反映了AI基础设施市场的强劲需求，对元宝产品经理评估AI服务底层资源需求和商业化机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049640&idx=1&sn=aab578d02717eca8babf75556823c07c": {
+    "title_clean": "EverMind：AI自进化模型工具",
+    "summary": "EverMind将AI自进化技术从研究推向产品，解决了模型更换Harness后性能下降的问题，使AI能够持续自我优化提升能力，为AI产品经理提供了模型性能稳定性和自学习能力的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

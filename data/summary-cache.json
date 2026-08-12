@@ -57692,5 +57692,154 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation": {
+    "title_clean": "AI编程创业公司Cognition据悉正以400亿美元估值进行新一轮融资",
+    "summary": "AI编程创业公司Cognition在以260亿美元估值完成10亿美元融资仅几个月后，据悉正寻求新一轮融资，估值可能高达400亿美元。这反映了AI编程工具领域的快速发展和资本热度，对元宝产品经理评估AI编程助手赛道竞争格局和资本动向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open": {
+    "title_clean": "AI安全担忧加剧，三位专家主张保持开放",
+    "summary": "在Ai4会议上，Geoffrey Hinton、Fei-Fei Li和Andrew Ng三位世界顶级AI专家就AI监管、开源访问以及美国如何在亚洲竞争等议题展开辩论。专家们对AI安全表达担忧的同时，也强调了保持开放创新的重要性，这对元宝产品经理思考AI安全与开放平衡策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android": {
+    "title_clean": "Mesh：AI联系人关系管理应用",
+    "summary": "Automattic推出的AI联系人关系管理应用Mesh现已登陆Android平台。该应用通过AI技术帮助用户管理联系人关系，是Automattic面向大众的CRM解决方案，为产品经理提供了AI在个人关系管理领域的应用案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/uber-working-on-offering-tween-rides-option-for-kids-10-to-12": {
+    "title_clean": "Uber 推出针对10-12岁儿童的'青少年'乘车服务",
+    "summary": "Uber正在开发面向10至12岁儿童的乘车服务，这可能成为其迄今为止针对的最年轻用户群体。这一举措反映了Uber在家庭出行服务领域的扩展尝试，为产品经理提供了关于如何设计针对未成年人的安全乘车服务的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-embeddings": {
+    "title_clean": "OlmoEarth：自定义嵌入导出工具",
+    "summary": "OlmoEarth Studio 推出嵌入导出功能，允许用户自定义导出嵌入模型用于下游分析。这为AI产品经理提供了关于嵌入模型应用和定制化的参考价值，特别是在处理特定领域数据时的应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/deepseek-publicizes-efforts-to-challenge-anthropic-s-claude-code": {
+    "title_clean": "DeepSeek：挑战Anthropic Claude代码的AI Agent团队",
+    "summary": "DeepSeek设立官方社交媒体账号并发布招聘信息，组建新团队专注于开发能够替代Anthropic PBC的Claude代码服务的AI Agent，这表明DeepSeek正积极布局AI Agent领域，与Anthropic形成直接竞争，对元宝产品经理了解AI Agent市场竞争格局和人才动向有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations": {
+    "title_clean": "Google：AMIE医疗AI系统参与临床视频咨询",
+    "summary": "Google研发的AMIE医疗AI系统与专业患者演员进行同步视频咨询，其临床评估评分与初级保健医师相当。这表明AI在医疗咨询领域已达到接近人类专业水平，对元宝在医疗场景下的AI应用开发具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures": {
+    "title_clean": "VideoVerse 2.5亿美元收购案崩塌：涉嫌欺诈与伪造签名",
+    "summary": "VideoVerse联合创始人Vinayak Shrivastav卷入多起法律案件，投资者等待2.5亿美元收购收益落空。此事件揭示了AI初创公司收购过程中的风险与法律问题，对产品经理评估合作伙伴与商业合作具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era": {
+    "title_clean": "Meta与北美建筑工会合作投资AI时代技能培训",
+    "summary": "Meta与北美建筑工会(NABTU)宣布合作，共同投资美国AI基础设施建设所需的技能型工人培训项目，旨在为AI时代培养专业技术人员。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/hungary-to-raise-danube-riverbed-to-help-cool-its-nuclear-plant": {
+    "title_clean": "匈牙利将提升多瑙河河床以辅助核电站冷却",
+    "summary": "匈牙利开始在帕克斯市中央城市段提升多瑙河河床水位，以支持该国唯一核电站的运行。这一基础设施调整旨在解决核电站冷却需求，对能源基础设施规划和极端气候应对有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/german-firms-see-expanding-ai-use-crimping-wages-survey-shows": {
+    "title_clean": "德国企业调查显示AI应用扩大将压低工资",
+    "summary": "德国企业部署人工智能后预期，未来五年AI应用扩大将压低工资水平，尤其对初级员工影响显著。这一调查结果反映了AI对劳动力市场的潜在影响，对产品经理评估AI服务场景和商业化策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/whoop-plans-to-double-size-of-boston-headquarters-ahead-of-ipo": {
+    "title_clean": "Whoop：健身追踪器制造商扩大总部规模",
+    "summary": "Whoop作为无屏幕健身追踪器的制造商，计划将其波士顿总部规模扩大近一倍，这一扩张正值该公司准备IPO之际，也反映了波士顿在人工智能领域争取更大份额的努力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:52:36.073Z",
+  "generated_at": "2026-08-12T18:53:34.107Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -123,29 +123,6 @@
       "supports_reasoning": true,
       "description": "Grok 4.6 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM.",
       "description_zh": "Grok 4.6 是 SpaceXAI 最智能的模型，在编码、知识工作和 STEM 方面具有前沿性能。"
-    },
-    {
-      "id": "liquid/lfm-2.5-2.6b:free",
-      "name": "LFM2.5-2.6B (free)",
-      "vendor": "Liquid",
-      "vendor_slug": "liquid",
-      "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b-20260811",
-      "created_at": "2026-08-11T17:48:39Z",
-      "context_length": 128000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "LFM2.5-2.6B is a compact reasoning model from Liquid AI. It is suited for agent workflows, data extraction, RAG, and long-context processing. Liquid advises against using it for agentic coding or...",
-      "description_zh": "LFM2.5-2.6B 是 Liquid AI 的紧凑推理模型。它适用于代理工作流程、数据提取、RAG 和长上下文处理。 Liquid 建议不要将其用于代理编码或......"
     },
     {
       "id": "nvidia/nemotron-3.5-lightning",
@@ -383,8 +360,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows.",
-      "description_zh": "DeepSeek V4 Flash 0731 是 DeepSeek 的稀疏专家混合模型，总共 284B 个活动参数，其中有 13B 个。这种经过重新训练的修订版适用于编码、推理和代理工作流程。"
+      "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows....",
+      "description_zh": "DeepSeek V4 Flash 0731 是 DeepSeek 的稀疏专家混合模型，总共 284B 个活动参数，其中有 13B 个。这个经过重新训练的版本适用于编码、推理和代理工作流程......"
     },
     {
       "id": "thinkingmachines/inkling-small",
@@ -1474,6 +1451,31 @@
       "supports_reasoning": true,
       "description": "Fugu Ultra is the higher-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to route...",
       "description_zh": "Fugu Ultra 是 Sakana AI Fugu 系列中性能更高的型号。 Fugu 不是一个单一的整体模型，而是一个学习的多代理编排系统：一种经过训练的语言模型，用于路由......"
+    },
+    {
+      "id": "google/gemini-3.1-flash-image",
+      "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-3.1-flash-image-20260528",
+      "created_at": "2026-06-18T03:41:05Z",
+      "context_length": 131072,
+      "modality": "text+image->text+image",
+      "input_modalities": [
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "image",
+        "text"
+      ],
+      "price_in": 0.5,
+      "price_out": 3,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Gemini 3.1 Flash Image, a.k.a. \"Nano Banana 2,\" is Google’s latest state of the art image generation and editing model, delivering Pro-level visual quality at Flash speed. It combines advanced...",
+      "description_zh": "Gemini 3.1 Flash Image，又名“Nano Banana 2”，是 Google 最新的最先进的图像生成和编辑模型，以 Flash 速度提供专业级的视觉质量。它结合了先进..."
     }
   ]
 }

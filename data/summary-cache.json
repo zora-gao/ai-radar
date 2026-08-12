@@ -57443,5 +57443,142 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/us-launches-effort-to-speed-trade-in-ai-goods-between-allies": {
+    "title_clean": "美国启动加速AI关键商品贸易计划",
+    "summary": "特朗普政府宣布新计划，旨在加速美国与主要贸易伙伴之间被视为人工智能发展关键的商品贸易流通，这可能影响AI硬件供应链和全球AI技术发展格局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026": {
+    "title_clean": "谷歌2026年发布会：Pixel 11系列、Pixel Watch 5、Pixel Tag及多项Gemini功能",
+    "summary": "谷歌2026年发布会推出Pixel 11智能手机系列、Pixel Watch 5智能手表、对标AirTag的Pixel Tag追踪器，并展示了多项Gemini AI功能更新。这些产品整合了谷歌AI能力，对元宝产品经理在AI硬件集成与AI助手功能扩展方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": {
+    "title_clean": "LFM2.5-VL-3B：边缘设备视觉能力优化模型",
+    "summary": "LFM2.5-VL-3B是一款专为边缘设备设计的视觉语言模型，旨在提供更好更快的视觉处理能力。该模型针对边缘计算环境进行了优化，可能对元宝在移动端或低功耗设备上的视觉功能实现有参考价值，特别是在实时图像理解和处理方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/google-to-track-insulin-trends-with-new-wearables-feature-on-watch-5-fitbit-air": {
+    "title_clean": "Google推出可穿戴设备胰岛素趋势追踪功能",
+    "summary": "Google在Watch 5和Fitbit Air等可穿戴设备上新增健康功能，可追踪胰岛素随时间变化趋势，这是消费科技公司首次推出此类功能，对健康管理场景和AI健康助手开发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/lightspeed-seeks-600-million-for-anthropic-openai-wagers": {
+    "title_clean": "Lightspeed寻求6亿美元增持Anthropic和OpenAI股份",
+    "summary": "Lightspeed Venture Partners正通过二次交易寻求约6亿美元资金，以增持其在OpenAI和其他四项资产的所有权，同时向Anthropic PBC提供新的投资承诺。这反映了顶级AI初创企业的高估值和持续融资需求，对元宝产品经理了解AI领域投资趋势和头部企业估值有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/mark-bezos-fund-faces-fight-to-recoup-losses-from-fence-startup": {
+    "title_clean": "Mark Bezos基金面临围栏创业公司投资损失追偿",
+    "summary": "由杰夫·贝佐斯弟弟马克·贝佐斯联合创立的风险投资公司向一家自称为'围栏安装界的Uber'的创业公司投资了1170万美元，现正起诉该公司创始人追回损失。这反映了AI服务场景类创业项目的投资风险与挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/yardeni-has-a-case-of-femo-video": {
+    "title_clean": "Yardeni：标普500年终预测上调至8400点",
+    "summary": "Yardeni Research总裁Ed Yardeni因'优异盈利动能'(FEMO)上调标普500年终预测至8400点，成为当前最乐观的股市预期。这一市场信号对AI产品经理评估金融信息服务场景和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb": {
+    "title_clean": "ClearJet获2500万美元融资，打造货运领域的'Uber模式'",
+    "summary": "ClearJet是一家基于AI技术的物流科技初创公司，通过连接托运人与商业航班上的闲置货运能力，打造货运领域的'Uber模式'。该公司已完成由Edison Partners领投的2500万美元B轮融资，这表明AI在物流领域的应用正在获得资本认可，为元宝在服务场景拓展方面提供了参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation": {
+    "title_clean": "Blacksmith：AI代码测试工具",
+    "summary": "Blacksmith是一家AI代码测试初创公司，在不到一年内估值增长近10倍，过去一年收入增长超过十倍。这反映了AI开发工具市场的快速增长，对元宝在AI辅助编程领域的功能拓展和商业化策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/nvidia-backed-startup-coderabbit-valued-at-1-5-billion-in-round": {
+    "title_clean": "CodeRabbit：AI代码审查服务",
+    "summary": "CodeRabbit获得1.43亿美元融资，估值达15亿美元，这是一家由Nvidia支持的AI代码审查服务提供商，专注于检测AI生成软件代码中的缺陷。此轮融资反映了市场对AI代码质量工具的强劲需求，对元宝产品经理在AI辅助编程和代码审查领域的产品规划具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/how-enterprises-put-ai-to-work": {
+    "title_clean": "从辅助到执行：企业如何应用AI",
+    "summary": "OpenAI研究揭示了企业如何采用代理式AI，使用ChatGPT和Codex，以及前沿企业在AI应用方面的领先优势。这对元宝产品经理了解企业级AI应用趋势和竞品动态具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

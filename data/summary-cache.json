@@ -57580,5 +57580,117 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/apple-taps-american-airlines-veteran-as-government-affairs-head": {
+    "title_clean": "Apple聘请美国航空高管担任政府事务负责人",
+    "summary": "Apple聘请美国航空集团高管Nate Gatten担任政府事务负责人，这位具有共和党背景的高管将负责处理公司在政府关系方面的事务。这一人事变动反映了Apple在政府关系管理上的战略调整，对元宝产品经理了解科技巨头与政府互动策略有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m": {
+    "title_clean": "Lovable：AI助手公司获13.3亿美元估值，再融资4000万美元",
+    "summary": "Lovable公司宣布获得13.3亿美元估值，并完成4000万美元新一轮融资。该公司在6月实现了5亿美元的年度经常性收入，显示其AI助手业务已实现规模化商业成功。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/uk-plans-safeguards-to-stop-terrorists-using-ai-for-bioweapons": {
+    "title_clean": "英国计划监管AI基因合成技术以防范生物武器风险",
+    "summary": "英国政府正计划监管AI在基因合成领域的应用，担忧全球缺乏相关防护措施可能使恐怖分子更容易利用AI技术制造生物武器。这一政策动向对AI安全治理和内容审核机制具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard": {
+    "title_clean": "Sandbar：AI语音记录戒指",
+    "summary": "Sandbar推出一款AI语音记录戒指，旨在解决AI硬件设备同质化问题，通过可穿戴形式捕捉会议内容并转为文字记录。该产品尝试在AI硬件市场中寻找差异化定位，为AI助手硬件形态创新提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/google-unveils-a-new-lineup-of-pixel-phones": {
+    "title_clean": "Google发布新款Pixel手机：相机性能大幅升级",
+    "summary": "Google发布了新款Pixel手机系列，虽然设计变化不大，但相机性能得到显著提升。这对元宝产品经理有参考价值，因为相机功能是AI助手的重要交互入口，Google的相机升级可能影响用户对AI视觉功能的期望。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice": {
+    "title_clean": "Sandbar：AI可穿戴设备语音交互的未来",
+    "summary": "Sandbar公司认为AI可穿戴设备的未来在于语音交互。该公司专注于AI硬件笔记设备，包括信用卡大小设备、吊坠、胸针和转录耳塞等产品，旨在捕捉会议内容并转化为文字。这一观点对元宝产品经理在AI语音交互和可穿戴设备领域的产品方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/andreessen-horowitz-tiger-global-back-yuno-s-45-million-round": {
+    "title_clean": "Andreessen Horowitz与Tiger Global投资Yuno 4500万美元",
+    "summary": "哥伦比亚支付基础设施公司Yuno完成4500万美元B轮融资，由Andreessen Horowitz和Tiger Global领投。该公司帮助企业跨市场处理交易，此次融资将助力其业务扩张，对元宝产品经理了解支付领域融资动态和跨境服务机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-today-borr-cava-coreweave-erock-super-micro": {
+    "title_clean": "美股AI基础设施股上涨：Borr, Cava, CoreWeave, ERock, Super Micro",
+    "summary": "美股AI基础设施股表现强劲，S&P 500指数期货上涨0.3%，AI基础设施公司乐观业绩提振科技股人气，投资者等待美国通胀数据。对元宝产品经理有参考价值，显示AI基础设施领域投资热度与市场信心。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-12/ai-is-creating-a-new-path-for-musical-stardom-with-uncertain-staying-power": {
+    "title_clean": "AI正在创造音乐成名新路径，但持久性存疑",
+    "summary": "探讨AI辅助音乐创作者如'Saxboy Billy'的现象，分析AI如何改变音乐成名路径，但质疑其能否持续创造有持久影响力的作品，这对元宝产品经理思考AI在创意领域的应用边界和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

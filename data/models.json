@@ -1,8 +1,129 @@
 {
-  "generated_at": "2026-08-12T14:51:56.339Z",
+  "generated_at": "2026-08-12T16:52:36.073Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "bytedance-seed/seed-2-1-turbo",
+      "name": "Seed 2.1 Turbo",
+      "vendor": "Bytedance Seed",
+      "vendor_slug": "bytedance-seed",
+      "url": "https://openrouter.ai/bytedance-seed/seed-2-1-turbo-20260810",
+      "created_at": "2026-08-12T16:29:36Z",
+      "context_length": 262144,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.5,
+      "price_out": 2.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Seed 2.1 Turbo is a multimodal model from ByteDance Seed for coding and long-horizon agent workflows. It is suited for end-to-end software delivery, multi-step task execution, and understanding visual and...",
+      "description_zh": "Seed 2.1 Turbo 是字节跳动 Seed 的多模式模型，用于编码和长期代理工作流程。它适用于端到端软件交付、多步骤任务执行以及理解视觉和..."
+    },
+    {
+      "id": "qwen/qwen3.8-2.4t-a95b",
+      "name": "Qwen3.8 2.4T A95B",
+      "vendor": "Qwen",
+      "vendor_slug": "qwen",
+      "url": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b-20260812",
+      "created_at": "2026-08-12T16:21:42Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 6,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Qwen3.8 2.4T A95B is an open-weight sparse mixture-of-experts model from Qwen and the open-weight variant of Qwen3.8 Max, with 95 billion active parameters out of 2.4 trillion total. It is...",
+      "description_zh": "Qwen3.8 2.4T A95B 是 Qwen 和 Qwen3.8 Max 的开放权重变体的开放权重稀疏专家混合模型，共有 2.4 万亿个活动参数，其中包含 950 亿个活动参数。这是..."
+    },
+    {
+      "id": "bytedance-seed/seed-2.0-code",
+      "name": "Seed-2.0-Code",
+      "vendor": "Bytedance Seed",
+      "vendor_slug": "bytedance-seed",
+      "url": "https://openrouter.ai/bytedance-seed/seed-2.0-code-20260730",
+      "created_at": "2026-08-12T16:05:01Z",
+      "context_length": 262144,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.5,
+      "price_out": 3,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Seed 2.0 Code is a model from ByteDance Seed optimized for agentic coding. It is suited for frontend development, multilingual programming tasks, and coding-agent workflows in tools such as Claude...",
+      "description_zh": "Seed 2.0 Code 是字节跳动 Seed 针对代理编码进行优化的模型。它适用于前端开发、多语言编程任务以及 Claude 等工具中的编码代理工作流程..."
+    },
+    {
+      "id": "deepseek/deepseek-v4-pro-0813",
+      "name": "DeepSeek V4 Pro 0813",
+      "vendor": "DeepSeek",
+      "vendor_slug": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-20260813",
+      "created_at": "2026-08-12T15:42:44Z",
+      "context_length": 1048576,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.435,
+      "price_out": 0.87,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek. This is the GA release of DeepSeek V4 Pro.",
+      "description_zh": "DeepSeek V4 Pro 0813 是 DeepSeek 的大规模专家混合模型。这是 DeepSeek V4 Pro 的 GA 版本。"
+    },
+    {
+      "id": "x-ai/grok-4.6",
+      "name": "Grok 4.6",
+      "vendor": "xAI",
+      "vendor_slug": "x-ai",
+      "url": "https://openrouter.ai/x-ai/grok-4.6-20260810",
+      "created_at": "2026-08-12T15:35:57Z",
+      "context_length": 500000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 6,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Grok 4.6 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM.",
+      "description_zh": "Grok 4.6 是 SpaceXAI 最智能的模型，在编码、知识工作和 STEM 方面具有前沿性能。"
+    },
     {
       "id": "liquid/lfm-2.5-2.6b:free",
       "name": "LFM2.5-2.6B (free)",
@@ -264,31 +385,6 @@
       "supports_reasoning": true,
       "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows.",
       "description_zh": "DeepSeek V4 Flash 0731 是 DeepSeek 的稀疏专家混合模型，总共 284B 个活动参数，其中有 13B 个。这种经过重新训练的修订版适用于编码、推理和代理工作流程。"
-    },
-    {
-      "id": "bytedance-seed/seed-2.0-code",
-      "name": "Seed-2.0-Code",
-      "vendor": "Bytedance Seed",
-      "vendor_slug": "bytedance-seed",
-      "url": "https://openrouter.ai/bytedance-seed/seed-2.0-code-20260730",
-      "created_at": "2026-07-30T22:48:39Z",
-      "context_length": 262144,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.5,
-      "price_out": 3,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Seed 2.0 Code is a model from ByteDance Seed optimized for agentic coding. It is suited for frontend development, multilingual programming tasks, and coding-agent workflows in tools such as Claude...",
-      "description_zh": "Seed 2.0 Code 是字节跳动 Seed 针对代理编码进行优化的模型。它适用于前端开发、多语言编程任务以及 Claude 等工具中的编码代理工作流程..."
     },
     {
       "id": "thinkingmachines/inkling-small",
@@ -1113,8 +1209,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "Grok 4.5 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM.",
-      "description_zh": "Grok 4.5 是 SpaceXAI 最智能的模型，在编码、知识工作和 STEM 方面具有前沿性能。"
+      "description": "Grok 4.5 is a model from SpaceXAI with frontier performance on coding, knowledge work, and STEM.",
+      "description_zh": "Grok 4.5 是 SpaceXAI 的一个模型，在编码、知识工作和 STEM 方面具有前沿性能。"
     },
     {
       "id": "~x-ai/grok-latest",
@@ -1378,102 +1474,6 @@
       "supports_reasoning": true,
       "description": "Fugu Ultra is the higher-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to route...",
       "description_zh": "Fugu Ultra 是 Sakana AI Fugu 系列中性能更高的型号。 Fugu 不是一个单一的整体模型，而是一个学习的多代理编排系统：一种经过训练的语言模型，用于路由......"
-    },
-    {
-      "id": "google/gemini-3.1-flash-image",
-      "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-3.1-flash-image-20260528",
-      "created_at": "2026-06-18T03:41:05Z",
-      "context_length": 131072,
-      "modality": "text+image->text+image",
-      "input_modalities": [
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "image",
-        "text"
-      ],
-      "price_in": 0.5,
-      "price_out": 3,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": true,
-      "description": "Gemini 3.1 Flash Image, a.k.a. \"Nano Banana 2,\" is Google’s latest state of the art image generation and editing model, delivering Pro-level visual quality at Flash speed. It combines advanced...",
-      "description_zh": "Gemini 3.1 Flash Image，又名“Nano Banana 2”，是 Google 最新的最先进的图像生成和编辑模型，以 Flash 速度提供专业级的视觉质量。它结合了先进..."
-    },
-    {
-      "id": "google/gemini-3-pro-image",
-      "name": "Nano Banana Pro (Gemini 3 Pro Image)",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-3-pro-image-20260528",
-      "created_at": "2026-06-18T03:40:54Z",
-      "context_length": 131072,
-      "modality": "text+image->text+image",
-      "input_modalities": [
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "image",
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 12,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Nano Banana Pro is Google’s most advanced image-generation and editing model, built on Gemini 3 Pro. It extends the original Nano Banana with significantly improved multimodal reasoning, real-world grounding, and...",
-      "description_zh": "Nano Banana Pro 是 Google 最先进的图像生成和编辑模型，基于 Gemini 3 Pro 构建。它扩展了原始的 Nano Banana，显着改进了多模态推理、现实世界的基础，以及……"
-    },
-    {
-      "id": "cohere/north-mini-code:free",
-      "name": "North Mini Code (free)",
-      "vendor": "Cohere",
-      "vendor_slug": "cohere",
-      "url": "https://openrouter.ai/cohere/north-mini-code-20260617",
-      "created_at": "2026-06-17T19:15:48Z",
-      "context_length": 256000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "North Mini Code is Cohere's first agentic coding model and the debut of its North family. A sparse mixture-of-experts model with 30B total parameters and 3B active, it is optimized...",
-      "description_zh": "North Mini Code 是 Cohere 的第一个代理编码模型，也是 North 系列的首次亮相。一个稀疏专家混合模型，具有 30B 总参数和 3B 活跃参数，经过优化..."
-    },
-    {
-      "id": "z-ai/glm-5.2",
-      "name": "GLM 5.2",
-      "vendor": "Zhipu AI",
-      "vendor_slug": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.2-20260616",
-      "created_at": "2026-06-16T17:45:30Z",
-      "context_length": 1048576,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.49,
-      "price_out": 1.54,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GLM 5.2 is a large-scale reasoning model from Z.ai. It supports text input and output with a 1M-token context window, and is suited for long-horizon agent workflows, project-level software engineering,...",
-      "description_zh": "GLM 5.2是Z.ai的大规模推理模型。它支持带有 1M 令牌上下文窗口的文本输入和输出，适用于长期代理工作流程、项目级软件工程……"
     }
   ]
 }

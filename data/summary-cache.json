@@ -57343,5 +57343,105 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/weride-tops-estimates-on-surging-domestic-ride-hailing-demand": {
+    "title_clean": "WeRide：自动驾驶出行服务需求激增",
+    "summary": "WeRide Inc.销售额超出预期，主要受益于国内出行需求激增和在欧洲市场的加速扩张。这反映了自动驾驶出行服务在特定市场的商业可行性提升，对元宝产品经理评估AI服务商业化路径和场景拓展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lettertrace": {
+    "title_clean": "Lettertrace：AI 可见性追踪工具",
+    "summary": "Lettertrace 是一款免费工具，允许用户通过自己的 API 密钥追踪 AI 服务的可见性表现。产品经理可参考其如何帮助用户监控 AI 服务曝光度，这对元宝的 API 可见性管理和用户反馈收集有启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/jumia-wins-ifc-axian-backing-in-50-million-equity-fundraising": {
+    "title_clean": "Jumia获5000万美元股权融资，加速非洲电商发展",
+    "summary": "Jumia Technologies AG获得5000万美元股权融资，由最大股东和世界银行国际金融公司提供。这笔资金将帮助这家非洲电商公司推进其首次盈利目标，为元宝产品经理提供了新兴市场电商融资案例参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/nebius-reports-514-jump-in-ai-cloud-sales-as-demand-booms": {
+    "title_clean": "Nebius：AI云计算服务需求激增，销售额增长514%",
+    "summary": "Nebius Group报告其二季度云计算业务销售额增长514%，主要源于AI计算需求的强劲增长。这反映了市场对AI基础设施服务的需求爆发，对元宝产品经理评估AI服务商业化路径和云服务合作具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-12/tencent-s-ai-innovation-pace-in-question-after-earnings": {
+    "title_clean": "腾讯AI创新步伐受质疑：投资者关注其能否缩小与AI领导者的差距",
+    "summary": "腾讯财报后，投资者对其AI创新速度提出质疑，关注腾讯能否缩小与全球AI领先企业的差距。这对元宝产品经理有参考价值，可了解大型科技公司在AI领域的竞争态势和投资者期望。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026": {
+    "title_clean": "健身初创企业融资回暖，投资者更关注AI与数据而非传统设备",
+    "summary": "健身和健康领域初创企业融资在2023年上半年达到36亿美元，投资者对这一领域前景持乐观态度。与以往不同，投资者现在更看重AI和数据分析能力，而非传统的健身设备，这表明AI在健康服务场景中的应用正成为投资热点。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/linforge": {
+    "title_clean": "Linforge：将Anki卡片转为英语对话工具",
+    "summary": "Linforge是一款将Anki记忆卡片转化为真实英语对话的工具，帮助用户通过卡片内容进行口语练习，解决了语言学习中从记忆到实际应用的转化问题，对元宝在语言学习场景下的AI对话功能开发有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/zetwerk-is-said-to-plan-public-filing-for-400-million-india-ipo": {
+    "title_clean": "Zetwerk：印度合同制造商计划4亿美元IPO",
+    "summary": "印度合同制造商Zetwerk正准备公开提交首次公开募股申请，可能筹集高达4亿美元资金。这反映了印度制造业企业的资本运作动向，对元宝产品经理了解AI服务在制造业的应用场景和商业化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

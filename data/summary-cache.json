@@ -57206,5 +57206,142 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/sidekick-16": {
+    "title_clean": "Sidekick™：AI代理界面工具",
+    "summary": "Sidekick™是一款AI代理界面工具，专注于提供智能代理交互体验。作为产品经理，可参考其代理界面设计思路，探索元宝在AI代理交互方面的创新可能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cohesor": {
+    "title_clean": "Cohesor：企业AI代理中立控制平面",
+    "summary": "Cohesor提供企业级AI代理的中立控制平面，帮助企业统一管理和协调多个AI代理系统。这一工具对产品经理有参考价值，特别是在企业级AI代理架构设计和多代理协同管理方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dograh": {
+    "title_clean": "Dograh：开源VAPI替代工具",
+    "summary": "Dograh是一款开源的VAPI替代工具，为开发者提供语音API的替代方案。作为开源项目，它可能降低语音服务成本并提供更多定制化选项，对元宝产品经理评估语音API选型和成本控制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/trigger-dev": {
+    "title_clean": "Chat Agent by Trigger.dev：持续运行的AI聊天助手",
+    "summary": "Chat Agent by Trigger.dev是一款即使在用户关闭标签页后仍能持续运行的AI聊天助手，解决了传统聊天机器人会话中断的问题，为产品经理提供了持久化AI交互的新思路，可能适用于需要持续对话的服务场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/wintermute-plans-1-billion-ai-investment-to-compete-on-wall-street": {
+    "title_clean": "Wintermute：AI高频交易与数据中心投资计划",
+    "summary": "Wintermute Trading计划未来五年投资约10亿美元用于高频交易和人工智能数据中心基础设施，作为数字资产做市商，此举反映了AI在金融交易领域的深度应用和大规模投资趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/new-york-city-probes-prediction-markets-over-ads-social-harms": {
+    "title_clean": "纽约市调查预测市场平台广告与社会危害",
+    "summary": "纽约市议会正在调查四家主要预测市场平台的广告实践，这是该蓬勃发展行业面临的法律斗争的新前线。这一监管动向对AI产品经理有参考价值，特别是涉及用户生成内容平台和预测类AI服务，提示需关注监管合规与社会责任。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/tech-investments-boost-norway-s-sovereign-wealth-fund-video": {
+    "title_clean": "挪威主权财富基金科技投资创六年最佳季度表现",
+    "summary": "挪威主权财富基金创下六年来最佳季度业绩，主要受益于对英伟达、苹果和微软等科技巨头的投资。这反映了AI和科技领域的高增长潜力，对元宝产品经理评估AI投资价值和长期增长策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/ai-coding-startup-lovable-raises-400-million-at-13-3-billion-valuation": {
+    "title_clean": "AI编程创业公司Lovable获13.3亿美元估值融资4亿美元",
+    "summary": "瑞典AI编程创业公司Lovable完成4亿美元融资，估值达133亿美元，旨在与Anthropic和SpaceX等大型竞争对手抗衡。此轮融资反映了AI编程领域的高估值竞争态势，对元宝产品经理评估AI编程赛道投资热度与竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/nvidia-partner-hon-hai-s-profit-beats-on-sustained-ai-spending": {
+    "title_clean": "富士康：AI硬件需求激增推动季度利润超预期",
+    "summary": "富士康公布季度利润超预期增长，表明全球对AI硬件需求强劲。这一数据反映了AI硬件市场的持续增长趋势，对元宝产品经理评估AI基础设施投资和硬件合作伙伴关系具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/counterpoint-s-shah-on-nvidia-circular-deals-video": {
+    "title_clean": "Counterpoint分析师谈Nvidia与AI循环交易",
+    "summary": "Counterpoint副总裁Neil Shah在彭博节目中分析了Nvidia的前景及其支撑AI热潮的循环交易模式，揭示了AI产业链中的商业运作机制，对理解AI硬件市场格局和商业机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/ai-startup-cognition-in-new-funding-talks-at-40-billion-value": {
+    "title_clean": "Cognition AI：代码生成创企寻求40亿美元估值融资",
+    "summary": "Cognition AI正在与投资者进行新一轮融资谈判，估值可能超过50%增至至少400亿美元。作为代码生成领域的AI创企，此轮融资反映了AI编程工具市场的快速增长和资本热度，对元宝产品经理评估AI编程助手赛道竞争格局和商业化潜力有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

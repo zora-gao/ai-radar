@@ -56906,5 +56906,66 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049742&idx=1&sn=ca9f90debabd25ff32376ba919a19ef5": {
+    "title_clean": "清华天眸芯团队：类脑互补视觉AI感知研究",
+    "summary": "清华天眸芯团队研究成果登上Nature系列期刊封面，提出类脑互补视觉范式，重塑AI感知世界的方式。这一研究对AI视觉感知技术发展具有重要参考价值，可能启发新一代AI视觉系统的设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049742&idx=2&sn=832be73182a0c38c26b9f06d7009dfe3": {
+    "title_clean": "Meta回归开源领域，扎克伯格支持模型蒸馏技术",
+    "summary": "Meta时隔16个月后重新回归开源领域，扎克伯格公开支持模型蒸馏技术。这表明Meta可能调整其AI战略，重新重视开源社区，对元宝产品经理了解大厂AI战略动向和开源生态变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/coreweave-took-a-step-in-the-right-direction-gil-luria-video": {
+    "title_clean": "CoreWeave：云基础设施服务提供商业绩超预期",
+    "summary": "CoreWeave在第二季度销售超出分析师预期，客户数量增长，表明其在蓬勃发展的云基础设施市场中取得进展。这对元宝产品经理评估AI基础设施服务提供商的市场表现和竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/redpoint-s-brescia-on-nvidia-s-500b-funding-ai-capex-video": {
+    "title_clean": "Redpoint Brescia谈英伟达500亿美元融资与AI资本支出",
+    "summary": "红点创投董事总经理Erica Brescia讨论了超微电脑的稳健商业模式和强势市场地位，尽管近期存在波动，但该公司正受益于英伟达500亿美元AI投资带来的资本支出增长，这对AI硬件供应链和投资趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-11/trump-family-crypto-deal-ends-in-investor-rout-video": {
+    "title_clean": "特朗普家族加密货币交易导致投资者大规模撤资",
+    "summary": "特朗普家族参与的加密货币交易引发市场恐慌，导致投资者大规模撤资，相关金融科技公司市值一度突破10亿美元后迅速下跌。这一事件反映了名人效应在加密货币市场的风险，以及投资者对政治关联项目的敏感度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -58896,5 +58896,102 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/cisco-s-ai-data-center-sales-forecast-disappoints-video": {
+    "title_clean": "思科AI数据中心销售预测不及预期",
+    "summary": "思科预计本财年AI数据中心销售额为75亿美元，低于投资者预期，导致股价下跌。CEO称这一预测是良好且谨慎的，反映了AI基础设施市场的实际增长速度可能慢于预期。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/openai-hires-new-chief-revenue-officer-after-less-than-a-year": {
+    "title_clean": "OpenAI更换首席营收官，加速华尔街上市准备",
+    "summary": "OpenAI在不到一年内第二次更换首席营收官，此举旨在加强销售增长，为备受期待的华尔街上市做准备。这一人事变动反映了OpenAI对商业化进程的重视，对元宝产品经理了解AI巨头商业化策略和上市动向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus": {
+    "title_clean": "Nvidia 推出500亿美元计划保护GPU价值",
+    "summary": "Nvidia推出一项500亿美元计划，旨在确保其GPU不会贬值，并说服新的金融投资者继续为AI基础设施建设提供贷款。这一计划针对老化GPU市场，可能影响AI硬件供应链和金融投资方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/liftoff-ceo-bets-big-on-ai-video": {
+    "title_clean": "Liftoff CEO：AI驱动的移动广告技术公司业绩增长",
+    "summary": "Liftoff CEO Jeremy Bondy在Bloomberg Open Interest上分析了公司上市后的首份财报，显示收入增长35%。他详细介绍了Liftoff的Cort AI技术在移动广告领域的应用，这对元宝产品经理了解AI在广告技术中的商业化应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/dali-rajic-chief-revenue-officer": {
+    "title_clean": "OpenAI任命Dali Rajic为首席营收官",
+    "summary": "OpenAI任命Dali Rajic担任首席营收官，负责领导全球营收组织，并帮助企业实现AI的完整价值。这一人事变动表明OpenAI正加强商业化能力，对元宝产品经理了解AI巨头的商业化战略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/databricks-raises-5-billion-at-a-190-billion-valuation": {
+    "title_clean": "Databricks获50亿美元融资，估值达1900亿美元",
+    "summary": "Databricks完成50亿美元融资，估值达1900亿美元，这是该公司今年第二轮融资。作为与Snowflake和Alphabet竞争的快速成长软件公司，此次融资反映了AI数据平台领域的强劲投资态势，对元宝产品经理评估AI基础设施赛道竞争格局和商业化潜力有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/private-credit-markets-face-ai-debt-exposure-challenge-video": {
+    "title_clean": "Private Credit Markets Face AI Debt Exposure Challenge",
+    "summary": "AI和超大规模云服务提供商的增长为私人信贷市场带来机遇，但也带来了风险。包括英伟达在内的AI相关企业今年在某些指数中占据了高达30%的新增发行量，这引发了市场对AI债务敞口的担忧。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/unlearning-low-influence-points": {
+    "title_clean": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
+    "summary": "该研究探讨了机器学习中如何通过利用低影响点来降低计算成本，实现数据遗忘功能。随着数据隐私问题日益突出，这项技术对于模型在不重新训练的情况下移除特定数据点具有重要意义，可为AI产品提供更高效的数据隐私保护方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -58772,5 +58772,67 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/surveillance-dronemaker-tekever-in-talks-for-funding-at-5-5-billion-valuation": {
+    "title_clean": "Tekever：监控无人机开发商寻求55亿欧元融资",
+    "summary": "葡萄牙监控无人机开发商Tekever正与投资者洽谈融资，估值达55亿欧元，较去年增长五倍，计划筹集高达5000万欧元资金。这反映了安防领域无人机技术的商业价值提升，对元宝在AI+安防场景的产品规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner": {
+    "title_clean": "非技术背景创始人打造AI建筑工具Trunk Tools",
+    "summary": "Sarah Buchner，一位蓝领背景的木匠，创立了AI建筑初创公司Trunk Tools，旨在帮助建筑公司提高效率。这一案例展示了非技术背景创始人如何通过解决行业实际问题获得风险投资，为元宝产品拓展垂直领域AI服务提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/is-india-s-ai-power-play-grid-locked-video": {
+    "title_clean": "印度AI发展面临能源电网挑战",
+    "summary": "印度AI发展面临能源电网压力，Tata Power CEO探讨如何构建足够强大的电网系统以支持该国雄心勃勃的AI发展目标。这对元宝产品经理了解AI基础设施限制及能源消耗问题有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/jd-com-profit-beats-estimates-after-food-delivery-fight-calms": {
+    "title_clean": "京东首次出现季度营收下滑，反映中国消费者信心减弱",
+    "summary": "京东自2014年上市以来首次出现季度营收下滑，这表明中国消费者信心正在减弱。这一趋势对元宝产品经理有重要参考价值，因为消费者信心变化可能影响电商类AI助手的使用频率和商业化策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping": {
+    "title_clean": "Okta：AI代理身份范围MCP工具",
+    "summary": "Okta推出基于身份范围的模型上下文协议(MCP)工具列表，旨在降低AI代理的令牌成本。通过限制每个模型调用中包含的模式、名称、描述和参数数量，Okta帮助AI代理更高效地使用资源。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

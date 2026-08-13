@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:34:49.684Z",
+  "generated_at": "2026-08-13T22:34:22.252Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -208,7 +208,7 @@
       "vendor_slug": "nvidia",
       "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning-20260807",
       "created_at": "2026-08-11T12:52:31Z",
-      "context_length": 1048576,
+      "context_length": 1000000,
       "modality": "text->text",
       "input_modalities": [
         "text"

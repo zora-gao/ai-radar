@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:34:58.104Z",
+  "generated_at": "2026-08-13T01:21:41.192Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -165,7 +165,7 @@
       "price_in": 0.1,
       "price_out": 0.25,
       "is_free": false,
-      "supports_tools": false,
+      "supports_tools": true,
       "supports_reasoning": true,
       "description": "NVIDIA Nemotron 3.5 Lightning is an open mixture-of-experts model from NVIDIA, with 3B active parameters out of 30B total. It is suited for high-throughput agentic workloads and specialized tasks that...",
       "description_zh": "NVIDIA Nemotron 3.5 Lightning 是 NVIDIA 的开放式专家混合模型，共有 30B 个活动参数，其中有 3B 个。它适用于高吞吐量代理工作负载和专门任务..."

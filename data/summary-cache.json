@@ -58136,5 +58136,102 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes": {
+    "title_clean": "Anthropic 新水印系统引发用户不满，担心被检测工作作弊",
+    "summary": "Anthropic 推出新的 Claude 内容水印系统，部分用户在社交媒体上抱怨该系统会检测到他们在工作和学习中的作弊行为，引发对隐私和使用的担忧。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049903&idx=1&sn=e7977d455e32aa07ff58aab165d6e83e": {
+    "title_clean": "2026云程奖启动：面向在校AI本硕博的奖学金计划",
+    "summary": "2026云程奖正式启动，专门面向在校AI专业本硕博学生提供奖学金支持。该计划旨在培养AI领域人才，反映行业对专业人才的需求增长，对元宝产品经理了解AI人才生态和教育市场有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049827&idx=1&sn=a69fa2180517a086cba4d8cbd3be5a98": {
+    "title_clean": "林俊旸官宣创业公司PragmatikLabs",
+    "summary": "林俊旸宣布创立PragmatikLabs创业公司，但未披露具体业务方向和产品信息。作为AI行业重要人物，其创业动向值得元宝产品经理关注，可能预示着新的AI服务方向或竞品出现。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/eqt-offers-to-buy-australia-s-cleanaway-waste-for-4-9-billion": {
+    "title_clean": "EQT拟49亿美元收购澳大利亚Cleanaway垃圾管理公司",
+    "summary": "EQT基础设施公司提出以49亿美元收购澳大利亚上市公司Cleanaway Waste Management，这笔交易对Cleanaway的估值约为69亿澳元。这是一项基础设施领域的重大并购交易，对元宝产品经理的参考价值有限，主要涉及传统行业并购而非AI相关业务。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out": {
+    "title_clean": "Amazon将默认使用Twitch主播内容训练AI，主播需主动退出",
+    "summary": "Amazon宣布将默认使用Twitch平台上的直播内容训练AI模型，除非主播主动选择退出。Twitch首席产品官表示，如果采用主动加入模式，几乎不会有主播选择参与。这一政策反映了AI训练数据获取策略的转变，对内容创作者权益和AI伦理边界提出了新的挑战。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/cerebras-hardware-business-declines-in-sign-of-lumpy-demand": {
+    "title_clean": "Cerebras：AI芯片硬件销售下滑",
+    "summary": "Cerebras Systems报告硬件收入下降，显示这家新上市公司在销售采用新型芯片设计的计算机方面进展缓慢。这对AI芯片行业和硬件供应商的商业化进程有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/foundation-capital-bets-on-ai-s-great-reorg-video": {
+    "title_clean": "Foundation Capital：押注AI'大重组'时代",
+    "summary": "Foundation Capital普通合伙人Joanne Chen表示，尽管AI驱动早期创业公司估值飙升，但风险投资机构仍需在产品或客户出现前保持投资纪律，关注AI行业的结构性变革机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/why-open-weight-ai-models-won-t-kill-the-closed-model-video": {
+    "title_clean": "开源AI模型不会取代闭源模型",
+    "summary": "摩根士丹利分析师Michelle Weaver表示，AI需求持续超过可用计算能力，短期内不太可能出现供应过剩。这为闭源AI模型提供了持续的市场空间，对元宝的产品经理评估AI模型选择策略和资源分配具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

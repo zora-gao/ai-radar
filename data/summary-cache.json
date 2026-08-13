@@ -59167,5 +59167,143 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/applied-materials-forecast-gets-tepid-reaction-after-stock-rally": {
+    "title_clean": "Applied Materials：AI芯片材料供应商业绩预测引发市场反应平淡",
+    "summary": "Applied Materials Inc. 虽然发布了超出预期的业绩预测，但仍未获得投资者热烈反响，这反映出市场对这家AI芯片关键材料供应商的期望值过高。作为AI产业链上游企业，其业绩表现反映了AI硬件市场的真实需求状况，对元宝产品经理评估AI基础设施相关服务机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation": {
+    "title_clean": "Databricks完成50亿美元融资，估值达1900亿美元",
+    "summary": "Databricks本计划融资10亿美元，但投资者需求强烈，最终完成50亿美元融资，估值达1900亿美元。公司CEO表示AI成本高昂，此次融资反映了市场对AI基础设施的强烈需求，对AI产品经理评估市场趋势和融资环境有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-xo-life-2": {
+    "title_clean": "XO Life CEO访谈：健康生活市场定位与客户需求",
+    "summary": "XO Life CEO Dr. Friderike Bruchmann接受CB Insights采访，分享公司对健康生活市场的理解、客户需求洞察以及自身在市场中的定位。这为AI健康服务产品经理提供了传统健康企业视角的市场参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-13/openai-anthropic-tout-new-metric-to-better-gauge-ai-s-cost": {
+    "title_clean": "OpenAI与Anthropic推出新指标衡量AI成本",
+    "summary": "OpenAI和Anthropic联合推出新指标，旨在帮助客户更好地评估AI模型使用成本，推动客户重新思考AI服务的定价模式，这对产品经理了解AI服务成本结构和定价策略有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/jane-street-lease-backs-2-25-billion-of-green-data-center-bonds": {
+    "title_clean": "Jane Street租赁22.5亿美元绿色数据中心债券",
+    "summary": "Zenith Arc数据中心项目向Jane Street租赁容量，并成功发行22.5亿美元绿色债券，这是近期数据中心开发商利用环保债券市场的又一案例。对产品经理而言，这反映了AI基础设施融资趋势，特别是绿色数据中心对AI服务的重要性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/bloomberg-tech-8-13-2026-video": {
+    "title_clean": "Anthropic拟以60亿美元收购AI初创公司Decart以提升计算基础设施性能",
+    "summary": "据Bloomberg报道，Anthropic正洽谈以60亿美元收购AI初创公司Decart，这是其迄今为止最大规模的收购案。此次收购旨在帮助Anthropic优化计算基础设施性能，提升AI模型运行效率，对AI基础设施领域具有重要战略意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": {
+    "title_clean": "Strands Agents：一站式AI Agent训练部署平台",
+    "summary": "Strands Agents整合了LeRobot和Hugging Face存储桶，提供从记录、训练到部署的全流程AI Agent开发解决方案。产品经理可关注其简化AI Agent开发流程的方法，以及与Hugging Face生态的整合方式，这对元宝的Agent能力建设具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/open-interest-8-13-2026-video": {
+    "title_clean": "Anthropic拟以60亿美元收购Decart",
+    "summary": "Anthropic正考虑以60亿美元收购Decart，这将是有史以来最大的一笔收购交易。这一动向表明Anthropic正在加速扩张其业务版图，可能对AI行业格局产生重大影响，值得产品经理关注其战略方向和潜在市场变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/flock-ceo-unveils-privacy-guardrails-we-re-not-big-brother": {
+    "title_clean": "Flock Cameras：新增隐私保护措施以回应监控担忧",
+    "summary": "Flock Safety计划为其自动车牌识别技术新增隐私保护措施，此前因技术被滥用于大规模监控而引发争议。CEO明确表示公司并非'老大哥'式监控，此举旨在平衡安全与隐私，对AI监控产品的合规设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/us-robot-vacuum-maker-one-ups-china-rivals-with-voice-commands": {
+    "title_clean": "Matic：语音控制扫地机器人",
+    "summary": "美国硅谷品牌Matic推出可通过语音指令完全控制的扫地机器人，使其在竞争中脱颖而出。这一功能展示了语音交互在家居设备中的应用，为AI助手在智能家居场景中的语音控制能力提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/anthropic-in-talks-to-buy-ai-startup-decart-for-6b-video": {
+    "title_clean": "Anthropic拟以60亿美元收购AI初创公司Decart",
+    "summary": "Anthropic正以约60亿美元收购AI初创公司Decart，这将是Claude母公司迄今为止最大规模的收购交易。此次收购表明Anthropic正积极扩大其AI能力版图，可能对Claude的功能扩展和市场竞争格局产生重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:17:29.367Z",
+  "generated_at": "2026-08-13T09:05:53.678Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -264,29 +264,6 @@
       "supports_reasoning": true,
       "description": "Muse Glimmer 30B is a dense, open-weight multimodal model from Meta Superintelligence Labs, distilled from Muse Spark and optimized for autonomous agents on consumer hardware. It is suited for long-horizon...",
       "description_zh": "Muse Glimmer 30B 是来自 Meta Superintelligence Labs 的密集、开放权重多模态模型，从 Muse Spark 中提炼出来，并针对消费类硬件上的自主代理进行了优化。它适用于长视野..."
-    },
-    {
-      "id": "inclusionai/ling-3.0-tiny:free",
-      "name": "Ling 3.0 Tiny (free)",
-      "vendor": "Inclusionai",
-      "vendor_slug": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-3.0-tiny-20260806",
-      "created_at": "2026-08-06T16:48:10Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Ling 3.0 Tiny is a mixture-of-experts model from InclusionAI, with 1.3B active parameters out of 7.9B total. It is designed for responsive agents, instruction following, and multi-turn conversations, with switchable...",
-      "description_zh": "Ling 3.0 Tiny 是 InclusionAI 的混合专家模型，共有 7.9B 个活跃参数，其中有 1.3B 个。它专为响应式代理、指令遵循和多轮对话而设计，具有可切换..."
     },
     {
       "id": "meta/muse-spark-1.2",
@@ -1474,6 +1451,31 @@
       "supports_reasoning": true,
       "description": "Fugu Ultra is the higher-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to route...",
       "description_zh": "Fugu Ultra 是 Sakana AI Fugu 系列中性能更高的型号。 Fugu 不是一个单一的整体模型，而是一个学习的多代理编排系统：一种经过训练的语言模型，用于路由......"
+    },
+    {
+      "id": "google/gemini-3.1-flash-image",
+      "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-3.1-flash-image-20260528",
+      "created_at": "2026-06-18T03:41:05Z",
+      "context_length": 131072,
+      "modality": "text+image->text+image",
+      "input_modalities": [
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "image",
+        "text"
+      ],
+      "price_in": 0.5,
+      "price_out": 3,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Gemini 3.1 Flash Image, a.k.a. \"Nano Banana 2,\" is Google’s latest state of the art image generation and editing model, delivering Pro-level visual quality at Flash speed. It combines advanced...",
+      "description_zh": "Gemini 3.1 Flash Image，又名“Nano Banana 2”，是 Google 最新的最先进的图像生成和编辑模型，以 Flash 速度提供专业级的视觉质量。它结合了先进..."
     }
   ]
 }

@@ -58684,5 +58684,93 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/fluiddocs-html-deck-builder": {
+    "title_clean": "FluidDocs CLI：交互式文档发布工具",
+    "summary": "FluidDocs CLI 是一款命令行工具，用于发布交互式文档，能够回答问题并反馈报告。产品经理可参考其交互式文档设计思路，优化AI助手的知识库呈现方式，提升用户获取信息的效率和体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skilldocs": {
+    "title_clean": "Skilldocs：Markdown 可视化编辑工具",
+    "summary": "Skilldocs是一款将Markdown文档转化为可视化界面的工具，类似于Figma对设计文件的操作方式，使Markdown文档的编辑和协作更加直观。产品经理可参考其如何将传统文本编辑转化为可视化交互，为元宝的文档处理功能提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-13/workers-don-motion-trackers-cameras-to-teach-ai-their-jobs": {
+    "title_clean": "Workers Don Motion Trackers, Cameras to Teach AI Their Jobs：工人穿戴动作追踪器与摄像头训练AI工作技能",
+    "summary": "工人通过穿戴动作追踪器和摄像头，为机器人提供人类动作本质的宝贵数据，帮助AI学习并掌握人类工作技能。这种数据收集方式对AI助手和AI Agent在理解人类操作流程、提升任务执行能力方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/citigroup-sees-robust-adr-pipeline-in-asia-on-tech-funding-drive": {
+    "title_clean": "花旗银行：亚洲科技公司赴美上市热潮持续",
+    "summary": "花旗银行报告显示，亚洲科技公司正积极寻求在美国上市，以提升估值并获取全球最大股票市场的资本支持。这一趋势反映了亚洲科技企业对国际资本市场的需求增强，对元宝产品经理了解科技企业融资策略和市场扩张方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/can-india-power-the-ai-boom-video": {
+    "title_clean": "印度能否支撑AI发展所需的电力需求？",
+    "summary": "随着AI应用加速，印度数据中心电力需求可能大幅增长。塔塔电力CEO和印度能源与气候中心专家讨论印度如何应对AI发展带来的电力挑战，这对元宝产品经理评估AI服务在新兴市场的部署可行性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/anthropic-eyes-6-billion-offer-for-ai-startup-decart-video": {
+    "title_clean": "Anthropic拟收购AI初创公司Decart",
+    "summary": "Anthropic正洽谈以60亿美元收购AI初创公司Decart，后者专注于世界模型技术。此次收购若完成将增强Anthropic在AI模型领域的技术实力，对AI助手产品经理评估行业并购趋势和技术整合方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/trump-trade-enforcers-deploy-ai-to-crack-down-on-tariff-dodging": {
+    "title_clean": "特朗普贸易执法部门部署AI打击关税规避行为",
+    "summary": "特朗普政府正在开发AI驱动的'侦探边境'系统，旨在打击被怀疑帮助中国规避对美国进口关税的贸易伙伴。这一举措反映了AI在贸易监管领域的应用，对元宝产品经理了解AI在政府监管场景的应用价值具有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

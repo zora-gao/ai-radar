@@ -58834,5 +58834,67 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/deepseek-increases-prices-for-ai-services-by-multiple-times": {
+    "title_clean": "DeepSeek 大幅提高AI服务价格",
+    "summary": "DeepSeek对其旗舰V4模型大幅提价，使其价格接近主要AI竞争对手。这一变化表明低成本AI服务策略正在转变，对产品经理评估AI服务定价策略和市场格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/chinese-talent-plans-brought-to-light-with-science-agency-probe-of-professor": {
+    "title_clean": "中国学者参与中国人才计划未申报，美国科研资助调查曝光",
+    "summary": "美国科研机构调查发现，李教授在参与分配美国研究资金时，未披露其参与中国人才计划的情况。这一事件引发了对学术透明度和国际科研合作安全性的关注，对产品经理了解国际AI人才流动和科研合作环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report": {
+    "title_clean": "苹果拟向新闻机构付费以获取Siri实时新闻内容",
+    "summary": "据华尔街日报报道，苹果正考虑以九位数预算向新闻机构付费，以获取实时新闻内容供Siri使用。这反映了AI助手在信息获取方面的商业化尝试，对元宝产品经理在内容合作与AI信息整合方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/china-s-didi-returns-to-profit-on-strong-domestic-ride-demand": {
+    "title_clean": "滴滴中国国内打车需求强劲，实现扭亏为盈",
+    "summary": "滴滴全球公司在中国国内打车需求强劲的推动下，在连续两个季度亏损后重新实现盈利。这一趋势表明中国出行市场正在复苏，对元宝在本地化服务场景和商业化策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-13/meta-faces-big-tobacco-moment-in-youth-harm-trial-brought-by-ags": {
+    "title_clean": "Meta 面对各州总检察长提起的青少年伤害诉讼",
+    "summary": "Meta公司正面临各州总检察长提起的诉讼，可能面临巨额罚款和被迫改变产品。此案涉及青少年使用其平台可能造成的伤害，对AI产品在未成年人保护方面的合规性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

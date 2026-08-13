@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:54:42.849Z",
+  "generated_at": "2026-08-13T14:51:50.970Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -238,8 +238,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "Solar Pro 4 is a large language model from Upstage. It is suited for agentic workflows, office productivity, document-intensive work, and coding.",
-      "description_zh": "Solar Pro 4 是来自 Upstage 的大型语言模型。它适用于代理工作流程、办公效率、文档密集型工作和编码。"
+      "description": "Solar Pro 4 is Upstage's cost-efficient large language model, featuring a 524K context window. It is built for long-horizon tasks and agentic workflows, with strong capabilities in office productivity, document-intensive...",
+      "description_zh": "Solar Pro 4 是 Upstage 经济高效的大型语言模型，具有 524K 上下文窗口。它专为长期任务和代理工作流程而构建，在办公效率、文档密集型等方面具有强大的功能..."
     },
     {
       "id": "meta/muse-glimmer-30b",

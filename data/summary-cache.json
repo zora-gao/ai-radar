@@ -58294,5 +58294,273 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/kin-health": {
+    "title_clean": "Kin Health：医生问诊记录与摘要工具",
+    "summary": "Kin Health是一款医疗健康工具，能够记录医生问诊内容并提供清晰的摘要服务，帮助患者整理和回顾医疗信息，提高医患沟通效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/human-behavior": {
+    "title_clean": "Human Behavior：用户行为分析工具",
+    "summary": "Human Behavior是一款用户行为分析工具，专注于从产品数据中提取用户行为洞察，帮助产品团队理解用户行为模式并采取相应措施。该工具可能提供用户行为追踪、分析和报告功能，为产品经理提供数据驱动的决策支持。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/google": {
+    "title_clean": "Google Pixel 11：新一代个人智能手机",
+    "summary": "Google推出最新款Pixel 11智能手机，强调其个性化特性。作为谷歌硬件产品线的重要更新，这款设备可能集成最新的AI功能，对元宝产品经理在AI助手与硬件结合场景上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/qencode": {
+    "title_clean": "Qencode MCP：AI视频转码处理工具",
+    "summary": "Qencode MCP推出AI视频转码处理服务，使AI代理能够高效处理视频内容。这项技术为AI助手在视频理解、编辑和分析方面提供了新能力，对元宝拓展多模态交互和视频处理场景具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pickle-browser": {
+    "title_clean": "Pickle Browser：AI Agent专用浏览器工具",
+    "summary": "Pickle Browser是一款专为AI Agent设计的浏览器工具，可在本地窗口中运行，为AI代理提供可视化的浏览器环境。这款产品解决了AI Agent在执行网页任务时的交互问题，对元宝产品经理在AI Agent多模态交互和工具调用能力方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/threadport": {
+    "title_clean": "ThreadPort：AI聊天记录跨平台迁移工具",
+    "summary": "ThreadPort允许用户一键在不同AI聊天平台（ChatGPT、Claude、Gemini）之间迁移聊天记录，解决了用户跨平台使用AI助手时的数据连续性问题，为元宝产品经理提供了跨平台数据互通的参考方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/phinq": {
+    "title_clean": "Phinq：AI安全防护工具",
+    "summary": "Phinq是一款专门用于防止AI代理执行危险操作的防护工具，通过在AI行动前进行干预，避免可能造成的系统损坏或安全风险。对于元宝产品经理而言，这反映了AI安全防护领域的新兴需求，值得在产品设计时考虑安全边界与风险控制机制。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dishylink": {
+    "title_clean": "Dishylink：开源Starlink监控应用",
+    "summary": "Dishylink是一款跨平台的开源应用，支持Mac、Windows和Web，用于监控Starlink卫星互联网服务状态。产品经理可参考其开源模式与跨平台实现方式，评估元宝在硬件服务监控类功能上的开发可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chiplab": {
+    "title_clean": "Chiplab：虚拟芯片测试工具",
+    "summary": "Chiplab提供无需硬件的虚拟芯片测试环境，允许开发者在虚拟环境中测试固件。这对元宝产品经理有参考价值，特别是在AI助手如何支持硬件开发场景方面，可能启发AI在嵌入式开发、物联网等领域的应用机会。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/caveman": {
+    "title_clean": "Caveman：AI大模型优化工具",
+    "summary": "Caveman是一款AI工具，专注于优化大语言模型的token使用效率，通过减少不必要的token消耗来提升模型性能和降低成本。对于元宝产品经理而言，这提供了关于AI模型资源优化和成本控制的技术参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/apra-fleet": {
+    "title_clean": "apra-fleet：AI代理集群管理工具",
+    "summary": "apra-fleet是一款允许用户在多台机器上运行AI代理集群的工具，帮助用户管理和协调分布在多个设备上的AI代理，可能对元宝产品经理在分布式AI代理架构设计方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mem-2-0": {
+    "title_clean": "Mem Agent：AI任务记忆助手",
+    "summary": "Mem Agent是一款AI助手，专注于帮助用户跟踪和记忆任务，防止遗漏重要事项。它通过AI技术自动记录用户任务并提醒，解决健忘问题，对元宝产品经理在任务管理功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lambdatest": {
+    "title_clean": "Kane CLI：自然语言转浏览器测试工具",
+    "summary": "Kane CLI是一款命令行工具，允许用户通过自然语言描述直接生成浏览器自动化测试脚本，简化了测试流程，提高开发效率。产品经理可关注其自然语言到代码转换的技术实现，为元宝的自动化测试功能提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kitbitz": {
+    "title_clean": "Kitbitz：免费手绘插图资源库",
+    "summary": "Kitbitz是一个提供2000多张免费手绘插图的资源库，采用CC0许可协议，用户可自由用于各类项目。对于产品经理而言，这为AI助手界面设计、内容创作提供了丰富的视觉素材选择，有助于提升产品视觉体验。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video-msr2k85y": {
+    "title_clean": "华硕上调AI服务器增长目标",
+    "summary": "华硕联席CEO表示AI服务器需求强劲，公司因此上调2026年增长预期。他讨论了AI基础设施支出、内存短缺和供应链挑战等关键因素，反映了AI硬件市场的持续增长态势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports": {
+    "title_clean": "Vision Ireland：为视障成人提供免费AI眼镜",
+    "summary": "Vision Ireland推出免费AI眼镜项目，帮助视障成人快速获取视觉信息，无需依赖他人协助阅读或识别物品，提升日常生活独立性。该项目展示了AI在辅助视觉障碍人群方面的实际应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/asus-lifts-ai-server-growth-target-video": {
+    "title_clean": "Treasury Wine：中国葡萄酒价格趋于稳定",
+    "summary": "Treasury Wine Estates CEO表示，在中国市场，其关键品牌的需求正在改善，此前公司年度利润下降了36%。公司正在努力解决美国供应链问题并控制库存，以应对市场变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/oasis-6": {
+    "title_clean": "Oasis：人机协作工作平台",
+    "summary": "Oasis是一个人类与AI协作的工作平台，旨在促进人与AI助手之间的工作协同。该产品为产品经理提供了人机协作场景的新思路，可能启发元宝在团队协作、任务分配方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/the-asia-trade-8-13-2026-video": {
+    "title_clean": "美联储加息预期降温推动科技股上涨",
+    "summary": "亚洲贸易报道显示，因温和的CPI数据导致美联储加息预期降温，科技股出现上涨。这一市场动态可能影响AI科技公司的估值和投资环境，对产品经理判断市场资金流向和行业信心有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/meta-says-it-s-shut-down-750-000-under-16-accounts-in-australia": {
+    "title_clean": "Meta：在澳大利亚关闭75万未成年用户账户",
+    "summary": "Meta宣布在澳大利亚关闭了75万Instagram和Facebook账户，这些账户被认为属于16岁以下用户。这是Meta遵守澳大利亚新法规的行动，反映了平台对未成年用户保护的监管响应，对产品经理了解全球内容监管趋势和未成年人保护策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion": {
+    "title_clean": "Anthropic拟以60亿美元收购AI初创公司Decart",
+    "summary": "Anthropic正以约60亿美元的价格收购AI初创公司Decart，这表明大型AI公司正在积极整合技术资源以增强竞争力。对产品经理而言，这一收购可能预示着AI行业整合加速，以及Anthropic在AI能力上的战略布局变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/trump-enlists-private-sector-to-boost-cyber-offensive-arsenal": {
+    "title_clean": "美国与私营企业合作扩大网络攻击能力",
+    "summary": "美国政府与私营企业合作开展网络攻击行动，扩大国家安全行动范围，这些行动此前主要由政府机构执行。这一合作模式可能影响AI在国家安全领域的应用方向，值得产品经理关注AI技术与政府安全服务的结合机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

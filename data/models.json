@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-08-13T16:49:20.409Z",
+  "generated_at": "2026-08-13T18:54:54.534Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "google/gemini-3.7-flash",
+      "name": "Gemini 3.7 Flash",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-3.7-flash-20260813",
+      "created_at": "2026-08-13T17:03:01Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video",
+        "file",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.375,
+      "price_out": 1.875,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 3.7 Flash is a multimodal model from Google for fast agentic workflows, coding, and complex multi-step reasoning. It is designed for tasks that require responsive performance and reliable multi-step...",
+      "description_zh": "Gemini 3.7 Flash 是 Google 的多模式模型，用于快速代理工作流程、编码和复杂的多步骤推理。它专为需要响应性能和可靠的多步骤的任务而设计..."
+    },
+    {
+      "id": "google/gemini-3.7-flash:batch",
+      "name": "Gemini 3.7 Flash (batch)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-3.7-flash-20260813",
+      "created_at": "2026-08-13T17:03:01Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video",
+        "file",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.188,
+      "price_out": 0.938,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 3.7 Flash is a multimodal model from Google for fast agentic workflows, coding, and complex multi-step reasoning. It is designed for tasks that require responsive performance and reliable multi-step...",
+      "description_zh": "Gemini 3.7 Flash 是 Google 的多模式模型，用于快速代理工作流程、编码和复杂的多步骤推理。它专为需要响应性能和可靠的多步骤的任务而设计..."
+    },
     {
       "id": "bytedance-seed/seed-2-1-turbo",
       "name": "Seed 2.1 Turbo",
@@ -332,8 +386,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.08,
-      "price_out": 0.252,
+      "price_in": 0.072,
+      "price_out": 0.144,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -576,8 +630,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.5,
-      "price_out": 7.5,
+      "price_in": 0.75,
+      "price_out": 3.75,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -603,8 +657,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.75,
-      "price_out": 3.75,
+      "price_in": 0.375,
+      "price_out": 1.875,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1427,55 +1481,6 @@
       "supports_reasoning": true,
       "description": "Nex-N2-Mini is an open-source agentic mixture-of-experts model from Nex AGI, the smaller sibling in the Nex-N2 series. It accepts text and image input and is built for coding, tool use,...",
       "description_zh": "Nex-N2-Mini 是 Nex AGI 的开源代理专家混合模型，是 Nex-N2 系列中较小的兄弟产品。它接受文本和图像输入，专为编码、工具使用等而构建。"
-    },
-    {
-      "id": "sakana/fugu-ultra",
-      "name": "Fugu Ultra",
-      "vendor": "Sakana",
-      "vendor_slug": "sakana",
-      "url": "https://openrouter.ai/sakana/fugu-ultra-20260615",
-      "created_at": "2026-06-24T04:45:03Z",
-      "context_length": 1000000,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 30,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Fugu Ultra is the higher-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to route...",
-      "description_zh": "Fugu Ultra 是 Sakana AI Fugu 系列中性能更高的型号。 Fugu 不是一个单一的整体模型，而是一个学习的多代理编排系统：一种经过训练的语言模型，用于路由......"
-    },
-    {
-      "id": "google/gemini-3.1-flash-image",
-      "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-3.1-flash-image-20260528",
-      "created_at": "2026-06-18T03:41:05Z",
-      "context_length": 131072,
-      "modality": "text+image->text+image",
-      "input_modalities": [
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "image",
-        "text"
-      ],
-      "price_in": 0.5,
-      "price_out": 3,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": true,
-      "description": "Gemini 3.1 Flash Image, a.k.a. \"Nano Banana 2,\" is Google’s latest state of the art image generation and editing model, delivering Pro-level visual quality at Flash speed. It combines advanced...",
-      "description_zh": "Gemini 3.1 Flash Image，又名“Nano Banana 2”，是 Google 最新的最先进的图像生成和编辑模型，以 Flash 速度提供专业级的视觉质量。它结合了先进..."
     }
   ]
 }

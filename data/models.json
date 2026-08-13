@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T01:21:41.192Z",
+  "generated_at": "2026-08-13T04:04:46.329Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -35,7 +35,7 @@
       "vendor_slug": "qwen",
       "url": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b-20260812",
       "created_at": "2026-08-12T16:21:42Z",
-      "context_length": 262144,
+      "context_length": 1000000,
       "modality": "text->text",
       "input_modalities": [
         "text"

@@ -58233,5 +58233,66 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049903&idx=3&sn=385804c391d89b89271e15906eee7e9d": {
+    "title_clean": "港中文、恒生大学提出Libra：AgenticRL后训练资源分配方案",
+    "summary": "港中文与恒生大学联合提出Libra方案，针对AgenticRL后训练资源分配问题，通过优化资源调度策略，实现吞吐量最高提升3倍。这一技术突破对AI Agent训练效率提升具有重要参考价值，可为元宝产品团队优化AI模型训练资源分配提供技术思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/the-close-8-12-2026-video": {
+    "title_clean": "CPI数据与AI企业财报推动股市创纪录新高",
+    "summary": "Bloomberg报道，CPI通胀数据缓解与AI企业强劲财报共同推动美股逼近历史新高。这一市场动向表明AI行业盈利能力获得资本市场认可，对元宝产品经理评估AI商业化路径和投资者信心具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-12/coreweave-warns-of-difficulty-if-it-must-shift-from-nvidia-chips": {
+    "title_clean": "CoreWeave警告从NVIDIA芯片转型困难",
+    "summary": "CoreWeave警告投资者，若需从独家使用NVIDIA人工智能芯片转型，将面临时间和成本挑战。这对AI基础设施供应商依赖单一芯片供应商的风险提供了重要参考，对元宝产品经理评估AI服务底层架构稳定性有价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-12/dan-ives-talks-new-moves-in-the-ai-revolution-video": {
+    "title_clean": "Dan Ives谈AI革命新动向",
+    "summary": "知名分析师Dan Ives离开Wedbush后成立新投行，专注于为希望在AI领域创新和增长的企业提供研究服务，这反映了AI产业投资环境的活跃趋势，对元宝产品经理了解行业资本动向和潜在合作机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651049903&idx=2&sn=990f91c4c42502ed58aa303d7ceff9c5": {
+    "title_clean": "Linux用户迎来官方ChatGPT桌面版",
+    "summary": "OpenAI正式推出ChatGPT桌面版，支持Linux操作系统，使Linux用户能够直接在本地设备上使用ChatGPT。这一扩展了ChatGPT的可用性，为元宝产品提供了跨平台支持的参考价值，特别是针对Linux用户群体的服务策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

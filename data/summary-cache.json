@@ -60348,5 +60348,53 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/uk-issues-emergency-phone-alert-as-heat-raises-wildfire-risk": {
+    "title_clean": "英国发布紧急手机预警应对高温野火风险",
+    "summary": "英国政府因干旱和热浪向全国手机用户发布野火紧急预警，表明极端天气对公共安全的影响。这为AI助手在灾害预警、紧急通知服务场景的应用提供了参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy": {
+    "title_clean": "本周十大融资轮次：Databricks再获50亿美元，AI基础设施与防御领域受关注",
+    "summary": "Databricks在八个月内再次融资50亿美元，本周最大融资流向AI新实验室、数据中心、电力存储和防御领域。这反映了AI基础设施和数据处理领域的持续高热度，对元宝产品经理评估AI技术投入和市场趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/open-interest-8-14-2026-video": {
+    "title_clean": "美国消费者消费放缓迹象 | 2026年8月14日",
+    "summary": "Bloomberg Open Interest节目报道美国消费者消费出现放缓迹象，零售销售额出现一年多来的最大降幅，这可能预示着消费市场正在发生变化，对元宝产品经理了解用户消费行为趋势和潜在服务场景调整有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/beyond-chatbots-the-next-wave-of-ai-video": {
+    "title_clean": "Beyond Chatbots: The Next Wave of AI：AI原生风投公司成立",
+    "summary": "224 Ventures是一家由前AIX Ventures联合创始人Shaun Johnson、前Google DeepMind研究员Oriol Vinals和AI先驱Yann LeCun共同创立的AI原生风投公司，计划投资AI领域的下一波创新浪潮，这对元宝产品经理了解AI行业投资方向和未来技术趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

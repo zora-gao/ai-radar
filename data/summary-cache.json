@@ -59947,5 +59947,54 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data": {
+    "title_clean": "Google AI健康教练：接入Abbott血糖数据",
+    "summary": "Google与Abbott合作，将连续血糖监测数据与Google的AI健康教练工具整合，使Gemini驱动的服务能够获取个人健康数据源，为用户提供更精准的健康指导。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-14/ai-drove-growth-at-indeed-after-investors-feared-the-worst-for-jobs-search-site": {
+    "title_clean": "AI驱动Indeed就业搜索平台增长，扭转投资者悲观预期",
+    "summary": "Indeed作为就业搜索平台在投资者普遍担忧其前景的情况下，通过AI技术实现了业务增长，展示了AI在传统垂直搜索领域的应用价值，为元宝在垂直场景下的AI应用提供了参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-08-14/drones-target-weather-blind-spot-crucial-for-army-and-traders": {
+    "title_clean": "无人机填补气象盲区：为军方与能源交易提供关键数据",
+    "summary": "无人机收集的数据正在照亮大气边界层的观测盲区，为军事战略家和能源交易者提供关键情报。这项技术解决了传统气象观测难以覆盖的区域性问题，对军事规划和能源市场预测具有重要价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/kioxia-buyback-propels-japan-s-corporate-stock-buying-to-record": {
+    "title_clean": "Kioxia股票回购推动日本企业股票购买创纪录",
+    "summary": "日本存储芯片厂商Kioxia控股公司的大规模股票回购，推动日本企业当周股票购买量创下历史新高。这一动态反映了日本企业在当前市场环境下的资本运作策略，对元宝产品经理了解企业客户在AI硬件领域的投资行为具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -60274,5 +60274,79 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/new-mexico-gas-pipeline-for-oracle-data-center-delayed-to-2027": {
+    "title_clean": "Oracle数据中心天然气管道项目推迟至2027年",
+    "summary": "Oracle位于新墨西哥州的数据中心配套天然气管道项目已延期，原计划为数据中心供电的燃气管道系统预计明年才能投入使用。这一延迟可能影响Oracle数据中心的建设进度和能源供应计划。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/bloomberg-tech-8-14-2026-video": {
+    "title_clean": "OpenAI营收持续高速增长，年化收入将超400亿美元",
+    "summary": "OpenAI年化收入预计将超过400亿美元，较2025年底翻倍，显示其业务增长势头强劲。这一数据反映了AI助手市场的巨大商业潜力，对元宝产品经理评估商业化路径和市场定位具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/openai-on-track-to-double-revenue-ahead-of-ipo-video": {
+    "title_clean": "OpenAI：AI聊天机器人公司收入即将翻倍",
+    "summary": "OpenAI预计年化收入将超过400亿美元，较2025年底增长近一倍。这一快速增长反映了AI聊天机器人市场的强劲需求和商业潜力，对元宝产品经理评估市场增长和商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-14/-monkey-island-creator-finds-wealthy-investor-for-thimbleweed-park-2": {
+    "title_clean": "Monkey Island 创作者为《Thimbleweed Park 2》找到富有的投资者",
+    "summary": "经典游戏《猴岛小英雄》创作者 Ron Gilbert 为其新作《Thimbleweed Park 2》找到了富有的投资者，选择不与传统发行商合作，而是采用非传统方式推进游戏开发。这对产品经理了解独立游戏融资模式和创作者自主发行策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/will-i-am-on-ai-s-threat-to-human-creativity-video": {
+    "title_clean": "will.i.am谈AI对人类创造力的威胁",
+    "summary": "音乐人will.i.am在Bloomberg采访中表达了对AI时代人类创造力价值的担忧，认为人类创作成果不应仅被视为计算输出，而应获得更高价值评估。这对AI产品经理思考如何平衡AI辅助与人类创造力保护有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/ai-companies-work-for-better-data-not-better-models-video": {
+    "title_clean": "AI公司专注数据优化而非模型提升",
+    "summary": "Glasswing Ventures创始人Rudina Seseri在Businessweek访谈中讨论AI行业最新动态，包括Anthropic拟以6亿美元收购Decart的报道，指出当前AI企业正将重心转向数据质量提升而非单纯追求模型性能突破。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -59590,5 +59590,242 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/chordviz": {
+    "title_clean": "ChordViz：MIDI与音频可视化工具",
+    "summary": "ChordViz是一款允许用户为MIDI和音频文件创建自定义可视化效果的工具，可能为元宝在音乐相关AI服务场景或多模态交互方面提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/theos-rfm-remote-facility-manager": {
+    "title_clean": "Theos[RFM]：3D实时设施管理工具",
+    "summary": "Theos是一款3D实时设施管理工具，允许用户在真实世界中实时管理和监控设施。该产品结合了空间技术与实时数据处理能力，为设施管理提供了可视化解决方案，对元宝在空间交互和实时数据处理方面具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/freebuff-2": {
+    "title_clean": "Freebuff：免费编程AI助手工具",
+    "summary": "Freebuff是一款免费编程AI助手，声称能替代Claude、Cursor、Replit和Devin等现有工具，为开发者提供免费的代码生成和编程辅助服务，可能对AI编程助手市场的价格策略和竞争格局产生影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/compass-calendar": {
+    "title_clean": "Compass Calendar：键盘优先型日程管理工具",
+    "summary": "Compass Calendar是一款以键盘操作为核心的日程管理工具，旨在帮助用户快速组织和管理日程。其键盘优先的设计理念可能为元宝在日程管理功能上提供交互设计参考，特别是针对高效办公场景下的用户需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ns1": {
+    "title_clean": "NS1：个性化神经系统训练工具",
+    "summary": "NS1是一款专注于个性化神经系统训练的产品，通过AI技术为用户提供定制化的神经系统训练方案。这类工具可能对元宝产品经理在开发健康类AI助手或个性化服务场景时提供参考价值，特别是在神经科学和AI结合的应用方向上。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/oxpecker": {
+    "title_clean": "oxpecker：代码变更监控工具",
+    "summary": "oxpecker是一款代码变更监控工具，能够帮助开发者快速识别第三方库或依赖项中的代码变更，特别是可能影响自身系统的破坏性更新，提高代码安全性和稳定性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/munder-difflin": {
+    "title_clean": "Munder Difflin：AI代码克隆工具",
+    "summary": "Munder Difflin是一款利用Claude Code和Codex技术创建代码克隆的工具，可帮助用户自动化执行工作任务。该产品对AI助手产品经理具有参考价值，特别是在代码自动化和任务执行方面的应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/muse-19": {
+    "title_clean": "Muse：AI 视觉书签管理工具",
+    "summary": "Muse 是一款专为 Mac 设计的 AI 视觉书签管理工具，能够帮助用户更高效地组织和浏览网页内容。对于元宝产品经理而言，这提供了 AI 在信息管理和视觉化处理方面的应用参考，可能启发类似功能的产品设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-3-7-flash": {
+    "title_clean": "Gemini 3.7 Flash：Google最新AI编程与Agent模型",
+    "summary": "Google发布Gemini 3.7 Flash模型，定位为编程和AI Agent场景的智能主力模型，可能提升代码生成能力和自动化任务执行效率，对元宝在AI Agent和编程辅助功能开发方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/isolate-video": {
+    "title_clean": "isolate.video：产品视频制作工具",
+    "summary": "isolate.video是一款专注于制作引人注目产品视频的工具，帮助用户创建能够吸引注意力的产品展示内容。对于元宝产品经理而言，这反映了AI在内容创作领域的应用，特别是如何通过AI辅助提升产品视频的制作质量和吸引力，可能启发元宝在多模态内容生成或营销场景方面的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/nintendo-shares-rise-as-pokopia-global-sales-top-5-million": {
+    "title_clean": "任天堂股价上涨：Pokémon Pokopia全球销量突破500万",
+    "summary": "任天堂股价上涨，因其热门游戏Pokémon Pokopia自3月发售以来全球销量已突破500万单位。分析师认为这标志着公司股票重回上升轨道，对游戏行业和IP商业化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/will-i-am-why-human-creativity-will-survive": {
+    "title_clean": "will.i.am：AI辅助人类创造力观点",
+    "summary": "音乐人兼科技公司CEO will.i.am在Bloomberg访谈中阐述了他对AI辅助人类创造力的看法，并探讨了歌曲《Where Is the Love?》在当今分裂世界中的意义。这对元宝产品经理思考AI与人类创意协作的边界有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/india-less-exposed-to-ai-job-risks-than-others-goldman-says": {
+    "title_clean": "印度受AI就业风险影响较小，高盛报告称",
+    "summary": "高盛报告指出，印度劳动力不太可能因人工智能面临大规模失业风险，尽管服务业部分岗位可能受到影响。这一分析对元宝产品经理了解不同地区AI就业影响差异、评估全球市场策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model": {
+    "title_clean": "Z.ai：新AI编程模型挑战Anthropic与OpenAI",
+    "summary": "Z.ai公司计划升级其旗舰AI模型，这是中国开源模型系列中最新的一款，旨在与Anthropic和OpenAI在编程领域展开竞争。这一动向表明中国AI企业在专业应用领域正加速追赶国际巨头，为元宝产品在编程助手功能上提供了竞品参考和行业趋势信号。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/browseract": {
+    "title_clean": "BrowserAct Cloud：网站数据抓取工具",
+    "summary": "BrowserAct Cloud是一款通过单一提示即可从任何网站抓取数据的工具，简化了数据采集流程，为AI助手获取外部信息提供了新的技术方案，对元宝产品经理在数据获取和外部集成方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/japan-stocks-rise-as-us-rate-hike-bets-ease-ai-chip-shares-gain": {
+    "title_clean": "日本股市创六月以来最佳周涨幅，AI板块领涨",
+    "summary": "日本股市创下约两个月来最佳单周表现，科技股领涨，主要受美国批发通胀放缓推动，缓解了美联储立即加息的担忧，AI相关企业表现突出。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/the-close-8-13-2026-video": {
+    "title_clean": "通胀缓解与AI热潮推动股市创纪录新高",
+    "summary": "通胀缓解与AI技术热潮共同推动股市创纪录新高，富国银行CIO等金融专家分析市场走势。此资讯反映AI技术对资本市场的积极影响，为元宝产品经理提供AI技术商业化价值的市场信号参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/alibaba-baidu-kuaishou-address-mounting-ai-costs-as-competition-intensifies": {
+    "title_clean": "阿里巴巴、百度、快手应对AI竞争加剧带来的成本压力",
+    "summary": "阿里巴巴、百度和快手等中国科技巨头正面临维持AI竞争所需的巨额财务成本问题，需要采取措施应对这一挑战。这对元宝产品经理了解中国AI市场竞争格局和成本控制策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/newsletter-august-13-2026": {
+    "title_clean": "Insurtech's Q2 funding rise and the mega-rounds driving it：保险科技Q2融资增长与大型交易驱动",
+    "summary": "保险科技领域在2026年第二季度融资显著增长，大型交易成为主要驱动力。这一趋势反映了投资者对保险科技领域的持续关注，可能为AI在保险服务中的应用提供新机会，值得产品经理关注AI助手在保险场景的潜在商业化路径。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

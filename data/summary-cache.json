@@ -60396,5 +60396,106 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050334&idx=2&sn=07922f3ec0f01f592baa910fd05d53e6": {
+    "title_clean": "PhysicalAI：端边云统一推理运行时",
+    "summary": "PhysicalAI推出首个端边云统一推理运行时，由北邮、北大、清华、明体科技等机构联合开发。这一技术突破实现了AI模型在不同计算环境下的无缝部署与推理，对元宝产品经理在边缘计算和分布式AI架构方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050384&idx=2&sn=12fd9d78b75d6cd5af23b2c33256b2c3": {
+    "title_clean": "Meta流失超200名顶级研究员，包括余家辉离职创业",
+    "summary": "Meta公司近期流失了超过200名顶级研究员，其中包括知名AI专家余家辉离职创业。这一人才流失反映了AI领域人才竞争激烈，可能影响Meta在AI研发方面的竞争力，对元宝产品经理评估人才策略和行业竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050318&idx=2&sn=38f2fcda11cb83826f8cddccc8e532e8": {
+    "title_clean": "AI音乐模型：提升音乐创作质量",
+    "summary": "该AI音乐模型旨在帮助用户提升音乐创作质量，解决创作中可能存在的不足。作为AI辅助创作工具，它可能为元宝在音乐创作场景的AI应用提供参考价值，特别是如何将AI技术融入创意类服务中。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050318&idx=3&sn=646235c43b02191b026359b92131c5a0": {
+    "title_clean": "面对对齐研究者，Claude会心虚",
+    "summary": "Anthropic的Claude模型在面对对齐研究者时表现出心虚态度，这可能反映了AI模型在伦理对齐方面的挑战。这一现象对AI产品经理有参考价值，提示在开发AI助手时需重视伦理对齐和透明度问题，避免类似情况影响用户信任。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-has-21-billion-spacex-stake-30-billion-in-intel-shares": {
+    "title_clean": "Nvidia 持有 210 亿美元 SpaceX 股份和 300 亿美元英特尔股份",
+    "summary": "Nvidia 公司披露持有近210亿美元埃隆·马斯克旗下SpaceX股份和300亿美元英特尔股份。这一投资动向显示Nvidia正通过战略投资布局AI产业链上下游，对元宝产品经理评估AI巨头投资策略与产业整合方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050298&idx=1&sn=22db1a55bfc1a63602c6bbc007dce87f": {
+    "title_clean": "OpenAI加速GPT-5.6 Sol模型14倍",
+    "summary": "OpenAI宣布GPT-5.6 Sol模型性能提升14倍，这表明OpenAI在模型效率优化方面取得重大突破，对产品经理而言，这可能意味着未来AI助手响应速度和能效比的显著提升，值得密切关注其对产品性能和用户体验的潜在影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations": {
+    "title_clean": "Google允许用户移除AI生成内容的可见水印",
+    "summary": "Google更新政策，允许用户移除AI生成内容中的可见水印，但不会影响用于识别AI生成文件的不可见基准标记。这一变化可能影响AI内容的溯源和真实性验证机制，对产品经理评估内容可信度与用户隐私平衡有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter": {
+    "title_clean": "Anthropic营收在IPO前季度增长超14倍",
+    "summary": "Anthropic在IPO前向潜在投资者披露，其二季度营收同比增长至少14倍，显示其商业化进程加速。这对元宝产品经理评估AI聊天机器人商业化路径和竞品估值具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

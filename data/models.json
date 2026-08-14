@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:34:22.252Z",
+  "generated_at": "2026-08-14T01:20:01.221Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -89,7 +89,7 @@
       "vendor_slug": "qwen",
       "url": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b-20260812",
       "created_at": "2026-08-12T16:21:42Z",
-      "context_length": 1000000,
+      "context_length": 1010000,
       "modality": "text->text",
       "input_modalities": [
         "text"
@@ -386,8 +386,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.072,
-      "price_out": 0.144,
+      "price_in": 0.08,
+      "price_out": 0.252,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -409,8 +409,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.08,
-      "price_out": 0.18,
+      "price_in": 0.14,
+      "price_out": 0.28,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

@@ -59455,5 +59455,116 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/thrive-investor-letter-reveals-openai-fueled-growth-stake-sale": {
+    "title_clean": "Thrive Capital：OpenAI投资助推基金增长",
+    "summary": "Thrive Capital的5.16亿美元早期风投基金因投资OpenAI、SpaceX等公司而增值至37亿美元以上，展示了AI领域投资的巨大回报潜力，对元宝产品经理评估AI投资回报和商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/read-joshua-kushner-s-first-formal-thrive-capital-investor-letter": {
+    "title_clean": "Josh Kushner发布Thrive Capital首封正式投资者信",
+    "summary": "Josh Kushner为其投资公司Thrive Capital撰写了首封正式投资者信，因今年未举办投资者日活动。这封信可能包含Thrive的投资策略、市场观点和对未来方向的展望，对了解顶级投资机构对AI领域的布局和判断有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/china-s-csi-300-set-to-lose-appeal-before-adding-cxmt-bi-says": {
+    "title_clean": "中国CSI 300指数将缺失最大股票CXMT",
+    "summary": "中国CSI 300指数可能失去其作为国家关键基准的吸引力，因为内存巨头CXMT公司将被排除在外，直到2027年底才可能被纳入该指数。这对了解中国股市指数构成和投资策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050282&idx=3&sn=17a067854335a842585a04f2fc89d5a1": {
+    "title_clean": "OpenAI、Anthropic、Google签署AI生成内容水印协议",
+    "summary": "OpenAI、Anthropic和Google等主要AI公司签署协议，承诺为所有AI生成内容添加水印，以区分AI与人类创作内容。此举旨在提高AI生成内容的透明度，防止误导和滥用，对元宝产品在内容标识和可信度方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050272&idx=2&sn=abfcd3ec1c8ede9ae7f3b5ee9a82f09e": {
+    "title_clean": "机器之心：200万概念验证资金+顶级种子轮投资，寻找AI时代创新项目",
+    "summary": "机器之心推出200万概念验证资金及顶级种子轮投资计划，旨在发掘和扶持AI领域的创新项目。这对元宝产品经理了解AI行业投资方向、潜在合作伙伴及新兴技术趋势具有重要参考价值，有助于把握AI创业生态和未来产品发展方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/jab-cio-on-private-markets-outlook-video": {
+    "title_clean": "JAB CIO谈私募市场前景：保险业务整合策略",
+    "summary": "JAB控股首席投资官Anant Bhalla探讨了在私募市场中整合保险业务的战略，旨在增强流动性和现金回报。这一分析对AI金融服务领域的产品经理具有参考价值，特别是在如何通过AI技术优化投资组合管理和风险分析方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050272&idx=1&sn=c83846265c4885622b18d0e201d4df39": {
+    "title_clean": "DeepSeek Harness：AI插件系统开源",
+    "summary": "DeepSeek开源了Harness插件系统，实现'一切皆插件'的架构，允许AI模型通过插件扩展功能。这对元宝产品经理有重要参考价值，展示了AI助手通过插件生态实现能力扩展的可行路径，可启发元宝的插件化架构设计。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed": {
+    "title_clean": "OpenAI推出'Ultrafast'模式：GPT-5.6 Sol速度提升14倍",
+    "summary": "OpenAI发布最新最强大模型的加速版本'Ultrafast'，速度提升14倍，旨在吸引企业用户。这一模式将显著提升AI响应效率，对需要高处理速度的企业场景具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-13/real-yield-8-13-2026-video": {
+    "title_clean": "通胀缓解，英伟达5000亿美元计划 | Bloomberg Real Yield 8/13/2026",
+    "summary": "Bloomberg Real Yield报道通胀数据缓解，英伟达宣布5000亿美元投资计划，并邀请先锋集团固定收益投资主管和贝莱德首席投资官进行市场分析。这对AI硬件投资和宏观经济环境评估有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

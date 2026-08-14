@@ -60055,5 +60055,102 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/picky-investors-push-back-on-high-grade-prices-after-debt-deluge": {
+    "title_clean": "投资者对高评级债券价格持谨慎态度",
+    "summary": "美国债务市场出现大量蓝筹公司融资需求，用于收购和人工智能基础设施建设，但投资者对购买何种债券及价格变得更加挑剔，这可能影响AI领域的融资环境。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/kushner-s-thrive-capital-invests-215-million-in-amazon": {
+    "title_clean": "Kushner's Thrive Capital向亚马逊投资2.15亿美元",
+    "summary": "Joshua Kushner的Thrive Capital购买了价值约2.15亿美元的亚马逊股票，这是该风投公司投资上市公司战略的延续。这笔投资反映了资本对科技巨头的持续关注，对元宝产品经理了解行业资本流向和投资者信心有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data": {
+    "title_clean": "Samsung health AI models：可穿戴设备生物信号分析AI模型",
+    "summary": "三星美国研究院发布两款AI基础模型，能够从智能手表等可穿戴设备收集的生物信号数据中学习，专注于心率等生理指标分析，为健康监测AI应用提供技术支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/odds-of-a-fed-rate-hike-may-rise-emanuel-says-video": {
+    "title_clean": "美联储加息概率可能上升，分析师称",
+    "summary": "Evercore ISI首席股票和量化策略师Julian Emanuel表示，在9月美联储下次利率决策前，加息的可能性可能会继续上升。这一市场信号对AI产品经理了解经济环境变化可能影响用户消费行为和商业决策场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/us-retail-sales-drop-more-than-expected-in-july-video": {
+    "title_clean": "美国7月零售销售降幅超预期",
+    "summary": "美国7月零售销售下降0.6%，降幅为一年多来最大，远低于预期的0.1%增长，主要因消费者减少在线商店和汽车经销商的购买。这一数据反映消费者支出放缓趋势，对元宝产品经理了解经济环境对AI助手服务需求的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/partners-group-becomes-worst-performer-among-europe-financials": {
+    "title_clean": "Partners Group：欧洲金融股表现最差公司",
+    "summary": "Partners Group Holding AG成为今年MSCI欧洲金融指数表现最差股票，投资者对其常青基金的赎回表示担忧。这一市场信号对AI金融产品经理有参考价值，反映投资者对金融产品流动性和风险管理的高度关注。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition": {
+    "title_clean": "SpaceX 完成 600 亿美元收购 AI 编程初创公司 Cursor",
+    "summary": "SpaceX 已完成对 AI 编程初创公司 Cursor 的 600 亿美元收购，这是埃隆·马斯克在与 Anthropic 和 OpenAI 竞争中获取优势的关键举措。此次收购表明科技巨头正积极布局 AI 编程领域，可能对 AI 助手和代码生成工具市场格局产生重大影响。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026": {
+    "title_clean": "40家新晋独角兽企业加入独角兽榜单，创四年新高",
+    "summary": "7月份有40家公司加入独角兽榜单，创下四年来的最高记录。金融科技、机器人、AI编排、多模态AI、能源和半导体是主要增长领域，美国贡献了近半数新晋独角兽。这对元宝产品经理了解AI领域投资热点和市场趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
   }
 }

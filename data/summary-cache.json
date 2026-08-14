@@ -60152,5 +60152,127 @@
       "多模态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/ai-boom-reshapes-commodity-markets-video": {
+    "title_clean": "AI热潮重塑大宗商品市场",
+    "summary": "AI技术的巨大能源需求正在改变大宗商品贸易格局。CoreCommodity的Doug Daly在Bloomberg Open Interest节目中解释了为何铀和黄金仍具吸引力，以及石油市场可能面临的风险。这对元宝产品经理了解AI发展对能源和资源市场的潜在影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone": {
+    "title_clean": "Meta发布开源AI模型Glimmer，与闭源模型Muse Spark形成对比",
+    "summary": "Meta本周发布了开源AI模型Glimmer，用户可自行下载并在本地硬件上运行，这与公司更强大的闭源模型Muse Spark形成鲜明对比。这一举措反映了Meta在AI开放策略上的调整，对产品经理评估AI模型开源策略与商业化路径具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/us-retail-sales-fall-most-since-may-2025-video": {
+    "title_clean": "美国零售销售额创2025年5月以来最大降幅",
+    "summary": "美国7月零售销售额出现一年多来最大降幅，消费者在网络商店和汽车经销商处的购买减少。这一数据反映了消费市场疲软，对元宝产品经理了解经济环境对AI助手服务需求的影响具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus": {
+    "title_clean": "Kog：优化GPU推理效率的AI工具",
+    "summary": "法国初创公司Kog提出新观点，认为GPU可能比预期更适合代理工作流程，正深入研究如何从GPU中挤出更多推理性能。这对元宝产品经理评估AI计算资源优化方向和Agent架构设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct": {
+    "title_clean": "超大规模云服务商或因天然气价格飙升面临AI数据中心成本危机",
+    "summary": "美国部分地区天然气价格可能上涨三倍，这将给超大规模云服务商带来巨额电费负担，影响其AI数据中心的运营成本。这对元宝产品经理了解AI基础设施成本变化及潜在服务价格调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong": {
+    "title_clean": "Meta发布开源AI模型Glimmer，与闭源模型Muse Spark形成对比",
+    "summary": "Meta本周发布了Glimmer开源AI模型，用户可自行下载并在本地硬件运行，这与公司更强大的闭源模型Muse Spark形成鲜明对比。这一策略变化反映了AI行业开源与闭源路线的博弈，对元宝产品经理评估开源模型应用价值和商业化策略具有重要参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-14/reddit-up-applied-materials-gemini-fall-stock-movers-video": {
+    "title_clean": "Reddit股价上涨，Applied Materials上涨，Gemini下跌：股市动态",
+    "summary": "股市动态显示Reddit股价上涨，Applied Materials股价上涨，而Gemini股价下跌。这反映了市场对社交媒体和科技股的不同反应，但对元宝产品经理的直接参考价值有限，主要关注的是股市波动而非AI产品或服务的发展。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/french-top-court-blocks-macron-social-media-ban-for-young-teens": {
+    "title_clean": "法国最高法院阻止未成年人社交媒体禁令",
+    "summary": "法国最高法院叫停了针对15岁以下儿童的社交媒体禁令，该禁令此前已在议会通过。这对推动该法案的总统马克龙造成挫折，反映了政策制定与法律执行之间的复杂博弈。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/uk-starts-process-to-water-down-ev-mandate-in-boon-for-carmakers": {
+    "title_clean": "英国启动电动车销售 mandate 放宽程序",
+    "summary": "英国将重新评估并可能降低其零排放车辆销售目标，这一政策调整有利于汽车制造商，他们一直推动新首相安迪·伯纳姆提前审查这些目标。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/state-of-open-models-summer-2026": {
+    "title_clean": "State of Open Models: Summer 2026 开源模型观察报告",
+    "summary": "该报告总结了2026年夏季开源AI模型的发展状况，可能涵盖模型性能、应用场景、技术趋势等关键信息，为元宝产品经理了解开源模型生态和竞争格局提供参考，有助于产品技术选型和功能规划。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

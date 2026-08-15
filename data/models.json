@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:19:22.891Z",
+  "generated_at": "2026-08-15T10:15:56.319Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -23,7 +23,7 @@
       "price_in": 0.45,
       "price_out": 3.2,
       "is_free": false,
-      "supports_tools": false,
+      "supports_tools": true,
       "supports_reasoning": true,
       "description": "Qwen3.8 27B is an open-weight dense vision-language model from Qwen. It is suited for coding, professional workflows, research, multimodal interaction, and long-running agent tasks, with flexible thinking that can be...",
       "description_zh": "Qwen3.8 27B 是 Qwen 的开放权重密集视觉语言模型。它适用于编码、专业工作流程、研究、多模式交互和长时间运行的代理任务，具有灵活的思维，可以..."
@@ -435,8 +435,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.07,
-      "price_out": 0.14,
+      "price_in": 0.068,
+      "price_out": 0.137,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

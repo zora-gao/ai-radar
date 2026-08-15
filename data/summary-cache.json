@@ -60696,5 +60696,68 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050523&idx=2&sn=ce84984dcdadaa21cec6d1be5e9b9cba": {
+    "title_clean": "斯坦福、MIT等发布全球最大系统提示词库",
+    "summary": "斯坦福大学和麻省理工学院等机构联合发布了全球最大的系统提示词库，为AI助手开发提供标准化参考。这一资源可能帮助元宝产品团队优化提示词设计，提升AI助手的一致性和可靠性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050523&idx=1&sn=9e88c391895f392cef6b10e66524ef18": {
+    "title_clean": "5年前PPT预言OpenAI o1、o3核心思路",
+    "summary": "一篇5年前被MIT教授称为'无稽之谈'的PPT，如今被证实准确预言了OpenAI最新模型o1和o3的核心技术思路。这一发现对AI产品经理具有重要参考价值，展示了前沿AI技术发展的预见性和长期规划的重要性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050489&idx=1&sn=0b7c1d5f77cb3985c590160d9ba2b51a": {
+    "title_clean": "Waymo自动驾驶产品研发周期分析",
+    "summary": "Waymo从概念到产品Demo仅用18个月，但整个研发周期长达约15年。文章探讨了自动驾驶技术从实验室到实际应用过程中的挑战与时间成本，对AI产品经理理解技术落地周期与商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050488&idx=1&sn=e6fc9b3b5a3e654747213438cb4dbeea": {
+    "title_clean": "Anthropic报告泄露Model2，比Mythos5更强的内部模型",
+    "summary": "Anthropic内部报告泄露了Model2模型，该模型比现有的Mythos5更强大。这对产品经理了解AI大模型的发展方向和竞品技术迭代有重要参考价值，可能影响元宝的产品技术路线规划。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050489&idx=2&sn=d8c4c7c134f9fb0f3a1cca63643392da": {
+    "title_clean": "ECCV 2026IUniMotion：统一多模态大模型引入连续运动模态",
+    "summary": "ECCV 2026IUniMotion研究在统一多模态大模型中引入连续运动模态，扩展了AI对动态视觉信息的理解能力。这一技术进展对元宝产品经理在多模态交互设计、视频内容理解和动态场景处理方面具有重要参考价值，可能启发新一代AI助手对连续运动信息的处理能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

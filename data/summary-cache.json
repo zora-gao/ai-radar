@@ -60658,5 +60658,30 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition": {
+    "title_clean": "SpaceX 正式完成对 Cursor 的收购",
+    "summary": "AI 编程工具 Cursor 已正式成为 SpaceX 的一部分。此次收购表明 SpaceX 正在加强其在 AI 编程领域的能力，这可能对 AI 助手在代码生成和编程辅助方面的产品方向产生参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-15/bloomberg-this-weekend-8-15-2026-video": {
+    "title_clean": "彭博周末新闻：近距离了解林肯号航母上的无人机群",
+    "summary": "彭博周末新闻节目深入报道林肯号航母上的无人机群情况，提供军事科技应用的第一手信息。对产品经理了解AI在军事领域的应用场景、无人机群协同技术及大型复杂系统的人机交互设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
   }
 }

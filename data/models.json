@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-08-15T00:52:13.276Z",
+  "generated_at": "2026-08-15T02:46:09.916Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "qwen/qwen3.8-27b",
+      "name": "Qwen3.8 27B",
+      "vendor": "Qwen",
+      "vendor_slug": "qwen",
+      "url": "https://openrouter.ai/qwen/qwen3.8-27b-20260814",
+      "created_at": "2026-08-14T15:55:10Z",
+      "context_length": 262144,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.45,
+      "price_out": 3.2,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Qwen3.8 27B is an open-weight dense vision-language model from Qwen. It is suited for coding, professional workflows, research, multimodal interaction, and long-running agent tasks, with flexible thinking that can be...",
+      "description_zh": "Qwen3.8 27B 是 Qwen 的开放权重密集视觉语言模型。它适用于编码、专业工作流程、研究、多模式交互和长时间运行的代理任务，具有灵活的思维，可以..."
+    },
     {
       "id": "google/gemini-3.7-flash",
       "name": "Gemini 3.7 Flash",
@@ -387,7 +412,7 @@
         "text"
       ],
       "price_in": 0.08,
-      "price_out": 0.16,
+      "price_out": 0.159,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1457,30 +1482,6 @@
       "supports_reasoning": true,
       "description": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image) is Google's fastest, most cost-efficient Gemini image model, built for high-velocity developer pipelines and rapid-fire visual exploration. It delivers text-to-image generation...",
       "description_zh": "Nano Banana 2 Lite（Gemini 3.1 Flash Lite Image）是 Google 最快、最具成本效益的 Gemini 图像模型，专为高速开发人员管道和快速视觉探索而构建。它提供文本到图像的生成..."
-    },
-    {
-      "id": "nex-agi/nex-n2-mini",
-      "name": "Nex-N2-Mini",
-      "vendor": "Nex Agi",
-      "vendor_slug": "nex-agi",
-      "url": "https://openrouter.ai/nex-agi/nex-n2-mini",
-      "created_at": "2026-06-24T14:56:04Z",
-      "context_length": 262144,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.025,
-      "price_out": 0.1,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Nex-N2-Mini is an open-source agentic mixture-of-experts model from Nex AGI, the smaller sibling in the Nex-N2 series. It accepts text and image input and is built for coding, tool use,...",
-      "description_zh": "Nex-N2-Mini 是 Nex AGI 的开源代理专家混合模型，是 Nex-N2 系列中较小的兄弟产品。它接受文本和图像输入，专为编码、工具使用等而构建。"
     }
   ]
 }

@@ -60497,5 +60497,55 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-14/amazon-s-new-user-agreement-seeks-to-curb-class-action-suits": {
+    "title_clean": "亚马逊修订用户协议限制集体诉讼",
+    "summary": "亚马逊重新引入用户协议条款，试图阻止消费者对其提起集体诉讼，为自身建立法律缓冲。这一变化可能影响消费者维权途径，对电商平台责任边界和用户权益保护有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050318&idx=1&sn=07ab7baa68c9e6f7fd617751830c9ddf": {
+    "title_clean": "Agent走向长线协作的关键一战：AML首期揭榜，谁将引领下一代记忆范式革命",
+    "summary": "AML首期榜单揭晓，展示了Agent长线协作领域的最新进展，聚焦于记忆范式的创新突破。这一榜单评估了AI Agent在长期记忆、持续学习和任务连贯性方面的能力，为产品经理提供了Agent技术发展的重要参考方向。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050384&idx=1&sn=7a5061dacff38f4188e703cef084c5b3": {
+    "title_clean": "RoboColiseum：具身智能仿真竞技场",
+    "summary": "RoboColiseum是一款具身智能仿真竞技场平台，真机对齐度接近90%，已有40多个项目接入。该平台为具身智能研发提供高精度仿真环境，有助于加速AI机器人在真实世界中的能力验证与迭代，对元宝在多模态交互与AI Agent物理世界应用方向具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050334&idx=1&sn=69918bcdba28a03ea04ac4012f867f76": {
+    "title_clean": "小红书开源dots3-note：IMO满分同系列模型",
+    "summary": "小红书开源了dots3-note模型，这是IMO国际数学奥林匹克竞赛42分满分同系列模型。该模型专注于数学问题解决能力，对AI助手在专业领域知识处理和复杂问题求解方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

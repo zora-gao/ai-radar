@@ -60683,5 +60683,18 @@
       "多模态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work": {
+    "title_clean": "Anthropic分享Claude新水印技术细节",
+    "summary": "Anthropic详细介绍了Claude AI模型的新水印技术，解释了水印如何工作、是否能通过编辑隐藏，以及对代码生成的影响。这对产品经理了解AI内容溯源和版权保护技术有参考价值，有助于评估类似功能在元宝产品中的可行性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

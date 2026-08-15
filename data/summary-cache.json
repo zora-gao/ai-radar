@@ -60547,5 +60547,91 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/talvo-2": {
+    "title_clean": "Talvo：欧洲银行消费追踪工具",
+    "summary": "Talvo是一个连接欧洲2500多家银行的消费追踪工具，帮助用户整合和监控来自不同银行的消费数据。对于元宝产品经理而言，这展示了跨银行数据整合在金融场景中的应用价值，可作为多银行账户管理功能的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chronock": {
+    "title_clean": "Chronock：日程安排与日历同步工具",
+    "summary": "Chronock是一款集日程安排与日历同步功能于一体的工具，旨在简化用户的日程管理流程。对于元宝产品经理而言，这反映了AI助手在日程管理场景的应用潜力，可作为多任务处理和服务场景拓展的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clamshell": {
+    "title_clean": "Clamshell：MacBook外接显示器工具",
+    "summary": "Clamshell是一款允许用户关闭MacBook屏幕但仍保持工作继续运行的工具，实现外接显示器使用，解决MacBook坞站模式下的显示问题，为移动办公场景提供便利。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-15/mastercard-payments-being-declined-in-australia-bank-says": {
+    "title_clean": "Mastercard支付系统在澳大利亚短暂中断后已恢复",
+    "summary": "Mastercard周六下午在澳大利亚出现短暂支付中断，导致部分客户交易被拒，现已解决。此事件提醒产品经理关注支付系统稳定性和故障恢复机制，对涉及支付功能的AI助手服务有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/inferock-bench": {
+    "title_clean": "Inferock Bench：LLM API调用独立计费工具",
+    "summary": "Inferock Bench是一款为大型语言模型API调用提供独立计费的工具，为每次API调用生成独立收据，帮助企业精确追踪和控制LLM使用成本，对产品经理了解AI服务计费模式和成本控制有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nenspace": {
+    "title_clean": "nenspace：大语言模型思维扩展工具",
+    "summary": "nenspace是一款AI工具，旨在扩展用户思维，通过大语言模型提供思维辅助功能。产品定位为'大语言模型的低保真版本'，专注于帮助用户扩展思维和想法，对产品经理在AI思维辅助工具方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/attyn": {
+    "title_clean": "Attyn：智能光标增强工具",
+    "summary": "Attyn是一款为光标提供智能增强的工具，通过AI技术提升用户在文本编辑和交互过程中的效率。产品经理可关注其如何将AI能力集成到基础输入场景中，探索元宝在类似轻量级交互场景的应用可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

@@ -60810,5 +60810,43 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/chert": {
+    "title_clean": "Chert：FaceTime视频AI助手工具",
+    "summary": "Chert推出Vapi for FaceTime，允许开发者通过简单几行代码在FaceTime中集成AI视频代理功能，为用户提供智能交互体验。这展示了AI助手向实时视频场景扩展的趋势，为元宝产品经理提供了在视频通话中集成AI助手功能的产品思路参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/expeditione": {
+    "title_clean": "Expeditione：交互式3D百科全书",
+    "summary": "Expeditione是一款交互式3D百科全书产品，通过三维可视化方式呈现信息，为用户提供沉浸式学习体验。这种多模态交互形式对元宝在知识展示和用户教育场景方面具有参考价值，可探索如何将AI与3D技术结合提升信息获取体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/airalarm": {
+    "title_clean": "AirAlarm：智能睡眠周期唤醒工具",
+    "summary": "AirAlarm是一款智能睡眠周期唤醒工具，能在用户睡眠周期的最佳时间点唤醒，帮助用户更自然地醒来，减少起床时的疲惫感。对于关注健康和用户体验的产品经理来说，这种基于生物节律的交互方式值得借鉴，可应用于健康类AI助手的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

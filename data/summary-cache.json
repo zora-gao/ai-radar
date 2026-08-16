@@ -60784,5 +60784,31 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050521&idx=2&sn=f6c334e02d3c80c1cd3f04b9be02e377": {
+    "title_clean": "StackOverflow提问量下降：开发者社区活跃度降低",
+    "summary": "StackOverflow新提问量已低于内测时期，表明开发者社区活跃度显著下降。这对元宝产品经理有参考价值，可能反映开发者对传统问答平台的依赖减少，或转向AI助手获取技术支持，提示元宝可加强开发者服务场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050521&idx=3&sn=612140875963be7e77d7e1e0754cebce": {
+    "title_clean": "浙大团队开源AI科研智能体Polaris：AI辅助科研工具",
+    "summary": "浙江大学团队开源了AI科研智能体Polaris，旨在协助研究人员进行科学研究工作。该工具能够与研究人员协作，提供科研过程中的智能支持，为AI在专业领域的应用提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

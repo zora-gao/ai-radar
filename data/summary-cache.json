@@ -60924,5 +60924,91 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050586&idx=2&sn=005d605a168bfbea6afdb2136fe639fe": {
+    "title_clean": "ScienceDiscovery：零科研幻觉的一站式AI工作台",
+    "summary": "ScienceDiscovery发布了名为BiomniBench-DA的一站式AI工作台，专注于解决科研领域的幻觉问题，为科研人员提供更可靠的AI辅助工具。这对元宝产品经理在专业领域AI应用开发上有参考价值，特别是在减少AI幻觉和提高专业内容准确性方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050586&idx=1&sn=7c829000904745c2a8fff2dc0825e881": {
+    "title_clean": "AI宣布森多夫猜想告破：陶哲轩发现隐藏的更强结果",
+    "summary": "AI辅助数学家陶哲轩成功证明森多夫猜想，并发现其中隐藏的更强结果。这一突破展示了AI在复杂数学问题解决中的潜力，为AI在专业领域推理能力的发展提供了重要参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050531&idx=1&sn=8d678e6d22c866707417e4a574b24321": {
+    "title_clean": "Anthropic：Q2融资115亿美元，创14倍增长",
+    "summary": "Anthropic在Q2获得115亿美元融资，同比增长14倍，这一数据远超华尔街预期，引发估值体系重新思考。作为OpenAI的主要竞争对手，Anthropic的融资表现反映了AI大模型领域资本市场的强劲需求，对元宝产品经理评估AI行业投资趋势和竞争格局具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050531&idx=2&sn=29437d5b28e3c45a2d7cd8cc79d8a2fd": {
+    "title_clean": "中科大联合华团队：首个端到端实时DETR旋转检测模型",
+    "summary": "中科大与华团队联合研发了首个端到端实时DETR旋转检测模型，被ECCV2026会议接收为口头报告。该技术突破可能为AI视觉检测领域带来新的实时处理能力，对元宝在图像识别、物体检测等视觉功能的技术选型有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050545&idx=2&sn=73aa151e25938a94cfe6beb622664e1d": {
+    "title_clean": "港中文联手中科大提出VideoCoCo：物理视频生成新范式",
+    "summary": "港中文与中科大合作提出VideoCoCo，重新定义物理视频生成的新范式。这一技术突破可能对AI视频生成领域产生重要影响，为元宝产品团队在多模态交互和视频生成能力方面提供技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b": {
+    "title_clean": "Stripe拟以70亿美元收购AI网关初创公司OpenRouter",
+    "summary": "据报道，支付巨头Stripe计划以70亿美元收购AI网关公司OpenRouter。OpenRouter CEO曾将其描述为'AI领域的Stripe'，此次收购将强化Stripe在AI支付和API服务领域的布局，对AI服务商业化具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future": {
+    "title_clean": "为什么人们不购买扎克伯格的AI愿景",
+    "summary": "讨论了为什么并非所有人都接受扎克伯格的AI未来愿景，这可能反映了市场对Meta AI战略的接受度问题，对产品经理了解用户对AI产品的接受度和市场反馈有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

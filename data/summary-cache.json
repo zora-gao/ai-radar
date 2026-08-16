@@ -60886,5 +60886,43 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-16/skyrocketing-beef-prices-finally-have-americans-reaching-their-spending-limit": {
+    "title_clean": "美国牛肉价格飙升致消费者支出达上限",
+    "summary": "美国牛肉价格持续上涨，导致消费者达到支出极限。前健身爱好者Aaron Kaufman曾通过食用牛肉满足每日蛋白质需求，但现在高昂的价格迫使他改变消费习惯。这一趋势反映了食品价格波动对消费者行为和预算的直接影响，对元宝在生活服务场景下的消费决策AI功能有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-16/alex-cooper-leaves-long-time-agent-seeking-new-help-to-build-media-empire": {
+    "title_clean": "Alex Cooper寻求新经纪助力媒体帝国建设",
+    "summary": "知名播客主持人Alex Cooper在筹集到扩张资金后，决定离开长期合作的CAA经纪公司，寻求新的经纪团队来支持其媒体业务的进一步发展。这一动态反映了内容创作者在获得资本支持后对专业服务的重新评估与需求变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion": {
+    "title_clean": "Stripe以70亿美元收购AI模型切换平台OpenRouter",
+    "summary": "支付巨头Stripe已完成对OpenRouter的收购，交易金额超过70亿美元。OpenRouter是一家帮助企业切换不同AI模型的初创公司，此次收购表明Stripe正加速布局AI基础设施领域，为支付服务整合AI能力。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

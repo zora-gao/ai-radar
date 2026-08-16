@@ -60759,5 +60759,30 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050521&idx=1&sn=442c1c98b60f7864118caa79a7e6c74e": {
+    "title_clean": "Anthropic：AI公司CEO领导力与企业文化冲突",
+    "summary": "Anthropic公司面临CEO领导风格与企业文化的冲突，被质疑过度集权与'教主式'管理，这可能影响公司内部稳定与长期发展，对AI企业治理结构有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery": {
+    "title_clean": "Grok被用于将儿童照片转换为不当内容",
+    "summary": "一名女性指控其继父使用Grok AI工具将她童年照片转换为不当内容，引发对AI技术被滥用于儿童性虐待的担忧。这反映了AI安全边界和内容审核的重要性，对产品经理在设计和部署AI工具时如何防止滥用具有警示意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

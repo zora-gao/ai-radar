@@ -61431,5 +61431,103 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/verizon-rebuffed-by-supreme-court-on-47-million-fcc-refund": {
+    "title_clean": "Verizon被最高法院驳回4700万美元FCC退款请求",
+    "summary": "美国最高法院拒绝Verizon Communications公司追回因被联邦通信委员会指控侵犯隐私而支付的4700万美元退款。这一裁决对通信行业隐私合规具有重要参考价值，表明监管机构对隐私违规的处罚执行力度加强。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/alphabet-deal-signals-ai-debt-appetite-schiffman-says-video": {
+    "title_clean": "Alphabet交易显示AI领域债务需求增长",
+    "summary": "Alphabet的交易表明AI领域债务需求激增，可能挤压长期国债需求并推高债券收益率。有估计显示这已将10年期利率推高，反映了大型科技公司对AI投资的财务策略变化，对元宝产品经理了解AI行业资本动向和竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/deutsche-telekom-will-buy-macquarie-s-poland-fiber-tv-assets-in-1-billion-deal": {
+    "title_clean": "德国电信10亿欧元收购波兰光纤与电视资产",
+    "summary": "德国电信同意以约10亿欧元的企业价值从麦格理资产管理公司收购波兰一家光纤公司和一家电视提供商。这一交易是德国电信在欧洲市场扩张战略的一部分，对元宝产品经理了解电信巨头在数字服务领域的布局和投资方向具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/alphabet-eyes-3-6-billion-in-first-australian-bond-sale-video": {
+    "title_clean": "Alphabet计划在澳大利亚发行36亿美元债券",
+    "summary": "Alphabet计划在澳大利亚首次发行债券，融资规模约36亿美元。这一融资动向反映了大型科技公司对资本市场的持续需求，可能影响其AI业务扩张和投资策略，对元宝产品经理评估科技巨头资金动向和AI投入规模有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-17/china-s-open-weight-ai-models-are-prompting-us-players-to-reconsider-their-strategy": {
+    "title_clean": "中国开源AI模型促使美国企业重新考虑战略",
+    "summary": "Nvidia和Meta等美国科技巨头发布开源模型，表明美国在AI领域的优势壁垒正在瓦解。中国开源AI模型的崛起正在改变全球AI竞争格局，迫使美国企业调整战略以应对来自中国的技术竞争。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/treg-openrouter-for-tools": {
+    "title_clean": "Treg：API集成工具平台",
+    "summary": "Treg是一个API集成工具平台，通过OpenRouter提供2,600个API接口，且不收取额外加价。这为AI产品经理提供了低成本获取多样化API资源的渠道，有助于扩展AI助手的功能边界和降低服务成本。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/the-defenders-window": {
+    "title_clean": "The Defender's Window：AI网络安全防御新视角",
+    "summary": "该资讯探讨了AI如何重塑网络安全攻防格局，重点介绍OpenAI在加强自身防御方面的举措，以及安全团队当前可采取的策略。对元宝产品经理了解AI在安全领域的应用场景和防护能力建设有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/openai-joins-ports-pike-project": {
+    "title_clean": "OpenAI加入PORTS-Pike项目",
+    "summary": "OpenAI加入PORTS-Pike项目，扩大社区投资并支持俄亥俄州南部数千个就业岗位。该项目可能涉及AI基础设施或产业合作，对元宝产品经理了解AI企业的区域布局和产业合作模式有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

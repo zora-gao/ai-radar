@@ -61690,5 +61690,140 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview": {
+    "title_clean": "DeepFusion AI首席战略官访谈：市场定位与客户需求",
+    "summary": "DeepFusion AI首席战略官KyuJin Lee接受CB Insights采访，分享公司市场定位、客户需求分析及战略规划，为AI产品经理提供行业视角和战略参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2": {
+    "title_clean": "Same Cluster, 33 Points More Utilization: What Changed Was the Order：集群资源利用率提升33点",
+    "summary": "该资讯介绍了通过改变资源调度顺序，在相同集群环境下实现了33%的资源利用率提升。这表明优化资源分配算法对提高AI服务效率有显著价值，对元宝产品经理在资源管理和成本优化方面具有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/kkr-s-internet-brands-readies-debt-refinancing-in-near-term": {
+    "title_clean": "KKR旗下Internet Brands计划近期发行债券进行债务再融资",
+    "summary": "KKR控股的Internet Brands计划在未来几周内发行债券，用于债务再融资并利用其改善的业务表现。这反映了私募股权投资公司对互联网业务价值的认可，可能为AI服务平台的资本运作提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-trackdeep": {
+    "title_clean": "TrackDeep：企业安全监控平台CEO访谈",
+    "summary": "TrackDeep CEO接受CB Insights访谈，阐述其市场定位、客户需求及公司战略。作为企业安全监控平台，分享了对行业趋势的理解和产品发展方向，对了解企业级AI安全产品市场格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/stripe-to-buy-ai-firm-openrouter-in-7-billion-deal-video": {
+    "title_clean": "Stripe以70亿美元收购AI公司OpenRouter",
+    "summary": "支付巨头Stripe宣布以超过70亿美元收购AI公司OpenRouter，这是Stripe迄今为止最大规模的AI投资之一。OpenRouter为开发者提供AI模型接入服务，此次收购将强化Stripe在AI支付和开发者服务领域的布局。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/bedrock-brings-autonomous-driving-to-construction-video": {
+    "title_clean": "Bedrock：建筑工地自动驾驶技术",
+    "summary": "Bedrock Robotics为建筑工地提供自动驾驶技术，通过为挖掘机等重型设备安装摄像头、LiDAR、Nvidia计算平台及自有软件，实现工程机械的自主操作。这为元宝在工业自动化和AI应用场景拓展提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/ai-buildout-entering-a-riskier-phase-says-parnassus-cio-video": {
+    "title_clean": "AI Buildout进入风险阶段，Parnassus CIO警告",
+    "summary": "Parnassus投资公司首席投资官Todd Ahlsten指出，AI热潮正遭遇物理世界限制，芯片和数据中心之外将出现新机遇。这对元宝产品经理评估AI基础设施投资风险和新兴应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-tech-8-17-2026-video": {
+    "title_clean": "Anthropic营收大幅增长，投资者看好SpaceX",
+    "summary": "Bloomberg报道，Anthropic第二季度营收超过115亿美元，同比增长14倍。同时，多家家族办公室投资SpaceX，显示投资者对AI和航天科技领域的持续看好，这对元宝产品经理了解AI行业商业化进程和投资趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/puerto-rico-democrat-seeks-answers-on-water-loss-federal-funds": {
+    "title_clean": "波多黎各民主党议员质询水资源流失与联邦资金使用",
+    "summary": "波多黎各国会代表质询该岛国有水务局为何在将水输送到家庭前损失约60%的水量，尽管已有联邦投资。此信息对元宝产品经理参考价值有限，不直接涉及AI产品或服务方向。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/alphabet-seeks-3-6b-in-first-australian-bond-sale-video": {
+    "title_clean": "Alphabet：澳大利亚首发债券融资36亿美元",
+    "summary": "Alphabet计划在澳大利亚首次发行债券，融资约36亿美元，用于支持其人工智能发展。这反映了美国科技巨头正通过大规模债务融资来加速AI领域的投入，对元宝产品经理了解科技巨头的AI资金投入策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/serve-robotics-expands-doordash-deal-in-two-cities-adds-grubhub-post-uber-riff": {
+    "title_clean": "Serve Robotics：外卖机器人配送服务扩展",
+    "summary": "Serve Robotics宣布与Grubhub建立新合作，并将与DoorDash的合作扩展至美国两个新城市，这是其与前投资者Uber关系破裂后的最新举措，展示了外卖机器人配送服务的市场扩张趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

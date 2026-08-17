@@ -61010,5 +61010,66 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-hires-banks-for-inaugural-aussie-dollar-bond-sale": {
+    "title_clean": "Alphabet：首次发行澳元债券为AI投资融资",
+    "summary": "Alphabet Inc.首次计划发行澳元债券，这是美国科技企业为AI投资融资的最新举措，反映了大型科技公司对AI领域持续大规模投入的趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050586&idx=3&sn=b65c272d97e8e5262062ba3076fc6fb7": {
+    "title_clean": "循环模型为什么越想越错?",
+    "summary": "探讨循环模型在学习过程中出现的'越想越错'现象，分析其背后的技术原因和可能的解决方案，对AI产品经理理解模型训练瓶颈和优化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/sri-lanka-central-bank-inflation-to-come-down-video": {
+    "title_clean": "斯里兰卡央行：通胀将回落至目标水平",
+    "summary": "斯里兰卡央行行长表示，通胀将在今年下半年及明年回落至央行5%的目标水平。这一经济政策动向对AI助手产品在金融服务场景的应用可能提供参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/japanese-idol-app-firm-collapses-amid-wave-of-bankruptcies": {
+    "title_clean": "日本虚拟偶像游戏公司破产：通胀与劳动力短缺导致企业倒闭潮",
+    "summary": "日本一家以虚拟青少年偶像为主题的游戏公司申请破产，这是12年来企业倒闭数量最多的一次浪潮中的最新案例，主要原因是通胀和劳动力短缺问题。这一事件反映了特定游戏细分市场的脆弱性，对元宝产品经理评估虚拟偶像类AI应用的市场风险和用户留存策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050545&idx=1&sn=435a8ba11a85015f51b869c4261f092c": {
+    "title_clean": "赛博恋人之后，AI陪伴硬件会是另一个泡沫吗？",
+    "summary": "探讨AI陪伴硬件市场的发展前景，质疑其是否可能重蹈赛博恋人产品的覆辙。文章分析了当前AI陪伴硬件的市场现状、用户需求及技术瓶颈，为产品经理提供市场风险与机会评估的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

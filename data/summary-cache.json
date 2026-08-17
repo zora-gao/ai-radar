@@ -61603,5 +61603,92 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/sonos-plans-new-soundbar-ahead-of-september-hardware-reveal": {
+    "title_clean": "Sonos计划发布新款Soundbar，九月硬件发布会亮相",
+    "summary": "Sonos在监管文件中透露正在开发新款Soundbar产品，这将是该公司九月硬件发布会上的重点新品。作为音频设备制造商，Sonos的硬件更新可能影响智能音箱市场竞争格局，对AI助手产品在音频体验方面的竞品策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/anthropic-s-revenue-surges-as-ipo-speculation-builds-video": {
+    "title_clean": "Anthropic营收激增，IPO传闻升温",
+    "summary": "Anthropic向潜在投资者披露，其二季度营收同比增长至少14倍，IPO传闻随之升温。这一增长反映了AI助手市场的强劲商业潜力，对元宝产品经理评估AI助手商业化路径和竞品动态具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/how-delivery-robots-can-transform-the-last-mile-video": {
+    "title_clean": "配送机器人如何改变最后一公里配送",
+    "summary": "Serve Robotics CEO Ali Kashani在Bloomberg Open Interest节目中解释了公司为何转向DoorDash和Grubhub，配送机器人如何降低最后一公里配送成本，以及人行道配送的前景。这对元宝产品经理了解AI在物流配送领域的应用场景和商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/softbank-invests-200-million-in-construction-startup-gravis-robotics": {
+    "title_clean": "软银向建筑机器人公司Gravis Robotics投资2亿美元",
+    "summary": "软银集团向瑞士建筑机器人公司Gravis Robotics投资2亿美元，该公司专注于开发建筑机械的自主软件。这笔投资表明大型科技巨头对建筑自动化领域的持续关注，可能为元宝在工业场景的AI应用提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked": {
+    "title_clean": "AI平台账户安全检测指南：如何识别账户被黑客入侵",
+    "summary": "该指南详细介绍了如何检测主流AI平台账户是否被黑客入侵的方法，为产品经理提供了保障用户账户安全的重要参考，有助于在元宝产品中加强安全防护措施和用户教育。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation": {
+    "title_clean": "Wispr：AI语音助手与自动化工具",
+    "summary": "Wispr完成2.8亿美元融资，估值达20亿美元，总融资超3.61亿美元。该公司专注于语音助手和自动化工具，正从单纯的语音转录功能扩展到更广泛的AI服务场景，对AI助手产品商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project": {
+    "title_clean": "Nvidia投资15亿美元支持OpenAI数据中心建设",
+    "summary": "Nvidia向软银旗下数据中心开发商投资15亿美元，确保其芯片将用于支持OpenAI的数据中心建设。这一合作表明AI基础设施领域的重要投资动向，对元宝产品经理了解AI算力资源分配和大型AI项目合作模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

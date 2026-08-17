@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T04:34:24.635Z",
+  "generated_at": "2026-08-17T06:39:32.537Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -194,8 +194,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.66,
-      "price_out": 1.98,
+      "price_in": 1.32,
+      "price_out": 3.96,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -427,7 +427,7 @@
       "vendor_slug": "deepseek",
       "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
       "created_at": "2026-08-01T17:40:09Z",
-      "context_length": 1048576,
+      "context_length": 1310720,
       "modality": "text->text",
       "input_modalities": [
         "text"
@@ -450,7 +450,7 @@
       "vendor_slug": "deepseek",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-20260731",
       "created_at": "2026-07-31T06:21:48Z",
-      "context_length": 1048576,
+      "context_length": 1310720,
       "modality": "text->text",
       "input_modalities": [
         "text"

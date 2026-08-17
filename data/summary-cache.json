@@ -61119,5 +61119,141 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/blender-agent-bridge": {
+    "title_clean": "Blender Agent Bridge：Blender AI工作流开源MCP桥接工具",
+    "summary": "这是一款开源的MCP（Model Context Protocol）桥接工具，专门用于连接Blender与AI工作流，使AI助手能够直接操作Blender软件。这对元宝产品经理有参考价值，因为它展示了如何将AI能力与专业软件深度集成，拓展AI在创意设计领域的应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/opentrade": {
+    "title_clean": "OpenTrade：开源交易工具",
+    "summary": "OpenTrade是一个开源交易工具，专为Claude Code和Codex设计，提供交易功能集成。作为AI编程环境中的交易工具，它可能为元宝在金融场景下的AI应用提供参考价值，特别是在代码执行与金融服务的结合方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skriptr": {
+    "title_clean": "Skriptr：AI学生工作空间",
+    "summary": "Skriptr是一款面向学生的AI工作空间工具，旨在帮助学生更高效地完成学习任务。该产品可能整合了AI辅助学习、笔记整理、任务规划等功能，为学生提供一站式学习支持，对元宝产品经理了解AI在教育场景的应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vendo": {
+    "title_clean": "Vendo：用户自定义功能构建工具",
+    "summary": "Vendo是一款允许用户在产品内部自行构建功能的服务，这代表了AI产品中用户共创和低代码/无代码趋势的发展，对元宝产品经理思考如何增强用户参与度和产品可扩展性有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meridian-16": {
+    "title_clean": "Meridian：职场表现提升工具",
+    "summary": "Meridian是一款帮助职场人士提升工作表现并获得晋升机会的工具，通过分析工作成果和表现数据，为用户提供职业发展建议和晋升策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/recall-ai": {
+    "title_clean": "Recall.ai：会议录制基础设施创业计划",
+    "summary": "Recall.ai推出面向初创企业的会议录制基础设施计划，为AI会议工具提供底层技术支持。这对元宝产品经理有参考价值，因为会议录制是AI助手的重要应用场景，了解这类基础设施服务有助于评估技术合作机会和产品功能扩展可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/replayio": {
+    "title_clean": "Replay QA for Teams：团队自动化测试工具",
+    "summary": "Replay QA for Teams是一款自动化测试工具，专为快速迭代开发团队设计，能够在产品发布速度超过人工验证速度时提供自动化质量保证服务，帮助团队提高软件交付效率和质量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/samepage-signals": {
+    "title_clean": "Samepage：产品团队协作写作工具",
+    "summary": "Samepage是一款面向产品团队的上下文感知协作写作工具，提供连接式的写作表面，帮助团队成员共享信息和协作创作。这款工具对产品经理有参考价值，因为它解决了产品团队在文档协作和知识共享方面的痛点，可能启发元宝在团队协作功能上的设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/schole-2": {
+    "title_clean": "Scholé Scenarios：实践学习工具",
+    "summary": "Scholé Scenarios是一款通过实践方式帮助用户学习的工具，强调'做中学'的教育理念。该产品可能通过模拟真实场景或互动任务，让用户在实践过程中获取知识和技能，对元宝产品经理探索AI辅助教育场景和交互设计有一定参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/hsg-backed-robotera-is-said-to-mull-hk-ipo-as-robot-tech-booms": {
+    "title_clean": "Robotera：中国机器人初创公司拟赴港上市",
+    "summary": "Robotera是一家获得HSG和CDH投资的中国机器人初创公司，正计划在香港进行首次公开募股。这反映了机器人技术领域的快速增长趋势，以及投资者对机器人行业的持续关注，对元宝产品经理了解AI硬件与机器人领域的投资动态和商业化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/rakuten-german-startup-helsing-test-military-drones-for-japan": {
+    "title_clean": "Rakuten与德国初创公司Helsing合作测试军用无人机",
+    "summary": "Rakuten集团与德国国防AI初创公司Helsing合作，将后者的军用无人机引入日本进行测试。这反映了AI技术在军事领域的应用扩展，以及日本对AI防御技术的投资增加，对元宝产品经理了解AI技术在非民用场景的应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

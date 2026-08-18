@@ -62556,5 +62556,114 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/tiny-funnel": {
+    "title_clean": "Tiny Funnel：漏斗分析工具",
+    "summary": "Tiny Funnel是一款漏斗分析工具，专注于提供易于理解的转化漏洞分析功能，帮助用户直观了解用户行为路径和转化情况，对产品经理优化用户转化流程有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/insight-ai": {
+    "title_clean": "Controller AI：确定性流程执行AI工具",
+    "summary": "Controller AI是一款专注于构建确定性AI代理的工具，确保AI能够严格遵循预设流程执行任务。对于元宝产品经理而言，这代表了AI Agent领域在流程执行可靠性方面的技术突破，对提升AI助手在复杂任务中的可预测性和稳定性具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/where-to-hide-during-market-shocks-video": {
+    "title_clean": "摩根大通：市场震荡中的AI投资策略",
+    "summary": "摩根大通美洲首席市场策略师Gabriela Santos讨论投资者如何应对市场震荡，该机构已开发出AI因子篮选工具，帮助投资者在市场波动中寻找相对安全的投资方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/bytedance-draws-over-30-billion-in-orders-for-jumbo-bank-loan": {
+    "title_clean": "字节跳动获得300亿美元银团贷款",
+    "summary": "字节跳动(TikTok母公司)成功获得超过300亿美元的银团贷款订单，显示投资者对其业务前景的强烈信心。这笔巨额融资反映了字节跳动作为科技巨头的财务实力和市场地位，对元宝产品经理评估AI公司融资能力和业务扩张策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-18/ai-is-starting-to-create-jobs-in-the-uk": {
+    "title_clean": "AI Is Starting to Create Jobs in the UK：英国AI创造就业机会",
+    "summary": "劳埃德银行调查显示，大多数英国企业表示人工智能已创造新的工作岗位，这表明AI正在从替代劳动力的角色转变为创造就业机会，对元宝产品经理评估AI服务的社会影响和商业价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/snowflake-s-plan-to-cut-ai-costs-video": {
+    "title_clean": "Snowflake：企业AI成本优化策略",
+    "summary": "Snowflake CEO在采访中表示，企业AI发展的下一阶段将聚焦于成本效益，而非单纯使用最大规模的模型。这反映了AI应用从技术驱动向经济性转变的趋势，对产品经理思考AI服务的商业化路径和成本控制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/multi-vector-encoder": {
+    "title_clean": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers：多向量延迟交互嵌入模型",
+    "summary": "Sentence Transformers新增多向量延迟交互嵌入模型，通过延迟交互技术提升语义检索精度，支持更复杂的语义匹配场景。这一技术进步对AI助手的信息检索和语义理解能力有直接提升价值，可作为产品技术升级参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI搜索",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/why-long-dated-bonds-are-at-epicenter-of-investor-angst-video": {
+    "title_clean": "长期债券收益率攀升引发投资者担忧",
+    "summary": "30年期美国国债收益率升至2007年以来最高水平，法国和德国的借贷成本也分别达到2008年和2011年以来的高点。这一趋势反映了全球债券市场的紧张情绪，可能对AI投资决策和金融相关AI服务场景产生影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/apple-s-anti-ai-position-suddenly-becomes-stock-market-baggage": {
+    "title_clean": "苹果反AI立场成股市负担",
+    "summary": "苹果公司因被视为反AI投资标的，上半年股价曾因投资者对AI交易持怀疑态度而上涨。然而市场情绪已反转，苹果的AI立场不足正成为其股市表现的拖累，这对元宝产品经理评估AI战略与市场反应关系有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

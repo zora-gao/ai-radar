@@ -62205,5 +62205,43 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan": {
+    "title_clean": "中国提前终止政府机构使用微软Windows系统",
+    "summary": "中国正在提前终止政府机构使用的微软Windows旧版系统，这是在全球范围内淘汰世界上最流行的PC软件的又一举措。这一政策变化可能影响元宝产品在政府场景的部署策略，需关注国产操作系统替代带来的市场机会与挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050638&idx=2&sn=6c98f794b23b486f1658d93bd06ebe0c": {
+    "title_clean": "北大联合阶跃星辰提出TensorCast：大模型张量统一管理工具",
+    "summary": "北大与阶跃星辰联合推出TensorCast，提供统一可编程的大模型张量管理方案，优化推理过程中的'首字延迟'问题。这一技术突破对提升AI模型推理效率具有重要意义，可为元宝产品团队在模型性能优化方面提供技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-devlane": {
+    "title_clean": "Devlane：企业AI营销解决方案提供商高管访谈",
+    "summary": "Devlane首席营销官Mikaela Cabella接受CB Insights采访，分享公司对市场的看法、客户需求定位以及企业战略。这为元宝产品经理提供了企业级AI营销解决方案的市场洞察和竞争参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

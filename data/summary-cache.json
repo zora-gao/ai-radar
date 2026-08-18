@@ -62243,5 +62243,105 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/dates-by-agenda-hero": {
+    "title_clean": "Dates by Agenda Hero：活动计划创建与分享工具",
+    "summary": "Dates by Agenda Hero是一款活动计划创建与分享工具，用户可以创建各类活动计划并轻松分享给他人。该产品专注于简化活动组织流程，为用户提供便捷的计划协作功能，对元宝产品经理在活动组织类AI服务场景设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent": {
+    "title_clean": "Shepherd Terminal：Codex与Claude并行终端工具",
+    "summary": "Shepherd Terminal是一款持久化终端工具，支持Codex和Claude两大AI模型并行运行，为开发者提供同时使用不同AI编程助手的能力，有助于提升开发效率和代码质量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/taku-ai": {
+    "title_clean": "Taku AI：AI工作流共享平台",
+    "summary": "Taku AI是一个允许用户借用和共享最佳AI工作流配置的平台，用户可以获取他人创建的AI工作流并应用于自己的需求。这为元宝产品经理提供了关于AI工作流共享和复用模式的参考价值，有助于思考如何构建用户共享AI配置的社区功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/salem-robotics": {
+    "title_clean": "Salem Robotics：自主机器人部署工具",
+    "summary": "Salem Robotics提供自主机器人解决方案，专注于执行调查和操作任务。该产品通过自动化机器人技术，帮助用户完成需要物理操作的环境调查和任务执行，为AI在物理世界的应用提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/monolog-2": {
+    "title_clean": "monolog：AI个人记忆对话工具",
+    "summary": "monolog是一款允许用户与自己对话并基于记忆内容进行搜索的AI工具，通过自然语言交互帮助用户快速查找个人相关信息，为个人知识管理和信息检索提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skim-recap": {
+    "title_clean": "Skim Recap：内容摘要与理解辅助工具",
+    "summary": "Skim Recap是一款内容处理工具，能够帮助用户快速回顾被跳过的内容，并解释用户在理解过程中遇到的难点。这款工具对产品经理有参考价值，特别是在内容摘要、阅读辅助和用户理解支持方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/airbuddy-2": {
+    "title_clean": "AirBuddy 3：Mac设备管理切换工具",
+    "summary": "AirBuddy 3是一款Mac设备管理工具，帮助用户轻松管理并在不同Mac设备间切换。对于元宝产品经理而言，该工具展示了跨设备协作场景下的用户需求，可作为多设备AI助手功能设计的参考案例。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/jpmorgan-s-faller-sees-us-driving-equity-market-gains-video": {
+    "title_clean": "摩根大通分析师：美国股市将继续引领全球增长",
+    "summary": "摩根大通私人银行投资策略师Madison Faller表示，美国股市因其对增长和创新、经济韧性和企业盈利能力的敞口，仍然是投资组合的核心，预计将继续推动股市上涨。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

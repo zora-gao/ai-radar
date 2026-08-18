@@ -62156,5 +62156,54 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b": {
+    "title_clean": "Anthropic：AI模型公司年收入达650亿美元",
+    "summary": "Anthropic作为AI模型制造商，在短短两个月内新增180亿美元年收入，使年化收入达到650亿美元。这反映了AI大模型商业化的强劲增长势头，对元宝产品经理评估AI行业商业化速度和市场规模具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals": {
+    "title_clean": "中国AI模型DeepSeek、Qwen和Moonshot对美国AI竞争对手构成挑战",
+    "summary": "中国AI模型DeepSeek、Qwen和Moonshot在成本和适应性方面优于美国主流平台，研究表明其能力已接近美国水平。这一发展对中国AI产业崛起和美国AI竞争格局变化具有重要参考价值，元宝产品经理需关注中国AI模型的竞争优势及其对全球AI市场的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo": {
+    "title_clean": "Anthropic年收入超650亿美元，IPO前业绩大幅增长",
+    "summary": "Anthropic公司当前年化收入已超过650亿美元，较此前增长超过七倍。这一数据表明Anthropic在IPO前展现出强劲的商业表现，对AI助手领域竞争格局和商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-weeve": {
+    "title_clean": "Weeve CEO访谈：市场定位与客户需求分析",
+    "summary": "Weeve CEO Stefan Weiss接受CB Insights采访，分享了公司对市场的看法、客户需求的理解以及公司定位。这为元宝产品经理提供了AI服务市场定位和客户需求洞察的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

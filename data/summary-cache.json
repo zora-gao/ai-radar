@@ -62792,5 +62792,129 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
+    "title_clean": "Agent内存需求研究：AI助手内存配置指南",
+    "summary": "该研究探讨了AI Agent所需的内存配置问题，分析了不同任务场景下内存使用情况，为产品经理优化AI助手性能和资源分配提供了技术参考，有助于提升Agent在复杂任务中的表现。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-raapid-inc": {
+    "title_clean": "RAAPID INC CEO访谈：市场定位与客户需求分析",
+    "summary": "RAAPID INC CEO Chetan Parikh接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在行业中的定位。这为元宝产品经理提供了AI企业服务市场洞察和客户需求理解的重要参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-covecta": {
+    "title_clean": "Executive Interview: Covecta",
+    "summary": "Covecta首席营收官Ben Thomas接受CB Insights采访，分享了公司对市场定位、客户需求的理解以及公司战略。作为一家AI相关企业，其市场观点和客户洞察对元宝产品经理了解行业趋势和用户需求具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/home-depot-beat-estimates-overcoming-housing-slump-video": {
+    "title_clean": "Home Depot业绩超预期，克服住房市场低迷",
+    "summary": "家得宝最新季度业绩超出预期，表明尽管借贷成本和住房成本高企，消费者在家装项目上的支出依然保持韧性。这对元宝产品经理了解家居服务场景下的用户消费行为和AI助手在家庭决策中的潜在价值有参考意义。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/french-tax-office-to-use-ai-to-probe-vulnerabilities-after-hack": {
+    "title_clean": "法国税务局将使用AI调查安全漏洞",
+    "summary": "法国税务局在遭遇黑客攻击导致数十万纳税人个人信息泄露后，计划采用人工智能工具来探测系统安全漏洞。这一举措展示了AI在网络安全防护领域的实际应用，为元宝产品经理提供了AI在敏感数据处理和安全防护场景的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion": {
+    "title_clean": "Anthropic：AI公司信贷融资超100亿美元",
+    "summary": "Anthropic的循环信贷融资规模预计将超过100亿美元目标，这家AI公司正为高估值IPO做准备。这反映了大型AI模型训练的高资本需求，以及投资者对AI赛道的持续看好，对元宝产品经理评估AI公司融资趋势和估值参考有重要价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vouched": {
+    "title_clean": "CEO Interview: Vouched",
+    "summary": "Vouched公司CEO Peter Horadan接受CB Insights采访，分享其市场定位、客户需求及公司发展策略。作为身份验证解决方案提供商，Vouched阐述了其在身份验证市场的定位和业务方向，对产品经理了解身份验证服务市场定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences": {
+    "title_clean": "OpenAI总裁呼吁企业加快AI安全防御",
+    "summary": "OpenAI总裁兼联合创始人Greg Brockman警告企业安全团队面临采用AI防御的紧迫时间表。Brockman发布了公司所称的'OpenAI安全事件'的详细说明，强调企业需加速AI安全措施以应对潜在威胁。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/mvicad2-delays-dilations": {
+    "title_clean": "MVICAD2: 多视图独立成分分析工具",
+    "summary": "MVICAD2是一种多视图独立成分分析方法，专注于解决机器学习中异构数据集成、特征空间对齐和视图特定偏差等挑战。该技术为AI产品处理多源数据融合提供了新的技术思路，对构建更强大的多模态AI助手具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/mark-cuban-backed-physical-ai-startup-nears-500-million-spac-deal": {
+    "title_clean": "Mark Cuban支持的Physical AI创业公司接近5亿美元SPAC交易",
+    "summary": "由Mark Cuban支持的Physical AI创业公司开发用于更安全控制自主机器人的软硬件，计划通过SPAC方式上市，交易估值达5亿美元。该交易反映了AI硬件与机器人控制领域获得市场认可，对元宝在AI物理世界交互方向的产品规划有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

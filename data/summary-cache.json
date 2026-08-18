@@ -62093,5 +62093,68 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/korea-jettisons-startup-from-high-stakes-sovereign-ai-contest": {
+    "title_clean": "韩国剔除Motif Technologies团队于主权AI竞赛",
+    "summary": "韩国从主权AI竞赛中剔除了由Motif Technologies领导的一支团队，将这场高风险的竞赛缩减至三个剩余团队。这反映了各国在主权AI领域的竞争加剧，以及政府对AI项目筛选的严格标准。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050789&idx=3&sn=9e66e0531f994153d531042b8615ac7b": {
+    "title_clean": "OpenAI神秘邮箱：直接联系奥特曼的渠道",
+    "summary": "OpenAI设立了一个神秘邮箱，任何大小事务都能直接引起CEO奥特曼的关注。这反映了OpenAI高层对用户反馈和问题的高度重视，为AI产品经理提供了关于建立高效用户反馈机制和高层直接参与产品决策的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars": {
+    "title_clean": "谷歌母公司Alphabet发行澳元债券，AI支出激增",
+    "summary": "Alphabet Inc.开始首次发行澳元债券，作为其最新数十亿美元融资的一部分，用于支持激增的AI支出。这反映了大型科技公司为AI研发大规模筹集资金的策略，对元宝产品经理了解AI行业资本动向和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-lightning-ai": {
+    "title_clean": "Executive Interview: Lightning AI",
+    "summary": "Lightning AI首席战略官Peter Bershatsky接受CB Insights采访，分享了公司对市场的看法、客户需求以及公司定位。作为AI基础设施提供商，其观点对元宝产品经理了解AI企业服务市场策略和客户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team": {
+    "title_clean": "AI自动化工具Relay关闭，团队加入Chrome",
+    "summary": "AI自动化创业公司Relay宣布关闭，其创始人兼CEO Jacob Bank透露团队已加入Google Chrome团队，并表示Chrome将有关于AI工作的新计划。这对元宝产品经理了解AI自动化工具市场格局变化及大厂布局AI助手服务的动向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

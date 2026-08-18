@@ -62343,5 +62343,116 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions": {
+    "title_clean": "Superflow AI：网站发布前AI质量检测工具",
+    "summary": "Superflow AI提供AI代理服务，可在网站发布前进行质量检测，帮助产品经理提前发现并解决网站问题，提升上线质量。这类工具对元宝在服务场景拓展和产品功能完善方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gauge": {
+    "title_clean": "Gauge：AI代码助手工具",
+    "summary": "Gauge是一款AI代码助手工具，能够自动编写代码并集成到客户项目中，帮助开发者提高效率。该产品通过AI技术实现代码自动生成，可能对元宝在AI辅助编程场景的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/deepmark": {
+    "title_clean": "Deepmark：书签内容智能搜索工具",
+    "summary": "Deepmark是一款书签管理工具，允许用户通过书签内容而非标题进行搜索，解决了传统书签管理中难以查找具体信息的问题。产品经理可参考其AI内容理解技术，优化元宝的书签或知识库功能，提升用户信息检索效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/finch-6": {
+    "title_clean": "Finch：健康数据管理工具",
+    "summary": "Finch是一个健康数据管理平台，为用户提供统一存储和管理健康数据及测试结果的服务。该产品对元宝产品经理有参考价值，可作为健康管理场景下的AI助手服务案例，探索如何帮助用户整合分散的健康信息并提供智能管理功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/what-s-at-stake-for-meta-in-landmark-social-media-trial-video": {
+    "title_clean": "Meta面临社交媒体设计诉讼：被控故意设计成瘾性功能",
+    "summary": "Meta将面临美国29个州总检察长提起的联邦诉讼，指控其故意设计Facebook和Instagram的成瘾性功能。此案可能对社交媒体产品设计规范产生重大影响，对元宝产品经理在AI服务设计伦理和用户健康保护方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69": {
+    "title_clean": "Pony AI：Robotaxi业务创纪录增长",
+    "summary": "Pony AI的Robotaxi业务销售额创季度新高，占总收入的三分之一，海外业务持续加速增长。这反映了自动驾驶出租车商业化进程的加速，对元宝产品经理了解AI服务商业化路径和自动驾驶服务场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/baidu-posts-fifth-straight-sales-drop-after-ai-lags-rivals": {
+    "title_clean": "百度连续第五个季度收入下滑，AI差距扩大",
+    "summary": "百度连续第五个季度收入下滑，广告业务疲软且AI发展落后于竞争对手如Moonshot。这反映了百度在AI领域的竞争压力增大，对元宝产品经理评估AI市场格局和竞争态势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/alibaba-shares-jump-5-as-alipay-launches-new-merchant-platform": {
+    "title_clean": "阿里巴巴股价上涨5%，支付宝推出新商户平台",
+    "summary": "阿里巴巴集团股价两周内最大涨幅达5%，因支付宝推出新电商平台，提升了市场对公司6月季度业绩的乐观预期。这一新平台可能为元宝在电商服务场景和商业化方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/xiaomi-profit-falls-after-memory-crunch-hits-smartphone-demand": {
+    "title_clean": "小米利润下滑：内存芯片短缺影响智能手机需求",
+    "summary": "小米公司公布的利润降幅低于预期，表明公司可能能够应对持续存在的内存芯片短缺问题，该问题已削弱了智能手机需求。这一信息对产品经理了解供应链波动对硬件产品利润的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

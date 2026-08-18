@@ -62009,5 +62009,89 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/xiaomi-earnings-key-to-extending-stock-s-best-rally-in-a-year": {
+    "title_clean": "小米财报：能否延续年度最佳股价上涨势头",
+    "summary": "小米公司财报将决定其股价能否延续一年多来最佳季度表现，关键在于财报是否显示公司已成功控制原材料成本上升问题。这对产品经理了解硬件厂商成本控制策略及市场反应有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/korea-denies-report-on-discussing-chips-as-first-us-investment": {
+    "title_clean": "韩国否认讨论将芯片项目作为对美350亿美元投资的首选",
+    "summary": "韩国政府否认了当地媒体报道称其正在讨论将半导体项目作为对美350亿美元承诺的首笔投资。这一消息对元宝产品经理的参考价值有限，主要涉及国际投资政策而非AI产品或服务领域。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050708&idx=2&sn=ac3ea7eca40ab1bc492748fbf979027d": {
+    "title_clean": "OpenAI失去CUDA内核之神",
+    "summary": "OpenAI失去了被称为'CUDA内核之神'的关键技术人才，这反映了AI公司在争夺顶尖技术人才方面的激烈竞争，对元宝产品经理了解AI人才市场和技术团队建设有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050708&idx=1&sn=b0a3cb51b65feaae315e34bac95781e3": {
+    "title_clean": "RoboScience机器科学发布轮式仿人形机器人REXG1：新一代具身生产力伙伴",
+    "summary": "RoboScience机器科学发布了轮式仿人形机器人REXG1，定位为新一代具身生产力伙伴。这一产品展示了AI与机器人硬件结合的具身智能应用方向，为AI助手在物理世界中的执行能力提供了新的技术路径参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-indico-data": {
+    "title_clean": "Executive Interview: Indico Data",
+    "summary": "Indico Data营销副总裁Jeremy Stinson接受CB Insights采访，分享了公司对市场的看法、客户需求以及自身定位。作为一家AI企业，其观点对元宝产品经理了解企业级AI服务市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-17/the-close-8-17-2026-video": {
+    "title_clean": "地缘政治紧张导致股市债市下跌，油价上涨",
+    "summary": "彭博电视报道，受地缘政治紧张局势影响，股市和债券市场下跌，而油价上涨。这一市场动态反映了地缘政治风险对金融市场的直接影响，对元宝产品经理了解宏观经济环境对AI助手服务的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-niantic-spatial": {
+    "title_clean": "Executive Interview: Niantic Spatial：高管访谈市场定位与客户需求",
+    "summary": "Niantic Spatial高管Jonathan Thaw接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。这对了解AR领域头部企业的战略方向和市场洞察有参考价值，可作为元宝探索AR服务场景和商业化模式的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -62454,5 +62454,107 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/elevenlabs-mcp-2": {
+    "title_clean": "ElevenLabs MCP in Claude：在聊天中创建和管理语音助手",
+    "summary": "ElevenLabs与Claude集成MCP协议，允许用户在聊天界面中创建和管理语音助手。这一合作扩展了Claude的多模态能力，为产品经理提供了AI语音交互与聊天机器人结合的新思路，可能启发元宝在语音助手集成方面的产品方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms": {
+    "title_clean": "Alvys：货运TMS工作流AI自动化平台",
+    "summary": "货运软件提供商Alvys推出AI代理平台，允许承运商和经纪人在其运输管理系统(TMS)内直接自动化运营任务，专注于货运物流场景的AI应用，为元宝在垂直领域AI服务场景提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/intesa-s-spacex-stake-worth-almost-1-billion-at-end-of-june": {
+    "title_clean": "Intesa银行持有SpaceX近10亿美元股份",
+    "summary": "意大利联合圣保罗银行首次披露，截至6月底持有SpaceX约9.66亿美元股份。这一投资动向表明传统金融机构对太空科技和新兴科技领域的兴趣增加，对元宝产品经理了解资本流向和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-18/integral-ai-s-demise-signals-hurdles-ahead-for-robotics": {
+    "title_clean": "Integral AI 公司倒闭预示机器人发展面临挑战",
+    "summary": "Integral AI 公司倒闭，表明为简单任务开发机器人可能成本过高。这一事件对AI机器人领域的商业化路径和成本控制具有重要参考价值，提醒产品经理在规划AI机器人产品时需审慎评估市场需求与成本效益。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/data-center-gas-plants-to-boost-us-power-emissions-by-20": {
+    "title_clean": "数据中心天然气发电将推高美国电力排放20%",
+    "summary": "数据中心开发商正转向定制化天然气发电厂，这将显著增加碳排放，使美国科技公司更难实现减排目标。这一趋势对AI服务提供商的能源策略和可持续发展承诺构成挑战，影响其碳足迹和ESG表现。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/partnering-with-codeai": {
+    "title_clean": "OpenAI与CodeAI合作：AI素养教育项目",
+    "summary": "OpenAI与CodeAI合作推出AI素养教育项目，旨在帮助学生培养AI批判性思维能力，并学习负责任地使用和开发AI技能。这对元宝产品经理在AI教育领域的产品方向和用户需求理解有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/chatgpt-for-teens": {
+    "title_clean": "ChatGPT for Teens：青少年学习专用AI助手",
+    "summary": "OpenAI推出面向青少年的ChatGPT版本，专为学习场景设计，内置更强安全防护和健康使用功能，同时提供家长控制选项。这对元宝产品经理了解AI助手在青少年细分市场的产品设计、安全机制和家校合作模式具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained": {
+    "title_clean": "智谱GLM-5.3：深度解读模型实际能力",
+    "summary": "智谱GLM-5.3发布说明中包含未被广泛报道的细节，特别是关于其网络安全能力的描述。这提示产品经理需关注AI模型实际能力与宣传数据的差异，以及如何准确评估模型在特定场景下的真实表现。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -62665,5 +62665,132 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear": {
+    "title_clean": "苹果带摄像头AirPods或将避免隐私风险",
+    "summary": "苹果泄露的带摄像头AirPods可能通过禁止用户拍摄照片和视频，避免其他AI可穿戴设备的隐私陷阱。这对产品经理评估AI设备隐私设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu": {
+    "title_clean": "Apple降低欧洲App Store费率以解决欧盟纠纷",
+    "summary": "Apple同意对欧洲App Store进行重大改革，包括不使用iPhone市场应用的开发者无需支付安装费，以解决与欧盟的纠纷。这一政策变化可能影响应用商店商业模式和开发者生态，对元宝产品经理了解平台政策变化和商业策略调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development": {
+    "title_clean": "Warp：AI开发开箱即用软件工厂系统",
+    "summary": "Warp推出Warp Factories新基础设施系统，旨在简化AI软件工厂的构建过程，使AI开发更加便捷高效。这一系统可能为AI开发团队提供标准化工具链，对元宝在AI开发工具集成方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it": {
+    "title_clean": "OpenAI推出青少年版ChatGPT：增加安全措施和家长控制",
+    "summary": "OpenAI正式推出青少年版ChatGPT，添加适龄安全措施、家长控制和学习工具，旨在引导青少年远离有害内容并防止使用AI作弊。这一产品反映了AI助手在青少年教育场景下的安全考量与责任担当。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india": {
+    "title_clean": "Perplexity：印度免费AI用户增长策略",
+    "summary": "Perplexity在印度推出免费AI服务后，用户数大幅增长，尽管新用户优惠结束后下载量下降，但收入仍增长约60%。这表明免费策略能有效获取用户，并转化为付费转化，对元宝在新兴市场的用户获取策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026": {
+    "title_clean": "全球风投向物理AI领域投入475亿美元，投资规模激增",
+    "summary": "2026年上半年，全球物理AI领域获得474亿美元风险投资，涉及521笔交易，较去年下半年增长近4倍。这表明物理AI已成为AI投资的新浪潮，对元宝产品经理而言，反映了AI从数字世界向物理世界拓展的趋势，可能带来新的产品机会和竞争格局变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program": {
+    "title_clean": "Meta America's Workforce Academy：免费职业培训项目",
+    "summary": "Meta推出免费职业培训项目America's Workforce Academy，承诺为所有毕业生提供技术类工作岗位。该项目无需 prior 经验，首批毕业生已成功完成培训并获得就业机会，展示了AI公司在职业培训领域的实践。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/ant-group-said-to-sell-3-paytm-stake-in-309-million-deal": {
+    "title_clean": "蚂蚁集团以3.09亿美元出售Paytm 3%股份",
+    "summary": "蚂蚁集团通过旗下公司Resilient Asset Management BV以3.09亿美元的价格出售了印度金融科技平台Paytm 3%的股份。这笔交易由Paytm创始人Vijay Shekhar Sharma控制，表明蚂蚁集团正在调整其在印度市场的投资布局，对元宝在海外市场的投资策略和风险管理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/grpo-beyond-english": {
+    "title_clean": "GRPO多语言研究：非英语及多语言环境中的大规模GRPO优化方法",
+    "summary": "该研究探讨了在非英语和多语言环境中使用GRPO(组相对策略优化)方法优化强化学习可验证奖励(RLVR)的效果，重点关注如何提升预训练模型在多语言环境下的推理能力。这对元宝产品经理在开发多语言AI助手和跨语言Agent能力时具有重要参考价值，特别是在处理非英语用户需求和优化多语言推理场景方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs": {
+    "title_clean": "中国AI推动者王兴兴的机器人狗业务在美国限制下仍助其财富增长",
+    "summary": "中国AI推动者王兴兴的机器人狗业务在美国限制下仍助其财富增长。尽管美国政府阻止其公司在美国推出新型机器人模型，这位亿万富翁的财富仍持续增长，反映了AI硬件领域的发展潜力与地缘政治影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

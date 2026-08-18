@@ -63105,5 +63105,187 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050931&idx=1&sn=46747e1d226e7ecfce93311202520549": {
+    "title_clean": "Zettaζ：闭环物理智能体在线学习",
+    "summary": "Zettaζ推出闭环物理智能体，实现机器人在物理环境中的在线学习能力，类似于人类的'Aha Moment'顿悟时刻，这一技术突破可能为AI助手在物理世界中的自主交互和任务执行提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050939&idx=1&sn=048d1d6f8e05e0ae4bd944928e5d2171": {
+    "title_clean": "MemoraXCode：AI编程助手长期记忆系统",
+    "summary": "MemoraXCode推出长期记忆系统，使CodingAgent能够记住过去的编程交互和上下文，提升代码连贯性和一致性。这对AI编程助手产品经理有重要参考价值，特别是在如何构建长期记忆机制和上下文保持方面。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050847&idx=1&sn=7dad6c50e96a5f0620faffd6bc91ee7c": {
+    "title_clean": "Anthropic年化营收突破650亿美元，冲刺史上最大IPO",
+    "summary": "Anthropic年化营收突破650亿美元，正筹备史上最大规模IPO。这一数据反映了AI大模型商业化的巨大潜力，对元宝产品经理评估AI公司商业化路径和估值具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050847&idx=2&sn=461af02b8864d7702e0e95508aa4b488": {
+    "title_clean": "ECCV2026：视频重建可仿真动态世界技术",
+    "summary": "该研究提出了一种从单段视频重建可仿真动态世界的技术，能够在ECCV2026会议上展示。这项技术对于AI助手理解动态场景、增强虚拟环境交互以及提升多模态理解能力具有重要参考价值，可能为元宝在视频理解和场景重建方面提供技术方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/bloomberg-crypto-8-18-2026-video": {
+    "title_clean": "Crypto CEOs, Surviving Crypto Winter | Bloomberg Crypto 8/18/2026",
+    "summary": "Bloomberg Crypto节目采访了FalconX CEO Raghu Yarlagadda和Securitize CEO Carlos Domingo等加密货币行业领袖，探讨他们在加密寒冬中的生存策略和行业未来发展趋势，为元宝产品经理提供金融科技领域CEO视角的行业洞察。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/kavita-gupta-comments-on-bitcoin-whales-buying-spree-video": {
+    "title_clean": "Kavita Gupta 评论比特币巨鲸增持行为",
+    "summary": "Delta 区块链基金创始人兼普通合伙人 Kavita Gupta 在彭博加密货币节目中分析了比特币巨鲸过去 60 天内增持约 43,000 枚比特币的行为，这对加密货币市场动向和投资者心理有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-plans-to-give-ceo-extra-voting-power-information-says": {
+    "title_clean": "Anthropic计划给予CEO额外投票权",
+    "summary": "Anthropic计划给予CEO Dario Amodei及联合创始人额外投票权的股份，为公司华尔街上市做准备。这反映了Anthropic在公司治理结构上的调整，对关注AI公司治理和上市策略的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/higgsfield-ceo-on-intel-backing-5-4-billion-valuation-video": {
+    "title_clean": "Higgsfield CEO谈英特尔投资与54亿美元估值",
+    "summary": "Higgsfield联合创始人兼CEO Alex Mashrabov介绍了公司业务及解决的用户问题，讨论了英特尔投资和54亿美元估值背后的战略意义，为AI创业公司融资和估值提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-miter": {
+    "title_clean": "Executive Interview: Miter：增长负责人谈市场定位与客户需求",
+    "summary": "Miter增长负责人Olivia DePass接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。这为元宝产品经理提供了企业级协作工具的市场洞察和客户需求参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/trying-to-connect-real-and-digital-worlds-moneygram-ceo-video": {
+    "title_clean": "MoneyGram CEO：连接现实与数字世界的尝试",
+    "summary": "MoneyGram CEO Anthony Soohoo在Bloomberg Crypto节目中探讨了连接现实世界与数字世界的策略。作为传统金融服务机构，MoneyGram正探索如何利用数字技术扩展其跨境支付和汇款服务，这对理解传统金融机构向数字化转型的路径具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/falconx-ceo-talks-deals-potential-ipo-layoffs-video": {
+    "title_clean": "FalconX CEO 谈交易、潜在IPO与裁员",
+    "summary": "数字资产经纪公司FalconX CEO在Bloomberg Crypto节目中讨论公司业务、潜在IPO计划及全球裁员10%的情况，透露公司正准备应对长期市场低迷。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach": {
+    "title_clean": "OpenAI：加强AI模型安全监控系统",
+    "summary": "OpenAI在近期网络安全事件后宣布将实施更积极的系统来监控和保护开发中的人工智能模型，以应对AI工具安全风险引发的担忧。这一变化对产品经理评估AI安全防护策略和风险管理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/jpmorgan-s-santos-says-ai-tentacle-risk-spans-bonds-and-stocks": {
+    "title_clean": "摩根大通Santos警告AI风险蔓延至债券和股票市场",
+    "summary": "摩根资产管理公司Gabriela Santos警告称，AI因素集中风险已从股市蔓延至固定收益领域，投资者需更加谨慎。这一风险提示对AI投资工具和资产管理产品经理具有重要参考价值，提示需关注AI在金融市场的系统性风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-annualized-revenue-tops-65-billion-video": {
+    "title_clean": "Anthropic年收入超650亿美元",
+    "summary": "Anthropic当前业绩显示其年收入将超过650亿美元，较去年年底增长超过七倍。这一数据反映了AI大模型公司的商业爆发力，对元宝产品经理评估AI助手商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/openai-s-new-chatgpt-for-teens-has-safety-and-study-features": {
+    "title_clean": "OpenAI发布青少年版ChatGPT：专注安全与学习功能",
+    "summary": "OpenAI推出面向13-17岁青少年的ChatGPT版本，强调安全使用和深度学习功能。这一产品反映了AI助手向特定年龄段用户群体扩展的趋势，对元宝产品经理了解青少年AI使用场景和安全设计具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

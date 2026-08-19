@@ -63698,5 +63698,233 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/kihub": {
+    "title_clean": "KiHub：KiCad硬件项目评测平台",
+    "summary": "KiHub是一个专门为KiCad电子设计自动化项目提供硬件评测的平台，帮助用户分享和评估基于KiCad的硬件设计项目，为电子设计工程师提供项目参考和评测资源。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fairphone": {
+    "title_clean": "Fairphone Gen 6+：模块化智能手机",
+    "summary": "Fairphone推出Gen 6+模块化智能手机，设计使用寿命可达2033年，强调可持续性和可维修性，通过模块化设计延长产品生命周期，为环保型电子产品提供新思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/claude-watermark": {
+    "title_clean": "Claude Watermark：AI文本水印检测与移除工具",
+    "summary": "Claude Watermark是一款专门用于检测和移除AI生成文本中水印痕迹的工具，帮助用户消除AI文本的识别标记，这对保护用户隐私和内容真实性管理有参考价值，产品经理可关注AI水印技术的防护与突破方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cronloop-ai": {
+    "title_clean": "Cronloop AI：循环执行AI智能体工具",
+    "summary": "Cronloop AI是一款能够循环运行的AI智能体工具，可实现自动化任务执行和持续处理。产品经理可关注其循环执行机制如何提升AI助手的工作效率和自动化能力，为元宝的Agent功能开发提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/balsa-ui": {
+    "title_clean": "Balsa UI：AI设计系统构建工具",
+    "summary": "Balsa UI是一款设计系统构建工具，支持通过AI代理进行设计和开发。该工具结合了设计系统创建与AI代理能力，可能为产品经理提供AI辅助设计系统开发的新思路，值得关注其如何将AI与设计工具结合。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cherry-blossom": {
+    "title_clean": "Cherry Blossom：AI PCB设计工具",
+    "summary": "Cherry Blossom是一款AI工具，用户只需通过一个提示即可构建适合生产的定制PCB电路板。该工具简化了电子设计流程，对元宝产品经理在AI辅助专业领域设计方面具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/edgemetry": {
+    "title_clean": "Edgemetry：隐私优先的网站分析工具",
+    "summary": "Edgemetry是一款基于Cloudflare免费层级的网站分析工具，专注于隐私保护，为网站提供数据分析服务。产品经理可关注其如何在保护用户隐私的同时提供有价值的网站流量数据，这对元宝在隐私保护与数据分析功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ressearch-ai": {
+    "title_clean": "Ressearch AI：科研可复现AI工作空间",
+    "summary": "Ressearch AI是一个专为科研设计的AI工作空间，专注于提升科学研究的可复现性。该工具可能通过AI技术帮助研究人员管理实验数据、记录研究过程并确保结果可验证，对元宝在专业领域AI应用场景拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vois": {
+    "title_clean": "Vois 2.0：无限语音生成工具",
+    "summary": "Vois 2.0是一款语音生成工具，定位为ElevenLabs的替代品，提供无限语音生成功能。这对元宝产品经理有参考价值，可作为语音合成功能的竞品分析，了解市场上语音生成服务的定价策略和技术发展方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/githumochib": {
+    "title_clean": "Mochi：浏览器标签页动画猫咪助手",
+    "summary": "Mochi是一款浏览器扩展，为每个标签页提供小型动画猫咪陪伴，旨在提升用户浏览体验。产品经理可参考这种轻量级情感化设计思路，探索如何通过可爱元素增强用户与AI助手之间的情感连接。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/anycreature": {
+    "title_clean": "anyCreature by Gobkit：AI召唤怪兽助手",
+    "summary": "anyCreature是一款由Gobkit开发的AI工具，允许用户直接从AI助手界面召唤怪兽角色。这款产品展示了AI在角色扮演和游戏化场景中的应用，为元宝产品经理提供了AI助手增强互动性和趣味性的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cluing": {
+    "title_clean": "Hosted Agents in Cluing：协作代理构建与学习平台",
+    "summary": "Cluing推出托管代理功能，允许代理在单一平台中协作构建、学习和发布。这一产品可能为元宝在团队协作代理和知识共享方面提供参考，特别是在多代理协同工作流程的设计上。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentr": {
+    "title_clean": "AgentR 3.0：AI作弊时代的人才评估工具",
+    "summary": "AgentR 3.0是一款专为AI时代设计的人才评估工具，旨在应对AI作弊带来的招聘挑战。该工具通过创新评估方法，帮助企业在AI辅助应聘普遍存在的环境下，更准确地识别真实能力与潜力，为产品经理在AI人才筛选与评估方面提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/omnivibe": {
+    "title_clean": "OmniVibe：AI Agent创作者与用户市场",
+    "summary": "OmniVibe是一个面向AI Agent创作者和用户的市场平台，连接开发者与终端用户，促进AI Agent的流通与应用。这一模式为元宝产品经理提供了关于AI Agent生态建设和商业化路径的重要参考，展示了如何构建创作者经济和用户社区。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/expert-chase-deleted-1107920": {
+    "title_clean": "Expert Chase 2.0：AI生活助手工具",
+    "summary": "Expert Chase 2.0是一款AI生活助手工具，旨在通过人工智能技术帮助用户管理日常生活。该产品可能提供日程安排、任务提醒、生活建议等功能，帮助用户更高效地处理日常事务，体现了AI在生活服务场景中的应用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/astute-2": {
+    "title_clean": "Astute：B2B品牌自动化营销工具",
+    "summary": "Astute是一款帮助B2B品牌实现自动化病毒式营销的工具，通过与新媒体创作者合作来扩大品牌影响力。该产品为元宝产品经理提供了B2B领域AI营销自动化解决方案的参考价值，特别是在品牌传播和内容营销方面的创新应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/motif-technologies-ceo-on-business-strategy-ai-video": {
+    "title_clean": "Motif Technologies CEO：韩国AI初创企业商业战略与模型竞争",
+    "summary": "韩国AI初创企业Motif Technologies CEO Junghwan Lim阐述了公司商业战略，重点介绍其开发能够与全球前沿模型竞争的AI模型的进展。这对元宝产品经理了解非美国市场AI企业竞争策略和模型发展路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/pony-ai-ceo-peng-optimistic-on-growth-outlook-video": {
+    "title_clean": "Pony AI CEO：计划扩大中国Robotaxi车队规模",
+    "summary": "Pony AI CEO彭军表示，为满足日益增长的需求，公司计划在中国更多城市扩展Robotaxi车队规模。这反映了自动驾驶出租车服务在中国的扩张趋势，对元宝产品经理了解AI服务商业化落地和城市交通场景拓展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -64501,5 +64501,164 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-resiquant": {
+    "title_clean": "CEO访谈：ResiQuant",
+    "summary": "ResiQuant CEO Omar Issa接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家数据分析公司，ResiQuant阐述了其在市场中的定位策略，为AI产品经理提供企业级数据分析服务的市场洞察。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-paldo": {
+    "title_clean": "CEO Interview: Paldo",
+    "summary": "Paldo CEO Nicolai Øyen Langfeldt接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司战略。该访谈揭示了Paldo的市场定位和业务方向，对了解AI服务领域的新兴玩家和行业趋势有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-kouper-inc": {
+    "title_clean": "Kouper Inc. CEO访谈：市场定位与客户需求分析",
+    "summary": "Kouper Inc. CEO Salman Ali接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身在市场中的定位。这为AI产品经理提供了关于市场定位和客户需求洞察的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-qanapi": {
+    "title_clean": "Executive Interview: Qanapi",
+    "summary": "Qanapi产品营销副总裁Myrthe Doedens接受CB Insights采访，分享其市场定位、客户需求及公司战略。作为一家AI相关企业的高管访谈，提供了行业视角和产品策略参考，对元宝产品经理了解同类企业市场策略有价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-weecover": {
+    "title_clean": "Weecover CEO访谈：保险科技市场定位与客户需求",
+    "summary": "Weecover CEO Jordi Pages接受CB Insights采访，阐述公司对保险科技市场的理解、客户需求分析以及自身在行业中的定位。这为元宝产品经理了解保险科技领域的发展趋势和客户痛点提供了参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/private-capital-to-drive-ai-infrastructure-financing-video": {
+    "title_clean": "Private Capital to Drive AI Infrastructure Financing：私人资本推动AI基础设施融资",
+    "summary": "摩根大通私人银行另类投资策略主管Sitara Sundar探讨了AI基础设施融资的演变格局，强调私人市场在其中的重要作用。这反映了AI基础设施领域正获得更多私人资本关注，对元宝产品经理了解AI行业资金流向和基础设施发展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition": {
+    "title_clean": "SpaceX尝试收购AI编程初创公司Cognition",
+    "summary": "SpaceX曾接触AI编程初创公司Cognition AI Inc.商谈潜在收购事宜，这将是其继收购另一家公司后的第二次大型收购行动。该事件表明AI编程工具在航天科技领域的重要性和潜在商业价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini": {
+    "title_clean": "Google：为搜索和Gemini添加AI学习工具",
+    "summary": "Google为搜索和Gemini推出新的AI学习工具，旨在将Gemini打造为学生首选的AI学习助手，继续与OpenAI等公司竞争教育AI市场。这些工具可能包括学习辅助、知识问答等功能，对元宝在教育场景下的AI助手功能开发有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers": {
+    "title_clean": "TerraPower：核能供电AI数据中心解决方案",
+    "summary": "TerraPower的核电站相比竞争对手具有战略优势，特别是在争夺数据中心业务方面。该技术可为AI数据中心提供稳定、高效的能源供应，解决AI算力扩张带来的能源需求挑战，对元宝产品经理评估AI基础设施服务场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required": {
+    "title_clean": "Amazon：Fire TV设备免费提供AI增强版Alexa+助手",
+    "summary": "Amazon宣布在美国所有兼容Fire TV设备上免费提供AI增强版Alexa+助手，无论用户是否订阅Prime会员均可自动升级。这一举措表明亚马逊正在扩大AI助手在硬件设备上的覆盖范围，可能影响智能电视助手市场的竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/goldman-s-rosner-sees-many-factors-weighing-on-yields-video": {
+    "title_clean": "高盛分析师Rosner：AI债务并非推高美国国债收益率的唯一因素",
+    "summary": "高盛资产管理公司多部门固定收益投资主管Lindsay Rosner分析了AI债务对长期美国国债需求的影响，并表示她不认为AI债务是推高国债收益率的唯一因素，还有其他因素也在发挥作用。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/ex-ftx-alameda-executives-get-5-year-trading-bans-in-cftc-case": {
+    "title_clean": "FTX和Alameda前高管被处以5年交易禁令",
+    "summary": "FTX联合创始人Gary Wang和前Alameda Research首席执行官Caroline Ellison与美国商品期货交易委员会达成和解，避免财务处罚，但被处以5年交易禁令。此案涉及加密货币交易所FTX的崩盘事件，对金融科技和加密货币行业的合规管理有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/young-americans-become-more-hostile-to-ai-fearing-job-losses": {
+    "title_clean": "美国年轻人对AI态度转趋负面，担忧就业机会流失",
+    "summary": "皮尤研究显示，美国年轻劳动力对人工智能持越来越怀疑态度，担心技术进步会导致大规模失业。这一趋势对AI产品经理具有重要参考价值，提示在产品设计时需考虑用户对AI替代工作的担忧，并可能需要加强AI作为辅助工具而非替代者的定位。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
   }
 }

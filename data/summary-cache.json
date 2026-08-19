@@ -64233,5 +64233,126 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-08-19/google-pixel-11-series-review-familiar-design-compelling-software-updates": {
+    "title_clean": "Google Pixel 11系列评测：延续设计风格，带来实用软件与AI更新",
+    "summary": "Google Pixel 11系列手机延续了熟悉的设计语言，同时引入了实用的软件更新和AI增强功能。这些改进对AI助手产品经理有参考价值，特别是在移动端AI功能集成和用户体验优化方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-mindguard": {
+    "title_clean": "MindGuard：AI网络安全服务公司CEO访谈",
+    "summary": "MindGuard CEO Benjamin Bargetzi接受CB Insights采访，分享了公司对市场的看法、客户需求以及公司定位。作为AI网络安全服务提供商，其观点对元宝产品经理了解AI在安全领域的应用场景和商业价值有参考意义。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-telepaws": {
+    "title_clean": "TelePaws CEO访谈：宠物远程医疗服务市场定位",
+    "summary": "TelePaws CEO接受CB Insights采访，阐述其市场定位、客户需求及公司战略。该访谈揭示了宠物远程医疗服务的市场现状和商业机会，为AI在垂直领域应用提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/truecar-ceo-says-discounts-buoy-very-soft-auto-market-video": {
+    "title_clean": "TrueCar CEO：汽车市场疲软，折扣政策缓解关税影响",
+    "summary": "TrueCar CEO表示，当前汽车市场非常疲软，汽车制造商的折扣政策帮助消费者缓解了关税等政策冲击。这一信息对元宝产品经理了解汽车行业消费趋势和价格策略有参考价值，特别是在AI助手如何为用户提供购车决策支持方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/LiquidAI/qad": {
+    "title_clean": "LFM2.5 Q4_0 Checkpoints：量化感知蒸馏模型检查点",
+    "summary": "LFM2.5 Q4_0 Checkpoints是来自量化感知蒸馏技术的模型检查点，可能涉及模型压缩和优化技术，对AI产品经理了解模型效率提升和部署优化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/marvell-gives-google-right-to-buy-up-to-12-2-billion-in-shares": {
+    "title_clean": "Marvell与谷歌达成芯片开发合作，谷歌获120亿美元股票购买权",
+    "summary": "Marvell Technology与Alphabet宣布扩大芯片开发合作，Marvell授予谷歌价值高达12.2亿美元的股票购买权。这一合作反映了AI硬件领域的重要商业动向，对元宝产品经理了解AI基础设施投资方向和科技巨头战略布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/china-criticizes-eu-over-extraterritorial-reach-in-jd-com-probe": {
+    "title_clean": "中国批评欧盟对京东收购案的域外管辖",
+    "summary": "中国批评欧盟依据《外国补贴条例》对京东22亿欧元收购德国电子零售商Ceconomy案进行调查，称其域外管辖不当。此事件反映国际商业监管冲突，对跨境电商和全球化业务布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/ai-pioneer-fei-fei-li-warns-of-risks-from-growing-tech-backlash": {
+    "title_clean": "李飞飞警告美国科技反弹威胁全球AI进步",
+    "summary": "AI先驱李飞飞表示，科技工作者需要更好地传达人工智能的益处，并警告美国日益增长的反科技情绪可能阻碍全球AI发展。这对产品经理了解AI政策环境变化和公众态度对产品推广的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/amazon-s-new-order-confirmation-emails-seen-boosting-phishing-risk": {
+    "title_clean": "Amazon 新订单确认邮件增加钓鱼风险",
+    "summary": "Amazon 新的订单确认邮件系统出现错误，将便携式照片打印机误显示为\"行李\"信息，增加了钓鱼邮件风险。这一错误可能导致用户混淆真实订单与钓鱼邮件，影响用户对平台邮件的信任度，对电商平台的邮件安全设计有警示意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena": {
+    "title_clean": "印度初创公司挑战OpenAI与ElevenLabs，推出高质量AI语音模型",
+    "summary": "印度班加罗尔一家初创公司推出AI语音模型，在人类声音相似度测试中得分超过OpenAI和ElevenLabs的系统，进入竞争激烈的AI语音市场，为元宝产品经理提供语音AI领域的新竞争者参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

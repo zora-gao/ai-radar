@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-19T14:26:35.593Z",
+  "generated_at": "2026-08-19T16:23:28.218Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "~z-ai/glm-latest",
+      "name": "GLM Latest",
+      "vendor": "Zhipu AI",
+      "vendor_slug": "z-ai",
+      "url": "https://openrouter.ai/~z-ai/glm-latest",
+      "created_at": "2026-08-19T14:50:53Z",
+      "context_length": 1048576,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.4,
+      "price_out": 4.4,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "This model always redirects to the latest GLM model from Z.ai.",
+      "description_zh": "该模型始终重定向到 Z.ai 的最新 GLM 模型。"
+    },
     {
       "id": "z-ai/glm-5.3",
       "name": "GLM 5.3",
@@ -249,29 +272,6 @@
       "supports_reasoning": true,
       "description": "Grok 4.6 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM.",
       "description_zh": "Grok 4.6 是 SpaceXAI 最智能的模型，在编码、知识工作和 STEM 方面具有前沿性能。"
-    },
-    {
-      "id": "liquid/lfm-2.5-2.6b:free",
-      "name": "LFM2.5-2.6B (free)",
-      "vendor": "Liquid",
-      "vendor_slug": "liquid",
-      "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b-20260811",
-      "created_at": "2026-08-11T17:48:39Z",
-      "context_length": 128000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "LFM2.5-2.6B is a compact reasoning model from Liquid AI. It is suited for agent workflows, data extraction, RAG, and long-context processing. Liquid advises against using it for agentic coding or...",
-      "description_zh": "LFM2.5-2.6B 是 Liquid AI 的紧凑推理模型。它适用于代理工作流程、数据提取、RAG 和长上下文处理。 Liquid 建议不要将其用于代理编码或......"
     },
     {
       "id": "nvidia/nemotron-3.5-lightning",

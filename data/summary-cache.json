@@ -63637,5 +63637,66 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/chip-selloff-extends-to-asia-as-samsung-sk-hynix-slump-video": {
+    "title_clean": "全球芯片股抛售蔓延至亚洲，三星、SK海力士股价暴跌",
+    "summary": "全球芯片股抛售加剧，投资者从今年最热门交易中撤离。三星和SK海力士在首尔股市下跌超过7%，此前美国芯片制造商已出现亏损。这一市场动向可能影响AI硬件供应链成本和投资策略，对元宝产品经理评估AI基础设施成本波动有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/rebellions-cfo-preparing-for-ipo-in-korea-video": {
+    "title_clean": "Rebellions CFO：韩国AI芯片公司筹备IPO",
+    "summary": "韩国AI芯片初创公司Rebellions首席财务官Sungkyue Shin表示，公司正在积极筹备IPO，优先考虑在韩国主要证券交易所上市。这对元宝产品经理了解AI硬件领域的商业化进程和资本市场动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/the-china-show-8-19-2026-video": {
+    "title_clean": "宇树科技：中国机器人公司完成90.4亿美元上海IPO",
+    "summary": "宇树科技(Unitree)在上海证券交易所完成90.4亿美元首次公开募股，股价大幅上涨。作为中国领先的机器人公司，此次IPO反映了资本市场对机器人技术领域的持续关注，对AI硬件和机器人产品经理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/bain-unit-proterial-seeks-1-3-billion-from-japan-wire-firm-sale": {
+    "title_clean": "贝恩资本旗下Proterial寻求13亿美元出售日本电线业务",
+    "summary": "贝恩资本子公司Proterial正考虑出售其电线、电缆和汽车零部件业务，寻求13亿美元估值。这一交易动向可能影响相关零部件供应链格局，对关注汽车零部件AI应用或供应链优化的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/chatgpt-ads-expands-across-europe": {
+    "title_clean": "ChatGPT Ads：欧洲广告服务扩展至31国市场",
+    "summary": "ChatGPT Ads已扩展至欧洲31个市场，允许广告主在用户探索、比较选项和做决策的过程中触达他们。这标志着ChatGPT商业化进程加速，为元宝产品经理提供了AI助手广告变现模式的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

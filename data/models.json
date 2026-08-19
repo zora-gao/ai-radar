@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T16:23:28.218Z",
+  "generated_at": "2026-08-19T18:24:11.220Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -272,6 +272,29 @@
       "supports_reasoning": true,
       "description": "Grok 4.6 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM.",
       "description_zh": "Grok 4.6 是 SpaceXAI 最智能的模型，在编码、知识工作和 STEM 方面具有前沿性能。"
+    },
+    {
+      "id": "liquid/lfm-2.5-2.6b:free",
+      "name": "LFM2.5-2.6B (free)",
+      "vendor": "Liquid",
+      "vendor_slug": "liquid",
+      "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b-20260811",
+      "created_at": "2026-08-11T17:48:39Z",
+      "context_length": 128000,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "LFM2.5-2.6B is a compact reasoning model from Liquid AI. It is suited for agent workflows, data extraction, RAG, and long-context processing. Liquid advises against using it for agentic coding or...",
+      "description_zh": "LFM2.5-2.6B 是 Liquid AI 的紧凑推理模型。它适用于代理工作流程、数据提取、RAG 和长上下文处理。 Liquid 建议不要将其用于代理编码或......"
     },
     {
       "id": "nvidia/nemotron-3.5-lightning",
@@ -1454,31 +1477,6 @@
       "supports_reasoning": true,
       "description": "Laguna XS 2.1 is the latest coding agent model in the 33B-A3B category from Poolside and a step forward from their Laguna XS.2 model (released in April 2026). It combines...",
       "description_zh": "Laguna XS 2.1 是 Poolside 33B-A3B 类别中的最新编码代理模型，比 Laguna XS.2 模型（于 2026 年 4 月发布）向前迈出了一步。它结合了..."
-    },
-    {
-      "id": "anthropic/claude-sonnet-5",
-      "name": "Claude Sonnet 5",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-sonnet-5-20260630",
-      "created_at": "2026-06-30T18:11:23Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Sonnet 5 is Anthropic's most capable Sonnet-class model, with frontier performance across coding, agents, and professional work. It supports adaptive thinking with selectable reasoning effort levels (low, medium, high, max,...",
-      "description_zh": "Sonnet 5 是 Anthropic 最强大的 Sonnet 级模型，在编码、代理和专业工作方面具有前沿性能。它支持适应性思维，具有可选择的推理努力级别（低、中、高、最大……"
     }
   ]
 }

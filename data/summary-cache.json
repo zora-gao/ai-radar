@@ -64119,5 +64119,119 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/sk-hynix-announces-29-billion-share-buyback-plan-video": {
+    "title_clean": "SK海力士宣布290亿美元股票回购计划",
+    "summary": "SK海力士宣布近300亿美元股票回购计划，旨在稳定股价。这一大规模回购反映了公司对业务前景的信心，可能影响半导体行业投资格局和AI硬件供应链稳定性，对元宝产品经理评估AI基础设施供应商稳定性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus": {
+    "title_clean": "Calendly：会议笔记助手Callie",
+    "summary": "Calendly推出会议笔记助手Callie，正式进入会议记录市场。这一产品扩展了Calendly的会议管理功能，为用户提供从会议安排到记录的一站式解决方案，对元宝产品经理了解AI助手在会议场景的应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take": {
+    "title_clean": "AI抗癌：数据是关键突破点",
+    "summary": "一家初创公司指出，AI距离治愈癌症仍有差距，关键在于数据质量和整合能力。这一观点对元宝产品经理有参考价值，提示在AI医疗应用中，数据策略可能比算法本身更为重要。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla": {
+    "title_clean": "2026年独角兽企业投资方分析：AI与机器人领域获重点关注",
+    "summary": "截至8月15日，2026年已有250家公司跻身独角兽行列，较2025年的193家显著增长。AI实验室、机器人、医疗生物科技和金融服务是主要投资领域，反映了资本对AI相关企业的持续关注，为元宝产品经理提供了AI行业投资趋势和潜在合作方向的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/what-s-next-after-chatgpt-this-ai-pioneer-has-a-plan-video": {
+    "title_clean": "李飞飞谈ChatGPT之后：AI的未来超越聊天机器人",
+    "summary": "AI先驱李飞飞与Emily Chang对话，分享她在AI领域的创新、10亿美元创业公司World Labs的进展，以及她认为AI未来将超越聊天机器人的观点，为元宝产品经理提供AI发展方向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers": {
+    "title_clean": "Relativity Networks：数据中心高速光纤技术公司",
+    "summary": "Relativity Networks融资2200万美元，开发空心光纤技术，可传输速度比传统光纤快30%。这项技术可能影响AI数据中心基础设施，对元宝产品经理评估AI服务底层架构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-19/ai-data-center-political-opposition-to-bring-stock-market-winners-and-losers": {
+    "title_clean": "数据中心政治阻力将影响股市表现",
+    "summary": "数据中心建设面临政治阻力，将成为股市表现拖累因素。该资讯揭示了AI基础设施发展中的政治风险，对元宝产品经理评估AI服务部署环境与成本有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/replit": {
+    "title_clean": "Replit：基于GPT-5.6 Luna的免费编程工具",
+    "summary": "Replit推出免费模式，使用GPT-5.6 Luna技术，让用户无需担心token成本即可将想法转化为可运行的软件，降低了AI编程工具的使用门槛。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/human-like-behaviors-llms": {
+    "title_clean": "LLM人类行为分析：模型行为、用户因素与系统提示的多维度研究",
+    "summary": "该研究对大型语言模型展现的类人行为进行了多维度分析，包括模型表达思想情感、与用户建立关系、拒绝请求等行为模式，探讨了用户因素和系统提示对模型行为的影响，为AI助手产品设计提供了重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

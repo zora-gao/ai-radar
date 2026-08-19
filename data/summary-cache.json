@@ -63287,5 +63287,176 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia": {
+    "title_clean": "Cerebras：新型AI计算机宣称速度超越Nvidia",
+    "summary": "Cerebras推出搭载自研芯片的新型AI计算机，声称其性能将显著超越Nvidia设备，进一步扩大在AI计算速度方面的领先优势。这对元宝产品经理了解AI硬件竞争格局和算力发展趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo": {
+    "title_clean": "Unitree Robotics：人形机器人公司完成90.4亿元上海IPO",
+    "summary": "Unitree Robotics完成90.4亿元(6.1亿人民币)上海IPO，将成为首家上市的人形机器人公司。这一事件标志着人形机器人领域的重要资本里程碑，对AI硬件和机器人服务场景开发具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051046&idx=1&sn=0e525a6c5d7f9689d3e52c8b683ef321": {
+    "title_clean": "15家学术机构联合发布HarnessEval：AI模型评估基准工具",
+    "summary": "15家学术机构联合发布HarnessEval，这是一个新的AI模型评估基准工具，旨在为AI模型性能提供标准化的评估方法。这一基准的发布对AI产品经理评估和比较不同模型性能具有重要参考价值，可能影响产品选型和优化方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651050931&idx=2&sn=d58d3cb627d6e357eba791b140cd54d7": {
+    "title_clean": "PhiZero：世界模型物理语言学习工具",
+    "summary": "PhiZero技术突破，使AI世界模型能够理解和处理物理语言，超越传统自然语言处理范畴。这一进展对元宝产品经理具有重要参考价值，可能启发AI助手在物理世界理解和交互方面的能力提升，拓展服务场景边界。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform": {
+    "title_clean": "Cursor：AI代码编辑器推出代码托管平台",
+    "summary": "Cursor作为AI代码编辑器开发商，推出新的代码托管平台，旨在挑战开发者长期使用的GitHub。这一举措反映了开发者对现有平台的不满，也为AI工具在代码托管领域提供了新的竞争机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/ceo-of-cuban-backed-fort-robotics-on-500m-spac-deal-video": {
+    "title_clean": "Fort Robotics：古巴支持的机器人公司完成5亿美元SPAC上市",
+    "summary": "费城机器人初创公司Fort Robotics获得马克·古巴投资，计划通过SPAC交易以5亿美元估值上市，预计在纳斯达克以FROB代码交易。这反映了机器人领域融资趋势，对AI服务场景中的实体机器人商业化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/we-have-a-lot-of-runway-for-growth-securitize-ceo-video": {
+    "title_clean": "Securitize CEO：公司拥有大量增长空间",
+    "summary": "Securitize CEO在Bloomberg Crypto节目中宣布推出Neuberger Securitize高收入代币化基金，表示公司拥有大量增长空间。这对元宝产品经理参考代币化金融产品的发展方向和AI在金融领域的应用场景有价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/leaning-into-ai-helps-vc-founders-david-hall-says-video": {
+    "title_clean": "Revolution's Hall：AI助力少数族裔创业者竞争",
+    "summary": "Revolution管理合伙人David Hall在Bloomberg New Voices活动中表示，人工智能正帮助少数族裔企业家增强竞争力。这一观点对元宝产品经理有参考价值，表明AI工具在缩小创业资源差距方面的潜力，以及服务多元化用户群体的市场机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/shooting-to-be-ipo-ready-by-2027-falconx-ceo-video": {
+    "title_clean": "FalconX CEO：计划2027年前完成IPO准备",
+    "summary": "加密货币交易平台FalconX的CEO Raghu Yarlagadda在彭博社的采访中透露，公司计划在2027年前完成IPO准备工作。这反映了加密货币交易领域头部企业的商业化进程和资本市场预期，对元宝产品经理了解AI服务平台的商业化路径和上市规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/expect-volatility-in-results-securitize-ceo-video": {
+    "title_clean": "Securitize CEO：代币化基金结果可能波动",
+    "summary": "Securitize CEO Carlos Domingo在Bloomberg Crypto节目中讨论了公司与Neuberger合作推出的高收入代币化基金，并警告投资者该基金结果可能存在波动。这对元宝产品经理了解代币化金融产品的市场接受度和风险提示方式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/pennsylvania-governor-shapiro-puts-guardrails-on-data-centers": {
+    "title_clean": "宾夕法尼亚州限制新建数据中心",
+    "summary": "宾夕法尼亚州州长Josh Shapiro下令对州内数据中心实施严格监管，成为最新一个对由AI发展推动的企业投资激增表示担忧的州。这一政策动向可能影响AI基础设施布局和成本结构，对元宝等AI产品的算力规划和成本控制具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/semismooth-newton-optimal-transport": {
+    "title_clean": "A Specialized Semismooth Newton Method for Kernel-Based Optimal Transport：基于核的最优传输半光滑牛顿方法",
+    "summary": "该研究提出了一种针对基于核的最优传输(OT)估计器的半光滑牛顿方法，作为解决样本OT问题的替代函数估计程序。研究表明这类估计器在统计性能上具有优势，为AI优化算法提供了新的技术路径，对产品经理了解AI底层算法优化方向有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-revenue-boom-builds-ahead-of-ipo-video": {
+    "title_clean": "Anthropic年收入预计将超650亿美元，IPO在即",
+    "summary": "Anthropic当前业绩表现强劲，预计年化收入将超过650亿美元，较去年底增长超过七倍。这一强劲增长为即将到来的IPO奠定了基础，反映了AI助手市场的商业潜力巨大，对元宝产品经理评估AI助手商业化路径和估值具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/nvidia/chatgpt-work": {
+    "title_clean": "NVIDIA：利用ChatGPT Work扩展专业知识",
+    "summary": "NVIDIA团队使用ChatGPT Work减少手动任务，快速连接信息流，并在全球范围内扩展成功的工作流程。这展示了企业级AI助手如何提升内部效率，对元宝产品经理在AI助手企业应用场景设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

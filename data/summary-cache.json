@@ -65663,5 +65663,106 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/google-s-waymo-has-built-a-custom-chip-for-its-robotaxis": {
+    "title_clean": "Waymo：为自动驾驶出租车定制芯片",
+    "summary": "Alphabet旗下Waymo公司开发了一款定制芯片，旨在提升其自动驾驶出租车的性能，同时减少对Nvidia等第三方芯片供应商的依赖。这一举措反映了自动驾驶领域对专用硬件的需求增长，对AI硬件与自动驾驶结合的产品经理具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities": {
+    "title_clean": "Amazon Prime Air：无人机配送服务扩展至500个美国城市",
+    "summary": "Amazon计划到2026年底将Prime Air无人机配送服务扩展至美国近500个城市和城镇，覆盖范围将是当前服务地点的六倍。这一扩张展示了物流自动化技术的实际应用，对AI助手在物流场景中的集成具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/senators-demand-answers-from-tiktok-about-depraved-safety-experiment": {
+    "title_clean": "美国参议员要求TikTok就'恶劣'安全实验作出解释",
+    "summary": "两名美国参议员致信TikTok高管，要求该公司就一项安全功能实验作出解释。该实验对数百万用户（包括一名自杀身亡的青少年）禁用了安全功能，引发严重安全担忧。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/hudson-river-signs-multibillion-dollar-coreweave-crwv-deal-for-ai-cloud": {
+    "title_clean": "Hudson River Trading与CoreWeave签署数十亿美元AI云计算协议",
+    "summary": "Hudson River Trading与CoreWeave签署多年合作协议，利用CoreWeave的人工智能计算服务支持其新的交易研究和模型开发。这反映了专业交易领域对AI算力需求的快速增长，为元宝在金融垂直领域的AI应用提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification": {
+    "title_clean": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+    "summary": "阿联酋自2017年起积极采用AI技术，已实施国家AI战略并设立相关部长职位。本文探讨政府AI代理系统面临的关键挑战：界定机器决策权限，这对AI助手在公共服务场景中的应用边界具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing": {
+    "title_clean": "Stripe收购OpenRouter：AI模型路由平台整合支付与模型选择",
+    "summary": "Stripe已同意收购OpenRouter，这是一家提供单一接口访问数百个AI模型的模型路由平台。此次收购将模型选择和路由功能整合到Stripe的支付服务中，为开发者提供更全面的AI模型接入方案，对AI服务商业化与生态整合具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector": {
+    "title_clean": "HoneyBook：通过Claude连接器为小企业提供代理AI服务",
+    "summary": "HoneyBook推出Claude连接器，将企业级自主AI代理能力引入小企业运营场景，帮助独立业务实现流程自动化，这对元宝产品经理了解AI服务向中小市场下沉的路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-problems-video": {
+    "title_clean": "Nick Bostrom探讨AI解决所有问题后的影响",
+    "summary": "哲学家Nick Bostrom探讨AI解决所有问题后的潜在影响，作为早期AI存在风险研究者，他在2014年著作《超级智能》中深入分析了相关场景，对元宝产品经理理解AI发展的长期影响和风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

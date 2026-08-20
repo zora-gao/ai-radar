@@ -65515,5 +65515,153 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/prized": {
+    "title_clean": "Prized：非工程师内部工具构建平台",
+    "summary": "Prized是一个让非技术人员能够构建安全内部工具的平台，降低了企业内部工具开发的门槛，使业务人员也能自主创建所需工具，这对元宝产品经理思考如何降低AI工具使用门槛有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-20/glp-1s-may-spur-next-wave-in-youth-social-media-harm-claims": {
+    "title_clean": "GLP-1药物可能引发青少年社交媒体伤害索赔新潮",
+    "summary": "减肥药物相关内容在社交媒体平台泛滥，影响青少年对健康的认知，可能引发新一轮针对社交媒体平台的伤害索赔。这对产品经理了解AI内容监管、青少年健康保护及社交媒体责任边界有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/peach-co-pilot": {
+    "title_clean": "Peach Co-Pilot：WhatsApp专业助手工具",
+    "summary": "Peach Co-Pilot是一款面向忙碌专业人士的WhatsApp辅助工具，旨在提高工作效率。作为WhatsApp的副驾驶助手，它可能提供消息管理、自动化回复或日程安排等功能，帮助用户更好地处理工作沟通。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/meta-has-quietly-become-one-of-microsoft-s-largest-ai-customers": {
+    "title_clean": "Meta成为微软最大AI客户之一",
+    "summary": "Meta已成为微软最大的AI客户之一，表明新兴AI技术需求仍集中在科技行业。这一合作反映了大型科技公司间AI基础设施的相互依赖关系，对元宝产品经理了解AI服务市场格局和企业级AI应用趋势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/garmin-cirqa-smart-band-review-how-200-fitness-tracker-compares-to-whoop": {
+    "title_clean": "Garmin Cirqa Smart Band：高端健身追踪器评测",
+    "summary": "Garmin推出售价200美元的Cirqa智能手环，外观类似Whoop追踪器，但健康数据分析能力不及竞品。此资讯对元宝产品经理了解可穿戴设备市场定位和竞品差异化策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/muon-space-raises-250-million-with-google-salesforce-backing": {
+    "title_clean": "Muon Space：卫星数据AI分析平台获2.5亿美元融资",
+    "summary": "卫星创业公司Muon Space完成2.5亿美元融资，由谷歌和Salesforce Ventures投资。该公司已发射11颗卫星并开放市场，专注于将卫星数据转化为AI分析服务，为元宝产品经理提供AI在垂直领域商业化应用的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom": {
+    "title_clean": "阿里巴巴利润下降75%：加大AI投入应对消费放缓",
+    "summary": "阿里巴巴集团利润暴跌75%，原因是作为中国电商领导者加大了AI投入，同时应对中国整体消费放缓的挑战。这一数据反映了AI投资对企业短期盈利的影响，以及科技巨头在AI转型与盈利平衡上的战略考量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations": {
+    "title_clean": "ChatGPT广告相关性研究：三分之一广告出现在无关对话中",
+    "summary": "Searchable平台分析发现，ChatGPT中约三分之一的广告出现在与用户查询无关的对话中，这表明OpenAI的AI广告定位系统尚未完全实现其承诺的精准投放能力，对元宝广告策略和用户体验优化有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/sk-hynix-reaches-tentative-deal-with-union-on-wages-yonhap-says": {
+    "title_clean": "SK海力士与工会达成工资协议：薪资上调6.3%",
+    "summary": "SK海力士与工会达成临时工资和集体谈判协议，包括6.3%的薪资上调以及员工绩效奖金分配方式的重大调整。这一协议可能影响半导体行业人力成本结构，对AI硬件供应链成本管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/unitree-founder-sees-robots-reaching-mass-market-within-decade": {
+    "title_clean": "Unitree：人形机器人十年内将达大众市场",
+    "summary": "中国宇树机器人创始人表示，制造商解决当前实用性问题后，人形机器人将在十年内达到大众市场普及水平。这对AI助手产品经理了解机器人技术发展路径和商业化时间表有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper": {
+    "title_clean": "AI Startup Callosum Raises $100 Million to Make AI Tasks Cheaper",
+    "summary": "Callosum开发软件将特定AI任务与不同模型和芯片匹配，以降低AI任务成本，已获1亿美元早期融资，投资方包括英国公共机构。这对元宝产品经理有参考价值，特别是在AI资源优化和成本控制方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/labubu-maker-set-for-drastic-growth-slowdown-as-bears-gather": {
+    "title_clean": "泡泡玛特：Labubu玩具需求降温致销售增长放缓",
+    "summary": "泡泡玛特国际集团公布上半年销售增速大幅放缓，去年爆火的Labubu玩具需求降温。这对产品经理了解IP潮玩市场周期性波动、用户需求变化及爆款产品生命周期管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -65887,5 +65887,180 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/mayfield-bets-on-ai-s-earliest-founders-video": {
+    "title_clean": "Mayfield Bets on AI's Earliest Founders",
+    "summary": "Mayfield基金已向AI领域投资超30亿美元，其中大部分投向尚未开发产品或成立公司的早期创始人。合伙人Navin Chaddha分享其投资策略，强调对AI领域早期创始人的支持与判断。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule": {
+    "title_clean": "Linkdaze：智能家庭日程管理工具",
+    "summary": "Linkdaze推出智能数字日历，核心特色是免费提供所有功能，包括AI饮食规划工具。该产品专为家庭日常管理设计，不仅跟踪日程，还提供生活服务功能，对AI助手产品在家庭场景应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it": {
+    "title_clean": "Anthropic：AI公司拟匹配或超越SpaceX的IPO规模",
+    "summary": "Anthropic计划进行IPO，规模可能匹配或超越SpaceX创纪录的上市规模。这反映了AI领域的资本热度与商业化进程加速，对元宝产品经理评估AI公司估值模型与商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai": {
+    "title_clean": "Anthropic计划改变高级AI数据保留政策",
+    "summary": "Anthropic计划允许企业客户在使用其最先进的人工智能模型时对数据保留拥有更大控制权，这与之前的数据保留政策形成鲜明对比。这一变化可能影响企业客户对AI服务的信任度和采用意愿，对产品经理评估数据隐私策略和商业模型有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds": {
+    "title_clean": "研究发现ChatGPT发布后三分之一网页显示AI生成迹象",
+    "summary": "研究表明自ChatGPT发布以来，约三分之一的网络新内容显示AI生成或编辑痕迹，反映AI已深度参与网络内容创作。这对产品经理了解AI内容生成规模、质量影响及内容审核需求有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-tangible": {
+    "title_clean": "Tangible：AI产品市场定位访谈",
+    "summary": "Tible公司CEO威廉·戈弗雷接受CB Insights访谈，分享了公司对市场的看法、客户需求分析以及自身在市场中的定位。这对元宝产品经理了解AI创业公司的市场策略和产品定位有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-promedius": {
+    "title_clean": "Executive Interview: PROMEDIUS",
+    "summary": "PROMEDIUS高管Journey Jin接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。作为企业服务领域的高管访谈，提供了行业视角和商业策略参考，对元宝产品经理了解企业级AI服务市场定位有价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-amlyze": {
+    "title_clean": "Executive Interview: AMLYZE",
+    "summary": "AMLYZE市场总监Paulius Čiulada接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及AMLYZE在行业中的位置。这对了解企业级AI解决方案的市场策略和客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router": {
+    "title_clean": "Ramp：AI模型路由服务",
+    "summary": "Ramp推出名为Router的AI模型路由服务，通过API让用户和企业能够使用和切换各种大型语言模型。这为企业提供了灵活的AI模型选择方案，对元宝产品经理在多模型集成和API服务设计方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-moniepoint-inc": {
+    "title_clean": "Executive Interview : Moniepoint Inc 市场战略与客户需求访谈",
+    "summary": "Moniepoint Inc PR负责人Bemigho Awala接受CB Insights采访，分享公司市场定位、客户需求理解及战略规划。作为金融科技企业高管访谈，对理解B端服务市场策略与客户需求有参考价值，但与AI chatbot/Agent/服务场景无直接关联。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/opinion-apple-s-airpods-should-avoid-meta-s-mistakes-video": {
+    "title_clean": "苹果AirPods应避免Meta的错误：AI增强耳机与智能眼镜战略分析",
+    "summary": "彭博社专栏作家Dave Lee分析了苹果AI增强版AirPods和智能眼镜的计划，指出苹果应从Meta的错误中吸取教训，避免在AI硬件领域重蹈覆辙。这对元宝产品经理了解科技巨头AI硬件战略与风险规避有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-personr": {
+    "title_clean": "Personr：AI个性化服务市场定位访谈",
+    "summary": "Personr CEO接受CB Insights访谈，分享其市场定位、客户需求理解及公司战略。内容涉及如何定义市场及企业定位，对了解AI服务市场策略和竞争格局有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain": {
+    "title_clean": "从人文到AI：Ali Hussain如何将金融科技Tabs打造成4亿美元创业公司",
+    "summary": "本文讲述了非技术背景创始人Ali Hussain如何从人文博士转向，创立AI金融科技企业Tabs并获得4亿美元融资的故事，展示了跨领域创业者在AI金融领域的成功案例，对元宝产品经理了解AI创业路径和金融科技应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/samsung-sk-hynix-prepare-record-shareholder-returns-video": {
+    "title_clean": "三星、SK海力士准备创纪录股东回报",
+    "summary": "三星和SK海力士正准备创纪录的股东回报，此前投资者因对AI硬件支出可持续性的担忧导致其股价下跌。这反映了AI硬件市场可能面临调整，对元宝产品经理了解AI基础设施投资趋势和硬件供应商策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

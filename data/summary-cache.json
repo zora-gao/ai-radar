@@ -65125,5 +65125,81 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/leadshine-s-zheng-on-china-s-robotics-supply-chain-video": {
+    "title_clean": "LeadShine's Zheng on China's Robotics Supply Chain",
+    "summary": "LeadShine Technology战略投资总监郑南表示，中国已将人形机器人的开发周期从数年缩短至数月。这一信息对AI机器人产品经理具有重要参考价值，反映了中国在机器人供应链领域的快速进步，可能影响AI助手和AI Agent的硬件发展路径。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/china-s-xynova-on-developing-human-like-robot-hands-video": {
+    "title_clean": "Xynova：中国仿生机器人手研发企业",
+    "summary": "杭州机器人手制造企业Xynova创始人兼CEO Alex Xia在Bloomberg节目中讨论了仿生机器人手的创新与行业瓶颈，并分享了融资计划。该信息对了解中国AI硬件领域发展及机器人手技术进展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/graphics/2026-us-china-ai-race": {
+    "title_clean": "中美AI竞赛：ChatGPT、Gemini、Deepseek、Kimi Agent对比分析",
+    "summary": "最新发布显示中国AI正缩小与硅谷差距，通过更低价格赢得市场份额。文章对比了中美主流AI Agent产品，分析竞争态势和市场策略，对元宝产品经理了解竞品动态和定价策略有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-pillarlab-ai": {
+    "title_clean": "PillarLab.ai CEO访谈：AI市场定位与客户需求分析",
+    "summary": "PillarLab.ai CEO Ilya Kravtsov接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在AI领域的定位。访谈探讨了如何定义市场空间及企业战略定位，对AI产品经理了解行业趋势和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051074&idx=1&sn=9b7261687606590aab504fecb4e4f6cf": {
+    "title_clean": "OpenAI停止强化学习训练两周",
+    "summary": "OpenAI突然暂停强化学习训练两周，可能影响模型迭代进度。这一突发情况或与内部技术调整、资源分配或战略方向变更有关，对AI产品经理需关注其对行业技术路线和产品发布节奏的潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/car-seller-copart-is-among-suitors-for-software-firm-ccc-video": {
+    "title_clean": "Copart收购汽车保险软件公司CCC的交易谈判",
+    "summary": "汽车拍卖平台Copart正与汽车保险软件提供商CCC Intelligent Solutions Holdings Inc.进行收购谈判。这反映了汽车行业软件服务整合趋势，对元宝在垂直领域AI服务场景拓展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

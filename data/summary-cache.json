@@ -64909,5 +64909,165 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak": {
+    "title_clean": "Apple的带摄像头AirPods：AI增强耳机产品",
+    "summary": "Apple计划在2027年推出带摄像头的AirPods，尽管有内部泄露信息显示产品可能提前发布。这表明苹果正在探索AI耳机的新形态，可能结合视觉识别与音频处理，为产品经理提供AI硬件与多模态交互的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity": {
+    "title_clean": "Stripe收购OpenRouter：AI模型路由服务的真实目的",
+    "summary": "支付巨头Stripe收购AI模型路由服务OpenRouter，表面宣称是为了'奇点'，实则另有更深层次的商业考量。这一收购反映了大型科技公司对AI基础设施服务的战略布局，对元宝产品经理理解AI服务商业化路径和巨头竞争策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup": {
+    "title_clean": "Cognition否认SpaceX收购AI编程初创公司传闻",
+    "summary": "据报道，SpaceX曾与AI编程初创公司Cognition进行收购谈判，但CognitionCEO否认了这一消息。SpaceX已收购Cursor，正积极追赶OpenAI和Anthropic等竞争对手在企业AI领域的发展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/pgim-s-greg-peters-on-bessent-s-debt-buyback-boost-video": {
+    "title_clean": "PGIM高管：美国财政部提高长期国债回购上限",
+    "summary": "PGIM固定收益联席首席投资官Greg Peters讨论了美国财政部近期将10年至30年期国债回购上限提高一倍的决定。这一政策调整可能影响债券市场流动性和投资策略，对资产管理机构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-quantum-bridge": {
+    "title_clean": "Executive Interview: Quantum Bridge",
+    "summary": "Quantum Bridge首席运营官Heling Pu接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。作为AI领域企业高管访谈，提供了行业视角和商业策略参考，对元宝产品经理了解行业趋势和竞争格局有价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/gravis-robotics-ceo-on-softbank-backing-construction-video": {
+    "title_clean": "Gravis Robotics：建筑机械自动化改造技术获软银投资",
+    "summary": "软银向建筑技术初创公司Gravis Robotics投资2亿美元，该公司专注于为现有挖掘机和重型机械改装自动化和半自动化系统。这笔投资反映了AI在建筑自动化领域的应用趋势，对元宝产品经理了解AI技术在垂直行业的商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/thoma-bravo-keeps-up-intense-pace-of-dealmaking-video": {
+    "title_clean": "Thoma Bravo：私募股权公司加速AI领域并购",
+    "summary": "Thoma Bravo作为知名私募股权公司，在六周内完成了三笔交易，显示出其在AI领域的积极投资策略。这一动向对元宝产品经理有参考价值，可能预示着AI行业资本流向和潜在并购机会，尤其是对AI助手和Agent相关企业的关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-verc": {
+    "title_clean": "CEO Interview: Verc",
+    "summary": "Verc CEO Thalita Berpan接受CB Insights采访，分享公司对市场的看法、客户需求定位以及公司在行业中的战略定位。作为一家专注于Web开发平台的公司，其CEO的观点对理解企业级服务市场趋势和客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-sleep-ai": {
+    "title_clean": "Sleep.ai：AI睡眠解决方案CEO访谈",
+    "summary": "Sleep.ai CEO Colin Lawlor接受CB Insights访谈，分享公司对市场定位、客户需求的理解，以及如何定义市场空间。作为AI睡眠解决方案提供商，其观点对元宝拓展健康服务场景具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
+    "title_clean": "OpenAI：前沿模型零数据保留政策",
+    "summary": "OpenAI重申符合条件的API客户可享受零数据保留服务，并预览了私有安全处理功能，可在不妥协数据隐私的前提下提升AI安全性。这对注重数据隐私的企业客户和AI服务提供商具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-19/t-mobile-cyber-staff-chopped-cable-after-finding-chinese-hack": {
+    "title_clean": "T-Mobile：因发现中国黑客切断内部网络",
+    "summary": "T-Mobile在发现中国黑客组织Salt Typhoon入侵后，主动切断内部网络以防止数据泄露。这一事件反映了电信行业面临的网络安全挑战，对AI助手产品在数据安全与隐私保护方面有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools": {
+    "title_clean": "Google Search：学习工具升级指南",
+    "summary": "Google Search 推出5种新功能，帮助学生和备考者更高效地学习与复习，包括针对课堂学习和标准化考试的专用工具，为元宝在教育场景下的AI搜索功能提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers": {
+    "title_clean": "OpenAI：为付费客户提供更高级AI安全流程",
+    "summary": "OpenAI宣布将为付费用户提供更高级的安全流程，特别是针对使用其最先进AI模型的客户，加强安全保障措施，以应对客户对AI系统日益增长的信任需求。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

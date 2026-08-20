@@ -66062,5 +66062,143 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-20/openai-meta-seek-help-to-combat-data-center-pr-problem": {
+    "title_clean": "OpenAI与Meta寻求帮助应对数据中心公关问题",
+    "summary": "科技巨头正努力平息对其AI计划的日益增长反对声音，寻求外部帮助解决数据中心扩张面临的公关挑战。这对元宝产品经理有参考价值，提示AI服务提供商需重视公众对基础设施建设的接受度问题。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses": {
+    "title_clean": "Google推出新工具帮助出版商应对AI搜索流量流失",
+    "summary": "Google为出版商提供新按钮，允许读者将其设为搜索、发现和新闻的首选来源，旨在缓解AI搜索导致的点击量下降问题，帮助出版商维持流量和收入。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders": {
+    "title_clean": "Runlayer与Rippling撤销诉讼：创始人需警惕商业竞争风险",
+    "summary": "Runlayer与Rippling已撤销相互诉讼，双方未支付赔偿金。Rippling在撤销诉讼后发布了竞争产品，这一事件为AI产品创始人提供了关于商业竞争策略和法律风险的重要警示。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/the-defense-startup-taking-a-spacex-approach-to-missiles-video": {
+    "title_clean": "Castelion：采用SpaceX模式的导弹防御初创公司",
+    "summary": "国防初创公司Castelion获得10亿美元融资，估值达130亿美元，正加速扩大其'黑胡子'高超音武器系统生产规模，并开发新型远程防御能力。这反映了国防领域采用科技创业模式和高超音武器技术发展的重要趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/open-interest-8-20-2026-video": {
+    "title_clean": "沃尔玛业绩预警引发零售市场担忧",
+    "summary": "沃尔玛财报表现不佳，向零售行业发出预警信号，同时30年期债券市场出现上涨。这一市场动向对AI助手在零售场景的应用和用户消费行为分析具有重要参考价值，可能影响AI服务在购物助手和消费趋势预测方面的产品策略。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-inspectform": {
+    "title_clean": "Inspectform CEO访谈：市场定位与客户需求分析",
+    "summary": "Inspectform CEO Mark Leonard接受CB Insights采访，分享公司市场定位、客户需求理解及业务策略。作为一家企业服务提供商，其市场洞察对元宝了解B端AI服务场景和客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
+    "title_clean": "LFM2.5-DSpark：AI模型推理速度提升3.2倍技术",
+    "summary": "LFM2.5-DSpark是一项AI推理加速技术，可将模型推理速度提升3.2倍。这项技术对元宝产品经理有参考价值，因为它直接关系到AI服务的响应速度和用户体验，可能为优化自身AI模型的性能提供技术方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-vivox-ai": {
+    "title_clean": "Executive Interview: Vivox AI",
+    "summary": "Vivox AI市场总监Anna Antimiichuk接受CB Insights采访，分享公司对市场定位、客户需求的理解以及业务发展方向。作为语音通信AI解决方案提供商，其观点对AI语音交互产品设计及市场策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-azos": {
+    "title_clean": "CEO访谈：Azos",
+    "summary": "Azos公司CEO Rafael Clo接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。作为一家AI相关企业，其市场观点和客户洞察对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/bitcoin-roars-past-70k-as-trump-sparks-optimism-video": {
+    "title_clean": "比特币突破7万美元：美债收益率下降与特朗普乐观情绪推动",
+    "summary": "比特币价格突破7万美元，为两个多月来首次。这一上涨受到美国财政部长推动美债收益率降低以及特朗普重要会议带来的乐观情绪推动。对产品经理而言，这反映了市场对风险资产的情绪变化，可能影响加密货币相关AI服务的用户需求与场景拓展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/introducing-ai-futures": {
+    "title_clean": "Introducing AI Futures：OpenAI探讨AI对社会变革的影响",
+    "summary": "OpenAI推出新博客AI Futures，探讨变革性AI技术如何重塑权力结构、治理模式、经济体系和个人自由。这为产品经理提供了AI社会影响的前沿视角，有助于理解AI产品在更广泛社会背景下的定位与责任。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

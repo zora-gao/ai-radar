@@ -65069,5 +65069,61 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/evolution-mining-ceo-on-fy-results-video": {
+    "title_clean": "Evolution Mining CEO：年度利润增长59%及分红计划",
+    "summary": "Evolution Mining首席执行官Lawrie Conway公布公司全年利润同比增长59%，并讨论了增加股息的计划。这是一家矿业公司的财务业绩新闻，与AI产品或服务无直接关联，对元宝产品经理参考价值有限。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/aia-cfo-on-1h26-results-video": {
+    "title_clean": "AIA CFO：2026年上半年新业务价值增长13%",
+    "summary": "AIA集团首席财务官Garth Jones讨论了这家香港上市保险公司2026年上半年新业务价值增长13%的表现。他指出，中国地区对保险业务的基本需求依然强劲，这对元宝产品经理了解保险行业市场趋势和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-19/the-close-8-19-2026-video": {
+    "title_clean": "美国国债收益率管控措施推动市场反弹",
+    "summary": "彭博电视报道美国财政部采取措施控制国债收益率后市场反弹，摩根大通私人银行负责人参与分析。此资讯对元宝产品经理了解金融市场动态及AI助手在财经信息处理中的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-butter-money": {
+    "title_clean": "CEO访谈：Butter Money",
+    "summary": "Butter Money创始人兼CEO Suhail Manocha接受CB Insights采访，分享其市场定位、客户需求分析及公司发展策略。该访谈为金融科技领域产品经理提供了创业公司市场切入点和客户需求洞察的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-seapoint": {
+    "title_clean": "Seapoint CEO访谈：市场定位与客户需求分析",
+    "summary": "Seapoint CEO Sean Mullaney接受CB Insights采访，阐述公司市场定位、客户需求分析及业务发展方向。访谈聚焦于市场定义、公司定位及行业趋势，为AI产品经理提供企业级服务市场洞察。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

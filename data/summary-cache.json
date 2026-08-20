@@ -65286,5 +65286,157 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/hermai-brand-api": {
+    "title_clean": "Hermai Brand API：B2B SaaS品牌定制API",
+    "summary": "Hermai Brand API提供白标解决方案，允许B2B SaaS企业为每个客户定制品牌界面。该API帮助SaaS产品实现品牌个性化，增强客户体验和产品差异化，对元宝拓展企业级服务和品牌定制功能有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/shape-5": {
+    "title_clean": "Shape：设计师与程序员智能IDE工具",
+    "summary": "Shape是一款面向设计师和程序员的智能IDE工具，提供AI代理功能，帮助用户提升开发效率。该产品针对创意工作者设计，可能整合了代码生成、设计辅助等功能，对元宝产品经理在AI辅助开发工具领域有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lifelong-the-family-health-company": {
+    "title_clean": "Lifelong：家庭健康管理工具",
+    "summary": "Lifelong是一款家庭健康管理工具，可将全家人的健康信息集中管理。该产品为元宝产品经理提供了AI在家庭健康服务场景的应用参考，有助于探索如何将AI助手扩展到健康管理领域，满足家庭用户的多成员信息整合需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/protonote": {
+    "title_clean": "ProtoNote：AI原型协作反馈工具",
+    "summary": "ProtoNote是一个让用户分享AI构建的原型并获得页面级反馈的工具。产品经理可参考其AI原型协作模式，了解如何将AI生成内容与实时反馈机制结合，提升产品迭代效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/calendly": {
+    "title_clean": "The New Calendly：会议全流程管理工具",
+    "summary": "The New Calendly升级为会议全流程管理工具，覆盖会前、会中、会后所有环节，帮助用户高效管理会议安排与后续工作，为AI助手类产品在会议场景管理方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/glasp-for-firefox": {
+    "title_clean": "Glasp for Firefox：网页内容高亮与摘要工具",
+    "summary": "Glasp推出Firefox浏览器扩展，支持对网页、PDF和视频内容进行高亮标记和智能摘要，帮助用户快速提取关键信息。这一功能对元宝产品经理有参考价值，特别是在内容理解与知识提取方面的产品设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/grok-4-6-7": {
+    "title_clean": "Grok 4.6：长期运行智能体前端工具",
+    "summary": "Grok 4.6是一款专为长期运行智能体设计的前端智能工具，提供持续智能支持。该产品对AI Agent领域的产品经理具有参考价值，特别是在智能体持续运行和前端交互方面的设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meetstream-ai": {
+    "title_clean": "MeetStream AI：AI会议代理统一API与基础设施",
+    "summary": "MeetStream AI提供统一的API和基础设施，用于构建AI会议代理。该产品可能帮助开发者快速集成AI助手到会议场景，实现自动化会议管理、记录或参与功能，对元宝拓展会议服务场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/revy-the-fashion-app": {
+    "title_clean": "Revy：时尚购物与衣橱管理平台",
+    "summary": "Revy是一个专注于时尚、购物和衣橱管理的所有权层平台，帮助用户管理个人服装资产，可能是AI驱动的时尚管理工具，为元宝在购物场景和资产管理功能方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cloudways": {
+    "title_clean": "Cloudways：托管AI代理服务",
+    "summary": "Cloudways推出托管AI代理服务，用户无需自行设置即可运行OpenClaw和Hermes等AI代理。这为元宝产品经理提供了AI代理托管服务的市场参考，展示了简化AI代理部署的商业化方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bitdrift": {
+    "title_clean": "bitdrift.ai：移动应用可观测性平台",
+    "summary": "bitdrift.ai推出全球首个移动应用可观测性平台，专注于帮助开发者监控和分析移动应用性能。该平台通过AI技术提供实时洞察，帮助产品经理了解移动应用的用户体验和性能问题，对优化移动端AI服务具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring": {
+    "title_clean": "Hays转向AI难以替代的招聘岗位",
+    "summary": "Hays Plc将专注于招聘AI难以替代的职位，全球招聘公司正寻求缓解AI对就业市场的威胁。这一转变反映了AI对就业结构的影响，以及招聘行业如何调整策略应对技术变革，对元宝产品经理理解AI对就业市场的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

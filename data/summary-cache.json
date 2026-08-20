@@ -65438,5 +65438,82 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/nobodywho": {
+    "title_clean": "NobodyWho：跨设备AI模型运行工具",
+    "summary": "NobodyWho是一款允许在任何设备上运行AI模型的技术工具，解决了AI计算资源限制问题，为元宝产品经理提供了轻量化AI部署的参考方案，有助于拓展AI服务场景和降低用户使用门槛。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aloud-4": {
+    "title_clean": "Aloud：AI编程语音协作工具",
+    "summary": "Aloud是一款语音协作工具，允许开发者通过语音与AI编程助手进行交互，帮助AI理解开发计划并协作完成编码任务。该产品为AI编程场景提供了新的交互方式，对元宝在AI Agent能力拓展和语音交互设计方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/jack-ma-backed-ant-s-profit-flattened-after-ai-expansion-costs": {
+    "title_clean": "蚂蚁集团利润增长停滞：加大AI与业务扩张投入",
+    "summary": "蚂蚁集团季度利润几乎零增长，因公司加大在医疗、大语言模型和支付服务领域的人工智能技术投入。这反映了AI转型成本对金融科技企业盈利的影响，对元宝产品经理评估AI投入与商业平衡有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/berd": {
+    "title_clean": "Berd：AI代理构建桌面工具",
+    "summary": "Berd是一款有趣且富有创意的桌面应用程序，专门用于构建AI代理。它为产品经理提供了新的AI代理开发思路，展示了如何将AI代理构建工具化、游戏化，可能启发元宝在AI代理创建和交互方面的功能创新。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/china-humanoid-robots-shift-to-industrial-utility-video": {
+    "title_clean": "中国人形机器人转向工业应用",
+    "summary": "在世界机器人大会上，中国人形机器人公司宇树创始人表示人形机器人可能在两年内实现商业化。行业正从研发阶段转向实际工业应用，标志着人形机器人技术开始进入实用化阶段，对AI助手在工业场景的应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users": {
+    "title_clean": "Binance：AI交易代理平台",
+    "summary": "币安推出Agent OS平台，允许AI代理进行交易操作，支持与ChatGPT、Claude Code和Cursor等工具集成。该平台将AI代理控制权主要交给用户，为AI在金融交易领域的应用提供了新场景，对元宝探索AI代理在金融领域的应用具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

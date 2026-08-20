@@ -65764,5 +65764,128 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast": {
+    "title_clean": "Inertia Enterprises：核聚变燃料快速填充技术",
+    "summary": "核聚变能源初创公司Inertia Enterprises将燃料填充过程从一周缩短至几小时，这是实现盈利核电站需克服的十大障碍之一。该技术突破对能源行业有重要意义，但对AI助手产品经理的直接参考价值有限。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users": {
+    "title_clean": "Meta：AI互动游戏创作与分享应用Pocket登陆美国市场",
+    "summary": "Meta将其实验性AI应用Pocket引入美国市场，该应用允许用户通过'vibe-code'方式创建和分享互动游戏，此前已在巴西进行测试。这反映了Meta在AI游戏创作领域的探索，为元宝产品经理提供了AI创意工具与社交分享结合的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/super-micro-says-top-management-didn-t-know-of-diversion-scheme": {
+    "title_clean": "Super Micro：服务器出口合规调查报告",
+    "summary": "Super Micro Computer完成独立调查，结论称公司高层管理人员不知悉所谓的出口违规计划。此事件涉及服务器出口合规问题，对AI硬件供应链安全有参考价值，产品经理需关注AI基础设施供应商的合规风险。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/us-trade-talks-fuel-worry-in-canada-over-tech-and-ai-rules": {
+    "title_clean": "美加贸易谈判引发加拿大对科技和AI规则担忧",
+    "summary": "美国贸易代表在与加拿大总理政府的协议中提及\"数字贸易对齐\"，引发加拿大对其能否自主制定科技和AI政策的担忧。这对元宝产品经理有参考价值，因为国际政策变化可能影响AI产品的跨境合规和服务范围。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance": {
+    "title_clean": "Moonshot与ZAI接近OpenAI和Anthropic模型性能",
+    "summary": "中国AI模型Moonshot和ZAI性能已接近OpenAI和Anthropic水平，能够以比Claude低75%的成本构建可用网站，这表明中国AI模型在性价比方面具有竞争优势，对元宝产品经理评估竞品定位和成本策略具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/switch-2-leads-us-console-sales-slump-in-worst-july-since-covid": {
+    "title_clean": "Switch 2导致美国主机销量下滑，7月销量同比降幅超50%",
+    "summary": "任天堂Switch 2在美国7月销量同比下滑超过50%，导致整个主机行业出现硬件销量下滑，这是自疫情以来最差的7月销售表现。这一数据反映了主机市场可能面临的结构性变化，对游戏AI助手和跨平台服务场景的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/stampli": {
+    "title_clean": "ChatGPT Work：企业产品快速开发工具",
+    "summary": "Stampli利用Codex和ChatGPT Work将原本需要数周的产品开发时间压缩至几天，在固定截止日期和设计资源有限的情况下实现了快速市场投放。这对AI辅助产品开发流程具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template": {
+    "title_clean": "AI数据中心监管模板无需新法律",
+    "summary": "宾夕法尼亚州推出AI数据中心监管模板，要求开发商在申请许可前签署接受固定标准的合同。这一模式为其他州提供了无需制定新法规的AI监管参考，对元宝产品经理了解AI基础设施监管趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/scaling-laws-mixture-pretraining": {
+    "title_clean": "Scaling Laws for Mixture Pretraining Under Data Constraints：数据受限下的混合预训练扩展规律研究",
+    "summary": "该研究探讨了在低资源语言或专业领域等数据受限情况下，语言模型如何通过混合预训练策略优化扩展规律。这对产品经理理解AI模型在特定场景下的训练限制和优化方向有参考价值，特别是在处理小众语言或专业领域数据时的模型设计思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/multilingual-knowledge-transfer-lexical-interventions": {
+    "title_clean": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions：多语言知识迁移研究",
+    "summary": "该研究探讨了在目标语言训练数据稀缺的情况下，通过词汇干预实现跨语言知识迁移的方法，对构建高性能多语言语言模型具有重要意义，可为元宝在多语言支持和低资源语言处理方面提供技术参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-08-20T20:20:34.622Z",
+  "generated_at": "2026-08-20T22:20:34.858Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "stealth/ox-alpha",
+      "name": "Ox Alpha",
+      "vendor": "Stealth",
+      "vendor_slug": "stealth",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "created_at": "2026-08-20T20:04:55Z",
+      "context_length": 1048576,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ox Alpha is a reasoning model designed for coding, sustained agentic work, and production workloads. It is suited for long-horizon software engineering, complex reasoning, and workflows that combine text with...",
+      "description_zh": "Ox Alpha 是一种推理模型，专为编码、持续代理工作和生产工作负载而设计。它适用于长期软件工程、复杂推理以及将文本与...相结合的工作流程。"
+    },
     {
       "id": "tencent/hy-mt2-1.8b",
       "name": "Hy-MT2-1.8B",
@@ -1454,29 +1479,6 @@
       "supports_reasoning": true,
       "description": "Aion-3.0 is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It uses a collaborative generation process in which multiple specialized models each contribute...",
       "description_zh": "Aion-3.0 是 AionLabs 的多模型角色扮演和讲故事系统，基于 GLM 系列模型构建。它使用协作生成过程，其中多个专用模型各自贡献......"
-    },
-    {
-      "id": "tencent/hy3",
-      "name": "Hy3",
-      "vendor": "Tencent",
-      "vendor_slug": "tencent",
-      "url": "https://openrouter.ai/tencent/hy3-20260706",
-      "created_at": "2026-07-06T13:20:48Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.132,
-      "price_out": 0.528,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Hy3 is a 295B-parameter Mixture-of-Experts model from Tencent (21B active, 192 experts with top-8 routing) built for reasoning, agentic workflows, and real-world production use. It supports a configurable reasoning effort:...",
-      "description_zh": "Hy3 是来自腾讯的 295B 参数混合专家模型（21B 活跃，192 位专家，具有 top-8 路由），专为推理、代理工作流程和实际生产使用而构建。它支持可配置的推理工作：..."
     }
   ]
 }

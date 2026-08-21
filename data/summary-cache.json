@@ -67231,5 +67231,202 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware": {
+    "title_clean": "Anthropic聘请谷歌芯片专家推进自研半导体计划",
+    "summary": "Anthropic聘请谷歌前芯片项目创始人Amir Salek，为自研半导体芯片奠定基础。此举表明Anthropic正从纯软件向硬件领域扩展，可能旨在降低AI计算成本并提升性能，这对AI公司垂直整合供应链的战略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero": {
+    "title_clean": "Nvidia研究：AI代理性能提升关键在于调优而非模型本身",
+    "summary": "Nvidia研究表明，通过精细调优，AI代理即使使用并非最优的模型也能表现出色且保持稳定，这一发现挑战了传统认为模型质量决定AI性能的观点，为产品经理提供了优化AI代理性能的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/bloomberg-tech-8-21-2026-video": {
+    "title_clean": "Anthropic 准备进行大规模公开上市",
+    "summary": "Anthropic AI 公司正准备进行可能超越 SpaceX 规模的首次公开募股，同时博通公司正在洽谈筹集超过 600 亿美元资金。这对元宝产品经理具有重要参考价值，反映了AI头部企业的资本动向和市场估值预期。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/sessions/2026-09-01/live-q-amp-a-ask-emily-chang-about-interviewing-tech-s-biggest-names": {
+    "title_clean": "Ask Emily Chang About Interviewing Tech's Biggest Names on The Circuit",
+    "summary": "Emily Chang将在The Circuit节目中采访科技和商业领域的顶尖人物，并于9月1日下午1点(东部时间)举办互动式直播问答环节。这为产品经理提供了了解行业领袖观点和趋势的机会，可能有助于把握AI产品发展方向和用户需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-struggles-to-absorb-ai-s-debt-boom-video": {
+    "title_clean": "华尔街面临AI债务扩张挑战",
+    "summary": "芯片制造商博通正洽谈筹集超过600亿美元债务，以帮助Anthropic等AI公司获取芯片和算力。这一大规模融资反映了AI行业对计算资源需求的急剧增长，可能影响AI基础设施成本和供应链策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/meta-on-trial-what-could-we-learn-video": {
+    "title_clean": "Meta安全试验或将揭示扎克伯格等高管知情情况",
+    "summary": "Meta正面临29个州的诉讼，被指控故意设计平台让儿童沉迷并误导公众关于平台安全性的信息。此次安全审判可能揭示公司高管包括扎克伯格对此事的知情程度，对理解科技公司的产品设计伦理和责任边界有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/anthropic-aims-to-match-or-top-spacex-ipo-video": {
+    "title_clean": "Anthropic：AI公司Claude开发商计划IPO",
+    "summary": "Anthropic计划进行IPO，目标可能匹配甚至超越SpaceX的创纪录上市表现。作为Claude大模型的开发商，该公司可能在今年底前提交上市申请，这标志着AI领域的头部企业正在加速商业化进程。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams": {
+    "title_clean": "苹果裁减Siri和Vision Pro团队员工，聚焦AI与新设备",
+    "summary": "苹果公司正在裁减负责Siri数字助手和Vision Pro头显团队的员工，这是公司专注于新设备和人工智能战略的一部分。这一调整反映了苹果在AI领域的战略重心转移，对元宝产品经理了解科技巨头AI资源分配和产品方向调整有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-21/rockstar-rattled-as-grand-theft-auto-vi-leaks-again": {
+    "title_clean": "《侠盗猎车手VI》再次泄露，Rockstar Games安全措施失效",
+    "summary": "《侠盗猎车手VI》在2022年首次泄露后，Rockstar Games采取了严格的安全措施，但游戏内容再次被泄露。这表明即使大型游戏公司也面临严重的网络安全挑战，对元宝产品经理在保护AI模型训练数据和用户隐私方面有警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/why-data-center-pushback-is-a-unique-form-of-nimbyism-video": {
+    "title_clean": "数据中心抵制：一种独特的邻避主义形式",
+    "summary": "文章探讨了数据中心面临的独特挑战：与太阳能发电站或住房项目不同，人们不仅反对在自己后院建设数据中心，甚至质疑是否真的需要它们。这对元宝产品经理了解AI基础设施建设的社区接受度问题有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-record": {
+    "title_clean": "Record CEO访谈：市场定位与客户需求分析",
+    "summary": "Record公司CEO Dhruv Chadha接受CB Insights采访，分享了对市场定义、客户需求的理解以及公司定位。这为元宝产品经理提供了AI服务市场定位和客户洞察的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-prantae-solutions-private-limited": {
+    "title_clean": "Prantae Solutions CEO访谈：市场定位与客户需求",
+    "summary": "Prantae Solutions CEO接受CB Insights采访，分享公司市场定位、客户需求理解及业务发展策略。作为一家企业解决方案提供商，其CEO观点对理解B端AI服务市场趋势和客户痛点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-mindguard-2": {
+    "title_clean": "MindGuard：AI安全防护平台CEO访谈",
+    "summary": "MindGuard CEO Benjamin Bargetzi接受CB Insights访谈，分享了公司对市场的看法、客户需求以及公司定位。作为AI安全防护平台，其观点对元宝产品经理了解AI安全领域市场动态和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-isaac-health": {
+    "title_clean": "Isaac Health CEO访谈：医疗AI市场定位与客户需求",
+    "summary": "Isaac Health CEO Julius Bruch接受CB Insights采访，分享公司对医疗市场的看法、客户需求分析以及自身在行业中的定位。这对元宝产品经理了解医疗AI领域的市场格局和用户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says": {
+    "title_clean": "Nvidia以60亿美元授权费收购AI初创公司Poolside模型",
+    "summary": "Nvidia同意向AI初创公司Poolside支付60亿美元授权费用，以获取其人工智能模型的使用权，并将向Poolside的100多名员工提供工作机会。这笔交易反映了大型科技公司对优质AI模型的激烈竞争，对元宝产品经理评估AI模型商业化路径和人才战略具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital": {
+    "title_clean": "美国司法部调查a16z：对风投行业的影响",
+    "summary": "美国司法部正在调查Andreessen Horowitz(a16z)合伙人同时担任相互竞争公司董事的行为，涉及Ben Horowitz在Databricks和Martin Casado在Fivetran的董事会席位。这一事件可能对风投行业的治理结构和利益冲突规范产生影响，对AI领域投资布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

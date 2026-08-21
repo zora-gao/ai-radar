@@ -66563,5 +66563,54 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/can-anthropic-beat-spacex-s-record-ipo-size-video": {
+    "title_clean": "Anthropic有望超越SpaceX创纪录IPO规模",
+    "summary": "Anthropic预计将匹配或超越SpaceX的创纪录IPO规模，这反映了投资者对该公司的强烈需求。作为AI领域的领先企业，Anthropic的融资进展对AI行业格局和估值具有重要参考价值，可能影响其他AI公司的融资策略和市场预期。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/musk-touts-starlink-for-india-s-rural-users-as-rollout-stalled": {
+    "title_clean": "马斯克推介星链服务：面向印度农村用户的卫星互联网方案",
+    "summary": "埃隆·马斯克推介星链公司的卫星互联网服务，将其定位为印度农村地区最缺乏服务的区域的解决方案，尽管该服务在印度的推出目前仍处于停滞状态。这反映了科技巨头对新兴市场数字基础设施的关注，以及卫星互联网作为传统网络补充的潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/samsung-plans-as-much-as-79-billion-in-shareholder-returns": {
+    "title_clean": "三星计划向股东返还高达790亿美元",
+    "summary": "三星电子计划向股东返还高达110万亿韩元（790亿美元），这是AI热潮带来的丰厚回报的一部分，与竞争对手SK海力士类似，表明半导体巨头正通过股东回报分享AI增长红利。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/sessions/2026-08-26/live-q-amp-a-america-s-battle-over-data-centers": {
+    "title_clean": "美国数据中心之争：AI需求引发争议",
+    "summary": "彭博记者将就AI数据中心需求如何在美国引发民众抗议进行在线问答，探讨AI基础设施扩张带来的社会矛盾与政策挑战，为元宝产品经理提供AI服务落地可能面临的公共关系与政策风险参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

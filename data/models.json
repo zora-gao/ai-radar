@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-08-21T20:18:20.060Z",
+  "generated_at": "2026-08-21T22:17:02.669Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "meta/muse-spark-1.2-contributor",
+      "name": "Muse Spark 1.2 Contributor",
+      "vendor": "Meta",
+      "vendor_slug": "meta",
+      "url": "https://openrouter.ai/meta/muse-spark-1.2-contributor-20260805",
+      "created_at": "2026-08-21T18:21:16Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video",
+        "file",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.1,
+      "price_out": 0.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Muse Spark 1.2 contributor tier is a reasoning model from Meta designed for developers who want to start building at an even lower cost. It’s meaningfully cheaper than Muse Spark...",
+      "description_zh": "Muse Spark 1.2 贡献者层是 Meta 的推理模型，专为希望以更低的成本开始构建的开发人员而设计。它比 Muse Spark 便宜得多......"
+    },
     {
       "id": "deepseek/deepseek-v4-flash-vision-exp",
       "name": "DeepSeek V4 Flash Vision Exp",
@@ -1375,8 +1402,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 2.5,
-      "price_out": 15,
+      "price_in": 2,
+      "price_out": 10,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1400,8 +1427,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.25,
-      "price_out": 7.5,
+      "price_in": 1,
+      "price_out": 5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1425,8 +1452,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 2.5,
-      "price_out": 15,
+      "price_in": 2,
+      "price_out": 10,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1450,38 +1477,13 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.25,
-      "price_out": 7.5,
+      "price_in": 1,
+      "price_out": 5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-5.6 Sol is the flagship model in OpenAI's GPT-5.6 series. It is suited for complex reasoning, coding, and agentic workflows, and is particularly strong at command-line and multi-step coding tasks...",
       "description_zh": "GPT-5.6 Sol是OpenAI GPT-5.6系列中的旗舰型号。它适用于复杂的推理、编码和代理工作流程，并且在命令行和多步骤编码任务方面尤其强大......"
-    },
-    {
-      "id": "x-ai/grok-4.5",
-      "name": "Grok 4.5",
-      "vendor": "xAI",
-      "vendor_slug": "x-ai",
-      "url": "https://openrouter.ai/x-ai/grok-4.5-20260708",
-      "created_at": "2026-07-08T15:05:54Z",
-      "context_length": 500000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Grok 4.5 is a model from SpaceXAI with frontier performance on coding, knowledge work, and STEM.",
-      "description_zh": "Grok 4.5 是 SpaceXAI 的一个模型，在编码、知识工作和 STEM 方面具有前沿性能。"
     }
   ]
 }

@@ -66612,5 +66612,181 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/google-antigravity": {
+    "title_clean": "Antigravity IDE Extensions：AI代理编辑器扩展工具",
+    "summary": "Antigravity推出IDE扩展，将AI代理功能集成到现有代码编辑器中，使开发者能在熟悉的开发环境中直接使用AI代理进行编程辅助。这为元宝产品经理提供了AI工具与开发环境融合的参考案例，展示了AI代理在专业软件中的集成方式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/shogunai": {
+    "title_clean": "ShogunAI：个人AGI助手工具",
+    "summary": "ShogunAI是一款运行在个人电脑上的AGI(通用人工智能)助手，专注于完成实际工作任务。这款产品可能代表了AI助手向更自主、更实用方向发展的趋势，对元宝产品经理在AI助手功能设计和实际应用场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/project-sky": {
+    "title_clean": "Project SKY：Windows环境AI助手工具",
+    "summary": "Project SKY是一款面向Windows平台的AI助手工具，提供环境感知的AI陪伴功能。作为Windows系统内的AI助手，它可能通过环境感知能力为用户提供更智能的交互体验，对元宝产品经理在桌面AI助手场景设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/epho-claude-code-in-the-cloud": {
+    "title_clean": "Epho：云端代码运行工具",
+    "summary": "Epho是一款云端代码运行工具，支持用户在云端运行Claude Code、Codex或Opencode，并能与用户的代码仓库集成。这为AI代码辅助工具提供了新的部署方式，可能影响元宝在AI代码执行场景的产品策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fx-by-vercel": {
+    "title_clean": "fx：Vercel 开源编程助手",
+    "summary": "Vercel 发布名为 fx 的开源编程助手，这是一个轻量级的 AI 编程代理工具，旨在帮助开发者更高效地完成编码任务。作为 Vercel 生态系统中的新成员，fx 可能对元宝在 AI 编程助手领域的功能设计和竞品分析提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lynqo-your-local-nas-server": {
+    "title_clean": "Lynqo：P2P服务器与剪贴板同步工具",
+    "summary": "Lynqo是一款将设备转变为P2P服务器的工具，提供审查套件和剪贴板同步功能。该产品通过本地P2P技术实现设备间的直接连接和数据共享，为用户提供安全、高效的跨设备协作体验，对元宝产品经理在设备互联和本地化服务场景方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/local-7": {
+    "title_clean": "Local：Mac端零摩擦本地AI工具",
+    "summary": "Local是一款专为Mac设计的本地AI工具，强调零摩擦使用体验，无需复杂设置即可在本地运行AI功能。对于关注数据隐私和离线能力的元宝产品经理，这款产品展示了如何在本地设备上提供流畅AI交互的解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dockhand": {
+    "title_clean": "Dockhand：Docker容器管理工具",
+    "summary": "Dockhand是一款面向普通用户的Docker容器管理工具，简化了Docker的使用流程，使非技术用户也能轻松管理容器化应用。对于元宝产品经理而言，这反映了AI工具向简化复杂技术操作的趋势，可能启发将AI助手与容器管理结合的产品方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/plow-latch": {
+    "title_clean": "Plow Latch：本地AI桌面管理工具",
+    "summary": "Plow Latch是一款本地AI桌面管理工具，专为Mac用户设计，能够通过AI技术安全地管理桌面操作。该工具提供实时演示功能，展示了AI在桌面环境中的应用潜力，对元宝产品经理在本地AI应用和桌面交互方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/actx0": {
+    "title_clean": "Actx0：AI代理记忆基础设施",
+    "summary": "Actx0是一款为AI代理提供记忆基础设施的产品，专注于解决AI代理在长期交互中保持上下文连贯性的问题。这对元宝产品经理在构建AI代理长期记忆能力方面具有参考价值，特别是在处理复杂多轮对话和个性化服务场景时。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/humanoid-robots-put-china-ahead-in-tech-race-video": {
+    "title_clean": "中国领先全球人形机器人市场",
+    "summary": "中国的人形机器人制造商已占据全球97%的出货量，在北京世界机器人大会上，机器人展示了分拣包裹、处理衣物和打包等实际应用场景，这表明中国在AI实体化应用领域取得显著领先优势，对元宝产品经理在AI实体化服务场景拓展方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/alibaba-profit-dives-75-as-ai-spending-ratchets-up-video": {
+    "title_clean": "阿里巴巴利润暴跌75%，AI支出大幅增加",
+    "summary": "阿里巴巴集团季度资本支出增至近100亿美元，以巩固全球AI领域地位，导致利润暴跌75%以上。这反映了科技巨头在AI竞赛中的巨额投入与盈利压力，对元宝产品经理评估AI商业化路径和成本控制有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/ai-spending-splurge-boosts-danfoss-s-bet-on-data-center-cooling": {
+    "title_clean": "AI支出激增推动丹佛斯数据中心冷却业务增长",
+    "summary": "丹佛斯公司预计其数据中心业务今年将至少占据公司销售额的一半，由于人工智能热潮推动了对运行AI服务器所需冷却设备的投资增加。这反映了AI基础设施建设对传统工业企业的业务影响，对元宝产品经理了解AI硬件需求与配套服务机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/the-close-8-20-2026-video": {
+    "title_clean": "美股下跌与债券收益率上升：市场分析",
+    "summary": "Bloomberg Television报道了2026年8月20日美股收盘前的最新市场动态，分析债券收益率上升导致股市下跌的情况，并邀请了洛克菲勒全球家族作为嘉宾提供专业见解。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -66352,5 +66352,129 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates": {
+    "title_clean": "OpenAI在企业用户市场追赶Anthropic，新数据显示竞争加剧",
+    "summary": "OpenAI正在企业用户市场追赶Anthropic，企业用户会在各AI实验室发布新模型时频繁切换供应商，这种波动性应引起投资者对企业AI支出粘性的关注，这对元宝产品经理了解企业用户忠诚度和市场竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/newsletter-august-20": {
+    "title_clean": "Groq获3.5亿美元融资与ITC Vegas 2026动态",
+    "summary": "Groq完成3.5亿美元巨额融资，同时ITC Vegas 2026展会上有Virtue AI被Fortine收购的消息。这些动态反映了AI基础设施和初创企业融资市场的活跃，对元宝产品经理了解AI行业资本流向和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051423&idx=1&sn=0df5f18ad20453e706a6962853d4ab1c": {
+    "title_clean": "工业具身智能走进工厂，为什么还需要一层「底座」?",
+    "summary": "探讨工业具身智能技术在工厂应用中为何需要底层支撑系统，分析工业AI机器人与工厂环境融合的技术挑战与解决方案，为元宝在工业场景下的AI应用提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051423&idx=2&sn=16e8c6178a4da711642607cf5323766b": {
+    "title_clean": "WorkSwarm与JiuwenBox：AI Agent协作与安全执行工具",
+    "summary": "WorkSwarm提供AI Agent团队协作功能，JiuwenBox提供安全沙箱环境保障Agent执行安全。这对元宝产品经理在构建多Agent协作系统及安全执行机制方面有重要参考价值，特别是在Agent间任务分配与执行安全保障方面。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/real-yield-8-20-2026-video": {
+    "title_clean": "美债收益率下跌：市场对财政部计划存疑",
+    "summary": "Bloomberg Real Yield报道市场对财政部计划的疑虑导致美债收益率下跌，邀请了BMO资本美国利率策略主管和Wolfe Research首席经济学家分析市场动态。这对产品经理了解金融市场情绪和宏观经济指标对AI助手投资建议功能的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/agility-robotics-ceo-on-plans-to-go-public-china-rivals-video": {
+    "title_clean": "Agility Robotics CEO：人形机器人商业化与上市计划及中国竞争对手",
+    "summary": "Agility Robotics CEO Peggy Johnson讨论了公司即将上市的计划，将其定位为美国唯一专注于人形机器人且已证明商业可行性的纯上市公司，并提及中国竞争对手情况。这对元宝产品经理了解人形机器人商业化进程和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/china-says-trump-economic-warfare-won-t-solve-iran-war-video": {
+    "title_clean": "中国称特朗普经济战无法解决伊朗危机",
+    "summary": "前美国国防部中国问题分析师Anna Ashton表示，在习近平主席9月访美前，美国已显著削弱了其国际关系和武器库存。此资讯对元宝产品经理参考价值有限，主要涉及国际政治经济关系，与AI产品、服务场景或商业化无直接关联。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users": {
+    "title_clean": "Grok：AI聊天助手出现乱码响应问题",
+    "summary": "Grok Lite用户报告从周三早晨开始收到乱码响应，表明该AI助手存在技术故障问题。此事件对产品经理有参考价值，可作为AI产品稳定性和用户体验的警示案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-20/tanner-grigoli-of-atlantic-records-looks-to-summer-camps-to-build-his-fan-base": {
+    "title_clean": "Atlantic Records高管通过夏令营建立粉丝群体",
+    "summary": "Atlantic Records高管Tanner Grigoli采用线下夏令营方式建立粉丝群体，突破常规线上粉丝运营模式，为音乐行业提供线下场景营销的新思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/progressive-refinement-pseudo-labeling": {
+    "title_clean": "Progressive Refinement：中英文代码切换语音识别的迭代伪标签方法",
+    "summary": "该研究提出了一种渐进式精细化方法，通过迭代伪标签技术解决中英文代码切换语音识别(ASR)中的训练数据不足问题。这种方法对元宝产品经理有参考价值，特别是在处理多语言混合语音识别场景时，可启发AI助手在跨语言交流场景中的技术优化方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

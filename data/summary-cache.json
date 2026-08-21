@@ -66476,5 +66476,42 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak": {
+    "title_clean": "CXMT引领中国AI硬件企业进入业绩高峰期",
+    "summary": "CXMT公司成功上市带动中国AI硬件行业乐观情绪，支持中国挑战美国AI发展的战略目标。这一动态表明中国AI硬件领域正迎来重要发展机遇，对元宝产品经理了解AI硬件市场格局和竞争态势具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom": {
+    "title_clean": "AI数据初创公司Micro1实现5亿美元年收入",
+    "summary": "Micro1作为AI数据初创公司，在AI训练需求激增的背景下实现了5亿美元的年收入，显示出AI训练数据市场的快速增长潜力，为元宝产品经理提供了AI服务商业化与数据供应链的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/samsung-set-to-top-phone-market-in-downturn-counterpoint-says": {
+    "title_clean": "三星预计将在市场低迷期重登手机市场榜首",
+    "summary": "Counterpoint Research预测，三星电子将在今年重获智能手机市场第一的位置，这表明三星对存储芯片价格上涨具有更强的韧性。这一市场动态对元宝产品经理了解高端手机市场格局变化及三星在AI手机领域的战略布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

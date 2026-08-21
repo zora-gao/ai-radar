@@ -66963,5 +66963,80 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up": {
+    "title_clean": "Starcloud：太空数据中心解决方案提供商",
+    "summary": "Starcloud公司获得2.5亿美元融资，专注于开发轨道数据中心，以应对太空发射资源紧张的问题。这一动向反映了太空计算基础设施领域的投资热潮，对元宝产品经理了解新兴计算场景和长期技术趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/deepseek-unveils-test-model-to-rival-anthropic-s-opus-4-8": {
+    "title_clean": "DeepSeek 发布测试模型挑战 Anthropic Opus 4.8",
+    "summary": "DeepSeek 发布了一款实验性AI模型，能够理解视觉提示，并表示其性能接近美国竞争对手Anthropic PBC的先进模型。这对产品经理评估多模态AI技术进展和竞品能力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/humanoid-robots-put-china-ahead-in-tech-race-video-mt2pfbam": {
+    "title_clean": "中国领先全球人形机器人市场",
+    "summary": "中国的人形机器人制造商已占据全球97%的出货量，在北京世界机器人大会上展示了相关技术，这使中国在美国竞争对手中取得早期领先优势。产品经理可关注这一技术发展对AI助手物理形态拓展的潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/japan-earmarks-another-944-million-for-rapidus-in-ai-chip-race": {
+    "title_clean": "日本追加9.44亿美元支持Rapidus发展AI芯片",
+    "summary": "日本政府追加9.44亿美元资金支持芯片初创公司Rapidus，旨在加强在AI芯片领域的竞争能力，以应对台积电等领先企业的挑战。这笔投资反映了各国在AI芯片领域战略布局的加剧，对元宝产品经理了解全球AI基础设施竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/asr-benchmark-optimization": {
+    "title_clean": "语音识别基准优化测量",
+    "summary": "该资讯聚焦于语音识别领域的基准优化测量方法，探讨如何评估和改进语音识别系统的性能表现。对于元宝产品经理而言，这有助于了解语音识别技术的最新评估标准，可能为产品中语音交互功能的优化提供参考方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/stevenage-braces-for-life-after-gsk-as-drugmaker-moves-to-cambridge": {
+    "title_clean": "葛兰素史克迁离剑桥，当地面临产业转型挑战",
+    "summary": "英国制药巨头葛兰素史克(GSK)计划将其研究总部从伦敦以北的Stevenage迁往剑桥，引发当地社区对产业空心化和经济影响的担忧。这一决策可能重塑当地生物医药产业格局，对AI在医药研发领域的应用场景和产业布局提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-08-21T10:23:06.940Z",
+  "generated_at": "2026-08-21T12:33:37.305Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "deepseek/deepseek-v4-flash-vision-exp",
+      "name": "DeepSeek V4 Flash Vision Exp",
+      "vendor": "DeepSeek",
+      "vendor_slug": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp-20260821",
+      "created_at": "2026-08-21T11:26:03Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.22,
+      "price_out": 0.66,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "DeepSeek V4 Flash Vision Exp is an experimental vision-enabled version of DeepSeek V4 Flash 0731 from DeepSeek, adding image understanding while matching the base model on text capabilities including agents,...",
+      "description_zh": "DeepSeek V4 Flash Vision Exp 是来自 DeepSeek 的 DeepSeek V4 Flash 0731 的实验性视觉版本，增加了图像理解，同时匹配文本功能的基本模型，包括代理、..."
+    },
     {
       "id": "stealth/ox-alpha",
       "name": "Ox Alpha",
@@ -1456,29 +1480,6 @@
       "supports_reasoning": true,
       "description": "Aion-3.0 Mini is a multi-model roleplaying and storytelling system from AionLabs, built on the DeepSeek family of models. It uses a collaborative generation process in which multiple specialized models each...",
       "description_zh": "Aion-3.0 Mini 是 AionLabs 的多模型角色扮演和讲故事系统，基于 DeepSeek 系列模型构建。它使用协作生成过程，其中多个专用模型各自......"
-    },
-    {
-      "id": "aion-labs/aion-3.0",
-      "name": "Aion-3.0",
-      "vendor": "Aion Labs",
-      "vendor_slug": "aion-labs",
-      "url": "https://openrouter.ai/aion-labs/aion-3.0-20260707",
-      "created_at": "2026-07-07T16:51:35Z",
-      "context_length": 131072,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 3,
-      "price_out": 6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Aion-3.0 is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It uses a collaborative generation process in which multiple specialized models each contribute...",
-      "description_zh": "Aion-3.0 是 AionLabs 的多模型角色扮演和讲故事系统，基于 GLM 系列模型构建。它使用协作生成过程，其中多个专用模型各自贡献......"
     }
   ]
 }

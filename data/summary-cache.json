@@ -66788,5 +66788,106 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/pixelread-ai-ocr": {
+    "title_clean": "PixelRead AI OCR：Mac端文本识别翻译工具",
+    "summary": "PixelRead AI OCR是一款Mac平台应用，能够捕获、翻译和理解屏幕上的任何文本。产品经理可关注其在多模态交互领域的应用，特别是跨语言文本处理能力对AI助手产品在办公场景的启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flunkey": {
+    "title_clean": "Flunkey：Windows语音优先AI助手",
+    "summary": "Flunkey是一款针对Windows平台的语音优先AI助手，目前处于测试阶段。它通过语音交互为用户提供AI辅助功能，可作为Windows系统的一层AI增强，为元宝产品经理在语音交互AI助手开发方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/onecli": {
+    "title_clean": "OneCLI：企业级安全代理助手",
+    "summary": "OneCLI是一款为企业员工提供的安全沙盒式专业代理助手，旨在为每位员工创建隔离的AI助手环境，增强企业数据安全性和员工工作效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/surfdeck": {
+    "title_clean": "Surfdeck：浏览器标签管理工具",
+    "summary": "Surfdeck是一款浏览器标签管理工具，帮助用户更高效地组织和访问打开的网页标签。这款产品对元宝产品经理有参考价值，因为它解决了用户在多标签浏览时的痛点，类似AI助手需要处理多任务信息管理场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mindcase": {
+    "title_clean": "Mindcase：网页数据提取工具",
+    "summary": "Mindcase是一款网页数据提取工具，可在几分钟内从任何网站提取数据。对于元宝产品经理而言，这可能代表AI助手在信息获取和处理方面的应用场景，值得探索其技术实现方式和用户需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal": {
+    "title_clean": "Nvidia与AI芯片初创公司Rebellions洽谈潜在合作",
+    "summary": "Nvidia正与韩国AI芯片设计公司Rebellions进行初步洽谈，探讨可能的合作方式，包括技术合作、投资甚至收购。这反映了AI芯片领域巨头与初创企业之间的战略互动，对元宝产品经理了解AI基础设施生态和芯片供应链布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/phancy-group-s-tseng-says-ai-demand-to-drive-growth-video": {
+    "title_clean": "Phancy Group高管：AI需求将推动公司增长",
+    "summary": "Phancy Group首席战略官Maryann Tseng表示，全球对AI开发的需求增长将在未来几年推动公司发展。这反映了AI服务市场的商业机会和增长潜力，对元宝产品经理了解AI商业化趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee": {
+    "title_clean": "用尿液冷却数据中心：新型环保冷却方案探讨",
+    "summary": "该资讯探讨了使用尿液而非饮用水冷却数据中心的可能性，源于Jason Kelce的玩笑建议。这种非传统冷却方式可能为数据中心提供更环保的解决方案，值得产品经理关注可持续技术在AI基础设施中的应用潜力。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

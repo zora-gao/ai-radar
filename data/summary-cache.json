@@ -67134,5 +67134,102 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/opinion-the-stock-market-s-boom-will-likely-bust-video": {
+    "title_clean": "股市繁荣或将终结：市场泡沫分析",
+    "summary": "该文章分析了美国股市可能处于泡沫状态，并指出多项指标指向同一方向，预测这一泡沫很可能在不久后破裂。对产品经理而言，这提供了市场情绪和投资趋势的参考，有助于理解用户在金融领域的潜在需求变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-tinubu": {
+    "title_clean": "Executive Interview: Tinubu",
+    "summary": "Tinubu公司产品总监Antoine Megglé接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司战略方向。作为AI产品高管访谈，提供了行业视角和产品策略思考，对元宝产品经理了解同类AI产品市场定位有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-flexvelop": {
+    "title_clean": "CEO Interview: Flexvelop",
+    "summary": "Flexvelop CEO Hans Stockfisch接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。作为一家企业服务提供商，Flexvelop阐述了其市场定位策略，对产品经理了解企业服务市场定位和客户需求分析有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-causa-prima": {
+    "title_clean": "Executive Interview : Causa Prima：AI企业服务市场战略访谈",
+    "summary": "Causa Prima的COO Henrik Gebbing接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。该访谈揭示了AI企业服务领域的市场格局和竞争策略，对元宝产品经理了解企业级AI服务市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-traxit-srl": {
+    "title_clean": "Traxit Srl CEO访谈：市场定位与客户需求分析",
+    "summary": "Traxit Srl CEO Pietro Lanzarini接受CB Insights采访，分享公司市场定位、客户需求分析及业务策略。该访谈提供了企业服务领域市场洞察，对元宝产品经理了解企业客户需求和市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-cache": {
+    "title_clean": "CEO Interview: Cache：AI缓存技术公司访谈",
+    "summary": "Cache公司CEO Liran Eliner接受CB Insights采访，分享了公司对市场的看法、客户需求以及自身定位。访谈探讨了如何定义市场以及Cache在其中的位置，展示了AI缓存技术公司的市场策略和产品方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript": {
+    "title_clean": "AI编程工具推动JavaScript流行度变化",
+    "summary": "2025年8月，TypeScript超越JavaScript成为GitHub上使用最广泛的编程语言，这是GitHub十年来最大的一次语言排名变化。这一转变发生在AI编程工具快速普及的时期，表明AI辅助编程正在显著影响开发者语言选择趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-funding-societies-modalku-cardup": {
+    "title_clean": "CEO访谈：Funding Societies | Modalku创始人谈市场定位与客户需求",
+    "summary": "Funding Societies | Modalku创始人Kelvin Teo接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在市场中的定位。这对元宝产品经理了解金融科技领域的市场策略和客户洞察有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

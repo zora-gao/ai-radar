@@ -66513,5 +66513,55 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/johor-nets-1-2-billion-in-investment-bids-after-singapore-visit": {
+    "title_clean": "马来西亚柔佛州赴新加坡引资获12亿美元投资意向",
+    "summary": "马来西亚柔佛州在新加坡进行商务访问后，吸引了超过50亿林吉特（12亿美元）的投资意向。这一跨境投资合作可能为区域经济发展带来新机遇，对产品经理了解东南亚市场投资环境和商业合作模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/can-ai-solve-online-shopping-s-biggest-problem": {
+    "title_clean": "Can AI Solve Online Shopping's Biggest Problem?：AI解决网购尺码匹配问题",
+    "summary": "探讨AI如何帮助品牌解决网购服装尺码不匹配的问题，通过AI工具提供更精准的尺码推荐，减少退货率并提升顾客满意度。这对元宝产品经理在电商场景下的AI应用有参考价值，特别是购物助手和个性化推荐功能。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-20/maisonette-tackles-untapped-retail-market-video": {
+    "title_clean": "Maisonette：青少年时尚电商平台",
+    "summary": "Maisonette推出针对青少年和青少年的新平台，进入其所谓的\"未开发\"零售市场。这一扩展表明公司正在瞄准年轻消费群体，为元宝产品经理提供了关于垂直领域电商和青少年用户服务场景的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin": {
+    "title_clean": "ChatGPT：新增苹果信息应用插件可代发短信",
+    "summary": "ChatGPT推出苹果信息应用插件，可自动代用户发送短信，实现消息自动化处理功能。这一功能扩展了AI助手在通讯场景的应用边界，为产品经理提供了AI服务场景拓展的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

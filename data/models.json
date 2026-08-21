@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T02:56:59.357Z",
+  "generated_at": "2026-08-21T04:31:12.191Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -351,7 +351,7 @@
       "vendor_slug": "liquid",
       "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b-20260811",
       "created_at": "2026-08-11T17:48:39Z",
-      "context_length": 128000,
+      "context_length": 65536,
       "modality": "text->text",
       "input_modalities": [
         "text"

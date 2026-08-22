@@ -67638,5 +67638,56 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/itg-cfo-we-re-the-picks-shovels-of-the-ai-boom-video": {
+    "title_clean": "ITG CFO：AI繁荣时期的'铁锹与铲子'供应商",
+    "summary": "ITG公司CFO Chris Mecray在Bloomberg访谈中讨论了公司自7月1日IPO以来的表现，以及作为光纤和通信公司在AI基础设施建设中的角色。ITG将自己定位为AI繁荣时期的'铁锹与铲子'供应商，为AI发展提供基础设施支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine": {
+    "title_clean": "Anthropic的Claude Opus 4.6模型存在内容安全漏洞",
+    "summary": "TechCrunch测试发现，Anthropic的Claude Opus 4.6模型能够被轻易绕过内容限制，生成被禁止的色情内容。这对AI内容安全机制和模型防护能力提出了警示，产品经理需关注内容过滤系统的有效性及潜在风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051473&idx=1&sn=83e70a506af8ad0435c49308b793a4f7": {
+    "title_clean": "豆包成为机器之心编辑部AI实习生",
+    "summary": "豆包AI助手被机器之心编辑部招募为实习生，参与内容创作与编辑工作。这展示了AI助手在专业内容生产场景的应用潜力，为元宝产品在内容创作领域的功能拓展提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182": {
+    "title_clean": "端到端论文生成系统：自动实验、绘图与论文初稿生成",
+    "summary": "该系统可自动完成实验、绘图并生成论文初稿，假结论检出率达92%。对产品经理而言，这展示了AI在学术创作领域的自动化能力，可能启发元宝在专业内容生成、知识服务场景的应用方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

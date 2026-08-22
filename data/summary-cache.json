@@ -67866,5 +67866,55 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051744&idx=1&sn=22c2857fcc9f3c5976d2bca19c597075": {
+    "title_clean": "对话维他动力秦海龙：具身智能的跨本体挑战",
+    "summary": "维他动力秦海龙探讨具身智能的核心挑战，指出关键问题并非让机器人学会技能，而是实现跨本体的能力迁移与整合。这对AI Agent研发具有重要参考价值，特别是在机器人与AI系统融合方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051744&idx=2&sn=953e88352552dfb0214f61c96b3258d9": {
+    "title_clean": "谷歌TPU创始负责人加入Anthropic",
+    "summary": "谷歌TPU（张量处理单元）创始负责人已加入Anthropic，这表明Anthropic正在加强其硬件和AI基础设施团队，可能影响其AI模型的训练效率和性能，对元宝产品经理评估AI基础设施竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051744&idx=3&sn=2adfa49d951362117407be4da2b67d22": {
+    "title_clean": "美图影像研究院：一致特征传输重打光技术",
+    "summary": "美图影像研究院提出一致特征传输重打光技术，解决图像中光照变化导致人物特征改变的问题。该技术通过特征传输保持人物一致性，为AI图像处理提供新思路，对美图等图像编辑产品有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051761&idx=2&sn=efd4cc37fc431f5aa9fbd06598ceca67": {
+    "title_clean": "LoopsBench：长期工作场景下的CodingAgent评测基准",
+    "summary": "LoopsBench提出了针对CodingAgent长期工作能力的评测方法，关注AI编程助手在持续任务中的表现。这对元宝产品经理评估AI Agent在复杂编程场景中的长期工作能力具有重要参考价值，有助于优化产品在持续任务中的表现。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

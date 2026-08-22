@@ -67702,5 +67702,93 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/open-analytics-2": {
+    "title_clean": "Open Analytics：AI驱动的网站分析替代工具",
+    "summary": "Open Analytics是一款面向现代网站的AI原生分析工具，作为Google Analytics的替代方案，提供基于AI的数据分析能力，帮助产品经理了解网站流量和用户行为的新兴解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pocket-by-meta": {
+    "title_clean": "Pocket by Meta：游戏创作与分享平台",
+    "summary": "Meta推出Pocket平台，允许用户创作Vibe-code游戏并像TikTok一样分享。这反映了Meta在社交游戏领域的探索，对元宝产品经理在游戏化AI交互和社交分享功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zero-15": {
+    "title_clean": "Zero：Vercel 开发的 AI Agent 编程语言",
+    "summary": "Vercel 推出专为 AI Agent 设计的编程语言 Zero，旨在提升 AI 代理的编程效率和功能实现能力。这对元宝产品经理有重要参考价值，特别是在 AI Agent 技术栈构建和工具调用能力优化方面。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/velofiler": {
+    "title_clean": "VeloFiler：macOS双窗格文件管理器",
+    "summary": "VeloFiler是一款专为macOS设计的键盘优先双窗格文件管理器，通过键盘操作提高文件管理效率，为元宝产品经理提供AI助手在文件管理场景下的交互设计参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kerasformers": {
+    "title_clean": "KerasFormers：Keras 3预训练模型集合",
+    "summary": "KerasFormers是Keras 3框架下的预训练模型集合，为AI开发者提供了一系列可直接使用的预训练模型。这对元宝产品经理有价值，因为它展示了AI模型库的整合趋势，可能影响元宝模型选择和集成策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/port-radar-for-macos": {
+    "title_clean": "Port Radar for macOS：Mac端口管理工具",
+    "summary": "Port Radar是一款专为macOS设计的AI端口管理工具，帮助用户轻松管理网络端口，无需再使用传统的lsof命令。这款工具可简化端口监控与管理流程，提升系统管理效率，对需要处理网络连接的产品经理有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/maccess": {
+    "title_clean": "Maccess：Mac远程控制与AI助手工具",
+    "summary": "Maccess是一款将Mac功能转移到移动设备的应用，提供远程触控板、屏幕显示和AI功能，让用户可以在手机上操作Mac电脑，结合AI增强移动体验，对元宝产品经理在跨设备AI交互和远程控制场景设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

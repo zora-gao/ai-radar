@@ -67565,5 +67565,78 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7": {
+    "title_clean": "玻尔·科学空间：桌面科研自动化工具",
+    "summary": "玻尔·科学空间是一款桌面工具，旨在接管科研工作中的\"体力活\"，帮助科研人员节省时间，专注于科学创造。该工具可能自动化处理实验数据、文献整理等重复性工作，提高科研效率，对科研AI助手类产品有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf": {
+    "title_clean": "Nvidia与数据中心开发商Cloverleaf合作",
+    "summary": "Nvidia与数据中心开发商Cloverleaf建立合作关系，继续投资数据中心建设。这一合作正值AI数据中心为Nvidia带来大量收入之际，反映了Nvidia在AI基础设施领域的战略布局，对元宝产品经理了解AI硬件生态和算力服务场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/the-close-8-21-2026-video": {
+    "title_clean": "美股震荡后收跌：8月21日市场收盘分析",
+    "summary": "彭博电视报道华尔街收盘前的最新市场动态与分析，尽管股市一度反弹，但最终在波动的一周后收低。节目邀请了ProShares研究主管等嘉宾进行市场解读，为投资者提供专业视角。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/swonk-fed-independence-inflation-key-for-jackson-hole-video": {
+    "title_clean": "Swonk：美联储独立性及通胀政策分析",
+    "summary": "KPMG首席经济学家Diane Swonk分析杰克逊霍尔经济研讨会上的美联储演讲预期，重点关注美联储独立性和通胀政策。这对了解央行政策走向及AI经济预测服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-21/khosla-ventures-bets-on-ai-s-next-frontier-science-video": {
+    "title_clean": "Khosla Ventures投资AI科学前沿：支持Discovery Loop加速科学实验",
+    "summary": "Khosla Ventures投资Discovery Loop，这家由谷歌前领导人Jeff Dean创立的AI初创公司致力于大幅加速科学实验进程。这反映了AI在科研领域的应用拓展，对元宝探索专业领域AI助手和科学服务场景具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/tiktok-to-pay-400-million-to-settle-doj-child-privacy-case": {
+    "title_clean": "TikTok：因儿童隐私问题支付4亿美元和解金",
+    "summary": "TikTok及其母公司字节跳动同意支付4亿美元，以解决美国司法部对其收集儿童数据的指控。这一和解反映了社交媒体平台在儿童数据保护方面的法律风险，对元宝产品经理在处理用户数据隐私和合规方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

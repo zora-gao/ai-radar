@@ -67828,5 +67828,43 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research": {
+    "title_clean": "Inherent：DeepMind团队开发的AI研究复现工具",
+    "summary": "DeepMind前成员创立的英国AI实验室Inherent发布了Faraday AI助手，该工具在复现科研论文方面表现优于Anthropic和OpenAI的产品，可能成为科研创新的重要工具。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15": {
+    "title_clean": "Nvidia：AI服务器价格上涨超15%",
+    "summary": "Nvidia通知主要客户，其AI芯片服务器价格将普遍上涨超过15%，主要原因是内存芯片成本飙升。这对元宝产品经理了解AI硬件成本变化及可能影响AI服务定价策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-22/scenes-from-the-2026-beijing-world-humanoid-robot-games-video": {
+    "title_clean": "2026年北京世界人形机器人大赛：666支队伍携2000+机器人参赛",
+    "summary": "2026年世界人形机器人大赛已在北京开幕，全球666支队伍携超过2000台人形机器人参赛。这展示了人形机器人技术的最新进展和实际应用场景，对AI助手和AI Agent在物理世界的交互能力发展有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

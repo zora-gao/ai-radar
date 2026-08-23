@@ -68019,5 +68019,92 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/claude-academy": {
+    "title_clean": "Claude Academy：Anthropic官方学习中心",
+    "summary": "Anthropic推出的官方学习平台Claude Academy，为用户提供Claude AI的使用教程和最佳实践指南。这对产品经理了解Anthropic如何培训用户使用AI助手产品，以及如何构建完善的学习支持体系具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openlogi": {
+    "title_clean": "OpenLogi：本地化Logitech Options+替代工具",
+    "summary": "OpenLogi是一款本地化替代Logitech Options+的工具，提供鼠标、键盘等外设的本地化配置管理功能，无需云端连接即可完成设备设置，为注重隐私和离线使用的用户提供外设管理解决方案。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yatko": {
+    "title_clean": "Yatko：GitHub文件下载工具",
+    "summary": "Yatko是一款为GitHub添加下载按钮的工具，解决了GitHub原生界面无法直接下载文件的问题。产品经理可参考其解决特定平台功能缺失的思路，以及如何通过简单插件满足用户基础需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yattayo": {
+    "title_clean": "Yattayo：3D物理滑块任务看板工具",
+    "summary": "Yattayo是一款将实体滑块任务看板在3D环境中重建的工具，为用户提供直观的任务管理体验。这种物理交互方式可能启发AI助手在任务可视化与实体交互方面的设计思路，为用户提供不同于纯数字界面的任务管理选择。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tab-notes": {
+    "title_clean": "Tab Notes：浏览器标签页笔记工具",
+    "summary": "Tab Notes是一款浏览器扩展工具，将浏览器新标签页转换为无干扰的笔记界面，帮助用户快速记录想法和任务，提升工作效率。产品经理可参考此类轻量级工具如何通过简化用户界面来提高专注度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/plask-3": {
+    "title_clean": "Plask：Apple Watch 潜水深度追踪工具",
+    "summary": "Plask 是一款为 Apple Watch 设计的应用，通过虚拟小鸭形象可视化展示用户的潜水深度，提供趣味性的水下活动追踪体验。这款产品展示了可穿戴设备在垂直场景下的创新应用，为元宝在健康与运动类AI服务场景设计提供了参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kanasensei": {
+    "title_clean": "KanaSensei：日语假名快速学习工具",
+    "summary": "KanaSensei是一款专注于帮助用户在两周内掌握日语假名（平假名和片假名）的学习工具。对于元宝产品经理而言，该产品展示了垂直领域语言学习AI应用的潜力，可作为多模态交互和个性化学习场景的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -67916,5 +67916,70 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051764&idx=2&sn=58637bc2b1878fe6cf806bd7c3870799": {
+    "title_clean": "牛来大模型：限时免费AI聊天助手",
+    "summary": "名为'牛来'的大模型产品近期在网络上引发关注，目前提供限时免费服务。作为新晋AI聊天助手，其市场表现和用户反馈值得元宝产品团队关注，可能影响市场竞争格局和用户对免费AI服务的期待。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051761&idx=1&sn=7675caf5d8dbd2587c65a5b77b935d40": {
+    "title_clean": "WRC压轴：大模型要上天了，三家公司造「太空龙虾」，6个月挑战在轨抓取",
+    "summary": "三家公司合作开发名为「太空龙虾」的AI大模型，计划在6个月内实现在轨抓取任务。这标志着AI大模型开始向太空探索领域拓展，为元宝产品经理提供了AI技术在特殊场景应用的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors": {
+    "title_clean": "哈佛商学院推出699美元创业训练营，提供AI导师虚拟形象",
+    "summary": "哈佛商学院HBS Foundry项目推出AI导师虚拟形象，可在创业路演和董事会模拟练习中提供反馈。这一AI教育应用展示了AI在专业培训场景中的实际应用，为元宝在教育培训领域的AI应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051764&idx=1&sn=4fc1d0fb32f6890dcf1cc350db2e19fa": {
+    "title_clean": "单卡5090跑满血DeepSeekV4Flash，已开源，Token自由了！",
+    "summary": "DeepSeekV4Flash模型已开源，可在单张RTX 5090显卡上高效运行，大幅降低AI推理成本，使Token使用更加自由。这对产品经理评估AI模型部署成本和性能优化具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051731&idx=1&sn=c91c0d0c7147038e9eced44f3fdfc063": {
+    "title_clean": "EinsiaAI发布AI4AI-Bench：AI自我设计能力评估基准",
+    "summary": "EinsiaAI推出AI4AI-Bench基准测试，评估AI设计更优AI的能力，结果显示当前最强AI自我改进得分仅0.16分。这一基准对评估AI自主进化能力、研发下一代AI架构具有重要参考价值，为元宝产品团队提供了衡量AI自我迭代能力的量化标准。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

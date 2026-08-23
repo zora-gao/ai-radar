@@ -68193,5 +68193,106 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051871&idx=1&sn=26b7a8d553f86fc31ac909951978d082": {
+    "title_clean": "AstraTennis：人形机器人首次挑战单打混双",
+    "summary": "人形机器人AstraTennis在全球范围内首次尝试挑战单打和混双网球比赛，展示了机器人在复杂运动场景中的能力，为AI助手在物理世界中的应用提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051874&idx=2&sn=2a3b5f51c99de2255b2346d19ca2639b": {
+    "title_clean": "PlayWorld：AI Agent长程目标评测基准",
+    "summary": "PlayWorld是一个新的评测基准，让AI Agent通过'试玩'世界模型来评估长程目标能力。这一工具为AI Agent的长期规划与执行能力提供了标准化的测试方法，对产品经理评估AI Agent性能和设计长期任务场景具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051875&idx=1&sn=0771779c9b47e5b24b73db4885865c9c": {
+    "title_clean": "2026WRC：人形机器人从表演转向实际应用",
+    "summary": "2026世界机器人大会显示人形机器人已从展示性表演转向实际工作场景，关注点从炫技转向实用落地，探讨哪些企业成功实现商业化应用，为AI助手和Agent提供实体交互参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051783&idx=1&sn=83423914be1194f886a365bb24ed78a1": {
+    "title_clean": "DeepSeek宣布周末全天谷价",
+    "summary": "DeepSeek宣布周末全天谷价，可能意味着周末使用AI服务的成本降低。这一价格策略变化可能影响用户使用习惯，对产品经理思考定价策略和用户活跃度提升有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051871&idx=2&sn=c7bde7687536aaf213660f37be247bba": {
+    "title_clean": "普林斯顿团队发布全开放文生图配方i1",
+    "summary": "普林斯顿团队通过300多组控制实验和70万余TPU小时，发布了全开放文生图配方i1，为AI图像生成领域提供了新的技术方案，对产品经理了解AI生成技术的最新进展和优化方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-23/lessons-from-hollywood-s-best-year-since-2019": {
+    "title_clean": "好莱坞2019年以来最佳年份的经验教训",
+    "summary": "文章采访了四位好莱坞行业权威人士，探讨电影行业的现状与发展趋势。虽然与AI产品无直接关联，但其内容创作、商业模式和用户体验方面的经验可能对元宝的产品策略和内容生态建设有一定参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051783&idx=2&sn=3ac1dd7e62565fd3e64a48058379e07d": {
+    "title_clean": "Google：环境可拥有Harness技术",
+    "summary": "Google提出环境可拥有Harness技术，与agent类似，这可能意味着AI系统可以更好地理解和适应环境，为AI助手提供更强大的环境交互能力，对产品经理设计更智能的AI助手交互方式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-23/hugging-face-gauging-interest-for-potential-sale-business-insider-says": {
+    "title_clean": "Hugging Face：AI平台拟以13亿美元估值寻求买家",
+    "summary": "Hugging Face正探索潜在出售事宜，据Business Insider报道，该AI平台估值可能达到13亿美元或更高。这一动向对元宝产品经理具有重要参考价值，反映了AI基础设施领域的商业机会与市场动态。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

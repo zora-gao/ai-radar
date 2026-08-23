@@ -67981,5 +67981,43 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access": {
+    "title_clean": "Ox Alpha：神秘免费AI模型吸引开发者",
+    "summary": "名为Ox Alpha的AI模型在网上免费开放后迅速获得开发者关注，但其创建者身份仍然成谜。这一现象表明市场对免费AI模型的强烈需求，可能影响元宝的产品定价策略和开发者生态建设。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-23/deepseek-ends-weekend-peak-pricing-for-api-users-from-today": {
+    "title_clean": "DeepSeek取消周末API高峰定价",
+    "summary": "DeepSeek宣布从8月23日起取消周末API高峰定价，周六和周日的使用费用将按照非高峰时段费率收取。这一调整将降低开发者在周末使用DeepSeek API的成本，可能提高API使用频率和用户粘性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion": {
+    "title_clean": "阿里巴巴：拟筹资100亿美元用于AI扩张",
+    "summary": "阿里巴巴计划通过出售股票筹集约100亿美元，这是其争夺全球人工智能领导地位的最新举措。这笔资金将用于加强AI技术研发和竞争，对元宝产品经理了解科技巨头在AI领域的战略布局和资源投入具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

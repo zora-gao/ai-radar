@@ -68355,5 +68355,29 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/softbank-plans-record-1-trillion-retail-bond-offering-in-japan": {
+    "title_clean": "软银计划在日本创纪录发行63亿美元零售债券",
+    "summary": "软银集团计划在日本发行创纪录的1万亿日元(63亿美元)零售债券，这是日本历史上规模最大的企业债券发行，旨在筹集资金用于其对OpenAI的投资承诺。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/congo-ebola-outbreak-spreads-as-violence-and-strikes-disrupt-response": {
+    "title_clean": "刚果埃博拉疫情蔓延：暴力与罢工扰乱防控",
+    "summary": "刚果东部埃博拉疫情蔓延，医护人员在埋葬受害者时遭遇持砍刀追击，这是防控埃博拉疫情的最新袭击事件。暴力活动和罢工严重干扰了疫情响应工作，对公共卫生应急系统构成挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

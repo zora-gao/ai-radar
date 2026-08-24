@@ -68294,5 +68294,66 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051875&idx=2&sn=a3089cb5cdb85cb8347e0e9cba0c8e31": {
+    "title_clean": "小狗Rosie病历转化为AI医疗公司",
+    "summary": "基于已故宠物小狗Rosie的病历数据创立了一家AI医疗公司，将个人宠物医疗数据转化为AI服务，展示了宠物医疗数据在AI应用中的价值转化路径。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-23/uk-fintech-funding-drops-to-lowest-level-in-at-least-a-decade": {
+    "title_clean": "英国金融科技投资降至十年最低",
+    "summary": "2023年上半年英国金融科技领域投资降至至少2016年以来最低水平，投资者转向人工智能相关企业。这一趋势反映了资金流向变化，对元宝产品经理了解AI投资热点和金融科技领域资金动态有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-23/asia-s-busiest-earnings-week-to-test-ai-boom-china-recovery": {
+    "title_clean": "亚洲企业财报周将检验AI热潮与中国经济复苏",
+    "summary": "亚洲多家大型企业将进入当前财报季最繁忙的一周，企业财报将检验AI热潮的持续性和中国消费复苏情况，对元宝产品经理了解AI行业实际应用效果和市场信心有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video": {
+    "title_clean": "Nvidia：AI服务器价格上涨通知",
+    "summary": "Nvidia通知主要客户，其AI芯片服务器价格将普遍上涨15%以上，主要原因是内存芯片成本飙升。这一价格调整反映了AI硬件市场的供需紧张状况，对元宝的产品经理评估AI服务成本和定价策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051874&idx=1&sn=c7a9dc5b2fae3a9b6da14c07bced26fa": {
+    "title_clean": "当AI开始造AI，「强RSI」还有多远?",
+    "summary": "探讨AI系统自主创建AI的前沿进展，分析当前AI自我迭代能力与实现真正强RSI(自我改进系统)的差距，为元宝产品经理提供AI自主进化方向的技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

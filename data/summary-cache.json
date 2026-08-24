@@ -68614,5 +68614,113 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/paymentkit": {
+    "title_clean": "PaymentKit：支付处理容错工具",
+    "summary": "PaymentKit提供支付处理容错解决方案，确保在支付处理器故障时仍能完成交易。这对AI助手类产品在集成支付功能时提供高可用性参考，特别是在处理用户支付场景时如何保障服务连续性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/decawork": {
+    "title_clean": "Decawork：企业内部AI工具管理平台",
+    "summary": "Decawork提供企业内部AI代理和工具的管理控制功能，帮助组织统一管理和部署AI资源，对元宝产品经理在AI企业级应用和工具管理方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/phoenix-10": {
+    "title_clean": "Phoenix：iOS/macOS 应用开发 AI 编程助手",
+    "summary": "Phoenix 是一款专为 iOS 和 macOS 应用开发设计的 AI 编程助手，能够帮助开发者更高效地完成代码编写和调试工作。对于元宝产品经理而言，这代表了 AI 辅助编程工具在特定平台上的专业化趋势，值得关注其功能设计和用户体验，可能启发元宝在垂直领域 AI 助手的开发思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/alibaba-drops-softbank-bond-sale-stock-movers-video": {
+    "title_clean": "阿里巴巴股价下跌、软银债券发售、比特币上涨：股市动态",
+    "summary": "阿里巴巴宣布计划通过股票筹集约102亿美元，导致股价下跌；软银进行债券发售；比特币价格上涨。这些股市动态对元宝产品经理的参考价值有限，主要反映的是金融市场的短期波动，而非AI产品或服务的发展趋势。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy": {
+    "title_clean": "保时捷与塔塔咨询签署15亿美元AI合作",
+    "summary": "保时捷与印度塔塔咨询服务公司签署15亿美元AI合作协议，将部署人工智能技术，同时保时捷同意将其咨询部门出售给这家印度软件公司。这笔大额交易反映了汽车行业对AI技术的重视，以及跨国企业寻求AI解决方案的趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/china-develops-missile-to-target-planes-thousands-of-miles-away": {
+    "title_clean": "中国研发远程空对空导弹系统",
+    "summary": "中国军方开发了高超音速滑翔飞行器，可发射空对空武器，能够威胁数千公里外的高价值目标如指挥控制飞机。这一军事技术进步对AI产品经理的参考价值有限，主要属于国防科技领域，与AI助手、Agent或服务场景无直接关联。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/kongsberg-plans-to-build-low-cost-missiles-in-europe-ceo-says": {
+    "title_clean": "Kongsberg计划在欧洲低成本导弹生产",
+    "summary": "挪威最大国防公司Kongsberg Gruppen CEO表示，公司正与欧洲政府洽谈扩大低成本导弹生产。这反映了国防工业对成本效益武器系统的需求增长，对元宝产品经理了解军工领域AI应用与成本控制策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-24/perfect-ai-resumes-lead-employers-to-prioritize-in-person-interaction": {
+    "title_clean": "AI简历泛滥促使雇主重视面对面互动",
+    "summary": "在AI简历泛滥的时代，雇主正通过加强网络建设、现场评估和电话面试等方式，寻找真实候选人，以应对简历同质化问题，这对AI助手产品在求职场景中的定位和功能设计有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/gowish-valued-at-more-than-200-million-in-fresh-funding-round": {
+    "title_clean": "GoWish：丹麦愿望清单应用获超2亿美元估值",
+    "summary": "丹麦愿望清单应用GoWish在新一轮融资中获得超过2亿美元的估值，这将帮助该公司进一步拓展美国市场，该应用已成为美国下载量最高的应用之一。对于产品经理而言，这反映了愿望清单类应用在欧美市场的商业潜力和用户接受度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

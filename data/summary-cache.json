@@ -68722,5 +68722,140 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/contrive": {
+    "title_clean": "Contrive：跨工作应用搜索与执行工具",
+    "summary": "Contrive是一款AI工具，能够搜索并执行用户所有工作应用中的任务，实现跨平台自动化操作。这为元宝产品经理提供了AI Agent在办公场景下整合多应用能力的参考价值，有助于思考如何扩展元宝的跨应用服务能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/ives-nvidia-earnings-could-be-the-next-big-ai-catalyst-video": {
+    "title_clean": "Nvidia财报或成AI股票新催化剂",
+    "summary": "Nvidia将于周三发布财报，分析师预计其营收同比增长近一倍至920亿美元，这将进一步巩固其在AI领域的领先地位。对产品经理而言，这反映了AI硬件市场的强劲增长和Nvidia在AI基础设施中的关键角色，对评估AI产品技术路线和供应链策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/australia-data-center-power-use-seen-jumping-sevenfold-by-2036": {
+    "title_clean": "澳大利亚数据中心电力消耗预计2036年增长七倍",
+    "summary": "澳大利亚数据中心电力消耗预计未来十年内增长近七倍，随着该国老旧燃煤电厂逐步退役，凸显了对发电和储能设施投资的迫切需求。这一趋势对AI服务基础设施规划具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe": {
+    "title_clean": "台湾起诉英伟达经理涉芯片走私案",
+    "summary": "台湾检方起诉英伟达一名高级经理，指控其参与将先进AI芯片走私至中国的案件。此事件反映了全球AI芯片供应链的地缘政治风险，对元宝产品经理了解AI硬件供应链安全与合规挑战具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/eoptolink-s-ai-boom-stockpiling-sends-inventory-ballooning": {
+    "title_clean": "Eoptolink：AI光模块制造商库存激增61%",
+    "summary": "中国光模块制造商Eoptolink Technology为满足AI需求激增并防范供应链限制，积极囤积关键组件，导致其库存价值同比增长61%。这反映了AI硬件供应链的紧张状态和厂商应对策略，对元宝产品经理了解AI基础设施供应链动态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/walsh-would-buy-a-lot-of-30-year-us-treasuries-at-6-video": {
+    "title_clean": "Guggenheim高管：愿在6%收益率时大量买入30年期美国国债",
+    "summary": "古根海姆合伙人投资管理公司首席投资官Anne Walsh表示，若30年期美国国债收益率达到6%，她会大量买入。同时她讨论了投资AI数据相关的风险。此资讯对产品经理了解金融市场动态和AI投资风险有一定参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-08-24/nvidia-s-trillion-dollar-chip-market-has-friends-and-foes-closing-in": {
+    "title_clean": "英伟达万亿美元芯片市场面临竞争加剧",
+    "summary": "英伟达目前仍主导芯片市场，但多家公司正涌入其领域，竞争态势日益激烈。这对AI产品经理了解底层硬件竞争格局、评估供应链风险及成本变化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-executives-buy-15-million-in-shares-after-new-offering": {
+    "title_clean": "阿里巴巴高管在AI融资后增持1500万美元股票",
+    "summary": "阿里巴巴集团高管在因AI支出引发资本增发导致股价下跌后，增持了约1500万美元公司股票。这一动向表明公司高层对AI战略的信心，对元宝产品经理评估AI业务投资与市场信心有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech": {
+    "title_clean": "高估值独角兽主导的初创企业收购潮：AI竞争下的战略选择",
+    "summary": "在AI竞争白热化背景下，资金充足的初创企业更倾向于通过收购而非自主研发来获取关键技术，高估值独角兽正主导这一趋势。这对元宝产品经理的参考价值在于：了解AI领域技术获取的替代路径，评估收购策略对产品迭代速度的影响，以及潜在的合作或被收购机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/internalized-visual-thinking": {
+    "title_clean": "Beyond Visual CoT: 内化视觉思维实现主动视频推理",
+    "summary": "该研究提出超越传统视觉思维链(Visual CoT)的新方法，通过内化视觉思维实现主动视频推理，能够处理空间、时间和具身环境中的复杂问题，为多模态大模型在视频理解领域提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/uk-digital-investment-soars-to-dot-com-boom-levels-on-ai-rollout": {
+    "title_clean": "英国数字投资达互联网泡沫水平：AI推动数据中心建设热潮",
+    "summary": "英国企业去年投入超110亿英镑建设数字基础设施，主要用于支持人工智能的数据中心建设。这表明AI技术正引发大规模资本投入，对元宝产品经理了解AI基础设施投资趋势和市场需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

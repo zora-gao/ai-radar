@@ -68857,5 +68857,88 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/treebar-where-is-codex": {
+    "title_clean": "Treebar：Git工作树管理工具",
+    "summary": "Treebar是一款Git工作树管理工具，提供所有活跃工作树的统一视图，帮助开发者更高效地管理多个代码分支。对于元宝产品经理而言，这展示了如何通过简化复杂开发流程来提升用户效率，可作为多任务管理场景的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns": {
+    "title_clean": "Instinct：AI助手引发隐私安全担忧",
+    "summary": "Instinct是一款AI助手，早期测试用户对其功能表示赞赏，但该助手广泛的访问权限、宽泛的条款以及代表用户操作的能力引发了隐私和安全方面的担忧，产品经理需关注此类AI助手权限边界与用户信任平衡问题。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/open-interest-8-24-2026-video": {
+    "title_clean": "Markets Eye Bessent, Warsh, Nvidia | Open Interest 8/24/2026：金融市场关注贝森特、沃什与英伟达动态",
+    "summary": "彭博'未平仓兴趣'节目提前预览美国交易日，国债持续上涨，华尔街正关注贝森特在杰克逊霍尔会议前的动向，同时英伟达也受到市场关注。此资讯对元宝产品经理了解金融市场动态和投资者关注点有参考价值，可能影响AI助手在金融信息处理方面的功能设计。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding": {
+    "title_clean": "XPENG IRON：人形机器人平台获9亿美元融资",
+    "summary": "小鹏汽车旗下物理AI部门完成9亿美元融资，公司估值达63亿美元，用于扩展其IRON人形机器人平台。这是物理AI领域最大规模融资之一，显示人形机器人商业化进程加速，对AI助手和Agent的物理交互能力发展有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/jpmorgan-s-berro-says-high-grade-market-can-weather-rush-video": {
+    "title_clean": "摩根大通高管：高评级债券市场可应对大量发行",
+    "summary": "摩根大通资产管理公司固定收益投资组合经理Kelsey Berro表示，债券市场能够应对可能达到2500亿美元的高评级债券发行浪潮，预计9月将迎来大量发行。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/eu-s-curbs-threaten-27-of-chinese-exports-to-bloc-goldman-says": {
+    "title_clean": "欧盟贸易限制威胁中国27%对欧出口：高盛报告",
+    "summary": "高盛报告指出，欧盟现有及拟议的对华贸易措施可能覆盖中国对欧盟年度名义出口的约27%，显示中欧贸易摩擦的严重性，对元宝产品经理评估国际市场风险和业务布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive": {
+    "title_clean": "Michael Polansky：AI活体皮肤组织维持技术",
+    "summary": "Michael Polansky正开发AI驱动的初创公司，专注于维持活体人类皮肤组织的存活。这项技术可能为化妆品测试、医疗研究等领域提供新的实验平台，对元宝产品经理了解AI在生物医疗领域的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

@@ -68940,5 +68940,117 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-riskexec-inc": {
+    "title_clean": "RiskExec, Inc. CEO访谈：企业风险管理市场定位",
+    "summary": "RiskExec, Inc. CEO Erik R. Pieczkowski接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在风险管理领域的定位。这为AI助手产品在B端风险管理场景的应用提供了市场洞察和客户需求参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-blostem": {
+    "title_clean": "Blostem CEO访谈：市场定位与客户需求分析",
+    "summary": "Blostem CEO Sandeep Garg接受CB Insights采访，阐述公司市场定位、客户需求分析及业务发展方向。作为一家AI相关企业，其市场策略和客户洞察对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/crypto-s-24-7-markets-take-aim-at-wall-street-video": {
+    "title_clean": "加密货币市场挑战华尔街：24/7交易模式崛起",
+    "summary": "Trade.xyz等加密货币市场正推动传统金融市场向全天候交易模式转变，该平台基于Hyperliquid交易所已产生约5000亿美元交易量，展示了加密市场对传统金融体系的颠覆性影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-principia": {
+    "title_clean": "CEO访谈：Principia",
+    "summary": "Principia CEO Newton Maia接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了AI创业公司对市场定位和客户需求的专业见解，对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205": {
+    "title_clean": "中国黑客利用DeepSeek增强攻击能力",
+    "summary": "研究人员发现中国黑客已将DeepSeek等开源AI模型整合到攻击操作中，展示了攻击者利用基础AI工具提升攻击能力的情况。这对产品经理有参考价值，提示需关注AI技术被滥用的风险，以及如何加强产品安全防护措施。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-alkmist": {
+    "title_clean": "CEO访谈：Alkmist",
+    "summary": "Alkmist CEO Mathias Celis接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。作为一家AI相关企业，其市场定位和战略思考对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-kin": {
+    "title_clean": "Kin CEO访谈：AI金融服务市场定位",
+    "summary": "Kin CEO Sean Harper接受CB Insights采访，阐述其公司对市场的理解、客户需求分析以及Kin在金融服务领域的定位。访谈探讨了Kin如何定义市场空间及其在其中的战略位置，为AI金融服务产品提供市场洞察。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them": {
+    "title_clean": "OpenAI正构建全方位AI代理，将面向大众推广",
+    "summary": "OpenAI正在开发面向大众的AI代理技术，从软件工程师扩展到普通用户。这一举措可能改变AI助手的使用方式，为元宝产品在AI Agent领域的发展提供重要参考，值得密切关注其产品形态和用户接受度。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/alibaba-raises-10-bln-in-record-hong-kong-share-sale-video": {
+    "title_clean": "阿里巴巴：香港创纪录股票融资100亿美元",
+    "summary": "阿里巴巴在香港完成创纪录的第二轮股票发行，融资100亿美元，出售7.1亿股。此次融资显示阿里巴巴正积极布局AI领域，作为从电商巨头向AI玩家转型的战略资金支持，对元宝产品经理了解科技巨头AI战略投入和资金动向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

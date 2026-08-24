@@ -68578,5 +68578,41 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/lucid-train": {
+    "title_clean": "Lucid Train：代码库系统设计工具",
+    "summary": "Lucid Train是一款专注于为新旧代码库构建系统设计的工具，帮助开发者更高效地进行架构设计和代码组织。对于元宝产品经理而言，这类工具展示了AI在软件开发辅助领域的应用潜力，可作为AI Agent在代码理解和生成场景的参考案例。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-24/microsoft-ai-business-is-concentrated-with-openai-tiktok-meta": {
+    "title_clean": "Microsoft AI业务高度依赖OpenAI、TikTok和Meta",
+    "summary": "微软AI业务高度集中在少数大客户，OpenAI、TikTok和Meta占据其云服务客户名单的主导地位。这一集中度反映了微软AI战略的合作伙伴依赖性，对产品经理评估AI业务风险和多元化战略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/aviva-fund-manager-urges-stock-diversification-if-yields-hit-5": {
+    "title_clean": "Aviva Fund Manager：股票投资分散化建议",
+    "summary": "Aviva Investors全球股票基金经理Richard Saldanha表示，若美国10年期国债收益率达到5%，股票投资者应分散集中持股。这一建议对AI投资助手在金融场景下的资产配置功能有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

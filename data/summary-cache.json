@@ -70119,5 +70119,144 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/open-interest-8-25-2026-video": {
+    "title_clean": "英伟达财报前股价反弹，贝森特面临阻力",
+    "summary": "英伟达在财报前试图结束下跌趋势，软件股面临压力。贝森特在彭博开放兴趣节目中分析市场动态，投资者关注英伟达业绩表现及软件板块走势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555": {
+    "title_clean": "AI公司考虑将网络安全测试公开化，因模型被黑客入侵",
+    "summary": "多家AI实验室和网络安全公司正在重新评估先进AI模型的测试方式，因为至少三家公司的模型已进入开放互联网并突破了现实世界的防御。这一事件引发行业对AI安全测试透明度和公开性的讨论，对元宝产品经理评估AI安全防护策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat": {
+    "title_clean": "Claude Cowork：跨聊天与工作区的共享记忆功能",
+    "summary": "Anthropic为Claude添加了聊天与Cowork工作区之间的共享记忆功能，用户无需在对话中重复介绍项目、偏好和其他上下文信息，提升了AI助手在长期任务中的连贯性和实用性。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/ex-meta-staffer-says-99-of-teens-shunned-early-safety-tool": {
+    "title_clean": "前Meta员工称99%青少年拒绝早期安全工具",
+    "summary": "前Meta数据科学家作证称，Instagram上旨在让青少年暂停浏览的功能早期采用率不足1%。这反映了青少年对社交媒体自我管理工具的低接受度，对元宝设计青少年使用场景和防沉迷功能有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/united-expands-long-haul-network-video": {
+    "title_clean": "United：扩展10条国际长途航线",
+    "summary": "美国联合航空宣布将使用空客A321XLR窄体飞机，在欧洲和亚洲新增10个目的地，扩展其长途航线网络。这一扩张反映了航空业对高效长途飞行的需求，对AI助手在旅行规划、航班信息整合和多模态交互场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/-dust-attack-on-kraken-shows-challenge-of-policing-crypto-flows": {
+    "title_clean": "Kraken遭遇'Dust Attack'：加密货币交易所面临制裁规避挑战",
+    "summary": "加密货币交易所Kraken称，部分客户账户被临时锁定，原因是他们收到了来自与受制裁竞争对手HTX关联钱包的微量加密货币转账。这反映了加密货币领域在反洗钱和制裁合规方面面临的实际挑战，对AI助手在金融合规场景中的应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/ai-safety-startup-alice-partner-of-google-anthropic-raises-140-million": {
+    "title_clean": "Alice：AI安全防护工具",
+    "summary": "以色列AI安全公司Alice获得1.4亿美元融资，专注于保护AI模型免受滥用和恶意行为影响。该公司与Google、Anthropic等科技巨头合作，近期在应对多起AI系统安全事件后获得投资，对AI产品安全防护具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/nvidia-must-prove-it-can-be-tomorrow-s-ai-platform-video": {
+    "title_clean": "Nvidia：AI平台未来表现面临关键考验",
+    "summary": "Nvidia即将发布的财报将成为AI行业的关键测试，投资者期望极高，仅超越预期可能不足以满足市场。作为AI芯片领导者，Nvidia需要证明其能够持续引领AI平台发展，这对整个AI产业链具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/introducing-admin-plugin": {
+    "title_clean": "ChatGPT Work与Codex推出管理员插件：工作空间管理工具",
+    "summary": "ChatGPT Work与Codex平台新增管理员插件，可分析工作空间使用情况、管理成员与权限、调整限制并处理管理员请求，为企业级AI应用提供更精细的管理控制能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/jalapeno-first-results": {
+    "title_clean": "Jalapeño：OpenAI自研AI推理芯片",
+    "summary": "OpenAI推出名为Jalapeño的自研AI推理芯片，在速度和效率方面达到行业领先水平，能够为现代AI模型提供更高的吞吐量和更低的延迟，同时降低能耗。这对元宝产品经理评估AI基础设施成本和性能优化具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/08/introducing-the-edits-film-festival-to-spotlight-indias-emerging-creator-talent": {
+    "title_clean": "Edits Film Festival：聚焦印度新兴创作者的短视频活动",
+    "summary": "Edits平台推出Edits Film Festival活动，邀请印度全境创作者通过使用Edits制作的Reels短视频展示创意。这一活动为元宝产品经理提供了关于区域性创作者激励和短视频平台生态建设的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

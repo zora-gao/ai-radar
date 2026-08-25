@@ -69489,5 +69489,30 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/keymap": {
+    "title_clean": "Keymap：键盘快捷键管理工具",
+    "summary": "Keymap是一款键盘快捷键管理工具，通过双击Command键即可快速访问所有快捷键，旨在提升用户操作效率。对于元宝产品经理而言，这类工具的设计思路可参考到AI助手如何更高效地帮助用户管理常用操作和命令。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/alchemize": {
+    "title_clean": "Alchemize：代码质量保障工具",
+    "summary": "Alchemize 是一款代码质量保障工具，帮助开发者更自信地发布代码。该工具专注于提升代码质量，减少发布风险，为开发团队提供代码审查和质量管理支持，对元宝产品经理在AI辅助编程和代码质量评估场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

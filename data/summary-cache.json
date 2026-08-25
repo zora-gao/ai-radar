@@ -69678,5 +69678,117 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/buddy": {
+    "title_clean": "Buddy Visual Tests：UI变更自动化测试工具",
+    "summary": "Buddy Visual Tests是一款自动化测试工具，可在代码合并前自动检测UI界面的视觉变化，帮助开发团队提前发现界面异常，确保产品UI一致性，减少人工测试成本。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/whoisthegoat-lol": {
+    "title_clean": "whoisthegoat.lol：AI体育GOAT竞猜平台",
+    "summary": "这是一个允许用户通过竞标方式投票选出体育史上最伟大运动员(GOAT)的互动平台。用户只能用垃圾邮件(bid $ for the trash only)参与竞标，这种独特的参与方式可能启发元宝在社区互动和用户参与机制上的创新思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/deutsche-bank-accelerates-ai-adoption-with-new-google-service": {
+    "title_clean": "德意志银行采用谷歌云AI服务加速数字化转型",
+    "summary": "德意志银行引入谷歌云新的人工智能服务，旨在增加收入并控制成本，加速AI技术在金融领域的应用，为AI服务商业化提供行业参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/india-tech-firms-face-less-exposure-to-trump-s-103-000-h-1b-fee": {
+    "title_clean": "印度科技企业减少对H-1B签证依赖",
+    "summary": "印度IT行业组织表示，近年来印度科技公司在美雇佣更多本地员工，减少了对高技能签证的依赖，这可能限制特朗普政府拟征收的10.3万美元H-1B签证费对印度科技企业的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/postaway-space": {
+    "title_clean": "Postaway.space：怀旧明信片分享服务",
+    "summary": "Postaway.space是一个怀旧明信片分享平台，用户可以收到过去时光的实体明信片。该服务通过邮寄方式将怀旧内容传递给用户，为AI助手产品提供了情感化交互和实体服务场景的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": {
+    "title_clean": "Quantization-Aware Healing：压缩4位模型性能超越全精度原版",
+    "summary": "该研究提出了一种名为'量化感知修复'的技术，能够创建压缩至4位的模型，同时性能超越原始全精度模型。这项技术对AI产品经理有参考价值，因为它可能降低模型部署成本并提升效率，为移动端和边缘设备上的AI应用提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-25/ai-use-cases-are-ceo-bragging-rights": {
+    "title_clean": "AI用例成为CEO的炫耀资本",
+    "summary": "企业高管正将AI处理业务流程作为展示公司技术实力的方式，这反映了AI在企业应用中的价值已从技术工具转变为品牌营销和竞争优势的象征，对产品经理了解AI在企业中的定位和价值传播有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/chinese-military-thinkers-outline-role-of-ai-in-future-warfare": {
+    "title_clean": "中国军事思想家阐述AI在未来战争中的作用",
+    "summary": "中国顶尖军事思想家撰文阐述AI如何帮助指挥官更快做出战场决策，文章罕见揭示了中国军事现代化进程中的AI应用方向，对元宝产品经理了解AI在军事决策场景的应用价值有参考意义。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/pwc-search": {
+    "title_clean": "Hugging Face：论文代码搜索的推理端点与任务系统",
+    "summary": "Hugging Face通过推理端点、任务和存储桶技术，为Papers with Code平台提供搜索能力支持。这一系统展示了AI模型在学术代码检索场景的实际应用，为元宝产品在专业领域搜索功能实现提供了技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

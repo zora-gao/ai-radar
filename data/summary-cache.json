@@ -69303,5 +69303,93 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052174&idx=2&sn=5880d38a8f2d7722f9791371bac6f669": {
+    "title_clean": "斯坦福教授直播训练535B大模型：模型训练黑箱揭秘",
+    "summary": "斯坦福教授公开直播535B大模型训练过程，旨在揭开大模型训练的'黑箱'操作。这一研究对AI产品经理了解大模型训练机制、优化模型性能及降低训练成本具有重要参考价值，可能影响未来AI产品的技术路线选择。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/the-close-8-24-2026-video": {
+    "title_clean": "市场下跌：英伟达、收益率与货币贬值交易影响市场",
+    "summary": "彭博电视报道华尔街收盘前后的最新市场动态，分析英伟达表现、收益率变化及货币贬值交易对市场的潜在影响，为产品经理提供AI相关企业市场表现参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052153&idx=3&sn=73608f6d8689d58e5b250a2cf643d66c": {
+    "title_clean": "MedGuard：诊疗事实核查安全工具",
+    "summary": "MedGuard是一款将事实核查功能嵌入诊疗流程的工具，作为医疗安全的守门人，旨在提高诊疗过程中的准确性和安全性。这款产品对AI医疗助手和健康管理类产品经理具有重要参考价值，特别是在如何将AI能力应用于专业领域保障安全方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-customers-brace-for-higher-ai-costs-video": {
+    "title_clean": "Nvidia 客户面临 AI 系统成本上涨",
+    "summary": "Nvidia 客户收到警告，基于 Blackwell 和 Rubin 架构的 AI 系统成本可能上涨约15%，主要原因是内存成本飙升。这对 AI 产品经理意味着基础设施成本上升可能影响产品定价和利润空间，需评估成本传导策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/trump-s-family-joins-a-rush-to-start-new-banks-video": {
+    "title_clean": "特朗普家族申请国家银行牌照",
+    "summary": "特朗普家族已获得初步批准，计划在特朗普政府放松监管的浪潮下成立一家国家银行。这一动向反映了金融科技领域的新机遇，对于元宝产品经理而言，可能涉及金融服务场景的拓展机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-borderless-ai": {
+    "title_clean": "Borderless AI CEO访谈：市场定位与客户需求分析",
+    "summary": "Borderless AI CEO Willson Cross接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在行业中的定位。该访谈为AI产品经理提供了新兴AI企业的市场策略和客户洞察视角。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/linkedin-users-are-rewriting-the-past-to-land-jobs-video": {
+    "title_clean": "LinkedIn用户修改历史工作经历以提升求职成功率",
+    "summary": "斯坦福大学与Revelio Labs研究发现，近20%的美国LinkedIn用户会修改已离职多年的工作描述或职位，科技行业从业者尤为普遍。这一现象揭示了求职者如何通过优化个人历史信息来增强就业竞争力，对AI助手在职业规划与简历优化功能设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

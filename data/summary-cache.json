@@ -69391,5 +69391,67 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/sk-hynix-union-rejects-preliminary-wage-hike-deal-yonhap-says": {
+    "title_clean": "SK海力士工会初步薪资协议遭拒",
+    "summary": "SK海力士工会拒绝了初步薪资协议，该协议本应提高薪资并以公司股票形式发放部分奖金。这反映了科技行业劳资谈判的挑战，可能影响企业成本结构和员工激励策略，对元宝产品经理了解科技企业运营环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/could-robots-be-k-pop-s-next-stars-video": {
+    "title_clean": "机器人能否成为K-pop新偶像？",
+    "summary": "韩国Galaxy Corporation公司正在开发AI机器人偶像，试图通过物理AI技术打造未来超级明星。这一探索展示了AI在娱乐行业的创新应用，为元宝产品经理提供了AI虚拟角色与用户互动的新思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/apple-to-launch-new-mac-mini-airpods-5-and-oled-ipad-mini-timing-details": {
+    "title_clean": "苹果将推出新款Mac Mini；AirPods 5和OLED iPad Mini发布时间细节",
+    "summary": "苹果公司即将推出新款Mac Mini桌面电脑，这是近两年来的首次更新。同时，AirPods 5和OLED iPad Mini的发布时间细节也已被披露。对产品经理而言，这反映了苹果硬件更新节奏，可能影响AI助手在苹果生态中的适配策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/apple-cuts-jobs-as-it-reprioritizes-around-ai-video": {
+    "title_clean": "苹果重组资源转向AI，裁减Vision Pro、Siri及智能系统团队岗位",
+    "summary": "苹果公司正在重组资源，将重点转向新设备和人工智能领域，因此裁减了Vision Pro、Siri和智能系统体验团队的岗位。这一调整反映了苹果对AI战略的重新优先级排序，对产品经理了解科技巨头在AI领域的战略调整具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say": {
+    "title_clean": "中国黑客利用DeepSeek增强攻击能力",
+    "summary": "研究人员发现，中国黑客已将DeepSeek等开源AI模型整合到攻击操作中，展示了攻击者利用基础AI工具的能力增强。这对产品经理有警示价值，提示需关注AI工具被滥用的风险，并思考如何加强产品安全防护和内容审核机制。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

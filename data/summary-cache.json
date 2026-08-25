@@ -69202,5 +69202,106 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round": {
+    "title_clean": "AI云服务商Lambda拟融资30亿美元，为明年的IPO做准备",
+    "summary": "AI云计算服务提供商Lambda正在寻求高达30亿美元的Pre-IPO轮融资，由Nvidia支持。这笔融资将帮助Lambda为明年的上市做准备，反映了AI基础设施领域的资本活跃度和市场对AI云服务的强劲需求。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec": {
+    "title_clean": "Situational Awareness：AI对冲基金SEC调查事件",
+    "summary": "AI对冲基金Situational Awareness从华尔街热议对象迅速沦为联邦传讯目标，SEC正对其展开调查。此事件反映AI金融应用的风险监管问题，对元宝产品经理评估AI在金融场景的应用风险与合规边界有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052174&idx=1&sn=741a0f8f6121328ec2bed9472b995204": {
+    "title_clean": "英伟达服务器涨价超15%：百亿AI基建的内存难题",
+    "summary": "英伟达服务器价格上涨超过15%，反映出AI基础设施建设中面临的内存瓶颈问题。这一价格变动对AI产品经理具有重要参考价值，可能影响AI服务成本、部署策略以及竞品定价，需要关注内存技术替代方案和成本优化策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651051885&idx=1&sn=d0ea146ba9ee38c2582656eb45c65b53": {
+    "title_clean": "Claude两个新模型曝光",
+    "summary": "Claude发布两个新模型，具体功能和性能细节尚未公布。这对产品经理了解AI助手领域头部产品更新节奏和技术方向有参考价值，可作为竞品动态跟踪。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-tazapay": {
+    "title_clean": "CEO访谈：Tazapay支付平台",
+    "summary": "Tazapay CEO Rahul Shinghal接受CB Insights采访，分享公司对市场的看法、客户需求分析以及业务定位。该访谈揭示了支付平台的市场策略和客户洞察，对理解B2B支付解决方案的市场定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-24/tether-co-founder-on-bitcoin-s-bounce-clarity-act-hopes-video": {
+    "title_clean": "Tether联合创始人谈比特币反弹与清晰法案前景",
+    "summary": "Tether联合创始人Bill Quigley分析比特币正日益成为对冲美国政府通胀的黄金替代品，与黄金相关性升至0.71。这一趋势反映了比特币作为避险资产的价值提升，对元宝产品经理理解加密货币市场动态和用户资产配置需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026": {
+    "title_clean": "Replit CEO将参加TechCrunch Disrupt 2026分享编程未来",
+    "summary": "Replit联合创始人兼CEO Amjad Masad将在TechCrunch Disrupt 2026大会上分享编程领域的未来展望及Replit在其中的角色定位。这对元宝产品经理了解AI编程助手领域的发展方向和行业领袖观点具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/gpt-5-6-in-kiro": {
+    "title_clean": "Kiro推出GPT-5.6：提升开发者软件开发价格性能",
+    "summary": "Kiro平台现已上线GPT-5.6模型，专为开发者提供软件开发全流程支持，包括规划、构建、审查和测试，旨在提升开发过程中的价格性能比，为开发者提供更具成本效益的AI辅助开发工具。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

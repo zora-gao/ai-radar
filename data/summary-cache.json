@@ -69514,5 +69514,169 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/splitsense": {
+    "title_clean": "Splitsense：AI用户行为转化优化工具",
+    "summary": "Splitsense是一款AI工具，能够将用户行为数据转化为更高的转化率。它通过分析用户行为模式，帮助产品经理优化产品设计和用户体验，从而提升业务转化效果。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/session-indexer": {
+    "title_clean": "session-indexer：Claude Code会话历史语义搜索工具",
+    "summary": "session-indexer是一款工具，可对Claude Code的会话历史进行语义搜索，帮助用户快速查找和回顾之前的代码对话内容。对于元宝产品经理而言，这展示了AI助手会话历史管理和语义检索功能的潜在应用价值，可作为提升用户体验的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chatgpt-ad-library": {
+    "title_clean": "ChatGPT Ad Library：ChatGPT广告库",
+    "summary": "OpenAI推出ChatGPT广告库，允许用户查看在ChatGPT内运行的所有广告。这对产品经理了解AI助手商业化路径、广告展示形式及用户交互方式有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/electronic-materials-office-altar-i": {
+    "title_clean": "Altar II：苹果风格机械键盘",
+    "summary": "Altar II是一款模仿苹果设计风格的机械键盘，采用铝制外壳和简约设计，旨在为苹果用户提供与Mac设备美学一致的键盘体验。这款产品展示了外设厂商如何通过设计差异化切入苹果生态系统，对元宝在跨平台设计和服务场景拓展上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/diet-claude": {
+    "title_clean": "Diet Claude：Claude使用量管理工具",
+    "summary": "Diet Claude是一款帮助用户管理Claude AI使用量的工具，旨在避免用户因超出使用限制而被意外中断服务。对于产品经理而言，这反映了用户对AI服务使用管理的需求，可作为元宝类似功能设计的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flare-11": {
+    "title_clean": "Flare：AI编程代理的图形化IDE与交互地图",
+    "summary": "Flare是一款以图形化IDE和交互地图为核心的AI编程代理工具，专为提升代码开发效率而设计。它通过可视化界面和交互式地图，帮助开发者更直观地理解和操作代码，对元宝产品经理在AI辅助编程和代码理解场景的产品设计具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/particle-studio": {
+    "title_clean": "Particle Studio：静态图像转动态粒子效果工具",
+    "summary": "Particle Studio是一款将静态图像转换为动态粒子体验的工具，可能通过AI技术实现图像内容到粒子动画的转换，为元宝在图像处理和动态内容生成方面提供技术参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/marble-7": {
+    "title_clean": "Marble MCP：CMS内容管理工具",
+    "summary": "Marble MCP是一款内容管理系统(CMS)管理工具，允许用户在Claude、Cursor和Codex等AI编程环境中直接管理CMS内容。该工具打通了AI编程工具与CMS系统之间的连接，为开发者提供了更便捷的内容管理方式，对元宝产品经理在AI工具与内容管理系统集成方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/assistly-4": {
+    "title_clean": "Assistly：实时AI会议助手工具",
+    "summary": "Assistly是一款实时AI会议辅助工具，无需机器人参与，提供100%隐私保护的会议内容分析。产品经理可关注其如何在会议场景中提供实时AI支持，同时确保用户数据隐私，这对元宝在会议场景的AI应用开发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/why-investors-are-worried-about-nvidia-earnings-video": {
+    "title_clean": "投资者担忧英伟达财报表现",
+    "summary": "英伟达业绩面临压力，股价落后费城半导体指数50%，成本上升且竞争对手自研芯片，信贷市场对冲成本翻倍，反映AI芯片市场竞争加剧和行业风险变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/teens-return-to-tiktok-after-world-s-first-usage-ban-data-show": {
+    "title_clean": "澳大利亚青少年禁令后重返TikTok，数据显示使用量回升",
+    "summary": "澳大利亚实施16岁以下禁用社交媒体政策8个月后，Qustodio数据显示青少年用户大量回归TikTok。这一现象表明内容限制政策执行难度大，对元宝在青少年内容管控和年龄验证机制设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/lunar-founders-raise-8-million-for-auditing-startup-built-on-ai": {
+    "title_clean": "Lunar：AI审计初创公司获820万欧元融资",
+    "summary": "丹麦数字银行Lunar创始人成立AI审计公司，获820万欧元融资，押注AI技术能够颠覆仍高度依赖人工的审计行业。这对元宝产品经理有参考价值，展示了AI在专业服务领域的应用拓展机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b": {
+    "title_clean": "Hugging Face：AI模型社区拟被13亿美元收购",
+    "summary": "Hugging Face正洽谈收购事宜，公司估值约13亿美元。作为AI模型开源社区的重要平台，此次收购动向可能影响AI生态格局，对产品经理评估AI社区商业化路径和平台战略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

@@ -70258,5 +70258,188 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/openai-data-center-executive-chris-malone-departs-the-ai-startup": {
+    "title_clean": "OpenAI数据中心高管Chris Malone离职",
+    "summary": "OpenAI负责数据中心建设的执行高管Chris Malone已离职。这一变动可能影响OpenAI的基础设施扩展计划，对AI服务提供商的团队稳定性与战略执行有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/introducing-next-evolution-of-etfs-rasmussen-video": {
+    "title_clean": "Bitwise推出Rasmussen：自动化ETF投资工具",
+    "summary": "Bitwise资产管理公司推出Rasmussen，这是一款自动化ETF投资工具，由研究主管Ryan Rasmussen主导。该产品旨在为投资者提供自动化投资解决方案，属于资产管理领域的AI应用，对元宝在金融服务场景的AI应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/sept-15th-will-be-good-vote-for-crypto-mchenry-video": {
+    "title_clean": "McHenry：9月15日将是加密货币的有利投票日",
+    "summary": "美国前众议院金融服务委员会主席Patrick McHenry在彭博加密货币节目中表示，9月15日将是加密货币立法的有利投票日，讨论了Clarify法案的通过可能性及其对加密行业的影响。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/trump-opens-door-to-hyperliquid-in-unprecedented-move-video": {
+    "title_clean": "特朗普表示美国监管机构正考虑引入加密平台Hyperliquid",
+    "summary": "特朗普在Bloomberg Crypto节目中表示，美国监管机构正在考虑引入快速增长加密平台Hyperliquid，这一表态被视为对加密行业的重要政策信号，可能影响元宝在金融科技领域的服务场景拓展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/grayscale-launched-first-zcash-etf-token-soars-video": {
+    "title_clean": "Grayscale推出首个Zcash ETF，代币价格飙升",
+    "summary": "Grayscale成功推出首个Zcash交易所交易基金(ETF)，导致Zcash代币在过去一周内大幅上涨。这反映了加密货币ETF市场的扩展，对元宝产品经理在金融科技和加密货币服务场景方面具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/securing-ai-as-openai-anthropic-models-advance-video": {
+    "title_clean": "AI安全初创公司Alice获1.4亿美元融资，专注压力测试先进AI模型",
+    "summary": "AI安全初创公司Alice获得1.4亿美元融资，将扩大对OpenAI、Anthropic等先进AI模型的压力测试工作，帮助企业应对新兴风险。这反映了AI安全领域的投资热潮，对元宝产品经理评估AI安全防护与风险控制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/gatik-raises-200-million-to-scale-driverless-trucks-video": {
+    "title_clean": "Gatik：自动驾驶卡车货运公司",
+    "summary": "自动驾驶卡车初创公司Gatik完成2亿美元融资，这是其最大一轮融资，标志着公司从技术开发转向规模化商业运营。CEO兼联合创始人Gautam Narang表示，这笔资金将用于扩大无人卡车的商业部署。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/openai-says-jalapeno-chips-outperformed-nvidia-in-tests-video": {
+    "title_clean": "OpenAI发布Jalapeno芯片：性能超越Nvidia",
+    "summary": "OpenAI宣布其新开发的Jalapeno芯片在测试中表现优于Nvidia当前产品，在单位功耗处理AI任务量和速度两个关键指标上领先。这对AI硬件竞争格局和OpenAI产品性能提升有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/what-nvidia-needs-to-prove-to-investors-video": {
+    "title_clean": "Nvidia：需向投资者证明持续增长能力",
+    "summary": "Nvidia预计将实现又一个季度的高速增长，但富兰克林邓普顿投资组合经理表示，仅凭业绩数据可能不足以改变投资者情绪。这反映了市场对AI芯片巨头可持续增长的关注点，对产品经理评估AI硬件供应商的市场预期与风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/bloomberg-crypto-8-25-2026-video": {
+    "title_clean": "比特币价格突破8万美元，加密货币市场热度上升",
+    "summary": "Bloomberg Crypto报道比特币价格突破8万美元，加密货币市场热度上升，采访了Monarq资产管理公司COO和Grayscale负责人，讨论去中心化金融领域的发展动态。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks": {
+    "title_clean": "AI公司就模型黑客攻击后是否应将网络安全测试上线展开辩论",
+    "summary": "AI行业正就网络安全测试是否应保持在线连接展开辩论，支持者认为在线测试能提高准确性。这一讨论涉及AI模型安全测试的最佳实践，对元宝产品经理在AI安全测试和模型防护方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/former-google-researchers-want-to-keep-humans-in-ai-driver-s-seat": {
+    "title_clean": "前谷歌研究员计划开发AI-人混合系统防止模型失控",
+    "summary": "由前谷歌研究员创立的非营利组织计划开发AI-人混合系统，旨在确保AI技术安全可控，防止模型脱离开发者控制。这一举措对AI安全治理和产品设计具有重要参考价值，特别是对需要平衡AI自主性与人类监督的场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica": {
+    "title_clean": "Gamma 收获 Accel 投资的设计初创公司 Lica",
+    "summary": "Gamma 收购了由 Accel 投资的设计初创公司 Lica，Lica 的联合创始人将加入 Gamma 的新研究团队。此次收购可能增强 Gamma 的设计能力，为产品经理提供 AI 工具整合与设计能力提升的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/fitbit-founders-launch-screen-free-health-tracker-for-seniors": {
+    "title_clean": "Fitbit创始人推出面向老年人的无屏幕健康追踪器",
+    "summary": "Fitbit联合创始人时隔近六年离开谷歌后，推出一款无屏幕腕戴式健康追踪设备，专为老年人设计。这一产品反映了针对老年群体的健康监测需求，为元宝在健康服务场景和适老化设计方面提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/ben-rosen-tech-pioneer-who-saw-potential-in-apple-dies-at-93": {
+    "title_clean": "科技先驱本·罗森逝世：曾预见苹果潜力",
+    "summary": "本·罗森，康柏电脑长期董事长和个人电脑华尔街投资关键推动者，享年93岁。作为科技投资领域的标志性人物，他的投资判断和行业洞察对理解科技产业投资逻辑与产品发展路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

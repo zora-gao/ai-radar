@@ -70420,8 +70420,8 @@
     "v": 4
   },
   "https://www.bloomberg.com/news/articles/2026-08-25/fitbit-founders-launch-screen-free-health-tracker-for-seniors": {
-    "title_clean": "Fitbit创始人推出面向老年人的无屏幕健康追踪器",
-    "summary": "Fitbit联合创始人时隔近六年离开谷歌后，推出一款无屏幕腕戴式健康追踪设备，专为老年人设计。这一产品反映了针对老年群体的健康监测需求，为元宝在健康服务场景和适老化设计方面提供参考。",
+    "title_clean": "Fitbit创始人推出面向老年人的无屏健康追踪器",
+    "summary": "Fitbit联合创始人时隔近六年离开谷歌后，推出一款无屏幕腕戴式健康追踪设备，专为老年人设计。这反映了健康科技领域针对银发人群的细分市场机会，对元宝在健康服务场景拓展上有参考价值。",
     "score": 65,
     "priority": "P2",
     "type": "product",
@@ -70439,6 +70439,119 @@
     "type": "news",
     "channels": [
       "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052335&idx=1&sn=ef418dd835bd23ca463408dba3869ef9": {
+    "title_clean": "原方智能：机器世界信念研究",
+    "summary": "原方智能经过八年研究，致力于让机器拥有关于世界的「信念」，这可能涉及AI对世界知识的理解和推理能力，对元宝产品经理在AI认知能力提升方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052342&idx=3&sn=8ca0f9b59ccb036b217729b75fa4596b": {
+    "title_clean": "AgenticAI：16家机构提出「伴身智能体」第三种范式",
+    "summary": "AgenticAI联合16家机构提出「伴身智能体」作为AI第三种范式，强调AI助手与用户深度融合的交互模式，为AI产品设计提供了新思路，对元宝的产品方向和Agent能力发展具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052263&idx=1&sn=301089755bf25e4b80928ec1a15f130d": {
+    "title_clean": "Tibo：实体Codex重置按钮",
+    "summary": "Tibo推出实体Codex重置按钮，为AI工具提供物理重置功能。这种实体交互方式可能为AI产品设计提供新的交互思路，特别是对于需要频繁重置或重启的场景，值得产品经理关注实体与数字结合的创新交互方式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052263&idx=2&sn=248254745d907d68b5ac7243e66aca39": {
+    "title_clean": "Anthropic精选的6个ClaudeCode优秀项目",
+    "summary": "Anthropic官方精选了6个使用ClaudeCode的优秀项目案例，展示了Claude在代码开发领域的应用能力。这些案例为产品经理提供了Claude在实际编程场景中的价值参考，有助于评估AI助手在代码生成、调试和优化方面的产品定位。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/mcgraw-hill-ceo-philip-moyer-on-ai-s-impact-in-education-video": {
+    "title_clean": "McGraw Hill CEO谈AI在教育领域的影响",
+    "summary": "McGraw Hill首席执行官Philip Moyer在返校季期间阐述了AI在教育领域的演变作用。作为一家历史悠久的教育公司，McGraw Hill现在同时服务于教师和学生，展示了AI如何改变传统教育服务模式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/former-e-trade-ceo-on-private-markets-rise-of-ai-video": {
+    "title_clean": "前E*Trade CEO谈私人市场与AI崛起",
+    "summary": "前E*Trade金融公司CEO、现任Willow Wealth负责人Mitch Caplan讨论近期市场波动及其对散户投资者的影响，并分享了关于AI在金融领域应用的见解，对元宝产品经理了解AI在金融服务场景的应用价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding": {
+    "title_clean": "Stability AI：图像生成模型开发商获新一轮融资",
+    "summary": "Stability AI作为Stable Diffusion图像生成模型的开发商，完成7600万美元新一轮融资，总融资额达到2.32亿美元。此轮融资表明AI图像生成领域持续获得资本关注，对元宝产品经理了解AI生成类产品的商业化路径和融资趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/ai-trade-at-risk-from-us-voter-ire-over-buildout-barclays-says": {
+    "title_clean": "AI基础设施扩张面临美国选民政治风险",
+    "summary": "巴克莱报告指出，人工智能基础设施的持续扩张正引发两党选民反感，这可能在美国中期选举前给市场热爱的AI交易带来政治风险，产品经理需关注政策变化对AI市场的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-4-2": {
+    "title_clean": "Granite 4.2 LLMs：IBM最新大语言模型构建方法",
+    "summary": "IBM发布Granite 4.2大语言模型系列，介绍了其构建方法和技术特点。这对产品经理了解企业级大模型的训练架构、优化方向和性能权衡有参考价值，特别是在构建垂直领域AI助手时的技术选型考量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
     ],
     "v": 4
   }

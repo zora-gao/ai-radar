@@ -69453,5 +69453,41 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052061&idx=2&sn=195d820230a599adae4df72181721a52": {
+    "title_clean": "清华黄高、北大刘镮哲等入选2026科学探索奖",
+    "summary": "清华大学黄高教授、北京大学刘镮哲教授等学者入选2026年科学探索奖，该奖项旨在支持青年科学家开展前沿科学研究。这一信息对元宝产品经理有一定参考价值，可能反映AI领域学术研究动态，但与产品直接关联度不高。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/gradio-workflow-guide": {
+    "title_clean": "Gradio：AI工作流构建与部署工具",
+    "summary": "Gradio推出新功能，允许用户构建、运行和部署AI工作流，简化了AI应用的开发流程。这对产品经理有参考价值，因为它展示了如何通过低代码平台降低AI应用开发门槛，可能启发元宝在工作流编排和用户友好的AI应用构建方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-equal-identity-private-limited": {
+    "title_clean": "Equal Identity Private Limited：CEO谈市场定位与客户需求",
+    "summary": "Equal Identity Private Limited的CEO Keshav Reddy接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。这为产品经理提供了关于市场定位策略和客户需求洞察的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

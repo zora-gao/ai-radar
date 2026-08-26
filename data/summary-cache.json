@@ -70420,8 +70420,8 @@
     "v": 4
   },
   "https://www.bloomberg.com/news/articles/2026-08-25/fitbit-founders-launch-screen-free-health-tracker-for-seniors": {
-    "title_clean": "Fitbit创始人推出面向老年人的无屏健康追踪器",
-    "summary": "Fitbit联合创始人时隔近六年离开谷歌后，推出一款无屏幕腕戴式健康追踪设备，专为老年人设计。这反映了健康科技领域针对银发人群的细分市场机会，对元宝在健康服务场景拓展上有参考价值。",
+    "title_clean": "Fitbit创始人推出面向老年人的无屏幕健康追踪器",
+    "summary": "Fitbit联合创始人时隔近六年离开谷歌后，推出一款无屏幕腕戴式健康追踪设备，专注于老年用户群体，这反映了健康科技产品向简化操作和特定人群细分的发展趋势，对元宝在健康服务场景和老年用户交互设计方面具有参考价值。",
     "score": 65,
     "priority": "P2",
     "type": "product",
@@ -70552,6 +70552,91 @@
     "channels": [
       "AI助手",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/korean-ai-startup-wrtn-raises-funds-at-870-million-value-to-fund-global-growth": {
+    "title_clean": "Wrtn：韩国AI服务平台获8.7亿美元估值融资",
+    "summary": "韩国AI服务平台Wrtn Technologies获得8.7亿美元估值融资，将用于全球扩张。作为韩国AI服务领域的代表企业，其融资动向反映了亚洲AI服务市场的增长潜力，对元宝在亚洲市场的战略布局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052342&idx=1&sn=29c021d6d90b574c34721547864d1e3a": {
+    "title_clean": "面壁计划启动：面向AI顶级人才的实习生期权激励",
+    "summary": "面壁计划正式启动，面向AI领域顶级人才提供实习生期权激励，旨在吸引和留住AI领域的优秀年轻人才。这一举措反映了AI行业对高端人才的激烈竞争，以及企业通过股权激励吸引顶尖人才的策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052342&idx=2&sn=bf290c2c41e665e34bf6a7008645d298": {
+    "title_clean": "Ilya新模型：今年最重要的AI模型发布",
+    "summary": "据投资人爆料，OpenAI首席科学家Ilya Sutskever正在开发新模型，可能成为今年最重要的AI发布。这对元宝产品经理具有高度参考价值，需密切关注其技术突破方向和产品化路径，可能影响行业竞争格局和用户需求变化。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/jarden-loses-court-bid-for-phone-data-from-bankers-defecting-to-barrenjoey": {
+    "title_clean": "Jarden 失去获取跳槽高管手机数据的法庭诉讼",
+    "summary": "新西兰投资公司Jarden在法庭上败诉，未能获取两名跳槽至竞争对手Barrenjoey的高管所克隆的手机数据和文件。此案例涉及企业数据安全与员工跳槽时的数据归属问题，对AI产品经理了解企业数据合规边界有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/zoom-gives-lukewarm-outlook-despite-expanded-product-line": {
+    "title_clean": "Zoom：视频会议产品线扩展但销售展望平淡",
+    "summary": "Zoom Communications发布了当前季度销售展望，与分析师预期基本持平，未能满足投资者对其扩展产品线带来更大增长的期望。这表明即使产品线扩展，企业视频会议市场增长可能面临挑战，对元宝产品经理评估AI服务商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/cbdc-s-wrong-way-to-fight-the-dollar-levin-video": {
+    "title_clean": "CBDC的错误路径：Levin评论数字货币对抗美元",
+    "summary": "Bloom Opinion专栏作家Jonathan Levin在Bloomberg Crypto节目中讨论了央行数字货币(CBDC)对抗美元的错误路径，提供了关于数字货币战略的重要观点，对元宝产品经理理解数字货币政策与金融科技发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/northrop-ceo-expects-decent-share-of-golden-dome-contracts": {
+    "title_clean": "Northrop CEO：预计将获得'金顶'防御系统可观份额",
+    "summary": "诺斯洛普·格鲁曼公司CEO凯西·沃登表示，特朗普政府的'金顶'太空防御系统对国防承包商而言已变得'非常具体'，公司预计将获得该系统的重要合同份额。这对AI在国防领域应用的产品经理有参考价值，显示AI在国家安全领域的商业机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
     ],
     "v": 4
   }

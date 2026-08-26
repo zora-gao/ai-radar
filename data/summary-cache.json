@@ -70421,10 +70421,10 @@
   },
   "https://www.bloomberg.com/news/articles/2026-08-25/fitbit-founders-launch-screen-free-health-tracker-for-seniors": {
     "title_clean": "Fitbit创始人推出无屏幕老年人健康追踪器",
-    "summary": "Fitbit联合创始人时隔近六年离开谷歌后，推出一款无屏幕腕戴式健康追踪设备，专为老年人设计。这反映了健康科技领域针对银发人群的细分市场机会，对元宝在健康服务场景拓展上有参考价值。",
+    "summary": "Fitbit联合创始人时隔近六年离开谷歌后，推出一款无屏幕腕戴式健康追踪设备，专为老年人设计。这反映了针对老年群体的健康监测产品创新，为元宝在健康服务场景和适老化设计方面提供参考。",
     "score": 65,
     "priority": "P2",
-    "type": "product",
+    "type": "news",
     "channels": [
       "服务场景",
       "用户需求"
@@ -71157,6 +71157,105 @@
       "AI Agent",
       "商业化",
       "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents": {
+    "title_clean": "Radar：播客搜索与AI代理访问平台",
+    "summary": "Particle推出的播客智能平台转录并分析了超过13万个播客，使对话内容可通过网络搜索，并通过API和MCP协议供AI代理访问，为AI助手获取播客内容提供了新途径。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/knack": {
+    "title_clean": "Knack MCP Server：HIPAA合规AI构建后端服务",
+    "summary": "Knack MCP Server是一款符合HIPAA合规要求的AI构建后端服务，专为AI开发者提供安全的数据处理环境。这对元宝产品经理有参考价值，特别是在处理医疗健康等敏感数据场景时，可借鉴其合规架构设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model": {
+    "title_clean": "Z.ai：神秘Ox Alpha模型背后的AI实验室",
+    "summary": "Z.ai确认其为神秘开源AI模型Ox Alpha的幕后开发者，该模型在基准测试和排行榜中表现优异，其模型权重即将发布。这对产品经理了解AI模型开源趋势和潜在竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/getting-harder-for-nvidia-to-compete-seaport-s-goldberg-video": {
+    "title_clean": "分析师称Nvidia竞争难度增加",
+    "summary": "Seaport高级分析师Jay Goldberg在Nvidia财报前瞻中表示，该公司面临的风险大于机遇，暗示其在AI芯片市场的竞争环境正变得更具挑战性。这对元宝产品经理了解AI硬件供应商动态及市场格局变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-08-26/ashley-flowers-crime-junkie-podcast-empire-audiochuck-faces-reckoning": {
+    "title_clean": "Crime Junkie播客帝国Audiochuck面临管理层动荡",
+    "summary": "知名犯罪播客Crime Junkie的创始人Ashley Flowers建立的Audiochuck公司正经历管理层频繁变动和员工士气低落的困境，这对内容创作者如何管理播客业务扩张和团队稳定性提供了警示案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/bessent-gets-boost-from-oil-bond-signal-3-minutes-mliv-video": {
+    "title_clean": "Bessent Gets Boost from Oil, Bond Signal: 3-Minutes MLIV",
+    "summary": "Bloomberg分析师团队在《The Opening Trade》节目中解读今日关键市场主题，重点分析石油和债券信号对Bessent的积极影响，为投资者提供市场洞察。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots": {
+    "title_clean": "NVIDIA Jetson Orin Nano 2：边缘AI计算平台",
+    "summary": "NVIDIA发布Jetson Orin Nano 2边缘机器人计算机，旨在为无人机、机器人和视觉系统提供物理AI能力。这款入门级板卡将AI计算能力带到边缘设备，为元宝产品经理了解AI硬件在机器人领域的应用提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/proof-gen-optimized-distillation": {
+    "title_clean": "PROOF-Gen：优化数据蒸馏工具调用能力",
+    "summary": "PROOF-Gen是一种新型数据蒸馏方法，通过教师模型生成的轨迹进行监督微调，提升可部署模型的工具调用能力。该方法优化了后训练流程，对AI助手产品提升工具调用准确性和效率具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
     ],
     "v": 4
   }

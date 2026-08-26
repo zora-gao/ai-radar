@@ -70875,5 +70875,127 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/apple": {
+    "title_clean": "Mac mini：搭载M6和M5 Pro芯片的迷你电脑",
+    "summary": "苹果更新Mac mini产品线，搭载M6和M5 Pro芯片，提升性能表现。作为AI助手硬件基础，更新后的Mac mini可能影响本地AI应用部署和边缘计算能力，对元宝团队评估AI服务硬件需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/warren-5": {
+    "title_clean": "Warren：AI编程代理基础设施",
+    "summary": "Warren提供专门用于AI编程代理工作负载的基础设施，为AI代码助手提供底层支持。产品经理可关注其技术架构与性能表现，评估是否可作为元宝AI编程功能的底层技术方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/posthog": {
+    "title_clean": "PostHog Desktop：产品编辑器工具",
+    "summary": "PostHog Desktop是一款专为产品开发者设计的桌面端产品编辑器，帮助产品经理构建和管理产品功能。该工具可能提供产品原型设计、功能测试和数据分析等能力，对元宝产品经理在产品设计和迭代方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/macadress": {
+    "title_clean": "macadress：MAC地址智能分析工具",
+    "summary": "macadress提供MAC地址智能分析服务，支持应用程序、网络和AI Agent使用。该工具可帮助产品经理了解网络设备识别与追踪技术在AI服务中的应用场景，为构建更精准的网络环境感知功能提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mcp-builder-ai": {
+    "title_clean": "MCP-Builder.ai：AI工具数据连接平台",
+    "summary": "MCP-Builder.ai提供了一种快速连接数据与AI工具的解决方案，帮助用户更高效地整合数据资源。对于元宝产品经理而言，这反映了AI工具与数据连接这一重要场景的发展趋势，可能启发产品在数据集成和API连接方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/reweaver-driftdetector": {
+    "title_clean": "ReWeaver AI DriftDetector：GitHub代码库漂移检测工具",
+    "summary": "ReWeaver AI DriftDetector是一款能够检测任何GitHub代码库漂移分数的工具。该工具可帮助开发者监控代码库的变化情况，及时发现潜在问题，对维护代码质量和稳定性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses": {
+    "title_clean": "Legato：AI助听眼镜",
+    "summary": "Legato公司推出Legato Frames智能眼镜，将专利助听技术集成到眼镜臂中，已完成1200万美元融资。这展示了AI在辅助听力障碍人群的应用场景，为元宝在健康辅助AI服务方向提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/evidence": {
+    "title_clean": "Evidence Core：基于代码代理的实时分析工具",
+    "summary": "Evidence Core是一款实时分析工具，通过代码代理构建实时数据分析功能。该产品将AI代理技术与数据分析结合，为产品经理提供了新的实时数据处理思路，可能启发AI助手在数据分析场景的应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/thailand-s-power-giant-sees-revenue-up-15-on-new-plants-ai-bet": {
+    "title_clean": "泰国电力巨头通过新电厂和AI投资实现15%收入增长",
+    "summary": "泰国最大电力生产商Gulf Development Pcl预计今年收入将增长15%，主要得益于新电厂的投产以及电信和数据中心业务的强劲增长，其中AI投资成为业务增长的关键因素。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/is-the-bitcoin-rally-sustainable-video": {
+    "title_clean": "比特币上涨趋势能否持续？",
+    "summary": "比特币自8月20日美国财政部长宣布将至少 doubling 计划购买的10-30年期国债后上涨约22%。Bloomberg 分析师 Ryan Weeks 探讨这一涨势的可持续性，对产品经理了解加密货币市场动态和用户投资需求有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
   }
 }

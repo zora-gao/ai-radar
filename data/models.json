@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-08-26T13:09:07.398Z",
+  "generated_at": "2026-08-26T15:10:59.730Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "z-ai/glm-5.3-flash",
+      "name": "GLM 5.3 Flash",
+      "vendor": "Zhipu AI",
+      "vendor_slug": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flash-20260826",
+      "created_at": "2026-08-26T13:59:01Z",
+      "context_length": 1048576,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.075,
+      "price_out": 0.25,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-context behavior while...",
+      "description_zh": null
+    },
     {
       "id": "meta/muse-spark-1.2-contributor",
       "name": "Muse Spark 1.2 Contributor",
@@ -53,31 +78,6 @@
       "supports_reasoning": true,
       "description": "DeepSeek V4 Flash Vision Exp is an experimental vision-enabled version of DeepSeek V4 Flash 0731 from DeepSeek, adding image understanding while matching the base model on text capabilities including agents,...",
       "description_zh": "DeepSeek V4 Flash Vision Exp 是来自 DeepSeek 的 DeepSeek V4 Flash 0731 的实验性视觉版本，增加了图像理解，同时匹配文本功能的基本模型，包括代理、..."
-    },
-    {
-      "id": "stealth/ox-alpha",
-      "name": "Ox Alpha",
-      "vendor": "Stealth",
-      "vendor_slug": "stealth",
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "created_at": "2026-08-20T20:04:55Z",
-      "context_length": 1048576,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Ox Alpha is a reasoning model designed for coding, sustained agentic work, and production workloads. It is suited for long-horizon software engineering, complex reasoning, and workflows that combine text with...",
-      "description_zh": "Ox Alpha 是一种推理模型，专为编码、持续代理工作和生产工作负载而设计。它适用于长期软件工程、复杂推理以及将文本与...相结合的工作流程。"
     },
     {
       "id": "tencent/hy-mt2-1.8b",
@@ -385,8 +385,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.122,
-      "price_out": 3.366,
+      "price_in": 1.32,
+      "price_out": 3.96,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

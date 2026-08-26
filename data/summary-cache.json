@@ -70750,5 +70750,44 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/deployhermes": {
+    "title_clean": "DeployHermes：持久化AI Agent角色与技能部署平台",
+    "summary": "DeployHermes提供可持久化的Hermes AI Agent服务，支持角色定义、记忆功能和技能集成，使企业能够部署具有特定专业能力的AI助手，为元宝产品经理在AI Agent持久化与专业化部署方面提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/choclift-workflow-sweetener": {
+    "title_clean": "choclift：iPad触控条控制Mac工具",
+    "summary": "choclift是一款iPad应用，允许用户通过触摸巧克力形状的触控条来远程控制Mac电脑，提供了一种创新的跨设备交互方式，对产品经理思考多设备协同与触控交互设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-amd-microsoft": {
+    "title_clean": "华为向埃及推销AI芯片：测试美国技术外交",
+    "summary": "华为向埃及政府提议建设AI数据中心，用于军事、监控和其他公共部门应用，展示了其全球芯片野心，并引发美国技术外交的考验。这对元宝产品经理了解AI芯片在国际政治环境下的商业拓展策略和地缘政治风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

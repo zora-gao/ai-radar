@@ -70789,5 +70789,91 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/hevn-u-s-accounts-for-non-us-companies": {
+    "title_clean": "HEVN U.S.：美元全球支付工具",
+    "summary": "HEVN U.S.允许用户持有美元并通过美国赞助银行进行全球支付，为跨境交易提供便利。对于元宝产品经理而言，这反映了跨境支付场景的AI服务机会，特别是在处理多币种交易和简化国际支付流程方面的潜在应用价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/message-album": {
+    "title_clean": "Message Album：iMessage对话保存为私密相册工具",
+    "summary": "Message Album是一款工具，可将iMessage对话保存为私密的离线相册，帮助用户将重要的聊天记录转化为可长期保存的图片格式，便于回顾和分享关键对话内容。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/taskshell": {
+    "title_clean": "TaskShell 2.0：AI Agent任务管理工具",
+    "summary": "TaskShell 2.0是一款以AI Agent为核心的任务管理工具，旨在提升用户的代理生产力。该产品专注于通过AI Agent技术帮助用户更高效地管理和执行任务，对元宝产品经理在AI Agent任务管理领域的产品设计具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tellie-2": {
+    "title_clean": "Tellie Prompter 1.5：智能提词器",
+    "summary": "Tellie Prompter 1.5 是一款智能提词器，能够预测用户尚未说出的内容，帮助演讲者更流畅地进行演示。这款产品对AI助手在实时交互和内容预测方面的开发具有参考价值，特别是在提升对话自然度和预判用户需求方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/expertise-ai": {
+    "title_clean": "Expertise AI：GTM技能变现工具",
+    "summary": "Expertise AI是一个将GTM(上市)技能转化为持续收入的服务，帮助专业人士将专业知识变现，为元宝产品经理提供了知识变现和商业化模式的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/easyswitch": {
+    "title_clean": "EasySwitch：多设备输入外接工具",
+    "summary": "EasySwitch是一款外接设备工具，允许用户通过一套鼠标、键盘和第二屏幕控制多台电脑，解决多设备切换的痛点，对元宝产品经理在多设备协同交互设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data": {
+    "title_clean": "MIT AI：无历史数据极端天气预测工具",
+    "summary": "MIT工程师开发了一种AI工具，能够在不依赖历史灾害数据的情况下预测极端天气。这项技术由机械工程研究生Kai Chang和Themis Sapsis教授共同开发，为AI在气象预测领域提供了新方法，对元宝在AI应用场景拓展方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

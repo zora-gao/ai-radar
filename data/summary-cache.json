@@ -70420,8 +70420,8 @@
     "v": 4
   },
   "https://www.bloomberg.com/news/articles/2026-08-25/fitbit-founders-launch-screen-free-health-tracker-for-seniors": {
-    "title_clean": "Fitbit创始人推出面向老年人的无屏幕健康追踪器",
-    "summary": "Fitbit联合创始人时隔近六年离开谷歌后，推出一款无屏幕腕戴式健康追踪设备，专注于老年用户群体，这反映了健康科技产品向简化操作和特定人群细分的发展趋势，对元宝在健康服务场景和老年用户交互设计方面具有参考价值。",
+    "title_clean": "Fitbit创始人推出面向老年人的无屏健康追踪器",
+    "summary": "Fitbit联合创始人时隔近六年离开谷歌后，推出一款无屏幕腕戴式健康追踪设备，专为老年人设计，专注于健康监测而非屏幕交互，可能为元宝在健康服务场景和老年用户群体提供产品方向参考。",
     "score": 65,
     "priority": "P2",
     "type": "product",
@@ -70636,6 +70636,55 @@
     "type": "news",
     "channels": [
       "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/india-s-finance-rich-list-top-five-billionaires-video": {
+    "title_clean": "印度金融富豪榜：五大亿万富翁",
+    "summary": "印度金融业蓬勃发展，从私人银行到在线经纪业务涌现众多财富。本文详细解析彭博富豪榜上排名前五的印度金融界富豪及其财富来源，为元宝产品经理了解印度金融市场的财富分布和投资趋势提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/ai-will-deflate-value-of-it-work-by-up-to-25-hexaware-ceo-says": {
+    "title_clean": "AI将降低IT项目成本达25%",
+    "summary": "Hexaware Technologies CEO表示，AI技术可能将常规IT项目价格降低高达25%，这对以劳动密集型为特征的IT行业将产生重大影响，产品经理需关注AI对IT服务定价和成本结构的潜在改变。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651052221&idx=1&sn=ec22855a61fac1a78d150c097dadc28a": {
+    "title_clean": "华师大智金院发布金融原生基模Mint-Agent",
+    "summary": "华东师范大学智能金融研究院发布了金融原生基模Mint-Agent，宣称其性能超越GPT-5.6与Claude Opus。这一产品专注于金融领域，可能为金融AI应用提供新的技术路径和解决方案，对元宝在垂直领域AI应用开发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/the-close-8-25-2026-video": {
+    "title_clean": "美股上涨：油价与国债收益率下跌",
+    "summary": "彭博电视报道华尔街收盘前后的最新新闻与分析，指出股市上涨与油价、国债收益率下跌的关联性。此信息对元宝产品经理了解金融市场动态与AI助手在财经信息处理场景中的应用价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索",
       "服务场景"
     ],
     "v": 4

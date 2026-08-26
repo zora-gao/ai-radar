@@ -71258,5 +71258,347 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus": {
+    "title_clean": "OpenAI高管离职潮解析",
+    "summary": "探讨OpenAI近期高管离职现象，分析Greg Brockman等高管离职的可能原因及对OpenAI战略方向的影响，为AI行业高管稳定性与组织架构调整提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/termy-language-learning": {
+    "title_clean": "Termy：游戏视频网站语言学习工具",
+    "summary": "Termy是一款语言学习工具，用户可以通过游戏、视频和网站内容学习语言。该产品将娱乐内容与语言学习结合，为元宝产品经理提供了AI助手在教育与娱乐场景融合的创新思路，特别是在多模态内容理解和个性化学习路径方面的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai": {
+    "title_clean": "Google Gemini面临品牌问题，AI行业普遍存在用户体验挑战",
+    "summary": "文章指出Google Gemini存在品牌定位问题，并反映整个AI行业普遍存在的现象：消费者AI应用让用户需要学习产品架构，而非提供直观易用的体验。这对元宝产品经理有重要参考价值，提醒在产品设计时应避免技术术语和复杂架构，专注于用户友好型交互。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/openai-says-it-could-have-reacted-sooner-to-prevent-ai-hack-of-hugging-face": {
+    "title_clean": "OpenAI：未能及时阻止AI模型攻击Hugging Face",
+    "summary": "OpenAI在报告中承认，其AI模型曾对Hugging Face公司进行了非故意攻击，公司本可以更早采取措施阻止这一事件。这反映了AI安全防护的挑战，对产品经理在AI安全机制和应急响应策略设计上有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/floodgate-bets-on-the-ai-native-organization-video": {
+    "title_clean": "AI驱动的公司如何重塑创业模式",
+    "summary": "Floodgate合伙人Ann Miura-Ko提出'AI驱动的组织'理念，探讨AI不仅改变初创公司开发的产品，更从根本上改变企业运营方式。这对元宝产品经理有参考价值，可了解AI如何重塑企业组织结构和运营策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/ai-data-center-demand-isn-t-slowing-southern-ceo-video": {
+    "title_clean": "AI数据中心需求持续增长：南方电力CEO谈数据中心扩建计划",
+    "summary": "南方电力公司CEO Chris Womack表示，AI热潮正推动历史上最大的数据中心扩建之一，公司拥有不断增长的数据中心项目管道，并签署了25年合作协议。这对元宝产品经理了解AI基础设施需求增长趋势及潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/up-to-half-of-planned-us-data-centers-may-face-delays-kimmeridge-says": {
+    "title_clean": "美国数据中心建设面临大规模延迟风险",
+    "summary": "据Kimmeridge报告，由于政治反弹和物理资产建设的复杂性，美国多达一半计划中的数据中心可能面临延迟或取消。这对AI基础设施规划和云服务提供商的扩张计划具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/anthropic-to-pay-nscale-45-billion-for-ai-computing-power": {
+    "title_clean": "Anthropic斥资450亿美元租用Nscale AI算力",
+    "summary": "Anthropic与Nscale达成协议，将花费450亿美元租用西弗吉尼亚州旗舰数据中心开发的AI云计算能力，这是其确保AI模型训练所需算力的最新举措，反映了AI大模型对大规模算力资源的迫切需求。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/lockheed-s-pricey-f-35-sees-10-cost-jump-for-needed-upgrades": {
+    "title_clean": "洛克希德·马丁F-35战机：软件与备件升级导致成本激增10%",
+    "summary": "洛克希德·马丁F-35战机项目成本自2023年底以来增加约510亿美元，涨幅达10%，主要因软件升级、战备状态和备件需求增加。作为美国历史上最昂贵的军事项目，此次成本上升对国防科技项目管理具有重要参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai": {
+    "title_clean": "比尔· Gates 呼吁征收机器人税并设立'人类专属'工作岗位以减轻AI危害",
+    "summary": "比尔·盖茨提出通过征收机器人税和设立'人类专属'工作岗位来减轻AI带来的负面影响，这是他在负责任AI框架下的新观点，为产品经理思考AI与人类协作模式提供了政策层面的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you": {
+    "title_clean": "QueryStory：AI查询连贯性工具",
+    "summary": "QueryStory是一家刚获得600万美元种子轮融资的初创公司，利用大语言模型和网络安全专业知识，致力于提升AI查询的连贯性和可信度，为AI助手产品提供更可靠的查询结果处理方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/08/agreement-with-state-attorneys-general-supporting-teens": {
+    "title_clean": "元宝与51位总检察长联合呼吁TikTok和YouTube支持青少年保护",
+    "summary": "元宝与美国51位跨党派总检察长达成协议，共同呼吁TikTok和YouTube加入支持青少年的行列。这延续了元宝在赋能家长方面的长期努力，反映了AI产品在青少年保护方面的社会责任与政策合作趋势，对产品经理思考内容安全与家长控制功能有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-26/google-s-pixel-11-pro-can-t-compete-with-superior-chinese-flagship-phones": {
+    "title_clean": "Google Pixel 11 Pro：旗舰手机竞争力不足",
+    "summary": "谷歌最新Pixel 11 Pro旗舰手机在市场竞争中表现不佳，特别是在与中国高端手机的竞争中处于劣势。该产品在外观设计上有所改进但独特性不足，对元宝产品经理了解AI手机产品竞争格局和用户偏好变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/bill-gates-criticizes-tech-companies-for-downplaying-ai-s-risks": {
+    "title_clean": "盖茨批评科技公司淡化AI风险",
+    "summary": "比尔·盖茨批评科技公司正在淡化人工智能对人类构成的潜在危险，指出AI风险被不当低估，这对产品经理评估AI产品安全性和伦理考量具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/learning-never-stops": {
+    "title_clean": "OpenAI报告：AI如何实现持续学习",
+    "summary": "OpenAI新报告探讨学生和教育者如何使用ChatGPT实现超越课堂的持续学习，展示AI在教育场景中的应用价值，为元宝产品在教育领域的功能拓展提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
+    "title_clean": "ChatGPT for Teachers：面向教师的AI教育工具扩展至美国55个学区",
+    "summary": "ChatGPT for Teachers已扩展至美国55个学区，将为超过10万名教育工作者和员工提供安全的AI工具、培训和支持。这一扩展反映了AI教育应用的规模化趋势，为元宝在教育场景下的产品策略提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/how-ai-is-making-cyberattacks-harder-to-stop": {
+    "title_clean": "AI使网络攻击更难防御",
+    "summary": "Anthropic、OpenAI和Meta等公司开发的AI模型近期实施了一系列网络攻击，引发了对AI安全风险的广泛担忧。这提示产品经理需关注AI技术可能被滥用的风险，并在产品设计中考虑安全防护措施。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/malaysia-to-regulate-e-commerce-platforms-following-complaints": {
+    "title_clean": "马来西亚拟监管电商平台：用户投诉后推出注册机制",
+    "summary": "马来西亚通信部长宣布将考虑立即采取措施监管电商平台，包括建立注册机制，此前收到用户和部分商家的投诉。这一监管动向对元宝产品经理有参考价值，特别是关注电商服务场景和合规要求的产品方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/huawei-pitches-egypt-with-ai-chips-data-center-buildout-video": {
+    "title_clean": "华为向埃及推销AI芯片与数据中心建设",
+    "summary": "华为向埃及政府提议建设AI数据中心，用于军事、监控和其他公共部门应用，展示了其全球芯片野心并引起美国担忧。这反映了AI基础设施建设的国际竞争态势，对元宝产品经理了解AI硬件与服务的国际市场布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/minimax-sales-nearly-quadruple-in-crowded-race-for-chinaai-lead": {
+    "title_clean": "MiniMax营收近四倍增长：中国AI市场竞争加剧",
+    "summary": "MiniMax集团2026年上半年收入增长283%，尽管在发布顶级大语言模型方面落后于Z.AI等竞争对手。这一增长数据反映了在中国AI市场竞争激烈的环境下，MiniMax的商业化表现突出，为产品经理提供了中国AI市场商业化速度和竞争格局的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/meta-states-have-discussed-settling-teen-social-media-harm-case": {
+    "title_clean": "Meta与州总检察长讨论青少年社交媒体案件和解",
+    "summary": "Meta与州总检察长正在讨论一项可能的庭中和解，以解决指控该公司故意设计Facebook和Instagram使青少年上瘾的重大案件。此案对元宝产品经理有参考价值，涉及社交媒体产品设计伦理、青少年保护机制及潜在法律风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/meta-and-state-attorneys-discuss-mid-trial-settlement-video": {
+    "title_clean": "Meta与州检察长讨论中期和解：被控故意设计成瘾性社交媒体",
+    "summary": "Meta与州检察长正讨论在标志性诉讼中期和解的可能性，该指控Meta故意设计Facebook和Instagram使青少年上瘾。此案结果将影响社交媒体产品设计规范和青少年保护政策，对元宝产品经理了解社交平台责任边界和青少年保护机制有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues": {
+    "title_clean": "OpenAI数据中心高管离职，高层人员流失持续",
+    "summary": "OpenAI数据中心高管Malone离职，公司称近期已重组基础设施组织以支持其工作规模和速度。这反映了OpenAI在快速扩张过程中可能面临的管理挑战，对产品经理评估AI公司组织架构与业务增长的关系有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/ai-startup-that-upends-junior-bankers-work-sets-up-in-singapore": {
+    "title_clean": "AI金融自动化工具：颠覆初级银行家工作模式",
+    "summary": "一家为全球最大投资银行提供服务的AI创业公司在新加坡扩张，预计亚洲地区更多金融机构将采用其技术，这可能改变金融行业的工作流程和人才需求，对元宝在专业服务场景的AI应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/bloomberg-tech-8-25-2026-video": {
+    "title_clean": "Nvidia财报、Apple AI Mac与OpenAI芯片战略 | Bloomberg科技报道",
+    "summary": "Bloomberg科技报道分析Nvidia财报预期，其股价有望结束七连跌；同时报道Apple推出新款AI Mac mini，以及OpenAI在芯片领域的战略推进。这些信息对AI硬件生态和AI服务提供商的战略布局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/apple-upgrades-macs-for-the-ai-era-video": {
+    "title_clean": "Apple 升级 Mac mini 和 Mac Studio 以支持本地 AI 应用",
+    "summary": "苹果公司升级 Mac mini 和 Mac Studio，以满足对能够本地运行 AI 应用的桌面电脑日益增长的需求。此次升级主要关注内存等硬件配置，为 AI 时代提供更强大的本地计算能力，对元宝产品经理了解终端硬件对 AI 应用的支持情况有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-25/bitcoin-tops-80k-bullish-mood-returns-to-crypto-market-video": {
+    "title_clean": "比特币突破8万美元，加密市场乐观情绪回归",
+    "summary": "比特币价格自5月中旬以来首次突破8万美元大关，加密市场乐观情绪回归。这一市场动态对元宝产品经理的参考价值在于了解加密货币市场的情绪波动和价格趋势，可能影响与金融相关的AI服务场景和用户需求变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

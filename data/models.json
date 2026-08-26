@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T17:16:48.985Z",
+  "generated_at": "2026-08-26T20:17:22.667Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -10,7 +10,7 @@
       "vendor_slug": "z-ai",
       "url": "https://openrouter.ai/z-ai/glm-5.3-flash-20260826",
       "created_at": "2026-08-26T13:59:01Z",
-      "context_length": 1048576,
+      "context_length": 1310720,
       "modality": "text+image+video->text",
       "input_modalities": [
         "text",
@@ -385,8 +385,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.32,
-      "price_out": 3.96,
+      "price_in": 1.122,
+      "price_out": 3.366,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

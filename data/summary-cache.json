@@ -71958,5 +71958,105 @@
       "多模态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/i3fid5PM6rmON25MbrWzTA": {
+    "title_clean": "港科大（广州）联合腾讯AI平台部开源VibeWorlding：3D世界构建工具",
+    "summary": "港科大（广州）与腾讯AI平台部联合开源VibeWorlding项目，这是一款3D世界构建工具。该工具可能涉及AI辅助的3D环境生成技术，对元宝产品经理在多模态交互和虚拟场景构建方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/aUG63Je6R_eCygzq4QoE4A": {
+    "title_clean": "突破遥操瓶颈！全新无本体数据世界动作模型Noe-O发布",
+    "summary": "Noe-O是一款突破遥操瓶颈的无本体数据世界动作模型，解决了传统远程操作中的物理限制问题，为远程控制领域带来技术革新，对AI助手在物理世界中的应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/nMDqKEMwa9cAFjsjRsLuDw": {
+    "title_clean": "科沃斯：开放应用定义权",
+    "summary": "科沃斯作为十四年的智能家居管家品牌，首次开放应用定义权，允许用户和开发者自定义机器人功能。这一战略转变表明传统硬件厂商正尝试通过开放平台模式拓展AI服务场景，为元宝产品经理提供硬件+AI服务生态的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/GEoNjOIu4TVCQJUTyJlHiw": {
+    "title_clean": "Specula：AI形式化验证工具发现382个深层bug",
+    "summary": "Specula工具在67个开源系统中通过形式化验证方法发现了382个深层bug，将原本需要数月的人工验证过程大幅缩短。这一成果对AI安全验证工具开发具有参考价值，也为AI系统可靠性提供了新的解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/lopez-ai-biggest-infrastructure-upgrade-since-internet-video": {
+    "title_clean": "Lopez：AI最大基础设施升级自互联网以来",
+    "summary": "Nvidia创始人Maribel Lopez表示，AI是自互联网以来最大的基础设施升级，Nvidia对2028财年给出乐观销售预期，缓解了AI支出可能失去动能的担忧。这对元宝产品经理了解AI基础设施发展趋势和长期市场信心有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/uae-tycoon-al-ashram-mtn-agree-to-build-africa-ai-data-centers": {
+    "title_clean": "阿联酋富豪与MTN集团合作建设非洲AI数据中心",
+    "summary": "非洲最大移动运营商MTN集团与迪拜富豪Tarek Al Ashram达成合作，将在非洲大陆建设数据中心，为人工智能应用提供基础设施支持。这一合作将加速非洲AI发展，为元宝产品经理提供新兴市场AI基础设施布局的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/idea-prune-pipeline": {
+    "title_clean": "IDEA Prune：大语言模型预训练集成放大与剪枝管道",
+    "summary": "IDEA Prune是一种针对大语言模型预训练的集成放大与剪枝管道，旨在解决有限推理预算下高效可部署模型的需求，通过结构化剪枝技术提升模型效率，对元宝产品经理在模型优化和资源管理方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight": {
+    "title_clean": "Gatik：AI自动驾驶货运公司",
+    "summary": "自动驾驶卡车公司Gatik完成2亿美元D轮融资，由卡塔尔投资局和科赫领投，资金将用于扩展北美地区的无人驾驶货运业务。这反映了AI在物流领域的商业化进展，对元宝在服务场景拓展和商业化模式上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-08-27T07:16:22.698Z",
+  "generated_at": "2026-08-27T19:29:39.507Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "inclusionai/ling-3.0-flash-fin:free",
+      "name": "Ling 3.0 Flash Fin (free)",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-fin-20260827",
+      "created_at": "2026-08-27T15:58:10Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ling 3.0 Flash Fin is a finance-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for real-world investment...",
+      "description_zh": null
+    },
     {
       "id": "qwen/qwen3.8-flash",
       "name": "Qwen3.8 Flash",
@@ -20,7 +43,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.16,
+      "price_in": 0.15,
       "price_out": 0.47,
       "is_free": false,
       "supports_tools": true,
@@ -96,8 +119,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.44,
-      "price_out": 1.32,
+      "price_in": 0.22,
+      "price_out": 0.66,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -674,8 +697,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.06,
-      "price_out": 0.12,
+      "price_in": 0.05,
+      "price_out": 0.1,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1452,31 +1475,6 @@
       ],
       "price_in": 2,
       "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-5.6 Sol Pro is the same underlying model as GPT-5.6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
-      "description_zh": "GPT-5.6 Sol Pro 与 GPT-5.6 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
-    },
-    {
-      "id": "openai/gpt-5.6-sol-pro:batch",
-      "name": "GPT-5.6 Sol Pro (batch)",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol-pro-20260709",
-      "created_at": "2026-07-09T09:54:14Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1,
-      "price_out": 5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

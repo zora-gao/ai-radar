@@ -72058,5 +72058,308 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/pluto-11": {
+    "title_clean": "Pluto：AI职业档案助手",
+    "summary": "Pluto将用户的职业档案转化为AI代理，帮助用户在专业场景中自动执行任务、展示能力并提供服务。这款产品为AI Agent在职业服务场景的应用提供了新思路，对元宝拓展职业服务场景和AI代理功能具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-3-5-transcribe": {
+    "title_clean": "Gemini 3.5 Transcribe：谷歌最新语音转文本模型",
+    "summary": "谷歌发布Gemini 3.5 Transcribe，这是其迄今为止最精确的语音转文本模型。这一更新对元宝产品经理具有重要参考价值，因为它展示了谷歌在语音识别技术上的最新进展，可能影响AI助手在语音交互方面的能力边界和用户体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/speko": {
+    "title_clean": "Speko：语音对话AI路由工具",
+    "summary": "Speko是一款语音对话AI路由工具，类似于OpenRouter但专注于语音交互场景。它可能为AI语音助手提供模型选择和路由功能，帮助产品经理了解语音AI服务的底层架构和模型切换方案，对构建多模型语音助手系统有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cobalt-10": {
+    "title_clean": "Cobalt：Kobo电子书阅读器应用运行工具",
+    "summary": "Cobalt是一款工具，允许用户在Kobo电子书阅读器上运行第三方应用程序，扩展了电子书阅读器的功能边界，为元宝产品经理提供了在硬件设备上拓展软件生态的参考思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kraa": {
+    "title_clean": "Kraa 2.0：文本编辑与发布平台",
+    "summary": "Kraa 2.0是一款文本编辑和发布平台，提供内容创作与发布功能。作为AI助手类产品的竞品，其文本处理能力值得元宝产品经理关注，特别是在内容创作工具方向的产品规划参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gitnexus-akon-labs": {
+    "title_clean": "GitNexus：AI 编程代理核心引擎",
+    "summary": "GitNexus 是 Akon Labs 开源的一款编程代理核心引擎，为 AI 编程助手提供底层支持。这反映了 AI 代理在代码生成领域的专业化趋势，对元宝在编程辅助场景的产品设计具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hflow": {
+    "title_clean": "HFlow：机器人可扩展多模态数据管道",
+    "summary": "HFlow提供机器人领域的可扩展多模态数据处理管道，解决机器人系统中的数据整合与处理需求。对于元宝产品经理而言，这反映了多模态数据处理在机器人场景的应用趋势，可能启发AI助手在物理世界交互方面的技术方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/iq-routing": {
+    "title_clean": "IQ Routing：轨迹感知的LLM路由技术",
+    "summary": "IQ Routing是一种轨迹感知的大语言模型路由技术，能够显著降低AI代理的运行成本。该技术通过智能路由决策优化LLM调用，对元宝产品经理在降低AI服务成本和提高资源利用效率方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sendra": {
+    "title_clean": "Sendra：Figma邮件设计导出工具",
+    "summary": "Sendra是一款允许用户在Figma中设计邮件界面并导出可在各平台正常使用的HTML代码的工具。这解决了设计师与开发者之间的协作痛点，使邮件设计流程更加高效统一，对元宝产品经理在多平台内容生成工具设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/savvy-12": {
+    "title_clean": "Savvy：会议发言助手",
+    "summary": "Savvy是一款会议发言助手，能够在会议中实时提供发言建议，帮助用户在关键时刻说出恰当的话，提升会议沟通效果。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/nvidia-sees-70-growth-as-ai-boom-accelerates-video": {
+    "title_clean": "Nvidia：AI加速增长推动70%营收增长",
+    "summary": "Nvidia预测下一财年营收增长约70%，这一数据正在改变市场对AI热潮持久性的讨论。作为AI芯片领导者，Nvidia的增长数据反映了AI市场的强劲需求，对元宝产品经理评估AI基础设施市场趋势和商业化潜力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai": {
+    "title_clean": "OpenAI等百家科技企业联合呼吁防范恶意AI",
+    "summary": "OpenAI、Anthropic、Google等全球科技巨头与AI初创公司共同谴责当前网络安全状况，并推出新方案以抵御新一代AI威胁。这一行业集体行动反映了AI安全已成为行业共识，对元宝产品经理评估AI安全防护功能具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/openai-anthropic-urge-cyber-defense-action-as-ai-models-improve": {
+    "title_clean": "OpenAI与Anthropic呼吁加强AI网络安全防御",
+    "summary": "OpenAI和Anthropic等100多家科技与金融服务机构联合警告，随着AI模型能力提升，企业和政府必须加强网络安全防御准备，应对AI技术可能带来的安全挑战。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/sk-hynix-starts-construction-of-4-billion-memory-hub-in-indiana": {
+    "title_clean": "SK海力士：投资40亿美元在印第安纳州建设先进内存封装中心",
+    "summary": "SK海力士在印第安纳州举行先进内存封装设施奠基仪式，这是美国重建国内供应链战略的重要里程碑。该投资反映了半导体行业对先进封装技术的重视，以及地缘政治对全球供应链格局的影响，对AI硬件基础设施布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more": {
+    "title_clean": "Google AI Mode：航班价格追踪与酒店预订助手",
+    "summary": "Google更新AI Mode，新增航班价格追踪和酒店预订功能，正将其定位为AI旅行助手，从单纯信息查询转向实际行程规划服务，这对AI助手产品在垂直场景的拓展具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india": {
+    "title_clean": "OpenAI将在印度ChatGPT免费和Go层级展示广告",
+    "summary": "OpenAI宣布将在印度ChatGPT的免费和Go层级用户中展示广告，印度拥有超过1亿周活跃用户，其中大部分使用免费或低价Go层级服务。这一商业化举措对元宝产品经理具有重要参考价值，展示了AI助手在新兴市场的变现策略和用户分层运营模式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents": {
+    "title_clean": "Plaud：eSIM耳机盒支持AI助手通话",
+    "summary": "Plaud推出新型'智能'耳机，配备eSIM功能的耳机盒，售价249美元，可直接与AI助手进行语音通话。这一产品展示了AI助手与可穿戴设备的融合趋势，为元宝在语音交互和移动场景下的产品开发提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Ytp9SN_60MrJqybvLvJT-w": {
+    "title_clean": "Shopify CEO考虑禁用Claude Code，因其不兼容AGENTS.md",
+    "summary": "Shopify CEO考虑禁用Claude Code，因其与AGENTS.md不兼容。这反映了AI工具在企业环境中的集成挑战，以及大模型与特定开发框架的兼容性问题对产品决策的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/nRkD9raxfKMjpBHfz0sQ1Q": {
+    "title_clean": "启发学习：让大模型认知从外化到内生",
+    "summary": "本文探讨了一种名为启发学习的方法，旨在改变大模型的认知方式，从依赖外部输入转向内生性认知。这一技术突破可能提升AI模型的自主性和理解能力，对元宝产品经理在AI助手认知能力提升方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/us-probes-apex-logistics-over-alleged-nvidia-ai-chip-smuggling": {
+    "title_clean": "美国调查新加坡公司涉嫌走私英伟达AI芯片至中国",
+    "summary": "美国政府正调查新加坡Apex Logistics公司涉嫌将英伟达AI芯片走私至中国的事件。这可能影响英伟达芯片供应链及AI芯片出口管制政策，对元宝产品经理了解AI硬件供应链限制及合规风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/salesforce-projects-strong-growth-in-sales-and-bookings": {
+    "title_clean": "Salesforce：与Anthropic合作提振增长预期",
+    "summary": "Salesforce上调营收增长预期，并深化与AI公司Anthropic的合作关系，向投资者证明其业务增长能力。这对元宝产品经理有参考价值，展示了大型企业如何通过AI合作增强产品竞争力，特别是在企业级AI服务领域的战略布局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/bloomberg-tech-8-26-2026-video": {
+    "title_clean": "Meta就社交媒体成瘾诉讼达成18亿美元和解协议",
+    "summary": "Meta同意支付高达180亿美元以解决联邦诉讼，指控其故意设计Facebook和Instagram鼓励用户成瘾行为。这一里程碑式和解对产品经理具有重要参考价值，提示在设计社交产品时需平衡用户参与度与心理健康风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/meta-states-agree-to-settle-teen-social-media-harm-case": {
+    "title_clean": "Meta同意支付高达180亿美元解决社交媒体索赔",
+    "summary": "Meta同意支付高达180亿美元 landmark settlements，以解决美国各州提出的社交媒体索赔，这将要求公司对其运营方式进行重大改变。这一巨额赔偿反映了社交媒体平台面临的法律和监管压力，对元宝产品经理了解行业合规成本和监管趋势具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/horizons-middle-east-africa-8-26-2026-video": {
+    "title_clean": "Horizons Middle East & Africa：中东非洲市场分析节目",
+    "summary": "这是一档来自迪拜的每日市场分析节目，聚焦全球增长最快的中东和非洲地区，提供最新市场动态、深度分析和重要人物访谈，为产品经理了解新兴市场趋势提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
   }
 }

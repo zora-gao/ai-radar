@@ -72671,5 +72671,447 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/almanac-5": {
+    "title_clean": "Almanac：AI助手第二大脑工具",
+    "summary": "Almanac是一款AI助手工具，定位为拥有'第二大脑'的智能代理，能够帮助用户存储、组织和检索信息，可能具备知识管理和智能辅助功能，对产品经理在AI助手知识库设计和信息组织方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-omni-1-1-flash": {
+    "title_clean": "Gemini Omni 1.1 Flash：多模态视频生成编辑模型",
+    "summary": "谷歌发布最新多模态模型Gemini Omni 1.1 Flash，专注于视频生成与编辑功能，为AI视频处理领域带来新工具，产品经理可关注其在多模态交互和视频内容创作场景的应用潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hugging-face": {
+    "title_clean": "Microduck：开源双足机器人训练工具",
+    "summary": "Microduck是一款开源的双足机器人项目，用户可以自行训练。这对AI产品经理的参考价值在于探索AI在物理机器人控制领域的应用可能性，以及如何将AI训练能力开放给用户创造价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/spline": {
+    "title_clean": "Spline：AI代理时代3D创作平台",
+    "summary": "Spline推出V2版本，定位为AI代理时代最佳的3D创作平台，可能整合AI辅助设计功能，为产品经理提供AI赋能创意工具的发展方向参考，特别是在3D内容创作与AI结合的应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/google-labs": {
+    "title_clean": "Play with Putty：协作式 vibe 编程工具",
+    "summary": "Play with Putty 是一款简单的协作式 vibe 编程工具，支持多人实时协作编程。这类工具对产品经理了解AI辅助编程协作场景有参考价值，特别是如何简化多人协作编程体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notchdrop": {
+    "title_clean": "NotchDrop：Mac刘海屏动态交互工具",
+    "summary": "NotchDrop为Mac刘海屏设备提供类似iPhone的Dynamic Island动态交互体验，允许用户在屏幕顶部区域查看实时通知和交互功能。这款工具展示了如何将移动端交互设计理念迁移到桌面端，为元宝产品经理在多设备交互设计上提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-28/munster-expects-nvidia-revenue-to-grow-by-90-in-2027-video": {
+    "title_clean": "Munster 预测英伟达2027年收入将增长90%",
+    "summary": "Deepwater Asset Management管理合伙人Gene Munster预测英伟达2027年收入将增长90%，称其发展令人惊叹。这一预测反映了AI芯片市场的强劲增长势头，对元宝产品经理评估AI基础设施供应商的长期发展潜力有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/equity-futures-drift-before-warsh-speech-amid-tech-profit-taking": {
+    "title_clean": "美联储主席Warsh承诺应对通胀推动股市上涨",
+    "summary": "美联储主席Kevin Warsh发表演讲安抚投资者对央行应对通胀能力的担忧，推动股市升至当日高点。这一表态可能影响市场对货币政策的预期，对元宝产品经理了解宏观经济环境对AI产品市场的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-28/mobile-games-designed-to-be-addictive-get-more-kid-friendly": {
+    "title_clean": "面向儿童设计的移动游戏采用成瘾性设计",
+    "summary": "游戏开发者使用成瘾性设计技术吸引玩家，而目前最赚钱的游戏越来越多地面向儿童评级。该行业声称其游戏是安全的，但通过自建游戏展示了这些设计可能带来的问题。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india": {
+    "title_clean": "Meta高管转投OpenAI，印度监管压力加剧",
+    "summary": "Meta前高管Sandhya Devanathan转任OpenAI，将负责东南亚和澳大利亚的部分业务运营。这反映了科技巨头间的人才流动，以及Meta在印度面临日益严格的监管环境，可能影响元宝在类似市场的竞争策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/us-stock-futures-today-affirm-autodesk-gap-paypal-solstice": {
+    "title_clean": "美股期货市场动态：Affirm、Autodesk等公司表现",
+    "summary": "标普500指数期货在纽约时间7:41基本持平，市场正关注美联储主席凯文·沃什在杰克逊霍尔的讲话。该资讯涉及多家知名科技和零售公司的股票表现，对元宝产品经理了解市场情绪和投资者关注点有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-28/chinese-ai-labs-alibaba-and-moonshot-bet-on-free-models-now-fees-later": {
+    "title_clean": "阿里巴巴和月之暗面：中国AI实验室免费模型收费转型",
+    "summary": "中国AI实验室阿里巴巴和月之暗面正从免费模型转向收费模式，尽管其AI模型价格低廉，但两家公司计划通过后续收费提高收入。这一转变反映了中国AI企业从免费获取用户到商业化变现的战略调整，对元宝的产品定价和商业化策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/08/wzmacniamy-w-polsce-ochrone-przed-oszustwami": {
+    "title_clean": "Wzmacniamy w Polsce ochronę przed oszustwami：波兰加强网络诈骗防护",
+    "summary": "该资讯报道波兰正在加强网络诈骗防护措施，涵盖从平台、约会应用到加密货币平台和短信等多渠道诈骗活动。这对产品经理了解安全防护场景和用户需求变化有参考价值，特别是AI助手在安全防护领域的应用机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/valterra-platinum-said-to-have-approached-rival-miner-northam": {
+    "title_clean": "Valterra Platinum 接洽竞争对手 Northam 探讨潜在合并",
+    "summary": "Valterra Platinum 已非正式接触竞争对手南非矿商 Northam Platinum，探讨可能创造迄今为止最大规模铂金生产商的潜在交易。这反映了矿业整合趋势，对元宝产品经理了解行业动态和潜在商业机会有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Vkoh4W9bGO5R1YGKgzW5SA": {
+    "title_clean": "前Thinking Machines CTO离开OpenAI重返谷歌",
+    "summary": "前Thinking Machines公司CTO在离开OpenAI后已重返谷歌任职。这一人事变动反映了AI行业顶尖人才在科技巨头间的流动趋势，对元宝产品经理了解AI领域人才布局和公司战略方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/EikXSaSvOJTO0g0JgOP4GQ": {
+    "title_clean": "代码迁移挑战：AI模型难以精确转换大型代码库技术栈",
+    "summary": "文章探讨将20万行代码迁移到新技术栈时保持行为一致性的挑战，指出当前主流AI模型如Claude和GPT在此类复杂代码转换任务中表现不佳，反映了AI在代码理解和精确转换方面的局限性，对产品经理评估AI代码辅助能力边界有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-28/state-street-im-s-prendergast-on-etf-markets-video": {
+    "title_clean": "State Street IM高管谈ETF市场投资机会",
+    "summary": "State Street投资管理公司EMEA负责人兼APAC临时负责人Ann Prendergast在彭博社节目中讨论了ETF市场的投资机会。这为AI助手在金融投资领域的应用提供了行业视角，特别是ETF市场动态和投资策略方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-28/lightspeed-s-mohapatra-on-india-s-ai-startups-video": {
+    "title_clean": "Lightspeed's Mohapatra on India's AI Startups",
+    "summary": "Lightspeed India合伙人Hemant Mohapatra在彭博科技节目中讨论印度AI初创生态系统的投资机会，为元宝产品经理提供印度AI市场投资趋势和机会参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/haier-sees-europe-india-ac-demand-offset-weak-china-sales": {
+    "title_clean": "海尔：欧洲和印度空调需求增长抵消中国销售疲软",
+    "summary": "海尔智能家电表示，欧洲和印度对空调等制冷电器的需求增长，帮助抵消了国内市场的疲软需求。这一市场动态对产品经理了解家电行业区域需求变化和全球化布局策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026": {
+    "title_clean": "Anthropic和OpenAI将参加TechCrunch Disrupt 2026 AI舞台活动",
+    "summary": "Anthropic和OpenAI将参加2026年TechCrunch Disrupt大会的AI舞台环节，该环节由Google for Startups赞助，聚焦AI领域热点话题。这对产品经理了解行业头部企业动向和未来技术趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/meta-s-pressure-campaign-puts-tiktok-youtube-snap-on-back-foot": {
+    "title_clean": "Meta施压TikTok、YouTube、Snap限制青少年使用",
+    "summary": "Meta在签署180亿美元和解协议后，公开施压社交平台竞争对手为青少年使用设置护栏，此举可能影响行业内容政策制定，对元宝产品经理了解平台责任边界和青少年保护策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/software-stocks-will-rebound-from-the-ashes-malik-says-video": {
+    "title_clean": "软件股票将迎来反弹，投资专家Malik看好软件行业前景",
+    "summary": "Nuveen首席投资官Saira Malik表达了对软件股票的乐观态度，认为软件行业将迎来反弹。她表示希望在杰克逊霍尔会议上从美联储主席Kevin Warsh处获得积极信号，并看好软件行业的投资价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/open-interest-8-27-2026-video": {
+    "title_clean": "Nvidia 发布强劲AI业绩预测，推动市场对AI热潮持续性的信心",
+    "summary": "Nvidia发布强劲的AI业务预测，提振市场信心并推动AI相关股票上涨。这一业绩表现表明AI市场仍具有强劲增长动力，对元宝产品经理评估AI市场趋势和商业化潜力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/jpmorgan-leads-5-billion-debt-package-for-volta-ai-buildout": {
+    "title_clean": "摩根大通牵头50亿美元债务融资支持Volta AI数据中心建设",
+    "summary": "摩根大通正为Volta Infrastructure筹集50亿美元债务融资，用于支持其AI数据中心的建设。这反映了AI基础设施领域的大规模投资趋势，对元宝产品经理评估AI服务底层资源投入和成本结构有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps": {
+    "title_clean": "AI内存危机将影响Android应用",
+    "summary": "Google正在为Android应用设置新的内存使用限制，因为AI数据中心导致硬件短缺，可能使低端手机内存更少。这对AI应用开发者提出了优化内存的新挑战，元宝产品团队需关注AI服务在资源受限设备上的适配策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/supply-chain-nontech-founder-ilya-levtov-craft": {
+    "title_clean": "Craft：非技术创始人创立的供应链软件公司",
+    "summary": "Craft公司CEO Ilya Levtov是一位茱莉亚音乐学院培养的大提琴手，从未学习过编程，却成功创立了一家供应链软件公司并获得风险投资。这展示了非技术背景创始人也能在科技领域取得突破，为元宝产品团队思考产品定位和创始人背景多样性提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs": {
+    "title_clean": "Nvidia：AI实验室融资占明年四分之一业务",
+    "summary": "Nvidia已向购买其芯片的AI实验室投入近500亿美元，并承诺提供超过5000亿美元资金。这表明Nvidia正通过深度绑定AI实验室来巩固其芯片业务，对AI硬件生态和AI服务场景布局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/stripe-ai-now-accelerating-progress-of-internet-economy-video": {
+    "title_clean": "Stripe：AI加速互联网经济发展",
+    "summary": "Stripe东南亚、中国及韩国董事总经理Sarita Singh认为人工智能正在加速互联网经济的发展进程。这一观点来自金融基础设施公司Stripe高管对AI经济影响的最新判断，对元宝产品经理了解AI对互联网经济的推动作用具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/expanding-our-presence-in-brazil": {
+    "title_clean": "OpenAI扩大在巴西的业务布局",
+    "summary": "OpenAI正在扩大在巴西的业务覆盖，深化与开发者、企业和社区的合作，以支持该国的人工智能应用普及。这一举措表明OpenAI正积极拓展国际市场，特别是在新兴经济体的AI生态建设方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/nvidia-discussed-buying-ai-startup-hugging-face-insider-says": {
+    "title_clean": "Nvidia拟收购AI初创公司Hugging Face",
+    "summary": "据报道，英伟达正接近以约130亿美元的价格收购AI初创公司Hugging Face。此次收购将强化英伟达在AI生态系统中的地位，Hugging Face作为开源AI模型平台，拥有大量开发者社区和预训练模型资源，对元宝产品经理评估AI平台战略和生态布局具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/databank-s-incoming-ceo-on-ai-buildout-nvidia-earnings-video": {
+    "title_clean": "DataBank新CEO谈AI基础设施建设与Nvidia财报",
+    "summary": "DataBank新任CEO兼CFO Kevin Ooley讨论数据中心扩张的关键问题，该公司运营着超过70个数据中心，覆盖25个以上市场。内容聚焦AI基础设施建设，对元宝产品经理了解AI服务底层基础设施和算力资源布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/meta-s-18-billion-social-media-settlement-by-the-numbers": {
+    "title_clean": "Meta：18亿美元社交媒体用户隐私和解协议",
+    "summary": "Meta与全美各州达成18亿美元和解协议，解决其社交媒体平台青少年用户相关的多项法律诉讼。这笔巨额赔偿反映了社交媒体平台对未成年人数据保护责任的法律风险，对元宝产品经理在用户隐私保护、未成年人使用规范方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/nvidia-s-sales-forecast-fails-to-meet-loftiest-estimates-video": {
+    "title_clean": "Nvidia销售预测未达最高预期",
+    "summary": "Nvidia作为人工智能芯片核心供应商，其最新销售预测未达到最高市场预期，引发投资者对AI支出可能放缓的担忧。这对元宝产品经理评估AI基础设施市场趋势和商业化节奏具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/okta-lifts-annual-revenue-view-as-double-digit-growth-holds": {
+    "title_clean": "Okta上调年度营收预期并创纪录积压订单",
+    "summary": "Okta公司第二次上调年度营收预期，并公布了超出预期的订阅积压订单，导致股价大幅上涨。这表明企业身份认证市场需求强劲，对元宝在B端服务场景和商业化策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/live-blog/2026-08-26/nvidia-second-quarter-earnings": {
+    "title_clean": "Nvidia：AI芯片制造商Q2 2026财报更新",
+    "summary": "Nvidia发布2026财年第二季度财报，作为AI芯片行业的领导者，其业绩表现将反映AI芯片市场需求、技术发展趋势以及公司在AI领域的竞争地位，对元宝产品经理了解AI基础设施层动态和行业投资方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents": {
+    "title_clean": "Arga Labs：企业AI代理训练工具",
+    "summary": "Arga Labs获得1000万美元种子轮融资，由General Catalyst领投，Box Group、Emergence等参投。该公司专注于开发更好的企业AI代理训练方法，为AI Agent领域提供新的技术解决方案，对元宝产品经理在AI Agent训练方向具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

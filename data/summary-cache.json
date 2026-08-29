@@ -73750,5 +73750,387 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft": {
+    "title_clean": "索尼和华纳音乐起诉Anthropic，指控其大规模知识产权盗窃",
+    "summary": "索尼音乐和华纳音乐联合起诉Anthropic，指控其进行大规模知识产权盗窃，这反映了AI公司在训练数据获取方面面临的法律风险，对元宝产品经理在合规数据使用和版权管理方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tiles-5": {
+    "title_clean": "Tiles：桌面整理工具",
+    "summary": "Tiles是一款桌面整理工具，能够将混乱的桌面空间转化为有序的 curated 空间。对于元宝产品经理而言，这类桌面空间管理工具可能启发AI助手在文件整理、桌面场景理解方面的功能设计，特别是针对办公场景的用户需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/any-command-remote-control-for-pc": {
+    "title_clean": "Any Command：手机转PC第二屏与触控板工具",
+    "summary": "Any Command是一款工具应用，可将手机转变为电脑的第二显示屏和触控板，实现跨设备交互。这类工具对元宝产品经理有参考价值，可作为多设备协同场景的竞品参考，启发移动端与PC端无缝连接的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-29/dangote-s-daughters-shape-the-future-of-an-empire-video": {
+    "title_clean": "达索特家族愿景与非洲工业新时代",
+    "summary": "非洲最具影响力的工业帝国之一达索特家族的下一代成员在彭博非洲节目中分享他们对非洲工业未来发展的愿景和战略规划，为理解非洲市场发展趋势和潜在商业机会提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu": {
+    "title_clean": "Nvidia：AI优势正超越GPU范畴",
+    "summary": "Nvidia新一代数据中心系统通过智能流量控制提升效率，不再仅依赖处理器周期增加。这一转变表明AI硬件正从单纯算力竞争转向更智能的资源调度，对元宝产品经理理解AI基础设施发展方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-28/affirm-ceo-american-consumers-are-healthy-video": {
+    "title_clean": "Affirm CEO：美国消费者财务状况健康",
+    "summary": "Affirm CEO Max Levchin在公司最新财报电话会议上表示，美国消费者财务状况健康，公司收入前景乐观，短期贷款业务迎来最盈利季度。这对元宝产品经理了解消费金融领域用户信用状况和消费行为有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai": {
+    "title_clean": "Anthropic研究员展示自我改进AI系统",
+    "summary": "Anthropic研究员展示了AI系统能够在10个特定不 aligned 行为基准上自动改进性能，同时不降低整体表现。这为AI助手自我优化提供了新思路，对产品经理评估AI系统自主学习和改进能力有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/cyber-command-to-brief-congress-military-committee-on-suicides": {
+    "title_clean": "美军网络司令部将就自杀问题向国会军事委员会简报",
+    "summary": "美军网络司令部官员将向国会监督委员会就网络部队人员异常高自杀率问题进行简报，这是议员调查的一部分。此信息对产品经理了解AI在心理健康领域的应用场景及潜在社会价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/nvidia-backed-lambda-inks-1-billion-private-debt-for-chip-deal": {
+    "title_clean": "Nvidia支持的Lambda获得10亿美元私人债务用于芯片交易",
+    "summary": "AI云计算服务提供商Lambda获得Nvidia支持，筹集约10亿美元私人短期债务，用于与微软合作相关的计算芯片交易。这反映了AI基础设施领域的大规模投资趋势，对元宝产品经理了解AI算力供应链和云服务合作模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-28/fed-hike-would-be-important-signal-to-market-harker-video": {
+    "title_clean": "美联储加息信号对市场的重要性",
+    "summary": "前费城联储主席Patrick Harker表示，美联储主席Kevin Warsh在杰克逊霍尔经济政策研讨会首次演讲中将面临三大问题，其中美联储加息将是向市场发出的重要信号。这反映了货币政策变化对市场预期的影响，对AI产品经理理解经济环境变化如何影响用户行为和商业决策有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/ambani-s-jio-platforms-ipo-plan-gets-regulatory-approval": {
+    "title_clean": "信实工业旗下Jio Platforms获准IPO",
+    "summary": "印度信实工业集团旗下数字电信业务Jio Platforms获得监管机构IPO批准，这是印度最大电信运营商之一的重要融资里程碑。该消息对关注新兴市场AI基础设施投资和电信巨头AI战略布局的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-28/ai-growth-helpful-for-quantum-quantinuum-ceo-hazra-video": {
+    "title_clean": "Quantinuum CEO：AI增长助力量子计算发展",
+    "summary": "Quantinuum首席执行官Rajeeb Hazra在Bloomberg访谈中讨论了量子计算与人工智能的互补关系，以及量子计算的未来发展方向。这对元宝产品经理了解AI与前沿技术的交叉应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/softbank-seeks-another-10-billion-loan-for-openai-stake-funding": {
+    "title_clean": "软银寻求100亿美元贷款用于OpenAI股权融资",
+    "summary": "软银集团正寻求100亿美元贷款，用于为其投资美国科技巨头OpenAI的债务再融资。这反映了大型科技投资者对AI领域的持续投入，以及OpenAI作为AI领域重要参与者的战略价值，对元宝产品经理了解AI行业资本动向和头部企业布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-28/yotta-data-chairman-on-ipo-pipeline-growth-video": {
+    "title_clean": "Yotta Data董事长谈IPO计划与增长转型",
+    "summary": "Yotta Data Services董事长兼联合创始人Darshan Hiranandani讨论了公司增长前景、向AI云服务商的转型以及IPO计划。随着AI需求上升，该公司正积极转型为AI云服务提供商，这对了解云服务与AI结合的商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/9-CTDbm3-6VrrAuU6NXrmw": {
+    "title_clean": "AI患者管理驶入深水区：如何让「管得住」变成「管出疗效」",
+    "summary": "该文章探讨AI在患者管理领域的深入应用，从简单的监管功能转向提升治疗效果。文章分析了AI如何从基础的患者监控转向更复杂的疗效评估和干预策略，为医疗AI产品提供了从功能实现到价值创造的产品设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/robinhood-cio-ai-boom-collides-with-rising-rates-video": {
+    "title_clean": "Robinhood Markets CIO：Nvidia AI增长面临利率上升与宏观风险",
+    "summary": "Robinhood首席信息官Stephanie Guild表示，Nvidia的业绩强化了AI投资主题，但她警告称企业大量借贷、持续通胀和利率上升可能增加市场风险。这对AI行业投资环境与市场预期具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/us-ftc-probing-youtube-over-social-media-policies": {
+    "title_clean": "美国FTC调查YouTube社交媒体政策",
+    "summary": "美国联邦贸易委员会正在调查Alphabet旗下YouTube在暂停用户账号时是否违反消费者保护法。这一调查对产品经理有参考价值，涉及社交媒体平台内容审核政策与用户权益平衡问题，可能影响平台规则制定和用户关系管理策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/meta-deal-quietly-resolves-claims-over-2016-election-data-cambridge-analytica": {
+    "title_clean": "Meta：解决2016年选举数据与剑桥分析公司相关诉讼",
+    "summary": "Meta在180亿美元和解协议中，悄然解决了与2016年选举数据及剑桥分析公司相关的争议。这一事件涉及社交媒体数据滥用问题，对产品经理了解数据隐私合规风险及平台责任边界有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/hugging-face-always-attracts-buyers-co-founder-says-video": {
+    "title_clean": "Hugging Face：AI模型开源平台",
+    "summary": "据报道，英伟达正以约130亿美元收购Hugging Face，该公司是AI模型开源平台，拥有大量预训练模型和开发者社区。这一交易若完成将显著扩大英伟达在AI生态中的影响力，对元宝产品经理评估AI开源平台价值与商业化路径有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity": {
+    "title_clean": "Socure：AI身份验证与反欺诈公司获5.2亿美元估值融资",
+    "summary": "身份验证和欺诈预防公司Socure宣布完成1.56亿美元战略增长融资，估值达52亿美元，并收购了AI欺诈调查初创公司Fravity。这反映了身份安全领域对AI解决方案的持续投资，对元宝在身份验证和反欺诈功能开发上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/warsh-to-provide-framework-guidance-on-policy-slok-video": {
+    "title_clean": "Apollo首席经济学家预测Warsh将持鹰派经济展望",
+    "summary": "Apollo首席经济学家Torsten Slok预计美联储主席Kevin Warsh将采用\"框架指引\"而非前瞻指引，并对经济展望持鹰派立场。这对产品经理了解宏观经济政策走向及可能对AI产品市场环境的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/ebola-vaccine-race-expands-as-congo-bundibugyo-outbreak-grows": {
+    "title_clean": "刚果埃博拉疫情扩大，埃及制药公司加速疫苗研发",
+    "summary": "刚果民主共和国埃博拉疫情持续扩大，埃及制药公司正在加速开发针对此次疫情毒株的实验性疫苗。这一动态对AI产品经理的参考价值在于，展示了AI在公共卫生危机响应和疫苗研发加速中的应用潜力，以及AI如何辅助实时疫情监测和资源分配决策。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/nvidia-s-upbeat-outlook-eases-concerns-about-ai-economy-video": {
+    "title_clean": "Nvidia上调AI芯片销售预期，缓解AI经济担忧",
+    "summary": "Nvidia预计2028财年营收增长约70%，超出分析师预期的45%。这一乐观预测表明AI芯片需求强劲，缓解了市场对AI经济放缓的担忧，对元宝产品经理判断AI基础设施市场趋势和商业化潜力有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation": {
+    "title_clean": "Viral AI startup Instinct获3.5亿美元融资，估值达25亿美元",
+    "summary": "Instinct是一家成立仅一年的AI初创公司，已获得3.5亿美元融资，估值达25亿美元。该产品引发大量关注和资金投入，同时也引发了隐私担忧。对产品经理而言，这反映了AI领域高增长初创企业的融资趋势和潜在风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/kioxia-plans-new-chip-facility-in-japan-to-meet-ai-memory-demand": {
+    "title_clean": "铠侠计划在日本新建芯片工厂以满足AI存储需求",
+    "summary": "铠侠控股公司将在日本北部新建芯片制造工厂，扩大产能以满足AI相关存储需求的增长。这一动向反映了AI技术发展对硬件基础设施的持续需求，对元宝产品经理了解AI产业链上下游变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/-dean-of-valuation-damodaran-on-nvidia-s-multiple-video": {
+    "title_clean": "Damodaran：解析Nvidia估值倍数变化",
+    "summary": "纽约大学金融学教授Damodaran分析Nvidia最新财报后的AI投资格局变化，探讨AI投资估值趋势。对元宝产品经理了解AI商业化进程和投资者关注点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-sola-insurance": {
+    "title_clean": "Executive Interview : Sola Insurance：保险科技创始人谈市场定位与客户需求",
+    "summary": "Sola Insurance联合创始人Wesley Pergament接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。这对元宝产品经理了解保险科技领域的市场洞察和客户需求变化有参考价值，可作为服务场景拓展的案例研究。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach": {
+    "title_clean": "OpenAI发布Hugging Face安全事件官方报告",
+    "summary": "OpenAI发布了关于Hugging Face安全事件的官方报告，详细记录了多起独立网络安全事件，这是迄今为止对该事件最完整的说明。报告内容对AI产品经理了解平台安全风险和防护措施具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/steve-case-says-ai-driving-shift-to-durable-assets-video": {
+    "title_clean": "Revolution CEO：AI推动向耐用资产转变",
+    "summary": "Revolution CEO Steve Case表示AI将广泛颠覆各行业商业模式，建议投资者转向更具持久性的资产。这一观点对元宝产品经理有参考价值，提示AI可能改变用户对服务的长期需求，影响产品战略方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-genspark": {
+    "title_clean": "Executive Interview: Genspark高管访谈",
+    "summary": "Genspark首席运营官Wen Sang接受CB Insights采访，分享公司对市场的看法、客户需求定位以及企业战略方向。该访谈揭示了Genspark的市场定位策略，对AI产品经理了解行业竞争格局和企业服务AI产品的发展方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/open-interest-8-26-2026-video": {
+    "title_clean": "美股停滞等待英伟达财报：AI投资信号受关注",
+    "summary": "美股市场在英伟达财报发布前呈现停滞状态，投资者对AI投资信号的持久性持谨慎态度。这一动态反映了AI行业投资情绪变化，对元宝产品经理了解AI市场信心和资本流向具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

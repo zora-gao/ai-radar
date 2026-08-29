@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T16:47:48.932Z",
+  "generated_at": "2026-08-29T01:14:28.274Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -93,6 +93,31 @@
       ],
       "price_in": 0.075,
       "price_out": 0.25,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-context behavior while...",
+      "description_zh": null
+    },
+    {
+      "id": "z-ai/glm-5.3-flash:batch",
+      "name": "GLM 5.3 Flash (batch)",
+      "vendor": "Zhipu AI",
+      "vendor_slug": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flash-20260826",
+      "created_at": "2026-08-26T13:59:01Z",
+      "context_length": 1048575,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.15,
+      "price_out": 0.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -333,8 +358,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.375,
-      "price_out": 1.875,
+      "price_in": 0.75,
+      "price_out": 3.75,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -488,6 +513,29 @@
       "description_zh": "DeepSeek V4 Pro 0813 是 DeepSeek 的大规模专家混合模型。这是 DeepSeek V4 Pro 的 GA 版本。"
     },
     {
+      "id": "deepseek/deepseek-v4-pro-0813:batch",
+      "name": "DeepSeek V4 Pro 0813 (batch)",
+      "vendor": "DeepSeek",
+      "vendor_slug": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-20260813",
+      "created_at": "2026-08-12T15:42:44Z",
+      "context_length": 1048576,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.32,
+      "price_out": 3.96,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek. This is the GA release of DeepSeek V4 Pro.",
+      "description_zh": "DeepSeek V4 Pro 0813 是 DeepSeek 的大规模专家混合模型。这是 DeepSeek V4 Pro 的 GA 版本。"
+    },
+    {
       "id": "x-ai/grok-4.6",
       "name": "Grok 4.6",
       "vendor": "xAI",
@@ -550,8 +598,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.1,
-      "price_out": 0.25,
+      "price_in": 0.08,
+      "price_out": 0.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -632,6 +680,30 @@
     {
       "id": "meta/muse-glimmer-30b",
       "name": "Muse Glimmer 30B",
+      "vendor": "Meta",
+      "vendor_slug": "meta",
+      "url": "https://openrouter.ai/meta/muse-glimmer-30b-20260810",
+      "created_at": "2026-08-09T19:06:34Z",
+      "context_length": 131072,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.3,
+      "price_out": 1.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Muse Glimmer 30B is a dense, open-weight multimodal model from Meta Superintelligence Labs, distilled from Muse Spark and optimized for autonomous agents on consumer hardware. It is suited for long-horizon...",
+      "description_zh": "Muse Glimmer 30B 是来自 Meta Superintelligence Labs 的密集、开放权重多模态模型，从 Muse Spark 中提炼出来，并针对消费类硬件上的自主代理进行了优化。它适用于长视野..."
+    },
+    {
+      "id": "meta/muse-glimmer-30b:batch",
+      "name": "Muse Glimmer 30B (batch)",
       "vendor": "Meta",
       "vendor_slug": "meta",
       "url": "https://openrouter.ai/meta/muse-glimmer-30b-20260810",
@@ -743,8 +815,31 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.06,
-      "price_out": 0.12,
+      "price_in": 0.045,
+      "price_out": 0.09,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows....",
+      "description_zh": "DeepSeek V4 Flash 0731 是 DeepSeek 的稀疏专家混合模型，总共 284B 个活动参数，其中有 13B 个。这个经过重新训练的版本适用于编码、推理和代理工作流程......"
+    },
+    {
+      "id": "deepseek/deepseek-v4-flash-0731:batch",
+      "name": "DeepSeek V4 Flash 0731 (batch)",
+      "vendor": "DeepSeek",
+      "vendor_slug": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-20260731",
+      "created_at": "2026-07-31T06:21:48Z",
+      "context_length": 1048576,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.14,
+      "price_out": 0.28,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -769,6 +864,31 @@
         "text"
       ],
       "price_in": 0.45,
+      "price_out": 1.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Inkling Small is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 12B active parameters out of 276B total. It is positioned as the smaller, more efficient member of...",
+      "description_zh": "Inkling Small 是 Thinking Machines Lab 的开放权重多模态专家混合模型，共有 276B 个主动参数，其中有 12B 个。它被定位为更小、更高效的成员......"
+    },
+    {
+      "id": "thinkingmachines/inkling-small:batch",
+      "name": "Inkling Small (batch)",
+      "vendor": "Thinkingmachines",
+      "vendor_slug": "thinkingmachines",
+      "url": "https://openrouter.ai/thinkingmachines/inkling-small-20260730",
+      "created_at": "2026-07-30T20:25:17Z",
+      "context_length": 524288,
+      "modality": "text+image+audio->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.5,
       "price_out": 1.2,
       "is_free": false,
       "supports_tools": true,
@@ -1230,6 +1350,31 @@
       "description_zh": "Kimi K3是Moonshot AI推出的2.8T参数开放权重多模态推理模型。它适用于复杂的编码、知识工作和长期代理工作流程，并且特别擅长..."
     },
     {
+      "id": "moonshotai/kimi-k3:batch",
+      "name": "Kimi K3 (batch)",
+      "vendor": "Moonshot AI",
+      "vendor_slug": "moonshotai",
+      "url": "https://openrouter.ai/moonshotai/kimi-k3-20260715",
+      "created_at": "2026-07-16T15:30:58Z",
+      "context_length": 1048576,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 3,
+      "price_out": 15,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at...",
+      "description_zh": "Kimi K3是Moonshot AI推出的2.8T参数开放权重多模态推理模型。它适用于复杂的编码、知识工作和长期代理工作流程，并且特别擅长..."
+    },
+    {
       "id": "meta/muse-spark-1.1",
       "name": "Muse Spark 1.1",
       "vendor": "Meta",
@@ -1326,156 +1471,6 @@
       "supports_reasoning": true,
       "description": "GPT-5.6 Luna Pro is the same underlying model as GPT-5.6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
       "description_zh": "GPT-5.6 Luna Pro 与 GPT-5.6 Luna 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
-    },
-    {
-      "id": "openai/gpt-5.6-luna",
-      "name": "GPT-5.6 Luna",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-5.6-luna-20260709",
-      "created_at": "2026-07-09T09:54:24Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.2,
-      "price_out": 1.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-5.6 Luna is a fast, cost-efficient model in OpenAI's GPT-5.6 series. It is suited for high-volume, latency-sensitive tasks such as chat, classification, and lightweight agentic workflows, providing capable reasoning for...",
-      "description_zh": "GPT-5.6 Luna 是 OpenAI GPT-5.6 系列中快速、经济高效的型号。它适用于大容量、延迟敏感的任务，例如聊天、分类和轻量级代理工作流程，为...提供强大的推理能力。"
-    },
-    {
-      "id": "openai/gpt-5.6-terra-pro",
-      "name": "GPT-5.6 Terra Pro",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-5.6-terra-pro-20260709",
-      "created_at": "2026-07-09T09:54:21Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 12,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-5.6 Terra Pro is the same underlying model as GPT-5.6 Terra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
-      "description_zh": "GPT-5.6 Terra Pro 与 GPT-5.6 Terra 的底层模型相同，将 Reasoning.mode 设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
-    },
-    {
-      "id": "openai/gpt-5.6-terra",
-      "name": "GPT-5.6 Terra",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-5.6-terra-20260709",
-      "created_at": "2026-07-09T09:54:17Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 12,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-5.6 Terra is a balanced model in OpenAI's GPT-5.6 series, positioned between the flagship Sol tier and the cost-efficient Luna tier. It is suited for everyday coding, reasoning, and agentic...",
-      "description_zh": "GPT-5.6 Terra 是 OpenAI GPT-5.6 系列中的平衡型号，定位于旗舰 Sol 层和经济高效的 Luna 层之间。它适用于日常编码、推理和代理......"
-    },
-    {
-      "id": "openai/gpt-5.6-sol-pro",
-      "name": "GPT-5.6 Sol Pro",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol-pro-20260709",
-      "created_at": "2026-07-09T09:54:14Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-5.6 Sol Pro is the same underlying model as GPT-5.6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
-      "description_zh": "GPT-5.6 Sol Pro 与 GPT-5.6 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
-    },
-    {
-      "id": "openai/gpt-5.6-sol",
-      "name": "GPT-5.6 Sol",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol-20260709",
-      "created_at": "2026-07-09T09:54:10Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-5.6 Sol is the flagship model in OpenAI's GPT-5.6 series. It is suited for complex reasoning, coding, and agentic workflows, and is particularly strong at command-line and multi-step coding tasks...",
-      "description_zh": "GPT-5.6 Sol是OpenAI GPT-5.6系列中的旗舰型号。它适用于复杂的推理、编码和代理工作流程，并且在命令行和多步骤编码任务方面尤其强大......"
-    },
-    {
-      "id": "x-ai/grok-4.5",
-      "name": "Grok 4.5",
-      "vendor": "xAI",
-      "vendor_slug": "x-ai",
-      "url": "https://openrouter.ai/x-ai/grok-4.5-20260708",
-      "created_at": "2026-07-08T15:05:54Z",
-      "context_length": 500000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Grok 4.5 is a model from SpaceXAI with frontier performance on coding, knowledge work, and STEM.",
-      "description_zh": "Grok 4.5 是 SpaceXAI 的一个模型，在编码、知识工作和 STEM 方面具有前沿性能。"
     }
   ]
 }

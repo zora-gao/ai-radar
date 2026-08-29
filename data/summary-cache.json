@@ -73345,5 +73345,275 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/revalvo": {
+    "title_clean": "Revalvo：多模型提示词批量测试工具",
+    "summary": "Revalvo允许用户同时在多个AI模型上运行提示词，并进行评分、版本管理和发布。这款工具可帮助产品经理高效测试不同模型对同一提示词的响应质量，优化AI助手性能，是AI产品开发的重要辅助工具。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cohere-2": {
+    "title_clean": "Cohere Parse 5：文档表格图像AI解析工具",
+    "summary": "Cohere发布Parse 5，可将复杂文档、表格和图像转化为AI可处理的数据。这一工具能帮助AI系统更好地理解非结构化内容，对元宝提升文档处理和多模态交互能力有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hunyuan-a13b": {
+    "title_clean": "Hy4：腾讯770B开放模型用于长周期任务",
+    "summary": "腾讯发布Hy4预览版，这是一款拥有770B参数的开源大模型，专门针对长周期任务设计。该模型可能为元宝在处理复杂、多步骤任务时提供技术参考，特别是在需要长期记忆和持续执行的AI Agent场景中。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/god-s-eye-view": {
+    "title_clean": "God's Eye View：浏览器中的真实卫星数据模拟器",
+    "summary": "这是一个在浏览器中运行的卫星数据模拟器，提供真实的卫星图像数据。产品经理可参考其将卫星数据可视化技术整合到AI助手的多模态能力中，为用户提供地理空间信息查询服务。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/screenpipe": {
+    "title_clean": "screenpipe：AI工作记录助手",
+    "summary": "screenpipe是一款AI工具，能够记录用户的计算机工作活动，为AI Agent提供数据支持。这种工作记录功能可以帮助AI更好地理解用户的工作流程和上下文，从而提供更精准的辅助服务，对元宝产品经理在AI Agent能力建设方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/publicdesktop-lol": {
+    "title_clean": "publicdesktop.lol：公共互联网电脑服务",
+    "summary": "Publicdesktop.lol 提供公共互联网电脑服务，用户可通过其平台访问公共计算机资源。这种服务模式可能为元宝产品经理提供关于远程访问、公共计算资源分配以及用户隐私保护方面的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wit-will-it-travel": {
+    "title_clean": "WIT：跨英语文化误解检测工具",
+    "summary": "WIT是一款专门用于检测全球不同英语变体间潜在误解的工具，帮助用户识别跨文化交流中的语言差异和沟通障碍，对元宝产品经理在多语言AI助手开发中处理文化差异有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/opentag": {
+    "title_clean": "OpenTag：AI协作助手",
+    "summary": "OpenTag是一款集成在Slack和Teams中的AI协作助手，可作为虚拟同事协助用户完成工作任务。该产品为AI助手在团队协作场景中的应用提供了新思路，对元宝产品经理探索企业级AI助手功能有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/staats-3": {
+    "title_clean": "Staats：网站性能分析AI助手",
+    "summary": "Staats是一款AI助手工具，能够帮助用户分析网站性能并提供相关反馈。产品经理可关注其如何将AI技术应用于网站分析场景，为用户提供便捷的网站状态查询服务，这可能与元宝在AI助手垂直领域的产品方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mossy-2": {
+    "title_clean": "Mossy：桌面植物枯萎创意工具",
+    "summary": "Mossy是一款桌面植物创意工具，当植物枯萎时，用户可以自行描述并记录\"断裂\"的内容，将植物状态与个人创意表达结合，为AI助手产品提供创意交互场景参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-29/chinese-chipmaker-cxmt-sues-pentagon-to-get-off-us-blacklist": {
+    "title_clean": "中国芯片企业CXMT起诉美国国防部，要求移出黑名单",
+    "summary": "中国芯片制造商CXMT Corp.起诉美国国防部，要求将其从被认定为支持中国军事的黑名单中移除。此事件反映了中美科技竞争背景下，中国芯片企业面临的国际市场准入挑战，对元宝产品经理了解地缘政治对AI硬件供应链的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/_AJ8GBGNUUkKsQq62jaMVw": {
+    "title_clean": "腾讯姚顺雨开源Hy4preview",
+    "summary": "腾讯姚顺雨团队开源Hy4preview项目，这是继其之前工作后的又一开源成果。作为腾讯AI领域的重要人物，姚顺雨的开源项目对了解腾讯AI技术方向和行业动态具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/seendiff": {
+    "title_clean": "seendiff：代码差异查看与进度跟踪工具",
+    "summary": "seendiff是一款代码差异查看工具，具有进度跟踪功能，帮助开发者更清晰地查看代码变更并跟踪修改进度。对于元宝产品经理而言，这类工具展示了如何将特定场景（代码审查）与进度可视化结合，可能启发AI助手在专业工作流中的功能设计。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets": {
+    "title_clean": "开源AI公司成为硅谷热门收购目标",
+    "summary": "大量资本正涌入开源AI模型领域，这些提供免费模型的公司成为硅谷科技巨头争相收购的热门目标。这一趋势反映了AI行业对开源技术的重视，以及元宝等产品在考虑商业化策略时需要关注的市场动态。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund": {
+    "title_clean": "Andreessen Horowitz 筹资11亿美元成立AI基础设施基金",
+    "summary": "知名风投公司Andreessen Horowitz宣布为其最新的人工智能基础设施基金筹集11亿美元。这反映了资本对AI基础设施领域的持续关注和投入，对元宝产品经理了解AI行业资本动向和基础设施发展趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+    "title_clean": "Cursor：AI代码编辑器终止与OpenAI合作",
+    "summary": "Cursor在被SpaceX收购后决定终止与OpenAI的模型供应合同。这一决策表明AI工具在收购后可能面临战略调整，对产品经理了解AI服务合作模式与商业关系变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai": {
+    "title_clean": "Meta的闭环冷却技术：AI高效散热解决方案",
+    "summary": "Meta采用闭环液冷技术提升AI计算效率，通过液体直接冷却服务器而非传统风扇，降低能耗并提高计算密度。这对元宝产品经理了解大型AI基础设施优化方案有参考价值，特别是在能效与成本平衡方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/samsung-s-700-galaxy-26-fe-gets-a-price-hike-even-with-many-tradeoffs": {
+    "title_clean": "三星Galaxy S26 FE：中端智能手机涨价至700美元",
+    "summary": "三星推出Galaxy S26 FE智能手机，定位低于高端机型但仍提供部分高端功能，但价格已涨至700美元。这款产品反映了中端手机市场价格上涨趋势，对元宝产品经理了解消费电子价格策略和用户对中高端功能的需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/nvidia-predicts-sales-surge-will-extend-into-2028-video": {
+    "title_clean": "Nvidia预测AI驱动销售增长将持续至2028年",
+    "summary": "Nvidia预测其AI芯片销售增长将持续至2028年，缓解了市场对AI投资可能失去动力的担忧。这一预测表明AI基础设施需求强劲且持久，对元宝产品经理评估AI市场长期趋势和资源投入具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-estimate-topping-forecast-fails-to-wow-investors": {
+    "title_clean": "Nvidia：AI芯片需求推动明年销售额增长70%",
+    "summary": "Nvidia预计下财年营收将增长约70%，表明AI芯片需求持续强劲，缓解了市场对AI支出可能失去动能的担忧。这对元宝产品经理评估AI基础设施市场趋势和算力成本变化有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/ifc-backed-ventures-raises-84-million-for-african-startups": {
+    "title_clean": "IFC-Backed Ventures：非洲初创企业融资平台",
+    "summary": "Ventures Platform获得国际金融公司8400万美元融资，将扩大对非洲大陆初创企业的支持。这反映了非洲AI创业生态的资本活跃度，对元宝拓展新兴市场布局有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/nvidia-investor-jack-ablin-on-earnings-results-guidance-video": {
+    "title_clean": "Nvidia投资者解读财报与业绩指引",
+    "summary": "Cresset家族办公室合伙人兼首席投资策略师Jack Ablin分析Nvidia近期股价表现，解读财报结果及未来业绩指引，为投资者提供专业见解。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

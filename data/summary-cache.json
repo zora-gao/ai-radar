@@ -74132,5 +74132,288 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/CH5o8ER5iluS5RY5or664w": {
+    "title_clean": "OpenAI宣布断供Cursor",
+    "summary": "OpenAI突然宣布停止向Cursor提供API服务，这将对Cursor的AI代码编辑工具业务产生直接影响。这一事件反映了AI大厂对合作伙伴的管控加强，也警示其他AI工具开发者对供应链风险的重视。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/TebSztA-cxXZ8akJYVJhvQ": {
+    "title_clean": "AI开始亲自动手做实验",
+    "summary": "AI技术已发展至能够自主执行实验操作阶段，标志着AI从纯软件向物理世界交互的重要突破。这一进展对元宝产品经理具有重要参考价值，可能预示着AI助手未来将具备更广泛的物理世界服务能力，拓展产品边界。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/uCkeEqQaZ_q_nkx53GN41g": {
+    "title_clean": "Anthropic：拟70亿美元收购AI芯片公司MatX",
+    "summary": "Anthropic被曝曾计划以70亿美元收购AI芯片公司MatX，显示其正积极布局训练芯片领域。这一收购若成功将强化Anthropic在AI基础设施方面的竞争力，对AI大模型公司的硬件战略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/nRoHSIX1ATq8ekZC4I73Nw": {
+    "title_clean": "Anthropic让AI对齐AI，效率提升1.5万倍",
+    "summary": "Anthropic开发了一种新方法，让AI系统自我对齐，将效率提升1.5万倍。这一技术突破可能大幅降低AI训练成本，提高模型安全性，对AI助手和Agent产品的研发方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-29/bloomberg-this-weekend-8-29-2026-video": {
+    "title_clean": "Bloomberg This Weekend：周末财经新闻直播节目",
+    "summary": "Bloomberg推出的周末财经新闻直播节目，由David Gura、Christina Ruffini和Lisa Mateo主持，从纽约现场直播，为观众提供周末重大新闻的清晰解读和背景分析，兼具专业性和幽默感。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z": {
+    "title_clean": "Vijay Pande：从40亿美元生物科技基金转向小规模AI投资策略",
+    "summary": "前a16z生物科技负责人Vijay Pande离开管理40亿美元的基金，转而创立规模更小的AI原生风投VZVC。他分享为何生物学正从'发现'科学转向'工程'科学，以及为何选择小规模投资策略而非每年进行30个大赌注。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/FGPsLreK068kOKwfLFNMWQ": {
+    "title_clean": "智元机器人：工作场景机器人比赛夺冠",
+    "summary": "智元公司将原本设计用于办公场景的机器人参加比赛，并在双项榜单中均获得第一名。这一成就展示了其机器人技术在特定场景下的成熟度和竞争力，对AI服务场景落地和机器人商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-12x-ai": {
+    "title_clean": "CEO访谈：12x AI的市场定位与客户需求",
+    "summary": "12x AI的CEO Greg Fields接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身在行业中的定位。这为元宝产品经理提供了AI创业公司市场策略和客户洞察的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals": {
+    "title_clean": "Meta 报纸广告施压社交媒体竞争对手",
+    "summary": "Meta 在美国主流报纸投放整版广告，向 TikTok 和 YouTube 施压，要求竞争对手采取类似措施。此举反映了 Meta 在社交媒体竞争中的主动出击策略，对产品经理了解行业竞争态势和平台营销策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label": {
+    "title_clean": "Anthropic：法院推翻五角大楼供应链风险标签",
+    "summary": "联邦法官裁定特朗普政府将Anthropic标记为供应链风险的行为违法，这是Anthropic在与五角大楼的诉讼中首次胜诉。另一项相关诉讼仍在华盛顿进行中，这对AI公司在政府合作中的合规性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-28/meta-s-settlement-on-youth-trial-puts-the-pressure-on-parents": {
+    "title_clean": "Meta就青少年诉讼达成和解：依赖家长限制青少年社交媒体访问",
+    "summary": "Meta就青少年诉讼达成和解协议，该协议依赖家长来限制青少年访问社交媒体的护栏措施。这一事件对产品经理有参考价值，反映了社交媒体平台在青少年保护方面的责任转移趋势，以及家长控制功能在产品设计中的重要性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/openai-hires-meta-executive-to-lead-southeast-asia-australia": {
+    "title_clean": "OpenAI聘请Meta高管领导东南亚及澳大利亚业务",
+    "summary": "OpenAI聘请Meta长期高管负责东南亚及澳大利亚市场，目标是在拥有6亿多人口的地区拓展业务。这显示OpenAI正加速国际化布局，对元宝产品经理评估全球AI助手市场扩张策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
+    "title_clean": "OpenAI与泰国MHESI合作推出AI创业加速器",
+    "summary": "OpenAI与泰国MHESI联合启动为期八周的加速器项目，帮助10家健康、保健和教育领域的初创企业将AI原型转化为可信产品。这一合作展示了AI在垂直领域的应用拓展，为元宝产品经理提供了AI服务场景拓展和生态合作的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/open-asr-leaderboard-global-south": {
+    "title_clean": "Open ASR排行榜：首次纳入全球南方语言",
+    "summary": "Open ASR排行榜首次收录全球南方语言，扩大了语音识别技术的语言覆盖范围，为多语言AI产品开发提供重要参考，有助于元宝产品经理评估多语言语音识别能力扩展的可行性与优先级。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/cxmt-s-580-stock-rally-raises-bar-for-first-earnings-since-ipo": {
+    "title_clean": "CXMT上市后首季财报将检验其业务能否支撑580%股价涨幅",
+    "summary": "CXMT作为上市公司的首份财报将检验其业务表现能否支撑其上市后580%的股价涨幅，以及能否维持其作为中国市值最高上市公司的地位。这对AI行业企业估值与业务可持续性具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode": {
+    "title_clean": "Google Search：AI旅行规划与预订功能",
+    "summary": "Google Search新增AI功能，可帮助用户预订酒店、追踪机票价格，并查看里程和奖励信息。这一功能展示了AI在旅行服务场景中的应用，为元宝产品在旅行助手方向提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/how-meta-s-18-billion-settlement-could-change-social-media": {
+    "title_clean": "Meta 180亿美元和解金或将改变社交媒体格局",
+    "summary": "Meta面临针对社交媒体巨头的集体诉讼，指控其平台设计故意让用户难以抗拒，对年轻用户造成严重伤害。180亿美元的和解金可能重塑社交媒体产品设计方向，对元宝等AI助手在用户健康与吸引力平衡上提供重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google": {
+    "title_clean": "Barret Zoph：前OpenAI高管加入谷歌",
+    "summary": "Barret Zoph曾是Thinking Machines联合创始人兼CTO，短暂任职于OpenAI后现已加入谷歌。作为AI领域重要人才流动，这一动向可能影响谷歌与OpenAI在AI人才竞争和战略布局上的态势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/nvidia-sees-70-ai-fueled-demand-sales-boost-next-year-video": {
+    "title_clean": "Nvidia：AI需求推动下财年销售额预计增长70%",
+    "summary": "Nvidia预测下一财年销售额将增长约70%，缓解了市场对AI支出可能失去动力的担忧。这一数据表明AI市场需求强劲，对AI芯片供应商是积极信号，对元宝产品经理评估AI市场增长潜力有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/nvidia-predicts-ai-fueled-surge-will-extend-into-2028-video": {
+    "title_clean": "Nvidia预测AI驱动增长将持续至2028年",
+    "summary": "Nvidia公司预测其AI业务将持续强劲增长，预计2028财年收入将增长约70%。这一乐观展望反映了AI芯片市场的持续繁荣，对元宝产品经理评估AI基础设施投资和长期市场趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/india-issues-flood-alert-as-133-citizens-missing-in-nepal-deluge": {
+    "title_clean": "印度称285名公民在尼泊尔洪灾后失联",
+    "summary": "印度表示，在尼泊尔遭遇灾难性山洪后，多达285名印度公民（包括一个水电项目的工作人员）仍然无法联系到。这一事件反映了自然灾害对跨国人员安全的威胁，对元宝在紧急情况下的AI助手服务场景和用户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/crowdstrike-beats-annual-revenue-forecasts-as-ai-threats-rise": {
+    "title_clean": "CrowdStrike销售预期超分析师估计，股价大涨",
+    "summary": "网络安全公司CrowdStrike公布全年销售预期超出分析师估计，股价在盘后交易中大幅上涨。这表明网络安全行业持续增长，对元宝产品经理了解企业级AI安全服务市场趋势和商业化潜力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-26/meta-agrees-to-settle-lawsuit-over-social-media-claims-video": {
+    "title_clean": "Meta同意就社交媒体宣传不实指控达成和解协议",
+    "summary": "Meta同意支付高达167亿美元解决奥克兰中心的诉讼，并将为13至17岁用户设置更多安全保护措施。这一和解反映了社交媒体平台在用户保护方面的法律责任增加，对元宝产品经理在设计和实施AI助手安全机制方面有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

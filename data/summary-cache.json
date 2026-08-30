@@ -74526,5 +74526,67 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ulpaso": {
+    "title_clean": "Ulpaso：会议笔记免费工具",
+    "summary": "Ulpaso是一款会议笔记工具，主打免费使用，旨在解决用户需要付费才能获取会议笔记的问题。产品经理可关注其免费模式如何吸引用户，以及与现有付费笔记工具的差异化竞争策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skud-drag-send-track-in-seconds": {
+    "title_clean": "Skud：品牌化文件传输工具",
+    "summary": "Skud是一款文件传输工具，允许用户通过菜单栏发送文件，并支持品牌定制和追踪功能。产品经理可参考其轻量化文件传输解决方案及品牌化服务模式，为元宝的文件分享功能提供设计思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rip-my-build": {
+    "title_clean": "RIP MY BUILD：废弃项目二次复活工具",
+    "summary": "RIP MY BUILD 是一款帮助用户重新激活和发布被废弃的副项目的工具。它为产品经理提供了关于项目生命周期管理和用户留存策略的参考价值，特别是如何将半途而废的项目转化为可发布产品。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-30/google-maps-changes-lake-ontario-label-to-lake-america-in-us": {
+    "title_clean": "Google Maps将安大略湖更名为美国湖",
+    "summary": "Google Maps在美国用户界面中将安大略湖更名为\"美国湖\"，这是 Alphabet 公司对特朗普总统在美加贸易争端中称将更名该湖的回应。这一变更反映了政治因素对地图产品的影响，对产品经理了解地缘政治如何影响数字产品内容有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/plaud-unveils-earbuds-with-4g-connectivity-in-ai-gadgets-push": {
+    "title_clean": "Plaud：AI助手无线耳塞产品",
+    "summary": "Plaud公司推出配备4G连接功能的无线耳塞，用户可通过该设备录制对话并使用AI助手完成任务。这是笔记设备制造商向AI硬件领域扩展的重要举措，展示了AI助手与可穿戴设备的融合趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

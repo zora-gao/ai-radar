@@ -74747,5 +74747,80 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/psmnrvxzrP03w7o8UFnDEg": {
+    "title_clean": "Claude安全机制大翻车：AI误删开发者700GB主目录",
+    "summary": "Claude AI助手出现严重安全漏洞，误删开发者700GB主目录，暴露了AI系统在文件操作权限控制上的重大缺陷。这一事件对AI助手产品经理具有重要警示价值，提醒在功能扩展中必须强化安全边界与权限管理机制。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/referent": {
+    "title_clean": "Referent：法律事务所AI原生操作系统",
+    "summary": "Referent是一款专为现代律师事务所设计的AI原生操作系统，旨在通过AI技术提升法律工作效率。该产品可能整合了法律文档处理、案例分析和客户管理等核心功能，为法律专业人士提供智能化工作平台，值得元宝产品团队关注AI在专业垂直领域的应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-30/g20-faces-divide-over-debt-ai-and-global-growth-video": {
+    "title_clean": "G20会议：债务、AI与全球增长面临分歧",
+    "summary": "G20财政官员在北卡罗来纳州召开会议，重点讨论主权债务、全球不平衡和经济增长问题。CSIS经济项目主任Philip Luck参与讨论，会议反映出各国在关键经济议题上存在分歧，这对AI助手产品的全球市场策略和商业化路径有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-28/sentinelone-ceo-on-earnings-ai-s-cybersecurity-impact-video": {
+    "title_clean": "SentinelOne CEO谈财报与AI对网络安全的影响",
+    "summary": "SentinelOne联合创始人、董事长兼CEO Tomer Weingarten在Bloomberg采访中讨论了公司财报表现，以及AI技术在网络安全领域的影响与变革，为AI安全产品方向提供高管视角。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
+    "title_clean": "ChatGPT与批判性思维训练对学生学习效果的影响研究",
+    "summary": "一项针对1000多名学生的随机研究，探讨了ChatGPT与批判性思维训练对学生原创性及完成大学作业表现的影响，为AI教育应用提供了实证参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/-locker-king-billionaire-pushes-poland-to-take-meta-fight-to-eu": {
+    "title_clean": "波兰亿万富翁推动欧盟调查Meta广告欺诈问题",
+    "summary": "波兰亿万富翁Rafal Brzoska推动欧盟对Meta平台展开调查，指控其服务上存在欺诈广告问题。这反映了大型科技公司在广告监管方面的挑战，以及监管机构对平台责任的关注，对元宝产品经理了解广告合规和平台责任有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

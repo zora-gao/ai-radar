@@ -74502,5 +74502,29 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ravioli-2": {
+    "title_clean": "Ravioli：自定义印章形状工具",
+    "summary": "Ravioli是一款允许用户创建自定义印章形状的工具，可能涉及AI辅助设计功能。对于元宝产品经理而言，这展示了AI在创意设计工具中的应用场景，可作为多模态交互和创意辅助功能的参考案例。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/maritime": {
+    "title_clean": "Maritime：AI Agent专用计算机服务",
+    "summary": "Maritime提供专为AI Agent设计的计算机服务，月费低至1美元。该服务可能为AI开发者提供经济高效的算力支持，有助于降低AI Agent部署成本，对元宝产品经理评估AI服务成本结构和算力资源规划有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
   }
 }

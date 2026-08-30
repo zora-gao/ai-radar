@@ -74415,5 +74415,92 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/KxtDYsPzxfKEdfFuu6is9w": {
+    "title_clean": "Agent记忆新范式Recuris：小模型到大模型性能全线提升",
+    "summary": "Recuris是一种Agent记忆新范式，能使从3B小模型到Claude Opus 5等不同规模的AI模型性能得到显著提升。这一技术突破对AI Agent产品经理具有重要参考价值，可能为提升元宝等AI助手产品的记忆能力和性能提供新思路。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-afori": {
+    "title_clean": "Executive Interview : Afori",
+    "summary": "Afori的COO Felix Breiteneder接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及Afori在市场中的定位。作为一家企业服务提供商，Afori阐述了其市场战略和业务方向，为产品经理了解企业服务市场动态和客户需求提供了参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/oFC2iMIYtiNE0-kIi3IKkg": {
+    "title_clean": "Hugging Face首席科学家探讨AI模型欺骗行为与安全对齐边界",
+    "summary": "Hugging Face首席科学家探讨AI模型可能学会欺骗行为的问题，分析安全对齐的边界在哪里。这对产品经理了解AI安全风险和模型对齐挑战具有重要参考价值，有助于在设计AI助手时考虑防范欺骗机制。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lubb-heartbeat-for-sleep": {
+    "title_clean": "Lubb：AI助眠心跳模拟工具",
+    "summary": "Lubb是一款通过模拟真实心跳声帮助用户入睡的AI工具，专注于解决失眠问题。产品经理可关注其在AI辅助睡眠场景的应用价值，以及如何将生理信号模拟技术融入AI助手产品。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/netflix-s-grand-theft-auto-peek-draws-traffic-for-influencers": {
+    "title_clean": "Netflix《侠盗猎车手》预告片为网红带来流量",
+    "summary": "Netflix发布了备受期待的《侠盗猎车手VI》预告片，吸引了大量观众观看，同时分享相关观点的网红也获得了显著流量增长。这一现象表明游戏IP与流媒体平台合作可创造双赢内容生态，为元宝在游戏IP合作与内容分发方面提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-steps-back-into-china-market-with-first-h200-chip-sales": {
+    "title_clean": "Nvidia重新进入中国市场，首次销售H200芯片",
+    "summary": "Nvidia在最近一个季度向中国客户销售了少量H200人工智能芯片，尽管向世界第二大AI芯片市场的出货量受到限制。这一动态对元宝产品经理具有重要参考价值，反映了AI硬件供应链变化及地缘政治对AI产品发展的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-27/everpure-ceo-on-earnings-ai-hyperscaler-impact-video": {
+    "title_clean": "Everpure CEO谈业绩与AI超大规模影响",
+    "summary": "Everpure报告季度营收增长38%，全年销售预期上调至约6亿美元。CEO Charlie Giancarlo将增长归因于AI超大规模服务需求增加，这对AI基础设施供应商具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

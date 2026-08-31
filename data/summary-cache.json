@@ -74846,5 +74846,40 @@
       "多模态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/huawei-profit-decline-widens-after-memory-crunch-takes-toll": {
+    "title_clean": "华为利润下滑加剧：内存成本上升与半导体研发投入增加",
+    "summary": "华为因内存成本上升和半导体研发投入增加导致利润大幅下滑。作为中国科技巨头，华为面临内存芯片短缺和研发成本上升的双重压力，这对AI硬件供应链和芯片自主化战略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining": {
+    "title_clean": "卡特彼勒：将矿山自动化经验应用于AI部署",
+    "summary": "卡特彼勒公司将其在矿山远程站点部署自动化机器人的数十年经验，应用于AI系统部署领域，为工业场景下的AI落地提供实践参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-28/california-sues-over-trump-deal-to-cancel-wind-project-lease": {
+    "title_clean": "加州起诉特朗普政府取消海上风电项目协议",
+    "summary": "加州起诉特朗普政府和金州风能公司，指控其与联邦政府达成协议取消海上风电项目租约违反多项法律。此案涉及能源政策与政府决策冲突，对元宝产品经理了解政策变化对能源行业的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
   }
 }

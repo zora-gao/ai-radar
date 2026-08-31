@@ -74881,5 +74881,165 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/frameos-3": {
+    "title_clean": "FrameOS：跨平台屏幕录制工具",
+    "summary": "FrameOS是一款允许用户从Mac设备录制iOS和Android屏幕的工具，解决了跨平台屏幕录制的痛点，为产品经理提供了多设备协同场景下的屏幕录制解决方案参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/orato-speech-coach": {
+    "title_clean": "Orato：AI口语练习工具",
+    "summary": "Orato是一款AI口语练习工具，用户可以通过与AI对话来提升口语表达能力。该产品专注于语言学习场景，为用户提供即时的口语练习机会，对元宝产品经理在语言学习类AI服务场景设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/teenage-engineering": {
+    "title_clean": "EP–2350 FX–MIC：可编程挤压摇晃麦克风",
+    "summary": "这是一款可编程的交互式麦克风，用户可以通过挤压、摇晃等物理操作来控制声音效果，为音频创作提供新型交互方式。产品经理可关注这种物理交互与AI结合的创新应用，探索在语音助手、音乐创作等场景中的可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ask-my-wardrobe": {
+    "title_clean": "Ask My Wardrobe：数字衣柜管理工具",
+    "summary": "Ask My Wardrobe提供完整的数字衣柜体验，帮助用户管理和组织衣物信息。这款产品可能通过AI技术实现衣物分类、搭配建议等功能，为元宝在个人物品管理场景下的AI应用提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/brandmylaptop": {
+    "title_clean": "BrandMyLaptop：笔记本广告位销售平台",
+    "summary": "BrandMyLaptop是一个允许用户在笔记本电脑上销售广告位的新平台，为品牌方提供新型广告渠道，同时为用户提供设备变现机会。这种模式探索了硬件与广告结合的创新商业化路径，对AI助手产品在设备资源整合和多元化变现方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-31/radiant-wins-750-million-us-army-nuclear-reactor-deal-video": {
+    "title_clean": "Radiant：美国陆军便携式核微反应堆供应商",
+    "summary": "Radiant公司赢得美国陆军7.5亿美元合同，将提供15台便携式核微反应堆，属于Janus项目。这一合作展示了核能技术在军事领域的应用，对AI产品经理了解能源科技与政府合作模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-31/how-apple-s-new-ceo-will-shape-the-iphone-maker-video": {
+    "title_clean": "苹果新CEO将如何重塑iPhone制造商",
+    "summary": "苹果公司将于9月1日进入新时代，John Ternus接替Tim Cook担任CEO。彭博社Mark Gurman分析指出，此次领导层过渡可能循序渐进，Ternus或将重塑公司的决策机制，这对理解苹果未来产品战略和AI布局具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation": {
+    "title_clean": "Clipto：AI视频搜索引擎",
+    "summary": "Clipto是一家三年初创公司，利用AI技术搜索海量视频内容，已实现1500万美元年经常性收入和盈利，最新融资1500万美元后估值达2.5亿美元。该产品展示了AI在视频内容检索领域的商业化成功，对元宝在多模态搜索和商业化路径上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "商业化",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout": {
+    "title_clean": "Nvidia投资35亿美元入股联发科：应对科技巨头自研AI芯片挑战",
+    "summary": "Nvidia向联发科投资35亿美元，显示其计划在科技巨头开始自研AI芯片的背景下，继续保持在AI基础设施领域的关键地位。这一投资策略反映了Nvidia应对行业竞争格局变化的战略布局，对AI芯片市场格局和元宝产品经理评估AI基础设施合作模式具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek": {
+    "title_clean": "Nvidia将投资35亿美元入股联发科",
+    "summary": "Nvidia宣布向联发科投资35亿美元，深化与这家台湾芯片制造商的合作，旨在推动更多企业开发适配其AI芯片的产品。这一合作将加强Nvidia在AI芯片生态中的布局，对元宝产品经理了解AI硬件供应链整合与合作伙伴策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/china-rebukes-anthropic-sets-terms-for-key-us-china-ai-dialogue": {
+    "title_clean": "中国谴责Anthropic并设定中美AI对话条件",
+    "summary": "中国为与美国进行人工智能对话设定条件，在备受期待的会议前采取强硬立场，同时指责美国AI公司Anthropic存在不当行为。这反映了中美在AI领域的竞争态势，对元宝产品经理了解国际AI政策环境和地缘政治对AI产品的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-08-30/youtube-star-markiplier-is-now-gopro-s-largest-shareholder": {
+    "title_clean": "YouTube明星Markiplier成为GoPro最大股东",
+    "summary": "知名YouTube创作者Markiplier成为GoPro最大股东，他认为GoPro相机能够革新电影制作方式。这一合作可能影响内容创作者对GoPro产品的使用和推广，对元宝在内容创作工具集成方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-30/petrochina-first-half-profit-rises-22-on-higher-oil-prices": {
+    "title_clean": "中国石油利润转向：后石油需求峰值时代的业务调整",
+    "summary": "中国石油公司通过贸易和化工业务利润增长，展示了中国石油巨头如何应对汽油和柴油需求下降的新时代。这对产品经理了解能源行业数字化转型和业务多元化策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

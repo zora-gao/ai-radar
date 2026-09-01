@@ -75568,5 +75568,54 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/nos4": {
+    "title_clean": "nOS4：浏览器中的iOS4完整体验工具",
+    "summary": "nOS4是一款浏览器工具，旨在为用户提供完整的iOS4操作系统体验。作为产品经理，这提示我们可以考虑开发浏览器端的操作系统模拟工具，满足用户对经典系统体验的怀旧需求或特定场景下的轻量级系统访问。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gauth-ai-course": {
+    "title_clean": "Gauth AI Course：AI课程学习与创作平台",
+    "summary": "Gauth AI Course提供可观看的AI课程内容，支持测验互动，并允许用户创建自己的AI课程。这一产品为AI教育领域提供了新的交互方式，产品经理可关注其在AI知识传播与用户教育场景中的应用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/axiata-s-chief-on-bold-shift-to-smart-asset-manager-video": {
+    "title_clean": "Axiata's Chief on Bold Shift to 'Smart Asset Manager'",
+    "summary": "亚洲领先电信科技集团Axiata的CEO分享公司从传统电信运营商向'智能资产管理商'转型的战略思考，探讨电信企业如何通过AI技术实现业务模式创新和资产价值提升。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-30/aliko-dangote-s-daughters-join-succession-plan-video": {
+    "title_clean": "非洲首富打破传统：将三位女儿纳入企业接班计划",
+    "summary": "非洲首富Aliko Dangote在筹备非洲最大规模IPO时，打破传统将三位女儿纳入企业接班计划。Mariya、Halima和Fatima已在集团工作超过十年，这一决策可能对家族企业传承模式产生重要影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
   }
 }

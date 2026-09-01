@@ -75617,5 +75617,311 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/trustedrouter": {
+    "title_clean": "TrustedRouter：统一模型接口与隐私验证工具",
+    "summary": "TrustedRouter 提供统一接口连接各类AI模型，同时通过隐私证明功能确保数据安全。产品经理可关注其如何解决多模型整合与隐私保护问题，这对构建安全可靠的AI服务架构有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nodeterm-terminal-manager": {
+    "title_clean": "Nodeterm：节点式开源终端管理工具",
+    "summary": "Nodeterm是一款基于节点的免费开源终端管理工具，通过节点化方式管理多个终端会话，提升开发者工作效率。对于元宝产品经理而言，这类工具展示了如何将复杂系统通过节点化交互简化，可能启发AI助手在多任务管理场景下的交互设计。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/expo": {
+    "title_clean": "EAS Observe：Expo与React Native性能监控工具",
+    "summary": "EAS Observe是一款专为Expo和React Native应用设计的性能监控工具，帮助开发者实时监测应用性能指标，优化用户体验。这对元宝产品经理了解移动端AI应用性能监控方案有参考价值，特别是在跨平台应用开发场景中。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cosmic": {
+    "title_clean": "Cosmic Agent Plugins：AI Agent服务连接插件",
+    "summary": "Cosmic Agent Plugins允许通过MCP服务器将Cosmic AI Agent连接到任何外部服务，扩展了AI Agent的能力边界，为产品经理提供了增强AI助手跨平台服务集成能力的参考方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/keiki": {
+    "title_clean": "Keiki：全渠道AI客户代理工具",
+    "summary": "Keiki提供构建单一客户AI代理并全渠道部署的解决方案，帮助企业实现跨平台客户服务自动化。产品经理可参考其统一代理架构与多渠道分发策略，优化元宝的服务覆盖与用户触达效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/folio-e0a9e0fb-8ef8-4fcf-a558-fa5fdd41a3ba": {
+    "title_clean": "Folio：稍后阅读应用",
+    "summary": "Folio是一款稍后阅读应用，可将用户保存的内容整理排版后发送到电子阅读器，提供更舒适的阅读体验。这类工具对元宝产品经理有参考价值，因为它展示了如何优化内容消费体验，可能启发元宝在内容整理和跨设备同步方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/creatium": {
+    "title_clean": "Creatium Coach：多媒体创作指导工具",
+    "summary": "Creatium Coach 是一款多媒体创作指导工具，旨在帮助用户从普通水平提升到专业水平。该产品专注于提供多媒体创作方面的指导，可能包括视频、音频或图像等内容的创作技巧和提升建议，对元宝产品经理在AI辅助创作领域的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/channelos": {
+    "title_clean": "ChannelOS：本地媒体库电视化工具",
+    "summary": "ChannelOS是一款将本地媒体库转换为有线电视风格界面的工具，帮助用户以传统电视浏览方式组织播放个人视频内容。产品经理可参考其媒体管理交互设计，为AI助手增加本地媒体组织功能提供思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/fervo-signs-geothermal-power-deal-with-google-for-2028-launch": {
+    "title_clean": "Fervo与谷歌签署地热能供电协议，2028年为数据中心提供396兆瓦电力",
+    "summary": "谷歌与地热开发商Fervo Energy签署协议，将从2028年起为犹他州数据中心提供高达396兆瓦的地热电力。这反映了大型科技公司对可持续能源解决方案的持续投入，对元宝产品经理了解AI基础设施的环保趋势和能源管理策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/youtube-inks-amazon-partnership-to-boost-online-shopping-bet": {
+    "title_clean": "YouTube与亚马逊达成合作，强化电商购物功能",
+    "summary": "YouTube将亚马逊作为其最新合作伙伴，纳入YouTube Shopping平台，这是视频巨头将电商作为下一个重点发展方向的战略举措。此次合作将增强YouTube的电商生态系统，为用户提供更便捷的购物体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/felix-pago-raises-200-million-to-expand-into-financial-services": {
+    "title_clean": "Felix Pago：拉美移民金融服务平台",
+    "summary": "Felix Pago是一家资金转账创业公司，近期获得2亿美元融资，计划从单纯的汇款服务扩展至贷款和储蓄等金融服务，目标用户为在美国的拉丁美洲移民。这一扩张反映了针对特定人群的金融科技服务市场机会，对元宝在垂直领域金融服务场景拓展具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/drahi-sells-stake-in-vodafone-s-german-fiber-venture-to-socgen": {
+    "title_clean": "Drahi出售其在德国光纤合资企业Vodafone的股份",
+    "summary": "法国兴业银行将收购Patrick Drahi在德国光纤合资企业OXG的50%股份，这是这位负债累累的亿万富翁继续出售电信资产的一部分。这一交易反映了电信行业资产重组趋势，对元宝产品经理了解行业资本动向和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/baidu-s-ai-profits-to-match-those-from-search-soon-cfo-says": {
+    "title_clean": "百度AI业务利润将很快与搜索业务持平",
+    "summary": "百度CFO表示，公司对AI的投资将很快产生与搜索业务相当的利润和现金回报，这证明了从传统搜索业务艰难转型的合理性。这对元宝产品经理有重要参考价值，展示了AI业务盈利能力的快速提升和战略转型成效。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/baidu-cfo-henry-he-on-hk-primary-listing-video": {
+    "title_clean": "百度 CFO Henry He 谈香港双重主要上市",
+    "summary": "百度 CFO Henry He 在彭博社《中国秀》节目中谈及百度在香港交易所和纳斯达克实现双重主要上市事宜。这一动态对关注百度国际化战略和资本运作的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/chinese-ai-lab-minimax-on-business-strategy-video": {
+    "title_clean": "MiniMax：中国AI实验室商业战略",
+    "summary": "MiniMax联合创始人兼总裁Yeyi Yun在\"高盛亚洲领袖会议\"期间讨论了该中国AI实验室的商业战略。此资讯提供了中国AI企业MiniMax的商业方向和战略定位，对了解中国AI市场竞争格局和企业发展策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-arya-ag": {
+    "title_clean": "Executive Interview: Arya.ag：亚洲创新生态系统访谈",
+    "summary": "Arya.ag联合创始人兼执行董事Anand Chandra接受CB Insights访谈，分享对亚洲创新生态系统演变的见解。作为一家企业服务公司，其观点对元宝了解亚洲企业服务市场趋势和用户需求变化具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-aivi-technologies": {
+    "title_clean": "CEO访谈：AIVI Technologies创始人谈亚洲创新生态演变",
+    "summary": "AIVI Technologies创始人Chao He接受CB Insights采访，分享对亚洲创新生态系统过去十年演变的见解。该访谈探讨了亚洲科技创业环境的变化趋势，对元宝产品经理了解亚洲AI创业生态和潜在市场机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-yojee": {
+    "title_clean": "CEO访谈：Yojee",
+    "summary": "Yojee CEO Mark Connell接受CB Insights采访，分享亚洲创新生态系统在过去十年的演变历程。内容聚焦亚洲创新环境的变化趋势，对了解区域创新生态和潜在市场机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers": {
+    "title_clean": "Blue Voice：AI警察法律助手获600万美元融资",
+    "summary": "Blue Voice是一款专为警察设计的AI助手，训练数据包含部门特定法律、地方法规、协议和指南，这些信息普通AI工具无法从公共互联网获取。该产品由哈佛法学院辍学生创立，已获600万美元融资，定位为警察版的Harvey法律AI。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-31/we-accelerate-every-ai-model-in-the-world-huang-says-video": {
+    "title_clean": "黄仁勋：NVIDIA加速全球所有AI模型",
+    "summary": "NVIDIA CEO黄仁勋表示，其芯片能够加速整个人工智能生命周期，可解决其他厂商无法覆盖的市场领域。这反映了AI硬件加速领域的竞争格局和NVIDIA的市场定位，对元宝产品经理了解AI基础设施发展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/slb-to-buy-data-center-cooling-firm-kelvion-for-3-4-billion": {
+    "title_clean": "Apollo Global Management 将数据中心冷却公司 Kelvion 以34亿美元出售给SLB",
+    "summary": "全球最大油田服务提供商SLB以34亿美元现金收购了Apollo Global Management持有的德国冷却设备制造商Kelvion。这笔交易表明数据中心基础设施领域正在经历整合，对元宝产品经理了解数据中心冷却市场格局和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/singapore-plans-173-million-in-fintech-funding-over-three-years": {
+    "title_clean": "新加坡计划三年投入1.73亿美元支持金融科技创新",
+    "summary": "新加坡计划三年内投入1.73亿美元支持金融科技创新，以保持与香港等金融科技中心的竞争力。这一政策动向对元宝产品经理了解AI服务在金融场景的应用机会和政策支持环境有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/mbzo7pG15XPITHFYfef2sQ": {
+    "title_clean": "ClaudeCode额度调整：永久涨25%，实际使用减少17%",
+    "summary": "ClaudeCode调整了其额度政策，表面上永久性增加了25%的额度，但实际上当前可用额度减少了17%。这一变化反映了AI服务提供商在资源分配与用户体验之间的平衡策略，对产品经理了解AI服务定价和资源管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-28/will-burnham-improve-london-s-appeal-to-investors-video": {
+    "title_clean": "Will Burnham Improve London's Appeal to Investors?",
+    "summary": "Capnor公司CEO特别顾问Rajaa Mekouar在彭博社节目《The Pulse》中分析了Burnham政府可能如何提升伦敦对投资者的吸引力。这反映了城市治理与商业环境的关系，对元宝产品经理了解区域经济政策与商业机会的关联性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control": {
+    "title_clean": "欧洲AI大会聚焦人类对AI的控制权问题",
+    "summary": "在北欧TechBBQ年度大会上，欧洲投资者、创始人和运营商们围绕人类如何保持对AI的自主权展开讨论，反映了行业对AI控制权这一关键问题的关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

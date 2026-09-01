@@ -76302,5 +76302,496 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/thunderphone": {
+    "title_clean": "ThunderPhone：AI电话代理构建平台",
+    "summary": "ThunderPhone是一个用于构建可靠AI电话代理的平台，提供每分钟2美分的服务。该平台专注于将AI能力应用于电话交互场景，为产品经理提供了AI服务在电话渠道落地的参考案例，展示了AI代理在客服、营销等场景的商业化可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/naseem-2": {
+    "title_clean": "Naseem：Mac原生AI工作助手",
+    "summary": "Naseem是一款专为Mac设计的原生AI代理工具，能够在Mac系统上执行实际工作任务。这款产品对元宝产品经理具有参考价值，因为它展示了AI助手在桌面环境中的实际应用场景，可能启发元宝在跨平台操作和本地任务执行方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/28q7O59IzEXl_tiWulYbDA": {
+    "title_clean": "AI能否自主创建AI：实际案例验证",
+    "summary": "该资讯报道了AI系统自主创建其他AI的实际案例，解决了行业内关于AI能否自我迭代的争议。对元宝产品经理具有参考价值，可作为AI自主进化能力的技术方向参考，启发产品在自我优化和迭代方面的设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Xd-V3BbuqsopfIeeWPbwtw": {
+    "title_clean": "大模型逐字生成模式拖慢Agent性能，新技术实现5倍提速",
+    "summary": "大模型的逐字生成模式正在影响Agent性能，有团队通过新技术实现了5倍速度提升。这对AI Agent产品经理具有重要参考价值，提示关注模型输出优化技术，可能影响Agent响应速度和用户体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/KkuqQwZJBBxnWtj66deCzg": {
+    "title_clean": "当AI从工具到认知主体，我们需要警惕哪些新风险？",
+    "summary": "探讨AI从工具向认知主体转变过程中可能带来的新风险，对产品经理在设计和部署AI系统时考虑安全边界和伦理框架具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/benchmirt": {
+    "title_clean": "BenchMIRT：LLM基准测试实际测量什么研究",
+    "summary": "该研究深入探讨大型语言模型基准测试的实际测量内容，分析现有评估方法的局限性，为AI产品经理提供基准测试选择和模型评估的参考依据，有助于更科学地衡量AI助手产品的实际能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/t-rowe-price-s-jodi-love-discusses-small-mid-cap-etfs-video": {
+    "title_clean": "T. Rowe Price's Jodi Love Discusses Active Small & Mid-Cap ETFs：主动型小盘与中盘ETF投资策略",
+    "summary": "T. Rowe Price投资组合经理Jodi Love在总部讨论其主动型小盘与中盘ETF产品线，分享投资策略与市场观点。这类ETF产品对AI金融助手在投资建议和资产管理场景下的功能开发具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/dell-sees-surge-in-ai-server-sales-boosts-outlook-video": {
+    "title_clean": "戴尔AI服务器销售激增上调业绩预期",
+    "summary": "戴尔技术公司因AI服务器需求激增上调年度销售预期250亿美元，股价在盘后交易中大幅上涨。这反映了企业级AI硬件市场的强劲增长，对元宝产品经理评估AI基础设施合作机会和商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more": {
+    "title_clean": "Google更新Android系统：解决晕动问题并提升无障碍功能",
+    "summary": "Google发布Android系统更新，新增解决晕动问题的功能和提升无障碍体验，部分功能对标苹果iPhone，同时利用Gemini提供多项改进。产品经理可关注Google如何通过系统级更新解决用户痛点，以及与竞品的差异化策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/bloomberg-crypto-9-1-2026-video": {
+    "title_clean": "Morehead Calls Bessent 'Bluff,' Strategy CEO Buys Again | Bloomberg Crypto 9/1/2026",
+    "summary": "Pantera Capital创始人Dan Morehead公开批评Strategy CEO Bessent的策略为'虚张声势'，并再次买入加密资产。这反映了加密金融领域高管间的策略分歧和市场信心差异，对元宝产品经理了解金融AI服务场景中的用户决策参考价值有限。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/dell-raises-outlook-as-ai-revenue-surges-closing-bell-video": {
+    "title_clean": "戴尔上调业绩预期，AI服务器收入激增",
+    "summary": "戴尔上调业绩预期，主要因AI服务器收入大幅增长。这一市场信号表明企业级AI硬件需求强劲，对元宝产品经理评估AI基础设施合作机会和商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab": {
+    "title_clean": "Inside Meta's Infrastructure Lab：Meta下一代AI硬件研发实验室",
+    "summary": "Meta展示了其基础设施实验室正在开发的硬件技术，这些技术旨在支持下一代AI系统的计算需求。对产品经理了解大型科技公司如何构建AI基础设施有参考价值，可能影响元宝未来算力规划和硬件选型策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/palo-alto-networks-tops-profit-outlook-on-ai-security-demand": {
+    "title_clean": "Palo Alto Networks：AI安全需求推动利润超预期",
+    "summary": "网络安全公司Palo Alto Networks发布年度利润展望，超出华尔街预期，主要受企业对AI安全防御需求增长的推动。这反映了AI安全已成为企业级市场的关键增长点，对元宝产品经理评估AI安全服务场景和商业化方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/apple-maps-renames-lake-ontario-lake-america-after-trump-order": {
+    "title_clean": "Apple Maps 更名安大略湖为'美国湖'，响应特朗普行政令",
+    "summary": "Apple Maps 将安大略湖更名为'美国湖'，响应特朗普行政令，此前谷歌已采取类似行动。这反映了科技巨头对政治变化的即时响应，对产品经理了解平台如何处理敏感地理命名和政府指令有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/florida-bans-flock-cameras-license-plate-readers-from-state-roads": {
+    "title_clean": "佛罗里达州禁止在州道路上使用Flock摄像头和车牌识别器",
+    "summary": "佛罗里达州禁止地方警察在州道路上安装车牌识别器，这是对Flock Safety等公司监控摄像头日益增多的担忧的回应。这一政策变化对AI监控技术供应商和隐私保护政策制定具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/anthropic-says-new-fable-5-1-ai-model-is-cheaper-better-at-coding": {
+    "title_clean": "Anthropic发布Fable 5.1 AI模型：提升编程与科学能力并降低成本",
+    "summary": "Anthropic推出Fable 5.1 AI模型新版本，声称在编程和科学任务上表现更佳，同时成本更低。这一更新对AI助手产品经理有重要参考价值，展示了模型能力提升与成本优化的平衡策略。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst": {
+    "title_clean": "Félix：AI驱动的WhatsApp汇款平台",
+    "summary": "Félix是一家基于WhatsApp的AI汇款平台，主要服务拉丁裔移民群体。该公司宣布完成2亿美元C轮融资，由Andreessen Horowitz和General Catalyst联合领投。这一融资反映了AI在金融服务领域的应用增长，特别是针对特定人群的跨境支付解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/ai-native-company-workflows": {
+    "title_clean": "AI原生企业如何将工作流程转化为运营能力",
+    "summary": "Basis、Clay和Exa Labs等公司利用AI代理技术优化入职流程、账户管理和开发者集成，展示了企业领导者可应用的AI工作流程自动化方案，为元宝产品在B端场景的AI应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen": {
+    "title_clean": "Empirik：IT基础设施故障预测工具",
+    "summary": "Empirik获得2100万美元融资，旨在为IT基础设施提供故障预测服务，类似于Cursor在软件工程领域的应用。该产品可帮助企业在系统故障前进行预测，提高IT运维效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/nvidia-is-backstopping-ai-ecosystem-says-araghi-video": {
+    "title_clean": "Nvidia 正通过财务实力支持 AI 生态系统",
+    "summary": "富兰克林邓普顿高级副总裁 Sara Araghi 表示，Nvidia 正利用其财务实力支持 AI 生态系统，其中需求与变现能力保持强劲。这反映了 AI 领域头部企业通过资本投入构建生态壁垒的趋势，对元宝产品经理理解 AI 产业生态布局和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/workspace/google-pics": {
+    "title_clean": "Google Pics：Google Workspace图像创建编辑工具",
+    "summary": "Google推出基于Nano Banana模型的图像创建和编辑工具Google Pics，现已集成到Google Workspace中。这表明Google正在加强其办公套件中的AI图像处理能力，为产品经理提供了AI工具集成到办公场景的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-cofers": {
+    "title_clean": "CEO访谈：Cofers",
+    "summary": "Cofers CEO Alex Casanova接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈揭示了Cofers的市场定位策略，对了解AI服务企业的市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/china-unlikely-to-match-asml-s-top-tool-in-next-decade-ubs-says": {
+    "title_clean": "中国十年内难以匹敌ASML顶级光刻技术，瑞银称",
+    "summary": "瑞银报告指出，中国在半导体制造领域进展不足以在未来十年内开发出可替代ASML极紫外光刻技术的可行方案。这一信息对元宝产品经理了解全球AI硬件供应链限制、中国AI芯片发展瓶颈以及地缘政治对AI技术的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/saudi-video-game-giant-savvy-ceo-brian-ward-is-stepping-down": {
+    "title_clean": "沙特游戏巨头Savvy CEO Brian Ward离职",
+    "summary": "沙特游戏集团Savvy Games Group首席执行官Brian Ward宣布离职，他曾负责沙特政府对游戏行业380亿美元的投资。这一高管变动可能影响沙特游戏战略方向，对关注中东市场游戏投资和AI游戏应用的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026": {
+    "title_clean": "房地产科技领域：AI技术获更多投资，投资者策略转变",
+    "summary": "房地产科技领域投资保持稳定，但投资者更倾向于将资金投向利用AI等技术提升建筑、物业运营和房地产效率的公司，反映了AI在垂直领域的应用趋势和投资偏好变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera": {
+    "title_clean": "Dyson推出499美元AI智能牙刷：内置摄像头实时反馈",
+    "summary": "戴森发布了一款售价499美元的智能牙刷，配备AI技术和内置摄像头，可提供实时使用反馈。这是消费电子领域将AI与视频技术结合应用于个人护理产品的最新案例，展示了AI在高端个人健康设备中的创新应用方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/deere-launches-ai-assistant-named-jd-to-guide-farmers-choices": {
+    "title_clean": "Deere：农业AI助手JD指导农民决策",
+    "summary": "迪尔公司(Deere)在其Operations Center移动应用中内置了名为JD的AI助手，帮助农民处理高科技拖拉机收集的大量数据，辅助农业决策。这展示了AI在垂直领域的应用场景，对元宝产品经理了解AI助手在专业领域的落地方式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/forrester-s-kodali-on-shein-s-hk-debut-outlook-video": {
+    "title_clean": "Forrester分析师谈Shein香港上市及电商快时尚行业展望",
+    "summary": "Forrester研究副总裁兼首席分析师Sucharita Kodali讨论了Shein在香港的上市交易及电商快时尚行业前景。这对元宝产品经理了解电商行业动态和潜在服务场景有参考价值，特别是关于快时尚领域的发展趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface": {
+    "title_clean": "MCP服务器成为AI新型攻击面",
+    "summary": "随着AI应用加速普及，支持AI的基础设施也在不断演进。新的标准和连接器不断涌现，被广泛采用的标准会在生态系统中快速传播。本文探讨了MCP(模型控制协议)服务器如何成为AI系统的新安全风险点，对AI产品架构设计和安全策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/asia-data-center-debt-binge-hitting-banks-limits-barclays-says": {
+    "title_clean": "亚洲数据中心债务热潮触及银行上限",
+    "summary": "据巴克莱银行报告，亚洲地区数十亿美元的数据中心建设债务正使银行接近融资极限，导致银行对数据中心项目融资变得更加选择性。这一趋势可能影响AI基础设施扩张速度，对元宝等AI服务提供商的底层资源成本和可用性产生潜在影响。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/webgpu-kernels": {
+    "title_clean": "Hugging Face：200+ WebGPU 内核本地AI工具",
+    "summary": "Hugging Face 推出包含200多个WebGPU内核的本地AI工具，使开发者能够在本地设备上高效运行AI模型，无需云端依赖，这对元宝产品经理评估本地化AI部署和性能优化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/china-makes-cars-so-fast-that-it-s-starting-to-worry-regulators": {
+    "title_clean": "中国车企生产速度引发监管担忧",
+    "summary": "中国汽车制造商追求更快的研发速度，但监管部门正加强对行业安全与测试的审查，担心过快发展可能带来的安全隐患。这对元宝产品经理了解AI在汽车行业的应用边界和监管环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/investor-interview-orbit-ventures": {
+    "title_clean": "Orbit Ventures：亚洲创新生态投资访谈",
+    "summary": "Orbit Ventures管理合伙人William Bao Bean接受CB Insights采访，分享对亚洲创新生态系统演变的见解。作为知名风投机构，其观点对了解亚洲AI创业环境、投资趋势及潜在合作机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-bilby-ai": {
+    "title_clean": "CEO Interview: Bilby AI",
+    "summary": "Bilby AI CEO Ryan Manuel接受CB Insights采访，分享他对亚洲创新生态系统演变的见解，讨论过去十年亚洲创新环境的变化趋势，为元宝产品经理提供区域AI创新生态视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-31/uruci-of-t-rowe-price-confident-inflation-will-hit-2-video": {
+    "title_clean": "T. Rowe Price经济学家：通胀将降至2%",
+    "summary": "T. Rowe Price首席美国经济学家Blerina Uruci表示，即使没有过度严格的利率政策，通胀也将降至2%。这一观点对元宝产品经理了解宏观经济环境变化可能影响用户消费行为和金融服务需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-31/open-interest-8-31-2026-video": {
+    "title_clean": "英伟达CEO黄仁勋专访：谈AI未来战略",
+    "summary": "Bloomberg对英伟达CEO黄仁勋的专访，内容聚焦英伟达在AI领域的战略布局。作为AI芯片领域的领导者，黄仁勋的见解对理解AI技术发展方向和行业趋势具有重要参考价值，尤其对元宝产品经理把握AI基础设施与AI应用生态的关系有启发意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026": {
+    "title_clean": "生物科技初创企业投资保持稳定，AI领域投资激增",
+    "summary": "尽管AI热潮改变了整个初创领域的投资格局，但生物科技领域却成为投资保持稳定的罕见行业。过去几年，全球生物科技初创企业的融资额保持稳定增长，显示出与AI领域截然不同的投资趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-30/author-explores-cybersecurity-risks-of-driverless-cars-video": {
+    "title_clean": "自动驾驶汽车网络安全风险研究",
+    "summary": "前纽约市交通委员Sam Schwartz在Bloomberg节目中警告，自动驾驶汽车的扩展带来了网络安全风险，探讨了无人驾驶技术可能面临的黑客攻击和数据安全问题，对元宝产品经理评估AI服务安全性和风险管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
+    "title_clean": "OpenAI支持加州青少年AI安全法案",
+    "summary": "OpenAI支持加州SB 1119法案，旨在为青少年提供强有力的适龄AI安全保障，同时保留学习、创造和探索的机会。这对产品经理了解AI安全合规方向和青少年保护策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

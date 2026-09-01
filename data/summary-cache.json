@@ -75923,5 +75923,384 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/honor-robot-phone": {
+    "title_clean": "HONOR Robot Phone：内置云台手机",
+    "summary": "荣耀推出内置云台功能的手机，通过物理云台技术提升拍摄稳定性，为用户提供更专业的移动影像体验。这一创新展示了手机硬件与AI影像结合的新方向，对产品经理思考差异化硬件设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/happy-shrimp": {
+    "title_clean": "Happy Shrimp：阿里巴巴AI音乐生成工具",
+    "summary": "阿里巴巴推出AI音乐生成工具Happy Shrimp，可将创意想法转化为歌曲。该产品展示了AI在创意内容生成领域的应用，为元宝产品团队探索AI辅助创作功能提供了参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/computable-gpu-index-cgi": {
+    "title_clean": "Computable GPU Index：开源GPU计算价格指数",
+    "summary": "Computable GPU Index是首个开源的GPU计算价格指数，为AI开发者提供GPU算力成本的透明参考数据，有助于产品经理评估AI服务成本结构和定价策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notchling-lives-in-your-notch": {
+    "title_clean": "Notchling：MacBook刘海屏小助手",
+    "summary": "Notchling是一款运行在MacBook刘海屏区域的小助手工具，提供个性化小助手功能，为用户提供在屏幕顶部区域的交互体验，可能对AI助手在特定硬件场景下的应用有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/bloomberg-tech-9-01-2026-video": {
+    "title_clean": "Anthropic与Nvidia支持的云服务商达成350亿美元计算协议",
+    "summary": "Anthropic与Nvidia支持的云服务商Lambda达成350亿美元计算协议，旨在扩展AI能力。同时，埃隆·马斯克预测AI将改变多个行业，苹果公司也宣布了新CEO任命。这些动态对AI基础设施投资和行业格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/polymarket-valuation-hits-21b-led-by-trump-jr-s-1789-video": {
+    "title_clean": "Polymarket：预测市场平台获21亿美元估值",
+    "summary": "预测市场平台Polymarket完成新一轮融资，估值达21亿美元，由1789 Capital领投。该平台允许用户对各类事件结果进行预测交易，此次融资反映了预测市场在金融和事件预测领域的持续增长与投资吸引力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/sold-minuscule-amount-of-bitcoin-strategy-ceo-video": {
+    "title_clean": "Strategy CEO：短暂暂停后恢复比特币购买",
+    "summary": "Strategy公司CEO Phong Le在彭博社加密货币节目中表示，公司已暂停比特币购买10周后重新开始，回归其标志性积累策略。这反映了机构投资者对比特币的长期投资态度，对元宝产品经理了解机构加密货币投资策略有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/jpmorgan-s-aliaga-says-market-can-absorb-attractive-tech-debt": {
+    "title_clean": "摩根大通：AI需求增长使科技债务市场具有吸引力",
+    "summary": "摩根大通资产管理公司Stephanie Aliaga表示，随着人工智能需求增长，超大规模科技公司的债务供应增加不会对债券市场造成压力，投资者对这些公司的信心增强。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/dyson-unveils-ai-powered-toothbrush-with-built-in-camera-video": {
+    "title_clean": "Dyson：AI智能电动牙刷",
+    "summary": "戴森推出售价499美元的CameraJet智能牙刷，内置摄像头和AI技术，可实时提供刷牙反馈，专注于清洁牙缝等难以清洁的区域。这是首款集成摄像头的牙刷产品，展示了AI在个人护理设备中的应用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design": {
+    "title_clean": "Google Pics：AI驱动的创意设计工具",
+    "summary": "Google推出名为Pics的AI创意设计工具，采用提示词驱动的设计方式，直接对标Canva和Adobe主导的创意软件市场，标志着Google以AI优先策略进军设计领域。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/nestle-sells-vitamins-business-to-private-equity-for-1-billion": {
+    "title_clean": "雀巢以10亿美元出售维生素业务",
+    "summary": "雀巢计划将其主流维生素和补充剂业务以10亿美元出售给美国私募股权公司Yellow Wood Partners，CEO Philipp Navratil此举旨在简化业务结构。这一交易反映了大型消费品公司剥离非核心业务的战略调整，对元宝产品经理理解企业服务场景和商业化策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data": {
+    "title_clean": "ChatGPT Health：Epic健康记录集成工具",
+    "summary": "OpenAI为ChatGPT Health添加了Epic电子健康记录系统的集成功能，允许临床医生以只读方式导入患者数据。这一整合将AI助手直接接入医疗工作流程，为临床决策提供实时数据支持，对元宝在医疗垂直领域的AI应用具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/can-the-us-ai-boom-survive-data-center-backlash-video": {
+    "title_clean": "美国AI数据中心扩张面临政治阻力",
+    "summary": "美国各地数据中心建设引发选民对电力成本和AI基础设施快速扩张的担忧，成为政治竞选中的热点议题。信息产业协会CEO对此发表看法，探讨AI发展能否克服数据中心建设阻力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/big-tech-incapable-of-solving-its-own-problem-mukunda-video": {
+    "title_clean": "比尔·盖茨：科技巨头无法解决自身AI问题",
+    "summary": "比尔·盖茨发表6000字文章表示，如果可以他会减缓人工智能的发展速度。作为微软联合创始人，他对科技巨头在AI治理方面的能力提出质疑，这对元宝产品经理思考AI发展速度与安全边界具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/apple-s-ternus-era-begins-after-tim-cook-s-historic-run-video": {
+    "title_clean": "苹果公司CEO蒂姆·库克卸任，约翰·特纳斯接任",
+    "summary": "苹果公司CEO蒂姆·库克正式卸任，由约翰·特纳斯接任。库克任期内将苹果打造成全球标志性品牌，公司股票上涨2300%。这一领导层变动可能影响苹果AI战略和产品方向，对元宝产品经理了解科技巨头决策层变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use": {
+    "title_clean": "AIR：AI代理技能与插件安全验证平台",
+    "summary": "AIR获得5000万美元融资，其平台可发现企业运行的AI代理，持续验证它们使用的技能和插件，并阻止任何不当行为。这对元宝产品经理有参考价值，特别是在企业级AI代理安全管理和第三方插件生态建设方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/apollo-s-brightspeed-casts-going-concern-doubt-as-revenue-slides": {
+    "title_clean": "Brightspeed：宽带运营商面临持续经营疑虑",
+    "summary": "Brightspeed是Apollo Global Management支持的宽带运营商，警告投资者其可能无法持续经营，原因是收入下滑。这对产品经理了解企业级AI服务提供商的财务健康状况和客户稳定性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop": {
+    "title_clean": "Amazon Alexa：新品购物提醒功能",
+    "summary": "Amazon推出Alexa新功能'Update Me When'，可发送个性化提醒，包括产品发布、演出、书籍、节目等活动，触发用户购买欲望。该功能展示了AI助手在购物场景中的应用，为元宝产品经理提供了AI服务商业化与用户需求变化的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/waymo-expands-paid-robotaxi-rides-to-denver-san-diego-and-tampa": {
+    "title_clean": "Waymo：自动驾驶出租车服务扩展至丹佛、圣地亚哥和坦帕",
+    "summary": "Waymo宣布在美国丹佛、圣地亚哥和佛罗里达州坦帕三地推出付费自动驾驶出租车服务，使其在美国提供无人驾驶叫车服务的城市总数达到14个。这标志着Waymo商业化进程的重要进展，为元宝产品经理提供了自动驾驶服务商业化扩张的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-01/ai-job-risks-spread-to-pr-web-development-and-hotel-workers": {
+    "title_clean": "AI风险蔓延至公关、网页开发和酒店行业",
+    "summary": "美国就业市场未见改善，AI技术风险正从传统领域扩散至公关、网页开发和酒店服务等行业，这表明AI对就业的影响范围正在扩大，产品经理需关注AI替代人类工作的场景变化和潜在风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/apple-s-2-300--gain-under-cook-is-tough-act-for-ternus-to-follow": {
+    "title_clean": "苹果CEO更迭：John Ternus接替Tim Cook",
+    "summary": "苹果公司CEO职位发生更迭，John Ternus接替Tim Cook成为新任CEO。Tim Cook任职期间将苹果打造成全球标志性品牌，并推动公司股票增长2300%。这一领导层变动可能对苹果未来AI战略及产品方向产生影响，值得产品经理关注。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/mediatek-shares-soar-10-after-blockbuster-nvidia-investment": {
+    "title_clean": "Nvidia投资联发科：35亿美元助力其跻身全球AI芯片制造商前列",
+    "summary": "Nvidia以35亿美元投资联发科，这是其在美国以外最大规模直接投资，使这家鲜为人知的台湾芯片设计公司跻身全球AI芯片制造商核心阵营。这一合作将加强AI基础设施供应链，对AI芯片市场格局和元宝的硬件依赖策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/JZz1WfpLYRt6Qxv7Smj3Rw": {
+    "title_clean": "今天，年了",
+    "summary": "这条资讯仅包含重复的日期信息'今天，年了'，没有提供任何实质性内容或产品相关信息，无法判断其对元宝产品经理的参考价值。",
+    "score": 0,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ARnvU58stmQQ7di3zR9VMQ": {
+    "title_clean": "ECCV社交副本开启：AI TalentNight技术交流活动",
+    "summary": "ECCV社交副本开启AI TalentNight活动，为AI从业者提供交流平台，参与者可探讨新技术并拓展人脉。这对产品经理了解行业前沿动态和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/investor-interview-chainfir-capital": {
+    "title_clean": "Investor Interview: Chainfir Capital - 亚洲创新生态系统分析",
+    "summary": "Chainfir Capital CEO Brian Tian接受CB Insights采访，分享他对亚洲创新生态系统的看法，分析中国在该生态中的角色，以及香港的定位。这对元宝产品经理了解亚洲AI投资趋势和市场格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-wadiz": {
+    "title_clean": "Wadiz CEO访谈：亚洲创新生态系统演变",
+    "summary": "Wadiz CEO David Shin接受CB Insights采访，分享亚洲创新生态系统在过去十年的演变历程。作为亚洲众筹平台，Wadiz的视角对元宝了解亚洲AI产品创新环境、用户需求变化及服务场景拓展具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-brinc": {
+    "title_clean": "CEO访谈：Brinc创始人谈亚洲创新生态系统演变",
+    "summary": "Brinc创始人兼CEO Manav Gupta接受CB Insights采访，分享了他对亚洲创新生态系统过去十年演变的见解。这对元宝产品经理了解亚洲AI创新环境、创业生态和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-31/forrester-ceo-sizes-up-the-ai-boom-video": {
+    "title_clean": "Forrester CEO 评估AI热潮",
+    "summary": "Forrester CEO对AI热潮进行评估，同时Nvidia以35亿美元投资MediaTek，投资者准备迎接Anthropic可能创纪录的IPO。这些动态反映了AI行业投资趋势和大型科技公司的战略布局，对元宝产品经理了解AI市场格局和资本动向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/apple-s-cook-says-he-will-miss-this-work-as-he-leaves-ceo-role": {
+    "title_clean": "苹果CEO库克发布告别信：将卸任CEO职务",
+    "summary": "苹果公司CEO蒂姆·库克在告别信中表示将卸任CEO职务，但他对继任者约翰·特纳斯的领导能力感到'极大的信心'。这一人事变动可能影响苹果未来AI战略方向，对元宝产品经理关注科技巨头高管变动与产品战略关系有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/brazil-s-top-delivery-app-files-complaint-against-chinese-rival": {
+    "title_clean": "Prosus巴西分公司对中国竞争对手提起反垄断投诉",
+    "summary": "Prosus巴西分公司向巴西反垄断监管机构对中国美团提起投诉，指控其使用人为低价策略挤压市场竞争。这反映了国际市场对价格战和垄断行为的监管关注，对元宝产品经理了解海外市场竞争策略和合规风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/jB7uKYJjvvP-KVRKXfhJwg": {
+    "title_clean": "让大模型真正学会「发现」，设计下一个实验",
+    "summary": "该资讯探讨如何提升大模型的发现能力，使其能够自主设计和执行实验。这对元宝产品经理在开发AI助手和Agent功能时具有参考价值，特别是在增强AI的自主探索和问题解决能力方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

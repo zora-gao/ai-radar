@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-01T15:21:00.655Z",
+  "generated_at": "2026-09-01T20:00:05.670Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "anthropic/claude-fable-5.1",
+      "name": "Claude Fable 5.1",
+      "vendor": "Anthropic",
+      "vendor_slug": "anthropic",
+      "url": "https://openrouter.ai/anthropic/claude-fable-5.1-20260831",
+      "created_at": "2026-09-01T18:03:58Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 10,
+      "price_out": 50,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Claude Fable 5.1 improves on Claude Fable 5 across the board, with the biggest gains in agentic coding, long-running agentic workflows, and knowledge work: long code refactors, front-end and visual...",
+      "description_zh": null
+    },
     {
       "id": "inception/mercury-2.5-preview",
       "name": "Mercury 2.5 Preview",
@@ -1444,31 +1469,6 @@
       "supports_reasoning": false,
       "description": "KAT-Coder-Pro V2.5 is a flagship-level Agentic Coding model that can directly hand over an entire issue or an entire business workflow to it, allowing it to autonomously locate and make...",
       "description_zh": "KAT-Coder-Pro V2.5是旗舰级的Agentic Coding模型，可以直接将整个问题或整个业务流程交给它，让它自主定位并制作..."
-    },
-    {
-      "id": "openai/gpt-5.6-luna-pro",
-      "name": "GPT-5.6 Luna Pro",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-5.6-luna-pro-20260709",
-      "created_at": "2026-07-09T09:54:27Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.2,
-      "price_out": 1.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-5.6 Luna Pro is the same underlying model as GPT-5.6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
-      "description_zh": "GPT-5.6 Luna Pro 与 GPT-5.6 Luna 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
     }
   ]
 }

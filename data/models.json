@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T03:12:12.938Z",
+  "generated_at": "2026-09-02T09:11:33.127Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -22,6 +22,31 @@
       ],
       "price_in": 10,
       "price_out": 50,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Claude Fable 5.1 improves on Claude Fable 5 across the board, with the biggest gains in agentic coding, long-running agentic workflows, and knowledge work: long code refactors, front-end and visual...",
+      "description_zh": null
+    },
+    {
+      "id": "anthropic/claude-fable-5.1:batch",
+      "name": "Claude Fable 5.1 (batch)",
+      "vendor": "Anthropic",
+      "vendor_slug": "anthropic",
+      "url": "https://openrouter.ai/anthropic/claude-fable-5.1-20260831",
+      "created_at": "2026-09-01T18:03:58Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 5,
+      "price_out": 25,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1444,33 +1469,6 @@
       "supports_reasoning": true,
       "description": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at...",
       "description_zh": "Kimi K3是Moonshot AI推出的2.8T参数开放权重多模态推理模型。它适用于复杂的编码、知识工作和长期代理工作流程，并且特别擅长..."
-    },
-    {
-      "id": "meta/muse-spark-1.1",
-      "name": "Muse Spark 1.1",
-      "vendor": "Meta",
-      "vendor_slug": "meta",
-      "url": "https://openrouter.ai/meta/muse-spark-1.1-20260709",
-      "created_at": "2026-07-16T15:29:01Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1.25,
-      "price_out": 4.25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Muse Spark 1.1 is a multimodal reasoning model from Meta, built for agentic tasks. It accepts text, images, video, audio, and PDF documents and returns text, with a 1M-token context...",
-      "description_zh": "Muse Spark 1.1 是 Meta 的多模态推理模型，专为代理任务而构建。它接受文本、图像、视频、音频和 PDF 文档并返回文本，并带有 1M 令牌上下文......"
     }
   ]
 }

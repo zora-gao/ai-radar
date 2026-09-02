@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:10:41.550Z",
+  "generated_at": "2026-09-02T03:12:12.938Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -121,6 +121,31 @@
       "description_zh": null
     },
     {
+      "id": "~z-ai/glm-flash-latest",
+      "name": "GLM Flash Latest",
+      "vendor": "Zhipu AI",
+      "vendor_slug": "z-ai",
+      "url": "https://openrouter.ai/~z-ai/glm-flash-latest",
+      "created_at": "2026-08-27T08:00:33Z",
+      "context_length": 1310720,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.075,
+      "price_out": 0.25,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "This model always redirects to the latest model in the GLM Flash family.",
+      "description_zh": null
+    },
+    {
       "id": "qwen/qwen3.8-flash",
       "name": "Qwen3.8 Flash",
       "vendor": "Qwen",
@@ -238,8 +263,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.22,
-      "price_out": 0.66,
+      "price_in": 0.44,
+      "price_out": 1.32,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -575,8 +600,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.66,
-      "price_out": 1.98,
+      "price_in": 1.115,
+      "price_out": 3.346,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -864,7 +889,7 @@
         "text"
       ],
       "price_in": 0.05,
-      "price_out": 0.1,
+      "price_out": 0.16,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1446,29 +1471,6 @@
       "supports_reasoning": true,
       "description": "Muse Spark 1.1 is a multimodal reasoning model from Meta, built for agentic tasks. It accepts text, images, video, audio, and PDF documents and returns text, with a 1M-token context...",
       "description_zh": "Muse Spark 1.1 是 Meta 的多模态推理模型，专为代理任务而构建。它接受文本、图像、视频、音频和 PDF 文档并返回文本，并带有 1M 令牌上下文......"
-    },
-    {
-      "id": "kwaipilot/kat-coder-pro-v2.5",
-      "name": "KAT-Coder-Pro V2.5",
-      "vendor": "Kwaipilot",
-      "vendor_slug": "kwaipilot",
-      "url": "https://openrouter.ai/kwaipilot/kat-coder-pro-v2.5-20260710",
-      "created_at": "2026-07-10T20:16:29Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.74,
-      "price_out": 2.96,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "KAT-Coder-Pro V2.5 is a flagship-level Agentic Coding model that can directly hand over an entire issue or an entire business workflow to it, allowing it to autonomously locate and make...",
-      "description_zh": "KAT-Coder-Pro V2.5是旗舰级的Agentic Coding模型，可以直接将整个问题或整个业务流程交给它，让它自主定位并制作..."
     }
   ]
 }

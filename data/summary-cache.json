@@ -76957,5 +76957,67 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/horizons-middle-east-africa-9-2-2026-video": {
+    "title_clean": "Horizons Middle East & Africa：中东非洲市场分析节目",
+    "summary": "这是一档从迪拜播出的每日市场分析节目，聚焦全球增长最快的中东和非洲地区，提供最新市场动态、分析以及重要人物访谈，对了解新兴市场趋势和商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/1C7XjeIRwqVCrY_n8WZ8hA": {
+    "title_clean": "北航等机构将真实漏洞融入AI模型参数",
+    "summary": "北京航空航天大学等研究机构将真实软件漏洞数据融入AI模型参数，使模型能够识别和挖掘软件安全漏洞。这一技术突破为AI在网络安全领域的应用提供了新思路，对元宝产品经理评估AI在安全场景的应用价值具有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/nokia-to-rejoin-euro-stoxx-50-index-as-volkswagen-loses-its-spot": {
+    "title_clean": "诺基亚重返欧洲斯托克50指数，大众汽车被剔除",
+    "summary": "诺基亚将重返欧洲斯托克50指数，大众汽车因欧洲汽车行业面临困境而被剔除。这一变化反映了欧洲传统汽车制造商的挑战，以及科技企业在区域经济中的相对优势，对元宝产品经理了解行业趋势和投资方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-lana": {
+    "title_clean": "CEO Interview: Lana",
+    "summary": "Vincent Choi, Lana公司CEO接受CB Insights采访，分享了对市场定位、客户需求的理解以及公司发展策略。作为AI助手产品，Lana的CEO观点对元宝产品经理了解同类产品市场定位和用户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/ai-boom-fuels-a-new-tech-debt-binge-video": {
+    "title_clean": "摩根大通：科技巨头正通过债务融资AI基础设施建设",
+    "summary": "摩根大通资产管理公司全球市场策略师Stephanie Aliaga表示，科技巨头正越来越多地通过债务融资来大规模建设AI基础设施。这一趋势反映了AI基础设施建设的巨大资金需求，对AI行业融资模式和成本结构有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

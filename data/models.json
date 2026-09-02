@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-09-02T14:53:12.723Z",
+  "generated_at": "2026-09-02T18:39:57.115Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "google/gemini-3.8-flash",
+      "name": "Gemini 3.8 Flash",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-3.8-flash-20260902",
+      "created_at": "2026-09-02T15:14:16Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video",
+        "file",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.75,
+      "price_out": 3.75,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 3.8 Flash is Google's most intelligent Flash model with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning.",
+      "description_zh": null
+    },
+    {
+      "id": "google/gemini-3.8-flash:batch",
+      "name": "Gemini 3.8 Flash (batch)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-3.8-flash-20260902",
+      "created_at": "2026-09-02T15:14:16Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video",
+        "file",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.375,
+      "price_out": 1.875,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 3.8 Flash is Google's most intelligent Flash model with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning.",
+      "description_zh": null
+    },
     {
       "id": "anthropic/claude-fable-5.1",
       "name": "Claude Fable 5.1",
@@ -506,8 +560,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.188,
-      "price_out": 0.938,
+      "price_in": 0.375,
+      "price_out": 1.875,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1419,56 +1473,6 @@
       "supports_reasoning": true,
       "description": "Auto Router (Beta) is a task-aware router from OpenRouter. It classifies each request, then routes it the most popular model for that task based on aggregate spend, filtered by your...",
       "description_zh": "Auto Router（Beta）是 OpenRouter 的任务感知路由器。它对每个请求进行分类，然后根据总支出将其路由到该任务最流行的模型，并根据您的...进行过滤。"
-    },
-    {
-      "id": "moonshotai/kimi-k3",
-      "name": "Kimi K3",
-      "vendor": "Moonshot AI",
-      "vendor_slug": "moonshotai",
-      "url": "https://openrouter.ai/moonshotai/kimi-k3-20260715",
-      "created_at": "2026-07-16T15:30:58Z",
-      "context_length": 1048576,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 3,
-      "price_out": 15,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at...",
-      "description_zh": "Kimi K3是Moonshot AI推出的2.8T参数开放权重多模态推理模型。它适用于复杂的编码、知识工作和长期代理工作流程，并且特别擅长..."
-    },
-    {
-      "id": "moonshotai/kimi-k3:batch",
-      "name": "Kimi K3 (batch)",
-      "vendor": "Moonshot AI",
-      "vendor_slug": "moonshotai",
-      "url": "https://openrouter.ai/moonshotai/kimi-k3-20260715",
-      "created_at": "2026-07-16T15:30:58Z",
-      "context_length": 1048576,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 3,
-      "price_out": 15,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at...",
-      "description_zh": "Kimi K3是Moonshot AI推出的2.8T参数开放权重多模态推理模型。它适用于复杂的编码、知识工作和长期代理工作流程，并且特别擅长..."
     }
   ]
 }

@@ -77019,5 +77019,588 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/roadie-4": {
+    "title_clean": "Roadie：Mac音频设备自动切换工具",
+    "summary": "Roadie是一款Mac应用，能够自动检测并切换到正确的麦克风和扬声器设备，解决用户在多音频设备环境下的切换困扰，提升会议和通话体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cleanshot": {
+    "title_clean": "CleanShot 5.0：Mac截图录制协作工具",
+    "summary": "CleanShot 5.0发布新增Studio模式，这是一款专为Mac设计的截图、录制与协作工具。更新后可能增强了编辑功能和协作能力，为AI助手类产品在屏幕理解、内容处理和协作场景方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/porte": {
+    "title_clean": "Porte：本地Grok手机控制工具",
+    "summary": "Porte是一款允许用户通过手机控制本地Grok会话的工具，解决了移动端与本地AI会话的连接问题，为AI助手跨设备交互提供了新思路，对元宝的多端协同功能开发有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups": {
+    "title_clean": "Stitch AI：刺绣数字化AI助手",
+    "summary": "Stitch AI是首个刺绣数字化AI助手，可将设计自动转换为刺绣图案。这一工具解决了传统刺绣设计需要专业技能的问题，为元宝在垂直领域AI应用场景拓展提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ghostreply-2": {
+    "title_clean": "GhostReply：iMessage 自动回复工具",
+    "summary": "GhostReply 是一款专为 Mac 设计的 iMessage 自动回复工具，能够帮助用户在 iMessage 中实现自动回复功能，提升消息处理效率，适合需要管理大量消息或无法及时回复的用户场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openclaw-formerly-clawdbot": {
+    "title_clean": "OpenClaw 2.0：AI任务执行工具",
+    "summary": "OpenClaw 2.0是一款专注于实际任务执行的AI工具，强调能够真正完成具体工作而非仅提供对话。这款产品代表了AI从对话向实际操作能力发展的趋势，对元宝产品经理在AI Agent功能设计和实际应用场景拓展方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/roundos-data-room": {
+    "title_clean": "RoundOS：免费Docsend替代工具",
+    "summary": "RoundOS是一款免费替代Docsend的文档分享与管理工具，为用户提供文档分享、跟踪和协作功能。作为免费替代方案，它可能对元宝产品经理在文档处理和协作功能设计上有参考价值，特别是在成本敏感场景下的产品策略。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dynamic-edge": {
+    "title_clean": "Dynamic Edge：Windows动态岛功能",
+    "summary": "Dynamic Edge是一款为Windows系统设计的动态岛功能工具，借鉴苹果iPhone的交互设计，在Windows任务栏上实现类似Dynamic Island的通知和交互体验，为Windows用户提供更直观的信息展示和交互方式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sider-code-customize-any-website": {
+    "title_clean": "Sider Code：网站文本重塑工具",
+    "summary": "Sider Code是一款浏览器扩展工具，允许用户通过简单的文字指令重塑网站内容。产品经理可关注其如何通过自然语言处理技术实现网页内容的动态调整，这可能为元宝的网页交互能力提供参考，特别是在用户自定义界面内容方面的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/expect-to-see-a-lot-more-humanoid-robots-soon-barclays-video": {
+    "title_clean": "巴克莱报告：人形机器人将加速进入现实世界",
+    "summary": "巴克莱银行研究报告指出，人形机器人正从实验室走向实际应用，未来几年部署量将大幅增长。这一趋势对AI助手产品经理具有重要参考价值，可能预示着AI在物理世界交互场景的新机遇。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/napster-shifts-course-to-penny-a-minute-ai-agents-via-microsoft": {
+    "title_clean": "Napster：转向微软支持的低价AI代理服务",
+    "summary": "Napster从音乐流媒体平台转型，通过微软技术支持推出每分钟仅需一美分的低价AI代理服务，试图以此重振业务。这一转变展示了传统数字内容平台如何利用AI技术寻找新的商业模式和增长点。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo": {
+    "title_clean": "Pangram CEO称互联网已接近'死亡互联网'理论",
+    "summary": "Pangram CEO警告互联网已接近'死亡互联网'理论，AI生成内容正泛滥至求职申请和产品评论等关键场景，导致互联网信任危机加剧，这对AI内容审核和真实性验证提出新挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/delivery-hero-board-recommends-holders-accept-uber-takeover-bid-mtkbg82t": {
+    "title_clean": "Uber收购Delivery Hero获董事会批准：150亿美元交易推进",
+    "summary": "Uber以150亿美元收购德国外卖平台Delivery Hero的交易已获后者董事会批准，交易正接近完成。这标志着Uber在全球外卖市场的重大扩张，对元宝产品经理了解行业整合趋势和巨头战略布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/nyse-used-anthropic-s-project-glasswing-to-find-cyber-flaws": {
+    "title_clean": "纽约证券交易所使用Anthropic的Project Glasswing发现网络安全漏洞",
+    "summary": "纽约证券交易所采用Anthropic的Project Glasswing工具检测并修复了其网络安全系统中的漏洞。这一案例展示了AI在网络安全领域的实际应用价值，为元宝产品经理提供了AI安全工具在大型机构中的应用参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program": {
+    "title_clean": "Fairwind Program：政府与企业主动网络安全防御计划",
+    "summary": "Fairwind Program是一个面向政府和可信合作伙伴的有限访问项目，提供主动网络安全防御工具。该计划为元宝产品经理提供了AI安全服务在政府和企业级市场的应用参考，展示了专业领域AI工具的商业模式和准入机制。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/rockefeller-capital-s-fleming-sees-ai-driving-optimism-video": {
+    "title_clean": "Rockefeller Capital Fleming：AI驱动经济乐观情绪",
+    "summary": "洛克菲勒资本管理公司CEO Greg Fleming表示，人工智能正引领更广泛的经济乐观情绪。他在彭博电视节目中指出，AI技术正在推动经济前景改善，为投资者带来信心。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/spyware-targeted-serbian-protest-organizers-phones-report-says": {
+    "title_clean": "间谍软件针对塞尔维亚抗议组织者手机",
+    "summary": "报告称，在3月地方选举前，间谍软件针对参与反腐败抗议活动的塞尔维亚学生活动家和政治人物，显示政府可能利用监控技术压制政治反对声音，这对元宝产品经理了解隐私保护与数据安全在政治环境中的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/uber-cuts-jobs-dell-raises-revenue-forecast-video": {
+    "title_clean": "Uber裁员3,300人；Dell上调营收预期",
+    "summary": "Uber全球裁员3,300人（占员工总数10%），旨在精简管理层并重新分配资源；同时Dell上调营收预期。这对产品经理了解科技行业成本结构调整和业务战略方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo": {
+    "title_clean": "Adobe收购印度市场智能初创公司Rilo",
+    "summary": "Adobe收购了印度市场智能初创公司Rilo，这是继2023年收购Rephrase.ai后，Adobe在印度的第二次收购。此次收购表明Adobe正在积极拓展其在AI和数据分析领域的能力，特别是在市场智能方面的布局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ibm-research/real-time-intelligence": {
+    "title_clean": "IBM与Confluent合作：实时时间序列智能模型",
+    "summary": "IBM与Confluent合作推出基于Confluent平台的时间序列模型，提供实时智能分析能力。这对元宝产品经理有参考价值，特别是在实时数据处理和AI服务场景方面，展示了如何将AI模型与数据流平台结合，为用户提供实时决策支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/openai-faces-new-lawsuits-linked-to-shooting-at-canadian-school": {
+    "title_clean": "OpenAI面临新诉讼：被指控未能阻止加拿大校园枪击案",
+    "summary": "OpenAI因未能通过AI系统向执法部门通报加拿大校园枪击案嫌疑人而面临多起诉讼。此事件引发AI公司对内容监控和安全责任的讨论，对产品经理思考AI安全边界与责任机制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting": {
+    "title_clean": "OpenAI面临30起与Tumbler Ridge枪击事件相关的新诉讼",
+    "summary": "Edelson PC律师事务所对OpenAI提起30起新诉讼，指控其与Tumbler Ridge枪击事件有关并协助犯罪，尽管证据尚未确认。这反映了AI内容责任和监管风险的新挑战，对产品经理评估AI内容安全机制和法律合规性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026": {
+    "title_clean": "IPO窗口关闭：8家值得关注的高估值初创公司",
+    "summary": "今年上半年已有58家风险投资支持的估值超10亿美元公司上市，随着年末临近，IPO窗口正在关闭，本文列举了8家值得关注的高估值初创公司，对元宝产品经理了解AI行业融资上市趋势和潜在竞品动态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-02/ai-layoffs-at-microsoft-amazon-meta-drive-seattle-luxury-home-sales-down-15": {
+    "title_clean": "微软、亚马逊、Meta AI裁员导致西雅图高端住宅销量下降15%",
+    "summary": "西雅图地区科技公司的AI裁员潮正在影响当地高端房地产市场，微软、亚马逊和Meta的裁员导致该地区豪华住宅销量下降15%，反映了AI行业调整对区域经济的连锁反应。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/tsmc-s-quarterly-chipmaking-tool-needs-almost-doubled-this-year": {
+    "title_clean": "台积电季度芯片制造设备需求今年几乎翻倍",
+    "summary": "台积电高管表示，随着公司扩大产能以满足AI需求，自去年年底以来，台积电对芯片制造设备的需求几乎翻倍。这一增长反映了AI芯片制造市场的强劲需求，对元宝产品经理了解AI硬件供应链和算力基础设施扩张有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/softbank-backed-opay-considers-a-secondary-listing-in-nigeria": {
+    "title_clean": "软银支持的Opay考虑在尼日利亚二次上市",
+    "summary": "软银集团支持的Opay数字服务有限公司考虑在美国首次公开募股后，于尼日利亚进行二次上市。这表明非洲数字支付市场正吸引更多国际资本关注，对元宝拓展新兴市场战略具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/nvidia-may-be-close-to-agreeing-deal-for-hugging-face-video": {
+    "title_clean": "Nvidia 接近以140亿美元收购Hugging Face",
+    "summary": "据彭博社报道，Nvidia正与AI初创公司Hugging Face进行深入收购谈判，交易金额可能高达140亿美元。这反映了AI基础设施与模型平台整合趋势，对元宝产品经理评估AI生态合作与商业化策略具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/trumpf-cto-on-business-strategy-chip-industry-video": {
+    "title_clean": "Trumpf CTO谈商业战略与芯片行业",
+    "summary": "德国工业激光制造商Trumpf首席技术官Berthold Schmidt讨论了公司业务战略及半导体行业前景。作为工业制造领域的技术领导者，其观点对元宝了解传统制造业AI应用场景和行业趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/phison-electronics-sees-worst-nand-shortage-in-2027-video": {
+    "title_clean": "Phison Electronics：预计2027年将面临最严重的NAND闪存短缺",
+    "summary": "Phison Electronics联合创始人兼CEO KS Pua预测，明年NAND闪存可能面临历史上最严重的短缺情况，并讨论了NAND在人工智能领域的关键作用。这一信息对AI产品经理有价值，因为存储供应短缺可能影响AI硬件成本和可用性，进而影响AI产品的部署和定价策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-partner-gets-strong-demand-for-rare-gpu-tied-loan-in-asia": {
+    "title_clean": "Nvidia合作伙伴：亚洲市场GPU计算能力贷款需求强劲",
+    "summary": "Nvidia合作伙伴GMI Cloud通过先进芯片计算能力销售获得贷款承诺，金额超过原寻求目标的两倍，表明亚洲市场对GPU计算能力的需求强劲，这对元宝产品经理了解AI硬件资源分配与市场需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/the-close-9-1-2026-video": {
+    "title_clean": "股市下跌：油价上涨与国债收益率攀升影响市场",
+    "summary": "彭博电视报道华尔街收盘前后的最新市场动态，指出股市下跌与油价上涨、国债收益率攀升的关联，并邀请了Dimensional Fund Advisors专家进行市场分析，为产品经理提供金融市场的实时参考信息。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems": {
+    "title_clean": "OpenAI：Astra模型具备系统入侵能力",
+    "summary": "OpenAI展示了其最新关键LLM模型Astra的安全预防措施，该模型具备计算机系统入侵能力。这提示AI安全防护将成为产品开发的重要考量，对元宝在AI安全与能力边界设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/openai-will-limit-access-to-new-astra-model-s-cybersecurity-features": {
+    "title_clean": "OpenAI将限制Astra模型网络安全功能访问权限",
+    "summary": "OpenAI计划推出名为Astra的新AI模型，但将限制用户使用其最先进的网络安全功能。这反映了AI公司在安全功能管控方面的策略调整，对产品经理评估AI安全功能开放策略和商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive": {
+    "title_clean": "Anthropic发布Fable 5.1：降低成本与限制",
+    "summary": "Anthropic推出Fable 5.1版本，旨在降低token成本并减少模型安全措施导致的错误限制。这一更新对AI产品经理有参考价值，表明公司在平衡安全与成本方面的策略调整。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/bessent-s-bluff-backfired-pantera-s-morehead-video": {
+    "title_clean": "Pantera Capital创始人批评美国财政部债券回购计划失败",
+    "summary": "Pantera Capital创始人Dan Morehead批评美国财政部长Scott Bessent增加长期国债回购的计划是失败的策略，认为这一政策未能达到预期效果。这一观点对金融科技和AI投资决策工具有参考价值，反映了市场对政府债券政策的评估。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/apple-s-2-300-rally-under-tim-cook-video": {
+    "title_clean": "苹果公司股价在蒂姆·库克领导下增长2300%",
+    "summary": "蒂姆·库克执掌苹果15年后，将公司发展成为4.6万亿美元巨头，股价增长近2300%。这一领导层变动对AI产品经理有参考价值，反映了长期战略规划与市场表现的关系，特别是在科技巨头转型期的管理智慧。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-halfmore": {
+    "title_clean": "CEO Interview: Halfmore",
+    "summary": "Halfmore公司CEO Isaac Lee接受CB Insights采访，分享其市场定位、客户需求认知及公司发展策略。作为一家AI相关企业，其市场观点和产品方向对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/elon-musk-sees-ai-increasing-global-economy-by-20-30-video": {
+    "title_clean": "马斯克：AI将使全球经济年增长20%-30%",
+    "summary": "特斯拉CEO马斯克在G20创新会议上表示，他预计人工智能每年将使全球经济增加20%-30%，约合20万亿至30万亿美元。这一观点对产品经理评估AI技术的经济影响和市场潜力具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-prospero-ai": {
+    "title_clean": "Executive Interview: Prospero.ai：AI市场定位与客户需求访谈",
+    "summary": "Prospero.ai主席George Kailas接受CB Insights访谈，分享公司对市场的看法、客户需求分析以及自身在行业中的定位。这对元宝产品经理了解AI企业市场策略和客户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
+    "title_clean": "ChatGPT：连接医疗健康数据工具",
+    "summary": "ChatGPT现已支持连接电子健康记录(EHR)和行业数据，帮助医生安全访问患者背景、医学研究等信息，为医疗AI应用提供新场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/roku-launches-its-first-oled-tvs-with-prices-starting-at-999": {
+    "title_clean": "Roku推出首款OLED智能电视：起售价999美元",
+    "summary": "Roku公司首次推出自有品牌OLED智能电视，采用有机发光二极管显示技术，提供更高对比度和更深黑色水平，起售价999美元。这对元宝产品经理参考价值在于了解硬件厂商如何将AI能力整合到智能电视产品中，以及智能电视作为AI服务入口的竞争格局变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/china-freezes-china-court-freezes-nexperia-assets-in-fight-over-dutch-chipmaker": {
+    "title_clean": "中国法院冻结荷兰芯片企业Nexperia资产，控制权争端升级",
+    "summary": "中国法院冻结荷兰芯片企业Nexperia价值21.4亿元资产，这是其与中国公司Wingtech长期控制权争端的最新进展。这一事件可能影响全球芯片供应链，对元宝产品经理了解地缘政治对科技产业的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/salesforce-backs-hr-software-firm-hibob-at-3-2-billion-value": {
+    "title_clean": "Salesforce投资人力资源软件HiBob，估值达32亿美元",
+    "summary": "Salesforce向人力资源软件公司HiBob投资超过1.6亿美元，参与其新一轮融资，使这家初创公司估值超过32亿美元。这表明大型企业对HR SaaS领域的持续关注，特别是与AI结合的人才管理解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai": {
+    "title_clean": "Apple指控前员工为OpenAI窃取公司数据",
+    "summary": "Apple指控前员工在得知被调查后销毁数据盗窃证据，称其将公司数据提供给OpenAI。这反映了AI行业人才流动与数据安全风险，对元宝产品经理评估数据保护策略和员工管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/QKdJPxSa7J7yr0CuPyVuGQ": {
+    "title_clean": "Mac mini缺货原因：OpenAI与Anthropic竞相采购",
+    "summary": "Mac mini出现缺货现象，原因是OpenAI和Anthropic两大AI公司都在大量采购这款设备。这反映了AI企业对硬件资源的需求增长，以及AI基础设施竞争加剧的趋势，对元宝产品经理评估AI服务部署成本和供应链策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events": {
+    "title_clean": "苹果高管Phil Schiller卸任App Store和产品活动负责人",
+    "summary": "苹果公司Phil Schiller卸任App Store和产品活动负责人，他是乔布斯和库克时代最具影响力的高管之一。这一人事变动可能影响App Store政策方向和苹果产品发布策略，对元宝产品经理了解科技巨头组织架构变化及潜在影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-31/sk-hynix-weighs-japan-memory-fab-partnership-to-supply-ai-boom": {
+    "title_clean": "SK海力思考虑在日本建内存芯片厂以支持AI需求",
+    "summary": "SK海力思正在评估在日本建立内存芯片制造工厂的可行性，以满足日益增长的AI需求并控制生产成本。这反映了AI硬件供应链的扩张趋势，对元宝产品经理了解AI基础设施布局和供应链变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

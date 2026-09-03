@@ -78220,5 +78220,130 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/monid": {
+    "title_clean": "Monid：Agent工具OpenRouter服务",
+    "summary": "Monid是一个为AI Agent提供工具支持的OpenRouter服务，能够帮助Agent更高效地调用外部工具和API。这一产品对元宝产品经理在构建Agent工具调用能力方面具有参考价值，特别是在如何整合第三方服务以扩展Agent功能方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/claude-fable-5-1": {
+    "title_clean": "Claude Fable 5.1：高级编程与知识工作模型",
+    "summary": "Claude发布Fable 5.1，这是其最先进的编程和知识工作模型，针对开发者和知识工作者进行了优化，可能提升代码生成、分析和知识处理能力，对元宝在专业领域AI助手功能开发有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/asml-supplier-says-china-15-years-behind-in-top-chipmaking-tools": {
+    "title_clean": "ASML供应商称中国在顶尖芯片制造工具领域落后15年",
+    "summary": "德国蔡司集团高管表示，中国在开发尖端芯片制造工具方面落后约15年。蔡司是全球半导体行业的关键供应商，这一信息反映了当前全球芯片制造技术格局，对元宝产品经理了解AI硬件基础设施限制和供应链安全有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say": {
+    "title_clean": "Palo Alto Networks以5亿美元收购Console，AI IT服务自动化格局生变",
+    "summary": "网络安全巨头Palo Alto Networks以5亿美元收购Console公司，此次收购使Sequoia投资的Serval成为AI IT服务自动化领域的实际领导者。这对元宝产品经理了解AI在企业服务领域的收购动态和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/microsoft-to-disclose-azure-sales-after-years-of-investor-gripes": {
+    "title_clean": "微软将披露Azure云业务季度销售额",
+    "summary": "微软宣布将开始披露Azure云业务的季度销售额，这一决定是对华尔街多年来缺乏其最重要业务部门信息批评的回应。这一信息披露变化对元宝产品经理有参考价值，反映了云服务市场竞争透明度提升的趋势，可能影响AI服务提供商的财务披露策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/broadcom-forecast-misses-estimates-disappointing-investors": {
+    "title_clean": "Broadcom预测未来两年AI芯片销售将大幅增长",
+    "summary": "博通公司预测未来两年AI芯片销售将迎来大幅增长，这有助于重振其挑战英伟达在该高利润市场主导地位的信心。这一市场动向对AI硬件供应链和AI产品经理评估算力成本趋势具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/nvidia-in-advanced-talks-for-hugging-face-video": {
+    "title_clean": "Nvidia 正洽谈收购 Hugging Face",
+    "summary": "据消息人士透露，芯片巨头Nvidia正就收购AI开源平台Hugging Face进行深入谈判，这笔交易可能价值约140亿美元。若达成，这将是有史以来最大的AI领域收购案之一，对AI开源生态和模型分发格局将产生重大影响。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/bessent-blasts-us-hyperscalers-for-failure-to-tout-ai-benefits": {
+    "title_clean": "美国财长批评科技巨头未宣传AI社会效益",
+    "summary": "美国财长Scott Bessent批评美国科技巨头在人工智能领域加大投资的同时，未能与社区建立联系，未能宣传AI带来的社会效益，这反映了公众对AI影响的担忧。这对元宝产品经理有参考价值，提示在AI产品推广中需关注社会影响和公众沟通。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs": {
+    "title_clean": "印度首富推出低成本AI电脑升级服务",
+    "summary": "信实工业旗下Jio公司推出一项服务，可将老旧电脑升级为AI就绪PC，仅需约11美元/两个月。这项服务瞄准发展中国家市场，通过低成本方式普及AI计算能力，对元宝拓展新兴市场及低成本AI解决方案有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-bolt": {
+    "title_clean": "Executive Interview: bolt",
+    "summary": "Bolt首席营销官Angela Whiteford接受CB Insights采访，分享公司对市场的看法、客户需求定位以及公司战略方向。作为支付和电子商务平台，其市场定位和战略对元宝在支付集成和电商服务场景方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

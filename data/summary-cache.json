@@ -78383,5 +78383,53 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/codelook": {
+    "title_clean": "CodeLook：代码预览工具",
+    "summary": "CodeLook提供700多种编辑器主题的代码预览功能，帮助开发者快速预览代码效果。作为代码展示工具，它可能对元宝在代码展示、多主题支持方面的功能设计有参考价值，尤其对于需要代码展示场景的AI助手产品。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/thaw-2": {
+    "title_clean": "Thaw：菜单栏管理工具",
+    "summary": "Thaw是一款专注于菜单栏管理的应用，能够全面控制用户系统菜单栏的内外功能。这款工具对元宝产品经理有参考价值，特别是在AI助手如何与系统级功能集成方面提供了新思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/Hcompany/neomme": {
+    "title_clean": "NeoMME：高效多模态多语言编码器",
+    "summary": "NeoMME是一种新型多模态多语言编码器，专注于高效处理跨语言和多模态数据。该技术对元宝产品经理在多语言支持和多模态交互功能开发方面具有参考价值，特别是在构建能理解不同语言和模态输入的AI系统时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-03/adam-smith-s-lessons-for-investors-in-the-age-of-ai-video": {
+    "title_clean": "Adam Smith’s Lessons for Investors in the Age of AI：AI时代投资智慧",
+    "summary": "本文探讨亚当·斯密投资智慧在AI时代的应用价值，汇集彭博高级记者、施罗德战略研究主管和尼尔森主席等多位专家观点，为AI投资策略提供历史视角和现代解读，对元宝产品经理理解AI商业化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

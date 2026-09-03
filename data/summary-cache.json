@@ -78431,5 +78431,531 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/open-source-ai-necklace-friend": {
+    "title_clean": "Omi：视觉与听觉内容AI问答工具",
+    "summary": "Omi是一款AI工具，允许用户通过询问电脑关于看到或听到任何内容的问题，实现视觉与听觉内容的智能问答。产品经理可关注其多模态交互能力，为元宝的跨模态理解功能提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/grove-8": {
+    "title_clean": "Grove：AI代理统一终端工具",
+    "summary": "Grove是一款为用户和AI代理提供统一终端的工具，旨在简化AI代理的交互和管理流程。产品经理可关注其如何整合多AI代理能力，这可能启发元宝在多代理协作和统一入口方面的产品设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fillo-native-forms-without-the-backend": {
+    "title_clean": "Fillo：AI表单构建工具",
+    "summary": "Fillo是一款允许开发者通过AI助手在产品中构建表单的工具，将表单创建与AI编码能力结合，简化产品集成表单的流程，对元宝产品经理在AI辅助开发工具方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-tote": {
+    "title_clean": "Executive Interview : Tote：市场营销负责人谈市场定位与客户需求",
+    "summary": "Tote市场营销负责人Leo Castro接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在市场中的定位。这为元宝产品经理提供了关于企业如何定位自身产品和服务的重要参考视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails": {
+    "title_clean": "Abliteration.ai：移除AI安全限制的商业化平台",
+    "summary": "Abliteration.AI开发并商业化移除安全限制的AI模型，主张让防御方与恶意行为者使用相同工具，以提升网络安全防御能力。这一模式挑战了AI安全护栏的传统理念，为产品经理思考AI安全边界与防御策略提供了新视角。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-03/wayve-uber-bring-robotaxi-rides-to-london-video": {
+    "title_clean": "Wayve与Uber在伦敦推出自动驾驶出租车服务",
+    "summary": "自动驾驶初创公司Wayve与Uber合作在伦敦推出自动驾驶出租车服务，初期仍配备安全驾驶员。CEO Alex Kendall讨论了实现完全无人驾驶服务的路径及未来计划，这对元宝产品经理了解自动驾驶技术在出行服务中的应用场景和商业化进程具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-anchor": {
+    "title_clean": "Executive Interview: Anchor：创始人谈市场定位与客户需求",
+    "summary": "Anchor联合创始人兼首席商务官Omry Man接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身在市场中的定位。这为元宝产品经理提供了关于AI服务市场定位和客户需求洞察的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b": {
+    "title_clean": "NVIDIA将以129.3亿美元收购Hugging Face",
+    "summary": "NVIDIA宣布以129.3亿美元收购开源模型平台Hugging Face，旨在扩大其开源模型库的平台规模和基础设施。这一交易将强化NVIDIA在AI模型生态系统中的地位，对AI助手和AI Agent开发工具链产生重大影响。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-03/why-hugging-face-decided-to-combine-with-nvidia-video": {
+    "title_clean": "Hugging Face与Nvidia合并：AI初创公司被Nvidia以130亿美元收购",
+    "summary": "Hugging Face联合创始人Thomas Wolf讨论了Nvidia同意以约130亿美元收购这家AI初创公司的动机。这一交易反映了AI基础设施与模型平台整合的趋势，对AI助手和Agent产品的底层技术生态有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-03/chipmaker-longsys-is-said-to-price-hong-kong-listing-at-hk-236": {
+    "title_clean": "Longsys香港IPO定价：芯片制造商以236港元发行",
+    "summary": "深圳朗科电子在香港IPO定价为236港元，低于 marketed range 的上限，加入中国企业赴港上市浪潮。这反映了芯片行业融资动态，对元宝产品经理了解AI硬件供应链企业资本运作有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-03/nvidia-buys-ai-platform-hugging-face-in-13-billion-deal-video": {
+    "title_clean": "Nvidia收购AI平台Hugging Face：13亿美元交易",
+    "summary": "Nvidia宣布以约13亿美元收购AI初创公司Hugging Face，并设立最高1亿美元的股权保留计划。Hugging Face是知名的AI模型开源平台，此次收购将加强Nvidia在AI生态系统中的布局，对AI助手和AI Agent领域的开源生态和商业化模式有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-03/htc-brings-499-vive-eagle-smart-glasses-to-us-amid-broader-privacy-concerns": {
+    "title_clean": "HTC推出499美元Vive Eagle智能眼镜：进入美国市场",
+    "summary": "HTC在美国推出售价499美元的Vive Eagle智能眼镜，进入已有Meta主导的市场。此举发生在消费者对隐私问题日益担忧的背景下，特别是对隐形摄像头的关注。这对元宝产品经理了解AR/VR硬件市场动态和隐私设计考量有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion": {
+    "title_clean": "Nvidia确认以129亿美元收购Hugging Face",
+    "summary": "Nvidia宣布以129亿美元收购Hugging Face，后者托管了超过300万个模型，拥有超过1800万开发者用户。此次收购将加强Nvidia在AI模型开发平台领域的布局，对AI助手和AI Agent生态发展具有重要意义。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face": {
+    "title_clean": "Nvidia 以130亿美元收购AI平台Hugging Face",
+    "summary": "Nvidia宣布以约130亿美元收购AI平台Hugging Face，这是AI基础设施领域的重要并购。Hugging Face作为开源AI模型和工具平台，此次收购将强化Nvidia在AI生态系统的布局，对AI模型开发与部署格局产生深远影响。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026": {
+    "title_clean": "全球风险投资8月增长122%，十亿美元级交易持续",
+    "summary": "Crunchbase数据显示，8月全球风险投资达420亿美元，投向1500多家初创企业，较7月下降25%，但同比去年8月增长122%，十亿美元级交易持续出现。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-03/astrazeneca-sanofi-boehringer-back-owkin-ai-to-cut-drug-bottlenecks": {
+    "title_clean": "阿斯利康、赛诺菲、勃林格殷格翰投资Owkin AI以解决药物研发瓶颈",
+    "summary": "阿斯利康、赛诺菲和勃林格殷格翰三家制药巨头共同投资Owkin AI，利用AI技术快速生成数千个药物研发方案，旨在解决传统药物研发中的瓶颈问题。这一合作展示了AI在加速药物发现和研发流程中的实际应用，对元宝产品经理了解AI在专业领域的商业化应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-03/tiktok-youtube-find-silence-speaks-loudly-in-face-of-pressure-on-child-safety": {
+    "title_clean": "TikTok, YouTube：面对儿童安全压力选择沉默",
+    "summary": "TikTok和YouTube因未加入竞争对手针对青少年的保护措施而面临审查，这反映了在儿童安全问题上平台间的态度差异，对元宝产品经理了解行业安全标准和合规挑战有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-03/broadcom-forecasts-boom-in-ai-chip-sales-video": {
+    "title_clean": "Broadcom预测AI芯片销售将大幅增长",
+    "summary": "Broadcom预测未来两年AI芯片销售将大幅增长，表明其有望挑战Nvidia在AI芯片市场的主导地位。这对元宝产品经理了解AI基础设施市场格局和芯片供应趋势有参考价值，可能影响AI服务成本和性能规划。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-03/asia-s-economies-avert-energy-shock-via-fiscal-buffers-ai-boom": {
+    "title_clean": "亚洲经济体通过财政缓冲与AI增长避免能源危机",
+    "summary": "亚洲多国政府通过快速保障能源供应和利用财政缓冲措施，成功避免了能源危机，实现了稳健增长。AI产业的蓬勃发展成为推动经济增长的关键因素，为元宝产品经理提供了AI在宏观经济中应用价值的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/train-to-paint-with-code": {
+    "title_clean": "Training a coding model to paint watercolours with TRL and OpenEnv：AI编程模型水彩画训练工具",
+    "summary": "该研究探索使用TRL和OpenEnv技术训练编程模型进行水彩画创作，展示了AI在创意领域的应用可能性。这对元宝产品经理有参考价值，可作为AI多模态能力拓展和创意服务场景的潜在方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/grpo-with-trl-ifstruct": {
+    "title_clean": "Fine-tuning a 350M Model：通过100步GRPO优化结构化输出",
+    "summary": "该研究展示了如何通过100步GRPO(Group-wise Relative Policy Optimization)方法微调350M参数模型，显著提升模型的结构化输出能力。这一技术对AI助手产品经理具有重要参考价值，因为它提供了一种高效微调方法，可应用于改进AI Agent的任务执行准确性和输出规范性，特别是在需要结构化响应的场景中。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/flVi1eIIfy02ytPpTu9_Ew": {
+    "title_clean": "UniSteer：机械臂拼豆人类指导强化学习",
+    "summary": "UniSteer通过机械臂拼豆实验，探索人类指导如何进入VLA噪声空间强化学习，为AI系统提供更有效的学习路径和人类交互方式，对AI Agent的人机协作与学习效率提升有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/zeiss-smt-ceo-china-15-years-behind-in-top-chip-tools-video": {
+    "title_clean": "ZEISS SMT CEO：中国高端芯片设备落后15年",
+    "summary": "ZEISS SMT CEO表示，中国需要15年时间才能开发出EUV光刻机，且面临额外出口管制。作为ASML EUV光刻机的关键供应商，这一言论反映了高端芯片制造领域的国际竞争格局和技术壁垒。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals": {
+    "title_clean": "TechCrunch Disrupt 2026新增现实世界AI舞台：聚焦数字与物理世界融合",
+    "summary": "TechCrunch Disrupt 2026将新增'现实世界AI'舞台，关注数字与物理世界的交汇融合，展示Nvidia、机器人和灭绝动物等主题，探讨AI如何连接虚拟与现实世界，为AI助手和Agent产品提供物理交互场景参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/digitalbridge-s-ganzi-data-centers-aren-t-the-villain-video": {
+    "title_clean": "DigitalBridge's Ganzi：数据中心不是AI基础设施瓶颈",
+    "summary": "DigitalBridge CEO Marc Ganzi表示，AI基础设施投资需要多元化方法，但真正的瓶颈在于电力供应而非数据中心本身。这一观点对AI服务提供商的硬件规划和能源策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-afori-2": {
+    "title_clean": "Executive Interview: Afori",
+    "summary": "Afori CEO Fabian Wesemann接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家AI相关企业，其市场定位和客户洞察对元宝产品经理了解行业趋势和用户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/bloomberg-tech-09-02-2026-video": {
+    "title_clean": "Nvidia 接近以140亿美元收购AI初创公司Hugging Face",
+    "summary": "据彭博社报道，Nvidia正与AI初创公司Hugging Face进行高级谈判，拟以140亿美元的价格收购该公司。这笔交易若达成，将显著增强Nvidia在AI模型开发与部署领域的实力，对AI助手和AI Agent生态格局产生重大影响。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake": {
+    "title_clean": "Pangram的Max Spero谈AI检测为何比'真伪判断'更难",
+    "summary": "Pangram的Max Spero分析了AI检测面临的挑战，指出互联网信任问题不仅源于社交媒体充斥AI生成内容，AI生成的文本和图像已渗透至求职申请、产品评论等关键场景，使AI检测变得比简单的真伪判断更为复杂。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/atv-big-air-tour": {
+    "title_clean": "ATV Big Air Tour：利用ChatGPT将3天工作缩短至3小时",
+    "summary": "ATV Big Air Tour使用ChatGPT Work加速营销和商品开发等工作，甚至能在15分钟内将商品照片转化为库存网站，展示了AI在提高工作效率方面的实际应用价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/boehringer-signs-deal-for-owkin-ai-joining-astra-and-sanofi": {
+    "title_clean": "勃林格殷格翰与Owkin达成AI药物研发合作",
+    "summary": "勃林格殷格翰与Owkin达成协议，将使用Owkin的人工智能模型辅助发现新的肿瘤学和免疫学药物。这是继阿斯利康和赛诺菲之后，又一家大型制药公司采用Owkin的AI技术，表明AI在药物研发领域的应用正获得行业认可。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/kingspan-turns-to-bond-market-as-data-center-demand-lifts-firm": {
+    "title_clean": "Kingspan：绿色债券融资助力数据中心扩建",
+    "summary": "Kingspan集团通过两部分绿色债券融资8.5亿欧元，用于AI数据中心扩建，提升公司盈利预期。这反映了AI基础设施建设对传统建材企业的积极影响，以及绿色金融在支持AI基础设施发展中的作用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-02/data-center-spending-to-reach-31-6-trillion-by-2050-on-ai-boom": {
+    "title_clean": "AI数据中心支出将达32万亿美元，普华永道预测",
+    "summary": "普华永道报告显示，为满足全球对AI日益增长的需求，到2050年全球数据中心支出将达到31.6万亿美元，这将是有史以来前所未有的投资热潮。这一数据表明AI基础设施建设的巨大市场潜力，对元宝产品经理评估AI服务长期发展环境具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/jaguar-land-rover-unveils-first-electric-range-rover-video": {
+    "title_clean": "Range Rover首款全电动车型售价超20万美元",
+    "summary": "捷豹路虎推出首款全电动Range Rover车型，起售价达154,070英镑（约208,420美元），这一高价将测试富裕消费者对电动SUV的接受程度，反映了豪华电动车市场的高定价策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/UKjh7Yokm5I_MH9Cvow1yA": {
+    "title_clean": "AI版西游记登上湖南卫视黄金档",
+    "summary": "AI技术创作的《西游记》改编作品登上湖南卫视黄金时段播出，展示了AI在内容创作领域的应用突破，为AI生成内容(AIGC)在主流媒体的应用提供了重要参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families": {
+    "title_clean": "Fambot：家庭AI首席助理工具",
+    "summary": "Fambot推出AI'家庭首席助理'，帮助家庭管理邮件、日程、学校通知、体育活动安排等育儿相关事务。这款产品针对家庭场景的复杂协调需求，提供一站式智能管理服务，对元宝拓展家庭服务场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/apple-ternus-touts-product-pipeline-phenomenal-sept-9-iphone-launch-in-memo": {
+    "title_clean": "苹果CEO强调产品路线图，宣布9月9日将发布'非凡'iPhone新品",
+    "summary": "苹果新任CEO John Ternus向员工表示公司拥有强大的产品路线图，并预告9月9日将推出'非凡'的iPhone新品。这对元宝产品经理有参考价值，可了解苹果产品发布节奏和营销策略，以及高端智能手机市场的创新方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-01/lse-to-roll-out-tokenized-stocks-video": {
+    "title_clean": "伦敦证券交易所将推出代币化股票",
+    "summary": "伦敦证券交易所计划推出代币化股票，由Solana基金会支付增长主管Amira Valliani在Bloomberg Crypto节目中透露。这一举措标志着传统金融市场与区块链技术的融合，可能为AI金融服务提供新的数据接口和交易场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-01/epiris-agrees-to-buy-uk-s-gamma-communications-for-1-billion": {
+    "title_clean": "Epiris收购Gamma Communications：10亿英镑收购企业通信服务商",
+    "summary": "私募股权公司Epiris以约10亿英镑收购欧洲企业通信服务提供商Gamma Communications，这标志着企业通信领域的重要并购事件，对元宝产品经理了解企业级AI通信服务市场格局和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-huinno": {
+    "title_clean": "CEO Interview: HUINNO",
+    "summary": "HUINNO CEO Yeongjoon Gil接受CB Insights采访，分享亚洲创新生态系统在过去十年的演变历程，重点讨论了亚洲创新环境的关键变化和发展趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-pantheon-lab": {
+    "title_clean": "Pantheon Lab CEO访谈：亚洲创新生态与香港定位",
+    "summary": "Pantheon Lab CEO Ivan Lau接受CB Insights采访，分享他对亚洲创新生态系统的看法、中国在其中的角色以及香港的定位。内容涉及亚洲创新生态演变，对元宝产品经理了解区域创新环境与市场机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-08-31/anthropic-ipo-could-open-ai-listings-floodgates-madrona-video": {
+    "title_clean": "Anthropic IPO可能开启AI公司上市潮：Madrona",
+    "summary": "Madrona投资公司发布IA40榜单，指出Anthropic的IPO可能引发AI公司上市潮。该榜单聚焦正在塑造AI下一阶段的私营公司，包括OpenAI、Anthropic等，对元宝产品经理了解AI行业资本动态和潜在竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-altuva-group": {
+    "title_clean": "Executive Interview: Altuva Group",
+    "summary": "William Wu分享对亚洲创新生态系统的看法，分析中国在其中扮演的角色，以及香港的定位。作为投资机构高管，他的观点对元宝了解亚洲AI市场格局和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

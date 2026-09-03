@@ -78345,5 +78345,43 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/nex-4": {
+    "title_clean": "Nex：Claude 高批量GTM工作流协作工具",
+    "summary": "Nex是一款专为高批量GTM(上市)工作流设计的Claude协作工具，旨在提升团队在产品上市过程中的协作效率。产品经理可关注其如何优化AI助手在商业流程中的应用，特别是批量任务处理和团队协作场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/cj-desai-says-mongodb-s-ai-momentum-is-real-video": {
+    "title_clean": "MongoDB CEO：AI业务增长强劲但保持谨慎",
+    "summary": "MongoDB CEO CJ Desai表示公司AI业务势头强劲，Atlas数据库连续五个季度实现29%增长，总收入持续环比上升。这反映了企业级AI服务市场的实际需求，对评估AI产品商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-02/dell-boosts-sales-outlook-by-25-billion-video": {
+    "title_clean": "Dell上调AI服务器销售预期，年销售额增加250亿美元",
+    "summary": "Dell上调年度销售预期250亿美元，显示AI服务器需求激增。这一增长主要源于用于运行AI任务的服务器销售强劲，表明AI硬件市场正在快速扩张，对元宝等AI产品经理了解基础设施需求趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

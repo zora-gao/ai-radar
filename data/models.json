@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-09-04T17:21:21.309Z",
+  "generated_at": "2026-09-04T20:45:24.829Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "openai/gpt-6-astra",
+      "name": "GPT-6 Astra",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6-astra-20260903",
+      "created_at": "2026-09-04T20:13:58Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 10,
+      "price_out": 50,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6 Astra is OpenAI's flagship model for demanding end-to-end work. It is suited for advanced analysis, software engineering, deep research, scientific work, and document creation, with particular strengths in long-horizon...",
+      "description_zh": null
+    },
+    {
+      "id": "openai/gpt-6-astra-pro",
+      "name": "GPT-6 Astra Pro",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6-astra-pro-20260903",
+      "created_at": "2026-09-04T20:13:55Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 10,
+      "price_out": 50,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6 Astra Pro is the same underlying model as GPT-6 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
+      "description_zh": null
+    },
+    {
+      "id": "inclusionai/ling-3.0-flash-sante:free",
+      "name": "Ling 3.0 Flash Sante (free)",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-sante-20260904",
+      "created_at": "2026-09-04T18:19:06Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ling 3.0 Flash Sante is a health and medicine-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for...",
+      "description_zh": null
+    },
     {
       "id": "meta/muse-spark-1.3-contributor",
       "name": "Muse Spark 1.3 Contributor",
@@ -1250,7 +1323,7 @@
     },
     {
       "id": "inclusionai/ling-3.0-flash",
-      "name": "Ling-3.0-flash",
+      "name": "Ling 3.0 Flash",
       "vendor": "Inclusionai",
       "vendor_slug": "inclusionai",
       "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-20260723",
@@ -1397,81 +1470,6 @@
       "supports_reasoning": true,
       "description": "Gemini 3.5 Flash Lite is a high-efficiency model from Google with upgraded agentic capabilities. It is suited for subagents that execute focused tasks within complex, multi-agent workflows.",
       "description_zh": "Gemini 3.5 Flash Lite是Google推出的一款高效模型，具有升级的代理能力。它适合在复杂的多代理工作流程中执行重点任务的子代理。"
-    },
-    {
-      "id": "google/gemini-3.5-flash-lite:batch",
-      "name": "Gemini 3.5 Flash Lite (batch)",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-3.5-flash-lite-20260721",
-      "created_at": "2026-07-21T15:12:06Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.15,
-      "price_out": 1.25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemini 3.5 Flash Lite is a high-efficiency model from Google with upgraded agentic capabilities. It is suited for subagents that execute focused tasks within complex, multi-agent workflows.",
-      "description_zh": "Gemini 3.5 Flash Lite是Google推出的一款高效模型，具有升级的代理能力。它适合在复杂的多代理工作流程中执行重点任务的子代理。"
-    },
-    {
-      "id": "meituan/longcat-2.0",
-      "name": "LongCat 2.0",
-      "vendor": "Meituan",
-      "vendor_slug": "meituan",
-      "url": "https://openrouter.ai/meituan/longcat-2.0-20260720",
-      "created_at": "2026-07-20T13:37:38Z",
-      "context_length": 1048756,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.3,
-      "price_out": 1.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "LongCat 2.0 is a sparse mixture-of-experts language model from Meituan, with 48B active parameters out of 1.6T total. It is suited for coding, repository-level changes, long-horizon problem solving, and agentic...",
-      "description_zh": "LongCat 2.0 是美团的稀疏专家混合语言模型，共有 1.6T 活跃参数，其中有 48B 个。它适用于编码、存储库级更改、长期问题解决和代理..."
-    },
-    {
-      "id": "thinkingmachines/inkling",
-      "name": "Inkling",
-      "vendor": "Thinkingmachines",
-      "vendor_slug": "thinkingmachines",
-      "url": "https://openrouter.ai/thinkingmachines/inkling-20260715",
-      "created_at": "2026-07-17T22:05:56Z",
-      "context_length": 1048576,
-      "modality": "text+image+audio->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1,
-      "price_out": 4.05,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Inkling is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 41B active parameters out of 975B total. It is designed for general-purpose reasoning, coding, agentic and tool-use systems,...",
-      "description_zh": "Inkling 是 Thinking Machines Lab 的开放权重多模态专家混合模型，共有 975B 个主动参数，其中包含 41B 个。它是为通用推理、编码、代理和工具使用系统而设计的，..."
     }
   ]
 }

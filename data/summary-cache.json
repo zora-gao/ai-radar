@@ -79785,5 +79785,68 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/weathernext-3": {
+    "title_clean": "WeatherNext 3：全球天气AI预测模型",
+    "summary": "WeatherNext 3是一款先进的全球天气AI预测模型，提供精准的天气预报服务。作为产品经理，可关注其在AI专业领域应用的技术突破，以及如何将专业AI模型转化为面向用户的服务产品。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chalked": {
+    "title_clean": "Chalked for Mac：AI工作上下文助手",
+    "summary": "Chalked是一款Mac平台AI助手工具，能够基于工作上下文生成回复，帮助用户更高效地处理工作相关沟通。该产品针对职场人士设计，通过理解工作背景提供更精准的回复建议，对元宝产品经理在AI助手场景化应用方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clockwork-5": {
+    "title_clean": "Clockwork：AI助手日程管理工具",
+    "summary": "Clockwork是一个AI助手日程管理平台，允许AI代理在用户的日历中执行任务和工作。这款产品为AI助手提供了结构化的工作环境，有助于提升AI代理的任务执行效率和用户管理体验，对元宝产品经理在AI助手工作流设计方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-03/trump-to-levy-more-chip-tariffs-to-boost-manufacturing-video": {
+    "title_clean": "特朗普拟加征芯片关税以促进美国制造业",
+    "summary": "特朗普政府正考虑对进口芯片征收新一轮关税，以吸引更多制造业回流美国。商务部长霍华德·卢特尼克表示，此举旨在通过提高进口成本，鼓励半导体企业在美国本土设厂生产。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026": {
+    "title_clean": "The Builders Stage：创业公司规模化策略分享",
+    "summary": "The Builders Stage 将在 TechCrunch Disrupt 2026 上回归，汇聚创始人、创业公司运营者和投资者，就创业公司建立与规模化所需的实用策略进行交流分享，为元宝产品团队提供创业公司成长路径的参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

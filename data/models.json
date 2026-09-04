@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T09:19:28.982Z",
+  "generated_at": "2026-09-04T14:04:28.702Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -28,7 +28,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Muse Spark 1.3 Contributor is the cost-efficient contributor tier of Meta’s multimodal reasoning model for experimentation, learning, and early-stage agentic, multi-agent, and coding workflows. It is designed to track information...",
-      "description_zh": null
+      "description_zh": "Muse Spark 1.3 Contributor 是 Meta 多模式推理模型的经济高效的贡献者层，用于实验、学习以及早期代理、多代理和编码工作流程。它旨在跟踪信息..."
     },
     {
       "id": "meta/muse-spark-1.3",
@@ -55,7 +55,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Muse Spark 1.3 is a multimodal reasoning model from Meta for long-running agentic, multi-agent, and coding workflows. It is designed to keep track of information across extended tasks, work through...",
-      "description_zh": null
+      "description_zh": "Muse Spark 1.3 是 Meta 的多模式推理模型，适用于长时间运行的代理、多代理和编码工作流程。它旨在跟踪扩展任务中的信息，通过..."
     },
     {
       "id": "google/gemini-3.8-flash",
@@ -82,7 +82,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Gemini 3.8 Flash is Google's most intelligent Flash model with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning.",
-      "description_zh": null
+      "description_zh": "Gemini 3.8 Flash 是 Google 最智能的 Flash 模型，在软件工程、代理任务和多步推理方面较 3.7 Flash 有了显着的进步。"
     },
     {
       "id": "google/gemini-3.8-flash:batch",
@@ -109,7 +109,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Gemini 3.8 Flash is Google's most intelligent Flash model with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning.",
-      "description_zh": null
+      "description_zh": "Gemini 3.8 Flash 是 Google 最智能的 Flash 模型，在软件工程、代理任务和多步推理方面较 3.7 Flash 有了显着的进步。"
     },
     {
       "id": "anthropic/claude-fable-5.1",
@@ -134,7 +134,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Claude Fable 5.1 improves on Claude Fable 5 across the board, with the biggest gains in agentic coding, long-running agentic workflows, and knowledge work: long code refactors, front-end and visual...",
-      "description_zh": null
+      "description_zh": "Claude Fable 5.1 在 Claude Fable 5 的基础上进行了全面改进，在代理编码、长时间运行的代理工作流程和知识工作方面取得了最大的进步：长代码重构、前端和可视化……"
     },
     {
       "id": "anthropic/claude-fable-5.1:batch",
@@ -159,7 +159,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Claude Fable 5.1 improves on Claude Fable 5 across the board, with the biggest gains in agentic coding, long-running agentic workflows, and knowledge work: long code refactors, front-end and visual...",
-      "description_zh": null
+      "description_zh": "Claude Fable 5.1 在 Claude Fable 5 的基础上进行了全面改进，在代理编码、长时间运行的代理工作流程和知识工作方面取得了最大的进步：长代码重构、前端和可视化……"
     },
     {
       "id": "inception/mercury-2.5-preview",
@@ -182,7 +182,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. Instead of generating tokens sequentially, Mercury 2.5 produces and refines multiple tokens in parallel, achieving...",
-      "description_zh": null
+      "description_zh": "Mercury 2.5 是最快的推理法学硕士，也是 Inception 最新的扩散法学硕士 (dLLM)。 Mercury 2.5 不是按顺序生成代币，而是并行生成和提炼多个代币，从而实现..."
     },
     {
       "id": "ibm-granite/granite-4.2-8b",
@@ -205,7 +205,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Granite 4.2 8B is a dense reasoning model from IBM. It is suited for mathematics, code generation, multilingual dialogue, and agentic workflows that need multi-step reasoning. It supports full, low-effort,...",
-      "description_zh": null
+      "description_zh": "Granite 4.2 8B 是 IBM 的密集推理模型。它适用于数学、代码生成、多语言对话和需要多步骤推理的代理工作流程。它支持完整、省力、..."
     },
     {
       "id": "tencent/hy4-preview",
@@ -228,7 +228,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Tencent: Hy4 preview is a mixture-of-experts model from Tencent, with 49B active parameters out of 770B total. It is designed for coding agents, complex tool-use workflows, and productivity tasks that...",
-      "description_zh": null
+      "description_zh": "腾讯：Hy4预览版是腾讯的专家混合模型，总共770B个活动参数，其中有49B个。它专为编码代理、复杂的工具使用工作流程和生产力任务而设计..."
     },
     {
       "id": "inclusionai/ling-3.0-flash-fin",
@@ -251,7 +251,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Ling 3.0 Flash Fin is a finance-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for real-world investment...",
-      "description_zh": null
+      "description_zh": "Ling 3.0 Flash Fin 是 InclusionAI 推出的专注于金融的专家混合模型，基于 Ling 3.0 Flash 构建，总共 124B 活跃参数中有 5.1B 个。它专为现实世界的投资而设计..."
     },
     {
       "id": "inclusionai/ling-3.0-flash-fin:free",
@@ -274,7 +274,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Ling 3.0 Flash Fin is a finance-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for real-world investment...",
-      "description_zh": null
+      "description_zh": "Ling 3.0 Flash Fin 是 InclusionAI 推出的专注于金融的专家混合模型，基于 Ling 3.0 Flash 构建，总共 124B 活跃参数中有 5.1B 个。它专为现实世界的投资而设计..."
     },
     {
       "id": "~z-ai/glm-flash-latest",
@@ -299,7 +299,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the GLM Flash family.",
-      "description_zh": null
+      "description_zh": "此模型始终重定向到 GLM Flash 系列中的最新模型。"
     },
     {
       "id": "qwen/qwen3.8-flash",
@@ -324,7 +324,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Qwen3.8 Flash is a multimodal reasoning model from Alibaba. It is suited for coding assistance, agentic workflows, visual understanding, document and codebase analysis, desktop interaction, chart analysis, and long-video analysis.",
-      "description_zh": null
+      "description_zh": "Qwen3.8 Flash是阿里巴巴的多模态推理模型。它适用于编码辅助、代理工作流程、视觉理解、文档和代码库分析、桌面交互、图表分析和长视频分析。"
     },
     {
       "id": "z-ai/glm-5.3-flash",
@@ -349,7 +349,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-context behavior while...",
-      "description_zh": null
+      "description_zh": "GLM-5.3-Flash 是 Z.ai 的原生多模式模型。它适合高效编码和长期代理任务。其混合稀疏和线性注意架构保持准确的长上下文行为，同时......"
     },
     {
       "id": "z-ai/glm-5.3-flash:batch",
@@ -374,7 +374,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-context behavior while...",
-      "description_zh": null
+      "description_zh": "GLM-5.3-Flash 是 Z.ai 的原生多模式模型。它适合高效编码和长期代理任务。其混合稀疏和线性注意架构保持准确的长上下文行为，同时......"
     },
     {
       "id": "meta/muse-spark-1.2-contributor",
@@ -419,8 +419,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.44,
-      "price_out": 1.32,
+      "price_in": 0.22,
+      "price_out": 0.66,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -517,7 +517,7 @@
       "supports_tools": false,
       "supports_reasoning": false,
       "description": "Hy-MT2-7B is a 7B-parameter translation model from Tencent. It supports 33 language pairs and five Chinese dialect and minority-language pairs, with workflows for structured, delimiter-based, contextual, glossary-based, and style-guided translation.",
-      "description_zh": null
+      "description_zh": "Hy-MT2-7B是腾讯推出的7B参数翻译模型。它支持 33 种语言对以及 5 种汉语方言和少数民族语言对，具有结构化、基于分隔符、上下文、基于术语表和风格引导的翻译工作流程。"
     },
     {
       "id": "z-ai/glm-5.3",

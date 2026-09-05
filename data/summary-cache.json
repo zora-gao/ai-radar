@@ -81320,5 +81320,115 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-space-air-technologies": {
+    "title_clean": "Space Air Technologies CEO访谈：市场定位与客户需求分析",
+    "summary": "Space Air Technologies CEO Mikko Punnala接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在市场中的定位。该访谈提供了企业级服务市场洞察，对元宝产品经理了解企业服务市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/UVuEwXoRTiqQilQ2OVSKkw": {
+    "title_clean": "GPT-6突破素数间隔纪录：北大校友加入OpenAI",
+    "summary": "GPT-6模型在数学领域取得突破，成功解决了素数间隔问题，由北大数学学院O7级校友加入OpenAI团队后实现。这一进展展示了AI在数学推理能力上的进步，对元宝产品经理评估AI模型在复杂问题解决和数学应用场景的能力有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-collimate-space": {
+    "title_clean": "ColliMate Space：CEO谈市场定位与客户需求",
+    "summary": "ColliMate Space CEO Guillermo Jenaro Rabadan接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在市场中的定位。这对元宝产品经理了解新兴AI公司的市场策略和客户洞察有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-04/how-ai-is-eroding-the-first-rung-of-the-tech-job-ladder-video": {
+    "title_clean": "AI正在侵蚀科技行业入门级就业岗位",
+    "summary": "美国信息行业8月减少了约23,000个工作岗位，这可能是AI重塑劳动力市场的又一信号。东北大学教授Alicia Modestino讨论了AI对初级技术职位的影响，这对元宝产品经理了解AI对就业市场的影响和潜在用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus": {
+    "title_clean": "AI生成菜单的同质化问题：顾客对AI菜单的感知障碍",
+    "summary": "文章探讨了餐厅使用生成式AI创建菜单时面临的问题，指出顾客能直观感受到AI生成菜单缺乏真实感和吸引力，揭示了AI在餐饮内容创作中的局限性，对元宝在服务场景中AI内容生成有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-03/planet-labs-eyes-data-center-monitoring-expansion-as-it-looks-beyond-defense": {
+    "title_clean": "Planet Labs：卫星数据中心监测服务拓展",
+    "summary": "Planet Labs正计划将其卫星成像服务扩展至数据中心监测领域，寻求在国防以外的市场扩张。该公司首席财务官确认了这一战略方向，表明卫星遥感技术在商业基础设施监控中的应用潜力。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/UZ2uTAeKEm42OzINndT8Hw": {
+    "title_clean": "VibeCoding：AI辅助3D编程工具",
+    "summary": "VibeCoding进入3D编程领域，获得OpenAI总裁关注。该工具可能利用AI技术简化3D编程流程，为开发者提供新型编程辅助方式，对元宝探索AI在专业编程领域的应用场景具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/gpt-6-astra": {
+    "title_clean": "GPT-6 Astra：新一代AI模型",
+    "summary": "OpenAI发布GPT-6 Astra，宣称是其迄今为止最智能且对齐的模型，在计算机使用、编程、网络安全和科学领域具备最先进的能力。这对产品经理了解AI模型能力演进方向和竞品技术突破具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-03/elite-public-high-schools-to-get-a-taste-of-trump-s-college-crusade": {
+    "title_clean": "精英公立高中将接受特朗普的大学招生改革审查",
+    "summary": "特朗普政府正在审查美国部分精英公立高中的招生政策，质疑其是否存在基于种族的歧视行为。这一政策动向可能影响元宝产品在教育和升学咨询场景中的服务策略，特别是针对少数族裔用户的AI辅导服务。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -81014,5 +81014,139 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/experiential-labs": {
+    "title_clean": "Experiential Labs：开源AI网关工具",
+    "summary": "Experiential Labs推出开源AI网关，能够将流量转化为更优的模型表现。这一工具可能帮助AI产品优化模型性能和资源分配，对元宝的产品架构和性能优化具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/at8pm": {
+    "title_clean": "at8pm：AI日记助手",
+    "summary": "at8pm是一款AI日记应用，帮助用户记录真实想法和感受。作为AI日记工具，它可能提供情感分析、记忆整理等功能，对元宝产品经理了解AI在个人记录和情感陪伴场景的应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/queuebrick": {
+    "title_clean": "Queuebrick：电影清单管理工具",
+    "summary": "Queuebrick 是 Letterboxd 的替代品，专注于电影清单管理功能。作为产品经理，可参考其如何构建垂直领域的电影社区与收藏管理功能，为元宝在特定场景下的内容组织与用户收藏功能提供设计思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hyperprobe": {
+    "title_clean": "Hyperprobe：AI生产环境调试工具",
+    "summary": "Hyperprobe是一款允许AI代理在生产环境中进行调试而无需重新部署的工具，解决了AI应用迭代过程中的关键痛点，为产品经理提供了提升AI系统稳定性和效率的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-05/jump-trading-expands-office-space-in-hong-kong-s-ifc-building": {
+    "title_clean": "Jump Trading扩展香港国际金融中心办公室",
+    "summary": "Jump Trading在香港国际金融中心扩展办公空间，这是全球交易公司扩大在香港业务布局的最新迹象。对产品经理而言，这反映了香港作为金融科技中心的吸引力，可能为AI交易助手或金融服务场景提供市场机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-04/swonk-august-jobs-report-shows-mixed-but-strong-signals-video": {
+    "title_clean": "Diane Swonk：美国8月就业报告显示劳动力市场信号强劲但复杂",
+    "summary": "KPMG首席经济学家Diane Swonk分析美国8月就业报告，显示就业岗位增长16.2万，超出预期，失业率稳定在4.1%。这一数据表明美国劳动力市场保持强劲但存在复杂信号，对AI助手产品经理了解经济环境与用户就业相关需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-04/ai-cloud-firm-nscale-seeking-3-5-billion-in-pre-ipo-financing": {
+    "title_clean": "AI云服务商Nscale寻求35亿美元Pre-IPO融资",
+    "summary": "AI云服务商Nscale计划在IPO前融资高达35亿美元，专注于人工智能云计算领域。这一融资动向反映了AI基础设施领域的资本热度，对元宝产品经理了解AI服务底层架构投资趋势和云服务提供商生态布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-04/what-to-expect-at-sept-9-apple-event-foldable-iphone-iphone-18-pro-watch": {
+    "title_clean": "苹果9月9日发布会：折叠屏iPhone、iPhone 18 Pro和Apple Watch新品",
+    "summary": "苹果将于9月9日举办新品发布会，预计推出折叠屏iPhone、iPhone 18 Pro系列新款以及Apple Watch新品。此次发布会可能还会展示触控屏MacBook，对元宝产品经理了解硬件与AI服务结合趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-03/zumba-ceo-on-company-growth-over-the-last-25-years-video": {
+    "title_clean": "Zumba CEO：健身行业25年发展与AI应用",
+    "summary": "Zumba CEO Alberto Perlman在访谈中分享了健身行业25年的发展历程，重点讨论了AI技术如何改变健身业务，以及舞蹈健身的未来发展方向。对元宝产品经理了解AI在垂直健身场景的应用价值有参考意义。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race": {
+    "title_clean": "Ollie：注重隐私的家庭AI助手",
+    "summary": "Ollie是一款面向家庭的AI助手，它需要访问用户日常生活数据，但承诺不会使用这些数据训练AI模型或与他人共享。这种隐私保护策略可能成为其在AI助手市场竞争中的差异化优势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-03/senate-considers-allowing-contractors-to-conduct-military-hacks": {
+    "title_clean": "美国参议院考虑允许承包商为军方进行计算机 hacking",
+    "summary": "美国参议院正在审议一项国防法案，允许承包商在政府批准的情况下执行军事黑客行动，这将是国会首次明确授权此类私人军事网络行动。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

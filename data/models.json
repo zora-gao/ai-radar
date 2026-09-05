@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T03:01:00.959Z",
+  "generated_at": "2026-09-05T08:37:18.276Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -124,6 +124,31 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Ling 3.0 Flash Sante is a health and medicine-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for...",
+      "description_zh": null
+    },
+    {
+      "id": "qwen/qwen3.8-max-0902",
+      "name": "Qwen3.8 Max (0902)",
+      "vendor": "Qwen",
+      "vendor_slug": "qwen",
+      "url": "https://openrouter.ai/qwen/qwen3.8-max-20260902",
+      "created_at": "2026-09-03T21:08:24Z",
+      "context_length": 1000000,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 6,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Qwen3.8 Max 0902 is an updated snapshot of Qwen3.8 Max from Alibaba's Qwen team. It is a 2.4-trillion-parameter mixture-of-experts model that accepts text, image, and video input and returns text,...",
       "description_zh": null
     },
     {
@@ -1126,31 +1151,6 @@
       "supports_reasoning": true,
       "description": "Muse Spark 1.2 is a reasoning model from Meta, designed for complex agentic tasks. It accepts text, images, video, audio, and PDF documents, returns text, and offers a 1M-token context...",
       "description_zh": "Muse Spark 1.2 是 Meta 的推理模型，专为复杂的代理任务而设计。它接受文本、图像、视频、音频和 PDF 文档，返回文本，并提供 1M 代币上下文..."
-    },
-    {
-      "id": "qwen/qwen3.8-max",
-      "name": "Qwen3.8 Max",
-      "vendor": "Qwen",
-      "vendor_slug": "qwen",
-      "url": "https://openrouter.ai/qwen/qwen3.8-max-20260803",
-      "created_at": "2026-08-03T04:33:32Z",
-      "context_length": 1000000,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Qwen3.8 Max is the flagship model in Alibaba's Qwen3.8 series, the general-availability successor to the Qwen3.8 Max Preview. It is a multimodal reasoning model intended for complex reasoning, visual understanding,...",
-      "description_zh": "Qwen3.8 Max是阿里巴巴Qwen3.8系列的旗舰机型，是Qwen3.8 Max预览版的全面上市后继产品。它是一个多模态推理模型，旨在用于复杂推理、视觉理解……"
     },
     {
       "id": "~deepseek/deepseek-v4-flash-latest",

@@ -81233,5 +81233,92 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-05/apple-bets-on-foldable-iphone-under-new-ceo-video": {
+    "title_clean": "苹果新CEO将推出折叠屏iPhone",
+    "summary": "苹果新任CEO John Ternus将在9月9日的首次重大产品发布会上推出折叠屏iPhone，这标志着苹果在可折叠设备领域的重要布局，对元宝产品经理了解科技巨头在硬件创新方向上的战略转变具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india": {
+    "title_clean": "TCS：印度南部规划一吉瓦容量AI数据中心",
+    "summary": "塔塔咨询服务公司宣布其HyperVault部门与合作伙伴将投资7000亿卢比，在印度南部建设大规模人工智能数据中心园区，总容量达一吉瓦，显示AI基础设施建设的重大投资动向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ponytail": {
+    "title_clean": "Ponytail：代码优化工具",
+    "summary": "Ponytail是一款代码优化工具，致力于帮助开发者减少新代码的编写，通过优化现有代码来提高效率。这款工具对产品经理有参考价值，因为它可能启发AI在代码维护和优化方面的应用场景，特别是在减少重复工作和提高代码质量方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-04/apple-ternus-trae-record-de-lanzamientos-tras-salida-de-tim-cook": {
+    "title_clean": "Apple：iPhone折叠屏与触控MacBook新品发布",
+    "summary": "苹果计划9月9日及之后推出多款新品，包括折叠屏iPhone和触控屏MacBook，这是蒂姆·库克时代以来最多的一次产品发布，对AI助手与硬件结合的产品经理有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack": {
+    "title_clean": "苹果进入Ternus时代，Nvidia押注全栈AI",
+    "summary": "苹果公司正式进入Ternus时代，CEO蒂姆·库克卸任，由前硬件主管约翰·特纳斯接任。特纳斯在首份备忘录中承诺下周将推出\"重大产品\"，同时Nvidia正押注全栈AI战略。这对元宝产品经理有参考价值，反映了科技巨头在AI领域的战略布局变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-03/altman-need-to-do-better-job-communicating-ai-benefits-video": {
+    "title_clean": "Sam Altman：科技行业未能有效传达AI价值",
+    "summary": "OpenAI CEO Sam Altman在Bloomberg采访中表示，科技行业在传达AI技术益处方面做得非常糟糕。这一观点对产品经理有重要参考价值，提示在AI产品推广中需更注重用户价值传达和沟通策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/legora-financial-statement-review-with-astra": {
+    "title_clean": "Legora：利用GPT-6 Astra快速文档审查工具",
+    "summary": "Legora利用GPT-6 Astra在几分钟内审查了41份文档，找出所有植入的错误，并在财务审查工作流程中将性能提高了近40%。这展示了AI在文档处理和财务审查场景中的高效应用，为元宝产品经理提供了AI辅助文档处理的参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

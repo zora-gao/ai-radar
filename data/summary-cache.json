@@ -81578,5 +81578,54 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/hrhRIf_A78ZioD5AfV3JPQ": {
+    "title_clean": "高通技术副总裁：图像生成的可控性到底卡在了哪里?",
+    "summary": "高通技术副总裁探讨当前图像生成技术中可控性面临的挑战，分析技术瓶颈及可能的解决方案，对AI多模态交互和图像生成产品开发具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-04/ayako-yoshioka-on-tech-s-impact-on-inflation-and-prices-video": {
+    "title_clean": "Ayako Yoshioka 探讨科技对通胀和价格的影响",
+    "summary": "Wealth Enhancement Group 高级投资策略师 Ayako Yoshioka 探讨科技在通胀前景中的作用，围绕技术是否影响价格展开讨论。此资讯对元宝产品经理了解经济环境变化可能影响用户消费行为和AI服务需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft": {
+    "title_clean": "Seattle Times和Newsday起诉OpenAI和Microsoft：新闻机构控诉AI训练使用其内容",
+    "summary": "两家新闻机构Seattle Times和Newsday加入对OpenAI和Microsoft的诉讼，指控其未经许可使用新闻内容训练AI模型。这反映了新闻行业对AI训练数据版权问题的集体维权行动，对元宝产品经理在内容获取和版权合规方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/dFP9I7XO6VwtM_qPo3Cvgg": {
+    "title_clean": "AlayaLab：为AGI构建下一代游戏工程",
+    "summary": "AlayaLab专注于为通用人工智能(AGI)构建下一代游戏工程解决方案，可能涉及AI在游戏开发、交互或虚拟环境中的应用。这对元宝产品经理有参考价值，尤其是关注AI在游戏化场景、虚拟交互或AGI工程化落地的方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

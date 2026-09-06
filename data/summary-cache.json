@@ -81627,5 +81627,30 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/fal-ai": {
+    "title_clean": "H3 Max by fal：高质量视频生成模型",
+    "summary": "fal推出H3 Max模型，这是基于MiniMax H3的后训练版本，专注于高质量视频生成。该模型为AI视频创作领域提供了新的技术选择，对元宝产品经理在视频生成和多模态AI服务方向具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/speakeasydev": {
+    "title_clean": "Kit by Speakeasy：AI代码代理运行时工具",
+    "summary": "Kit是一款AI代码代理运行时工具，定位为Claude的替代品，强调速度快、成本低、输出简洁。作为AI Agent类产品，它专注于代码执行场景，对元宝产品经理在AI Agent性能优化和成本控制方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

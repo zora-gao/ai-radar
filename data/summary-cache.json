@@ -81843,5 +81843,54 @@
     "type": "news",
     "channels": null,
     "v": 4
+  },
+  "https://www.producthunt.com/products/assist-4": {
+    "title_clean": "Assist：Mac语音标注与截图管理工具",
+    "summary": "Assist是一款Mac平台工具，支持语音标注功能，并能提供截图管理和剪贴板管理功能。产品经理可关注其语音交互设计思路和跨应用数据管理方案，为元宝的多模态交互和场景化服务提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/remind-7": {
+    "title_clean": "Remind：AI会议全屏提醒工具",
+    "summary": "Remind是一款会议提醒工具，提供全屏提醒功能并附带AI简报，帮助用户在会议前快速获取关键信息。产品经理可参考其AI辅助会议场景的设计思路，以及如何通过简洁的全屏交互提升会议效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clipnote-2": {
+    "title_clean": "Clipnote：AI对话保存工具",
+    "summary": "Clipnote是一款保存AI对话的工具，使用户在关闭浏览器标签页后仍能保留对话内容。该产品解决了AI对话临时性的痛点，为产品经理提供了关于用户数据持久化需求的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-07/zeiss-overhauls-sap-cloud-migration-after-costs-hit-200-million": {
+    "title_clean": "蔡司集团：SAP云迁移项目成本超2亿欧元后重新规划",
+    "summary": "德国蔡司集团在SAP云迁移项目成本飙升至2亿欧元后，重新规划了云迁移方案。作为全球半导体行业关键供应商，此次大规模IT系统迁移的成本超支问题对大型企业云转型决策具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

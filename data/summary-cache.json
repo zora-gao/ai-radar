@@ -81967,5 +81967,91 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/2AUEhxMflRoXkhAYJmZTHA": {
+    "title_clean": "芝诺机器人：全球首个协作机器人基础模型",
+    "summary": "芝诺机器人发布了全球首个协作机器人基础模型，标志着机器人基础模型进入协作时代。这一突破性进展为AI助手与物理世界的协作提供了新思路，对元宝产品经理探索AI助手与物理世界交互场景具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/6vfgiKelrm5IxWujwNiHew": {
+    "title_clean": "LLaDA：全扩散架构文生图模型",
+    "summary": "LLaDA采用全扩散架构，无需图文对预训练，在开源文生图领域表现优异。这一技术突破可能降低AI图像生成的训练成本，为元宝在多模态内容生成方面提供技术参考，特别是减少对大量标注数据的依赖。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models": {
+    "title_clean": "字节跳动创始人加入AI精英团队竞逐世界模型",
+    "summary": "字节跳动正准备推出面向实时空间视频生成的AI模型，与Meta和Alphabet在机器人及自主系统应用领域展开竞争。这标志着字节跳动在AI空间计算领域的战略布局，对元宝产品经理了解科技巨头在空间AI领域的竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-07/japan-s-preferred-networks-seeks-ipo-to-keep-up-in-ai-chip-race": {
+    "title_clean": "日本Preferred Networks寻求IPO以加速AI芯片量产",
+    "summary": "日本初创公司Preferred Networks寻求上市融资，以大规模生产其AI芯片，反映出在全球AI竞赛中保持竞争力所需的成本和规模正在急剧上升。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning": {
+    "title_clean": "马来西亚考虑采用华为AI芯片推进主权AI项目",
+    "summary": "马来西亚倾向于使用华为的人工智能芯片来支持其主权AI项目，这将成为中国AI技术在美国警告背景下取得的重要胜利。该决策反映了地缘政治对AI供应链的影响，以及各国在AI技术自主性方面的战略考量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-07/horizons-middle-east-africa-9-7-2026-video": {
+    "title_clean": "Horizons Middle East & Africa：中东非洲市场每日分析",
+    "summary": "Horizons Middle East & Africa 是一个专注于中东和非洲这一全球增长最快地区的每日市场分析节目。该节目从迪拜直播，提供全球市场最新动态、深度分析以及重要人物访谈，为产品经理了解新兴市场动态提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-07/deadly-amazon-cargo-plane-crash-overshoots-miami-runway-video": {
+    "title_clean": "亚马逊货运飞机在迈阿密机场冲出跑道致5人死亡",
+    "summary": "亚马逊货运飞机在迈阿密国际机场冲出跑道，造成至少5人死亡，并在劳动节旅游旺季期间临时关闭机场跑道。这一事件对元宝产品经理的参考价值在于物流安全与AI服务场景的结合考量，特别是在涉及高风险操作场景时的AI辅助决策与安全监控应用。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -81796,5 +81796,31 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/NuNIJQkvrjHDfe9gi8l3mQ": {
+    "title_clean": "无代码工具助力非技术人员开发百万用户产品",
+    "summary": "该资讯报道了非技术人员通过无代码工具在B站成功开发出拥有百万用户的产品案例，展示了低代码/无代码平台降低开发门槛的价值，对元宝产品经理思考如何降低AI应用开发门槛、拓展非技术用户群体具有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-06/goldman-backed-taxi-app-says-ridership-good-despite-fare-hikes": {
+    "title_clean": "Gold-Backed打车应用：提价后仍保持强劲用户增长",
+    "summary": "Go Inc.是日本今年最大IPO的打车应用运营商，尽管已提高车费，但仍维持强劲的搭乘量。这表明在特定市场，用户对打车服务的需求可能对价格敏感度较低，为元宝在定价策略和用户留存方面提供了参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

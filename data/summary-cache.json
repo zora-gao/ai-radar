@@ -81892,5 +81892,30 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/tucky": {
+    "title_clean": "Tucky：屏幕边缘AI笔记助手",
+    "summary": "Tucky是一款将笔记停靠在屏幕边缘的应用，内置AI助手功能，允许用户在不切换应用的情况下获取AI辅助。这种设计可能为元宝提供新的交互思路，特别是关于如何将AI能力无缝集成到用户工作流中。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-07/us-tech-firms-eye-australia-for-ai-centers-local-operator-says": {
+    "title_clean": "美国科技巨头计划在澳大利亚建立AI数据中心",
+    "summary": "美国科技巨头正考虑在澳大利亚建设数据中心，被其绿色电网和接近亚洲的地理位置所吸引。这一趋势反映了美国科技公司在面临国内日益增长的反对声浪时，寻求海外布局AI基础设施的战略调整，对元宝产品经理了解全球AI基础设施布局和区域策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

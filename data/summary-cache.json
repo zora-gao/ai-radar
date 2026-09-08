@@ -82125,5 +82125,106 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/trancy-air": {
+    "title_clean": "Trancy Air：一键实时翻译工具",
+    "summary": "Trancy Air是一款支持一键翻译所见、所写或所说内容的工具，通过热键触发，提供实时翻译功能。产品经理可关注其简洁交互设计对多语言场景的解决方案，启发元宝在跨语言服务场景的应用思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/catenary": {
+    "title_clean": "Catenary：AI编程代理空间画布IDE",
+    "summary": "Catenary是一款专为AI编程代理设计的空间画布集成开发环境，提供可视化编程界面，帮助AI代理更高效地编写和调试代码。产品经理可关注其如何将AI代理与IDE结合，提升编程效率与用户体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/minicpm-4-0": {
+    "title_clean": "MiniCPM5-2B：轻量级设备端AI模型",
+    "summary": "MiniCPM5-2B是一款专为设备端部署设计的轻量级AI模型，强调在小型设备上运行的能力。这款模型展示了AI向边缘计算发展的趋势，对元宝产品经理在移动端AI应用和轻量化模型部署方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tables-so": {
+    "title_clean": "Tables.so：AI客户发现与筛选工具",
+    "summary": "Tables.so是一款AI工具，能够帮助企业发现、筛选并丰富潜在客户信息。该产品专注于销售和营销领域，通过AI技术自动识别和验证潜在客户，为销售团队提供高质量的客户线索，对元宝在B2B场景下的AI应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pastea": {
+    "title_clean": "Pastea：链接与内容片段管理工具",
+    "summary": "Pastea是一款帮助用户保存、搜索和管理复制的链接、文本片段和截图的工具。产品经理可参考其内容管理功能设计，为AI助手增加信息收集与整理能力，提升用户工作效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/unite-for-macos": {
+    "title_clean": "Coherence X6 for macOS：网站转Mac应用工具",
+    "summary": "Coherence X6是一款macOS工具，可将网站转换为基于浏览器的Mac原生应用，为用户提供更便捷的桌面访问体验。产品经理可参考其轻量化应用封装方案，探索元宝如何将网页服务转化为桌面应用的可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tapcraft-launch-videos-for-mobile-devs": {
+    "title_clean": "TapCraft：移动应用演示工作室",
+    "summary": "TapCraft是一款专为移动应用设计的演示工作室工具，帮助开发者创建应用演示和原型。产品经理可参考其交互设计和演示方式，优化元宝的产品展示和用户体验设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-runway-hits-200-million-in-annual-recurring-revenue": {
+    "title_clean": "Runway AI：AI图像视频生成工具",
+    "summary": "Runway AI公司年经常性收入达到2亿美元，表明企业对其图像和视频生成软件的需求增长，主要用于制作营销材料。这一数据反映了AI生成内容工具的商业化进展和市场认可度，对元宝产品经理评估AI内容生成类产品的商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

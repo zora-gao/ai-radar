@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-09-08T14:36:55.779Z",
+  "generated_at": "2026-09-08T19:44:35.386Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "inception/mercury-2.5",
+      "name": "Mercury 2.5",
+      "vendor": "Inception",
+      "vendor_slug": "inception",
+      "url": "https://openrouter.ai/inception/mercury-2.5-20260908",
+      "created_at": "2026-09-08T18:28:57Z",
+      "context_length": 260000,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.04,
+      "price_out": 0.15,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. Instead of generating tokens sequentially, Mercury 2.5 produces and refines multiple tokens in parallel, achieving...",
+      "description_zh": "Mercury 2.5 是最快的推理法学硕士，也是 Inception 最新的扩散法学硕士 (dLLM)。 Mercury 2.5 不是按顺序生成代币，而是并行生成和提炼多个代币，从而实现..."
+    },
+    {
+      "id": "nex-agi/nex-n2.5-mini:free",
+      "name": "Nex-N2.5-Mini (free)",
+      "vendor": "Nex Agi",
+      "vendor_slug": "nex-agi",
+      "url": "https://openrouter.ai/nex-agi/nex-n2.5-mini-20260908",
+      "created_at": "2026-09-08T17:54:21Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
+      "description_zh": null
+    },
+    {
+      "id": "nex-agi/nex-n2.5-pro:free",
+      "name": "Nex-N2.5-Pro (free)",
+      "vendor": "Nex Agi",
+      "vendor_slug": "nex-agi",
+      "url": "https://openrouter.ai/nex-agi/nex-n2.5-pro-20260907",
+      "created_at": "2026-09-08T17:54:10Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
+      "description_zh": null
+    },
     {
       "id": "openai/gpt-6-astra",
       "name": "GPT-6 Astra",
@@ -310,29 +380,6 @@
       "description_zh": "Claude Fable 5.1 在 Claude Fable 5 的基础上进行了全面改进，在代理编码、长时间运行的代理工作流程和知识工作方面取得了最大的进步：长代码重构、前端和可视化……"
     },
     {
-      "id": "inception/mercury-2.5-preview",
-      "name": "Mercury 2.5 Preview",
-      "vendor": "Inception",
-      "vendor_slug": "inception",
-      "url": "https://openrouter.ai/inception/mercury-2.5-preview-20260831",
-      "created_at": "2026-08-31T20:57:44Z",
-      "context_length": 260000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.04,
-      "price_out": 0.15,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. Instead of generating tokens sequentially, Mercury 2.5 produces and refines multiple tokens in parallel, achieving...",
-      "description_zh": "Mercury 2.5 是最快的推理法学硕士，也是 Inception 最新的扩散法学硕士 (dLLM)。 Mercury 2.5 不是按顺序生成代币，而是并行生成和提炼多个代币，从而实现..."
-    },
-    {
       "id": "ibm-granite/granite-4.2-8b",
       "name": "Granite 4.2 8B",
       "vendor": "Ibm Granite",
@@ -441,8 +488,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.071,
-      "price_out": 0.238,
+      "price_in": 0.075,
+      "price_out": 0.25,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -506,7 +553,7 @@
       "vendor_slug": "z-ai",
       "url": "https://openrouter.ai/z-ai/glm-5.3-flash-20260826",
       "created_at": "2026-08-26T13:59:01Z",
-      "context_length": 1048575,
+      "context_length": 1048576,
       "modality": "text+image+video->text",
       "input_modalities": [
         "text",
@@ -516,8 +563,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.5,
+      "price_in": 0.075,
+      "price_out": 0.25,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -569,6 +616,30 @@
       ],
       "price_in": 0.22,
       "price_out": 0.66,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "DeepSeek V4 Flash Vision Exp is an experimental vision-enabled version of DeepSeek V4 Flash 0731 from DeepSeek, adding image understanding while matching the base model on text capabilities including agents,...",
+      "description_zh": "DeepSeek V4 Flash Vision Exp 是来自 DeepSeek 的 DeepSeek V4 Flash 0731 的实验性视觉版本，增加了图像理解，同时匹配文本功能的基本模型，包括代理、..."
+    },
+    {
+      "id": "deepseek/deepseek-v4-flash-vision-exp:batch",
+      "name": "DeepSeek V4 Flash Vision Exp (batch)",
+      "vendor": "DeepSeek",
+      "vendor_slug": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp-20260821",
+      "created_at": "2026-08-21T11:26:03Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.11,
+      "price_out": 0.33,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -684,6 +755,29 @@
       ],
       "price_in": 1.4,
       "price_out": 4.4,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GLM-5.3 is a large-scale reasoning model from Z.ai, built for complex software engineering and long-horizon agent tasks. It supports text input and output with a 1M-token context window, and improves...",
+      "description_zh": "GLM-5.3 是 Z.ai 的大规模推理模型，专为复杂的软件工程和长期代理任务而构建。它支持带有 1M-token 上下文窗口的文本输入和输出，并改进..."
+    },
+    {
+      "id": "z-ai/glm-5.3:batch",
+      "name": "GLM 5.3 (batch)",
+      "vendor": "Zhipu AI",
+      "vendor_slug": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-20260816",
+      "created_at": "2026-08-18T20:57:35Z",
+      "context_length": 1048576,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.7,
+      "price_out": 2.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -904,8 +998,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.66,
-      "price_out": 1.98,
+      "price_in": 0.579,
+      "price_out": 1.738,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -927,8 +1021,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.32,
-      "price_out": 3.96,
+      "price_in": 0.66,
+      "price_out": 1.98,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1117,8 +1211,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.35,
-      "price_out": 1.5,
+      "price_in": 0.175,
+      "price_out": 0.75,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1213,8 +1307,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.14,
-      "price_out": 0.28,
+      "price_in": 0.11,
+      "price_out": 0.33,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1370,102 +1464,6 @@
       "supports_reasoning": true,
       "description": "Claude Opus 5 is Anthropic’s flagship model for demanding reasoning, coding, and long-horizon agentic work. It is particularly strong at end-to-end software tasks, code review and bug finding, visual analysis...",
       "description_zh": "Claude Opus 5 是 Anthropic 的旗舰模型，适用于要求较高的推理、编码和长期代理工作。它在端到端软件任务、代码审查和错误查找、可视化分析方面尤其强大......"
-    },
-    {
-      "id": "inclusionai/ling-3.0-flash",
-      "name": "Ling 3.0 Flash",
-      "vendor": "Inclusionai",
-      "vendor_slug": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-20260723",
-      "created_at": "2026-07-23T14:56:20Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.021,
-      "price_out": 0.063,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Ling-3.0-flash is a 124B-parameter Mixture-of-Experts (MoE) model , with approximately 5.1B parameters activated per token . The model is designed with token efficiency and production-scale agentic inference as key priorities, enabling developers...",
-      "description_zh": "Ling-3.0-flash 是一个 124B 参数的专家混合 (MoE) 模型，每个代币激活大约 5.1B 个参数。该模型的设计以代币效率和生产规模代理推理为关键优先事项，使开发人员能够..."
-    },
-    {
-      "id": "poolside/laguna-s-2.1",
-      "name": "Laguna S 2.1",
-      "vendor": "Poolside",
-      "vendor_slug": "poolside",
-      "url": "https://openrouter.ai/poolside/laguna-s-2.1-20260720",
-      "created_at": "2026-07-21T16:51:23Z",
-      "context_length": 1048576,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.09,
-      "price_out": 0.18,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Laguna S 2.1 is the latest coding agent model from Poolside. Laguna S 2.1 is a 118B total parameter model with 8B active parameters, scoring 70.2% on Terminal-Bench 2.1 and...",
-      "description_zh": "Laguna S 2.1 是 Poolside 最新的编码代理模型。 Laguna S 2.1 是一个 118B 总参数模型，其中有 8B 个活动参数，在 Terminal-Bench 2.1 上得分 70.2%，..."
-    },
-    {
-      "id": "poolside/laguna-s-2.1:free",
-      "name": "Laguna S 2.1 (free)",
-      "vendor": "Poolside",
-      "vendor_slug": "poolside",
-      "url": "https://openrouter.ai/poolside/laguna-s-2.1-20260720",
-      "created_at": "2026-07-21T16:51:23Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Laguna S 2.1 is the latest coding agent model from Poolside. Laguna S 2.1 is a 118B total parameter model with 8B active parameters, scoring 70.2% on Terminal-Bench 2.1 and...",
-      "description_zh": "Laguna S 2.1 是 Poolside 最新的编码代理模型。 Laguna S 2.1 是一个 118B 总参数模型，其中有 8B 个活动参数，在 Terminal-Bench 2.1 上得分 70.2%，..."
-    },
-    {
-      "id": "google/gemini-3.6-flash",
-      "name": "Gemini 3.6 Flash",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-3.6-flash-20260721",
-      "created_at": "2026-07-21T15:12:13Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.75,
-      "price_out": 3.75,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemini 3.6 Flash is a high-efficiency model from Google for coding, agentic workflows, and web and app development. It is designed to produce polished outputs with fewer unnecessary edits and...",
-      "description_zh": "Gemini 3.6 Flash 是 Google 的一个高效模型，用于编码、代理工作流程以及 Web 和应用程序开发。它旨在产生精美的输出，减少不必要的编辑和..."
     }
   ]
 }

@@ -82053,5 +82053,51 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing": {
+    "title_clean": "Longsys：电子元件制造商香港上市融资9亿美元",
+    "summary": "深圳朗科电子在香港上市首日股价持平，通过增发股票筹集了7.08亿港元（9.03亿美元）。此次上市测试了投资者对电子元件行业的信心，对元宝产品经理了解硬件供应链企业融资动态有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-07/australia-s-web-of-pacific-alliances-set-to-expand-to-solomons": {
+    "title_clean": "澳大利亚与所罗门群岛扩大太平洋联盟",
+    "summary": "澳大利亚正与所罗门群岛敲定一项条约，已达成\"原则上\"的协议，这将扩大澳大利亚在太平洋地区的联盟网络。这一地缘政治发展可能影响区域安全格局，对产品经理了解国际关系变化如何影响全球业务布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-07/top-indian-banks-buy-state-power-lender-rec-s-tokenized-bond": {
+    "title_clean": "印度顶级银行购买REC的代币化债券",
+    "summary": "印度顶级银行HDFC和ICICI购买了国有REC公司发行的印度首代币化债券，显示金融机构对区块链技术在债券发行中的应用兴趣增加，这对元宝产品经理了解区块链在金融服务的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-07/preferred-networks-ceo-eyes-ipo-amid-ai-chip-race-video": {
+    "title_clean": "Preferred Networks寻求IPO以加速AI芯片量产",
+    "summary": "日本创业公司Preferred Networks计划通过上市筹集资金，以大规模生产其AI芯片。CEO大野原大介表示，此举反映了全球AI竞赛中日益增长的成本和规模需求，表明AI硬件领域正迎来资本密集型竞争阶段。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

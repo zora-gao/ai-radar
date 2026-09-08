@@ -82866,5 +82866,239 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/zwwX7mQFWteJh3jokLoLxA": {
+    "title_clean": "DeepSeekV4.1开启测试",
+    "summary": "DeepSeekV4.1模型已开启测试，这是DeepSeek的最新版本更新。作为国内重要的AI大模型，其新版本可能带来性能提升或功能优化，对产品经理了解国内AI模型发展动态和竞品迭代具有参考价值。",
+    "score": 70,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/RuCNxtwS1s_UDQKTQQpRlg": {
+    "title_clean": "Agent长时工作如何不跑偏？WorkSwarm用「永续会话」给出解法",
+    "summary": "WorkSwarm提出「永续会话」解决方案，解决AI Agent在长时工作中容易偏离目标的问题。该方案通过持续对话机制保持Agent任务连贯性，对元宝产品经理设计持久性Agent功能具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/good-lads-1-0": {
+    "title_clean": "GoodLads：Google Ads AI增长管理工具",
+    "summary": "GoodLads是一款专为Google Ads账户设计的AI增长管理工具，通过人工智能技术帮助用户优化广告投放效果，提升广告账户的ROI和增长表现，为广告主提供智能化的广告管理解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/kroll-ceo-borrower-quality-on-new-deals-remain-firm-video": {
+    "title_clean": "Kroll CEO：新借款人质量保持稳定",
+    "summary": "Kroll首席执行官Jacob Silverman讨论了私人市场的现状，指出4-5月份的对话曾关注该领域的担忧和成长阵痛。此次他强调新交易中的借款人质量依然稳固，这对评估金融风险和信贷市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/cisco-president-on-defending-against-ai-attacks-video": {
+    "title_clean": "思科总裁谈防御AI攻击",
+    "summary": "思科总裁兼产品官Jeetu Patel讨论思科、OpenAI、Anthropic等公司签署的公开信，警告AI驱动的网络攻击可能变得更加普遍，这对AI安全防护和产品安全策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/bloomberg-crypto-9-8-2026-video": {
+    "title_clean": "Bloomberg Crypto：加密货币市场动态与争议",
+    "summary": "Bloomberg Crypto节目聚焦去中心化金融领域，今日嘉宾包括AVA Labs链上金融副总裁和BitGo联合创始人，讨论比特币安全事件、AMC与Robinhood争议等市场热点，为加密货币市场参与者提供行业洞察。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-huscarl": {
+    "title_clean": "CEO Interview: Huscarl",
+    "summary": "Huscarl公司CEO Alexandre Musy接受CB Insights采访，分享了对市场定位、客户需求的看法以及公司战略。作为一家AI相关企业，其市场观点和产品方向对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/how-binance-keeps-doing-business-without-license-video": {
+    "title_clean": "Binance：欧洲无牌照运营业务模式",
+    "summary": "Binance在欧洲未获得牌照的情况下仍持续开展业务，该公司通过特定策略维持在欧洲市场的运营。这一案例对元宝产品经理了解跨境业务合规策略、监管规避方法及全球化服务模式具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/apple-to-unveil-first-foldable-phone-video": {
+    "title_clean": "苹果将推出首款折叠屏手机",
+    "summary": "据彭博社报道，苹果公司计划本周发布其首款折叠屏手机，这款产品在蒂姆·库克参观类似产品后已酝酿多年。这一消息对元宝产品经理具有重要参考价值，表明苹果正在拓展硬件形态，可能影响AI助手在移动设备上的交互方式和场景拓展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-stoik": {
+    "title_clean": "Executive Interview: Stoïk：AI企业服务市场定位与客户需求访谈",
+    "summary": "Stoïk营销负责人Arthur Chen接受CB Insights访谈，分享其市场定位、客户需求认知及公司战略。作为AI企业服务提供商，Stoïk的见解对元宝了解企业级AI服务市场定位与客户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/amc-robinhood-ceos-feud-over-tokenization": {
+    "title_clean": "AMC与Robinhood CEO就代币化问题公开争执",
+    "summary": "AMC CEO Adam Aron与Robinhood CEO Vlad Tenev就代币化问题发生公开争执，起因是发现了一个以AMC剧院为名的代币。这一事件反映了传统企业与加密平台在代币化领域的利益冲突，对元宝产品经理了解Web3应用场景和企业合作模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/codex-quantum-computing-experiments": {
+    "title_clean": "GPT-5.6 Sol：AI辅助量子计算实验工具",
+    "summary": "MIT研究员利用GPT-5.6 Sol与Codex实现量子计算实验的自主运行、结果分析和量子比特校准。这一应用展示了AI在复杂科学实验中的自动化能力，为AI助手在专业领域的应用提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/uk-to-force-apple-google-to-block-nude-images-on-kids-devices": {
+    "title_clean": "英国将强制苹果谷歌屏蔽儿童设备上的裸露图像",
+    "summary": "英国政府将要求苹果和谷歌等科技公司在儿童设备上阻止拍摄、分享或查看裸露图像，文化部长Lisa Nandy宣布了这一监管措施。这反映了针对儿童在线内容保护的强化趋势，对AI助手的内容安全机制设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/navier-stokes-solution": {
+    "title_clean": "AI 解决纳维-斯托克斯千年难题",
+    "summary": "研究人员分享了使用AI生成的纳维-斯托克斯千年奖问题解决方案，包含详细说明和Lean形式化证明。这一突破性进展展示了AI在解决复杂数学问题上的潜力，可能对AI推理和形式化验证能力的发展有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/circles-group-is-spinning-off-digital-software-services-platform": {
+    "title_clean": "Circles Group：电信运营商数字软件服务平台分拆",
+    "summary": "新加坡Circles Group将向电信运营商提供数字软件服务的业务分拆独立运营。这一分拆反映了电信行业对专业化数字服务解决方案的需求增长，为元宝产品经理提供了在电信垂直领域AI服务商业化机会的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/1password": {
+    "title_clean": "1Password：Codex提升工程效率21%",
+    "summary": "1Password使用Codex工具快速构建新功能和内部工具，在保持严格安全政策的同时达到生产就绪状态，提升了21%的工程生产力。这对产品经理了解AI工具如何提升开发效率和安全合规有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition": {
+    "title_clean": "Anthropic 放弃60亿美元收购 Decart AI",
+    "summary": "Anthropic 决定不再收购人工智能初创公司 Decart AI。这一决策表明大型AI公司在并购策略上的谨慎态度，对元宝产品经理评估行业整合趋势和潜在合作伙伴价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-07/how-the-ai-roi-gap-comes-down-to-trust-video": {
+    "title_clean": "How the AI ROI Gap Comes Down to Trust：AI投资回报率与信任关系研究",
+    "summary": "SAS最新研究显示，采用可信AI实践的企业更有可能获得强技术回报，但信任仍是障碍：97%的用户会覆盖AI决策。这对元宝产品经理评估AI系统信任机制和用户接受度有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone": {
+    "title_clean": "华为3000美元折叠屏手机：中国应对苹果折叠iPhone的竞争产品",
+    "summary": "华为和小米在中国智能手机市场提高竞争门槛，推出折叠屏手机，应对苹果即将进入折叠手机市场的举措。这反映了高端折叠手机市场的竞争加剧，以及中国厂商在创新功能上的快速跟进能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

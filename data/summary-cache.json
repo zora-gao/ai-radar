@@ -82099,5 +82099,31 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-07/when-will-we-achieve-agi-ai-leaders-now-say-it-s-a-fuzzy-target": {
+    "title_clean": "AI领导者称AGI实现时间表模糊化",
+    "summary": "多位AI行业领导者表示，AI超越人类大多数能力的AGI目标已从可衡量的具体指标转变为模糊概念，这一观点转变反映了行业对AI发展路径的重新思考，对产品经理评估AI技术发展节奏和用户期望管理具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says": {
+    "title_clean": "AI发现药物逆转衰老标志物研究",
+    "summary": "一款由AI开发的实验性肺病药物在研究中显示出逆转生物衰老迹象的潜力，这表明该治疗可能有更广泛的应用前景，为AI在药物研发和抗衰老领域提供了新方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

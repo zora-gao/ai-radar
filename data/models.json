@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T19:33:13.568Z",
+  "generated_at": "2026-09-09T22:43:51.213Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -700,7 +700,7 @@
       "vendor_slug": "z-ai",
       "url": "https://openrouter.ai/~z-ai/glm-latest",
       "created_at": "2026-08-19T14:50:53Z",
-      "context_length": 1048576,
+      "context_length": 1310720,
       "modality": "text->text",
       "input_modalities": [
         "text"
@@ -746,7 +746,7 @@
       "vendor_slug": "z-ai",
       "url": "https://openrouter.ai/z-ai/glm-5.3-20260816",
       "created_at": "2026-08-18T20:57:35Z",
-      "context_length": 1048576,
+      "context_length": 1310720,
       "modality": "text->text",
       "input_modalities": [
         "text"

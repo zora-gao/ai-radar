@@ -83885,5 +83885,700 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/-fIOSqsxUVJt0N1svt76ag": {
+    "title_clean": "疑：未知用途工具",
+    "summary": "该资讯标题和描述均为'疑'，信息严重不足，无法判断其具体内容或价值。作为产品经理，无法评估其对元宝产品的参考意义。",
+    "score": 20,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/nFgTjqjdFLuXtbiVTT5MAA": {
+    "title_clean": "张颖创业：AI for Physical AI",
+    "summary": "前自动驾驶从业者张颖离开一线量产岗位，创业专注于AI for Physical AI领域。这一动向表明AI正在从纯数字领域向物理世界应用拓展，对元宝产品经理探索AI在物理世界交互、自动化执行等场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/D-I1TCpkSsPuKLFVd-6fDA": {
+    "title_clean": "DeepSeek官宣大降价：最高降60%",
+    "summary": "DeepSeek宣布大幅降价，最高降幅达60%，这反映了AI大模型市场的价格竞争加剧。作为产品经理，需关注此价格策略对用户获取和市场份额的影响，以及是否预示行业整体降价趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules": {
+    "title_clean": "马萨诸塞州实施数据中心清洁能源新规",
+    "summary": "马萨诸塞州成为近三个月内第三个对数据中心发展实施新限制的州，要求数据中心使用清洁能源。这一政策动向对AI服务提供商的数据中心选址和能源策略有重要参考价值，可能影响AI基础设施建设和运营成本。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/qts-co-ceo-on-building-eco-friendly-data-centers-video": {
+    "title_clean": "QTS Co-CEO：构建环保数据中心应对AI基础设施挑战",
+    "summary": "QTS联合CEO Tag Greason讨论数据中心扩张面临的政治和环境反弹，指出AI热潮本质上是基础设施扩建，并强调环保数据中心建设的重要性。这对元宝产品经理了解AI基础设施发展趋势及环保合规要求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-sinky": {
+    "title_clean": "CEO Interview: Sinky",
+    "summary": "Sinky CEO Bruno Sayão接受CB Insights采访，分享了公司对市场的看法、客户需求定位以及公司战略方向。作为一家AI相关企业，其市场定位和产品策略对元宝产品经理了解行业竞争格局和用户需求变化具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-anansi": {
+    "title_clean": "Anansi：AI助手市场定位与客户需求访谈",
+    "summary": "Anansi联合创始人兼CEO Megan Bingham-Walker接受CB Insights访谈，分享其市场定位、客户需求认知及公司发展策略。对产品经理了解AI助手市场格局和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-feyenally": {
+    "title_clean": "Feyenally CEO访谈：市场定位与客户需求分析",
+    "summary": "Feyenally CEO Piotr Kruszynski接受CB Insights采访，阐述公司市场定位、客户需求分析及业务发展方向，为AI产品经理提供企业级AI服务市场洞察。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/apple-debuts-foldable-iphone-duo-in-biggest-ever-revamp-video": {
+    "title_clean": "Apple发布首款折叠屏iPhone：最大规模产品革新",
+    "summary": "苹果公司首次推出折叠屏智能手机，这是其产品线历史上最大规模的革新。苹果希望通过这一新品类提振其最畅销产品线的增长，这标志着苹果进入折叠屏手机市场，对元宝产品经理了解科技巨头产品创新方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/s-p-dow-jones-indices-ceo-on-index-restructuring-video": {
+    "title_clean": "标普道琼斯指数CEO谈指数重组",
+    "summary": "标普道琼斯指数CEO Catherine Clay讨论即将到来的标普指数重组和再平衡，强调这一过程完全透明且常规化。市场参与者已了解相关情况，这对理解金融市场指数调整机制和AI在金融数据处理中的应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening": {
+    "title_clean": "Apple Watch 新 AI 功能引发隐私担忧",
+    "summary": "Apple 新款手表新增语音转录和对话摘要功能，虽表示不保存原始音频，但仍引发用户对持续监听、隐私同意和行为影响的担忧。这对产品经理设计 AI 功能时的隐私边界和用户信任机制有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-priciest-iphone-duo-hits-3-199-setting-industry-record": {
+    "title_clean": "苹果发布史上最贵iPhone，最高售价达3199美元",
+    "summary": "苹果公司最新发布的iPhone Duo最高配置售价高达3199美元，创下大众智能手机价格新纪录。这一价格策略反映了高端智能手机市场的定价趋势，对AI助手类产品在高端设备上的集成与商业化策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/what-is-ai-distillation-and-why-are-us-tech-companies-worried": {
+    "title_clean": "AI蒸馏技术引发美国科技公司担忧",
+    "summary": "美国人工智能公司投入数千亿美元开发先进聊天机器人，但AI蒸馏技术可能威胁其商业模式。该技术能大幅降低模型训练成本，使小型企业也能提供高质量AI服务，可能改变行业竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/wave-of-ai-driven-ipos-expected-to-accompany-anthropic-s-listing": {
+    "title_clean": "AI驱动型IPO浪潮伴随Anthropic上市",
+    "summary": "随着美国劳动节假期结束，传统IPO市场迎来年末冲刺。AI领域正形成一股上市浪潮，Anthropic的上市可能引领这一趋势，对AI行业融资环境和估值具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/not-traditional-bank-staying-asset-light-chime-ceo-video": {
+    "title_clean": "Chime CEO：非传统银行，保持轻资产模式",
+    "summary": "Chime Financial以5.9亿美元现金收购合作伙伴Stride Bank，CEO Chris Britt强调公司采用非传统银行模式，保持轻资产运营。这一收购反映了金融科技公司通过并购整合资源、简化业务结构的战略方向，对AI金融服务产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai": {
+    "title_clean": "苹果新折叠手机 hinges 采用 AI 制造",
+    "summary": "苹果在期待已久的折叠手机制造过程中应用了 AI 和 3D 打印技术，用于生产关键的 hinges 部件。这展示了 AI 在高端硬件制造中的应用潜力，对元宝产品经理了解 AI 技术如何赋能实体产品制造有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/six-key-takeaways-from-apple-s-foldable-iphone-launch-event": {
+    "title_clean": "苹果发布折叠屏iPhone：六大关键要点",
+    "summary": "苹果在9月硬件发布会上首次推出折叠屏手机iPhone Duo，同时发布了其他多款产品。这标志着苹果进入折叠屏手机市场，对AI助手在移动设备上的形态和交互方式可能产生重要影响，值得产品经理关注竞品动态和用户需求变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/apple-takes-on-ai-wearables-with-always-listening-watch-features": {
+    "title_clean": "Apple 推出AI智能手表：持续监听功能挑战AI可穿戴设备市场",
+    "summary": "Apple为其高端智能手表添加AI驱动的音频功能和其他新能力，以应对日益增长的AI可穿戴设备类别。这一举措表明传统科技巨头正积极布局AI硬件领域，对元宝在AI助手与可穿戴设备结合的产品方向上有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/why-shibuya-japan-needs-to-keep-changing-video": {
+    "title_clean": "日本涩谷区14亿美元改造引发文化保护担忧",
+    "summary": "涩谷区正在进行140亿美元的大规模改造项目，引发人们对这一东京著名地区失去其独特文化的担忧。这一城市更新案例对元宝产品经理思考AI服务如何平衡现代化与传统文化保护具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-tifin": {
+    "title_clean": "Executive Interview: TIFIN：金融科技市场战略访谈",
+    "summary": "TIFIN公司企业传播负责人Tanya Bhasin接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。作为金融科技企业，其市场观点和客户洞察对元宝在金融服务场景的AI应用具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score": {
+    "title_clean": "苹果健康应用更新：引入健康年龄和准备度评分功能",
+    "summary": "苹果更新健康应用，利用Apple Intelligence技术更好地分析用户健康数据，新增健康年龄和准备度评分功能，帮助用户更直观地了解自身健康状况。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/foldable-iphone-is-niche-product-singh-says-video": {
+    "title_clean": "可折叠iPhone是小众产品，分析师称",
+    "summary": "彭博情报分析师Mandeep Singh表示，对于大多数人来说，升级到2000美元的可折叠iPhone将很困难。这反映了高端折叠设备的市场接受度挑战，对元宝产品经理评估高端AI设备定价策略和用户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone": {
+    "title_clean": "Apple CEO：iPhone仍是最佳AI设备",
+    "summary": "Apple CEO John Ternus强调iPhone仍是最佳AI设备，并指出其设备端AI模型能为用户提供更好的隐私保护。这对元宝产品经理了解科技巨头对AI设备定位的思考及隐私策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/bloomberg-tech-9-09-2026-video": {
+    "title_clean": "苹果推出首款折叠屏手机，开启Ternus时代",
+    "summary": "苹果在库比蒂诺Apple Park举行发布会，由John Ternus首次作为重要人物亮相，推出公司多年以来最具影响力的产品之一——首款折叠屏手机。这一产品发布标志着苹果进入折叠屏手机市场，对智能手机行业格局和产品经理了解高端手机创新方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/anthropic-worker-resigns-warns-of-ai-risks-to-humanity-video": {
+    "title_clean": "Anthropic研究员辞职警告AI对人类的风险",
+    "summary": "Anthropic一名研究员辞职并呼吁同事重新评估工作，称该公司及竞争对手OpenAI在AI发展上不负责任，引发对AI安全与伦理的担忧，这对产品经理评估AI安全策略与风险管理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/george-yeo-on-the-hubris-of-silicon-valley-video": {
+    "title_clean": "George Yeo：硅谷傲慢与技术黑暗面警示",
+    "summary": "新加坡前外交部长George Yeo批评硅谷科技公司（尤其是Palantir）在开发具有\"黑暗面\"技术时的傲慢态度。此观点对产品经理有警示价值，提醒在AI产品开发中需平衡创新与伦理，避免技术被滥用。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
+    "title_clean": "Paul Christiano 加入 OpenAI 基金会董事会",
+    "summary": "Paul Christiano 加入 OpenAI 基金会董事会及其安全与安全委员会，为 OpenAI 带来了在 AI 对齐、安全与标准方面的经验。这一人事变动可能影响 OpenAI 的安全战略方向，对关注 AI 安全治理的产品经理有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address": {
+    "title_clean": "Instinct：AI助手邮件代理服务",
+    "summary": "Instinct新增邮件功能，允许AI代理代表用户创建和管理账户、联系企业、处理支持请求等，扩展了AI助手的服务场景和自动化能力，为元宝产品经理提供了AI代理服务边界拓展的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai": {
+    "title_clean": "Anthropic研究员辞职警告：警惕自我改进AI带来的生存风险",
+    "summary": "Anthropic研究员Jacob Coxon因担忧AI灭绝风险而辞职，呼吁实验室间达成节奏协议。这一事件反映了AI安全领域专家对高级AI系统潜在风险的担忧，对产品经理评估AI发展速度与安全边界具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-townvue": {
+    "title_clean": "Executive Interview: TownVue",
+    "summary": "TownVue联合创始人Tad Rhodes接受CB Insights采访，分享其市场定位、客户需求认知及公司发展策略。作为一家面向特定市场的企业，其市场定位和客户洞察对元宝产品经理了解垂直领域AI服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/ledger-hires-new-security-chief-as-crypto-hacks-hit-1-4-billion": {
+    "title_clean": "Ledger任命新安全总监应对加密货币黑客攻击",
+    "summary": "加密货币硬件钱包制造商Ledger任命新的安全总监，将内部技术系统和安全监督合并至同一高管。此举应对加密货币黑客攻击金额达14亿美元的行业挑战，反映安全对加密资产存储的重要性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-eradrive": {
+    "title_clean": "CEO访谈：EraDrive",
+    "summary": "EraDrive首席执行官Sumant Sharma接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了企业对市场策略和客户洞察的视角，对产品经理了解企业级AI服务市场定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/ares-s-jacobson-bifurcation-in-software-market-video": {
+    "title_clean": "Ares的Jacobson：软件市场分化趋势",
+    "summary": "Ares管理公司联席总裁Blair Jacobson指出，软件市场正在出现分化，投资者需要更加谨慎地进行选择和尽职调查。这一趋势对AI产品经理有参考价值，提示需关注市场细分和投资方向变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets": {
+    "title_clean": "Besxar：利用太空真空环境制造先进半导体前驱体",
+    "summary": "Besxar是一家由前OpenAI员工Ashley Pilipiszyn创立的初创公司，计划利用太空真空环境制造先进半导体所需的关键前驱体材料，通过SpaceX火箭逐步在轨道上建立半导体工厂。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round": {
+    "title_clean": "Legal AI Startup Harvey融资5.5亿美元，估值达156亿美元",
+    "summary": "法律科技初创公司Harvey完成5.5亿美元融资，估值达到156亿美元，资金将用于构建自有AI模型。这反映了AI在专业服务领域的强劲商业化趋势，为元宝在垂直领域AI应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/jenny-johnson-cost-of-capital-to-slow-some-activities-video": {
+    "title_clean": "Franklin Templeton CEO：资本成本上升将减缓部分AI投资活动",
+    "summary": "富兰克林邓普顿投资公司CEO珍妮·约翰逊讨论资本成本上升及AI建设对美国经济和私人信贷的影响，指出高资本成本将减缓部分投资活动，对AI行业扩张形成制约。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/ai-music-startup-suno-launches-new-models-that-pay-labels": {
+    "title_clean": "Suno：AI音乐生成模型与唱片公司合作",
+    "summary": "Suno公司推出与华纳音乐集团等大型唱片公司合作开发的AI音乐生成模型，标志着AI音乐生成领域开始与音乐产业主流力量建立合作关系，为AI内容生成与版权合作提供新案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/ares-jacobson-sees-bifurcation-in-software-industry-video": {
+    "title_clean": "Ares' Jacobson：AI正在加剧软件行业分化",
+    "summary": "Ares Management联席总裁Blair Jacobson讨论软件行业前景，指出人工智能正在影响投资者对软件行业的评估，导致行业分化加剧。这对元宝产品经理了解AI对软件行业投资格局的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland": {
+    "title_clean": "Google投资130亿欧元在芬兰建设AI数据中心",
+    "summary": "Google将在芬兰投资130亿欧元建设AI数据中心，这是其在欧洲最大的一笔投资。芬兰的寒冷气候和低碳电力优势使其成为AI基础设施的理想选址，反映了科技巨头对AI算力基础设施的持续投入。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing": {
+    "title_clean": "三星与Mistral AI合作：将AI模型应用于半导体制造",
+    "summary": "三星与Mistral AI达成合作，在其半导体制造和工程运营中部署本地化AI模型。这一合作在双边国家峰会期间宣布，展示了AI技术在高端制造业中的应用潜力，对元宝产品经理了解AI技术在工业场景的落地有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/coforge-shares-plunge-as-chairman-resigns-amid-board-review": {
+    "title_clean": "Coforge：印度IT公司董事长辞职引发股价暴跌",
+    "summary": "印度IT服务公司Coforge董事长因内部审计发现董事会评估缺乏透明度而辞职，导致公司股价大幅下跌。这反映了企业治理问题对科技公司市值的影响，对元宝产品经理了解企业服务领域风险和信任机制建设有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/meta-unveils-ai-assistant-for-personal-tasks-video": {
+    "title_clean": "Meta 推出 Muse AI 助手：个人任务自动化工具",
+    "summary": "Meta 发布名为 Muse 的新 AI 代理，可代表用户执行任务，包括在线购物、购买电影票和日程安排等功能。这展示了 Meta 在 AI 代理领域的布局，对元宝产品经理在任务型 AI 助手和服务场景拓展方面有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/gHkDFBsw0tfTUwsK7UfmDA": {
+    "title_clean": "GPT-6 Astra：多模态模型空间智能解析",
+    "summary": "本文探讨GPT-6 Astra模型在多模态处理方面的突破，通过S-Space技术透视模型内部的空间智能机制，分析其如何实现更强大的跨模态理解与生成能力，为AI助手产品在多模态交互方向提供技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/apple-event-details-2-000-iphone-duo-apple-watch-series-12-recording-feature": {
+    "title_clean": "苹果发布2000美元折叠屏iPhone Duo及Apple Watch Series 12录音功能",
+    "summary": "苹果将于当地时间周三在加州库比蒂诺发布约2000美元的折叠屏iPhone Duo，同时推出具备录音功能的Apple Watch Series 12。这一产品更新对元宝产品经理有参考价值，特别是高端折叠设备与可穿戴AI功能的结合趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/kioxia-dismisses-sk-hynix-tie-up-vows-to-ease-chip-price-rises": {
+    "title_clean": "铠侠拒绝与SK海力士合作，承诺抑制芯片价格上涨",
+    "summary": "铠侠高管拒绝与竞争对手兼股东SK海力士深化合作，同时承诺抑制不断上涨的存储芯片价格，以避免长期损害市场。这对产品经理了解存储行业动态和价格趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/qualcomm-cfo-on-amazon-ai-deal-data-center-strategy-video": {
+    "title_clean": "高通与亚马逊合作定制AI芯片，布局数据中心战略",
+    "summary": "高通CFO Akash Palkhiwala宣布与亚马逊AWS合作定制AI芯片，为亚马逊的AI基础设施提供专用芯片支持。这反映了高通在AI芯片市场的战略布局，以及云服务巨头对专用AI芯片的需求增长，对元宝产品经理了解AI硬件与云服务合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise": {
+    "title_clean": "Mistral AI获35亿美元融资，估值达240亿美元",
+    "summary": "法国生成式AI初创公司Mistral AI宣布完成35亿美元D轮融资，由三星电子领投，公司估值增至240亿美元。这是欧洲AI领域又一创纪录融资，显示欧洲AI创业生态正在快速崛起。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value": {
+    "title_clean": "Cognition AI：AI编程初创公司获48亿美元估值",
+    "summary": "AI编程初创公司Cognition AI完成20亿美元融资，估值达到480亿美元。这笔巨额融资反映了市场对AI编程工具的强劲需求，为元宝产品经理提供了AI编程领域投资趋势和商业化路径的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/legislative-path-required-to-go-forward-belshe-video": {
+    "title_clean": "BitGo CEO：美国加密货币监管需要明确立法",
+    "summary": "BitGo联合创始人兼CEO Mike Belshe在彭博社节目中表示，美国加密货币行业需要通过《清晰法案》来获得明确的监管框架，这关系到加密货币行业的未来发展路径。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business": {
+    "title_clean": "Mistral融资30亿欧元，主权AI成商业热点",
+    "summary": "法国AI实验室Mistral完成D轮融资30亿欧元，估值达210亿欧元，由三星、Scaleup Europe和PSG Equity领投。这表明主权AI领域正成为商业投资热点，对元宝产品经理了解AI领域资本动向和竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/meta-ran-hundreds-of-ads-showing-ai-child-sexual-abuse-ngo-says": {
+    "title_clean": "Meta：被指在社交平台投放300多条疑似儿童性虐待广告",
+    "summary": "Meta被非营利组织TechTrans指控，今年在Instagram和Facebook上投放了300多条包含疑似儿童性虐待内容的广告。这反映了AI内容审核在识别有害内容方面的局限性，对元宝产品经理在内容安全审核机制设计上有警示意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-crypto4a": {
+    "title_clean": "Crypto4A：加密安全解决方案CEO访谈",
+    "summary": "Crypto4A CEO Bruno Couillard接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为加密安全解决方案提供商，其观点对理解企业级加密安全市场趋势和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/ai-health-company-forus-raises-150-million-at-a-3-billion-value": {
+    "title_clean": "Forus：医疗自动化公司获1.5亿美元融资",
+    "summary": "医疗自动化公司Forus完成1.5亿美元C轮融资，估值达30亿美元，距离上一轮融资仅数月。此轮融资由Bain Capital Ventures领投，表明医疗自动化领域正获资本高度关注，对AI在医疗场景的应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia": {
+    "title_clean": "可口可乐：AI辅助马来西亚零售商订货系统",
+    "summary": "可口可乐通过Coke Buddy平台的Perfect Basket功能，利用AI为马来西亚零售商推荐应订购的产品种类和数量，旨在优化零售商的库存管理和订货决策。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/hsbc-s-sels-sees-ai-productivity-gains-driving-us-stocks-video": {
+    "title_clean": "汇丰银行：AI生产力提升推动美国股市",
+    "summary": "汇丰私人银行全球首席投资官Willem Sels表示，经济和企业表现比预期更具韧性，AI驱动的生产力提升将成为推动美国股市的重要因素。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches": {
+    "title_clean": "YouTube在53%的维生素补充剂搜索AI概览中出现",
+    "summary": "研究显示，在维生素和补充剂搜索的Google AI概览中，YouTube是最常被引用的网站，出现在350次AI生成结果中的186次，占比53%。这反映了视频内容在健康信息搜索中的重要性，对元宝在健康领域的内容策略和AI搜索结果整合有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

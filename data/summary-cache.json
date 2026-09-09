@@ -83211,5 +83211,56 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/frigade": {
+    "title_clean": "Frigade Assist API：AI用户引导点击工具",
+    "summary": "Frigade Assist API为AI助手提供用户界面引导功能，通过可视化指导用户点击特定位置，提升AI代理的交互效率和用户体验。该工具对产品经理设计AI助手引导流程、优化用户操作路径有直接参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/alphagenome-atlas": {
+    "title_clean": "AlphaGenome Atlas：Google人类DNA突变图谱AI工具",
+    "summary": "Google推出AlphaGenome Atlas，构建了人类所有可能DNA突变的AI图谱。这项技术可加速基因研究、疾病诊断和个性化医疗发展，为AI在生命科学领域的应用提供新方向，对元宝拓展医疗健康服务场景具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/muse-22": {
+    "title_clean": "Muse：个人AI任务执行助手",
+    "summary": "Muse是一款个人AI助手，专注于帮助用户完成各类任务。作为AI Agent产品，它展示了自动化任务执行的能力，对元宝产品经理在AI助手功能设计和任务自动化方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/workid-ai": {
+    "title_clean": "WorkID.ai：人才身份验证招聘平台",
+    "summary": "WorkID.ai是一个人才身份验证与招聘平台，专注于为雇主提供可信的人才匹配服务。该平台通过验证人才身份，帮助企业在招聘过程中建立信任，提高招聘效率和质量，对元宝在职业服务场景的拓展具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

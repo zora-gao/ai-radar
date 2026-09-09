@@ -83262,5 +83262,105 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/diiverge-co": {
+    "title_clean": "Diiverge：图片转AI互动冒险游戏",
+    "summary": "Diiverge是一款创新工具，可将任意图片转化为可玩的AI互动冒险游戏。这项技术为用户提供了全新的内容创作和娱乐方式，对元宝产品经理探索AI多模态交互和游戏化场景具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/type-com": {
+    "title_clean": "Type.com：Claude与团队共享协作平台",
+    "summary": "Type.com是一个为Claude AI和Codex团队设计的共享工作空间，支持多用户协作，为AI助手团队提供集中化工作环境，有助于提升团队协作效率，对元宝产品经理在团队协作功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/dell-seeks-to-raise-4-billion-from-bond-sale-to-refinance-debt": {
+    "title_clean": "戴尔拟发行40亿美元债券融资，用于偿还债务并支持AI服务器需求",
+    "summary": "戴尔计划通过投资级债券发行筹集约40亿美元，主要用于偿还债务，同时利用AI驱动的服务器需求增长趋势。这一融资反映了企业对AI基础设施投资的持续需求，对元宝产品经理了解AI硬件市场趋势和企业级AI服务机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/mercadolibre-returns-to-global-debt-markets-amid-spending-push": {
+    "title_clean": "MercadoLibre：拉美电商加大投资重返全球债市",
+    "summary": "拉美电商巨头MercadoLibre时隔多年重返全球债务市场，这是其第三次发债，目的是加大对拉丁美洲地区的投资力度。这一动向表明该公司正在积极扩张业务规模，对元宝产品经理了解电商领域融资策略和市场扩张模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-09/google-deepmind-uses-ai-to-predict-9-billion-dna-changes": {
+    "title_clean": "Google DeepMind：AI预测90亿种DNA变化",
+    "summary": "Google DeepMind开发AI模型预测90亿种DNA变化，旨在帮助研究人员发现疾病机理。这项技术可能为AI在医疗健康领域的应用提供新方向，对元宝探索医疗健康服务场景具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/uae-based-group-leads-1-billion-satellite-constellation-project": {
+    "title_clean": "阿联酋集团牵头10亿美元卫星项目",
+    "summary": "阿联酋Marlan Space与美国法国初创公司Loft Orbital联合体计划投资10亿美元，为AI星座新增40颗卫星。该项目展示了AI在航天领域的新应用，对元宝产品经理了解AI技术与传统行业结合的商业模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/0qiNYy0MbdOTCcXX7pz4Rw": {
+    "title_clean": "VoiceMem：流式双脑架构实时语音处理工具",
+    "summary": "颜水成团队发布VoiceMem，提出'流式双脑架构'技术，专注于实时语音处理能力。这一技术突破可能为AI语音交互产品提供新的技术路径，对提升语音识别和处理的实时性有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/mistral-ai-raises-at-21-billion-valuation-in-samsung-led-round": {
+    "title_clean": "Mistral AI：估值达210亿欧元，获三星领投30亿欧元融资",
+    "summary": "Mistral AI获得三星领投的30亿欧元融资，估值超过210亿欧元，资金将用于开发人工智能模型和构建相关基础设施。这反映了欧洲AI初创企业的强劲增长势头，对元宝产品经理评估AI领域投资趋势和竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

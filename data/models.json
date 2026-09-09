@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T09:04:56.833Z",
+  "generated_at": "2026-09-09T14:39:03.741Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -699,7 +699,7 @@
       "vendor_slug": "z-ai",
       "url": "https://openrouter.ai/~z-ai/glm-latest",
       "created_at": "2026-08-19T14:50:53Z",
-      "context_length": 1310720,
+      "context_length": 1048576,
       "modality": "text->text",
       "input_modalities": [
         "text"
@@ -745,7 +745,7 @@
       "vendor_slug": "z-ai",
       "url": "https://openrouter.ai/z-ai/glm-5.3-20260816",
       "created_at": "2026-08-18T20:57:35Z",
-      "context_length": 1310720,
+      "context_length": 1048576,
       "modality": "text->text",
       "input_modalities": [
         "text"
@@ -998,8 +998,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.049,
-      "price_out": 3.148,
+      "price_in": 0.659,
+      "price_out": 1.976,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

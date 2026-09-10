@@ -84629,5 +84629,78 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/desert-ant-labs": {
+    "title_clean": "Desert Ant Labs：小型专业AI模型工具",
+    "summary": "Desert Ant Labs专注于开发小型专业AI模型，覆盖语音、文本和视觉领域。这类轻量化模型可能为元宝在资源受限场景下的AI能力部署提供参考，特别是移动端或边缘计算场景的应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/typewise": {
+    "title_clean": "Typewise Nova：AI客户体验自我优化平台",
+    "summary": "Typewise Nova是一款能够自我构建和改进的AI客户体验平台，通过持续学习和优化提升客户服务质量，为产品经理提供AI客户体验自动化解决方案的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/chinese-tech-firms-share-sale-spree-sparks-valuation-concerns": {
+    "title_clean": "中国科技公司密集融资引发估值担忧",
+    "summary": "中国科技公司正通过股权融资为AI野心提供资金，引发投资者对收益稀释和供过于求的担忧，这可能影响AI市场的健康发展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-bridgewise": {
+    "title_clean": "Executive Interview: BridgeWise",
+    "summary": "BridgeWise市场负责人Michelle Bitran接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。作为一家金融科技企业，其市场观点和客户洞察对元宝在金融服务场景的产品规划具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/china-s-huawei-comes-to-brooklyn-for-sweeping-us-criminal-trial": {
+    "title_clean": "华为在纽约面临美国重大刑事审判",
+    "summary": "华为在美国纽约开始接受刑事审判，这是美国政府史上最雄心勃勃的起诉案之一，案件始于特朗普政府时期。此案可能对华为的国际业务和全球科技供应链产生重大影响，对产品经理了解地缘政治对科技企业的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/debut-offerings-amazon-sterling-bonds-uber-euro-bonds-video": {
+    "title_clean": "亚马逊与Uber发行英镑债券，为AI竞赛融资",
+    "summary": "亚马逊和Uber通过发行英镑债券筹集资金，以支持其人工智能业务发展。这反映了科技巨头正积极利用全球债务市场为AI竞赛提供资金支持，对元宝产品经理了解AI领域资本动向和企业战略布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-10T03:06:54.329Z",
+  "generated_at": "2026-09-10T09:12:39.705Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "deepseek/deepseek-v4.1-flash",
+      "name": "DeepSeek V4.1 Flash",
+      "vendor": "DeepSeek",
+      "vendor_slug": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-20260910",
+      "created_at": "2026-09-10T06:21:25Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.3,
+      "price_out": 1.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the cost-efficient tier of the V4.1 family. DeepSeek reports that it exceeds V4 Pro on performance, speed, and task...",
+      "description_zh": null
+    },
     {
       "id": "inception/mercury-2.5",
       "name": "Mercury 2.5",
@@ -489,8 +513,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.07,
-      "price_out": 0.233,
+      "price_in": 0.075,
+      "price_out": 0.25,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -539,8 +563,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.07,
-      "price_out": 0.233,
+      "price_in": 0.075,
+      "price_out": 0.25,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -708,8 +732,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.092,
-      "price_out": 3.432,
+      "price_in": 1.085,
+      "price_out": 3.41,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1435,31 +1459,6 @@
       ],
       "price_in": 5,
       "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Opus 5 is Anthropic’s flagship model for demanding reasoning, coding, and long-horizon agentic work. It is particularly strong at end-to-end software tasks, code review and bug finding, visual analysis...",
-      "description_zh": "Claude Opus 5 是 Anthropic 的旗舰模型，适用于要求较高的推理、编码和长期代理工作。它在端到端软件任务、代码审查和错误查找、可视化分析方面尤其强大......"
-    },
-    {
-      "id": "anthropic/claude-opus-5:batch",
-      "name": "Claude Opus 5 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-opus-5-20260723",
-      "created_at": "2026-07-24T17:02:24Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2.5,
-      "price_out": 12.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

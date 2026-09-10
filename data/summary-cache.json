@@ -84580,5 +84580,54 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/amazon-jet-tried-to-abort-landing-before-fatal-crash-ntsb-says": {
+    "title_clean": "Amazon货机事故调查：飞行员曾试图中止着陆",
+    "summary": "Amazon货机在迈阿密国际机场降落时因速度过快，飞行员曾尝试中止着陆但未能成功，最终导致飞机坠毁。NTSB调查揭示了航空安全与自动驾驶系统决策的关键问题，对AI辅助决策系统设计有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/agco-ceo-we-can-manage-through-these-tariffs-video": {
+    "title_clean": "AGCO CEO：应对关税影响的农业设备业务策略",
+    "summary": "AGCO首席执行官Eric Hansotia讨论农业设备业务现状，指出农业部门面临成本上升问题，并阐述了围绕关税影响的业务管理策略。对元宝产品经理参考价值有限，主要涉及传统制造业而非AI领域。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film": {
+    "title_clean": "AI重现70年爱情故事：Google DeepMind与电影人合作创作短片",
+    "summary": "Google DeepMind与电影人合作使用AI技术，将一对夫妇未被记录的过去重现为短片《Love, Rendered》。这项技术应用展示了AI在历史场景重建和情感叙事方面的能力，为AI在创意内容生成和情感计算领域提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/how-indian-workers-are-helping-train-the-robots-that-will-replace-them": {
+    "title_clean": "印度工人帮助训练将取代他们的机器人",
+    "summary": "印度工人通过使用iPhone训练人形机器人，揭示了现实世界数据竞赛对未来工作的影响。这一现象展示了AI训练过程中人类劳动与自动化之间的复杂关系，对元宝产品经理理解AI服务场景中的数据收集与用户参与模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

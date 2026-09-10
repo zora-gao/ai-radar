@@ -84702,5 +84702,177 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/hob-2": {
+    "title_clean": "hob：AI Agent 工作空间整合工具",
+    "summary": "hob 是一个专为 AI Agent 设计的专业工作空间平台，能够整合和管理整个 Agent 技术栈。产品经理可关注其如何解决多 Agent 协作与资源整合问题，为元宝的 Agent 架构设计提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/drive-gforce-telemetry": {
+    "title_clean": "Drive：车辆遥测与车牌识别预警工具",
+    "summary": "Drive是一款车辆遥测工具，专为周末驾驶体验设计，提供车牌识别(LPR)预警功能，帮助驾驶者监控车辆状态并识别周围车辆信息，对元宝在车辆服务场景和AI Agent能力拓展方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vibe-eyes": {
+    "title_clean": "Vibe Eyes：宠物状态菜单栏工具",
+    "summary": "Vibe Eyes 是一款 macOS 应用，可将宠物状态显示在系统菜单栏中，让用户无需打开应用即可快速查看宠物信息。这类轻量级工具展示了如何将 AI 应用于日常宠物关怀场景，为元宝在垂直领域服务场景拓展提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal": {
+    "title_clean": "OpenAI终止政府机构1美元/年试点计划，转向按使用量定价并给予50%折扣",
+    "summary": "OpenAI终止了允许政府机构每年仅支付1美元使用其模型的试点计划，转而采用基于使用量的定价系统，将为联邦政府工作人员提供50%的折扣。这一转变反映了AI服务在政府领域的商业化进程加速，对元宝在B端市场的定价策略和政府合作模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-10/microsoft-reaches-pact-with-teachers-union-to-keep-ai-in-the-classroom": {
+    "title_clean": "Microsoft与教师工会达成协议：确保AI在课堂中的合理应用",
+    "summary": "微软与教师工会签署协议，承诺在使用AI技术时保护学生隐私，为AI教育应用制定指导原则。这一合作表明科技巨头正在积极应对教育领域AI应用的隐私挑战，为元宝产品在教育和隐私保护方面的功能设计提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/-ai-economy-driving-earnings-strength-jpm-s-caffrey-video": {
+    "title_clean": "摩根大通：AI经济推动企业盈利增长",
+    "summary": "摩根大通资产管理公司股票投资组合经理Jack Caffrey表示，围绕人工智能的热情正在扩展企业盈利主题，AI相关支出正在推动企业业绩增长。这对元宝产品经理了解AI商业化趋势和企业级AI应用市场价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/investors-nervous-on-timing-of-potential-crash-bofa-video": {
+    "title_clean": "美银：投资者担忧AI投资热潮可能引发市场崩盘",
+    "summary": "美银欧洲股票策略主管表示，投资者正关注人工智能资本支出热潮的可持续性，担心这可能引发市场崩盘。这一信号对AI产品经理有参考价值，提示需关注AI商业化进程中的市场波动风险和投资者情绪变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/stonepeak-ceo-on-data-centre-investment-outlook-video": {
+    "title_clean": "Stonepeak CEO谈数据中心投资前景",
+    "summary": "Stonepeak联合创始人、董事长兼CEO Mike Dorrell讨论数字基础设施投资机会，指出随着超大规模云服务商加速全球数据中心建设及AI相关基础设施扩张，数据中心领域面临重要发展机遇。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns": {
+    "title_clean": "美国司法部调查英伟达与Groq的20亿美元合作涉嫌反垄断",
+    "summary": "美国司法部正在调查英伟达与AI芯片初创公司Groq的200亿美元授权协议是否旨在规避反垄断审查。这一合作涉及AI芯片领域，对元宝产品经理了解AI硬件生态与巨头合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-shoptreo": {
+    "title_clean": "Executive Interview: Shoptreo",
+    "summary": "Shoptreo的COO Emmanuel Jacobs接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司在行业中的定位。这对元宝产品经理了解AI购物助手类产品的市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-atomic-canyon": {
+    "title_clean": "CEO Interview: Atomic Canyon",
+    "summary": "Atomic Canyon CEO Trey Lauderdale接受CB Insights采访，分享公司对市场定位、客户需求的理解和公司发展策略。作为AI领域企业高管访谈，提供了行业视角和产品战略参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://blog.google/products-and-platforms/products/search/football-features-google-search": {
+    "title_clean": "Google Search：新增足球比赛搜索功能",
+    "summary": "Google Search 推出足球比赛相关新功能，用户可直接在搜索中追踪实时比赛数据、查看详细统计信息，并获得个性化梦幻足球推荐。这展示了搜索引擎如何整合实时体育内容与个性化推荐，为元宝在体育赛事信息整合与个性化服务方面提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/sessions/2026-09-10/live-q-amp-a-ask-mark-gurman-anything-about-apple-in-the-ternus-era": {
+    "title_clean": "Ask Mark Gurman Anything About Apple, New CEO Ternus: Live Q&A",
+    "summary": "彭博社记者Mark Gurman将主持一场关于苹果公司最新产品动态和新任CEO John Ternus的实时问答活动。这场问答将聚焦苹果近年来最大规模的产品发布，对了解苹果战略方向和产品规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-kinnami": {
+    "title_clean": "CEO Interview: Kinnami",
+    "summary": "Kinnami CEO接受CB Insights采访，分享公司对市场定位、客户需求的看法以及公司发展策略。作为AI产品经理，可从中了解行业头部企业的市场洞察和战略方向，为产品定位和竞争分析提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

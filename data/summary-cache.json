@@ -84874,5 +84874,390 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/wealthfolio": {
+    "title_clean": "Wealthfolio：本地优先个人理财工具",
+    "summary": "Wealthfolio是一款本地优先的私人个人理财工具，专注于保护用户财务数据的隐私安全。该产品强调本地存储和处理，可能为元宝在金融数据隐私保护方面提供参考价值，特别是在处理敏感财务信息时的安全策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/whip": {
+    "title_clean": "Whip：交互式网络体验平台",
+    "summary": "Whip是一个专注于交互式网络体验的平台，类似于YouTube但专注于交互式内容。产品经理可关注其交互式内容创作与分发模式，为元宝探索新型内容交互形式提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/modeinspect-1-0": {
+    "title_clean": "Modeinspect：代码中设计产品UI的AI工具",
+    "summary": "Modeinspect是一款AI工具，允许开发者在代码库中直接设计产品UI界面，提供99天的免费AI积分。这对元宝产品经理有参考价值，因为它展示了AI如何赋能开发者提升UI设计效率，可能启发元宝在代码集成和UI设计辅助方面的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/nvidia-s-huang-touts-cybersecurity-as-next-big-market-for-ai": {
+    "title_clean": "Nvidia：AI将成为网络安全市场新增长点",
+    "summary": "Nvidia创始人兼CEO黄仁勋表示，人工智能技术将颠覆网络安全行业，成为AI的下一个重要市场。AI技术进步将改变计算机系统防御方式，为网络安全领域带来新的发展机遇。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says": {
+    "title_clean": "Moonshot AI被指控秘密使用Claude模型处理用户请求",
+    "summary": "Anthropic指控中国AI公司Moonshot AI秘密将数千个用户请求路由至其Claude模型，并将响应伪装成自己的产品输出。这一事件揭示了AI服务外包可能带来的合规风险和知识产权问题，对产品经理评估第三方模型合作与数据安全具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/musk-s-boring-co-gets-23-billion-valuation-video": {
+    "title_clean": "马斯克的Boring Co.获230亿美元估值",
+    "summary": "马斯克的隧道挖掘公司Boring Co.获得阿联酋及其关联机构30亿美元新投资，估值达到230亿美元。这表明交通基础设施领域的AI应用和自动化技术获得大额资本认可，对元宝在智能出行服务场景拓展方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/breaking-down-apple-s-first-foldable-iphone-video": {
+    "title_clean": "苹果首款折叠屏iPhone发布：新增长战略布局",
+    "summary": "苹果公司首次推出折叠屏智能手机，旨在通过新品类提振其畅销产品线的增长。彭博社记者Mark Gurman对此进行了详细分析，这对元宝产品经理了解科技巨头在硬件创新上的战略方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/d-matrix-joins-nvidia-s-ai-inference-push-video": {
+    "title_clean": "d-Matrix 加入英伟达AI推理芯片计划",
+    "summary": "d-Matrix与英伟达达成合作，专注于为AI推理任务设计专用芯片。这一合作反映了市场对定制化AI推理芯片的需求增长，对元宝产品经理了解AI基础设施发展趋势和潜在硬件合作伙伴有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+    "title_clean": "研究人员利用Codex和ChatGPT搜索新型抗菌分子",
+    "summary": "César de la Fuente实验室利用Codex和ChatGPT搜索活体和灭绝基因组中的抗菌候选物，以对抗耐药性感染。这一应用展示了AI在药物发现领域的创新应用，为AI助手在专业科研场景中的能力提供了参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/bnp-says-too-much-ai-borrowing-will-end-bull-market-in-credit": {
+    "title_clean": "BNP Paribas：AI借贷过度将终结企业债券牛市",
+    "summary": "法国巴黎银行预测，科技公司过度借贷将导致企业债券长期上涨趋势终结，这反映了AI行业融资扩张可能带来的金融风险，对元宝产品经理评估AI商业化可持续性和金融风险控制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/saudis-weigh-merging-ea-with-savvy-to-create-global-gaming-giant": {
+    "title_clean": "沙特考虑合并EA与Savvy打造全球游戏巨头",
+    "summary": "沙特主权财富基金正考虑将电子游戏公司EA与Savvy Games合并，这将创造拥有《Madden NFL》和《Pokémon》等热门游戏作品的全球游戏巨头。这一动向可能影响游戏行业格局，对元宝产品经理评估AI在游戏领域的应用及跨界合作机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests": {
+    "title_clean": "AI agents正在大量提交公共服务申请",
+    "summary": "研究表明，AI代理正在大量涌入公共服务领域，帮助人们提交各类权益申请。这一现象表明AI代理已开始应用于实际服务场景，为用户处理行政事务，这对元宝产品经理探索AI代理在公共服务领域的应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-investor-leads-funding-for-off-grid-ai-power-startup": {
+    "title_clean": "Anthropic投资方领投离网AI电力初创公司",
+    "summary": "Anthropic投资方Spark Capital领投了一家为数据中心建设离网电力系统的初创公司，该公司完成1.2亿美元A轮融资。这反映了AI算力基础设施的能源需求增长，对元宝产品经理评估AI服务部署成本和可持续性有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/bending-spoons-agrees-to-buy-workspace-miro-for-1-36-billion": {
+    "title_clean": "Bending Spoons以13.6亿美元收购协作平台Miro",
+    "summary": "意大利科技公司Bending Spoons以全现金方式13.6亿美元收购协作平台Miro，这是其持续收购战略的一部分。Miro作为企业协作工具，此次收购反映了AI协作工具市场的整合趋势，对元宝产品经理了解行业并购动态和协作工具市场格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/measure-innovation-ecosystem-south-korea-onetti-mind-the-bridge": {
+    "title_clean": "韩国创新经济评估：政府投资与创业生态",
+    "summary": "本文分析了韩国如何通过持续政府投资和创业生态系统建设，成为全球第八大创新经济体。对元宝产品经理了解国家创新政策与AI产业发展的关系有参考价值，特别是政府如何通过系统性支持推动创新生态形成。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/deepseek-s-new-low-cost-model-deals-a-fresh-blow-to-openai-z-ai": {
+    "title_clean": "DeepSeek发布低成本AI模型，对OpenAI和Z.ai形成竞争压力",
+    "summary": "DeepSeek推出了一款AI模型，每百万token收费低至几分钱，这增加了Anthropic PBC和Z.AI等竞争对手的压力。该低成本模型可能改变AI服务市场的定价策略，对元宝的产品定价和成本控制具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/august-2026-new-unicorns-ai-robotics-semiconductors-xpeng-lumilens-river-source": {
+    "title_clean": "8月29家新晋独角兽企业，AI软件与半导体引领增长",
+    "summary": "8月共有29家公司加入Crunchbase独角兽榜单，总价值增加约630亿美元。其中超过三分之一的企业成立不足3年，显示AI软件和半导体领域强劲增长，为元宝产品经理提供行业投资热点和新兴技术趋势参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-gives-eu-access-to-mythos-months-after-model-s-release": {
+    "title_clean": "Anthropic向欧盟提供Mythos模型访问权限",
+    "summary": "Anthropic向欧盟网络安全机构开放其强大的Mythos人工智能模型访问权限，距离首次宣布将向欧盟提供该模型访问权限已过去三个多月。这表明Anthropic正积极拓展其AI模型在政府机构中的应用场景，对元宝产品经理了解AI模型在政府领域的商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/musk-s-boring-co-raises-capital-valuing-firm-at-23-billion-mtv5xwy7": {
+    "title_clean": "马斯克隧道公司Boring Co.获23亿美元估值融资",
+    "summary": "马斯克的隧道挖掘公司Boring Co.获得阿联酋及其关联机构30亿美元融资，公司估值达到230亿美元。这笔大额融资表明地下交通隧道项目获得资本认可，对元宝产品经理评估大型基建项目的AI应用场景和商业化潜力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/expanding-ai-access-us-government": {
+    "title_clean": "OpenAI与GSA合作：为各级政府提供AI访问与网络安全支持",
+    "summary": "OpenAI与美国总务管理局(GSA)合作，向联邦、州、地方及部落政府提供免费AI许可证、50%使用费折扣和扩展的网络安全支持，旨在扩大政府机构对AI技术的访问能力并加强网络安全防护。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/tsmc-revenue-rises-53-as-ai-chip-demand-outstrips-supply": {
+    "title_clean": "台积电AI芯片收入激增53%，需求远超供给",
+    "summary": "台积电月销售额增长53.3%，全球AI基础设施建设带来的需求远超供给，显示AI芯片市场持续火热，对元宝产品经理评估AI硬件基础设施与AI服务能力关系有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/amd-backed-korean-ai-startup-upstage-considers-pre-ipo-round": {
+    "title_clean": "Upstage：韩国AI初创公司考虑上市前融资",
+    "summary": "韩国AI初创公司Upstage正在考虑上市前融资，这是其资本市场选项之一。该公司由AMD支持，这一动向表明AI领域投资活跃，对元宝产品经理了解AI创业公司融资动态和行业资本流向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/gradio-workflow-1111": {
+    "title_clean": "Rebuilding AUTOMATIC1111 with Gradio Workflow：AI图像生成工具重构",
+    "summary": "该资讯报道了基于Gradio工作流重构AUTOMATIC1111项目，这是一个AI图像生成工具。对产品经理的参考价值在于了解AI工具的架构优化和用户界面改进方式，特别是如何通过Gradio简化复杂AI应用的部署和交互。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/shield-ai-on-business-plans-video": {
+    "title_clean": "Shield AI：美国国防AI企业亚太扩张战略",
+    "summary": "Shield AI联合创始人兼总裁Brandon Tseng讨论了公司的增长策略和扩张计划，重点加强在亚太市场的存在力和产品服务。这对元宝产品经理了解AI企业在特定垂直领域的商业化路径和区域扩张策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/h05elhMfbmVewWxKeCFEFA": {
+    "title_clean": "ActionMap Policy：机器人操作新方法",
+    "summary": "ActionMap Policy提出了一种创新方法，将高维机器人动作回归转化为像素分类问题，简化了机器人操作控制流程。这项研究为机器人学习提供了新思路，可能提升AI助手在物理世界中的操作能力，对元宝未来可能的实体交互功能有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-sam-rosenberg-head-of-finance-assort-health": {
+    "title_clean": "Assort Health财务总监Sam Rosenberg专访：市场定位与客户需求分析",
+    "summary": "Assort Health财务总监Sam Rosenberg接受CB Insights采访，分享了公司对市场的看法、客户需求的理解以及自身定位。这为医疗健康领域AI产品经理提供了行业视角和客户洞察，有助于理解B2B医疗科技服务的市场策略和客户需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-know-your-dosh": {
+    "title_clean": "Know Your Dosh：金融科技CEO访谈",
+    "summary": "Know Your Dosh CEO接受CB Insights访谈，分享公司市场定位、客户需求分析及业务发展策略。内容包含对金融科技市场的理解及企业定位，对金融科技产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-biolexis-therapeutics": {
+    "title_clean": "Executive Interview: Biolexis Therapeutics：生物科技公司高管访谈",
+    "summary": "Biolexis Therapeutics临床开发副总裁Jeremiah Bearss接受CB Insights采访，分享公司对市场定位、客户需求的理解。作为生物科技公司高管访谈，对元宝产品经理了解垂直行业AI应用场景有一定参考价值，但与AI助手/Agent/服务场景的直接关联性较弱。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-always-connect-ai": {
+    "title_clean": "Always Connect AI CEO访谈：市场定位与客户需求",
+    "summary": "Always Connect AI CEO接受CB Insights采访，分享公司市场定位、客户需求及业务观点。作为AI领域企业高管访谈，提供了行业视角和商业策略参考，对元宝产品经理了解AI企业市场策略和客户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/gpt-6-astra-next-generation-work": {
+    "title_clean": "GPT-6 Astra：OpenAI新一代商业智能模型",
+    "summary": "OpenAI发布GPT-6 Astra，这是其面向商业领域的新一代模型，具备高级推理能力、计算机使用能力，以及更强的写作和设计判断能力，为AI助手在商业场景中的应用提供了新方向。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-08/school-students-who-use-ai-get-worse-test-scores-oecd-warns": {
+    "title_clean": "OECD警告：使用AI的学生考试成绩更差",
+    "summary": "OECD教育报告显示，不使用AI聊天机器人完成学校作业的学生表现优于使用者，这是迄今为止关于AI对教育影响的最广泛证据之一，提示AI可能对学习效果产生负面影响，对教育类AI产品设计具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

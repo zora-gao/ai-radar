@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-10T14:39:53.176Z",
+  "generated_at": "2026-09-10T18:17:49.440Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "inclusionai/ling-3.0-flash-vl:free",
+      "name": "Ling 3.0 Flash VL (free)",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-vl-20260910",
+      "created_at": "2026-09-10T16:01:54Z",
+      "context_length": 262144,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ling 3.0 Flash VL builds on Ling 3.0 Flash (124B total / 5.5B active MoE from InclusionAI), further strengthening its language capabilities while adding native visual perception and advanced visual...",
+      "description_zh": null
+    },
     {
       "id": "deepseek/deepseek-v4.1-flash",
       "name": "DeepSeek V4.1 Flash",
@@ -24,7 +49,7 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the cost-efficient tier of the V4.1 family. DeepSeek reports that it exceeds V4 Pro on performance, speed, and task...",
+      "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the first built on the company's Causal Encoder-Decoder (CED) architecture. It activates 8B parameters on input and 16B on...",
       "description_zh": null
     },
     {
@@ -732,8 +757,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.008,
-      "price_out": 3.41,
+      "price_in": 0.7,
+      "price_out": 2.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1023,8 +1048,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.659,
-      "price_out": 1.976,
+      "price_in": 0.579,
+      "price_out": 1.738,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1439,31 +1464,6 @@
       "supports_reasoning": true,
       "description": "Qwen3.7 Flash is a vision-language reasoning model from Alibaba. It is suited for multimodal agents, visual coding, search, and computer interaction, with strengths in object recognition, spatial understanding, and real-world...",
       "description_zh": "Qwen3.7 Flash是阿里巴巴的视觉语言推理模型。它适用于多模式代理、视觉编码、搜索和计算机交互，在对象识别、空间理解和现实世界方面具有优势......"
-    },
-    {
-      "id": "anthropic/claude-opus-5",
-      "name": "Claude Opus 5",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-opus-5-20260723",
-      "created_at": "2026-07-24T17:02:24Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Opus 5 is Anthropic’s flagship model for demanding reasoning, coding, and long-horizon agentic work. It is particularly strong at end-to-end software tasks, code review and bug finding, visual analysis...",
-      "description_zh": "Claude Opus 5 是 Anthropic 的旗舰模型，适用于要求较高的推理、编码和长期代理工作。它在端到端软件任务、代码审查和错误查找、可视化分析方面尤其强大......"
     }
   ]
 }

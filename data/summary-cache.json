@@ -86150,5 +86150,42 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/moji-2": {
+    "title_clean": "Moji：Markdown文件阅读工具",
+    "summary": "Moji是一款工具，允许用户像阅读PDF文件一样打开和查看Markdown文件，为Markdown文档提供了更便捷的阅读体验，可能对需要处理大量Markdown文档的产品经理在文档管理和展示方面提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cadenya-the-agent-runtime": {
+    "title_clean": "Cadenya：AI Agent托管循环平台",
+    "summary": "Cadenya是一个托管的AI Agent循环平台，旨在将AI代理的可能性转化为实际应用。该平台通过自动化循环执行AI代理任务，为开发者提供构建复杂AI代理工作流的工具，有助于元宝产品经理了解AI Agent自动化执行的技术实现路径。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/livegrid-4": {
+    "title_clean": "LiveGrid：多直播同时观看工具",
+    "summary": "LiveGrid是一款允许用户同时观看多个直播流的工具，帮助用户不错过任何重要内容。对于产品经理而言，这展示了多任务处理和内容消费场景的创新可能性，特别是在实时内容聚合和用户注意力管理方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
   }
 }

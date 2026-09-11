@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-09-11T09:20:30.603Z",
+  "generated_at": "2026-09-11T14:51:32.220Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "~openai/gpt-astra-latest",
+      "name": "OpenAI GPT Astra Latest",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/~openai/gpt-astra-latest",
+      "created_at": "2026-09-11T12:48:52Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 10,
+      "price_out": 50,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "This model always redirects to the latest model in the OpenAI GPT Astra family.",
+      "description_zh": null
+    },
+    {
+      "id": "~openai/gpt-sol-latest",
+      "name": "OpenAI GPT Sol Latest",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/~openai/gpt-sol-latest",
+      "created_at": "2026-09-11T12:48:48Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "This model always redirects to the latest model in the OpenAI GPT Sol family.",
+      "description_zh": null
+    },
+    {
+      "id": "~openai/gpt-terra-latest",
+      "name": "OpenAI GPT Terra Latest",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/~openai/gpt-terra-latest",
+      "created_at": "2026-09-11T12:48:45Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 12,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "This model always redirects to the latest model in the OpenAI GPT Terra family.",
+      "description_zh": null
+    },
+    {
+      "id": "~openai/gpt-luna-latest",
+      "name": "OpenAI GPT Luna Latest",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/~openai/gpt-luna-latest",
+      "created_at": "2026-09-11T12:48:42Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.2,
+      "price_out": 1.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "This model always redirects to the latest model in the OpenAI GPT Luna family.",
+      "description_zh": null
+    },
     {
       "id": "sakana/fugu-ultra-v2",
       "name": "Fugu Ultra v2",
@@ -54,6 +154,31 @@
       "description_zh": null
     },
     {
+      "id": "inclusionai/ling-3.0-flash-vl",
+      "name": "Ling 3.0 Flash VL",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-vl-20260910",
+      "created_at": "2026-09-10T16:01:54Z",
+      "context_length": 131072,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.06,
+      "price_out": 0.18,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ling 3.0 Flash VL builds on Ling 3.0 Flash (124B total / 5.5B active MoE from InclusionAI), further strengthening its language capabilities while adding native visual perception and advanced visual...",
+      "description_zh": null
+    },
+    {
       "id": "inclusionai/ling-3.0-flash-vl:free",
       "name": "Ling 3.0 Flash VL (free)",
       "vendor": "Inclusionai",
@@ -94,8 +219,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
-      "price_out": 1.2,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -807,8 +932,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.97,
-      "price_out": 3.308,
+      "price_in": 0.7,
+      "price_out": 2.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1098,8 +1223,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.66,
-      "price_out": 1.98,
+      "price_in": 0.579,
+      "price_out": 1.738,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1345,125 +1470,6 @@
       "supports_reasoning": true,
       "description": "Muse Spark 1.2 is a reasoning model from Meta, designed for complex agentic tasks. It accepts text, images, video, audio, and PDF documents, returns text, and offers a 1M-token context...",
       "description_zh": "Muse Spark 1.2 是 Meta 的推理模型，专为复杂的代理任务而设计。它接受文本、图像、视频、音频和 PDF 文档，返回文本，并提供 1M 代币上下文..."
-    },
-    {
-      "id": "~deepseek/deepseek-v4-flash-latest",
-      "name": "DeepSeek V4 Flash Latest",
-      "vendor": "DeepSeek",
-      "vendor_slug": "deepseek",
-      "url": "https://openrouter.ai/~deepseek/deepseek-v4-flash-latest",
-      "created_at": "2026-08-01T17:40:09Z",
-      "context_length": 1310720,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.05,
-      "price_out": 0.16,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the DeepSeek V4 Flash family.",
-      "description_zh": "此模型始终重定向到 DeepSeek V4 Flash 系列中的最新模型。"
-    },
-    {
-      "id": "deepseek/deepseek-v4-flash-0731",
-      "name": "DeepSeek V4 Flash 0731",
-      "vendor": "DeepSeek",
-      "vendor_slug": "deepseek",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-20260731",
-      "created_at": "2026-07-31T06:21:48Z",
-      "context_length": 1310720,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.065,
-      "price_out": 0.18,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows....",
-      "description_zh": "DeepSeek V4 Flash 0731 是 DeepSeek 的稀疏专家混合模型，总共 284B 个活动参数，其中有 13B 个。这个经过重新训练的版本适用于编码、推理和代理工作流程......"
-    },
-    {
-      "id": "deepseek/deepseek-v4-flash-0731:batch",
-      "name": "DeepSeek V4 Flash 0731 (batch)",
-      "vendor": "DeepSeek",
-      "vendor_slug": "deepseek",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-20260731",
-      "created_at": "2026-07-31T06:21:48Z",
-      "context_length": 1048576,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.11,
-      "price_out": 0.33,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "DeepSeek V4 Flash 0731 is a sparse mixture-of-experts model from DeepSeek, with 13B active parameters out of 284B total. This re-post-trained revision is suited for coding, reasoning, and agent workflows....",
-      "description_zh": "DeepSeek V4 Flash 0731 是 DeepSeek 的稀疏专家混合模型，总共 284B 个活动参数，其中有 13B 个。这个经过重新训练的版本适用于编码、推理和代理工作流程......"
-    },
-    {
-      "id": "thinkingmachines/inkling-small",
-      "name": "Inkling Small",
-      "vendor": "Thinkingmachines",
-      "vendor_slug": "thinkingmachines",
-      "url": "https://openrouter.ai/thinkingmachines/inkling-small-20260730",
-      "created_at": "2026-07-30T20:25:17Z",
-      "context_length": 1048576,
-      "modality": "text+image+audio->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.45,
-      "price_out": 1.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Inkling Small is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 12B active parameters out of 276B total. It is positioned as the smaller, more efficient member of...",
-      "description_zh": "Inkling Small 是 Thinking Machines Lab 的开放权重多模态专家混合模型，共有 276B 个主动参数，其中有 12B 个。它被定位为更小、更高效的成员......"
-    },
-    {
-      "id": "thinkingmachines/inkling-small:batch",
-      "name": "Inkling Small (batch)",
-      "vendor": "Thinkingmachines",
-      "vendor_slug": "thinkingmachines",
-      "url": "https://openrouter.ai/thinkingmachines/inkling-small-20260730",
-      "created_at": "2026-07-30T20:25:17Z",
-      "context_length": 524288,
-      "modality": "text+image+audio->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.5,
-      "price_out": 1.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Inkling Small is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 12B active parameters out of 276B total. It is positioned as the smaller, more efficient member of...",
-      "description_zh": "Inkling Small 是 Thinking Machines Lab 的开放权重多模态专家混合模型，共有 276B 个主动参数，其中有 12B 个。它被定位为更小、更高效的成员......"
     }
   ]
 }

@@ -86582,5 +86582,344 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/raycast": {
+    "title_clean": "Raycast 2.0：新一代AI助手工具",
+    "summary": "Raycast发布2.0版本，作为新一代AI助手工具，可能包含功能升级或新特性。作为macOS平台热门的启动器和生产力工具，其AI能力更新对元宝产品经理在桌面AI助手设计和功能迭代上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/formesign": {
+    "title_clean": "Formesign：为Google表单添加法律效力的签名工具",
+    "summary": "Formesign是一款为Google表单添加法律效力签名功能的工具，解决了表单收集签名时缺乏法律效力的痛点，为需要正式签名确认的场景提供了便捷解决方案，对元宝在表单处理和电子签名场景的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/design-studio-by-monday-merch": {
+    "title_clean": "Design Studio by Monday Merch：浏览器商品设计工具",
+    "summary": "Monday Merch推出浏览器内的商品设计画布，支持用户在1000多种产品上进行设计创作。该工具为电商和创作者提供了便捷的定制化商品设计解决方案，对元宝在电商场景下的AI设计助手功能有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/glyph-immersive": {
+    "title_clean": "GLYPH Immersive：模块化网格字母设计工具",
+    "summary": "GLYPH Immersive 是一款免费的模块化网格字母设计工具，专注于为用户提供字母设计的网格系统。这款工具可能对元宝产品经理在多模态交互和创意设计场景方面有一定参考价值，特别是对于需要文本视觉化功能的产品方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users": {
+    "title_clean": "Apple Watch 持续监听AI功能可能带来法律风险",
+    "summary": "Apple Watch Series 12 和 Ultra 4 的新增持续监听AI功能可能触犯窃听法规，法律专家指出这一功能将面临法律挑战。这对AI助手产品经理关注用户隐私边界和合规设计具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/devin-voice": {
+    "title_clean": "Devin Voice：语音指令执行工具",
+    "summary": "Devin Voice是一款通过语音指令直接执行任务的AI工具，用户只需说出需求，Devin即可完成交付。这展示了AI语音交互向自动化执行的发展趋势，对元宝产品经理在语音交互设计和自动化任务执行方面有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/apple-s-foldable-iphone-duo-shows-the-upside-of-waiting-video": {
+    "title_clean": "苹果折叠屏iPhone Duo：提升折叠手机市场标准",
+    "summary": "苹果首款折叠屏iPhone Duo售价1999美元，虽进入折叠手机市场较晚，但已通过精心设计提升了行业标准。该产品对元宝产品经理有参考价值，可了解高端折叠手机的设计趋势和用户期望。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/bloomberg-tech-9-11-2026-video": {
+    "title_clean": "Oracle云业务增长与AI风险讨论",
+    "summary": "彭博社分析师解读Oracle最新财报，分析其大规模AI基础设施建设如何缓解市场担忧，同时探讨AI社会风险引发的行业辩论。对产品经理了解云服务商AI战略布局及行业风险认知有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo": {
+    "title_clean": "Nscale：AI公司董事会新增前OpenAI高管",
+    "summary": "Nscale公司任命前OpenAI二号高管Fidji Simo加入董事会，她曾领导Instacart成功完成2023年IPO。这表明Nscale可能在为自身上市做准备，高管团队背景强化了公司在AI领域的专业性和市场可信度。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/fidji-simo-joins-data-center-startup-nscale-s-board-ahead-of-ipo": {
+    "title_clean": "Fidji Simo 加入数据中心公司 Nscale 董事会，助力 IPO 准备",
+    "summary": "前 OpenAI 和 Meta 高管 Fidji Simo 加入数据中心公司 Nscale 董事会，该公司正为 IPO 做准备。这一人事变动表明 AI 行业高管正流向基础设施领域，对元宝产品经理了解 AI 产业链人才流动趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/india-should-expand-use-of-rbi-digital-rupee-sitharaman-says": {
+    "title_clean": "印度财政部长呼吁扩大数字卢比使用",
+    "summary": "印度财政部长西塔拉曼呼吁印度央行探索扩大批发和零售央行数字货币的采用。这一表态表明印度政府对数字货币的支持态度增强，可能为AI助手在金融场景中集成数字货币功能提供政策环境参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-11/why-openai-s-sam-altman-says-he-s-ready-to-slow-ai-development": {
+    "title_clean": "OpenAI CEO Sam Altman：呼吁放慢AI发展速度",
+    "summary": "OpenAI首席执行官Sam Altman公开表示愿意放慢AI发展速度，并希望其他公司也能采取同样态度。这反映了行业对AI发展速度和安全性的重新思考，对产品经理评估AI发展节奏和安全性策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible": {
+    "title_clean": "Incredible Health：医疗人才招聘平台",
+    "summary": "医生出身的创业者Iman Abuzeid创立Incredible Health，打造颠覆传统招聘模式的医疗人才平台，让雇主主动申请医护人员，解决医疗行业人员短缺问题。这种反向招聘模式为元宝在垂直领域AI招聘服务场景提供了创新思路参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026": {
+    "title_clean": "Moonshot AI：目标2026年实现20亿美元年销售额",
+    "summary": "Moonshot AI计划通过其Kimi K3模型的突破性成功，在2026年底实现年销售额20亿美元的大幅增长，此举将增加与Anthropic等竞争对手的竞争压力。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/bridgewater-s-cio-on-ai-s-human-extinction-risk-video": {
+    "title_clean": "桥水CIO：AI灭绝人类风险真实存在",
+    "summary": "桥水基金首席投资官Greg Jensen作为OpenAI和Anthropic的早期支持者，在桥水领导AI战略。他警告AI可能带来人类灭绝的真实风险，这对AI产品经理思考安全边界和伦理框架具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff": {
+    "title_clean": "OpenAI考虑放缓前沿AI发展，CEO呼吁同行跟进",
+    "summary": "OpenAI正在考虑放缓前沿人工智能的发展速度，其CEO萨姆·阿尔特曼希望其他AI公司也能采取类似措施。这一动向可能影响整个AI行业的研发节奏和竞争格局，对产品经理评估技术发展速度和战略方向有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/video-caption-quality": {
+    "title_clean": "视频字幕质量评估研究：基于多选题回答的评测方法",
+    "summary": "该研究提出了一种评估视频字幕质量的新方法，通过多选题回答来测试字幕准确性。针对视觉大语言模型(VLLMs)字幕评估的挑战，该方法超越了传统的文本匹配指标，为AI视频内容理解提供了更有效的评估框架。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-pause-new-pro-subscriptions-cites-astra-demand": {
+    "title_clean": "OpenAI暂停Astra新订阅，称算力不足",
+    "summary": "OpenAI宣布暂停其旗舰模型Astra的200美元/月专业版新订阅，这表明AI公司正面临算力紧张问题。这一决策反映了AI大模型训练和部署的高成本挑战，对元宝产品经理评估高端AI服务定价策略和资源规划具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/japanese-startup-bets-iron-man-inspired-homes-can-beat-humanoids": {
+    "title_clean": "MW Inc.：内置机械臂的家庭清洁机器人",
+    "summary": "东京初创公司MW Inc.推出内置机械臂的家庭清洁机器人，与全球流行的类人机器人形成对比。该产品专注于家务清洁场景，为家庭提供自动化清洁解决方案，对AI服务场景和机器人应用方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal": {
+    "title_clean": "Maven Robotics：机器人部署服务提供商",
+    "summary": "Maven Robotics正式发布，完成1亿美元A轮融资并已开始实际部署。该公司专注于机器人部署服务，获得大额融资表明市场对机器人解决方案的需求增长，对元宝产品经理了解AI服务商业化及行业投资方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/bofa-apple-s-ternus-era-starts-with-innovation-ai-video": {
+    "title_clean": "BofA：苹果Ternus时代以创新和AI为起点",
+    "summary": "美国银行分析师指出，苹果新任CEO John Ternus的首个重要产品发布强化了公司在产品创新、隐私保护和个性化AI方面的战略方向。这表明苹果正将AI作为核心发展重点，对AI助手和个性化服务领域有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/huawei-lifted-prices-for-its-best-ai-chip-by-60-this-summer": {
+    "title_clean": "华为上调顶级AI芯片价格60%",
+    "summary": "华为通知部分客户，其最先进的AI加速器芯片价格大幅上调60%，反映了当前需求远超供应的市场状况。这一价格调整对AI硬件供应链和AI服务成本有直接影响，产品经理可据此评估AI算力成本变化对产品定价和策略的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/windsor-apple-unlikely-to-sway-foldable-android-users-video": {
+    "title_clean": "Windsor：苹果折叠屏手机难撼动安卓用户",
+    "summary": "苹果宣称其折叠屏手机将优于竞品，旨在展示在三星和中国手机厂商主导的品类中也能实现创新。这一动向对元宝产品经理有参考价值，可关注苹果如何通过AI功能和服务场景吸引用户，以及折叠屏设备对AI助手交互形态的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/uk-is-urged-to-overhaul-regulation-of-ai-medical-devices": {
+    "title_clean": "英国被敦促改革AI医疗设备监管",
+    "summary": "英国被建议改革AI医疗设备监管方式，以更好地保护患者，并应实施包括持续监控在内的分阶段审批流程。这对元宝产品经理了解AI医疗领域监管趋势和合规要求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks": {
+    "title_clean": "Listen Labs：放弃15亿美元融资转洽Salesforce合作",
+    "summary": "AI研究公司Listen Labs已签署Menlo Ventures的C轮融资条款，但最终放弃15亿美元融资，转而与Salesforce进行合作洽谈。这一动向反映了AI初创企业在融资与战略收购之间的权衡选择，对元宝产品经理评估AI公司发展路径和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant": {
+    "title_clean": "Shipt：AI购物助手配送应用",
+    "summary": "Shipt推出AI购物助手功能，用户可通过自然语言指令创建购物清单，如为25人聚会准备食品或构建学校午餐购物车。这一功能展示了AI在购物场景中的应用，为元宝在服务场景和AI助手功能设计上提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/samsung-backed-mangoboost-makes-profit-on-ai-data-center-demand": {
+    "title_clean": "Samsung-Backed MangoBoost：AI数据中心盈利解决方案",
+    "summary": "Samsung投资的MangoBoost公司已实现盈利，主要得益于市场对低成本AI数据中心解决方案的强劲需求。这一动态反映了AI基础设施领域的商业化进展，对元宝产品经理评估AI服务成本结构和商业化路径具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

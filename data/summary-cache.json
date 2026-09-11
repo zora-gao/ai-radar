@@ -85667,5 +85667,365 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-says-blocked-bioweapons-efforts-detected-chinese-distillation-attacks": {
+    "title_clean": "Anthropic：阻止生物武器研发并检测中国蒸馏攻击",
+    "summary": "Anthropic成功阻止了利用Claude模型进行恶意活动的尝试，包括研究如何将禽流感改造为人类可传播的具有大流行潜力的毒株，并检测到来自中国的模型蒸馏攻击，这对AI安全防护和内容审核机制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/adobe-shares-drop-2-despite-ai-product-sales-growth": {
+    "title_clean": "Adobe AI产品销售增长但股价下跌2%",
+    "summary": "Adobe第三季度财报显示其AI产品销售增长，但股价仍下跌2%，部分投资者对其AI产品能否驱动未来收入增长持谨慎态度。这反映了市场对AI商业化前景的评估分歧，对元宝产品经理评估AI产品商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/fund-focused-bootstrapped-founders-raises-950-million": {
+    "title_clean": "专注自筹资金创始人的基金筹集9.5亿美元",
+    "summary": "一家风险投资基金筹集9.5亿美元，专注于投资尚未产生收入的自筹资金创始人，与当前追逐热门初创企业的风投趋势形成对比。这反映了市场对可持续商业模式和创始人自主性的重视，对元宝产品经理评估融资策略和创始人生态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding": {
+    "title_clean": "Personal AI App Instinct：个人AI助手面临算力挑战",
+    "summary": "Instinct是一款在硅谷内部获得关注的一年期个人AI助手应用，其开发公司正面临算力短缺问题，正寻求更多计算资源，并利用早期热度应对新竞争。这对元宝产品经理了解AI助手商业化过程中的算力挑战和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-hurt-server-shortage-aims-triple-cloud-capacity-2032": {
+    "title_clean": "Microsoft计划到2032年将云服务容量提高三倍",
+    "summary": "微软计划将其Azure云数据中心容量从当前的12吉瓦增加到2032年的38吉瓦以上，以应对服务器短缺问题。这一扩张计划反映了云服务需求的持续增长，对AI助手和云服务提供商的容量规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/newsletter-september-10-2026": {
+    "title_clean": "Stripe创始人孵化器与AI治理热潮",
+    "summary": "Stripe创始人孵化器正在推动AI治理领域的创业热潮，这反映了AI应用安全与合规需求的快速增长。对元宝产品经理而言，这表明AI助手和Agent产品在商业化过程中需要重视治理与合规框架，可能成为未来产品差异化的关键方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/speechmark": {
+    "title_clean": "Speechmark：Mac端私密会议笔记工具",
+    "summary": "Speechmark是一款专为Mac设计的会议笔记工具，提供私密、本地设备存储的会议记录功能。产品经理可关注其在隐私保护和本地化处理方面的设计思路，为元宝的会议场景功能提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026": {
+    "title_clean": "马克·沃尔伯格将出席TechCrunch Disrupt 2026大会，聚焦创业与投资话题",
+    "summary": "演员马克·沃尔伯格将参加TechCrunch Disrupt 2026大会，与Bruce K. Lee一起探讨投资、创业、健康保健、企业建设等话题，关注创业者而非个人事业，为AI产品经理提供名人背书与跨界合作参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/south-korea-ramps-up-spy-law-to-protect-chip-secrets-from-china": {
+    "title_clean": "韩国修订间谍法加强芯片技术保护",
+    "summary": "韩国修订间谍法并将于本周末生效，旨在加强针对工业间谍行为的防御措施，保护三星电子和SK海力士等全球芯片巨头的核心技术秘密。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute": {
+    "title_clean": "Microsoft AI数据中心计划新增26吉瓦计算能力",
+    "summary": "微软因算力短缺曾拒绝部分AI和云业务，现计划建设38吉瓦数据中心容量以满足需求。这反映了AI算力需求的急剧增长，对元宝产品经理评估AI基础设施扩张和云服务竞争格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/oracle-beats-on-earnings-sales-rise-to-19-3-billion-video": {
+    "title_clean": "Oracle财报超预期，季度销售额增长30%达193亿美元",
+    "summary": "Oracle公布第一财季财报，每股收益1.92美元超预期，销售额增长30%达193亿美元。这表明企业云服务市场持续增长，对AI基础设施需求强劲，对元宝产品经理评估企业级AI服务市场趋势和商业化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/oracle-and-ai-earnings-better-than-feared-rbc-s-jaluria-video": {
+    "title_clean": "Oracle AI业绩超预期，RBC分析师看好AI业务前景",
+    "summary": "RBC分析师Jaluria表示Oracle第一季度AI相关业绩表现超出市场预期，认为Oracle在AI领域的布局和表现优于市场担忧，整体AI交易趋势向好。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand": {
+    "title_clean": "Oracle云业务超预期增长，AI需求驱动数据中心业务",
+    "summary": "Oracle云计算业务增速超出分析师预期，显示其在大型AI数据中心项目上的投资已开始产生回报。这表明企业级AI服务市场正在快速增长，对元宝产品经理了解企业AI服务市场趋势和数据中心基础设施需求有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/amazon-on-prime-video-sports-video": {
+    "title_clean": "Amazon：Prime Video与体育战略",
+    "summary": "Amazon Prime Video美国负责人兼全球体育业务负责人Jay Marine在Bloomberg Power Players活动中讨论了公司的视频和体育战略，这对元宝产品经理了解科技巨头如何整合内容与服务有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us": {
+    "title_clean": "Meta的AI助手Muse成为美国第二大应用",
+    "summary": "Meta最新推出的AI助手Muse应用表现强劲，已跃居美国应用排行榜第二位，虽然起步速度慢于Meta AI和Threads等其他应用，但增长势头显著，表明AI助手类产品在市场具有强劲吸引力。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/open-interest-9-10-2026-video": {
+    "title_clean": "油价突破105美元，Arnott警告泡沫风险",
+    "summary": "油价突破105美元，股市和国债因加息预期下跌，同时房地产市场数据引发关注。此信息对元宝产品经理有参考价值，可作为AI助手提供财经资讯服务的市场动态参考，帮助判断用户对实时经济信息的需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content": {
+    "title_clean": "Pocket FM：AI音频内容创作平台",
+    "summary": "Pocket FM利用AI技术生成93%的音频内容，使内容生产成本降低约80倍，年收入运行速率达到5亿美元。该案例展示了AI在内容创作领域的规模化应用和商业价值，对AI内容生成产品的成本控制和商业模式有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/bending-spoons-buys-miro-1-355-billion": {
+    "title_clean": "Bending Spoons以13.55亿美元收购Miro",
+    "summary": "意大利数字集团Bending Spoons以13.55亿美元收购白板软件公司Miro，这是该系列收购中的最新一笔。Miro是一款协作白板工具，此次收购反映了企业协作工具市场的整合趋势，对元宝产品经理了解AI协作工具市场格局和企业级服务场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/put-data-to-work": {
+    "title_clean": "ChatGPT Work：企业数据分析助手",
+    "summary": "ChatGPT Work推出数据分析功能，用户可通过自然语言连接公司数据、发现洞察并构建交互式仪表盘。这一功能将AI能力与企业数据分析场景结合，为产品经理提供了AI助手在企业服务场景的应用参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/spacex-overhauls-data-center-build-potentially-slowing-expansion": {
+    "title_clean": "SpaceX 调整数据中心建设策略，可能放缓扩张",
+    "summary": "SpaceX 正在重新规划其数据中心建设策略，这可能会影响其扩张速度。这一变化与埃隆·马斯克过去快速扩张的风格形成对比，值得关注其对AI基础设施建设的战略调整。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-10/ai-medical-tools-uk-calls-for-overhaul-of-ai-health-care-regulation": {
+    "title_clean": "AI医疗工具：英国呼吁改革AI医疗保健监管",
+    "summary": "英国政府呼吁对AI医疗保健监管进行全面改革，强调在医疗领域AI应用风险高，需要更严格的监管框架。这对元宝产品经理了解AI在医疗场景的监管趋势和合规要求具有重要参考价值，可能影响AI助手在健康咨询等领域的功能设计和市场策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/snap-launches-planning-feature-to-make-meet-ups-with-friends": {
+    "title_clean": "Snap：朋友聚会活动规划工具",
+    "summary": "Snap推出新功能，允许用户在应用内组织朋友聚会、发送邀请并收集回复，无需切换应用。这展示了社交平台向服务场景扩展的趋势，对元宝在社交场景下的AI服务规划有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/grab-is-said-in-talks-to-buy-softbank-backed-fintech-firm-atome": {
+    "title_clean": "Grab拟收购金融科技企业Atome",
+    "summary": "东南亚最大网约车和外卖平台Grab正在洽谈收购新加坡先买后付平台Atome Financial多数股权。这表明Grab正通过金融科技扩张服务生态，为产品经理提供了AI服务场景与商业化融合的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/china-hits-back-u-s-accusation-industrial-scale-ai-distillation": {
+    "title_clean": "中国回应美国指控中国AI企业大规模蒸馏美国AI模型",
+    "summary": "中国商务部否认美国关于中国AI企业进行'工业规模蒸馏'美国AI模型的指控，称华盛顿的最新行动是试图遏制中国AI发展。这一事件反映了中美在AI技术领域的竞争态势，对元宝产品经理了解国际AI政策环境和潜在市场壁垒有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropics-ipo-marketing-meets-extinction-risk": {
+    "title_clean": "Anthropic IPO营销与AI灭绝风险",
+    "summary": "Anthropic研究员在社交媒体上表示AI导致灭绝的可能性超过10%，引发对AI安全性的担忧。这反映了AI公司在追求商业化的同时面临的安全伦理挑战，对产品经理在平衡功能创新与安全边界方面有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/mandiant-founder-kevin-mandia-joins-amazons-board": {
+    "title_clean": "Mandiant创始人加入亚马逊董事会",
+    "summary": "网络安全专家、Mandiant公司创始人Kevin Mandia加入亚马逊董事会，使董事会成员增至12人。此前董事会成员Keith B. Alexander离职导致董事会规模一度缩减。这一人事变动可能影响亚马逊在网络安全领域的战略方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/c65nBOmFqld5z58x2SZWkg": {
+    "title_clean": "RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔",
+    "summary": "RoboPapers对光轮智能创始人谢晨的专访，探讨具身智能领域的Scaling Law理论及其在行业中的两座金字塔模型。内容涉及具身智能的发展路径和技术突破，对AI助手和Agent产品在物理世界交互能力方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/we-are-more-than-just-crypto-coinbase-s-vangrack-video": {
+    "title_clean": "Coinbase高管VanGrack：不止于加密货币",
+    "summary": "Coinbase副董事长兼企业事务主管VanGrack在Bloomberg Crypto节目中表示，Coinbase已迈出监管第一步，计划向美国用户提供除加密货币外的更多金融服务，显示传统加密货币交易平台向综合金融服务商转型的战略方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/ai-policy-window": {
+    "title_clean": "AI政策窗口期开放：需加强安全标准与政策行动",
+    "summary": "Chris Lehane指出，随着AI能力不断增强，需要提供更强大的安全证据、共享标准和持久的政策行动，趁政策窗口期尚未关闭。这对元宝产品经理了解AI监管趋势和政策合规要求具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

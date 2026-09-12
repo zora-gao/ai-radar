@@ -87480,5 +87480,194 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/framesketch": {
+    "title_clean": "FrameSketch：60帧逐帧视频绘制工具",
+    "summary": "FrameSketch是一款视频编辑工具，允许用户以60帧每秒的速度逐帧浏览视频并在上面进行绘制，为视频创作者提供了精细的标注和编辑功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/abrush-ai-2": {
+    "title_clean": "ABrush：AI数字艺术家工作室",
+    "summary": "ABrush是一款专为数字艺术家设计的AI工作室工具，提供AI辅助创作功能，帮助艺术家提升创作效率和质量。对元宝产品经理的参考价值在于了解AI在创意领域的应用场景和用户需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pascal-s-pager": {
+    "title_clean": "Pascal's Pager：Webhook转iPhone推送通知工具",
+    "summary": "Pascal's Pager 是一款将 webhook JSON 数据转换为可读的 iPhone 推送通知的工具，帮助开发者简化系统间的消息传递流程，提升移动端通知体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety": {
+    "title_clean": "Amodei呼吁AI公司协调安全标准",
+    "summary": "Anthropic CEO Dario Amodei发表3800字长文，呼吁AI行业协调安全标准，并宣布将给予第三方评估机构'员工级访问权限'，以评估和报告Anthropic在AI开发过程中的安全措施。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/early-anthropic-investor-seeks-vc-glory-cash-compute": {
+    "title_clean": "Early Anthropic Investor Seeks VC Glory With Cash and Compute：早期Anthropic投资者寻求通过资金与算力获得VC荣耀",
+    "summary": "早期Anthropic投资者Anjney Midha正通过资金和算力投资寻求在VC领域的成功，他收到妻子赠送的定制Stetson帽子象征其雄心。这对元宝产品经理了解AI领域投资动向和潜在合作机会有参考价值，特别是关注Anthropic生态发展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data": {
+    "title_clean": "Mecka AI：机器人训练数据融资近5亿美元",
+    "summary": "Mecka AI是一家成立两年的初创公司，正在完成一笔由红杉资本领投的融资，估值接近5亿美元。这笔交易发生在该公司宣布A轮融资数月后，反映了市场对机器人训练数据解决方案的高度关注和投资热潮。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events": {
+    "title_clean": "TechCrunch Disrupt 2026：科技大会官方分会活动申请截止",
+    "summary": "TechCrunch Disrupt 2026大会官方分会活动申请将于太平洋时间9月11日晚11:59截止，这是申请成为官方分会活动的最后机会。对产品经理而言，这是了解科技行业最新趋势和潜在合作机会的重要渠道。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sudari": {
+    "title_clean": "SUDARI：像素水獭桌面宠物工具",
+    "summary": "SUDARI是一款像素风格的桌面宠物水獭，能够根据用户的工作状态做出反应。这款产品为AI助手类产品提供了将情感化交互与工作场景结合的新思路，可作为元宝产品在桌面陪伴与用户互动方面的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/cognition-devin-testing-with-astra": {
+    "title_clean": "Cognition：Devin 自我测试工具 GPT-6 Astra",
+    "summary": "Cognition 开发的 GPT-6 Astra 工具增强了 Devin 的软件自我测试能力，帮助工程师减少代码审查工作量，加速产品发布。这对 AI 辅助编程和自动化测试领域的产品经理具有参考价值，展示了 AI 在软件开发生命周期中的应用潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation": {
+    "title_clean": "Palantir Foundry和cuOpt助力NVIDIA供应链自动化分配",
+    "summary": "NVIDIA采用Palantir Foundry和cuOpt技术，在全球制造站点实现硬件供应链分配决策的自动化，从晶圆产出到最终交付进行全流程运营效率测量。这对AI硬件供应链管理具有重要参考价值，展示了大型科技公司如何利用AI优化复杂供应链。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/8_f8A8v0SStdYptSTsu3ZA": {
+    "title_clean": "央企出品数字员工：AI助手实测表现超预期",
+    "summary": "央企开发的数字员工在实际应用中展现出超出预期的能力，可能代表AI助手在大型企业场景中的技术突破，为元宝产品在B端应用和AI能力边界拓展提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/visa-s-plan-for-india-s-payment-future-video": {
+    "title_clean": "Visa：印度支付未来战略规划",
+    "summary": "Visa正探索印度支付市场的未来发展方向，计划超越传统塑料卡支付，引入代理商务和代币化技术，以适应印度不断变化的支付方式。这一战略展示了支付巨头如何应对新兴市场支付习惯的变化，对元宝在金融服务场景的AI应用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development": {
+    "title_clean": "Anthropic报告：也门组织使用Claude AI参与导弹开发",
+    "summary": "Anthropic发现也门北部一个组织使用其Claude AI模型协助导弹和火箭系统开发，这表明AI技术可能被用于军事目的，对AI安全管控和内容审核机制提出了新挑战，产品经理需关注AI模型的安全边界和滥用风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/amazon-opens-books-on-debut-four-part-sterling-bond-sale": {
+    "title_clean": "亚马逊发行首笔英镑债券融资42.5亿英镑",
+    "summary": "亚马逊通过首次英镑债券发行筹集42.5亿英镑(约58亿美元)，尽管投资者订单有所减少，但仍扩大了四部分债券的规模。这一融资动向反映了亚马逊的资本运作策略，对元宝产品经理了解科技巨头的财务规划和市场信心有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch": {
+    "title_clean": "苹果秋季发布会：推出可折叠iPhone Duo和常听式Apple Watch",
+    "summary": "苹果在秋季发布会上首次推出可折叠手机iPhone Duo，以及具备常听功能的Apple Watch新品。这些产品展示了苹果在硬件创新和AI交互方面的最新进展，对元宝产品经理了解科技巨头的产品方向和AI功能集成有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

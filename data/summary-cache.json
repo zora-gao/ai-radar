@@ -86921,5 +86921,279 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million": {
+    "title_clean": "Oracle增加裁员计划7亿美元：应对AI数据中心开发导致的现金短缺",
+    "summary": "Oracle公司扩大了裁员计划规模，增加7亿美元预算，以应对因开发AI大型数据中心导致的现金短缺问题。这一调整反映了科技巨头在AI基础设施投入与成本控制之间的平衡挑战，对AI服务提供商的财务策略具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-salesforce-drop-agentforce-branding-products": {
+    "title_clean": "Salesforce将部分产品移除'Agentforce'品牌名称",
+    "summary": "Salesforce将在下周年度Dreamforce客户会议前，从部分核心产品名称中移除'Agentforce'一词。这一品牌调整可能反映了其AI Agent产品策略的变化，对元宝产品经理了解企业级AI Agent品牌定位和命名策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too": {
+    "title_clean": "Y Combinator CEO Garry Tan呼吁美国开放权重AI实验室'蒸馏'前沿模型",
+    "summary": "Y Combinator首席执行官Garry Tan呼吁美国小型开放权重AI实验室采用与前沿AI实验室相同的训练技术，以增强美国非中国系的开放权重模型选项，提升美国在AI领域的竞争力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026": {
+    "title_clean": "TechCrunch Disrupt 2026：科技大会展位预订倒计时",
+    "summary": "TechCrunch Disrupt 2026大会展位预订仅剩一周，9月18日截止，展位数量有限可能提前售罄。对产品经理而言，这是了解行业趋势、潜在合作伙伴和竞品动态的重要机会，有助于规划产品展示和市场策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/russia-takes-steps-to-create-a-space-council-with-brics-partners": {
+    "title_clean": "俄罗斯与金砖国家合作推进太空理事会建设",
+    "summary": "俄罗斯与金砖国家伙伴正推进建立太空合作协调理事会，由俄罗斯航天局负责人在印度新德里宣布。这一合作将协调多国在太空领域的联合行动，可能影响全球太空探索格局和国际合作模式。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/bridgewater-s-cio-ai-s-human-extinction-risk-is-real-video": {
+    "title_clean": "桥水CIO：AI人类灭绝风险真实存在",
+    "summary": "桥水首席投资官、OpenAI和Anthropic早期投资者Greg Jensen表达了对AI发展可能导致人类灭绝的严重担忧。作为资深科技观察者，他的观点反映了AI安全风险在投资界和科技精英中的日益重视，对元宝产品经理评估AI安全与伦理边界具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time": {
+    "title_clean": "Anthropic研究员警告：公司正快速迈向自我改进超级智能",
+    "summary": "Anthropic研究员近日辞职并在社交媒体发文警告，称公司正'直奔自我改进的超级智能并拿我们的生命赌博'，引发对AI安全与对齐问题的关注。这对产品经理了解AI安全风险与行业内部担忧有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/kalshi-moves-to-expand-into-us-stock-and-commodity-markets": {
+    "title_clean": "Kalshi：美国股票与商品期货交易平台",
+    "summary": "Kalshi公司正申请监管批准，计划在美国推出首个单一股票永续期货合约，并扩展至农产品等商品期货市场。这一扩张反映了金融科技领域对传统金融市场产品的创新尝试，为AI助手在金融信息处理和投资建议场景提供了新的服务机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/oracle-s-ai-cloud-growth-eases-buildout-concerns-video": {
+    "title_clean": "Oracle AI云业务增长缓解基础设施扩张担忧",
+    "summary": "Oracle最新财报显示其云基础设施收入增长120%，新增约850兆瓦电力容量，有效缓解了市场对其大规模AI基础设施建设的担忧。这对元宝产品经理评估云服务供应商选择和AI基础设施扩张策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-yottavate": {
+    "title_clean": "YottaVate CEO访谈：AI市场定位与客户需求分析",
+    "summary": "YottaVate首席执行官Tatenda Mapesa接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及竞争策略。该访谈提供了AI创业公司市场定位和客户洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-us-adversaries-aimed-claude-at-weapons-research": {
+    "title_clean": "Anthropic：Claude被伊朗和俄罗斯用于武器研究",
+    "summary": "Anthropic报告称其AI模型Claude被伊朗和俄罗斯用于开发军事应用，包括自杀式无人机群和导弹导航系统。这提示AI安全与滥用防范对AI助手产品至关重要，产品经理需考虑如何防止AI技术被用于有害目的。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital": {
+    "title_clean": "AI时代真正有效的两种护城河：反定位与网络经济",
+    "summary": "作者SC Moatti认为AI本身已不再是可持续的差异化优势，初创企业最有效的护城河是反定位和网络经济。这对元宝产品经理思考AI产品竞争策略和长期价值构建具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/scaling-storage-one-billion-users-part-one": {
+    "title_clean": "OpenAI：ChatGPT全球存储平台扩展至服务10亿用户",
+    "summary": "OpenAI将Habitat从Python库发展为全球分布式存储平台，现服务超10亿ChatGPT用户，每秒处理2200万请求。展示了AI大规模服务背后的基础设施挑战与解决方案，对元宝产品经理了解高并发AI服务架构有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ss9MNuL3A4gfoax7cWNStQ": {
+    "title_clean": "ECCV最佳论文出炉，李飞飞获时间检验奖",
+    "summary": "欧洲计算机视觉会议(ECCV)公布最佳论文获奖名单，李飞飞团队获得时间检验奖。该奖项表彰具有长期影响力的计算机视觉研究成果，反映AI基础研究的前沿方向，对计算机视觉技术发展有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/openai-weighs-slowing-cutting-edge-ai-development-video": {
+    "title_clean": "OpenAI考虑放缓前沿AI开发",
+    "summary": "OpenAI正考虑放缓前沿人工智能的开发速度，CEO Sam Altman希望其他AI公司也能跟进此举。这反映了行业对AI发展速度和安全性的重新思考，对产品经理评估技术路线和风险控制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/oracle-keeps-lid-capex-customers-pay-front": {
+    "title_clean": "Oracle：AI计算需求强劲，客户预付费模式支撑收入增长",
+    "summary": "Oracle报告显示AI计算需求强劲，客户愿意提前支付费用，这表明企业级AI服务市场存在稳定收入来源。对元宝产品经理的参考价值在于了解企业客户对AI服务的付费意愿和商业模式，有助于评估B2B AI服务的市场潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/yen-rally-puts-global-stocks-on-watch-for-carry-trade-unwind": {
+    "title_clean": "日元上涨引发全球股市关注：套利交易平仓风险",
+    "summary": "日元大幅上涨使套利交易重新成为焦点，市场担忧大规模平仓可能影响全球股市上涨趋势。这对产品经理了解宏观经济波动对AI投资决策工具的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/riot-games-discussed-polymarket-kalshi-sponsorships-for-esports": {
+    "title_clean": "Riot Games：讨论与预测市场平台合作电竞赞助",
+    "summary": "Riot Games正与预测市场平台Polymarket和Kalshi洽谈电竞赞助合作，这表明传统游戏公司开始探索将预测市场与电竞赛事结合的新商业模式，为元宝在游戏+AI预测场景的产品设计提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/inside-blackstones-bid-rule-ai-financing": {
+    "title_clean": "黑石集团与谷歌合作50亿美元投资AI基础设施",
+    "summary": "黑石集团与谷歌宣布成立合资企业，承诺投入50亿美元购买谷歌500兆瓦的Tensor处理能力，这是大型金融机构大规模投资AI基础设施的最新案例，反映了AI算力需求的持续增长和资本市场的关注焦点。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/doj-investigating-nvidias-licensing-deal-chip-startup-groq": {
+    "title_clean": "美国司法部调查Nvidia与芯片初创公司Groq的20亿美元技术授权交易",
+    "summary": "美国司法部正在调查Nvidia是否试图通过20亿美元的技术授权交易规避反垄断审查，该交易还包括雇佣Groq公司的大部分员工。这反映了AI芯片领域巨头可能面临的监管风险，对元宝产品经理了解AI基础设施领域的竞争格局和监管环境有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-10/apple-s-foldable-iphone-duo-is-here-what-we-know-video": {
+    "title_clean": "苹果发布折叠屏iPhone Duo：首款折叠智能手机",
+    "summary": "苹果在发布会上推出首款折叠屏智能手机iPhone Duo，希望通过这一新品类提振其最畅销产品线的增长。这款产品标志着苹果进入折叠屏手机市场，可能对AI助手在移动设备上的多模态交互和场景应用产生重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors": {
+    "title_clean": "OpenAI任命AI安全研究员加入董事会",
+    "summary": "OpenAI基金会宣布聘请知名AI安全研究员Paul Christiano加入董事会，专注于AI对齐研究。这一人事变动表明OpenAI正加强AI安全治理，对产品经理了解AI安全策略与公司治理结构有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -87669,5 +87669,139 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/marked-share": {
+    "title_clean": "Marked Share：Markdown与TextBundle编辑分享工具",
+    "summary": "Marked Share是一款专注于Markdown和TextBundle格式文档的编辑、审阅与分享工具，为文本协作提供了专业解决方案，对元宝在文档处理和协作功能开发方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/perplexity-improving-accuracy-with-astra": {
+    "title_clean": "Perplexity：采用GPT-6 Astra实现端到端系统自动化",
+    "summary": "Perplexity采用GPT-6 Astra模型实现通信撰写、软件修改和生产系统监控，相比早期模型大幅减少人工干预频率，展示了AI在复杂系统自动化方面的能力提升。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/larry-ellison-cancels-plan-sell-7-5-billion-oracle-stock": {
+    "title_clean": "甲骨文创始人取消出售75亿美元股票计划",
+    "summary": "甲骨文创始人拉里·埃里森取消了原计划出售价值75亿美元的5000万股公司股票。这一消息对元宝产品经理参考价值有限，属于企业高管个人财务决策，与AI产品发展、竞争格局或市场趋势无直接关联。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models": {
+    "title_clean": "Anthropic CEO：呼吁放缓AI模型发展速度",
+    "summary": "Anthropic CEO Dario Amodei表示AI行业需要放缓新模型开发速度，理由是存在日益增长的'严重'风险。这一表态对元宝产品经理具有重要参考价值，反映了头部AI公司对安全与发展的平衡思考，可能影响行业整体发展节奏和监管方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-12/blizzard-announces-diablo-v-new-starcraft-shooter": {
+    "title_clean": "暴雪宣布《暗黑破坏神V》和新《星际争霸》射击游戏",
+    "summary": "暴雪公司宣布推出《暗黑破坏神V》和新《星际争霸》射击游戏，标志着开发商经历的一年反弹。这对元宝产品经理有参考价值，因为暴雪作为知名游戏开发商，其新游戏发布可能反映用户对特定类型游戏的偏好，为AI助手在游戏领域的应用场景提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-may-invest-10-billion-anthropics-ipo": {
+    "title_clean": "Nvidia拟投资100亿美元支持Anthropic IPO",
+    "summary": "Nvidia正考虑投资Anthropic的首次公开募股，此次IPO可能筹集高达1000亿美元，Anthropic估值约为2万亿美元。这反映了AI大模型领域巨头间的资本合作与战略布局，对元宝产品经理了解AI行业资本动向和竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating": {
+    "title_clean": "OpenAI与数学家争端持续升级",
+    "summary": "25位知名数学家联名公开信指出AI实验室正在威胁他们的智力工作，反映了AI生成内容对专业领域的潜在影响，对元宝产品经理评估AI内容生成边界和版权风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/openai-s-altman-may-slow-down-ai-development-video": {
+    "title_clean": "OpenAI考虑放缓AI前沿开发",
+    "summary": "OpenAI CEO阿尔曼在公司会议上表示，公司可能考虑放缓前沿AI的开发速度，这一决策反映了AI行业对发展速度与安全性的重新权衡，对产品经理评估AI产品迭代节奏与安全策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/microsoft-s-data-center-plans-face-big-costs-video": {
+    "title_clean": "微软数据中心扩张计划面临巨大成本",
+    "summary": "微软计划将数据中心容量扩大三倍以上，以解决计算资源短缺问题，该短缺已导致其不得不拒绝部分AI和云计算业务。这一计划反映了AI服务快速增长带来的基础设施挑战，对元宝产品经理评估AI服务扩展成本和资源规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/chinese-chipmakers-become-billionaires-without-turning-a-profit": {
+    "title_clean": "中国芯片制造商未盈利却成亿万富翁",
+    "summary": "上海燧原科技这家中国芯片制造商仅有不到900名员工，只有一个大客户，自2018年成立以来从未盈利，但其创始人却已成为亿万富翁，反映了AI芯片行业的特殊投资逻辑和市场现象。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-10/former-hard-fork-hosts-in-talks-for-seven-figure-podcast-deal": {
+    "title_clean": "前科技播客主持人洽谈七位数播客交易",
+    "summary": "两位前科技播客主持人正在洽谈一项价值高达每年500万美元的播客交易，反映了科技公司在接触早期采用者方面的激烈竞争。这一交易规模突显了科技内容创作者在当前市场中的高价值，对元宝产品经理评估内容合作与用户触达策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

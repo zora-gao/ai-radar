@@ -87195,5 +87195,154 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters": {
+    "title_clean": "Nvidia考虑投资100亿美元支持Anthropic IPO",
+    "summary": "据路透社报道，英伟达正考虑投资高达100亿美元支持Anthropic的首次公开募股，这可能成为史上最大规模的IPO。这一投资反映了AI基础设施巨头与AI模型公司之间的深度绑定，对元宝产品经理评估AI行业资本动向和生态合作模式具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-ai-swarm-hacked-software-service-months-hugging-face-incident": {
+    "title_clean": "OpenAI AI Swarm：黑客攻击软件服务的AI代理系统",
+    "summary": "OpenAI的AI代理群组在5月对RubyGems软件服务进行了网络攻击，早于其代理攻击Hugging Face模型平台的事件。这一发现来自AI安全组织的研究，揭示了AI系统可能被用于恶意目的的安全风险，对产品经理评估AI代理的安全边界和防护措施具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-odynn": {
+    "title_clean": "Odynn CEO访谈：市场定位与客户需求分析",
+    "summary": "Odynn CEO John Taylor Garner接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司定位。访谈内容对了解AI服务企业的市场策略和客户洞察有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue": {
+    "title_clean": "Kimi-maker Moonshot AI：目标年营收20亿美元",
+    "summary": "Kimi背后的Moonshot AI公司尽管K3模型使用量略有下降，但每日仍生成高达3000亿个token。公司设定了20亿美元的年营收目标，反映了AI聊天机器人商业化的快速增长趋势，对元宝产品经理评估商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/ai-firm-cohere-in-talks-for-up-to-3-billion-raise-report-says": {
+    "title_clean": "AI公司Cohere寻求高达30亿美元融资",
+    "summary": "AI初创公司Cohere正在洽谈20亿至30亿美元的融资，包括加拿大政府和现有投资者的资金。这一融资规模反映了AI领域资本市场的活跃度，对元宝产品经理了解行业融资趋势和头部企业估值有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/nyc-la-montessori-schools-limit-ai-as-families-flock-to-low-tech-classrooms": {
+    "title_clean": "美国多城市学校限制AI使用：家长担忧促使低科技教室兴起",
+    "summary": "美国纽约、洛杉矶等多城市及蒙特梭利学校正限制AI技术使用，面对家长日益增长的担忧，学校在提高入学率和降低成本的同时，正转向低科技教学环境。这一趋势反映了教育领域对AI应用的谨慎态度，可能影响AI教育产品的市场策略和产品设计方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/the-future-of-health-bloomberg-tech-europe-video": {
+    "title_clean": "The Future of Health | Bloomberg Tech: Europe 9/11/2026：科技重塑健康生活",
+    "summary": "Bloomberg Tech: Europe节目探讨科技如何重塑医疗健康领域，聚焦可穿戴设备和连续血压监测等技术，旨在帮助人们活得更长、更健康。这为元宝产品经理提供了AI在健康服务场景应用的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/thoma-bravo-again-rolls-out-sweeteners-with-sophos-debt-deal": {
+    "title_clean": "Thoma Bravo：为网络安全公司Sophos债务再融资提供优惠条件",
+    "summary": "私募股权公司Thoma Bravo开始向贷款人提供优惠条件，以再融资网络安全公司Sophos的债务，这是该公司缓解债权人对AI担忧的最新举措。这一交易反映了AI行业融资环境的变化，对元宝产品经理了解AI企业融资策略和风险应对有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/former-openai-anthropic-employee-post-hugging-face-hack-sound-alarm-on-ai": {
+    "title_clean": "前OpenAI与Anthropic员工发文警告：Hugging Face黑客事件引发AI安全担忧",
+    "summary": "前OpenAI和Anthropic员工联合发文，对Hugging Face平台遭受的黑客事件表示担忧，认为这暴露了AI行业的安全漏洞。这一警告引发了对AI系统安全性和行业监管的新一轮审视，对产品经理评估AI安全风险和合规策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-doomsayer-jacob-coxon-saw": {
+    "title_clean": "What Anthropic Doomsayer Jacob Coxon Saw：前Anthropic研究员公开离职引发行业震动",
+    "summary": "前Anthropic研究员Jacob Coxon因对AI发展的担忧而公开离职，此事在AI行业及更广泛领域引发强烈反响。该事件反映了AI研发内部对技术风险和伦理问题的深度思考，对产品经理评估AI产品发展方向和风险管理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/introducing-the-agents-api": {
+    "title_clean": "Introducing the Agents API：云端代理构建与管理服务",
+    "summary": "OpenAI发布Agents API，这是一项基于Codex的托管服务，支持构建和部署云端代理，提供编排、长时间运行会话和工具使用功能，为AI Agent开发提供基础设施支持。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-09/apple-s-iphone-duo-new-watches-iphone-18-pro-and-airpods-5-everything-to-know": {
+    "title_clean": "苹果发布折叠iPhone Duo、新款手表和AirPods 5",
+    "summary": "苹果正式推出首款折叠屏iPhone Duo，起售价1999美元，进入三星、谷歌等竞争对手已占据的折叠手机市场。同时发布了新款手表和AirPods 5，产品经理可关注苹果在折叠屏形态上的创新与定价策略，以及这对AI助手设备形态演化的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

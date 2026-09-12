@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-12T00:39:19.954Z",
+  "generated_at": "2026-09-12T03:26:30.223Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "inference-net/schematron-v2-turbo",
+      "name": "Schematron V2 Turbo",
+      "vendor": "Inference Net",
+      "vendor_slug": "inference-net",
+      "url": "https://openrouter.ai/inference-net/schematron-v2-turbo-20260902",
+      "created_at": "2026-09-12T01:35:49Z",
+      "context_length": 128000,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.03,
+      "price_out": 0.15,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": false,
+      "description": "Schematron V2 Turbo is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes throughput for high-volume extraction workloads. Extraction instructions must be supplied through a JSON schema in response format rather...",
+      "description_zh": null
+    },
+    {
+      "id": "inference-net/schematron-v2-small",
+      "name": "Schematron V2 Small",
+      "vendor": "Inference Net",
+      "vendor_slug": "inference-net",
+      "url": "https://openrouter.ai/inference-net/schematron-v2-small-20260902",
+      "created_at": "2026-09-12T01:35:33Z",
+      "context_length": 128000,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.05,
+      "price_out": 0.23,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": false,
+      "description": "Schematron V2 Small is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes extraction quality for complex schemas and long pages. Extraction instructions must be supplied through a JSON schema...",
+      "description_zh": null
+    },
     {
       "id": "~openai/gpt-astra-latest",
       "name": "OpenAI GPT Astra Latest",
@@ -1419,57 +1465,6 @@
       "supports_reasoning": true,
       "description": "Muse Glimmer 30B is a dense, open-weight multimodal model from Meta Superintelligence Labs, distilled from Muse Spark and optimized for autonomous agents on consumer hardware. It is suited for long-horizon...",
       "description_zh": "Muse Glimmer 30B 是来自 Meta Superintelligence Labs 的密集、开放权重多模态模型，从 Muse Spark 中提炼出来，并针对消费类硬件上的自主代理进行了优化。它适用于长视野..."
-    },
-    {
-      "id": "meta/muse-glimmer-30b:batch",
-      "name": "Muse Glimmer 30B (batch)",
-      "vendor": "Meta",
-      "vendor_slug": "meta",
-      "url": "https://openrouter.ai/meta/muse-glimmer-30b-20260810",
-      "created_at": "2026-08-09T19:06:34Z",
-      "context_length": 131072,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.175,
-      "price_out": 0.75,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Muse Glimmer 30B is a dense, open-weight multimodal model from Meta Superintelligence Labs, distilled from Muse Spark and optimized for autonomous agents on consumer hardware. It is suited for long-horizon...",
-      "description_zh": "Muse Glimmer 30B 是来自 Meta Superintelligence Labs 的密集、开放权重多模态模型，从 Muse Spark 中提炼出来，并针对消费类硬件上的自主代理进行了优化。它适用于长视野..."
-    },
-    {
-      "id": "meta/muse-spark-1.2",
-      "name": "Muse Spark 1.2",
-      "vendor": "Meta",
-      "vendor_slug": "meta",
-      "url": "https://openrouter.ai/meta/muse-spark-1.2-20260805",
-      "created_at": "2026-08-05T19:48:07Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1.25,
-      "price_out": 4.25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Muse Spark 1.2 is a reasoning model from Meta, designed for complex agentic tasks. It accepts text, images, video, audio, and PDF documents, returns text, and offers a 1M-token context...",
-      "description_zh": "Muse Spark 1.2 是 Meta 的推理模型，专为复杂的代理任务而设计。它接受文本、图像、视频、音频和 PDF 文档，返回文本，并提供 1M 代币上下文..."
     }
   ]
 }

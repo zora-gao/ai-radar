@@ -87344,5 +87344,141 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/dockfix": {
+    "title_clean": "DockFix：macOS Dock自定义工具",
+    "summary": "DockFix 5.0是一款macOS系统工具，允许用户完全自定义系统Dock栏的外观和功能，提供个性化的桌面体验。对于元宝产品经理而言，这反映了用户对系统界面高度个性化的需求，可作为AI助手界面定制化的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/voxelwall": {
+    "title_clean": "VoxelWall：Mac音乐响应式动态壁纸",
+    "summary": "VoxelWall是一款Mac平台的应用程序，能够根据音乐节奏实时生成动态壁纸，为用户提供视听结合的桌面体验。这类产品展示了AI在多感官交互和个性化内容生成方面的应用潜力，对元宝产品经理探索音乐与视觉结合的AI服务场景具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/calerto-meeting-alarms": {
+    "title_clean": "Calerto for Mac：Mac全屏会议提醒工具",
+    "summary": "Calerto是一款Mac应用，专为全屏会议场景设计，能够在用户进入全屏模式时提供会议提醒功能，帮助用户不错过重要会议安排。产品经理可参考其针对特定使用场景的解决方案，思考如何优化元宝在会议提醒方面的用户体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/linkflick": {
+    "title_clean": "LinkFlick：Mac键盘跨设备连接工具",
+    "summary": "LinkFlick是一款解决Mac用户在多台Mac间重复配对Magic键盘问题的工具，简化了跨设备键盘连接流程，为多设备办公场景提供便利，对元宝产品经理在多设备协同功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cortex-25": {
+    "title_clean": "Cortex：API文档与SDK自动生成工具",
+    "summary": "Cortex是一款将API规范自动转化为文档、SDK和MCP服务器的工具，可大幅提升API开发效率，减少手动编写文档的工作量，对元宝产品经理在API集成和开发者工具方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-kilde": {
+    "title_clean": "Kilde CEO访谈：市场定位与客户需求",
+    "summary": "Kilde CEO Radek Jezbera接受CB Insights采访，分享公司市场定位、客户需求认知及发展策略。作为AI领域企业高管访谈，对了解行业趋势和竞争格局有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/polymarket-appoints-first-cfo": {
+    "title_clean": "Polymarket：预测市场平台任命首位CFO",
+    "summary": "预测市场平台Polymarket任命前亚马逊高管Warren Jenson为首任首席财务官，表明该平台正寻求在美国市场扩张。这对产品经理参考AI预测市场商业化路径及高管团队建设策略有重要价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/microsoft-plans-data-center-push-video": {
+    "title_clean": "Microsoft计划大幅扩展数据中心计算能力",
+    "summary": "微软计划将数据中心容量扩大三倍以上，以解决计算资源短缺问题，此前因算力不足不得不拒绝部分AI和云业务。这一扩张将直接影响其AI服务能力和云市场竞争力，对元宝产品经理评估基础设施扩张策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/tencent-backed-chipmaker-enflame-to-debut-after-911-million-ipo": {
+    "title_clean": "腾讯投资的芯片公司Enflame在上海上市首日暴涨179%",
+    "summary": "腾讯投资的芯片公司Enflame Technology在上海证券交易所上市首日股价暴涨179%，此次IPO融资约61.2亿元人民币（9.11亿美元）。这反映了AI芯片市场的强劲需求和投资者对AI基础设施的看好，对元宝产品经理评估AI硬件供应链和算力资源布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-10/top-pentagon-official-rejects-anthropic-researcher-s-ai-warning": {
+    "title_clean": "五角大楼高级官员拒绝Anthropic研究员的AI风险警告",
+    "summary": "五角大楼高级官员公开反驳Anthropic研究员关于AI风险的警告，认为AI技术不会如外界担忧的那样失控。这反映了AI安全领域内部观点分歧，对产品经理了解AI安全监管态度和行业争议有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-09/former-apple-ceo-sculley-excited-about-iphone-duo-video": {
+    "title_clean": "前苹果CEO对苹果折叠屏iPhone Duo表示兴奋",
+    "summary": "前苹果CEO John Sculley对苹果首款折叠屏手机iPhone Duo表示兴奋，该手机展开后拥有7.6英寸显示屏。作为苹果前领导人，他的反应可能反映了行业对苹果进入折叠手机市场的期待，对元宝产品经理了解科技巨头产品战略方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:10:46.987Z",
+  "generated_at": "2026-09-12T14:11:29.139Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -51,7 +51,7 @@
     },
     {
       "id": "~openai/gpt-astra-latest",
-      "name": "OpenAI GPT Astra Latest",
+      "name": "GPT Astra Latest",
       "vendor": "OpenAI",
       "vendor_slug": "openai",
       "url": "https://openrouter.ai/~openai/gpt-astra-latest",
@@ -71,12 +71,12 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the OpenAI GPT Astra family.",
+      "description": "This model always redirects to the latest model in the GPT Astra family.",
       "description_zh": null
     },
     {
       "id": "~openai/gpt-sol-latest",
-      "name": "OpenAI GPT Sol Latest",
+      "name": "GPT Sol Latest",
       "vendor": "OpenAI",
       "vendor_slug": "openai",
       "url": "https://openrouter.ai/~openai/gpt-sol-latest",
@@ -96,12 +96,12 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the OpenAI GPT Sol family.",
+      "description": "This model always redirects to the latest model in the GPT Sol family.",
       "description_zh": null
     },
     {
       "id": "~openai/gpt-terra-latest",
-      "name": "OpenAI GPT Terra Latest",
+      "name": "GPT Terra Latest",
       "vendor": "OpenAI",
       "vendor_slug": "openai",
       "url": "https://openrouter.ai/~openai/gpt-terra-latest",
@@ -121,12 +121,12 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the OpenAI GPT Terra family.",
+      "description": "This model always redirects to the latest model in the GPT Terra family.",
       "description_zh": null
     },
     {
       "id": "~openai/gpt-luna-latest",
-      "name": "OpenAI GPT Luna Latest",
+      "name": "GPT Luna Latest",
       "vendor": "OpenAI",
       "vendor_slug": "openai",
       "url": "https://openrouter.ai/~openai/gpt-luna-latest",
@@ -146,7 +146,7 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the OpenAI GPT Luna family.",
+      "description": "This model always redirects to the latest model in the GPT Luna family.",
       "description_zh": null
     },
     {

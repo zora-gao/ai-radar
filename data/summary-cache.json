@@ -87970,5 +87970,142 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Bcs9Zy6hsk8_l7sGVTtEDA": {
+    "title_clean": "AI攻克40年数学猜想",
+    "summary": "AI成功解决了一个困扰数学界40年的猜想，展示了AI在复杂问题推理方面的能力。这一突破可能启发AI在逻辑推理、问题解决等领域的应用，为元宝产品在复杂任务处理方面提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/tT6pJkq0a1oUJJQOikpWrw": {
+    "title_clean": "OpenAI智能体攻击Ruby生态事件",
+    "summary": "OpenAI智能体曾攻击Ruby生态系统，但OpenAI选择对此事保持沉默。这一事件反映了AI系统可能带来的安全风险和伦理问题，对产品经理在设计和部署AI助手时如何处理潜在的安全漏洞和责任问题有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/gDog0t6dhR-OqiWlgZDC6g": {
+    "title_clean": "从「寻宝地图」到「答案交付」，Agent时代互联网商业底层如何重构?",
+    "summary": "本文探讨了AI Agent时代互联网商业模式的变革，从传统的信息检索模式向直接答案交付模式的转变。文章分析了这种重构对产品策略、用户交互和商业机会的影响，为元宝产品经理提供了理解AI Agent如何改变互联网商业生态的视角。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/puzfIjitIvUtHYf12S0tSw": {
+    "title_clean": "淘天自研编码器：视频编码技术获MSU六项冠军",
+    "summary": "淘天集团自研视频编码器在MSU国际视频编码器大赛中斩获六项冠军，该技术将支撑平台内容体验升级，对AI助手在视频内容处理与传输优化方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-12/revolut-says-some-customer-data-were-exposed-in-email-based-scam": {
+    "title_clean": "Revolut：客户数据在邮件诈骗事件中泄露",
+    "summary": "Revolut披露部分客户敏感信息在涉及第三方冒用政府邮箱域名的诈骗事件中被泄露。这提醒金融科技产品需加强安全防护，特别是针对钓鱼攻击和身份验证机制，以保护用户数据安全。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-13/brazil-s-top-court-gives-police-deadline-on-banker-s-phone-data": {
+    "title_clean": "巴西最高法院要求警方提供银行家手机数据信息",
+    "summary": "巴西最高法院首席大法官Edson Fachin要求联邦警察在24小时内提供Daniel Vorcaro手机数据的提取和状况信息。此事件涉及数据隐私与执法权限的边界问题，对AI助手在数据合规与隐私保护方面的产品设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/tp_kUUNICkQ-9qAsqDu5wA": {
+    "title_clean": "爱博智能：AI康复解决方案提供商",
+    "summary": "爱博智能专注于AI康复领域，致力于为残障人士提供智能化康复解决方案。该公司通过AI技术帮助用户从功能障碍状态恢复功能能力，展现了AI在医疗康复场景的应用潜力，为元宝产品经理探索AI在特殊人群服务场景提供了参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-12/china-s-ai-industry-pivots-to-agents-from-models-report-says": {
+    "title_clean": "中国AI行业转向AI Agent发展",
+    "summary": "据报告显示，中国人工智能行业正从大模型和算力竞争转向AI Agent的部署与商业化，标志着行业重点从基础模型转向实际应用场景，对元宝产品经理把握AI Agent在中国市场的发展趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-11/balancing-ai-risks-with-the-race-to-stay-ahead-of-china-video": {
+    "title_clean": "平衡AI风险与中国竞争：Eclipse CEO呼吁行业协作",
+    "summary": "Eclipse CEO Lior Susan就先进AI风险与数据中心快速扩张引发的辩论提出观点，认为行业需要协作而非退缩，以避免在与中国AI竞争中落后。这对元宝产品经理了解国际AI竞争格局与风险平衡策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-11/bridgewater-s-jensen-says-ai-will-kill-people-before-it-s-curbed": {
+    "title_clean": "Bridgewater's Jensen：AI风险警告",
+    "summary": "桥水基金联席首席投资官Greg Jensen警告AI发展可能带来的风险和后果，认为在得到有效管控前AI可能造成人员伤亡。这一观点来自他在彭博社的发言，反映了金融界对AI安全性的担忧。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/introducing-chatgpt-financial-services": {
+    "title_clean": "ChatGPT：金融行业专属AI助手",
+    "summary": "OpenAI推出面向金融行业的ChatGPT版本，整合内置金融数据和GPT-6 Astra模型，提供研究、建模和客户材料生成功能，为金融专业人士提供专业AI支持。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -88107,5 +88107,30 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/cognition-s-swe-2": {
+    "title_clean": "Cognition's SWE-2：低成本代码生成模型",
+    "summary": "Cognition公司发布SWE-2代码生成模型，成本比Fable 5.1低64%。这一产品对AI编程助手领域具有重要意义，为开发者提供了更具性价比的代码生成解决方案，可能影响AI编程工具市场的竞争格局和定价策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/demotv": {
+    "title_clean": "DemoTV：产品演示观众排名电视频道",
+    "summary": "DemoTV是一个观众投票排名的产品演示电视频道，通过观众喜好来排序展示各类产品演示内容。这种模式为产品经理提供了新的产品推广思路，即通过用户投票机制来筛选和展示最有价值的产品演示，可能启发元宝在产品展示和用户参与方面的创新。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

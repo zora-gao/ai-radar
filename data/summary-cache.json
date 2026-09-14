@@ -88879,5 +88879,318 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/waymo-expands-paid-robotaxi-service-to-las-vegas-its-15th-city": {
+    "title_clean": "Waymo：自动驾驶出租车服务扩展至第15个城市拉斯维加斯",
+    "summary": "Alphabet旗下Waymo自动驾驶出租车服务正式在拉斯维加斯上线，这是其在美国提供的第15个付费乘车城市。这一扩张表明自动驾驶出租车服务正在加速商业化落地，为元宝产品经理提供了自动驾驶服务商业化进程的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026": {
+    "title_clean": "DevFest 2026：全球AI开发者大会",
+    "summary": "DevFest 2026回归，全球将举办800多场活动，聚焦AI代理时代下的构建、安全与规模化发展。为产品经理提供AI开发者生态动态及行业趋势参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/trump-ataca-a-ceo-de-anthropic-por-llamado-a-ralentizar-la-ia": {
+    "title_clean": "特朗普抨击Anthropic CEO要求放缓AI发展",
+    "summary": "美国总统特朗普公开批评Anthropic CEO Dario Amodei呼吁放缓AI发展的言论，加剧了其对人工智能监管的反对立场。这一政治表态反映了AI发展速度与监管之间的持续博弈，对AI产品经理了解政策环境变化和潜在监管风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/musk-s-xai-resolves-claims-against-apple-over-ai-competition": {
+    "title_clean": "马斯克xAI与苹果达成和解：结束关于AI竞争的反垄断诉讼",
+    "summary": "马斯克的xAI和X公司已与苹果公司达成和解，结束了一项反垄断诉讼。该诉讼指控苹果公司偏袒OpenAI的ChatGPT，而忽视其他聊天机器人开发者。这一和解反映了AI助手市场竞争格局的变化，对产品经理了解科技巨头间AI合作与竞争关系有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/ex-google-deepmind-insider-why-we-must-slow-down-ai-now-video": {
+    "title_clean": "前Google DeepMind科学家：呼吁减缓AI发展速度",
+    "summary": "前Google DeepMind研究科学家Alex Turner离开公司并公开表示，AI发展速度过快，政府监管跟不上，存在安全隐患。他呼吁业界放慢AI研发步伐，加强安全措施，这对元宝产品经理评估AI发展节奏与安全策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/canada-s-carney-on-capital-investment-ai-us-trade-video": {
+    "title_clean": "加拿大总理卡尼谈资本投资、人工智能与美国贸易",
+    "summary": "加拿大总理马克·卡尼阐述了增加外国投资的努力，寻求在人工智能安全方面的协调，并讨论了与美国贸易的现状。这反映了政府对AI安全监管的重视，以及将AI作为吸引外资和促进经济发展的关键因素的战略考量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work": {
+    "title_clean": "Superhuman 收获YC支持的笔记应用Fathom：生产力平台推动代理工作",
+    "summary": "Superhuman收购了YC支持的笔记应用Fathom，后者拥有40万月活跃用户。此次收购反映了生产力平台正在向代理工作模式发展，为元宝产品经理提供了AI助手与生产力工具整合的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/chinas-answer-surge-ai-got-1-billion-valuation-just-30-million-orders": {
+    "title_clean": "中国版Surge AI获10亿美元估值，仅基于3000万美元订单",
+    "summary": "中国AI公司Surge AI获得10亿美元估值，尽管仅完成3000万美元订单。这反映了AI安全领域的重要发展，Anthropic CEO呼吁大型AI公司放缓发展速度，可能影响中国AI创业公司的估值逻辑和市场策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting": {
+    "title_clean": "A Vinyl Bar in Shibuya：音乐创作实验应用",
+    "summary": "前Spotify高管创立的初创公司发布实验性音乐应用，让用户参与音乐创作过程，无需AI提示即可生成音乐内容，为音乐创作领域提供新思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days": {
+    "title_clean": "TechCrunch Disrupt 2026：科技创业展会参展申请倒计时",
+    "summary": "TechCrunch Disrupt 2026科技创业展会参展申请将于9月18日截止，目前仅剩5天。展会将吸引超过1万名创始人和投资者参与，为科技企业提供展示产品和业务的重要平台。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products": {
+    "title_clean": "Microsoft承诺为AI产品构建安全开关并呼吁行业自律",
+    "summary": "Microsoft发布新的AI行为准则，承诺避免构建可能规避人类监督的产品，并计划为AI产品构建安全开关。这是CEO纳德拉呼吁科技行业对AI发展进行\"节奏控制\"后的具体行动，反映了大厂对AI安全风险的重视。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-14/apple-s-iphone-duo-tackles-the-challenge-of-taking-foldables-mainstream": {
+    "title_clean": "苹果推出双屏iPhone：推动折叠屏手机主流化",
+    "summary": "苹果公司推出新款双屏iPhone，旨在改变消费者对折叠屏手机的偏好，推动折叠屏设备进入主流市场。这一产品动向可能影响元宝在移动端AI助手交互设计上的思考，特别是针对大屏和折叠场景下的用户体验优化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/microsoft-joins-ai-firms-calling-for-caution-with-ai-models": {
+    "title_clean": "微软呼吁对AI模型保持谨慎",
+    "summary": "微软AI研究人员发布新指导原则，限制公司前沿AI模型的开发，与竞争对手共同呼吁对AI技术采取谨慎态度。这对产品经理了解科技巨头对AI安全与伦理的立场变化有参考价值，可能影响行业监管方向和产品开发策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls": {
+    "title_clean": "中国拒绝美国关于放缓AI发展的呼吁",
+    "summary": "中国拒绝了美国科技高管关于放缓前沿AI发展的呼吁，认为这是美国的\"恐惧营销\"，同时强调中国正在保持领先地位以确保国家安全。这反映了中美在AI发展速度上的战略分歧，对元宝产品经理了解全球AI政策环境与竞争格局有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-14/ai-use-for-schoolwork-leaves-students-1-5-years-behind-oecd-finds": {
+    "title_clean": "AI用于学校作业使学生落后1.5年，经合组织研究发现",
+    "summary": "经合组织研究发现，学生使用AI完成学校作业会导致学业水平落后1.5年，但在亚洲经济体中AI聊天工具的使用已非常普遍。这一发现对元宝产品经理评估AI教育场景的负面影响和合理使用边界具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/anthropic-s-solution-to-ai-danger-quite-vague-opinion-video": {
+    "title_clean": "Anthropic提出AI危险应对方案被指模糊：观点",
+    "summary": "彭博观点专栏作家Parmy Olson讨论了Anthropic CEO Dario Amodei提出的AI实验室应放缓前沿研究的建议。该方案被批评为'相当模糊'，引发对AI安全与研发速度平衡的讨论，对元宝产品经理评估行业安全策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/forvia-is-said-to-explore-selling-car-smart-tech-unit-clarion": {
+    "title_clean": "Forvia考虑出售汽车智能技术部门Clarion",
+    "summary": "法国汽车供应商Forvia SE正考虑出售其日本子公司Clarion Electronics Co.，以削减债务并简化业务结构。这一动向可能影响汽车智能技术领域的市场格局，对元宝产品经理了解汽车行业AI服务整合与剥离策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/dangote-refinery-ipo-demand-crashes-nigerian-trading-app-bamboo": {
+    "title_clean": "Dangote Refinery IPO：尼日利亚最大石油炼厂上市导致交易应用崩溃",
+    "summary": "非洲最大IPO项目Dangote石油炼厂上市后，尼日利亚交易应用Bamboo在不到一小时内因需求过大而崩溃。这反映了新兴市场金融科技应用在高流量事件面前的系统稳定性挑战，对元宝产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown": {
+    "title_clean": "中国拒绝AI'恐吓论'，回应Amodei呼吁放缓AI发展",
+    "summary": "中国批评美国科技高管对AI发展的放缓警告，否认中国AI进步对世界构成安全威胁。这反映了中美在AI发展理念上的分歧，对元宝产品经理了解全球AI政策环境及不同国家对AI发展的态度有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/ligent-technologies-seeks-727-million-in-hong-kong-ipo": {
+    "title_clean": "Ligent Technologies：AI计算网络公司寻求香港IPO",
+    "summary": "AI计算网络公司Ligent Technologies计划在香港IPO融资最高7.27亿美元，这是今年香港上市热潮的一部分。对产品经理而言，这反映了AI基础设施领域的资本活跃度，可能预示着AI计算服务市场的扩张机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/samsung-sk-hynix-reject-kepco-s-power-grid-prepayment-plan": {
+    "title_clean": "三星、SK海力士拒绝韩国电力公司预付电费计划",
+    "summary": "三星电子和SK海力士拒绝了韩国电力公司提出的预付电费计划，该计划旨在让两家企业提前支付电费以资助电网建设。这对元宝产品经理了解大型科技企业能源成本管理策略有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/amazon-halts-operations-with-21-air-after-fatal-miami-crash": {
+    "title_clean": "亚马逊暂停与21航空公司的合作，因迈阿密致命空难",
+    "summary": "亚马逊暂停与货运航空公司21航空的合作，该公司9月6日在迈阿密机场的航班冲出跑道，造成地面5人死亡。此事件反映了物流安全风险对电商供应链的影响，对元宝在服务电商场景时需考虑安全合规因素有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/UL-xf0R0euOA-Jag51Gd2Q": {
+    "title_clean": "Astra：AI生成代码人类无法理解",
+    "summary": "Astra生成的代码复杂到人类无法理解，这可能标志着AI编程能力的新突破，但也带来代码可维护性和透明度的挑战，对AI编程工具的发展方向有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/asyncgrpo-lora-hfjobs": {
+    "title_clean": "Async GRPO with LoRA across HF Jobs：分布式训练优化方案",
+    "summary": "该技术方案提出了一种异步GRPO与LoRA结合的分布式训练方法，通过桶(bucket)和代理(proxy)实现跨Hugging Face Jobs的高效训练，无需NCCL通信。这对AI产品经理了解大模型训练优化技术有参考价值，可能影响未来AI产品的训练效率和成本结构。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/ocbc-s-vasu-on-the-stock-retreat-after-ai-warning-calls-video": {
+    "title_clean": "OCBC专家解读AI警告后的股市回调",
+    "summary": "亚洲股市和美国股指期货在多家人工智能公司呼吁放缓技术发展后出现下跌。OCBC投资策略董事总经理Vasu Menon对此进行了分析，为AI行业监管与市场反应提供了参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

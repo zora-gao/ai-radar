@@ -89192,5 +89192,382 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/aside-6": {
+    "title_clean": "Aside：AI浏览器工作助手",
+    "summary": "Aside是一款AI浏览器工具，旨在帮助用户高效完成工作任务。它通过AI技术辅助用户浏览网页、处理信息，提升工作效率，为产品经理提供了AI助手在浏览器场景下的应用参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/juggler": {
+    "title_clean": "Juggler：AI视觉编程工具",
+    "summary": "Juggler是一款视觉AI编程工具，通过可视化界面辅助用户进行编程工作。它可能利用AI技术简化编程流程，提高开发效率，为元宝产品团队在AI辅助编程领域提供竞品参考和技术启发。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/marqly": {
+    "title_clean": "Marqly 6.0：书签AI问答工具",
+    "summary": "Marqly 6.0是一款书签管理AI工具，允许用户将书签内容导入AI系统进行智能问答。该产品通过连接用户保存的网络资源与AI能力，提供基于书签内容的智能检索和问答服务，为AI助手产品提供了知识库整合的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/memorypet": {
+    "title_clean": "MemoryPet 2.0：浏览器工具栏使用监控动画",
+    "summary": "MemoryPet 2.0是一款浏览器扩展工具，将工具栏转变为动画使用监控器，帮助用户直观了解浏览器使用情况。对于元宝产品经理而言，这种将抽象数据可视化的交互方式，可借鉴到AI助手使用习惯展示功能中，提升用户对AI使用频率和功能的认知。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/defense-startup-shield-ai-talks-valuation-least-20-billion": {
+    "title_clean": "Shield AI：军用无人机与AI软件开发商寻求200亿美元估值融资",
+    "summary": "Shield AI是一家为军方开发无人机和AI软件的初创公司，正寻求以至少200亿美元的估值进行新一轮融资。这反映了AI在国防领域的商业化进展和资本对AI军事应用的看好，对元宝产品经理了解AI技术在高价值垂直领域的商业化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says": {
+    "title_clean": "OpenAI以3亿美元收购智能手机相机厂商Glass Imaging",
+    "summary": "OpenAI以3亿美元收购了由前苹果工程师创立的Glass Imaging公司，该公司曾领导开发苹果的肖像模式功能。此次收购表明OpenAI可能正在加强其多模态AI能力，特别是在图像处理和计算机视觉领域，这可能为其AI助手产品带来新的交互方式和功能增强。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/carney-calls-for-global-tech-body-to-boost-ai-guardrails-video": {
+    "title_clean": "加拿大提议建立全球科技机构以加强AI监管",
+    "summary": "加拿大总理马克·卡尼呼吁成立全球'科技稳定'机构，负责监督AI发展并确保其安全性。这一提议反映了国际社会对AI监管框架的迫切需求，对元宝产品经理了解全球AI政策趋势和监管方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/upcoming-apple-products-what-to-expect-in-late-2026-and-early-2027": {
+    "title_clean": "苹果2026-2027年新品展望：iPhone、AirPods及智能手表后续产品规划",
+    "summary": "苹果近期已发布iPhone Duo、iPhone 18 Pro系列、AirPods 5耳机及新款智能手表，但公司计划在2026年底至2027年初推出更多新产品。这对元宝产品经理了解科技巨头产品迭代节奏和用户需求变化有参考价值，特别是AI功能在消费电子产品中的整合趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/are-we-losing-control-of-ai-what-s-driving-new-fears": {
+    "title_clean": "Are We Losing Control of AI? What's Driving New Fears：AI失控风险引发新担忧",
+    "summary": "本文探讨了AI技术从科幻电影走向普通手机应用过程中，科技领袖和AI内部人士对潜在失控风险的担忧。文章分析了引发新恐惧的因素，对产品经理了解AI安全与伦理边界、用户信任建立具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/ai-bosses-risk-clash-with-trump-over-innovation-safety-video": {
+    "title_clean": "AI企业高管与特朗普政府可能在创新与安全问题上产生冲突",
+    "summary": "据Bloomberg报道，白宫不愿因任何因素干扰当前AI议程，特朗普政府已将AI作为其经济议程的核心。这可能导致AI企业高管与政府在创新与安全监管方向上产生分歧，对元宝产品经理了解AI政策环境变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/german-banks-say-renewable-reform-to-jeopardize-green-projects": {
+    "title_clean": "德国银行：可再生能源改革将危及绿色项目",
+    "summary": "德国多家大型银行表示，政府拟议的可再生能源改革将增加项目融资难度，可能导致项目延迟并阻碍投资。这对元宝产品经理了解能源行业AI服务场景和绿色金融领域的潜在机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/bloomberg-tech-9-14-2026-video": {
+    "title_clean": "AI前沿发展面临安全放缓呼吁",
+    "summary": "彭博社报道，AI领域正出现呼吁放缓前沿技术发展的声音，认为安全措施需要时间追赶日益强大的模型能力。这一辩论已进入华盛顿和华尔街，可能影响AI产品开发节奏和监管方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch": {
+    "title_clean": "宇航员Christina Koch与Google高管James Manyika探讨太空、技术与探索",
+    "summary": "宇航员Christina Koch与Google研究、实验室、技术与社会高级副总裁James Manyika进行对话，讨论太空探索、技术发展及科学发现等话题，为AI产品经理提供科技前沿与跨领域合作的视角。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/ai-needs-a-full-stop-not-a-slowdown-parmy-olson-video": {
+    "title_clean": "AI发展需要全面暂停而非放缓：Parmy Olson观点",
+    "summary": "彭博观点专栏作家Parmy Olson认为，如果行业领袖真正相信超级智能可能带来生存风险，那么呼吁'放缓'前沿AI开发是不够的，应该全面暂停。这一观点对元宝产品经理在AI安全与伦理方面的产品策略有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/roblox-shares-rise-11-on-new-tools-for-game-developers": {
+    "title_clean": "Roblox推出游戏开发者新工具，股价上涨11%",
+    "summary": "Roblox公司于9月11日开发者大会上宣布为游戏设计师提供新工具，并推出面向玩家的新功能，导致公司股价单日上涨超过11%。这表明平台对开发者的支持策略能有效提振市场信心，对元宝在AI辅助内容创作工具方向具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/opinion-anthropic-s-ai-slowdown-isn-t-enough-video": {
+    "title_clean": "Anthropic的AI放缓措施不足",
+    "summary": "Anthropic CEO Dario Amodei曾倡导建立\"高标准警戒\"引领行业，但这一理想可能难以实现。Anthropic的AI发展放缓措施被认为力度不够，反映了AI安全与快速发展之间的持续张力，对产品经理评估AI安全策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/open-interest-9-14-2026-video": {
+    "title_clean": "AI放缓担忧引发华尔街震荡",
+    "summary": "华尔街科技股下跌，因新警告呼吁放缓AI竞赛。这反映了市场对AI发展速度可能放缓的担忧，对元宝产品经理而言，需关注AI行业增速变化可能带来的市场调整和投资方向转变。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/ai-era-coincides-with-weak-pay-and-employment-for-college-graduates": {
+    "title_clean": "AI时代与大学毕业生薪资就业下降趋势",
+    "summary": "AI技术的兴起与大学毕业生初始薪资和就业率的显著下降同时发生，尤其是那些最易受AI影响的专业的毕业生，这一趋势值得关注，可能对AI产品经理思考AI对就业市场的影响和产品定位有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/refounding-america-tax-code-needs-change-age-ai": {
+    "title_clean": "Refounding America: AI时代税收制度改革",
+    "summary": "Khosla Ventures创始人Vinod Khosla呼吁在AI时代改革美国税收制度。作为OpenAI投资者和Sun Microsystems联合创始人，他从创新角度提出税收政策需要适应AI发展，这对AI产品经理了解政策环境变化和潜在商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/rig-at-miami-construction-site-falls-injuring-several-video": {
+    "title_clean": "迈阿密建筑工地起重机倒塌事故",
+    "summary": "迈阿密金融区Citadel新总部建筑工地发生起重机倒塌事故，多辆汽车被压，交通受阻。此事件对元宝产品经理的参考价值在于，AI助手在紧急情况下的信息获取、实时更新和安全提醒功能的应用场景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/stocks-fall-on-ai-fears-as-10-year-yield-hits-5-video": {
+    "title_clean": "AI巨头呼吁放缓发展引发股市下跌",
+    "summary": "AI行业巨头呼吁放缓发展，加上芯片股大跌和油价上涨导致10年期国债收益率攀升至5%，引发股市整体下跌。这一市场动向反映了AI行业可能面临的发展放缓预期，对元宝产品经理评估AI行业发展趋势和投资环境具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/what-blockchain-still-needs-to-win-wall-street-video": {
+    "title_clean": "区块链技术在华尔街的应用挑战",
+    "summary": "Kaiko CEO Ambre Soubiran在Bloomberg节目中解释了区块链技术在华尔街的采用为何比预期缓慢。她认为技术已经成熟，但代币化市场仍面临挑战，这对元宝产品经理了解区块链技术在金融领域的实际应用障碍有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026": {
+    "title_clean": "AI助力物种复活：TechCrunch Disrupt 2026探讨科技如何让自然回归",
+    "summary": "TechCrunch Disrupt 2026将探讨AI如何助力灭绝物种复活，这一科幻概念已成为十亿美元级创业公司的使命。该议题展示了AI在生态保护领域的创新应用，为元宝产品经理提供了AI服务拓展至环保科技场景的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei": {
+    "title_clean": "特朗普抨击Anthropic CEO呼吁放缓AI发展",
+    "summary": "美国总统特朗普公开批评Anthropic CEO Dario Amodei呼吁放缓AI发展的言论，加剧了他对AI监管护栏的反对立场。这一政治表态反映了AI发展速度与安全监管之间的持续博弈，对AI产品经理了解政策环境变化和潜在监管风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use": {
+    "title_clean": "Anthropic数据安全担忧促使Nvidia、Palantir和Booz Allen限制模型使用",
+    "summary": "随着对Anthropic或OpenAI可能从客户知识产权中学习的担忧加剧，Palantir技术公司、Nvidia和Booz艾伦等从事敏感企业工作的大型企业开始限制AI模型的使用，反映了企业对AI数据安全的重视程度提升。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/icbc-hsbc-among-major-lenders-on-bytedance-s-30-billion-loan": {
+    "title_clean": "字节跳动获得300亿美元贷款：工行、汇丰等主要金融机构参与",
+    "summary": "字节跳动获得296亿美元贷款，包括工商银行和汇丰在内的二十多家金融机构参与。这笔巨额融资反映了字节跳动作为科技巨头的财务实力和全球影响力，对产品经理了解科技巨头的资本运作和扩张策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/data-center-firm-firmus-said-to-seek-5-billion-in-australia-ipo": {
+    "title_clean": "数据中心企业Firmus拟在澳大利亚IPO融资50亿美元",
+    "summary": "数据中心企业Firmus Technologies计划在澳大利亚进行首次公开募股，寻求筹集高达50亿美元资金。这反映了数据中心基础设施领域的投资热潮，对元宝产品经理了解AI基础设施服务提供商的融资动态和行业扩张趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/z-ai-plans-5-billion-fundraising-compute-cost-grows": {
+    "title_clean": "Z.ai：AI模型算力成本增长背景下的50亿美元融资计划",
+    "summary": "Z.ai计划通过股权和可转换债券融资约50亿美元，以在开发前沿AI模型的算力成本日益增长的竞争中补充资金储备。这反映了AI行业大规模算力投入已成为常态，对元宝的产品成本规划和融资策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/china-spy-chief-warns-of-ai-risks-as-us-tech-leaders-urge-brakes": {
+    "title_clean": "中国间谍头目警告AI风险，Anthropic CEO呼吁谨慎",
+    "summary": "中国最高情报官员就AI技术发出详细警告，称其快速发展可能威胁政治稳定和关键基础设施；Anthropic CEO同时呼吁对AI发展采取谨慎态度，反映监管与安全成为行业重要议题。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call": {
+    "title_clean": "AI企业与美国政府就放缓AI发展速度产生分歧",
+    "summary": "Anthropic和OpenAI等AI开发企业与美国特朗普政府就呼吁全行业放缓人工智能发展速度的提案发生冲突，这一争议反映了AI发展速度监管政策的重要分歧，对元宝产品经理了解AI行业监管环境变化及企业应对策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

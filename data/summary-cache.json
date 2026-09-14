@@ -88637,5 +88637,76 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/beijing-bans-drones-in-sweeping-curbs-after-citic-tower-crash": {
+    "title_clean": "北京全面禁止无人机飞行以加强安全管控",
+    "summary": "北京在私人飞机撞入中信大厦事件后，全面禁止娱乐性无人机的持有和使用，以加强首都安全管控。这一政策变化对无人机相关AI应用和服务场景带来直接影响，产品经理需关注此类监管变化对AI服务边界的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/z-ai-s-cash-burn-drives-alibaba-like-hong-kong-fundraising-spree": {
+    "title_clean": "Z.AI：AI模型公司香港融资",
+    "summary": "Z.AI在锁定期结束后迅速重返香港股市融资，反映其高现金消耗率，表明该AI模型公司急需资金抓住市场机会。此融资模式类似于阿里巴巴，对AI初创企业的资金策略和香港资本市场对AI企业的支持具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group": {
+    "title_clean": "Anthropic与特朗普关联企业签署137亿美元算力协议",
+    "summary": "Anthropic与Rum Group签署了一项为期六年、价值137亿美元的算力合作协议。Rum Group是一家社交媒体背景的公司，与特朗普政府有长期联系。这笔巨额交易反映了AI大模型对算力资源的极度渴求，以及大型科技公司通过战略合作获取算力资源的新趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/chevron-australia-president-on-lng-outlook-video": {
+    "title_clean": "Chevron Australia总裁谈液化天然气前景",
+    "summary": "Chevron澳大利亚总裁Balaji Krishnamurthy讨论了液化天然气的供需前景和价格水平，并分析了中东紧张局势持续对能源市场的影响。这对能源行业分析师和关注全球能源市场动态的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-08/new-bitcoin-hack-exposes-cracks-in-crypto-video": {
+    "title_clean": "比特币新黑客攻击暴露加密货币漏洞",
+    "summary": "Bloomberg Intelligence分析师Dushyant Shahrawat在节目中讨论了一起针对比特币区块链的黑客攻击事件，该攻击导致价值3.2亿美元的比特币被盗，暴露了加密货币交易系统的安全漏洞。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ais-pacing-obsession-misses-real-political-problem": {
+    "title_clean": "AI的'节奏'执念忽视了真实政治问题",
+    "summary": "Dario Amodei在采访中表现出对AI发展节奏的担忧，认为行业过度关注技术迭代速度而忽视了AI在政治和社会影响方面的真实问题。这对元宝产品经理有参考价值，提醒在AI产品开发中需平衡技术进步与社会责任。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

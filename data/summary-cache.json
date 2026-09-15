@@ -89732,5 +89732,153 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/portfolio-frame": {
+    "title_clean": "Portfolio Frame：截图设计与标注工具",
+    "summary": "Portfolio Frame是一款截图设计与标注工具，用户可以美化、标注并导出专业级别的截图，适用于产品展示和设计文档制作，为AI助手在视觉内容生成和文档处理方面提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mac-duo": {
+    "title_clean": "Mac Duo：MacBook屏幕磨砂玻璃工具",
+    "summary": "Mac Duo是一款MacBook工具，当用户合上笔记本屏幕时，可将外接显示器转变为磨砂玻璃效果，提供隐私保护功能。这款工具针对MacBook用户在多屏工作场景下的隐私需求，为产品经理提供了隐私保护功能的设计参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tangerine-zero-click-file-converter": {
+    "title_clean": "Tangerine：Mac离线文件修改工具",
+    "summary": "Tangerine是一款专为Mac设计的离线文件修改工具，允许用户在不联网的情况下直接编辑本地文件。对于元宝产品经理而言，这反映了用户对本地文件处理的需求，可作为AI助手在文件操作场景下的功能参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lucidbit": {
+    "title_clean": "PeekPaste：剪贴板管理工具",
+    "summary": "PeekPaste是一款剪贴板管理工具，让用户能够轻松访问和管理剪贴板内容。这类工具对AI助手产品经理有参考价值，因为剪贴板管理是AI助手需要处理的基础功能之一，影响用户复制粘贴体验和跨应用信息流转效率。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sierra": {
+    "title_clean": "Multimodal Agents by Sierra：多模态AI代理工具",
+    "summary": "Sierra推出支持语音、文本和视觉切换的多模态AI代理，能够处理多种交互方式。这一产品展示了AI代理向多模态交互发展的趋势，为元宝产品在多模态交互设计上提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/axari": {
+    "title_clean": "Axari：AI安全助手工具",
+    "summary": "Axari是一款AI安全助手工具，能够帮助用户处理安全相关的繁琐工作。该产品通过AI代理技术，将用户的安全任务自动化，减轻安全人员的工作负担，提高安全处理效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/bytedances-first-half-profit-drops-20-billion-weighed-ai-spending": {
+    "title_clean": "字节跳动上半年利润降至200亿美元，AI投资拖累业绩",
+    "summary": "字节跳动上半年净利润降至200亿美元，同比下降个位数百分比。主要原因是公司大幅增加AI领域投资，显示字节正积极布局AI技术，但也面临短期盈利压力。这对元宝产品经理了解大型科技公司AI投入策略与盈利平衡有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/grab-to-buy-most-of-atome-for-1-49-billion-to-spur-lending-push": {
+    "title_clean": "Grab以15亿美元收购Atome，加码金融科技服务",
+    "summary": "Grab控股同意以14.9亿美元收购新加坡先买后付平台Atome多数股权，这是其拓展金融服务领域的重要战略举措。收购将帮助Grab在东南亚市场构建更全面的金融生态系统，增强其超级应用的综合服务能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-15/ai-safety-push-raises-antitrust-questions-for-anthropic-openai": {
+    "title_clean": "AI安全推进引发Anthropic和OpenAI反垄断问题",
+    "summary": "AI行业领袖虽同意放缓发展步伐，但中国和特朗普政府持不同立场，这可能导致Anthropic和OpenAI面临反垄断审查。此动态反映了AI安全与市场竞争之间的张力，对元宝产品经理了解行业监管环境变化和潜在政策风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-said-buy-startup-glass-imaging-300-million": {
+    "title_clean": "OpenAI收购智能手机摄像头初创公司Glass Imaging",
+    "summary": "OpenAI以3亿美元收购了Glass Imaging公司，这是一家专注于开发智能手机高质量摄像头的初创企业。此次收购表明OpenAI正在拓展硬件领域，可能为其多模态AI能力提供更强大的视觉输入支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-15/australia-s-ai-regulation-debate-video": {
+    "title_clean": "澳大利亚AI监管辩论",
+    "summary": "全球AI安全辩论加剧，特朗普驳斥行业放缓呼吁为\"阴谋论\"，中国则称相关警告为\"危言耸听\"。此资讯反映AI监管政策国际分歧，对元宝产品经理了解全球AI监管环境变化及潜在市场影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/tech-execs-try-to-telegraph-ai-concerns-without-spooking-investors": {
+    "title_clean": "Sam Altman、Elon Musk、Mark Zuckerberg 分享对AI安全与监管的看法",
+    "summary": "科技巨头就人工智能发展速度与安全监管展开讨论，表达了对AI潜在风险的担忧。这一对话反映了行业领袖对AI安全与治理的分歧，对元宝产品经理了解行业顶级决策者对AI安全的态度和监管趋势具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

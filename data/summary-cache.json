@@ -89569,5 +89569,168 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ozbrain": {
+    "title_clean": "OzBrain：AI知识共享平台",
+    "summary": "OzBrain是一个知识共享平台，允许用户将个人知识分享给AI代理和团队成员，促进跨AI系统和团队间的知识流通与协作，有助于构建更智能的AI助手生态系统。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/6AqnNxiUt9-YC6a_ilLz8w": {
+    "title_clean": "人类造的最后一个AI还有多远？一张图看懂OpenAI、Anthropic等",
+    "summary": "该资讯通过图表形式分析了OpenAI、Anthropic等主要AI公司的技术发展路径，探讨通用人工智能(AGI)的实现可能性及时间线，为产品经理提供AI行业前沿发展方向参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/ai-labs-should-make-safe-tech-without-antitrust-help-david-sacks-says": {
+    "title_clean": "David Sacks：AI实验室应自主开发安全技术，无需反垄断帮助",
+    "summary": "David Sacks表示，Anthropic和OpenAI等顶级AI公司应自主开发安全产品，必要时自行控制发展节奏，无需政府干预。这对元宝产品经理了解行业自律与监管平衡的思考有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/authentic-brands-matt-maddox-ready-to-ipo-early-2027-video": {
+    "title_clean": "Authentic Brands CEO Matt Maddox：计划2027年早期IPO",
+    "summary": "Authentic Brands CEO Matt Maddox透露公司计划在2027年早期进行IPO，并解释了与创作者Stephen Bartlett建立合资企业而非采用收购方式的原因。这一动向对元宝产品经理了解大型IP管理公司的资本战略和合作模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-swipeleft-ai": {
+    "title_clean": "SwipeLeft AI：AI招聘面试评估工具",
+    "summary": "SwipeLeft AI CEO接受CB Insights采访，分享其市场定位、客户需求及公司发展策略。该工具专注于AI招聘面试评估领域，为产品经理提供AI在人力资源场景应用的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/starmoire-launches-with-stacy-london-as-chief-stylist-video": {
+    "title_clean": "Starmoire：端到端衣橱管理服务",
+    "summary": "Starmoire是由Katie Palencsar和Stacy London共同推出的端到端衣橱管理公司，Stacy London担任首席造型师。该服务旨在帮助用户全面管理个人衣橱，可能包括服装搭配、整理和个性化建议等功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/minebea-mitsumi-pauses-m-a-to-chase-ai-nvidia-demand-for-components": {
+    "title_clean": "Minebea Mitsumi：日本电子元件商暂停并购转产AI硬件组件",
+    "summary": "日本最大企业并购商之一Minebea Mitsumi暂停收购计划，转而专注于生产AI硬件所需的球轴承、电机和执行器等组件，以满足Nvidia等AI芯片制造商对电子元件的强劲需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/bce-to-expand-data-center-capacity-in-saskatchewan": {
+    "title_clean": "BCE将在萨斯喀彻温省扩建数据中心",
+    "summary": "加拿大电信运营商BCE计划在萨斯喀彻温省扩建数据中心园区，容量将扩大至高达1.2吉瓦。这一扩建反映了AI基础设施需求的快速增长，对元宝产品经理评估云服务资源规划和成本结构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again": {
+    "title_clean": "iOS 27更新：Siri助手功能全面升级",
+    "summary": "苹果在iOS 27中对Siri进行了重大更新，显著提升了日常使用体验和实用性。这一长期延迟的改版标志着苹果AI助手的重要进步，对元宝产品经理在AI助手交互设计和功能迭代上有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans": {
+    "title_clean": "微软发布AI行为准则：禁止模型黑客攻击系统或欺骗人类",
+    "summary": "微软发布了新的AI行为准则，规定了AI模型应遵循的基本原则，包括支持而非取代人类，促进人类繁荣，以及禁止模型进行黑客攻击或欺骗人类等不当行为。这反映了大型科技公司对AI安全和伦理的重视，对元宝产品经理在AI安全设计和伦理规范方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap": {
+    "title_clean": "OpenAI产品路线图泄露：AI公司如何应对基础模型演进",
+    "summary": "本文探讨了当OpenAI发布的产品路线图与AI创业公司计划重合时，AI企业如何持续创造价值的问题。文章分析了基础模型持续演变的背景下，AI公司保持竞争力的策略，对元宝产品经理在产品规划和竞品分析方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/ai-bosses-risk-clash-with-wall-street-over-safety-video": {
+    "title_clean": "AI公司高管与华尔街在AI安全问题上可能产生冲突",
+    "summary": "Anthropic和OpenAI等AI公司可能需要在AI安全发展与科技行业、金融市场及特朗普政府推动的快速发展之间做出权衡，这可能导致AI公司高管与华尔街之间的利益冲突。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-14/openai-s-altman-voices-support-for-pacing-ai-development": {
+    "title_clean": "OpenAI CEO支持'节奏化'AI发展理念",
+    "summary": "OpenAI首席执行官Sam Altman支持'节奏化'AI发展理念，主张前沿模型发展不应超越人类保持控制的能力。这一表态反映了AI安全与可控性的行业关注点，对元宝产品经理在AI发展节奏与安全边界设计方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

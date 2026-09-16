@@ -90906,5 +90906,283 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/the-minimalist-entrepreneur-skills": {
+    "title_clean": "The Minimalist Entrepreneur Skills：Claude Code 编程技能指南",
+    "summary": "这是一本关于极简创业者技能的书籍，以Claude Code编程技能为核心内容，为创业者提供实用的编程和开发指导。对元宝产品经理的参考价值在于了解AI辅助编程工具的应用场景和用户需求，可能启发产品在编程辅助功能上的设计思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/bg0tkvHsKTZ88uBNKUdVTQ": {
+    "title_clean": "RSlAgent：开源模型自主能力超越GPT-6Astra",
+    "summary": "RSlAgent在多项高难度Benchmark测试中表现超越GPT-6Astra，展示了开源模型在自主能力方面的突破性进展，为AI产品经理提供了开源模型性能提升的重要参考，可能影响未来产品技术选型方向。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/kQDguutYIaUw8bVjH4o0tg": {
+    "title_clean": "高德联合南大、清华、北大发布WorldRoamBench：交互式地图评测基准",
+    "summary": "高德地图联合南京大学、清华大学、北京大学共同发布WorldRoamBench，这是一个交互式地图评测基准，旨在评估地图应用的交互体验和导航能力。这一基准对元宝产品经理在地图服务、导航功能和多模态交互设计方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/lO-cUo0nX_Bf_wFl9XkP7Q": {
+    "title_clean": "MBZUAI：人工智能全奖招生项目启动",
+    "summary": "MBZUAI作为全球人工智能排名前十的学府，已启动本硕博全奖招生项目。这为元宝产品团队提供了了解AI高端人才培养和学术前沿的重要窗口，有助于把握AI领域最新研究方向和人才趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/73eYUk46YQTXvQxI29vadw": {
+    "title_clean": "REAL：具身AI新方法研究",
+    "summary": "REAL是一种新型具身AI方法，不依赖上帝视角或完美指令，通过创新技术实现更自然的人机交互。这项研究为AI助手在物理世界中的自主导航和任务执行提供了新思路，对元宝产品经理探索AI Agent在现实场景中的应用具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/us-coast-guard-boards-oil-tanker-in-cyber-attack-investigation": {
+    "title_clean": "美国海岸警卫队调查油轮网络攻击事件",
+    "summary": "美国海岸警卫队确认军方和FBI特工登上了一艘驶往德克萨斯州的油轮，调查一起网络攻击事件。这表明关键基础设施面临网络安全威胁，对AI安全防护和应急响应系统有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-raises-dividend-8": {
+    "title_clean": "Microsoft提高股息8%",
+    "summary": "微软宣布将季度股息从每股91美分提高至98美分，自12月起生效。这是微软一年内第二次提高股息，增幅达8%，显示公司财务状况稳健，对投资者信心有积极影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-15/moneygram-ceo-on-launch-of-new-payments-card-video": {
+    "title_clean": "MoneyGram CEO：推出新支付卡",
+    "summary": "MoneyGram CEO Anthony Soohoo宣布推出新的支付卡产品，尽管对参议院未能推进Clarity Act表示意外，但强调公司将继续推进业务发展。这对元宝产品经理了解传统支付机构向AI服务融合的动向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-15/vsora-s-rivera-on-ai-capex-spend-and-semis-outlook-video": {
+    "title_clean": "VSORA高管谈AI基础设施投资与半导体前景",
+    "summary": "VSORA主席Sandra Rivera探讨AI行业关键问题：需求与收入能否快速增长以证明大规模物理基础设施投资的合理性。这对元宝产品经理评估AI服务成本结构和商业可持续性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/openai-s-sam-altman-confident-industry-can-police-ai-safety": {
+    "title_clean": "OpenAI CEO Sam Altman：AI行业可自主确保安全",
+    "summary": "OpenAI首席执行官Sam Altman表示，他相信人工智能公司能够安全地开发技术，不会对大众造成重大伤害。这反映了行业领袖对AI安全治理的信心，对元宝产品经理了解行业安全自律方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup": {
+    "title_clean": "Meta：AI代理可处理WhatsApp Business设置流程",
+    "summary": "Meta推出WhatsApp Business MCP服务器，允许开发者使用Claude、Cursor、Codex和ChatGPT等AI编程代理处理企业账户设置、消息模板、测试和故障排除等流程，简化了WhatsApp Business的初始化工作。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-15/fink-says-ai-buildout-delays-limit-access-to-tech-video": {
+    "title_clean": "BlackRock CEO：AI基础设施部署延迟限制技术普及",
+    "summary": "BlackRock CEO拉里·芬克在加拿大投资峰会上表示，人工智能基础设施部署的延迟导致技术普及受限，这可能影响AI技术的广泛采用和商业化进程，对AI产品经理评估市场进入时机和资源分配有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/meta-rolls-new-meta-one-subscription-plans-higher-ai-usage-limits": {
+    "title_clean": "Meta 推出 'Meta One' 订阅计划，提高 AI 使用限额",
+    "summary": "Meta 在 Instagram、WhatsApp 和 Facebook 平台扩展 AI 工具付费订阅服务，旨在通过提高 AI 使用限额来拓展数字广告以外的收入来源。此举反映了大型科技公司探索 AI 商业化路径的趋势，对元宝产品经理评估 AI 订阅模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/elon-musk-hints-possible-tesla-spacex-merger": {
+    "title_clean": "马斯克暗示特斯拉与SpaceX可能合并",
+    "summary": "马斯克再次提及特斯拉与SpaceX合并的可能性，称两家公司为何分开是个\"好问题\"。这一动向对元宝产品经理有参考价值，可能影响AI助手在汽车、航天等垂直领域的战略布局和竞品分析。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch": {
+    "title_clean": "AI Contact Hotline：AI 举报热线平台",
+    "summary": "AI Contact Hotline 是一个专为 AI 代理设计的举报平台，允许目击不当行为的 AI 代理向当局举报。这一平台为 AI 系统建立了道德监督机制，对 AI 代理的行为规范和责任归属具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks": {
+    "title_clean": "OpenAI、Anthropic和Google就AI安全进行多周会谈",
+    "summary": "OpenAI确认与Anthropic和Google DeepMind进行了数周的AI安全会谈，而特朗普团队则忽视安全关切，强调需与中国保持技术竞争步伐。这反映了AI行业内部对安全与发展的不同立场，对元宝产品经理了解行业安全共识与政策影响有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-15/coinbase-slides-ahead-of-clarity-act-vote-waystar-up-video": {
+    "title_clean": "Coinbase股价波动与Waystar出售计划：加密货币监管与公司动态",
+    "summary": "Coinbase股价在《清晰法案》投票前出现波动，Dave & Buster's财报不及预期导致股价下跌，Waystar正探索出售计划。这些市场动态反映了加密货币监管不确定性对企业的影响，以及传统娱乐和金融科技公司的市场表现变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/crusoe-signs-perplexity-ai-deal-to-provide-cloud-capacity": {
+    "title_clean": "Crusoe与Perplexity AI达成云服务合作：提供AI芯片算力支持",
+    "summary": "数据中心运营商Crusoe与AI搜索公司Perplexity AI签署多年期云服务协议，继续扩展其AI芯片和相关设备租赁业务。这反映了AI企业对专用算力基础设施的持续需求，以及云服务提供商与AI公司合作模式的深化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/yGW1TTsDs2XXjbSGk25Hlw": {
+    "title_clean": "万字详解GPT-6Astra：循环Transformer技术解析",
+    "summary": "Sebastian Raschka撰写万字长文，详细解析GPT-6Astra模型中的循环Transformer技术。文章深入探讨了这一AI架构的创新点及其对大语言模型发展的潜在影响，为产品经理提供了理解前沿AI技术演进的重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/gebru-ai-security-safety-is-about-human-control-video": {
+    "title_clean": "Gebru：AI安全与人类控制",
+    "summary": "DAIR研究所创始人Timnit Gebru分享了她对AI风险的早期警告以及2020年离开谷歌道德AI团队的经历，探讨AI安全与人类控制的关系，对元宝产品经理思考AI安全边界和伦理框架有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openais-top-priority-ai-agents-automating-ai-research-says-noam-brown": {
+    "title_clean": "OpenAI：AI代理的首要任务是自动化AI研究",
+    "summary": "OpenAI表示其AI代理的首要任务是自动化AI研究，最新模型GPT-6 Astra在游戏设计、乐谱转录等专业任务上有所改进。这一方向对元宝产品经理具有重要参考价值，反映了AI代理在自动化研究领域的最新进展和战略重点。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll": {
+    "title_clean": "Daydream：AI服装购物助手",
+    "summary": "Daydream应用利用Apple Intelligence技术，将用户保存的服装照片转化为可购买商品，并支持通过Siri搜索产品无需打开应用。这展示了AI在购物场景中的实际应用，为元宝在服务场景拓展和AI助手功能设计提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
   }
 }

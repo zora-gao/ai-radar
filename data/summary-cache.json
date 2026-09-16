@@ -91310,5 +91310,259 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/project-feed": {
+    "title_clean": "Project Feed：内置文件审查的项目管理工具",
+    "summary": "Project Feed是一款项目管理工具，内置文件审查功能，帮助团队协作时直接在项目环境中查看和讨论文件内容，提高项目执行效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/expand-board-for-macos": {
+    "title_clean": "Expand Board for macOS：无限扩展思维导图工具",
+    "summary": "Expand Board for macOS是一款思维导图工具，支持用户在无限画布上扩展想法、概念和计划。这款产品为元宝产品经理提供了在AI助手中实现结构化思维和知识可视化的参考价值，特别是在处理复杂任务规划和创意发散场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking": {
+    "title_clean": "Gemini 3.8 & 3.8 Live Extended Thinking：谷歌最新高级音频模型",
+    "summary": "谷歌发布Gemini 3.8及3.8 Live Extended Thinking，这是其迄今为止最先进的音频模型，可能带来语音交互和音频处理能力的显著提升，对元宝在语音AI和多模态交互方向的产品研发具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cat-me-app": {
+    "title_clean": "CAT ME：猫咪形象生成工具",
+    "summary": "CAT ME是一款可将用户或朋友照片转换为猫咪形象的移动应用，提供趣味性的图像生成功能。这类娱乐类AI工具虽不直接相关元宝核心业务，但可作为轻量级交互参考，了解用户对趣味性AI图像生成的需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/thread-ai-journal-memory": {
+    "title_clean": "Thread：AI 思维连接日记工具",
+    "summary": "Thread 是一款 AI 日记应用，能够将用户的零散思考连接成更有意义的整体，帮助用户构建知识网络和思维脉络。产品经理可参考其如何通过 AI 技术实现碎片化信息的结构化整合，为元宝的笔记和知识管理功能提供设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/twigg": {
+    "title_clean": "Twigg：AI上下文管理工具",
+    "summary": "Twigg是一款AI上下文管理工具，旨在帮助用户构建无需手动维护的上下文层。该产品可能通过AI技术自动捕捉和管理用户在不同应用和场景中的上下文信息，为AI助手提供更连贯的交互体验，对元宝产品经理在上下文管理和多应用协作方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/convo-7": {
+    "title_clean": "Convo：AI销售助手工具",
+    "summary": "Convo是一款专为销售人员设计的AI副驾驶工具，旨在帮助销售团队提升工作效率和业绩表现。该产品可能提供智能对话辅助、客户分析或销售流程自动化等功能，对元宝产品经理在AI助手垂直场景应用和商业化模式探索方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/hong-kong-sets-five-year-tech-goals-video": {
+    "title_clean": "香港发布五年科技发展目标",
+    "summary": "香港特首李家超公布首个五年科技发展计划，旨在将香港优先事项与中国国家战略保持一致。该计划将为香港科技发展提供明确方向，对元宝产品经理了解区域科技政策导向和市场环境具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/two-google-deepmind-ai-researchers-resign-safety": {
+    "title_clean": "两名谷歌DeepMind AI研究员因安全担忧辞职",
+    "summary": "两名谷歌DeepMind的AI安全研究员离职，原因是担忧强大AI系统可能对人类构成威胁。这一事件反映了AI安全领域内部对技术风险与伦理边界的关注，对AI产品经理评估安全机制与伦理框架具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-open-singapore-office-hires-regional-head-openai": {
+    "title_clean": "Anthropic在新加坡开设办公室，任命OpenAI前高管为区域负责人",
+    "summary": "Anthropic在新加坡开设其在亚太地区的第五个办公室，旨在推动Claude在企业中的采用。公司将与初创企业、大型企业及政府合作，任命OpenAI前高管为区域负责人，显示其在亚太市场的扩张战略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says": {
+    "title_clean": "Nvidia CEO黄仁勋称AI无需监管，安全应由企业自行负责",
+    "summary": "Nvidia CEO黄仁勋认为AI并非新型\"外星思维\"，只是硬件和软件的组合，安全性应由各AI产品制造商自行工程解决。这一观点反映了AI行业对监管态度的分歧，对产品经理思考AI安全责任边界和企业自主安全能力建设有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-openai-pacing-spooks-startup-customers": {
+    "title_clean": "Anthropic与OpenAI放缓AI发展速度引发初创企业客户担忧",
+    "summary": "Anthropic和OpenAI承诺放缓AI发展速度，此举对其即将进行的公开募股影响尚不明确，但已对初创企业客户产生实际影响，引发市场对AI发展节奏变化的关注。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-set-to-attend-trump-dinner-with-chinese-president": {
+    "title_clean": "Nvidia CEO将出席特朗普与习近平的晚宴",
+    "summary": "Nvidia CEO黄仁勋将出席特朗普总统与中国国家主席习近平下周举行的国宴。这一高层会面可能涉及中美科技合作与AI芯片贸易政策，对元宝产品经理了解全球AI产业政策环境与供应链变化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/anthropic-salesforce-ceos-say-companies-need-more-help-using-ai": {
+    "title_clean": "Anthropic与Salesforce CEOs称企业需要更多AI使用帮助",
+    "summary": "Anthropic CEO Dario Amodei和Salesforce CEO Marc Benioff表示，企业刚开始利用AI工具，需要更多帮助才能充分发挥AI价值。这对元宝产品经理了解企业级AI应用痛点及服务机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-15/anthropic-s-tough-balancing-act-between-ai-doom-talk-and-ipo": {
+    "title_clean": "Anthropic：Claude开发者面临AI末日论与IPO之间的平衡挑战",
+    "summary": "Anthropic作为Claude开发者面临独特挑战，部分源于自身策略。该公司需要在AI末日论宣传与IPO进程之间寻找平衡，这对AI公司的市场定位和融资策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035": {
+    "title_clean": "美国数据中心2035年天然气消耗量或超德日总和",
+    "summary": "AI热潮可能导致美国数据中心成为全球最大的天然气消费者之一，到2035年其消耗量可能超过德国和日本的总和。这对元宝产品经理了解AI基础设施的能源成本和可持续发展挑战具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people": {
+    "title_clean": "Building AI to accelerate science and improve lives",
+    "summary": "该资讯介绍了AI在加速科学进步和改善生活方面的实际应用，展示了AI技术如何帮助人们在关键领域取得突破性进展，对元宝产品经理了解AI的社会价值和应用方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/chip-startup-euclyd-backed-by-ex-asml-ceo-raises-more-than-200-million": {
+    "title_clean": "芯片初创公司 Euclyd 获超2亿欧元融资，前ASML CEO担任董事长",
+    "summary": "荷兰芯片初创公司 Euclyd 获得超过2亿欧元融资，并任命ASML前首席执行官Peter Wennink担任董事长。这反映了半导体行业对先进芯片技术的持续投资，可能对AI硬件基础设施发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post": {
+    "title_clean": "Google DeepMind研究员离职警告：AI可能对人类造成广泛伤害",
+    "summary": "前Google DeepMind研究员在离职文章中警告称，人类正面临时间紧迫的挑战，需要防止人工智能造成广泛伤害。这是又一位科技巨头员工对AI安全风险发出的警告，反映了行业内部对AI潜在危害的担忧。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-14/roblox-ceo-ai-will-create-more-game-makers-video": {
+    "title_clean": "Roblox CEO：AI将创造更多游戏创作者",
+    "summary": "Roblox推出AI创作工具Roblox Build，允许用户直接在移动应用中创建游戏。CEO David Baszucki表示AI将增加而非减少创作者数量，这对AI辅助创作工具和游戏平台生态具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

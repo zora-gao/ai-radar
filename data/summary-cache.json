@@ -91761,5 +91761,602 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/appwrite": {
+    "title_clean": "Appwrite 2.0：开源云服务开发平台",
+    "summary": "Appwrite发布2.0版本，定位为面向AI代理和开发者的开源云服务平台。该更新可能增强了对AI应用的支持，为元宝产品经理提供了构建AI服务的基础架构参考，特别是在云服务和开发者工具整合方面的实践价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jottoo": {
+    "title_clean": "Jottoo：AI会议笔记转任务追踪工具",
+    "summary": "Jottoo是一款AI会议记录工具，能将会议内容自动转化为可追踪的任务列表，帮助团队高效跟进会议决议。产品经理可参考其AI会议内容结构化处理与任务自动分配功能，提升元宝在办公场景中的任务管理能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zeroclick": {
+    "title_clean": "ZeroClick：AI代理产品销售平台",
+    "summary": "ZeroClick是一个面向AI代理的产品销售平台，允许企业将其产品和服务直接销售给AI代理。这一平台为AI代理商业化提供了新思路，对元宝产品经理探索AI代理的商业化路径和生态建设具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/weave": {
+    "title_clean": "Weave Router 2.0：订阅感知的代码智能路由工具",
+    "summary": "Weave Router 2.0 是一款订阅感知的代码智能路由工具，能够根据用户订阅情况智能分配和路由代码任务。对于元宝产品经理而言，这展示了AI Agent在代码任务分配和资源管理方面的应用场景，可能启发元宝在任务路由和资源优化方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first": {
+    "title_clean": "AI实验室寻求内部审计机制，但应先解决基础安全漏洞",
+    "summary": "文章探讨了AI实验室在应对失控AI代理时，可能忽略了更基础的安全问题，提出在引入复杂审计机制前，应先解决基础安全漏洞的必要性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/status-of-anthropic-ipo-as-ai-fears-mount-video": {
+    "title_clean": "Anthropic IPO进展：AI担忧加剧背景下Claude母公司寻求上市",
+    "summary": "Anthropic正准备IPO，选择纳斯达克作为上市地点，Claude聊天机器人制造商寻求筹集资金。这对元宝产品经理有参考价值，因为Anthropic作为AI聊天机器人领域的直接竞争对手，其上市进展可能反映市场对AI聊天机器人商业化的态度和估值预期。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/ai-is-huge-factor-in-us-economy-says-stephen-moore-video": {
+    "title_clean": "AI被指成为美国经济成功的关键因素",
+    "summary": "前特朗普总统高级经济顾问Stephen Moore表示，AI产业是美国经济成功的关键因素，大量投资涌入该领域，数据中心建设加速，反映了AI对经济的重要推动作用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/bain-capital-ventures-bets-1-6-billion-on-ai-s-next-act-video": {
+    "title_clean": "Bain Capital Ventures：16亿美元押注AI下一阶段发展",
+    "summary": "Bain Capital Ventures筹集16亿美元基金，投资于所谓\"AGI之后\"的早期公司，合伙人Slater Stich讨论了该公司在AI领域看到的机会分布。这反映了顶级投资机构对AI商业化落地的战略转向，对产品经理判断AI投资热点和商业化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/the-ai-industry-says-it-wants-to-slow-down-can-it-video": {
+    "title_clean": "AI行业呼吁放缓发展前沿模型",
+    "summary": "Bloomberg科技编辑Sarah Frier与Sarah Holder在播客中分析了AI领导者呼吁放缓所谓前沿模型发展的多重原因和动机，这对元宝产品经理了解行业自律趋势和监管环境变化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/open-interest-9-16-2026-video": {
+    "title_clean": "美国零售销售激增，美联储加息预期升温",
+    "summary": "美国零售销售数据强劲增长，市场普遍预期美联储自2023年以来首次加息。这一经济动态可能影响消费者购买力和AI助手在金融服务场景的应用价值，对产品经理评估经济环境变化对AI产品需求的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-16/at-un-nations-wrestle-with-the-rise-of-autonomous-weapons": {
+    "title_clean": "联合国讨论自主武器系统发展",
+    "summary": "联合国秘书长警告世界正危险地接近跨越道德红线，各国正在讨论自主武器系统的崛起问题。这反映了AI技术在军事领域的应用引发的国际关注和伦理挑战，对AI产品经理了解AI技术应用的边界和监管趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices": {
+    "title_clean": "Google Home：AI Agent智能设备控制服务",
+    "summary": "Google推出Google Home的MCP服务器早期访问功能，允许Claude、ChatGPT等AI Agent控制智能家居设备、查看摄像头摘要并访问智能家庭功能，为AI Agent与物理世界交互提供新场景。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/circle-launches-new-blockchain-stablecoins-assets": {
+    "title_clean": "Circle推出Arc区块链：稳定币与其他资产交易平台",
+    "summary": "稳定币发行商Circle正式推出Arc区块链，该平台将支持稳定币、代币化股票及其他资产的交易。这反映了区块链技术在金融资产数字化和稳定币生态建设方面的最新进展，对元宝产品经理了解区块链与AI结合的金融服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
+    "title_clean": "OpenAI与AARP合作：面向老年人的ChatGPT实用技能培训",
+    "summary": "OpenAI与AARP合作在美国10个城市为1000名老年人提供免费的ChatGPT实践工作坊，帮助老年人安全地掌握日常生活中的AI应用技能，拓展AI助手的适老化服务场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/united-nations-chief-calls-for-coordinating-global-ai-regulation": {
+    "title_clean": "联合国呼吁协调全球AI监管",
+    "summary": "联合国秘书长呼吁各国协调全球AI监管努力，呼应了对技术进行更密切监控的警告。这反映了国际社会对AI治理的共识正在形成，对元宝产品经理了解全球监管趋势和合规要求具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/space-tug-maker-impulse-s-fundraising-round-tops-800-million": {
+    "title_clean": "Space-Tug Maker Impulse's Fundraising Round Tops $800 Million",
+    "summary": "Impulse Space是一家开发太空运输技术的初创公司，最新一轮融资额外筹集了3.08亿美元，使本轮融资总额超过8亿美元。这笔巨额融资反映了太空运输领域，特别是轨道服务技术的商业潜力，对元宝产品经理了解AI在航天领域应用和商业化机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/openai-weighs-funding-round-at-1-2trillion-valuation-video": {
+    "title_clean": "OpenAI考虑以1.2万亿美元估值进行新一轮融资",
+    "summary": "OpenAI正与投资者进行早期谈判，计划在IPO前以超过1.2万亿美元的估值进行新一轮融资。这一消息反映了OpenAI作为AI领域领导者的市场地位和投资者对其未来增长的强烈信心，对元宝产品经理评估AI行业估值趋势和商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-shountr": {
+    "title_clean": "CEO Interview: Shountr",
+    "summary": "Shountr CEO接受CB Insights访谈，分享公司对市场定位、客户需求的理解和公司发展策略。作为AI产品经理，可从中了解新兴AI企业的市场切入点和客户需求洞察，为产品方向提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners": {
+    "title_clean": "Threads：播客推广与听众互动工具",
+    "summary": "Meta旗下社交平台Threads推出播客创作者专属工具，包括个人资料卡、节目链接、文字记录、嘉宾标签、发布提醒和受众洞察等功能，旨在强化其作为X竞争对手的定位，帮助播客主推广内容并触达听众。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-obdal": {
+    "title_clean": "Obdal：AI市场定位与客户需求访谈",
+    "summary": "Obdal公司CEO Aimal Amiri接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。该访谈提供了AI企业如何看待市场机会和客户需求的一线视角，对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-revnuvo-technologies": {
+    "title_clean": "Revnuvo Technologies CEO访谈：市场定位与客户需求分析",
+    "summary": "Revnuvo Technologies CEO Ismael Tijani接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈可能包含对AI服务商业化策略的见解，对元宝产品经理了解AI企业服务市场定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-making-claude-human-control": {
+    "title_clean": "Anthropic是否让Claude过于人性化而难以控制？",
+    "summary": "Anthropic呼吁放缓AI发展以确保人类安全，这一观点在新闻圈引发广泛讨论，并获得OpenAI、微软等公司领导人的支持，同时也引发了Mar的微妙反对意见。这对元宝产品经理评估AI助手的安全边界与可控性具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-feathery": {
+    "title_clean": "Feathery CEO访谈：AI表单构建平台市场洞察",
+    "summary": "Feathery CEO Peter Dun接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司定位。作为AI表单构建平台，其观点对元宝产品经理了解AI工具类产品的市场定位和客户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026": {
+    "title_clean": "TechCrunch Disrupt 2026：科技创业展会参展机会",
+    "summary": "TechCrunch Disrupt 2026科技创业展会将于10月13-15日举行，目前距报名截止仅剩3天。该展会将吸引1万多名创始人、投资者、运营者和科技领袖参与，为初创企业提供展示品牌、接触投资人和高价值潜在客户的机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/apollo-s-zelter-on-ai-capex-higher-for-a-while-rates-video": {
+    "title_clean": "Apollo高管谈AI资本支出：利率将'暂时走高'",
+    "summary": "Apollo全球管理公司总裁Jim Zelter讨论了与纽约洋基队和英伟达的合作，称AI资本支出市场规模'前所未有'，并预测利率将'暂时走高'。这对元宝产品经理了解AI行业投资趋势和资本环境变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise": {
+    "title_clean": "Former Infosys chief's AI startup获5300万美元融资",
+    "summary": "前Infosys首席执行官创立的AI创业公司在推出数月内获得多份七位数企业合同，并成功完成5300万美元融资。这表明企业级AI服务市场存在强劲需求，对元宝拓展企业客户和商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-16/nvidia-s-jensen-huang-touts-himself-as-an-ai-vc-role-model": {
+    "title_clean": "Nvidia CEO黄仁勋自诩为AI投资典范",
+    "summary": "Nvidia CEO黄仁勋不仅作为AI芯片领导者，还自称是精明的风险投资人，展示了科技巨头如何通过投资布局AI生态。这对元宝产品经理了解AI行业资本动向和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/ai-fueled-profit-growth-set-to-flow-through-every-s-p-500-sector": {
+    "title_clean": "AI推动标普500各行业利润增长",
+    "summary": "最新财报季显示，人工智能投资开始在各行业产生效益，推动标普500企业整体业绩强劲增长。这表明AI技术正从概念走向实际商业价值，为元宝产品经理提供了AI商业化落地的市场信号参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/mytheresa-owner-sales-rise-as-ultra-wealthy-help-luxury-platform": {
+    "title_clean": "Mytheresa：高端奢侈品电商平台销售增长",
+    "summary": "LuxExperience旗下奢侈品电商平台Mytheresa销售额增长，其专注于服务超高净值人群的策略帮助公司在高端零售困难环境中保持增长。这对元宝产品经理了解高端用户服务策略和奢侈品电商模式有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/meta-ceo-zuckerberg-leans-on-powell-mccormick-to-clear-path-for-ai-push": {
+    "title_clean": "Meta CEO 任命 Powell McCormick 推进 AI 战略",
+    "summary": "Meta CEO 扎克伯格在去年12月的董事会上与 Dina Powell McCormick 会面，寻求她帮助推进公司的 AI 战略。这表明 Meta 正在加强 AI 领域的领导层配置，以应对激烈的 AI 竞争环境，对产品经理了解科技巨头的 AI 战略布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/full-vision-capital-on-hk-five-year-plan-video": {
+    "title_clean": "Full Vision Capital：香港五年计划投资机遇分析",
+    "summary": "香港家族办公室Full Vision Capital管理合伙人Alan Chan讨论香港投资机遇及与中国经济融合的战略方向，为元宝产品经理提供香港AI市场投资环境和政策导向的参考信息。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/sk-hynix-talks-intel-make-memory-chips-u-s": {
+    "title_clean": "SK海力士与英特尔洽谈在美国生产存储芯片",
+    "summary": "SK海力士正与英特尔洽谈在美国本土生产存储芯片的合作协议，这将使SK海力首次在美国制造存储芯片。这一合作可能影响全球存储芯片供应链布局，对AI硬件基础设施有潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/softbank-cds-hovers-near-3-year-high-on-openai-funding-concerns": {
+    "title_clean": "软银信用违约互换升至三年高位，OpenAI风险受关注",
+    "summary": "软银集团信用违约互换升至2023年以来最高水平，交易员正在评估其最大投资之一OpenAI的相关风险。这反映了市场对OpenAI业务稳定性的担忧，对元宝产品经理了解AI投资风险和行业稳定性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says": {
+    "title_clean": "韩国副总理：韩国不能放慢AI发展步伐",
+    "summary": "韩国副总理明确表示，韩国必须持续推进人工智能发展，不能有任何停顿或延迟，这是在全球关于AI发展速度的辩论中发出的明确信号。这一表态反映了韩国对AI技术竞争的高度重视，对元宝产品经理了解各国AI战略定位有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/china-defense-minister-urges-nations-to-step-up-ai-oversight": {
+    "title_clean": "中国防长呼吁加强AI监管",
+    "summary": "中国国防部长在北京防务论坛上呼吁全球各国加强人工智能监管，指出AI技术加剧了与美国的竞争。这一表态反映了中国对AI安全与治理的官方立场，对元宝产品经理了解AI政策环境与监管趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/threads-introduces-parental-supervision-for-teens-in-apac": {
+    "title_clean": "Threads：亚太地区青少年家长监督功能",
+    "summary": "Meta旗下的社交应用Threads在亚太地区推出青少年家长监督功能，为青少年用户提供额外保护。这一功能反映了社交平台对青少年安全问题的关注，对元宝产品经理在考虑青少年用户保护措施和内容安全策略方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/meta-joins-techs-ai-fueled-subscription-rush": {
+    "title_clean": "Meta 加入科技行业 AI 订阅服务热潮",
+    "summary": "Meta 正在加入科技公司的 AI 订阅服务行列，这表明科技巨头正积极布局 AI 订阅模式。这一动向对元宝产品经理有重要参考价值，反映了行业商业化趋势和用户付费意愿的变化，值得元宝在产品策略和商业模式上借鉴。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/hong-kong-s-data-center-ambitions-face-2-6-billion-funding-test": {
+    "title_clean": "香港数据中心雄心面临26亿美元资金考验",
+    "summary": "香港计划成为数据中心枢纽的雄心壮志起步缓慢，面临26亿美元的资金挑战。这一动态对元宝产品经理有参考价值，因为数据中心基础设施是AI服务扩展的关键因素，可能影响区域AI服务部署和成本结构。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/D8XZQc0eeCNatxIGqzkoKQ": {
+    "title_clean": "AI从Chat、Code到Discovery，开始学习科学家工作模式",
+    "summary": "AI正从对话和代码生成向科学发现领域拓展，开始模拟科学家的研究方法和思维过程。这一转变表明AI正从工具向研究伙伴进化，为元宝产品在科研辅助、知识发现等场景提供了新的产品方向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation": {
+    "title_clean": "OpenAI寻求超1.2万亿美元估值融资",
+    "summary": "OpenAI正与投资者进行早期谈判，计划在IPO前进行新一轮融资，ChatGPT母公司估值可能超过1.2万亿美元。这反映了AI头部企业的资本热度与市场信心，对元宝产品经理评估AI领域商业化路径和估值预期有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-crankpal": {
+    "title_clean": "CrankPal CEO访谈：市场定位与客户需求分析",
+    "summary": "CrankPal CEO Umberto Javarone接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为AI产品经理，可从中了解新兴AI企业的市场策略和客户洞察，为产品方向提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/fink-warns-ai-pushback-will-make-the-technology-a-large-firm-domain": {
+    "title_clean": "Fink警告：AI公众反对将使技术成为大企业专属领域",
+    "summary": "贝莱德CEO Larry Fink警告，由于公众反对导致的AI发展延迟将使这项技术成为大企业的专属领域，限制普通企业和个人的获取机会。这对产品经理关注AI技术民主化趋势和潜在市场壁垒有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans": {
+    "title_clean": "Meta推出AI订阅服务：整合Facebook/Instagram/WhatsApp高级AI功能",
+    "summary": "Meta推出Meta One订阅计划，整合其AI工具与Facebook、Instagram和WhatsApp的高级功能，标志着Meta在AI服务商业化方面的进一步探索，为元宝产品经理提供AI服务订阅模式参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropics-data-policy-drama-good-openai": {
+    "title_clean": "Anthropic数据政策争议对OpenAI的积极影响",
+    "summary": "Anthropic的主要客户仍在等待获得最新Fable AI模型的'零数据保留'政策，该AI公司不会存储与模型使用相关的数据。这一政策争议可能为OpenAI创造竞争优势，影响AI服务的数据隐私策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/presentation-de-meta-one-un-service-dabonnement-offrant-davantage-de-fonctionnalites-et-dia-pour-creer-se-connecter-et-se-demarquer": {
+    "title_clean": "Meta One：订阅式AI增强服务",
+    "summary": "Meta One是Meta推出的新订阅服务，提供更高级的AI功能和丰富的表达工具，以及专业工具，旨在帮助用户创建内容、建立连接并脱颖而出。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/why-are-tesla-and-spacex-separate-musk-says-great-question": {
+    "title_clean": "马斯克探讨特斯拉与SpaceX合并可能性",
+    "summary": "马斯克再次提出将AI和火箭公司SpaceX与电动汽车制造商特斯拉合并的可能性，并指出两家公司在他担任CEO期间已有广泛合作。这对元宝产品经理了解科技巨头业务整合策略及AI在多领域应用布局有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-forthwrite": {
+    "title_clean": "CEO Interview: ForthWrite",
+    "summary": "ForthWrite CEO Curtis Boortz接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为AI内容创作领域的CEO访谈，提供了行业视角和产品策略参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-veridom": {
+    "title_clean": "Veridom CEO访谈：市场定位与客户需求分析",
+    "summary": "Veridom CEO接受CB Insights访谈，分享其市场定位、客户需求理解及公司发展策略。作为一家AI相关企业，其市场观点和客户洞察对元宝产品经理了解行业趋势和用户需求具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

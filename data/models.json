@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:24:46.231Z",
+  "generated_at": "2026-09-16T23:40:55.565Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -42,8 +42,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.579,
-      "price_out": 1.738,
+      "price_in": 0.581,
+      "price_out": 1.742,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -830,8 +830,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.25,
+      "price_in": 0.07,
+      "price_out": 0.233,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -880,8 +880,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.09,
-      "price_out": 0.3,
+      "price_in": 0.07,
+      "price_out": 0.233,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1049,8 +1049,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.878,
-      "price_out": 2.97,
+      "price_in": 0.833,
+      "price_out": 2.618,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1340,8 +1340,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.579,
-      "price_out": 1.738,
+      "price_in": 0.581,
+      "price_out": 1.742,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

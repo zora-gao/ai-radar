@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-16T10:08:32.070Z",
+  "generated_at": "2026-09-16T15:41:29.291Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "stealth/union-alpha",
+      "name": "Union Alpha",
+      "vendor": "Stealth",
+      "vendor_slug": "stealth",
+      "url": "https://openrouter.ai/stealth/union-alpha",
+      "created_at": "2026-09-16T14:42:03Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": false,
+      "description": "Union Alpha is a multimodal model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. Union Alpha is a stealth model....",
+      "description_zh": null
+    },
     {
       "id": "~deepseek/deepseek-pro-latest",
       "name": "DeepSeek Pro Latest",
@@ -18,8 +42,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.66,
-      "price_out": 1.98,
+      "price_in": 0.579,
+      "price_out": 1.738,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -856,8 +880,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.1,
-      "price_out": 0.333,
+      "price_in": 0.09,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1316,8 +1340,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.983,
-      "price_out": 2.95,
+      "price_in": 0.579,
+      "price_out": 1.738,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1440,31 +1464,6 @@
       "supports_reasoning": true,
       "description": "NVIDIA Nemotron 3.5 Lightning is an open mixture-of-experts model from NVIDIA, with 3B active parameters out of 30B total. It is suited for high-throughput agentic workloads and specialized tasks that...",
       "description_zh": "NVIDIA Nemotron 3.5 Lightning 是 NVIDIA 的开放式专家混合模型，共有 30B 个活动参数，其中有 3B 个。它适用于高吞吐量代理工作负载和专门任务..."
-    },
-    {
-      "id": "sakana/sakana-namazu",
-      "name": "Sakana Namazu",
-      "vendor": "Sakana",
-      "vendor_slug": "sakana",
-      "url": "https://openrouter.ai/sakana/namazu-20260811",
-      "created_at": "2026-08-11T01:02:09Z",
-      "context_length": 262144,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.95,
-      "price_out": 4,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Sakana Namazu is a Japanese-specialized reasoning model from Sakana AI, based on Kimi K2.6 with additional training for Japanese language and business contexts. It is suited for Japanese instruction following,...",
-      "description_zh": "Sakana Namazu 是 Sakana AI 的日语专用推理模型，基于 Kimi K2.6，并针对日语和商业环境进行了额外培训。它适合遵循日语教学，..."
     }
   ]
 }

@@ -91564,5 +91564,202 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/peak-hour": {
+    "title_clean": "PeakHour 6：Mac实时网络监控工具",
+    "summary": "PeakHour 6是一款Mac平台的实时网络监控工具，提供详细的WiFi网络分析功能，帮助用户监控网络流量和性能。对于元宝产品经理而言，这类工具展示了如何将网络监控功能与AI助手结合，可能启发在办公场景中增加网络诊断和优化建议的服务方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flat-social": {
+    "title_clean": "flat.social：远程团队3D协作空间",
+    "summary": "flat.social是一个为远程团队设计的3D虚拟协作空间，提供沉浸式的团队互动体验。产品经理可关注其如何通过3D环境提升远程团队协作效率和社交连接，这对元宝开发虚拟协作场景具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-aivalon": {
+    "title_clean": "CEO访谈：AiValon",
+    "summary": "AiValon CEO Mahya Khaki接受CB Insights采访，分享了公司对市场定位、客户需求的看法以及公司战略。作为AI领域企业，其观点对元宝产品经理了解行业趋势和用户需求变化具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-zuri": {
+    "title_clean": "Zuri CEO访谈：市场定位与客户需求分析",
+    "summary": "Zuri首席营销官Robert Demmer接受CB Insights采访，分享公司市场定位、客户需求分析及业务策略，为AI产品经理提供企业级AI服务市场洞察和客户需求理解参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-apollo-atomics": {
+    "title_clean": "CEO访谈：Apollo Atomics",
+    "summary": "Apollo Atomics首席执行官Assil Halimi接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。访谈内容有助于了解该公司在相关领域的市场视角和业务方向，为产品经理提供行业参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech": {
+    "title_clean": "苹果考虑重返服务器市场，与英伟达洽谈网络技术合作",
+    "summary": "苹果正计划推出采用自研芯片的企业级服务器，并考虑整合英伟达的网络设备技术。这一动向表明苹果可能拓展其芯片业务至数据中心领域，对元宝产品经理了解科技巨头在AI基础设施领域的战略布局具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/reimagining-advertising-with-ai": {
+    "title_clean": "OpenAI推出AI广告新体验：赞助代理与营销工具",
+    "summary": "OpenAI发布AI驱动的新型广告体验，包括赞助代理(Sponsored Agents)、营销工具以及与HubSpot和Shopify的集成，为广告主提供AI赋能的广告解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/blue-energy-submits-nrc-application-for-texas-nuclear-project": {
+    "title_clean": "Blue Energy：德克萨斯州小型核反应堆项目申请",
+    "summary": "Blue Energy Global公司已向美国核管理委员会提交申请，计划在德克萨斯州开发的小型核反应堆项目，该反应堆将为Crusoe Inc.的数据中心供电，初期将使用天然气作为过渡能源。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/ai-debt-boom-heads-from-wall-street-to-europe-despite-tech-angst": {
+    "title_clean": "欧洲AI融资热潮：华尔街巨头竞相投资",
+    "summary": "摩根大通和高盛等华尔街银行正为欧洲AI项目提供数十亿美元融资，帮助欧洲缩小与美国的AI差距。这反映了欧洲AI领域的快速发展及资本对AI赛道的持续关注，对元宝产品经理了解全球AI投资趋势和区域竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support": {
+    "title_clean": "Amazon：Alexa+ 助手在印度推出并支持印地语",
+    "summary": "Amazon向印度所有用户开放Alexa+助手早期访问，新增印地语支持功能。这表明亚马逊正在拓展其AI助手在印度市场的本地化服务，对元宝产品经理了解AI助手区域化策略和语言支持扩展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/eu-unveils-social-media-curbs-for-kids-and-ban-on-users-under-13": {
+    "title_clean": "欧盟推出社交媒体儿童保护新规：禁止13岁以下用户使用",
+    "summary": "欧盟计划禁止13岁以下儿童使用社交媒体，并对青少年使用技术和人工智能服务进行限制。这一政策反映了监管机构对未成年人在线保护的重视，对AI产品设计特别是面向青少年的功能和服务具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/paytm-one97-communications-bulls-ipo-price-listing": {
+    "title_clean": "Paytm：印度数字支付公司IPO价格有望五年后重回发行价",
+    "summary": "印度数字支付先驱Paytm的市场情绪出现转变，使其自上市以来首次有望重新达到首次公开募股发行价格。这对关注新兴市场数字支付和金融科技产品经理而言，提供了市场情绪变化如何影响估值的重要参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/elon-musk-says-ai-companies-test-others-models-safety": {
+    "title_clean": "马斯克提议AI公司应互相测试模型安全性",
+    "summary": "马斯克提出，包括SpaceXAI在内的AI竞争公司应在产品发布前进行'同行评审'，互相测试模型安全性。这一提议反映了行业对AI安全风险日益增长的担忧，对元宝产品经理在AI安全机制设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/pPbsRYvQDIKmds7wqDUSew": {
+    "title_clean": "ViduS2：实时编辑与互动视频旗舰产品",
+    "summary": "ViduS2是一款实时编辑与实时互动视频双旗舰产品，现已发布并开放体验。该产品针对视频创作和互动场景提供专业级解决方案，对元宝产品经理在视频处理和实时交互功能开发方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too": {
+    "title_clean": "英伟达CEO黄仁勋与特朗普通话，展示其手机产品",
+    "summary": "英伟达CEO黄仁勋在接听特朗普的现场电话时，外界注意到他使用了一款手机产品。这一事件展示了英伟达可能正在拓展硬件业务，对AI公司多元化战略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-15/opinion-an-ai-pause-won-t-work-without-china-video": {
+    "title_clean": "An AI Pause Won't Work Without China：中美AI竞赛需全球合作",
+    "summary": "Bloomberg观点文章指出，模拟的AI创建微信漏洞表明，没有全球合作，放缓AI竞赛无法实现。作者强调美中需要提高透明度，共同应对AI安全挑战，这对元宝产品经理理解AI监管与全球竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

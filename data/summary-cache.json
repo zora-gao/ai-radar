@@ -93157,5 +93157,362 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/mcpjam-inspector": {
+    "title_clean": "MCPJam：MCP服务器测试评估平台",
+    "summary": "MCPJam是一个专门用于MCP(模型上下文协议)服务器的测试与评估平台，为开发者提供MCP服务器的性能测试工具。这对元宝产品经理了解AI Agent技术生态中的基础设施工具有参考价值，有助于评估元宝是否需要支持MCP协议或开发类似工具。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/compute-arena-local-ai-benchmarks": {
+    "title_clean": "Compute:Arena：本地AI模型评测社区",
+    "summary": "Compute:Arena是一个社区驱动的本地AI模型评测平台，用户可提交和比较本地运行AI模型的性能基准数据。这为元宝产品经理提供了本地AI模型性能评估的参考依据，有助于优化产品在本地环境的表现和用户体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/s-roll": {
+    "title_clean": "S-Roll：AI视频剪辑工具",
+    "summary": "S-Roll是一款AI代理工具，能够将长视频自动剪辑成短视频片段。该工具可能通过AI分析视频内容，自动识别精彩片段并进行剪辑，为内容创作者提供高效的视频处理方案，对元宝在视频内容处理和AI代理功能开发方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/navkey": {
+    "title_clean": "NavKey：Windows键盘控制工具",
+    "summary": "NavKey是一款仅使用键盘控制Windows系统的工具，旨在提升键盘操作效率，减少对鼠标的依赖。对于元宝产品经理而言，这反映了用户对高效键盘交互的需求，可作为AI助手键盘操作功能的参考案例。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/the-forge-by-bob-s-workshop": {
+    "title_clean": "The Forge by Bob's Workshop：AI产品开发与运营服务平台",
+    "summary": "The Forge是一个由Bob's Workshop提供的AI产品开发服务平台，用户只需描述想法，团队便会负责构建、部署和运营整个产品。这为元宝产品经理提供了AI产品开发外包服务的参考案例，展示了从创意到落地的完整服务模式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/figo-3": {
+    "title_clean": "Figo：竞品监测分析工具",
+    "summary": "Figo是一款竞品监测分析工具，帮助用户实时追踪竞争对手的产品动态、市场策略和用户行为变化，为产品经理提供竞品情报和行业趋势分析，助力产品决策和战略规划。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pitchfire-for-startups": {
+    "title_clean": "Pitchfire for Startups：创业融资精准对接平台",
+    "summary": "Pitchfire for Startups 是一个专为初创公司设计的融资平台，帮助创业者找到与其业务方向和需求相匹配的投资人。该平台通过智能匹配算法，提高融资效率，减少创业者盲目寻找投资人的时间成本，为元宝产品经理提供了AI在垂直领域应用和精准服务场景的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/qagent-2": {
+    "title_clean": "QAgent：AI Agent 自动化测试工具",
+    "summary": "QAgent 是一款专门用于 AI Agent 的自动化测试工具，旨在帮助开发团队停止仅凭感觉发布产品，通过系统化的质量保证确保 AI Agent 的稳定性和可靠性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/die-with-me-2": {
+    "title_clean": "Die With Me：AI代码协作工具",
+    "summary": "Die With Me是一款AI代码协作工具，允许用户查看朋友在Claude Code和Codex上的使用情况，实现实时代码协作与交流。产品经理可关注此类AI协作工具如何提升开发效率与团队协作体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/macsentinel": {
+    "title_clean": "MacSentinel：Mac系统性能优化工具",
+    "summary": "MacSentinel是一款Mac系统性能诊断与清理工具，能够识别并安全清除导致系统运行缓慢的因素，帮助用户优化Mac电脑性能。产品经理可参考其轻量级系统优化方案，为元宝在设备性能管理场景提供功能设计思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-17/state-street-says-any-tech-weakness-is-chance-to-rebuild-video": {
+    "title_clean": "State Street：科技股回调是重建机会",
+    "summary": "道富银行股票研究主管Marija Veitmane对科技股持乐观态度，认为尽管市场波动，但科技行业的强劲盈利能力和盈利前景表明当前回调是重建投资组合的机会，这对AI产品经理判断科技市场趋势和用户投资行为有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/port-of-la-foiled-around-120-million-cyberattacks-last-month": {
+    "title_clean": "洛杉矶港上月挫败1.2亿次网络攻击",
+    "summary": "美国最繁忙的集装箱港口上月成功阻止了超过1.2亿次网络攻击尝试，这些攻击威胁到港口运营，同时港口还需应对不断变化的关税政策。这反映了关键基础设施面临的网络安全挑战，对AI安全防护系统有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform": {
+    "title_clean": "Treble：语音模拟平台",
+    "summary": "冰岛公司Treble获得1800万美元融资，其语音模拟平台主要服务于语音AI模型开发者、AI可穿戴设备和机器人公司。该平台为AI语音技术提供底层支持，对元宝在语音交互领域的技术选型和竞品分析有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/twitch-ceo-urges-game-firms-to-avoid-attention-vortex-of-gta-6": {
+    "title_clean": "Twitch CEO：游戏公司应避免'GTA 6'注意力漩涡",
+    "summary": "Twitch CEO Dan Clancy表示，GTA 6在今年假期季可能面临很少的竞争，他认为这是正确的策略。这反映了游戏行业注意力集中现象，对元宝产品经理了解用户注意力分配和内容竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-17/twitch-ceo-on-business-outlook-video": {
+    "title_clean": "Twitch CEO：游戏直播业务展望",
+    "summary": "Twitch CEO Dan Clancy讨论了公司业务前景，特别是在备受期待的《侠盗猎车手六》11月发布之际，随着更多玩家寻求在线娱乐内容，游戏直播行业正迎来新的发展机遇。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026": {
+    "title_clean": "AI Agent成为初创企业新队友：Gusto等公司探讨人机协作新模式",
+    "summary": "TechCrunch Disrupt 2026将举办专题讨论，探讨早期企业如何构建人类与AI Agent协作的团队模式，以及创始人如何在保持速度和责任的同时实现这一转变。这对元宝产品经理了解AI Agent在企业服务场景的应用价值有重要参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/fed-hike-changes-ai-funding-story": {
+    "title_clean": "美联储加息改变AI融资格局",
+    "summary": "美联储决定加息，这可能成为短期内AI行业面临的最大问题，超过AI安全争议。这一政策变化将直接影响AI企业的融资环境和资金成本，对AI产品经理评估市场风险和调整商业策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-discloses-safety-incidents-adopts-new-reporting-framework": {
+    "title_clean": "OpenAI公布更多安全事故并采用新报告框架",
+    "summary": "OpenAI发布新框架，计划报告模型中的不安全或令人担忧的行为，并披露了过去六个月内观察到的六起此类事件。这反映了AI安全透明度的提升，对产品经理了解行业安全标准和风险管理有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/openai-reports-new-ai-safety-incidents-sets-disclosure-process": {
+    "title_clean": "OpenAI报告新的AI安全事件并公布披露计划",
+    "summary": "OpenAI披露了多个此前未公开的AI模型不当行为事件，并宣布了新的跟踪和披露此类事件的框架。这对产品经理了解AI安全风险管理和透明度披露机制有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/qovt_73lfy1zoH_TelYhjg": {
+    "title_clean": "Harness Evolution：复杂系统优化工具",
+    "summary": "Harness Evolution是一款系统优化工具，其核心价值在于通过简化复杂流程来提高效率。该工具可能通过自动化或智能优化减少重复操作，为产品经理在系统架构和流程优化方面提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/apollo-backs-ai-startups-bid-bankroll-hardware-boom": {
+    "title_clean": "Apollo投资AI硬件初创公司，押注硬件繁荣",
+    "summary": "Apollo Global Management开始投资AI及相关硬件初创公司，计划未来向它们提供融资。这表明大型投资机构看好AI硬件领域的增长潜力，可能为AI产品带来更多资金支持和市场机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/compute-needs-big-payment": {
+    "title_clean": "Why Compute Needs a Big Down Payment：AI计算资源投入分析",
+    "summary": "本文探讨了AI计算资源投入的重要性，可能涉及大模型训练和部署所需的计算成本与策略。对产品经理了解AI基础设施成本结构和资源规划有参考价值，有助于评估产品开发中的资源投入与回报预期。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/zipline-talks-raise-funds-20-billion-valuation": {
+    "title_clean": "无人机配送创业公司Zipline接近200亿美元估值",
+    "summary": "Zipline是一家开发无人机配送小包裹(如餐食和医疗用品)的创业公司，据消息人士透露，该公司正在洽谈以约200亿美元的估值筹集10亿美元资金。这反映了无人机配送服务在医疗和餐饮领域的商业价值正在被资本市场高度认可。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-cardgit": {
+    "title_clean": "Executive Interview: CardGit",
+    "summary": "CardGit产品负责人Olaoluwa Areo接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家金融科技企业，CardGit的见解对AI助手在金融服务场景的应用和商业化策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/bloomberg-tech-9-16-2026-video": {
+    "title_clean": "Meta CEO就AI安全辩论发表观点",
+    "summary": "扎克伯格呼吁AI实验室依赖独立评估人员和顾问确保模型安全，同时OpenAI正与投资者进行初步谈判。这反映了行业对AI安全治理的重视，以及头部企业间的战略互动，对元宝产品经理了解行业安全标准和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics": {
+    "title_clean": "smartARM：AI视觉仿生假肢工具",
+    "summary": "加拿大创业公司smartARM开发基于视觉的AI仿生假肢技术，通过AI硬件和软件为残障人士提供更便捷、无障碍的生活解决方案。该产品展示了AI在辅助医疗领域的应用潜力，为元宝在AI服务场景拓展方面提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-monpulse": {
+    "title_clean": "MonPulse CEO访谈：市场定位与客户需求洞察",
+    "summary": "MonPulse CEO接受CB Insights采访，分享公司市场定位、客户需求分析及业务发展方向。作为AI产品经理，可从中了解行业头部企业对市场趋势的判断和客户需求的理解，为产品策略提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/denoising-aware-credit-assignment": {
+    "title_clean": "DACA-GRPO：扩散语言模型中的降噪感知信用分配方法",
+    "summary": "该研究提出了一种针对扩散语言模型的新型强化学习方法DACA-GRPO，解决了现有RL方法将所有降噪步骤视为同等重要且依赖有偏见、高方差评估的问题，为优化扩散模型提供了新思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it": {
+    "title_clean": "AI项目坟场：失败与未达预期的AI项目清单",
+    "summary": "本文整理了从苹果反复延迟的Siri AI到OpenAI混乱的'超级应用'发布等一系列失败或未达预期的AI项目，为产品经理提供AI产品失败案例参考，帮助规避类似风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

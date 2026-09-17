@@ -93538,5 +93538,439 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai": {
+    "title_clean": "Pinterest：AI室内设计重置工具",
+    "summary": "Pinterest正在测试Restyle功能，允许用户通过AI技术在自己房间照片中可视化家具、装饰和照明等元素，帮助将保存的灵感转化为实际设计，为室内设计场景提供AI辅助解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/flaw-found-claude-code-codex-gemini-cli-github-copilot": {
+    "title_clean": "Same Flaw Found in Claude Code, Codex, Gemini CLI and GitHub Copilot：AI代码助手存在相同安全漏洞",
+    "summary": "研究人员发现Claude Code、Codex、Gemini CLI和GitHub Copilot等主流AI代码助手存在相同的安全漏洞，这些漏洞可能被利用来执行恶意代码或泄露敏感信息。这一发现对产品经理具有重要参考价值，提醒我们在开发AI代码助手时需加强安全防护措施，避免类似漏洞影响产品安全性和用户信任。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/bridgewaters-greg-jensen-calls-regulating-ai-firms-like-systemically-important-banks": {
+    "title_clean": "Bridgewater高管呼吁对AI公司实施系统性银行级监管",
+    "summary": "桥水联席首席投资官Greg Jensen认为，AI算力持有巨头应受到类似系统性重要银行的额外监管，这一观点对AI行业监管政策制定和大型AI公司合规策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/us-weighs-antitrust-guidance-on-ai-safety-top-doj-official-says": {
+    "title_clean": "美国考虑更新AI安全反垄断指南",
+    "summary": "美国司法部高级官员表示，特朗普政府正在考虑更新网络安全领域的跨机构反垄断指南，以应对人工智能带来的新型威胁。这一政策动向可能影响AI安全领域的竞争格局和监管环境，对AI产品经理了解政策风险和合规方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/spacex-discusses-buying-data-for-ai-models-from-failed-startups": {
+    "title_clean": "SpaceX考虑收购失败初创公司数据用于AI模型训练",
+    "summary": "SpaceX正内部讨论收购陷入困境或已倒闭初创公司的客户和运营数据，旨在获取更丰富的数据资源用于AI模型训练。这一动向表明大型科技公司正积极寻找替代数据源，对AI产品经理在数据获取策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-17/huang-says-ai-firms-should-be-more-rigorous-in-testing-video": {
+    "title_clean": "黄仁勋：AI公司应加强测试严谨性",
+    "summary": "英伟达CEO黄仁勋在苏格兰查尔斯三世主办的活动上发表观点，指出人工智能日益增长的风险，呼吁AI公司应加强测试的严谨性。这反映了行业对AI安全性和可靠性的关注，对产品经理在AI产品安全测试方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia": {
+    "title_clean": "华为计划2027年第一季度推出新一代AI芯片挑战英伟达",
+    "summary": "华为正在加速推出下一代Ascend 960DT AI芯片，旨在与英伟达竞争并缩小中美在AI计算领域的差距。这一计划表明华为正积极布局AI硬件市场，可能对全球AI芯片供应链和竞争格局产生影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar": {
+    "title_clean": "Fintech推出新型融资模式：为初创企业提供客户获取成本资金支持",
+    "summary": "新成立的Skalar为初创企业提供销售和营销资金支持，采用新型融资模式，允许初创企业从未来收入中偿还资金。这种模式为初创企业提供了一种替代风险债务的融资选择，专注于客户获取成本的融资。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/white-house-weighs-us-incubator-for-cyber-research-startups": {
+    "title_clean": "白宫考虑建立网络安全研究孵化器",
+    "summary": "特朗普政府正考虑建立政府主导的网络安全研究孵化器，计划投资网络安全研究并培育开发政府工具的初创企业。这一动向可能影响AI在政府安全领域的应用机会，值得元宝产品经理关注政府AI服务场景的拓展可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026": {
+    "title_clean": "TechCrunch Disrupt 2026 展位申请倒计时",
+    "summary": "TechCrunch Disrupt 2026 展位申请将于9月18日截止，目前仅剩两天。该活动将于10月13-15日举行，可让创业公司面向1万多名创始人、投资者、运营者和科技领袖展示产品，为元宝产品团队提供接触潜在合作伙伴和了解行业趋势的机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/meta-tied-data-center-taps-us-junk-bonds-for-the-first-time": {
+    "title_clean": "CleanSpark：为Meta建设AI数据中心发行垃圾债券",
+    "summary": "CleanSpark公司首次发行22.3亿美元垃圾债券，用于建设与Meta平台相关的AI基础设施。这反映了AI基础设施建设的高成本融资需求，以及企业为支持AI发展寻求多元化融资渠道的趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/hungarian-startup-plans-us-foothold-with-non-military-drones": {
+    "title_clean": "匈牙利创业公司计划在美国生产非军用无人机",
+    "summary": "匈牙利创业公司ABZ Innovation计划在扩大本土产能后，于明年开始在美国生产非军用无人机。这一动向对元宝产品经理参考价值有限，与AI助手/Agent/服务场景无直接关联，但可作为无人机行业非军事化应用的市场信号。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/bose-unveils-199-bose-sport-open-earbuds-second-gen-ultra-open-earbuds": {
+    "title_clean": "Bose 推出两款开放式运动耳机：Sport Open 和 Ultra Open",
+    "summary": "Bose 发布两款新型开放式运动耳机，Sport Open 售价 199 美元，Ultra Open 售价 299 美元。这两款耳机采用环绕式、袖套设计，针对运动场景优化，为用户提供不堵塞耳道的音频体验，对元宝在多场景音频交互设计上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-17/eu-s-slow-regulation-is-finding-fans-in-ai-age": {
+    "title_clean": "欧盟缓慢的AI监管在AI时代获得支持",
+    "summary": "随着对安全和约束的需求增加，欧盟的AI监管方式正获得支持，可能为全球AI治理提供新思路。这对元宝产品经理有参考价值，特别是在合规框架和监管趋势方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech": {
+    "title_clean": "5个值得关注的初创企业交易：浮动核能、机器人报告卡和农民语音AI",
+    "summary": "本月值得关注的多项初创企业交易涉及将核反应堆安装在驳船上、AI模型控制机器人的能力评估，以及为农民提供语音AI解决方案。这些交易展示了AI和其他新兴技术在非传统领域的应用拓展，为元宝产品经理提供了AI服务场景扩展和商业化方向的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/doordash-uber-expand-costco-delivery-partnership-in-the-us": {
+    "title_clean": "DoorDash与Costco合作扩展美国配送服务",
+    "summary": "DoorDash与Uber扩大与Costco的配送合作，为美国客户提供Costco商品配送服务，此举加剧了与Instacart在大型零售商数字配送领域的竞争。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/europe-tech-fund-said-in-talks-to-back-ai-startup-elevenlabs": {
+    "title_clean": "欧洲科技基金拟投资AI语音合成创业公司ElevenLabs",
+    "summary": "欧洲新成立的技术基金正在与英国AI语音合成创业公司ElevenLabs进行投资洽谈，这表明AI语音技术领域正获得资本市场的持续关注，对元宝产品经理评估语音合成技术商业化路径和融资环境有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/huawei-speeds-ai-chip-launch-challenge-nvidia": {
+    "title_clean": "华为加速AI芯片发布以挑战英伟达",
+    "summary": "华为计划将新AI芯片发布时间提前至2027年第一季度，比原计划提前九个月，此举旨在加强其与英伟达在AI芯片领域的竞争。这一加速计划反映了华为在AI硬件领域的重要战略调整，对元宝产品经理了解AI基础设施竞争格局和供应链变化有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/sessions/2026-09-17/live-q-amp-a-does-ai-safety-anxiety-in-the-us-benefit-china": {
+    "title_clean": "美国AI安全焦虑是否有利于中国：Bloomberg直播问答",
+    "summary": "Bloomberg记者就美国呼吁放缓AI发展的讨论及其对中国的影响进行直播问答，探讨中美AI政策差异可能带来的竞争格局变化，对元宝产品经理了解国际AI监管趋势和市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-17/port-of-la-s-seroka-on-ai-trade-supply-chains-video": {
+    "title_clean": "洛杉矶港执行总监Seroka谈AI如何重塑航运与物流",
+    "summary": "洛杉矶港执行总监Gene Seroka分享人工智能如何改变航运和物流行业，并就贸易关税、地缘政治背景下的供应链变化提供见解。对元宝产品经理了解AI在物流供应链领域的应用场景和行业趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says": {
+    "title_clean": "印度外包产业向高端转型：AI重塑就业格局",
+    "summary": "ING银行报告指出，印度外包产业并未因AI而失去竞争力，反而正向价值链上游转型，专注于更难被自动化的高端服务。这一趋势对AI服务提供商的产品定位和商业化策略具有重要参考价值，提示AI产品需关注与人类服务的互补性而非完全替代。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-partner-gmi-cloud-seeks-loan-to-buy-chips-for-thai-site": {
+    "title_clean": "Nvidia合作伙伴GMI Cloud寻求贷款购买泰国芯片",
+    "summary": "Nvidia合作伙伴GMI Cloud正寻求3亿美元贷款，用于在泰国工厂采购芯片。这反映了AI芯片供应链的扩张趋势，对元宝产品经理了解AI基础设施布局和供应链动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/casinos-posing-as-beauty-salons-bakeries-spur-philippine-digital-payment-review": {
+    "title_clean": "菲律宾电子支付平台需加强商户审核，防范美容院、面包店伪装的赌博欺诈",
+    "summary": "菲律宾央行要求电子支付平台加强对商户的审核力度，防止美容院、面包店等实体伪装成赌博场所进行欺诈活动，这一监管动向对支付安全与商户管理具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/china-s-ai-selloff-faces-risk-from-us-push-for-model-curbs": {
+    "title_clean": "中美AI竞争加剧：美国限制模型出口导致中国AI股持续下跌",
+    "summary": "美国AI开发者推动限制中国竞争对手获取前沿模型，已导致中国AI公司股价暴跌损失数十亿美元。若限制措施成功实施，将进一步加剧中国AI企业的困境，影响全球AI竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/google-must-make-tech-compatible-rivals-judge-rules": {
+    "title_clean": "Google被裁定需提高技术兼容性以支持竞争对手",
+    "summary": "美国联邦法官裁定Google必须改进其广告技术，使其能够更好地与竞争对手产品集成。这一裁决可能影响Google在广告市场的垄断地位，对元宝产品经理了解平台开放策略和反垄断政策对AI服务的影响有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership": {
+    "title_clean": "Snap 发布 $2,195 AR 眼镜并与 Verizon 合作",
+    "summary": "Snap 公布了其高端 AR 眼镜 Specs 的更多技术细节，这款眼镜配备集成显示屏和自包含设计，将与 Verizon 合作推出。这对元宝产品经理了解 AR 硬件与 AI 服务结合的潜在方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/salesforce-sees-63-billion-in-revenue-in-fiscal-year-2030": {
+    "title_clean": "Salesforce：预计2030财年营收达630亿美元",
+    "summary": "Salesforce发布长期销售展望，预计2030财年营收将达到630亿美元，超出分析师预期。这一增长信号表明，尽管面临AI竞争，该公司仍能保持强劲的营收增长，对元宝产品经理了解企业级AI服务市场趋势和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-pc-doctor-india": {
+    "title_clean": "CEO Interview: PC Doctor India",
+    "summary": "PC Doctor India CEO Deepak Nagar接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。作为印度IT服务提供商，其观点对了解南亚地区AI服务市场格局和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-16/openai-anthropic-safety-talks-stir-startup-concerns-video": {
+    "title_clean": "OpenAI与Anthropic安全倡议引发初创企业担忧",
+    "summary": "OpenAI和Anthropic呼吁\"放慢\"前沿AI发展，引发初创企业担忧这可能形成由行业巨头主导的新监管框架。这对元宝产品经理有参考价值，需关注行业巨头政策动向对AI助手产品发展路径的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/model-misalignment-reporting-framework": {
+    "title_clean": "OpenAI：模型对齐问题报告框架",
+    "summary": "OpenAI 发布了用于跟踪、调查和披露模型对齐问题的框架，并分享了六份关于模型意外或不当行为的报告。这为AI产品经理提供了处理模型安全性和对齐问题的参考方法，有助于提升产品安全性和透明度。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/sk-hynix-says-exploring-options-after-report-of-intel-tie-up": {
+    "title_clean": "SK海力士探索与英特尔合作生产半导体",
+    "summary": "SK海力士表示正在探索提升全球竞争力的选项，此前有报道称其可能与美国英特尔公司合作在美国生产半导体。这对元宝产品经理的参考价值在于了解科技巨头合作动向，可能影响AI硬件供应链和算力成本。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/uk-workers-hide-ai-use-from-their-bosses-deloitte-survey-finds": {
+    "title_clean": "德勤调查：英国员工隐瞒使用AI工具",
+    "summary": "德勤调查显示，近十分之一的英国员工使用了雇主禁止或不认可的AI工具，反映出员工与雇主之间日益紧张的关系。这一现象表明AI工具在工作场所的普及与监管之间存在明显差距，对企业管理AI使用政策及产品经理设计合规AI助手具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower": {
+    "title_clean": "特朗普面临挑战：难以阻止中国成为AI超级大国",
+    "summary": "特朗普与Anthropic CEO在AI发展速度上存在分歧，但双方都认同需要防止中国赶超美国。然而，实现这一目标面临诸多困难，反映了中美在AI领域的竞争态势和战略挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-15/trump-advisers-lutnick-michael-meet-with-anthropic-executive-over-ai-safety": {
+    "title_clean": "特朗普顾问与Anthropic高管会面讨论AI安全风险",
+    "summary": "特朗普政府高级官员与Anthropic华盛顿高管会面，讨论人工智能安全风险问题。此次会面表明美国政府对AI安全监管的重视程度提升，可能影响未来AI政策制定，对元宝产品经理了解监管趋势和政策走向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/chipmaker-sk-hynix-agrees-to-higher-cash-payout-to-ease-tensions": {
+    "title_clean": "SK海力士与工会达成协议：利润奖金半数现金支付",
+    "summary": "SK海力士与工会达成协议，将所有利润分享奖金的一半以现金形式支付，解决了可能影响全球第二大内存芯片制造商生产的争端。这一劳资协议对半导体行业生产稳定性有参考价值，但与AI产品经理关联度较低。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

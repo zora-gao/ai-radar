@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-17T20:37:26.253Z",
+  "generated_at": "2026-09-17T23:43:54.831Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
     {
-      "id": "stealth/union-alpha",
-      "name": "Union Alpha",
-      "vendor": "Stealth",
-      "vendor_slug": "stealth",
-      "url": "https://openrouter.ai/stealth/union-alpha",
-      "created_at": "2026-09-16T14:42:03Z",
+      "id": "unbiased/pareto",
+      "name": "Pareto",
+      "vendor": "Unbiased",
+      "vendor_slug": "unbiased",
+      "url": "https://openrouter.ai/unbiased/pareto-20260917",
+      "created_at": "2026-09-17T23:02:58Z",
       "context_length": 262144,
       "modality": "text+image->text",
       "input_modalities": [
@@ -19,12 +19,12 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
+      "price_in": 2.5,
+      "price_out": 7.5,
+      "is_free": false,
       "supports_tools": true,
       "supports_reasoning": false,
-      "description": "Union Alpha is a multimodal model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. Union Alpha is a stealth model....",
+      "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
       "description_zh": null
     },
     {
@@ -42,8 +42,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.579,
-      "price_out": 1.738,
+      "price_in": 0.581,
+      "price_out": 1.742,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1365,8 +1365,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.579,
-      "price_out": 1.738,
+      "price_in": 0.581,
+      "price_out": 1.742,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

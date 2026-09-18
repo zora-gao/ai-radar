@@ -94813,5 +94813,131 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/wingman-8": {
+    "title_clean": "Wingman：恋爱短信提醒助手",
+    "summary": "Wingman是一款恋爱短信提醒工具，帮助用户及时向女友发送消息，避免忘记重要沟通。这款产品针对恋爱场景中的沟通痛点，为产品经理提供了AI助手在情感服务场景的应用参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/buncha-games": {
+    "title_clean": "Buncha Games：即时游玩游戏与用户生成内容平台",
+    "summary": "Buncha Games提供桌面和移动网页端的即时游玩游戏及用户生成内容(UGC)世界，用户无需下载即可体验游戏内容，同时可创建和分享自己的游戏世界，为AI助手在游戏娱乐领域的应用提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gametomac": {
+    "title_clean": "GameToMac：AI Windows游戏Mac兼容工具",
+    "summary": "GameToMac是一款AI驱动的工具，帮助用户在Mac设备上运行Windows游戏，通过AI技术解决兼容性问题。这为元宝产品经理提供了AI解决跨平台兼容问题的案例参考，特别是在游戏娱乐场景下的AI应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sider-omni": {
+    "title_clean": "Sider Omni Sidebar：为Mac应用提供AI助手侧边栏",
+    "summary": "Sider Omni Sidebar是一款为Mac应用添加AI助手侧边栏的工具，让用户在任何应用中都能快速访问AI功能。这展示了AI助手如何深度集成到操作系统层面，为产品经理提供了将AI能力无缝嵌入现有工作流的产品设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/makersclaw": {
+    "title_clean": "Makersclaw 2.0：AI Agent企业操作系统",
+    "summary": "Makersclaw 2.0是一款由AI Agent运行的企业操作系统，旨在通过智能代理管理企业运营。该产品对元宝产品经理有参考价值，特别是在AI Agent如何赋能企业级服务场景方面提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tab-doctor": {
+    "title_clean": "Tab Doctor：浏览器标签页管理工具",
+    "summary": "Tab Doctor是一款浏览器插件，能够自动关闭重复的标签页并将其他标签页暂时休眠，帮助用户整理浏览器界面，提升浏览效率。对于产品经理而言，这反映了用户在多任务处理场景下的需求痛点，可作为AI助手管理多应用窗口或信息流排序的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories": {
+    "title_clean": "Crusoe：AI数据中心与小规模模块化工厂建设商",
+    "summary": "Crusoe获得39亿美元融资，估值达309亿美元，专注于建设大规模数据中心和小型模块化'AI工厂'。这一融资反映了AI基础设施建设的强劲需求，对元宝产品经理了解AI算力基础设施布局和成本结构有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate": {
+    "title_clean": "Google DeepMind成立机构拓宽AGI讨论",
+    "summary": "Google DeepMind成立新机构，旨在促进Google、Google DeepMind及全球研究社区在AGI问题上的不同观点交流。该机构将允许各方表达不同意见，并可能随着讨论深入而改变立场，为AI行业提供重要的AGI发展视角参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control": {
+    "title_clean": "AI安全辩论：安全还是控制？",
+    "summary": "本文探讨了AI安全辩论的实质，指出并非所有人都认同Amodei提出的全球协调AI安全行动的呼吁。这反映了AI安全领域存在不同观点，对产品经理理解行业安全治理分歧和潜在政策影响有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-17/will-i-am-on-personal-ai-agents-fundraising-efforts-video": {
+    "title_clean": "will.i.am：面向大学生的个人AI代理开发与融资",
+    "summary": "格莱美奖得主will.i.am在Dreamforce大会上透露，他正在开发面向大学生的个人AI代理，并讨论相关融资进展。这对元宝产品经理了解AI代理在特定人群中的应用场景及商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

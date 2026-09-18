@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-18T15:19:16.666Z",
+  "generated_at": "2026-09-18T20:07:15.391Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "prism-ml/ternary-bonsai-2-27b",
+      "name": "Ternary Bonsai 2 27B",
+      "vendor": "Prism Ml",
+      "vendor_slug": "prism-ml",
+      "url": "https://openrouter.ai/prism-ml/ternary-bonsai-2-27b-20260918",
+      "created_at": "2026-09-18T17:54:06Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.075,
+      "price_out": 0.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Bonsai 2 27B is a 27B-parameter reasoning model from PrismML derived from Qwen3.8-27B. It supports coding, mathematics, tool calling, and image understanding with a 262K-token context window. Ternary compression shrinks...",
+      "description_zh": null
+    },
     {
       "id": "unbiased/pareto",
       "name": "Pareto",
@@ -66,8 +90,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.14,
+      "price_out": 0.42,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1049,8 +1073,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.9,
-      "price_out": 3,
+      "price_in": 0.892,
+      "price_out": 2.803,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1095,8 +1119,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.4,
-      "price_out": 4.4,
+      "price_in": 0.91,
+      "price_out": 2.86,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1443,29 +1467,6 @@
       "supports_reasoning": true,
       "description": "LFM2.5-2.6B is a compact reasoning model from Liquid AI. It is suited for agent workflows, data extraction, RAG, and long-context processing. Liquid advises against using it for agentic coding or...",
       "description_zh": "LFM2.5-2.6B 是 Liquid AI 的紧凑推理模型。它适用于代理工作流程、数据提取、RAG 和长上下文处理。 Liquid 建议不要将其用于代理编码或......"
-    },
-    {
-      "id": "nvidia/nemotron-3.5-lightning",
-      "name": "Nemotron 3.5 Lightning",
-      "vendor": "NVIDIA",
-      "vendor_slug": "nvidia",
-      "url": "https://openrouter.ai/nvidia/nemotron-3.5-lightning-20260807",
-      "created_at": "2026-08-11T12:52:31Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.08,
-      "price_out": 0.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "NVIDIA Nemotron 3.5 Lightning is an open mixture-of-experts model from NVIDIA, with 3B active parameters out of 30B total. It is suited for high-throughput agentic workloads and specialized tasks that...",
-      "description_zh": "NVIDIA Nemotron 3.5 Lightning 是 NVIDIA 的开放式专家混合模型，共有 30B 个活动参数，其中有 3B 个。它适用于高吞吐量代理工作负载和专门任务..."
     }
   ]
 }

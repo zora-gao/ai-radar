@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T23:29:30.402Z",
+  "generated_at": "2026-09-19T03:56:50.884Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -25,6 +25,31 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Bonsai 2 27B is a 27B-parameter reasoning model from PrismML derived from Qwen3.8-27B. It supports coding, mathematics, tool calling, and image understanding with a 262K-token context window. Ternary compression shrinks...",
+      "description_zh": null
+    },
+    {
+      "id": "z-ai/glm-5.3-flashx",
+      "name": "GLM 5.3 FlashX",
+      "vendor": "Zhipu AI",
+      "vendor_slug": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flashx-20260918",
+      "created_at": "2026-09-18T15:07:00Z",
+      "context_length": 1048576,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.37,
+      "price_out": 1.25,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GLM-5.3-FlashX is the high-speed variant of Z.ai's GLM-5.3-Flash, a native multimodal model delivering inference speeds of up to 200 tokens/s. Built on the same hybrid sparse and linear attention architecture...",
       "description_zh": null
     },
     {
@@ -1444,29 +1469,6 @@
       "supports_reasoning": true,
       "description": "Grok 4.6 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM.",
       "description_zh": "Grok 4.6 是 SpaceXAI 最智能的模型，在编码、知识工作和 STEM 方面具有前沿性能。"
-    },
-    {
-      "id": "liquid/lfm-2.5-2.6b:free",
-      "name": "LFM2.5-2.6B (free)",
-      "vendor": "Liquid",
-      "vendor_slug": "liquid",
-      "url": "https://openrouter.ai/liquid/lfm-2.5-2.6b-20260811",
-      "created_at": "2026-08-11T17:48:39Z",
-      "context_length": 65536,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "LFM2.5-2.6B is a compact reasoning model from Liquid AI. It is suited for agent workflows, data extraction, RAG, and long-context processing. Liquid advises against using it for agentic coding or...",
-      "description_zh": "LFM2.5-2.6B 是 Liquid AI 的紧凑推理模型。它适用于代理工作流程、数据提取、RAG 和长上下文处理。 Liquid 建议不要将其用于代理编码或......"
     }
   ]
 }

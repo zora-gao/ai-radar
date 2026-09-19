@@ -96085,5 +96085,359 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/mantle-f52466f6-7b01-4f3c-b7de-a2e445d1f2e3": {
+    "title_clean": "Mantle：AI逻辑描述与界面生成工具",
+    "summary": "Mantle是一款AI工具，能够描述逻辑并生成管理界面、MCP和WebMCP。它可能帮助产品经理快速构建AI系统的前端界面和后端连接，对元宝的产品设计和开发有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/whaleread": {
+    "title_clean": "WhaleRead：本地文档翻译工具",
+    "summary": "WhaleRead是一款本地文档翻译工具，支持TXT、Markdown和EPUB格式的文件翻译。产品经理可关注其本地化处理能力，为元宝的文档翻译功能提供参考，特别是在隐私保护和离线使用场景下的解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wombo-the-ai-game-studio": {
+    "title_clean": "Wombo：AI 2D游戏素材生成工具",
+    "summary": "Wombo是一款AI游戏工作室，专注于生成2D图形素材、音效和特殊音效。该工具可为游戏开发者快速创建游戏资源，降低开发成本，对元宝在游戏内容生成和多模态AI应用方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notch-design-2": {
+    "title_clean": "Notch Design：手机刘海个性化设计工具",
+    "summary": "Notch Design是一款允许用户为手机刘海屏区域添加个性化设计的工具，通过赋予手机'刘海'独特个性，增强设备辨识度和用户体验。产品经理可参考此类小众功能如何提升用户对设备的情感连接和个性化需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yoetz": {
+    "title_clean": "Yoetz：AI任务完成度检查工具",
+    "summary": "Yoetz是一款AI任务完成度验证工具，能够检查AI是否真正完成了任务或存在遗漏。产品经理可参考其验证机制来提升AI助手任务执行的可靠性和准确性，避免AI生成结果中的漏洞。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/unvendor": {
+    "title_clean": "Unvendor：AI与用户共享界面工具",
+    "summary": "Unvendor是一款提供AI与用户共享界面的工具，使AI能够直接在用户界面上进行交互和操作。这种共享UI模式可能为AI助手提供更直观的用户交互方式，值得产品经理关注AI界面交互的创新方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/slurp-2": {
+    "title_clean": "Slurp：多网站视频下载录制工具",
+    "summary": "Slurp是一款支持从数千个网站下载和录制视频的工具，为用户提供跨平台的视频内容获取解决方案。产品经理可关注其技术实现方式和用户需求，评估是否可作为元宝的多模态能力扩展方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lastbox": {
+    "title_clean": "Lastbox：AI物理邮件处理工具",
+    "summary": "Lastbox是一款帮助用户处理物理垃圾邮件的AI工具，通过AI技术自动处理纸质邮件，减少用户手动处理的工作量。这类工具反映了AI从数字世界向物理世界扩展的趋势，对元宝探索线下场景自动化处理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ringo-5": {
+    "title_clean": "Ringo：AI办公协作助手",
+    "summary": "Ringo是一款名为Seamless AX的AI办公协作工具，旨在帮助用户实现无缝的办公协作体验。作为AI助手类产品，它可能专注于提升团队协作效率或自动化办公流程，对元宝产品经理在AI办公场景应用方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/voicechanger-live": {
+    "title_clean": "VoiceChanger.Live：实时动漫声音变声器",
+    "summary": "VoiceChanger.Live是一款实时语音变声工具，可在通话中即时将用户声音转换为动漫女孩音效。该产品针对语音社交和娱乐场景，为AI语音交互提供了新的应用方向，产品经理可关注其在语音个性化、虚拟身份表达方面的商业化潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openalgo-charts": {
+    "title_clean": "OpenAlgo Charts：开源金融图表终端",
+    "summary": "OpenAlgo Charts是一款开源的金融图表终端工具，专为金融门户网站提供数据可视化服务。产品经理可关注其开源模式与金融数据可视化方案，为元宝在金融信息服务场景下的功能设计与交互提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lokalbot": {
+    "title_clean": "LokalBot：Mac对话与屏幕内容搜索工具",
+    "summary": "LokalBot是一款Mac应用，能够帮助用户查找在Mac上说过的话或看到过的内容，可能是通过记录和搜索用户的对话历史和屏幕显示内容，为用户提供便捷的信息回溯功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/duvi": {
+    "title_clean": "Duvi：通过URL创建企业AI工具",
+    "summary": "Duvi是一个平台，允许用户仅通过输入URL就能为企业创建定制化AI工具。这简化了企业AI应用的部署流程，对产品经理了解低代码AI解决方案和快速原型开发有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/unfetch-com": {
+    "title_clean": "Unfetch.com：AI广告管理工具",
+    "summary": "Unfetch.com是一款让ChatGPT和Claude管理广告的工具，帮助用户通过AI助手自动化广告投放和优化，为AI助手在商业营销场景的应用提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/powermove-2": {
+    "title_clean": "Powermove：自适应视频编辑工具",
+    "summary": "Powermove是一款能够根据用户工作内容自动调整自身的视频编辑工具，它能够根据用户的编辑习惯和需求动态改变界面和功能，提供更个性化的视频编辑体验，对元宝产品经理在AI自适应界面设计方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kanverse-gpu-borrow": {
+    "title_clean": "Kanverse GPU Borrow：跨设备GPU计算借用工具",
+    "summary": "Kanverse GPU Borrow允许用户在获得授权的情况下从其他设备借用GPU计算资源，解决了本地GPU算力不足的问题，为AI应用和计算密集型任务提供了灵活的算力分配方案，对元宝产品经理在资源调度和AI服务架构设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai": {
+    "title_clean": "Tilly Norwood：AI虚拟人物媒体采访事件",
+    "summary": "AI虚拟人物Tilly Norwood在媒体采访中出现异常，开始说中文。这一事件反映了当前AI虚拟人物在真实场景中的技术局限性和稳定性问题，对AI助手和虚拟人物产品经理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/second-eyes": {
+    "title_clean": "Second Eyes：AI照片筛选工具",
+    "summary": "Second Eyes是一款AI辅助工具，能自动筛选照片，帮助用户更快地完成内容发布。对于元宝产品经理而言，该产品展示了AI在内容创作流程中的自动化应用价值，特别是在图片处理场景下的效率提升方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments": {
+    "title_clean": "Anthropic：AI生物学实验实验室",
+    "summary": "Anthropic正在运营一个进行生物学实验的实验室，这与其此前关于AI可能威胁人类安全的警告形成对比。该实验室表明AI公司正积极探索AI在生物科学领域的实际应用，这对元宝产品经理了解AI技术跨界应用方向和潜在风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/openai-projects-burning-through-278-billion-by-2030-ft-says": {
+    "title_clean": "OpenAI预计2030年前将消耗2780亿美元：FT",
+    "summary": "据金融时报报道，OpenAI预计从2026年到2030年底，其负自由现金流将达到2780亿美元。这一数据来自公司内部演示文件，反映了OpenAI在AI研发和基础设施上的巨额投入，对产品经理评估AI企业长期财务模型和商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/U_gxJzeax546G5iWB2Bspw": {
+    "title_clean": "Hinton预言：阿里通用医疗影像AI将登Science正刊",
+    "summary": "Hinton预测十年后，阿里的通用医疗影像AI研究成果将登上《Science》正刊。这反映了AI在医疗影像领域的突破性进展，对元宝产品经理了解AI在专业垂直场景的应用潜力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-18/accenture-s-gramling-on-latest-holiday-shopping-survey-video": {
+    "title_clean": "埃森哲最新假日购物调查显示消费者消费意愿趋缓",
+    "summary": "埃森哲高管Kathryn Gramling分享最新调查数据，显示近半数消费者计划今年假日消费与去年持平或减少。这一市场信号对元宝把握用户消费心理变化、调整AI购物助手策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nscale-ipo-files-go-public-shows-huge-revenue-jump-steep-losses": {
+    "title_clean": "Nscale：AI云计算服务公司申请IPO，收入激增但亏损扩大",
+    "summary": "Nscale是一家英伟达投资的AI云计算服务公司，今年上半年收入同比增长10倍，但同时亏损也大幅增加，因公司投入数十亿美元用于数据中心建设。该公司已提交IPO申请，反映了AI云计算领域的快速增长与高投入特性，对元宝产品经理评估AI服务商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup": {
+    "title_clean": "25,000家初创公司申请揭示种子轮融资新规则",
+    "summary": "研究分析了25,000家初创公司申请，发现最易获得融资的初创公司优先明确市场进入策略，早期测试独特营销渠道，将分销和专注视为持久竞争优势。这对元宝产品经理了解初创公司融资逻辑和市场策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/gcash-owner-gets-approval-for-up-to-1-5-billion-philippines-ipo": {
+    "title_clean": "GCash母公司获批菲律宾高达15亿美元IPO",
+    "summary": "菲律宾最大移动钱包应用GCash的母公司已获该国证券交易所批准，进行最高达92.3亿比索（约15亿美元）的首次公开募股。这反映了东南亚数字支付市场的快速增长和投资热度，对元宝在新兴市场的支付服务布局具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/TAv9M8MP3_HG6sK6IwFkDQ": {
+    "title_clean": "CoRL 2026：Sharpa世界联觉模型实现真实扰动鲁棒手内操作",
+    "summary": "CoRL 2026开源了Sharpa世界联觉模型，该模型能够实现真实扰动环境下的鲁棒手内操作。这一技术突破对机器人操作和AI物理交互领域具有重要意义，为元宝产品在多模态交互和物理世界理解方面提供了技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-pleiada": {
+    "title_clean": "Executive Interview: Pleiada：企业AI服务市场定位访谈",
+    "summary": "Pleiada首席商务官Paula Haurie接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。访谈内容对企业AI服务市场格局和客户需求变化有参考价值，有助于了解新兴AI企业的市场策略和差异化定位。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-axwise": {
+    "title_clean": "Axwise CEO访谈：企业协作市场洞察",
+    "summary": "Axwise CEO Vitalijs Visnevskis接受CB Insights采访，分享公司对市场定位、客户需求的理解和公司发展策略。访谈内容对企业协作产品市场方向和客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

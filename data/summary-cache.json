@@ -96439,5 +96439,317 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/stile-id": {
+    "title_clean": "Stile.iD：私人身份验证API",
+    "summary": "Stile.iD提供私人身份验证API，用于验证真实用户身份。这类身份验证工具对AI助手产品具有重要参考价值，特别是在用户账户安全、实名认证和服务场景验证方面，可作为元宝产品安全架构的潜在技术选项。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/robot-recipes": {
+    "title_clean": "Mise：一站式餐食规划工具",
+    "summary": "Mise是一款餐食规划工具，能够同时准备所有菜品，帮助用户高效规划餐食。对于元宝产品经理而言，这展示了AI在生活服务场景中的应用潜力，特别是在时间管理和任务批量处理方面的创新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/punch-4": {
+    "title_clean": "Punch：群聊内容保存工具",
+    "summary": "Punch是一款群聊内容保存工具，帮助用户保存和管理群聊中的重要信息，解决群聊信息易丢失的问题，为团队协作和个人信息管理提供便利。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sutura": {
+    "title_clean": "Sutura：自愈CI验证工具",
+    "summary": "Sutura是一款持续集成工具，能够自动验证修复方案的有效性，确保代码问题得到真正解决。产品经理可关注其在自动化测试和问题修复流程中的创新应用，为元宝的AI Agent能力提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/productbridge": {
+    "title_clean": "ProductBridge：AI客户支持与反馈代理",
+    "summary": "ProductBridge是一款AI原生客户支持与反馈代理工具，能够自动化处理客户支持请求并收集用户反馈。对于元宝产品经理而言，该产品展示了AI在客户服务场景的应用价值，可作为提升用户支持效率和收集产品洞察的参考方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mela-3": {
+    "title_clean": "Mela：多人AI游戏社交平台",
+    "summary": "Mela是一个结合AI与多人社交的游戏平台，允许用户与朋友和AI一起游戏，并让群体参与改变游戏规则。这种AI驱动的社交游戏模式可能为元宝在游戏化社交和AI互动方面提供产品思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bolt-new": {
+    "title_clean": "Bolt Forge：开源模型AI代理工具",
+    "summary": "Bolt推出名为Forge的新AI代理，采用开源模型并实现50倍使用量提升。这对产品经理了解开源模型在代理产品中的应用效能及性能优化方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/utcp": {
+    "title_clean": "Ruby UTCP：开源TCP工具库",
+    "summary": "Ruby UTCP是一个开源的TCP工具库，提供网络通信功能。对于元宝产品经理而言，这可能涉及AI服务与网络通信的集成参考，特别是在构建需要稳定网络连接的AI服务场景时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/squirrel-screen-time-savings": {
+    "title_clean": "Squirrel：付费式应用拦截工具",
+    "summary": "Squirrel是一款应用拦截工具，通过阻止用户使用特定应用来帮助用户专注，并会向用户返还奖励金。这种将行为干预与经济激励结合的模式，对元宝产品经理思考如何通过奖励机制提升用户专注度和产品粘性具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mosmos": {
+    "title_clean": "MosMos：会议语音转文字工具",
+    "summary": "MosMos是一款会议语音转文字工具，支持会前、会中和会后三个阶段的语音记录与文字转换，帮助用户高效捕捉会议内容并整理成文字记录，对需要会议记录整理的产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lumiko": {
+    "title_clean": "Lumiko：自动缩放-平移屏幕录制编辑工具",
+    "summary": "Lumiko是一款屏幕录制工具，能够自动进行缩放和平移编辑，简化视频制作流程。产品经理可关注其AI驱动的自动编辑技术如何提升用户内容创作效率，为元宝的多模态交互功能提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/doneit": {
+    "title_clean": "Doneit 3.2：任务管理助手更新",
+    "summary": "Doneit 3.2版本重新设计了Assist功能，并新增了对Siri AI的支持。作为任务管理工具，此次更新表明AI助手与系统级语音助手的集成趋势，对元宝在多平台协作和语音交互方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks": {
+    "title_clean": "中国央视 affiliate 揭示 Anthropic 数据与隐私风险",
+    "summary": "央视 affiliate 指出 Anthropic 修订隐私政策后，允许公司在认为必要时无需法律程序即可与美情报机构共享用户数据，增加了用户数据风险。这对关注 AI 服务数据安全的产品经理有重要参考价值，提醒在评估 AI 服务提供商时需重点审查数据隐私政策。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/github-509": {
+    "title_clean": "moli：轻量级命令行浏览器工具",
+    "summary": "moli是一款仅40MB大小的命令行浏览器工具，为开发者提供轻量级的网页浏览体验。作为极简型CLI浏览器，它可能对元宝产品经理在轻量级应用设计或命令行交互方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai": {
+    "title_clean": "Vantora：AI物理世界创业孵化平台",
+    "summary": "Vantora（前UP.Labs）是一家为工业企业创建新创公司的平台，专注于物理世界AI应用，近期获得1亿美元融资。该模式通过系统性孵化AI实体世界应用，为元宝在工业场景AI落地提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/TVxmHaOAUMlKn4MqBxKenQ": {
+    "title_clean": "Claude：生物模型AI重写工具",
+    "summary": "Claude在四周内重写了30个生物模型，ScienceIDE已实现规模化AI训练。这表明AI在生物科学领域的应用正在加速，对元宝产品经理了解AI专业领域应用场景和垂直行业解决方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-18/crusoe-ceo-data-center-indusry-has-a-marketing-issue-video": {
+    "title_clean": "Crusoe CEO：数据中心行业存在营销问题",
+    "summary": "Crusoe CEO Chase Lochmiller讨论了AI基础设施公司获得近40亿美元新融资，估值增至近310亿美元的情况，以及这笔资金将如何推动公司发展。这反映了AI基础设施领域的投资热潮和行业面临的营销挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-18/bloomberg-tech-9-18-2026-video": {
+    "title_clean": "Anthropic的Claude：参与26%的AI研发工作",
+    "summary": "Anthropic发现其Claude聊天机器人已承担公司26%的AI研发工作，这一比例在全球AI辩论升温的背景下显得尤为重要。这表明AI助手正从消费应用向核心研发领域渗透，为产品经理提供了AI工具内部应用的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal": {
+    "title_clean": "本周十大融资轮次：AI基础设施、太空科技和投资管理领域获大额融资",
+    "summary": "本周美国初创企业融资市场出现多笔十亿美元级别的大额交易，主要集中在AI基础设施、太空科技和投资管理领域。这反映了资本对AI底层技术和特定垂直领域的持续关注，对元宝产品经理了解AI行业资本流向和热点方向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households": {
+    "title_clean": "Google推出CC家庭AI助手：协调家庭日程与任务管理",
+    "summary": "Google重新聚焦其CC AI助手，专注于家庭协调功能，允许家庭成员共享邮件、日程和任务，使AI能够管理日历、填写表格、制作购物清单、规划餐食等，为家庭生活提供全方位管理支持。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/amazon-in-eu-crosshairs-over-suspected-price-curbs-on-sellers": {
+    "title_clean": "亚马逊涉嫌限制卖家价格遭欧盟调查",
+    "summary": "欧盟正在调查亚马逊可能对其平台上的卖家实施不公平的价格限制措施。这一监管动态对元宝产品经理有参考价值，特别是在理解平台经济规则、反垄断政策以及如何在类似市场环境中构建公平的AI服务生态系统方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026": {
+    "title_clean": "TechCrunch Disrupt 2026：最后24小时预订展位",
+    "summary": "TechCrunch Disrupt 2026大会最后一天预订展位，将于10月13-15日举行，可面向1万+创始人、投资者、运营者和科技领袖展示创业项目。对产品经理了解行业展会机会和潜在合作伙伴有价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-pure-capture-innovations": {
+    "title_clean": "Pure Capture Innovations CEO访谈：市场定位与客户需求分析",
+    "summary": "Pure Capture Innovations CEO Mark Wild接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。这为元宝产品经理提供了企业级AI解决方案市场定位和客户洞察的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-17/ai-existential-risk-is-close-to-zero-databricks-ceo-video": {
+    "title_clean": "Databricks CEO：AI存在风险接近于零",
+    "summary": "Databricks CEO Ali Ghodsi反驳AI对人类构成生存威胁的观点，认为这种风险接近于零，同时警告AI技术带来真实且不断增长的风险。这对产品经理评估AI安全与伦理定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/hex-gpt-6-astra": {
+    "title_clean": "Hex：GPT-6 Astra将数据分析转化为可视化报告",
+    "summary": "Hex利用GPT-6 Astra技术，将数据代理的分析结果转化为交互式可视化报告，使员工能够自信地分享数据洞察。这展示了AI在数据可视化和企业知识分享方面的应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

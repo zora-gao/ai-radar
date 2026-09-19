@@ -96987,5 +96987,213 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/smartcheck": {
+    "title_clean": "SmartCheck：图像物体计数工具",
+    "summary": "SmartCheck是一款通过三次点击示例即可对照片中的物体进行计数的工具，为用户提供简单直观的图像分析功能，可能适用于库存管理、数量统计等场景，对元宝在图像识别与实用工具集成方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/galactic-receipt-scanner": {
+    "title_clean": "Galactic Receipt Scanner：手机无接触收据扫描工具",
+    "summary": "Galactic Receipt Scanner是一款手机应用，可将手机转变为无接触式收据扫描站，帮助用户快速数字化处理纸质收据，简化报销和记账流程，对元宝在财务文档处理场景的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zerosphere": {
+    "title_clean": "ZeroSphere：AI本地显示工具",
+    "summary": "ZeroSphere是一款在用户设备上提供AI显示功能的工具，使AI能够在本地机器上运行并展示界面。这为元宝产品经理提供了关于AI本地化部署和用户界面展示的新思路，可能影响产品架构设计和用户体验优化方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/reporoad": {
+    "title_clean": "RepoRoad：代码仓库可视化探索工具",
+    "summary": "RepoRoad将代码仓库转化为可视化城市景观，每个仓库成为建筑物，开发者可在虚拟城市中浏览和探索代码库，提供直观的代码导航和发现体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/dario-amodeis-tabloid-era": {
+    "title_clean": "Dario Amodei's Tabloid Era：AI领域影响力人物榜单",
+    "summary": "这是一份科技领域最具影响力人物榜单，Dario Amodei作为AI领域的重要人物入选。对产品经理而言，这份榜单反映了AI行业领军人物的影响力分布，有助于了解行业格局和潜在合作伙伴或竞争对手的动向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-19/mba-programs-race-to-adapt-to-the-ai-era-video": {
+    "title_clean": "MBA Programs Race to Adapt to the AI Era：商学院竞相适应AI时代",
+    "summary": "斯坦福商学院在彭博商业周刊美国MBA排名中保持领先，在薪酬、网络和创业等方面表现强劲。文章探讨了MBA项目如何调整课程以适应AI时代，这对元宝产品经理了解高端用户群体对AI技能的需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos": {
+    "title_clean": "印度强制要求来电显示应用向电信运营商提交垃圾报告",
+    "summary": "印度要求来电显示应用单向共享垃圾报告数据给电信运营商，Truecaller称这将向竞争对手移交有商业价值的专有资产，涉及数据共享与商业竞争问题，对元宝产品经理了解数据合规与商业模式有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/JQF-V1jrjGOtoSeQtFZsNA": {
+    "title_clean": "Claude：AI模型安全漏洞研究",
+    "summary": "Claude团队发现并演示了OpenAI系统的安全漏洞，展示了AI模型可能被利用的风险。这一发现对AI产品经理具有重要参考价值，提醒在产品设计和安全防护中需重视模型安全性问题。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-18/zocdoc-ceo-on-rollout-of-its-care-access-network-video": {
+    "title_clean": "Zocdoc CEO：推出医疗接入网络",
+    "summary": "Zocdoc CEO Oliver Kharraz宣布推出新的医疗接入网络，讨论了这一更新如何改善患者获取医疗服务的方式。作为在线医疗预约平台，Zocdoc此举可能影响AI助手在医疗场景中的应用和竞争格局，对产品经理了解AI服务在医疗领域的商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-global-revenue-network": {
+    "title_clean": "CEO访谈：Global Revenue Network",
+    "summary": "Cornelia Schuler作为Global Revenue Network CEO接受CB Insights采访，分享了她对市场定位、客户需求及公司战略的看法。这对元宝产品经理了解B2B SaaS公司的市场洞察和客户价值定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-mecore": {
+    "title_clean": "meCore：AI市场定位与客户需求访谈",
+    "summary": "meCore CEO Golnaz Abdollahian接受CB Insights访谈，分享公司对市场定位、客户需求的理解。内容包含市场定义、竞争策略等关键信息，对元宝产品经理了解AI服务市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-onebrief": {
+    "title_clean": "Onebrief CEO访谈：市场定位与客户需求分析",
+    "summary": "Onebrief CEO Grant Demaree接受CB Insights采访，分享公司对市场的看法、客户需求理解以及公司定位。作为AI产品创始人，其市场洞察对元宝产品经理了解行业趋势和用户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-array-labs": {
+    "title_clean": "CEO Interview: Array Labs",
+    "summary": "Array Labs CEO Andrew Peterson接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了企业级AI解决方案提供商的战略视角，对元宝产品经理了解企业AI服务市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/amsted-said-to-weigh-6-billion-sale-of-cooling-system-unit-bac": {
+    "title_clean": "Amsted拟以60亿美元出售数据中心冷却系统供应商BAC",
+    "summary": "Amsted Industries正考虑以60亿美元出售其数据中心冷却系统供应商Baltimore Aircoil Co.，这反映了数据中心组件需求强劲推动更多企业测试市场机会的趋势，对元宝产品经理了解数据中心基础设施市场动态和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/ai-like-mania-grips-oil-refining-stocks-fueling-calls-for-pause": {
+    "title_clean": "AI热潮带动炼油股上涨，市场呼吁冷静",
+    "summary": "AI公司与传统能源炼油股近期均出现股价暴涨现象，市场对此过热趋势表示担忧并呼吁理性看待。这一现象反映了AI概念对传统行业估值的影响，以及市场对AI相关投资的情绪波动，对产品经理了解AI概念对整体市场情绪的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/bug-hunters-used-claude-hack-openai": {
+    "title_clean": "安全研究员利用Claude攻破OpenAI系统",
+    "summary": "安全研究团队Hacktron AI使用Anthropic的Claude成功入侵OpenAI系统，获得了OpenAI关键软件库的访问权限。这一事件展示了AI模型在安全测试中的潜力，同时也提醒AI公司需加强系统防护。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers": {
+    "title_clean": "Google、Nvidia和Anthropic联合Emerald AI寻求电网扩容以支持更多数据中心",
+    "summary": "Google、Nvidia、Anthropic与Emerald AI组成新联盟，计划为新建数据中心寻找100吉瓦的电网容量。这一动向表明大型AI公司正积极解决AI基础设施扩张面临的能源瓶颈问题，对元宝产品经理了解AI服务规模化部署的挑战与解决方案具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

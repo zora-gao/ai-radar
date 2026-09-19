@@ -96751,5 +96751,241 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/meshedit": {
+    "title_clean": "MeshEdit：浏览器端游戏资产建模工具",
+    "summary": "MeshEdit是一款基于浏览器的游戏资产建模、绑定和动画制作工具，允许开发者在浏览器中直接完成3D游戏资产的创建和编辑工作，为游戏开发提供了便捷的云端解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/miremotebridge": {
+    "title_clean": "MiRemoteBridge：蓝牙遥控器PC控制工具",
+    "summary": "MiRemoteBridge是一款低成本硬件解决方案，售价仅5美元，允许用户通过蓝牙遥控器控制电脑。对于产品经理而言，这展示了低成本人机交互方案的可能性，可作为AI助手多模态控制或智能家居场景的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/voicecap": {
+    "title_clean": "VoiceCap：会议AI笔记工具",
+    "summary": "VoiceCap是一款会议AI笔记工具，支持多语言记录会议内容，帮助用户自动整理会议要点。该产品针对多语言会议场景提供智能笔记服务，对元宝产品经理在多语言AI助手和会议场景功能开发方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cubicles-lol": {
+    "title_clean": "cubicles.lol：元宇宙建造者与副项目社区",
+    "summary": "cubicles.lol是一个面向建造者和副项目开发者的元宇宙平台，用户可以在其中创建虚拟空间、展示项目并进行互动。该平台为开发者提供了展示创意作品和协作的新场景，对元宝产品经理了解元宇宙社区构建和创意展示场景有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/maaa": {
+    "title_clean": "Maaa：Mac刘海屏AI助手工具",
+    "summary": "Maaa是一款在Mac刘海屏区域显示的AI助手，能够主动关注用户需求并提供帮助。这款产品展示了如何利用设备硬件特性创造新型交互方式，对AI助手界面设计和场景化服务有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lull-3": {
+    "title_clean": "Lull：AI冥想内容生成工具",
+    "summary": "Lull是一款AI冥想内容生成工具，用户只需表达想法，AI就能自动创作冥想内容。这为元宝产品经理提供了AI在心理健康领域的应用参考，展示了如何将AI技术应用于个性化内容生成服务场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-19/a-goldman-m-a-banker-helped-bring-the-olympics-to-la-video": {
+    "title_clean": "高盛银行家助力洛杉矶奥运会：AI时代企业并购热潮",
+    "summary": "高盛银行家Gene Sykes参与促成洛杉矶奥运会项目，反映在AI竞争背景下企业并购活动达到历史高峰。这一案例展示了大型体育赛事与商业资本的结合，为元宝产品经理提供了AI时代企业战略调整和资源整合的参考视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-said-forecast-nearly-280-billion-cash-burn-end-2030": {
+    "title_clean": "OpenAI预计到2030年底将消耗278亿美元现金",
+    "summary": "据金融时报报道，OpenAI向部分投资者表示，预计到2030年底将消耗278亿美元现金，主要用于云计算和芯片支出，以运行和训练其AI模型。这一巨额投资反映了AI大模型研发的高成本特性，对产品经理评估AI商业化路径和成本结构具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ICb4P_FqTZVgaeMvZs_9dg": {
+    "title_clean": "豆包大模型更新：多模态编程能力实测",
+    "summary": "豆包大模型最新更新重点强化多模态编程能力，通过一手实测展示了其在代码生成、理解和调试方面的提升。这一更新对产品经理评估AI助手在编程辅助场景的应用价值具有重要参考意义，特别是在多模态交互与代码理解方面的技术演进。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt": {
+    "title_clean": "Anthropic：AI公司年营收将达千亿美元，拟11月IPO",
+    "summary": "据《纽约时报》报道，Anthropic公司预计今年年化营收将超过1000亿美元，并计划于11月进行首次公开募股(IPO)。这一数据反映了AI公司商业化的快速进展，对元宝产品经理评估AI行业商业化路径和估值具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-skysafe": {
+    "title_clean": "Executive Interview: SkySafe高管访谈",
+    "summary": "SkySafe首席营收官Melissa Swisher接受CB Insights采访，分享公司对市场的看法、客户需求分析及公司定位。该访谈提供了企业级无人机安全解决方案的市场洞察，对元宝产品经理了解企业级AI安全服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers": {
+    "title_clean": "ChatGPT发明者推出新型AI模型Jev：提供更快速、更经济的软件智能方案",
+    "summary": "ChatGPT发明者推出新型AI模型Jev，为开发者提供更快速、更经济的软件智能解决方案。该模型可能对AI助手产品的性能优化和成本控制有重要参考价值，值得关注其技术路线和商业化潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/disney-names-ai-executive-as-first-ever-chief-technology-officer": {
+    "title_clean": "迪士尼任命首位首席技术官，专注AI战略",
+    "summary": "迪士尼任命Karandeep Anand为首位首席技术官，这一新职位将负责公司的AI战略与技术发展。这对元宝产品经理有参考价值，表明传统娱乐巨头正加速AI技术整合，可能影响未来AI在内容创作和用户体验中的应用方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/fire-flares-up-at-damaged-moss-landing-battery-storage-site": {
+    "title_clean": "加州莫斯登陆电池储能设施火灾事件",
+    "summary": "加州Vistra公司旗下莫斯登陆电池储能设施发生火灾，消防人员已控制火势。该事件对AI产品经理的参考价值在于了解能源基础设施安全风险，特别是大规模储能设施的潜在安全问题，这对AI在能源管理、安全监控等场景的应用有警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/lng-tanker-with-us-cargo-reported-to-be-victim-of-cyberattack": {
+    "title_clean": "液化天然气货轮遭遇疑似网络攻击导致系统故障",
+    "summary": "一艘从美国向欧洲运送液化天然气的货轮发生系统故障，船员怀疑遭遇网络攻击。此事件表明关键基础设施面临网络安全威胁，对AI安全防护和工业控制系统防护有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/eqt-is-backing-2-billion-small-battery-push-for-us-data-centers": {
+    "title_clean": "EQT投资20亿美元小型电池项目以支持AI发展",
+    "summary": "EQT Infrastructure投资20亿美元用于小型电池项目，旨在降低工业消费者的电力成本，并帮助数据中心更快接入美国最大电网。这一投资反映了AI基础设施对能源解决方案的迫切需求，对元宝产品经理了解AI服务背后的基础设施支持有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/software-stocks-get-new-life-from-strong-earnings-ai-warnings": {
+    "title_clean": "软件股因强劲业绩和AI警告重获生机",
+    "summary": "软件股今年初曾被投资者认为因AI崛起而面临消亡，但强劲的季度业绩和AI相关警告反而使这些股票重获生机。这一市场信号对AI产品经理具有重要参考价值，表明AI对传统软件行业的影响可能被市场过度解读，传统软件与AI融合可能创造新的商业机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/ai-data-center-developer-lian-mulls-ipo-to-raise-500-million": {
+    "title_clean": "LIAN：AI基础设施开发商计划IPO融资5亿美元",
+    "summary": "LIAN Group作为AI和计算基础设施开发商，正考虑进行首次公开募股，预计融资约5亿美元。这反映了AI基础设施领域的资本活跃度，对元宝产品经理了解AI产业链上游投资动态和基础设施服务机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign": {
+    "title_clean": "华为加速推出新一代AI芯片挑战英伟达",
+    "summary": "华为计划将新一代AI芯片的发布时间提前至2027年，旨在替代中国市场内的英伟达产品并参与全球竞争。这一动向表明华为正积极布局AI硬件领域，可能对全球AI芯片市场格局产生重要影响，值得元宝产品经理关注AI硬件生态变化及潜在合作机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
   }
 }

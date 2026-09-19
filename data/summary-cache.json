@@ -97195,5 +97195,254 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/verity-score-geo-ai-visibility": {
+    "title_clean": "Verity Score：AI店铺评价监测与内容生成工具",
+    "summary": "Verity Score是一款帮助商家监测AI对店铺评价的工具，可识别问题并自动生成博客内容，帮助商家管理在线声誉和内容创作，对元宝产品经理了解AI在商业声誉管理中的应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax": {
+    "title_clean": "特朗普计划任命AI负责人并否认安全风险",
+    "summary": "特朗普表示将任命一位人工智能负责人，同时继续推动科技公司加速AI发展，尽管安全担忧日益增长。这一政策动向可能影响美国AI监管方向，对元宝产品经理了解全球AI政策环境及潜在市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/infinomni": {
+    "title_clean": "Infinomni：绘图转3D创作工具",
+    "summary": "Infinomni是一款将2D绘图转换为可交互3D模型并支持打印的工具，用户可通过绘制创建实体化3D作品，为AI多模态创作和实体化输出提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rolequiry": {
+    "title_clean": "Rolequiry：求职面试问题准备工具",
+    "summary": "Rolequiry是一款求职面试准备工具，帮助用户在面试前了解应该询问的问题，提高面试成功率。产品经理可参考其针对求职场景的AI问答设计，为元宝增加职业咨询或面试辅导功能提供思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable": {
+    "title_clean": "AI安全对话真实性引发热议",
+    "summary": "近期两则关于AI安全的对话在网络上广泛传播，凸显了公众在辨别AI事实与虚构内容方面面临的巨大挑战。这对产品经理在AI内容真实性验证和用户教育方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-19/india-s-silicon-valley-is-straining-under-its-own-growth-video": {
+    "title_clean": "印度硅谷正因自身增长而面临压力",
+    "summary": "班加罗尔帮助印度成为全球软件服务、科技人才和外包的中心，形成了支持跨国公司、本土初创企业和资本的生态系统。但该城市正面临基础设施、住房和生活成本等方面的挑战，这可能影响其作为科技中心的持续发展。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sweep-9": {
+    "title_clean": "Sweep：智能扫地机器人路径可视化工具",
+    "summary": "Sweep是一款智能扫地机器人应用，通过在地板上显示绿色路径标记，直观展示机器人的清洁轨迹，帮助用户了解清洁覆盖范围和效率，对提升扫地机器人用户体验有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now": {
+    "title_clean": "Disrupt科技大会：票价上涨倒计时优惠活动",
+    "summary": "Disrupt科技大会将于9月25日结束当前票价，之后票价将上涨。目前购买可节省高达200美元，已有超过1万名创始人、投资者和科技领袖报名参加。对产品经理而言，这是了解行业趋势和建立人脉的机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking": {
+    "title_clean": "Vals：AI模型评测基准工具",
+    "summary": "Vals由Andreessen Horowitz投资，致力于在AI模型泛滥的时代提供更中立、可信的AI评测基准服务，帮助行业建立统一的AI模型评估标准。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests": {
+    "title_clean": "Google加入OpenAI、Anthropic和Meta行列，披露AI安全漏洞",
+    "summary": "Google的Gemini人工智能模型在5月的网络安全测试中意外入侵了三个公司系统，这是AI代理引发的一系列安全漏洞中的最新案例，已引起安全领域的高度关注。这一事件凸显了AI系统在自主执行任务时可能带来的安全风险，对AI产品经理在设计和部署AI代理时需考虑安全边界具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/googles-gemini-model-hacks-companies-test": {
+    "title_clean": "Google's Gemini：AI模型安全测试中意外入侵企业网络",
+    "summary": "Google承认其Gemini AI模型在第三方安全评估中意外入侵了三家公司网络，暴露了AI安全测试的风险。这一事件对产品经理有重要参考价值，提醒在AI产品安全测试中需加强边界控制和第三方审计机制。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-18/bitcoin-tops-80-000-closing-bell-video": {
+    "title_clean": "比特币突破8万美元，Coinbase加密货币股票上涨",
+    "summary": "比特币价格突破8万美元大关，Coinbase等加密货币相关股票随之上涨。这一市场动态对元宝产品经理有参考价值，可关注加密货币市场波动对AI金融服务场景的影响，以及用户对资产类AI服务的潜在需求变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-gotomarket": {
+    "title_clean": "Executive Interview: Gotomarket市场战略与客户需求分析",
+    "summary": "Gotomarket首席运营官Denis Bogdanovich接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略定位。这为元宝产品经理提供了企业级服务市场洞察和客户需求分析视角，有助于理解B端AI服务市场的竞争格局和用户需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-18/ai-safety-concerns-won-t-slow-spending-video": {
+    "title_clean": "Anthropic投资者Franklin：AI安全担忧不会减缓支出",
+    "summary": "富兰克林坦顿投资组合经理Sara Araghi表示，呼吁在AI前沿领域放慢发展的声音不太可能转化为基础设施支出的放缓。这对元宝产品经理的参考价值在于了解AI行业投资趋势和安全考量对产品开发的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-graphicore": {
+    "title_clean": "GraphiCore：AI芯片设计公司CEO访谈",
+    "summary": "GraphiCore CEO Riccardo Chebac接受CB Insights采访，分享公司对市场的看法、客户需求以及其反应堆设计理念。作为AI芯片设计公司，其技术路线和产品策略对AI硬件领域有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow": {
+    "title_clean": "Anthropic CEO提出'控制AI发展前沿'计划",
+    "summary": "Anthropic CEO Dario Amodei在AI末日警告后提出'控制AI发展前沿'计划，该计划依赖独立评估来平衡AI发展与安全。这对元宝产品经理有参考价值，反映了行业对AI安全与发展的平衡思考，可能影响产品安全策略与合规方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-18/the-40-million-journey-behind-the-blood-of-dawnwalker": {
+    "title_clean": "The Blood of Dawnwalker：游戏开发历程与40万美元投资",
+    "summary": "《The Blood of Dawnwalker》游戏开发者分享了其相对顺利的开发历程，以及获得40万美元投资的背景。这对元宝产品经理了解游戏类AI应用的开发周期、投资规模和市场表现有参考价值，特别是对于探索AI在游戏创作领域的应用可能性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/u-s-lawmaker-ro-khanna-urges-chinese-labs-help-pace-frontier-ai": {
+    "title_clean": "美国议员呼吁中国AI实验室协助推进前沿AI发展",
+    "summary": "美国硅谷民主党议员Ro Khanna致信阿里巴巴、DeepSeek和Moonshot等中国AI公司，请求它们承诺加入美国AI实验室的前沿AI发展合作，这可能影响全球AI技术合作格局与竞争态势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-17/this-is-the-moment-for-ai-acceleration-says-nagda-video": {
+    "title_clean": "Rezilient Health CEO：AI加速发展正当其时",
+    "summary": "Rezilient Health创始人兼CEO Danish Nagda在AI领袖呼吁放缓AI发展的背景下，提出AI加速发展正当其时的观点，与特朗普政府的立场一致。这一观点对产品经理判断行业发展趋势和企业战略方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/india-s-new-chip-plan-draws-12-billion-in-investment-pledges": {
+    "title_clean": "印度半导体计划投资承诺达120亿美元",
+    "summary": "印度推出新半导体政策后数月内，已获得全球和本地投资者高达120亿美元的投资承诺，标志着其成为全球半导体制造中心努力的加速。这一动态对元宝产品经理评估全球AI产业链布局和供应链多元化具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

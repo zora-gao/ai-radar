@@ -97580,5 +97580,55 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/lI5gjhpTM1sCUKF2qPSw7Q": {
+    "title_clean": "开源Editable-Design：AI生图可编辑工具",
+    "summary": "开源项目Editable-解决了AI生成图像后无法编辑文字和图层的痛点，用户可直接修改AI生成图片中的文字并拖动图层，提升了AI图像生成工具的实用性，为元宝产品在图像编辑功能上提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/I_ScUCs7E_Yf8PK4dw4cGw": {
+    "title_clean": "鸿蒙7发布：手机App进入智能体时代",
+    "summary": "鸿蒙7系统发布，标志着手机应用从传统App向智能体形态转变。这一变化可能重塑用户交互方式，为AI助手与手机原生应用深度融合提供新场景，对元宝产品经理在移动端AI服务布局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/australian-youth-safety-blueprint": {
+    "title_clean": "OpenAI发布澳大利亚青少年安全蓝图",
+    "summary": "OpenAI推出澳大利亚青少年安全蓝图，包含六大支柱的路线图，旨在为青少年提供更安全的AI体验，保护并赋能年轻用户。这反映了AI企业在青少年安全保护方面的战略布局，对元宝产品在青少年安全功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-18/investing-for-the-ai-boom-masters-in-business-video": {
+    "title_clean": "AI投资热潮：商业大师与Glen Kacher对话",
+    "summary": "Light Street Capital首席投资官Glen Kacher分享其在Integral Capital Partners和Tiger Management的投资经历，探讨AI领域的投资机会与策略，为元宝产品经理提供AI商业化与投资趋势的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

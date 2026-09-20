@@ -97630,5 +97630,30 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/scrapboard-cloud-4": {
+    "title_clean": "Scrapboard Cloud：数字家庭冰箱口袋版",
+    "summary": "Scrapboard Cloud 4是一款数字家庭冰箱门应用，现推出口袋版并支持同步功能，让用户可以随时随地管理家庭共享内容，类似数字家庭中心。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california": {
+    "title_clean": "加州州长提议AI'紧急停止开关'以规范科技行业",
+    "summary": "加州州长加文·纽瑟姆签署行政命令，推动在AI技术中心州实施监管措施，提议建立AI'紧急停止开关'以控制科技行业发展。这反映了政府对AI快速扩张的监管态度，对AI产品经理了解政策风险和合规方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

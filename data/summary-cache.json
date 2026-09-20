@@ -97655,5 +97655,43 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidia-trying-solve-data-center-power-bottleneck": {
+    "title_clean": "英伟达尝试解决数据中心电源瓶颈问题",
+    "summary": "英伟达CEO黄仁勋表示公司正在追踪全球每吉瓦的土地、电力和资源，以解决数据中心电源瓶颈问题。这对AI基础设施发展具有重要参考价值，尤其是对元宝产品经理了解AI服务底层资源限制和未来扩展方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-18/nvidia-ceo-says-there-s-0-chance-that-world-will-end-in-2030": {
+    "title_clean": "Nvidia CEO：AI不会导致人类灭绝",
+    "summary": "Nvidia CEO黄仁勋再次反驳AI末日论，表示AI技术不会对人类构成灭绝风险。这一观点对产品经理有参考价值，反映了行业领袖对AI安全性的态度，可能影响产品开发方向和用户沟通策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-17/bloomberg-tech-9-17-2026-video": {
+    "title_clean": "AI安全辩论与硅谷FOMO：OpenAI推出新模型监控计划",
+    "summary": "Bloomberg报道OpenAI推出新计划追踪AI模型异常行为，揭示多起模型偏离预设脚本案例。同时DatabricksCEO等AI行业领袖参与讨论，反映业界对AI安全与商业机会的双重关注，为产品经理提供AI安全治理与商业化平衡的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -98929,5 +98929,464 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/refoid-decline-unreasonable-refunds": {
+    "title_clean": "Refoid：App Store退款响应自动化工具",
+    "summary": "Refoid是一款自动化工具，可帮助开发者自动处理App Store退款请求并跟踪处理结果，提高客服效率，减少人工处理退款的工作量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/plume-11": {
+    "title_clean": "Plume：简历优化工具",
+    "summary": "Plume是一款简历优化工具，用户可导入旧简历，快速获得优化后的ATS友好型简历。该工具对产品经理有参考价值，特别是在简历处理和求职辅助服务场景的应用。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/uuQfBA8Bg-SvgmiF5rdREQ": {
+    "title_clean": "Token直接发放给学生，每人30万元",
+    "summary": "某项目计划向学生直接发放价值30万元的Token，这可能是一种新型教育资助或激励措施，对产品经理了解Web3在教育领域的应用和用户激励模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/BTjB2jbrrVLV-NaapwG-jw": {
+    "title_clean": "ACM Multimedia 2026 Oral：多媒体内容真实性研究",
+    "summary": "该研究聚焦于多媒体内容真实性检测，通过分析'转述痕迹'来识别内容是否经过篡改或编辑，为AI内容审核和真实性验证提供技术支持，对元宝在内容安全领域的功能开发具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/y38JcD5YZsuR8YfshVuhtA": {
+    "title_clean": "上海AI Lab&上交大提出全新预训练技术：大幅降低Token消耗",
+    "summary": "上海AI Lab与上海交通大学联合研发了一种新型预训练技术，能够将预训练过程中的Token消耗量降低一半，显著提高AI模型训练效率，对降低大模型训练成本具有直接参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/aFAFAxyBxxpdzxaUXfgg3Q": {
+    "title_clean": "ICLR 2027投稿量突破6万，创历史新高",
+    "summary": "ICLR 2027大会投稿量达到6万篇，超过过去十几年投稿总和，显示AI研究领域持续爆发式增长。这一数据反映AI研究热度持续攀升，对元宝产品经理了解行业发展趋势和潜在人才池有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems": {
+    "title_clean": "OpenAI成立数学咨询小组，AI解决超100个开放数学问题",
+    "summary": "OpenAI组建数学咨询小组，其AI系统已成功解决超过100个开放数学问题。该咨询小组不会干预或减缓OpenAI现有的数学研究进程，这反映了AI在解决复杂数学问题上的进展，对元宝产品经理评估AI在专业领域解题能力有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lead-sparker": {
+    "title_clean": "Lead Sparker：品牌URL转洞察报告工具",
+    "summary": "Lead Sparker可将任意品牌URL转换为可直接发送的洞察报告，帮助用户快速获取品牌分析信息，为AI助手在商业情报收集和报告生成方面提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/british-columbia-sues-openai-over-canada-mass-shooting-warning-failure": {
+    "title_clean": "British Columbia起诉OpenAI：未能利用ChatGPT日志预警加拿大大规模枪击事件",
+    "summary": "加拿大不列颠哥伦比亚州在加州起诉OpenAI，指控其本可通过ChatGPT日志预警并阻止今年早些时候该省发生的大规模枪击事件。此案引发对AI系统安全责任和内容监管的讨论，对产品经理思考AI内容审核与安全机制设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-axitrust": {
+    "title_clean": "axiTrust：企业身份验证解决方案",
+    "summary": "axiTrust CEO Aditya Tulsian接受CB Insights采访，分享公司对市场定位、客户需求的理解，以及企业身份验证领域的市场机会。这为元宝产品经理提供了企业级身份验证解决方案的市场洞察和竞争参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch": {
+    "title_clean": "Meta的Muse AI助手超越ChatGPT早期移动端表现",
+    "summary": "Meta新推出的AI助手Muse在美加地区的下载量和日活跃用户数已超越ChatGPT在移动端发布初期的同期表现，根据Appfig数据估算，这表明Meta的AI助手在移动端用户获取方面取得了显著成功。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com": {
+    "title_clean": "Meta的AI代理被禁止使用亚马逊网站",
+    "summary": "亚马逊禁止Meta的AI代理Muse访问其网站，尽管亚马逊拥有自己的基础模型和流行的推理平台。这反映了AI代理在访问第三方服务时面临的限制，对元宝产品经理在规划AI代理服务边界和合作伙伴关系方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-releases-proposal-international-ai-safety-coordination": {
+    "title_clean": "OpenAI发布国际AI安全协调提案",
+    "summary": "OpenAI提出建立国际AI安全协调机制，呼吁各国成立AI安全研究所，如美国商务部等机构参与。这一提案反映了行业对AI安全治理的重视，对元宝产品经理了解AI安全政策趋势和合规要求具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/former-xai-staffer-eyes-50-million-for-firm-to-fight-deepfakes": {
+    "title_clean": "前xAI员工融资5000万美元成立反深度伪造公司",
+    "summary": "前xAI和谷歌员工正在洽谈约5000万美元种子轮融资，成立新公司专注于打击网络深度伪造内容。这反映了深度伪造技术带来的安全挑战和反制需求，对AI产品经理评估内容安全与真实性验证功能有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-21/congressman-calls-for-national-data-center-strategy-video": {
+    "title_clean": "美国议员呼吁制定国家数据中心战略",
+    "summary": "弗吉尼亚州民主党议员Suhas Subramanyam呼吁制定国家战略，指导AI数据中心的快速扩张，认为当前各州独立的方法可能给社区带来负担。这对元宝产品经理了解AI基础设施政策环境及潜在影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews": {
+    "title_clean": "Meta Muse AI：社交巨头新AI助手应用",
+    "summary": "Meta推出的AI助手应用Muse迅速攀升至移动应用排行榜首位，获得用户积极评价。这表明社交媒体巨头在竞争激烈的AI助手市场中正取得进展，对元宝产品经理了解头部科技公司的AI产品策略和市场表现有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-21/google-takes-on-apple-microsoft-with-ai-powered-laptops-video": {
+    "title_clean": "Google推出AI笔记本电脑：搭载Gemini系统，对标苹果微软",
+    "summary": "Google发布新款Googlebooks笔记本电脑，售价899美元，搭载Gemini AI系统，并加强与Android手机的集成功能，直接对标苹果和微软的高端笔记本市场，展示了AI在硬件设备中的应用趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-21/how-ai-could-spark-the-next-copper-boom-video": {
+    "title_clean": "AI如何引发下一轮铜矿热潮",
+    "summary": "AI数据中心和电网升级正在重塑全球铜需求。摩根士丹利的Amy Gower分析了数据中心为何已超出预期，以及美国关税决策对铜市场的影响，这对元宝产品经理评估AI基础设施资源需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/openai-pushes-us-to-lead-effort-to-set-global-standards-for-ai": {
+    "title_clean": "OpenAI呼吁美国牵头制定全球AI标准",
+    "summary": "OpenAI呼吁美国与其他国家合作，为前沿人工智能技术制定标准，以应对日益增长的技术潜在危害担忧。这反映了行业对AI监管框架的重视，对元宝产品经理了解国际AI政策趋势和合规方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-thatch": {
+    "title_clean": "Executive Interview: Thatch",
+    "summary": "Thatch首席营销官Leslie M. Lee接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。作为AI助手产品，Thatch的访谈内容对元宝产品经理了解竞品战略定位和市场策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-qlosport": {
+    "title_clean": "QloSport：体育科技市场定位访谈",
+    "summary": "QloSport CEO Ayush Dutta接受CB Insights访谈，分享公司对体育科技市场的看法、客户需求分析以及自身市场定位。访谈内容对元宝产品经理了解垂直领域AI服务市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026": {
+    "title_clean": "Benchmark合伙人预测2026年突破性初创企业来源",
+    "summary": "Benchmark合伙人在TechCrunch Disrupt 2026大会上就下一家突破性初创企业的可能来源发表观点。活动提供早鸟票优惠，截止时间为9月25日太平洋时间晚上11:59。这对AI产品经理了解行业投资趋势和潜在创新方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-lexor-legal-risk": {
+    "title_clean": "Lexor Legal Risk：法律风险管理CEO访谈",
+    "summary": "Lexor Legal Risk CEO Arnold Smeyers接受CB Insights访谈，分享公司对市场的看法、客户需求分析及公司定位。内容涉及法律风险管理领域的市场定义和业务方向，对元宝产品经理了解垂直领域AI服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
+    "title_clean": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "summary": "该研究将物理学中的伊辛优化模型应用于大语言模型剪枝，通过块级删除方法优化模型结构，可能为AI模型轻量化提供新思路，对元宝产品经理了解模型优化技术有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/carl-pei-s-nothing-to-spin-off-budget-brand-into-standalone-india-unit": {
+    "title_clean": "Carl Pei 将 Nothing 品牌拆分独立印度子公司",
+    "summary": "瑞典企业家 Carl Pei 计划将 Nothing Technologies 的平价智能手机和电子产品部门拆分为印度控股公司，押注印度市场潜力。这一战略调整反映了科技品牌针对新兴市场的本地化布局策略，对元宝产品经理了解国际品牌区域化运营有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/announcing-petal-meta-petabit-transoceanic-cable": {
+    "title_clean": "Petal：跨洋海底光缆",
+    "summary": "Petal是全球首款实现每秒拍比特容量传输的跨洋海底光缆，容量是目前最先进跨洋光缆的两倍。这一基础设施升级将直接影响全球AI数据传输速度和成本，对元宝等AI产品的国际服务部署和性能优化具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini": {
+    "title_clean": "Googlebook：AI原生笔记本电脑整合Gemini助手",
+    "summary": "Google推出899美元的AI原生笔记本电脑Googlebook，将Gemini助手深度集成到光标控制、语音输入、桌面小部件等桌面体验中，探索AI与硬件结合的新产品形态。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo": {
+    "title_clean": "Oura：智能健康戒指制造商寻求22亿美元美国IPO",
+    "summary": "健康与健身戒指制造商Oura Inc.及其部分投资者寻求在美国进行首次公开募股，最多筹集22亿美元。这反映了可穿戴健康设备市场的商业潜力，对元宝产品经理了解AI健康服务商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video": {
+    "title_clean": "软银寻求超110亿美元垃圾债券融资用于OpenAI投资",
+    "summary": "软银计划发行超过110亿美元的垃圾债券，这将是有史以来规模最大的垃圾债券交易之一，用于其对OpenAI的投资。这反映了大型科技公司对AI领域的持续投入，以及OpenAI作为重要AI资产的市场地位。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/building-standards-next-phase-ai": {
+    "title_clean": "OpenAI：呼吁建立全球AI标准与治理框架",
+    "summary": "OpenAI提出全球AI标准建设路径，呼吁协调评估、报告和治理机制以提升AI安全性。这对元宝产品经理有参考价值，特别是在AI安全标准和行业规范制定方面，可能影响产品发展方向和合规策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/south-africa-s-planned-crypto-curbs-may-hit-deals-worth-millions": {
+    "title_clean": "南非拟限制加密货币交易，可能影响数百万美元交易",
+    "summary": "南非拟将加密货币纳入外汇管制体系，导致数字资产公司暂停了价值数十亿兰特的交易。这一监管变化可能对加密货币市场产生重大影响，对元宝产品经理了解全球加密货币监管环境及业务风险具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/new-data-centers-worth-68-billion-disrupted-in-us-data-show": {
+    "title_clean": "美国数据中心建设遇阻，680亿美元项目受阻",
+    "summary": "美国数据中心建设面临持续反对，数据显示价值680亿美元的新数据中心项目受阻。这一趋势可能影响AI基础设施扩张速度，对元宝等AI产品的算力成本和部署策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/tokenizers-v1": {
+    "title_clean": "tokenizers v1：文本编码解码与性能测量工具",
+    "summary": "tokenizers v1版本发布，专注于文本编码、解码功能及性能测量，为AI模型处理文本提供基础工具。产品经理可关注其对文本预处理效率的影响，以及如何优化大语言模型的token处理能力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026": {
+    "title_clean": "TechCrunch Disrupt 2026大会门票优惠即将截止",
+    "summary": "TechCrunch Disrupt 2026大会门票优惠将于9月25日截止，目前可节省高达200美元门票费用。该大会将吸引1万多名创始人、投资者和科技领袖参与，为AI行业从业者提供重要交流平台。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/jane-street-linked-data-center-debt-sours": {
+    "title_clean": "Jane Street：华尔街交易公司数据中心债务问题",
+    "summary": "华尔街交易公司Jane Street因AI计算需求大量投入云服务，近期面临数据中心债务问题。这反映了AI基础设施成本对金融科技企业的影响，对元宝产品经理评估AI服务成本与资源规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/techs-new-trend-ugly-spectacles": {
+    "title_clean": "Snap推出新款AR眼镜：增强现实眼镜",
+    "summary": "Snap CEO展示了即将推出的Specs增强现实眼镜，这是科技行业新趋势的一部分，专注于通过可穿戴AR设备提供沉浸式体验。对产品经理有参考价值，展示了AR技术在消费级产品中的应用方向和用户接受度考量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/u3oTtbEFuTUAPWsEYZSXkw": {
+    "title_clean": "Anthropic接受OpenAI标准，智能体从此共用一份AGENTS.md",
+    "summary": "Anthropic宣布接受OpenAI的AGENTS.md标准，这意味着两家公司的AI智能体将共享同一套规范文档。这一合作将促进AI智能体生态的标准化发展，为产品经理在跨平台智能体开发与集成方面提供重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

@@ -97693,5 +97693,389 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/forma-oss": {
+    "title_clean": "Forma by Caid：AI硬件设计工作流工具",
+    "summary": "Forma是一款由Caid开发的AI工具，专门用于硬件设计工作流，旨在通过人工智能技术提升硬件设计效率和流程优化。这对元宝产品经理有参考价值，特别是在探索AI如何赋能专业领域工作流方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/launchie": {
+    "title_clean": "Launchie：MacOS启动器替代工具",
+    "summary": "Launchie是MacOS系统的启动器替代工具，版本1.6.1发布，位于27 Golden Gate。作为Launchpad的替代方案，它可能提供更高效的应用启动体验，对元宝产品经理在桌面AI助手交互设计上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/minicart": {
+    "title_clean": "Minicart：AI电商自动化运营工具",
+    "summary": "Minicart是一款AI驱动的电商自动化工具，可帮助商家快速搭建线上店铺并自动处理日常运营事务，减轻人工负担，提高电商运营效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/harbor-2": {
+    "title_clean": "Harbor：笔记替代工具",
+    "summary": "Harbor是一款笔记应用，定位为Evernote的替代品，其特点是明确标示价格，为用户提供透明定价的笔记解决方案。产品经理可关注其定价策略和差异化竞争方式，为元宝的定价策略和产品定位提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/the-101-plays-itself": {
+    "title_clean": "The 101 Plays Itself：洛杉矶高速公路乐器化项目",
+    "summary": "该项目将洛杉矶101号高速公路的五条车道转变为乐器，通过车辆行驶产生的声音和振动创造音乐体验。这种创新的多感官交互方式为AI助手在环境感知和创意场景应用提供了灵感，展示了如何将城市基础设施转化为互动艺术装置。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/u-s-china-discussed-ai-safety-system-bessent-says": {
+    "title_clean": "美中讨论建立AI安全对话机制",
+    "summary": "美国财政部长贝森特表示，美中两国已讨论建立名为'美中AI对话'的机制，以应对潜在威胁。这一对话机制旨在促进两国在AI安全领域的合作与沟通，对全球AI治理格局有重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/india-s-surprise-growth-market-is-china-but-trade-deficits-swell": {
+    "title_clean": "印度对华出口增长：电子产品成亮点",
+    "summary": "印度向中国出口的制成品增加，电子产品成为贸易关系中亮点，但整体贸易逆差仍严重偏向中国。这一市场变化可能为元宝开拓南亚市场提供参考，特别是电子产品相关服务场景的机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-21/bessent-hails-successful-china-talks-on-ai-trade-video": {
+    "title_clean": "美财长称中美AI与贸易会谈取得成功",
+    "summary": "美国财政部长斯科特·贝森特表示，中美双方就人工智能、贸易和投资议题举行的会谈\"非常成功\"，这为本周两国领导人峰会奠定了积极基础。此次会谈涉及AI合作与贸易政策，对元宝产品经理了解国际AI政策环境与潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/4OmzU8FqIJDe4pLwqXZvhA": {
+    "title_clean": "EMNLP2026：工具调用合成数据构建方法研究",
+    "summary": "该研究提出了一种通过分解生成与动态自反馈来构建工具调用合成数据的方法，针对AI助手在工具调用场景中的数据生成问题提供了解决方案，对提升AI助手实际工具使用能力具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/c_olxwuKgvHqKaxFWU3-7w": {
+    "title_clean": "MHS：智能体从软件操作到世界操作的技术升级",
+    "summary": "MHS技术可能推动AI智能体从操作软件界面升级为直接操作物理世界的能力，这一转变将极大扩展AI助手的应用边界，为产品经理思考下一代AI Agent功能与场景提供重要参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/_kB0tvAjSPySWPAYx9SGmA": {
+    "title_clean": "大晓 HSImul3R：全球首个可仿真的人-场景交互重建框架",
+    "summary": "大晓 HSImul3R 是全球首个可仿真的人-场景交互重建框架，荣登ECCV计算机视觉会议。该框架能够重建人与场景的交互，为AI理解人类在环境中的行为提供了新方法，对开发更智能的AI助手和Agent具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-20/ingenia-rejects-new-1-5-billion-warburg-pincus-takeover-bid": {
+    "title_clean": "Ingenia Communities Group：拒绝华平投资15亿美元收购要约",
+    "summary": "澳大利亚开发商Ingenia Communities Group拒绝了私募股权巨头华平投资及其 affiliates 提出的15亿美元收购要约，认为该报价低估了公司价值。这反映了企业估值与收购方预期之间的分歧，对产品经理了解企业并购决策逻辑和估值考量有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets": {
+    "title_clean": "世界模型公司保守大量秘密",
+    "summary": "世界模型领域的公司拥有大量资金和关注度，但创始人及数据供应商均不愿透露实际开发内容，反映了该领域可能存在技术保密或商业策略，对AI产品经理评估行业竞争态势和潜在技术方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-20/musk-s-boring-co-working-on-tunnel-to-link-austin-san-antonio": {
+    "title_clean": "马斯克隧道公司：连接奥斯汀与圣安东尼奥的隧道项目",
+    "summary": "马斯克旗下的隧道公司正在开发一个连接德克萨斯州奥斯汀和圣安东尼奥两市的隧道项目。该项目旨在解决城市间交通问题，为元宝产品经理提供交通基础设施创新案例参考，但与AI助手或Agent产品无直接关联。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-20/citi-ceo-sees-tsunami-of-patching-to-secure-ai-defense-video": {
+    "title_clean": "花旗CEO称企业正积极修补AI安全漏洞",
+    "summary": "花旗集团CEO简·弗雷泽表示，企业正在竞相加强人工智能模型的安全防御，称AI安全漏洞的修补工作将如海啸般涌现。这反映了AI应用普及后企业对安全风险的重视，对元宝产品经理了解AI安全防护需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down": {
+    "title_clean": "Is the AI industry really ready to slow down？：AI行业减速趋势讨论",
+    "summary": "本文探讨了AI行业高管是否真的希望放缓发展速度，讨论了AI行业当前的发展态势和可能的调整方向，对产品经理了解行业整体趋势和潜在战略调整有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation": {
+    "title_clean": "微软AI负责人：中国AI进步不应成为放弃监管的理由",
+    "summary": "微软人工智能负责人Mustafa Suleyman表示，对中国AI进展的担忧不应成为为快速发展的技术设置护栏的障碍。这一观点反映了全球AI监管讨论中的重要立场，对元宝产品经理了解行业监管趋势和跨国AI政策考量具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/apple-betting-foldable-iphones": {
+    "title_clean": "苹果押注折叠屏iPhone：新CEO展示首款折叠iPhone原型",
+    "summary": "苹果新CEO John Ternus在近期活动中展示了首款折叠屏iPhone原型，表明苹果正积极布局可折叠设备市场。这一动向对元宝产品经理具有重要参考价值，预示着高端AI助手设备形态可能向可折叠方向发展，影响未来交互设计与服务场景规划。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts": {
+    "title_clean": "Flock：AI协作工具裁员并实施员工买断计划",
+    "summary": "Flock为避免大规模裁员，正实施员工买断计划。该AI协作工具面临人员缩减压力，此举反映了AI工具在市场调整期的生存策略，对产品经理了解AI工具商业化挑战和成本控制有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-20/china-s-smart-glasses-sales-double-in-first-eight-months-of-year": {
+    "title_clean": "中国智能眼镜销量首八个月翻倍",
+    "summary": "中国主要平台智能眼镜销量在首八个月增长超过一倍，心电图监测设备增长75%，运动相机增长约27%。这一数据反映了可穿戴设备市场，特别是AI眼镜类产品的快速增长趋势，对元宝产品经理评估AI硬件结合服务场景的市场机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/7iEsZn6eHF23OXiSvlnlDA": {
+    "title_clean": "火山引擎×AMD助力脉营销",
+    "summary": "火山引擎与AMD合作，为脉营销提供技术支持。此次合作可能涉及AI营销解决方案或计算能力优化，对元宝产品经理了解AI营销服务场景和跨平台合作模式有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation": {
+    "title_clean": "AI幻觉险些触发美军军事行动",
+    "summary": "GovAI研究学者警告，大型语言模型(LLM)的固有不确定性可能导致严重后果，近期一起AI幻觉事件险些引发美军军事行动。这提示AI产品需加强事实核查和不确定性提示机制，避免在关键决策场景中产生误导性信息。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets": {
+    "title_clean": "世界模型公司保守大量秘密",
+    "summary": "世界模型领域的公司拥有大量资金和关注，但创始人及数据供应商均不愿透露实际开发内容，反映了该领域的高度保密性和竞争态势，对产品经理了解行业动态和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-ipo-waiting-game-puts-wall-street-edge": {
+    "title_clean": "Anthropic IPO：AI独角兽上市进程引发华尔街关注",
+    "summary": "Anthropic财务高管与潜在投资者会面，公司财务表现持续改善。作为OpenAI主要竞争对手，Anthropic的IPO进程将影响AI行业格局和估值体系，对元宝产品经理评估AI独角兽商业化路径和竞争态势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/M_HdocOPdsMMO8xMxzdl1g": {
+    "title_clean": "北大×易鑫AILab：大模型知识表达研究",
+    "summary": "北大与易鑫AILab在EMNLP 2026主会上发表研究，探讨大模型为何在某些情况下表现出'知道'某些知识却无法正确应用的现象，这可能对理解大模型的知识表达机制和提升AI助手可靠性有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-18/former-ftc-technologist-warns-against-an-ai-cartel-video": {
+    "title_clean": "前FTC技术专家警告AI'卡特尔'形成",
+    "summary": "前FTC首席技术官、现为Abundance Institute AI政策主管的Neil Chilson警告，前沿AI实验室寻求安全方面的更多协调可能导致政府支持的反垄断豁免，从而形成AI'卡特尔'，这对AI行业竞争格局有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-attain-os": {
+    "title_clean": "Executive Interview: Attain OS",
+    "summary": "Attain OS CTO Augusto Burgos接受CB Insights采访，分享了他对市场定位、客户需求及公司战略的看法。作为一家AI服务提供商，Attain OS在市场中寻求差异化定位，为产品经理提供了企业级AI服务布局的参考视角。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-inovech": {
+    "title_clean": "CEO访谈：Inovech",
+    "summary": "Inovech CEO Alex Norbert接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司战略方向。该访谈为元宝产品经理提供了AI行业企业视角的市场洞察和战略思考参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce": {
+    "title_clean": "Prostowski：波兰反虚假广告报告",
+    "summary": "波兰Instrat基金会发布报告，探讨行业面临的虚假广告挑战及其影响。该报告分析了虚假广告的现状、危害及应对措施，为产品经理了解广告安全与内容审核提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-18/trump-and-xi-jinping-face-off-on-ai-as-white-house-meeting-nears": {
+    "title_clean": "特朗普与习近平在AI领域对峙，白宫会议临近",
+    "summary": "中美两国领导人即将在白宫会晤，双方在AI领域存在明显分歧，特别是在AI最大威胁的认知上。这一政治层面的对峙可能影响全球AI政策走向和技术发展路径，对元宝产品经理了解地缘政治对AI行业的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-novella": {
+    "title_clean": "Novella CEO访谈：市场定位与客户需求分析",
+    "summary": "Novella CEO Max Kane接受CB Insights采访，分享公司市场定位、客户需求分析及战略规划。作为AI产品高管访谈，提供了行业视角和产品决策参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

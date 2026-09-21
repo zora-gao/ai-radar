@@ -98451,5 +98451,483 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/sell-to-state": {
+    "title_clean": "Sell to State：全球政府合同搜索平台",
+    "summary": "Sell to State是一个覆盖64个国家、300万政府合同的搜索平台，帮助企业发现政府招标和商业机会。产品经理可参考其垂直领域信息聚合模式，探索元宝在B2G场景下的服务可能性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/simha-digital": {
+    "title_clean": "Simha Digital：SEO优化工作台",
+    "summary": "Simha Digital是一款SEO优化工作台工具，能够分析网站并提供具体的优化建议和行动计划，帮助用户提升搜索引擎排名。产品经理可参考其如何将复杂的SEO分析转化为可执行任务，这对元宝在内容优化和搜索功能方面有启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/decode-by-entropik": {
+    "title_clean": "AI Creative Insights by Decode：广告效果预测工具",
+    "summary": "Decode推出AI Creative Insights工具，可在广告投放前预测广告效果，帮助营销人员优化创意决策，减少无效广告支出，提升营销ROI。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/osmotic-2": {
+    "title_clean": "Osmotic：DJI Osmo无线传输工具",
+    "summary": "Osmotic是一款专为DJI Osmo相机设计的Mac应用，支持通过Wi-Fi将拍摄 footage 传输到Mac电脑，简化了无人机/运动相机素材的下载流程，对元宝产品经理在多设备连接和文件传输场景设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/arcjet": {
+    "title_clean": "Arcjet：AI代理运行时安全防护工具",
+    "summary": "Arcjet提供AI代理在运行时的安全防护服务，帮助开发者保护其构建的AI代理免受安全威胁。这对元宝产品经理有参考价值，因为随着AI代理功能增强，安全防护将成为产品核心竞争力之一。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai": {
+    "title_clean": "法律AI初创公司Harvey转向开源模型以减少对Anthropic和OpenAI的依赖",
+    "summary": "估值15.6亿美元的法律AI初创公司Harvey原本基于OpenAI的GPT-4等模型为律师提供专业服务，但近期因AI成本飙升而转向开源模型，这一转变反映了AI服务提供商在成本控制与性能平衡上的战略调整。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/real-cost-ai-survey-unpredictable-token-economics": {
+    "title_clean": "The Real Cost of AI：企业AI代币经济调查报告",
+    "summary": "该报告揭示了AI企业软件定价模式的根本性变革，从传统的可预测订阅费转向基于代币(token)的不确定性定价模式。这对产品经理理解AI服务成本结构、定价策略及企业预算规划具有重要参考价值，尤其对元宝的商业化路径设计提供了市场洞察。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-intrascope-app": {
+    "title_clean": "Intrascope.app：企业市场分析工具",
+    "summary": "Intrascope.app的CEO接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司定位。作为企业市场分析工具，其观点对元宝产品经理了解企业级AI服务市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-punch-rescue": {
+    "title_clean": "CEO Interview: Punch Rescue",
+    "summary": "Punch Rescue CEO Greg Artzt接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。作为一家企业服务公司，其市场观点和客户洞察对AI服务场景和商业化方向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-true-aim": {
+    "title_clean": "True Aim CEO访谈：市场定位与客户需求分析",
+    "summary": "True Aim CEO Reuben John接受CB Insights采访，分享了公司对市场的看法、客户需求的理解以及自身定位。这为元宝产品经理提供了AI服务市场定位和客户洞察的参考视角。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-21/accenture-will-help-anthropic-test-ai-model-safety-video": {
+    "title_clean": "埃森哲将协助Anthropic测试AI模型安全性",
+    "summary": "埃森哲与Anthropic合作，派遣评估人员嵌入测试，尝试\"突破\"Anthropic的先进AI模型安全性。这反映了大型AI模型安全测试的专业化趋势，对元宝产品经理了解AI安全评估方法和行业合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-21/concerned-about-ai-cybersecurity-guild-video": {
+    "title_clean": "Robinhood CIO Stephanie Guild：AI网络安全担忧",
+    "summary": "Robinhood首席投资官Stephanie Guild在Bloomberg节目'Open Interest'中讨论了近期AI安全问题和竞争动态，分享了金融机构对AI安全风险的担忧和应对策略，对元宝产品经理了解AI安全在金融领域的应用和挑战有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026": {
+    "title_clean": "TechCrunch Disrupt 2026：创业大赛评委阵容公布",
+    "summary": "TechCrunch Disrupt 2026创业大赛评委阵容更新，200家初创企业将在主舞台展示项目。参赛者需在9月25日前注册，可节省最高200美元费用并获得前排席位。这对关注AI创业生态和投资趋势的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai": {
+    "title_clean": "OpenAI与Anthropic接近达成协议互相压力测试AI模型",
+    "summary": "OpenAI正在重新评估其AI安全策略，以回应员工和其他人对AI潜在危险的担忧。据报道，OpenAI正与Anthropic接近达成一项协议，互相压力测试对方的AI模型，这可能成为解决AI安全风险的新方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026": {
+    "title_clean": "Google高管Robby Stein将参加TechCrunch Disrupt 2026大会",
+    "summary": "Google高管Robby Stein将出席TechCrunch Disrupt 2026大会的Builders Stage环节，分享从初创到数十亿用户的经验。此次会议将于2026年举办，目前提供早鸟票优惠，截止日期为9月25日。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/google-rolls-out-899-plus-googlebooks-from-dell-hp-lenovo-acer-asus": {
+    "title_clean": "Google 推出搭载 AI 功能的 Googlebooks 笔记本电脑",
+    "summary": "Google 与多家 PC 厂商合作推出内置 AI 功能的高端笔记本电脑 Googlebooks，价格从 899 美元起。这标志着 Google 正式进军高端笔记本市场，将 AI 功能作为产品核心卖点，对 AI 助手在硬件端的应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame": {
+    "title_clean": "Bessent 指责 OpenAI 管理层应对 Hugging Face 事件负责",
+    "summary": "美国财政部长 Scott Bessent 表示，OpenAI 管理层应对近期涉及先进 AI 模型的黑客事件负责，但未明确具体责任细节。此事件反映了 AI 安全管理责任归属问题，对产品经理评估 AI 安全治理与风险管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/anthropic-and-microsoft-dominate-nscale-s-103-billion-in-contracts": {
+    "title_clean": "Anthropic与微软主导Nscale 103亿美元AI计算合同",
+    "summary": "Nscale过去三年合同量增长1000倍，主要客户为微软和Anthropic，两家公司对AI计算能力需求旺盛。这反映了大型AI模型训练对算力资源的巨大需求，以及云服务提供商与AI模型公司之间的紧密合作趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/latvia-foreign-minister-sees-russia-expanding-sabotage-in-europe": {
+    "title_clean": "俄罗斯扩大对欧洲北约成员国的破坏活动",
+    "summary": "拉脱维亚外长表示，俄罗斯将增加对欧洲北约成员国的破坏活动，以阻止其对乌克兰的支持。这一地缘政治动态可能影响欧洲安全局势，对产品经理了解国际环境变化和潜在市场风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amazon-blocks-metas-muse-agent": {
+    "title_clean": "Amazon阻止Meta的Muse AI代理访问其购物平台",
+    "summary": "Amazon阻止了Meta的个性化AI代理Muse访问其购物网站，表明外部应用应开放运营并尊重服务提供商的决定。这一事件反映了AI代理在电商平台的准入限制，对元宝产品经理了解AI代理与第三方平台合作的边界有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/trump-xi-meeting-china-us-ai-rivalry-poses-questions-for-summit": {
+    "title_clean": "中美领导人会晤：AI竞争成焦点议题",
+    "summary": "中美领导人会晤将人工智能作为核心议题，两国均视AI为战略竞争新焦点。这一动向对元宝产品经理具有重要参考价值，反映了全球AI战略格局变化，可能影响产品国际化策略与竞品动态应对。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-21/trump-ai-boosters-miss-the-mark-with-us-voters": {
+    "title_clean": "特朗普与AI支持者未能打动美国选民",
+    "summary": "特朗普与AI支持者推动AI技术的呼声与美国选民的实际需求存在差距，选民并未看到AI带来的实际益处。这反映了AI技术在政治宣传与公众认知之间的脱节，对产品经理了解AI技术落地面临的公众接受度挑战有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/danske-workforce-to-shrink-as-technology-rolls-out-across-lender": {
+    "title_clean": "Danske Bank：AI技术导致银行员工缩减",
+    "summary": "丹麦银行(Danske Bank)高管表示，随着客户需求变化和银行越来越多地采用人工智能等技术，未来几年该行员工规模将继续缩减。这反映了AI在金融服务领域的应用趋势及其对人力资源结构的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls": {
+    "title_clean": "DeepSeek：加大华为芯片使用以绕过美国出口限制",
+    "summary": "DeepSeek CEO梁文锋表示，公司正优先使用国产芯片训练模型，并预计华为将开始交付训练芯片。此举旨在规避美国出口管制，对AI企业供应链策略和地缘政治影响有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-21/ai-risk-is-spreading-across-stocks-pension-funds-bonds-and-private-markets": {
+    "title_clean": "AI风险正在股票、养老金、债券和私人市场蔓延",
+    "summary": "AI风险正在从股票市场扩散至养老金、债券和私人市场，成为投资者无法回避的交易主题。这一趋势反映了AI技术在金融领域的广泛应用及其带来的系统性风险，对元宝产品经理了解AI服务在金融场景的应用与风险管理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/ai-dissent-spooks-us-investors-in-philippine-hub-official-says": {
+    "title_clean": "美国投资者因反对声音对菲律宾AI中心项目表示担忧",
+    "summary": "菲律宾计划建立的AI中心项目面临当地反对声音，导致部分美国投资者对该项目前景提出质疑。这一动态反映了AI基础设施建设可能面临的地缘政治与社区接受度挑战，对元宝在海外拓展时评估政策风险与本地化策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/alibaba-appoints-new-head-qwen-llm-team": {
+    "title_clean": "阿里巴巴任命新负责人领导通义千问大语言模型团队",
+    "summary": "阿里巴巴集团任命资深AI研究员刘迪恒为通义千问大语言模型团队负责人。这一人事变动表明阿里巴巴正在加强其AI大模型团队的管理，可能影响通义千问的产品发展方向和竞争策略，对元宝产品经理了解国内AI大模型厂商的组织架构调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/t-rowe-fund-targets-chinese-winners-of-booming-ai-supply-chain": {
+    "title_clean": "T. Rowe Fund：投资中国AI供应链企业",
+    "summary": "T. Rowe Price旗下表现优异的基金正在加大对大中华区AI供应链下游企业的投资，认为该地区的投资周期仍有追赶全球趋势的空间。这反映了国际资本对中国AI产业链发展潜力的看好，对元宝产品经理了解AI行业投资动向和供应链布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/australia-to-rely-on-ai-to-spur-growth-as-global-tensions-deepen": {
+    "title_clean": "澳大利亚将依靠AI推动未来数十年的经济发展",
+    "summary": "澳大利亚计划在未来40年依靠人工智能的部署和发展来推动经济增长，这一时期全球经济可能变得更加碎片化。这一政策动向表明AI已被视为国家经济战略的核心要素，对元宝产品经理了解AI在国家层面的战略定位和长期市场潜力具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-21/bofa-s-oberoi-on-markets-ai-trade-central-bank-policy-video": {
+    "title_clean": "BofA's Oberoi on Markets, AI Trade, Central Bank Policy",
+    "summary": "美国银行亚太区研究主管Chris Oberoi讨论全球市场展望、AI投资主题及央行政策方向。作为金融机构高管对AI投资趋势的分析，对元宝产品经理了解AI在金融领域的应用趋势和投资动向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/bessent-hails-very-successful-china-talks-on-ai-threats-trade": {
+    "title_clean": "中美就AI与贸易问题举行建设性会谈",
+    "summary": "美国财政部长贝森特与中方就人工智能、贸易和投资问题进行了\"非常成功\"的会谈，中方也描述此次讨论为积极正面。这一高层对话表明中美在AI领域存在合作可能，对元宝产品经理了解国际AI政策环境与监管趋势具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/V8Bl3qkpSWA3qImyeeZTxA": {
+    "title_clean": "千问Qwen-Image-2.1：开源图像生成模型",
+    "summary": "千问Qwen-Image-2.1成为开源图像生成领域的领先模型，在多项评测中表现优异。这一进展对AI多模态领域具有重要意义，特别是对元宝产品在图像生成能力上的技术参考和竞品分析价值较高。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/v7": {
+    "title_clean": "V7：企业文件转化为AI代理的机构记忆工具",
+    "summary": "V7利用GPT-5.6技术，将分散的企业文件转化为AI代理可使用的上下文信息，帮助代理完成复杂且带有来源链接的工作。这为AI代理处理企业级任务提供了新的解决方案，对元宝产品经理在构建企业级AI代理功能方面有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking": {
+    "title_clean": "Vocci：会议笔记戒指工具",
+    "summary": "Vocci推出一款轻量级智能戒指，售价249美元，专为会议笔记设计。这款新型可穿戴设备可能引发隐私问题，为AI会议记录提供了创新形态，值得元宝团队关注可穿戴AI设备在会议场景的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-20/china-to-ramp-up-enforcement-against-malicious-price-competition": {
+    "title_clean": "中国将加强打击恶意价格竞争行为",
+    "summary": "中国国家市场监管总局表示将加强对恶意价格竞争的审查，包括对相关企业进行成本调查和价格检查。这一政策动向对元宝产品经理有参考价值，特别是在设计电商、购物等AI服务场景时，需考虑价格合规性因素，避免AI推荐系统可能引发的潜在价格竞争风险。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-20/meloni-eyes-more-stringent-school-laws-to-counter-far-right-rise": {
+    "title_clean": "意大利拟在学校禁止头巾和罩袍以应对极右翼崛起",
+    "summary": "意大利中右翼联合政府提议新教育法，禁止在学校佩戴头巾和罩袍，以应对极右翼政党\"国家未来\"的崛起。这一政策动向反映了欧洲部分国家在多元文化背景下的宗教服饰管理争议，对AI助手在跨文化服务场景中理解不同用户群体的文化敏感性和政策环境具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vitribiome": {
+    "title_clean": "VitriBiome：CEO访谈",
+    "summary": "VitriBiome CEO Alexander Segal接受CB Insights采访，分享公司对市场的看法、客户需求认知以及公司定位。作为一家生物科技企业，其CEO的市场观点可能对元宝在健康服务场景的AI应用提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies": {
+    "title_clean": "Google的Gemini：最新能攻击其他AI公司的AI模型",
+    "summary": "Google表示其Gemini AI模型能够\"适当行动\"，在执行黑客攻击后立即终止。这反映了AI模型安全边界的新挑战，对产品经理评估AI系统安全性和伦理控制有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

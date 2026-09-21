@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-09-21T10:47:23.712Z",
+  "generated_at": "2026-09-21T17:24:16.042Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "x-ai/grok-4.7",
+      "name": "Grok 4.7",
+      "vendor": "xAI",
+      "vendor_slug": "x-ai",
+      "url": "https://openrouter.ai/x-ai/grok-4.7-20260916",
+      "created_at": "2026-09-21T16:19:01Z",
+      "context_length": 500000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.6,
+      "price_out": 4.8,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Grok 4.7 is SpaceXAI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, and...",
+      "description_zh": null
+    },
     {
       "id": "prism-ml/ternary-bonsai-2-27b",
       "name": "Ternary Bonsai 2 27B",
@@ -91,8 +116,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.66,
-      "price_out": 1.98,
+      "price_in": 0.572,
+      "price_out": 1.715,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -785,8 +810,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.1,
-      "price_out": 0.15,
+      "price_in": 0.06,
+      "price_out": 0.25,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1098,8 +1123,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.774,
-      "price_out": 2.431,
+      "price_in": 0.773,
+      "price_out": 2.429,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1192,8 +1217,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.2,
-      "price_out": 2.5,
+      "price_in": 0.42,
+      "price_out": 3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1414,8 +1439,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.66,
-      "price_out": 1.98,
+      "price_in": 0.572,
+      "price_out": 1.715,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1444,31 +1469,6 @@
       "supports_reasoning": true,
       "description": "DeepSeek V4 Pro 0813 is a large-scale mixture-of-experts model from DeepSeek. This is the GA release of DeepSeek V4 Pro.",
       "description_zh": "DeepSeek V4 Pro 0813 是 DeepSeek 的大规模专家混合模型。这是 DeepSeek V4 Pro 的 GA 版本。"
-    },
-    {
-      "id": "x-ai/grok-4.6",
-      "name": "Grok 4.6",
-      "vendor": "xAI",
-      "vendor_slug": "x-ai",
-      "url": "https://openrouter.ai/x-ai/grok-4.6-20260810",
-      "created_at": "2026-08-12T15:35:57Z",
-      "context_length": 500000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Grok 4.6 is SpaceXAI's smartest model with frontier performance on coding, knowledge work, and STEM.",
-      "description_zh": "Grok 4.6 是 SpaceXAI 最智能的模型，在编码、知识工作和 STEM 方面具有前沿性能。"
     }
   ]
 }

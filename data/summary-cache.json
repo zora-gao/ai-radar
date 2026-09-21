@@ -98077,5 +98077,379 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/cronhq": {
+    "title_clean": "Cronhq：定时任务执行服务",
+    "summary": "Cronhq提供可靠的定时任务执行服务，解决传统Cron任务可能失败的问题。对于需要稳定后台任务处理的AI产品具有重要参考价值，特别是在数据同步、自动化报告和定期维护等场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jev-2": {
+    "title_clean": "Jev：AI自动化决策工具",
+    "summary": "Jev是一款专为软件自动化设计的AI决策工具，能够快速提供结构化的决策支持。该产品通过AI技术帮助用户在软件开发过程中实现自动化决策，提高效率，对元宝产品经理在AI自动化服务场景方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/niubigeo": {
+    "title_clean": "NiubiGEO：开源AI可见性与人工增长工具",
+    "summary": "NiubiGEO是一款开源AI可见性平台，结合人工驱动增长策略，帮助提升AI产品的市场曝光度和用户获取能力。产品经理可参考其开源模式与人工增长结合的运营策略，适用于元宝的市场推广与用户增长规划。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jevtown": {
+    "title_clean": "Jevtown：AI 预发布内容反馈工具",
+    "summary": "Jevtown 是一款 AI 工具，能在内容发布前收集 10,000 名 AI 读者的反馈意见，帮助创作者优化内容质量。这种预发布 AI 反馈机制对内容创作平台和 AI 辅助写作工具具有参考价值，可应用于内容审核、用户需求预测和产品迭代方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/slop-grader": {
+    "title_clean": "slop-grader：文本自定义规则评估工具",
+    "summary": "Jev-AI推出的CLI工具，可对文本内容进行自定义规则集评估，帮助用户建立文本质量标准与自动化检查流程，适用于内容审核与质量控制场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/secaiq-watch": {
+    "title_clean": "SecAIQ Watch：AI工具行为监控工具",
+    "summary": "SecAIQ Watch是一款监控工具，帮助用户了解AI工具在其设备上的实际运行情况，提供透明度和安全性保障，对关注AI工具隐私与安全的产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/milliseconds-ai": {
+    "title_clean": "Milliseconds.ai：AI文本图像快速决策API",
+    "summary": "Milliseconds.ai提供通过单一API实现文本和图像的快速AI决策服务，专注于低延迟处理能力。该产品为AI应用开发者提供高效决策工具，可能对元宝在实时响应和多模态处理方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flicka": {
+    "title_clean": "Flicka：Chrome产品演示工具",
+    "summary": "Flicka是一款Chrome扩展工具，可帮助用户创建即用型产品演示。这款工具对产品经理有参考价值，因为它可能简化产品演示流程，提升客户沟通效率，尤其适用于需要快速展示产品功能或收集用户反馈的场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/omnidicom": {
+    "title_clean": "OmniDICOM：医疗影像查看与元数据编辑工具",
+    "summary": "OmniDICOM是一款跨平台医疗影像软件，支持在Mac和Windows系统上查看DICOM格式图像并编辑元数据。该工具为医疗AI应用提供了专业影像处理能力，对元宝在医疗场景下的AI助手功能开发具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/simular": {
+    "title_clean": "Sai：自主计算机舰队管理工具",
+    "summary": "Sai是一款自主计算机舰队管理工具，允许用户通过AI命令控制多台计算机执行任务。该产品可能为元宝产品经理提供AI自动化任务编排和跨设备协作的参考价值，特别是在处理大规模计算资源调度方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gradio": {
+    "title_clean": "Gradio Workflow：AI流程构建工具",
+    "summary": "Gradio Workflow是一款基于Hugging Face的AI流程构建工具，允许用户通过连接节点来创建AI管道。这款工具为元宝产品经理提供了AI工作流可视化的参考价值，有助于理解如何将复杂AI任务分解为可组合的模块化组件。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/appgrowthkit": {
+    "title_clean": "AppGrowthKit：应用商店截图自动化工具",
+    "summary": "AppGrowthKit是一款自动化应用商店截图生成工具，帮助开发者优化应用商店展示页面，可能通过提升应用转化率来增加收入。对于元宝产品经理而言，这类工具展示了AI在应用商店优化领域的应用，值得关注其自动化能力与商业化模式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/epismo": {
+    "title_clean": "Epismo OS：AI工具间工作内容同步系统",
+    "summary": "Epismo OS是一款跨AI工具工作内容同步系统，允许用户在不同AI工具间无缝切换并保留工作进度，解决了AI工具间数据孤岛问题，为产品经理提供了AI工具生态整合的参考方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/postsider": {
+    "title_clean": "PostSider：社交媒体调度平台",
+    "summary": "PostSider是一个面向人类和AI代理的社交媒体调度平台，帮助用户和AI助手规划、安排社交媒体内容发布。该平台可能为元宝在社交媒体自动化管理方面提供参考价值，特别是针对AI代理执行社交媒体任务的能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/morsa-signals": {
+    "title_clean": "Morsa Signals：开发者工具GTM与AI可见性工作流",
+    "summary": "Morsa Signals提供开发者工具的GTM(上市营销)与AI可见性工作流，帮助开发者工具厂商提升产品在AI领域的市场曝光度和采用率，为元宝在开发者服务场景的产品策略提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/fidelity-s-durance-is-shunning-tech-bonds-feeding-the-ai-boom": {
+    "title_clean": "Fidelity's Durance：避开AI热潮科技债券",
+    "summary": "Fidelity International的James Durance表示不投资AI热潮相关的科技债券，反映大型投资机构对AI投资热潮的谨慎态度，这对AI产品经理了解资本市场对AI领域的真实评估有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/catl-sees-limited-impact-from-china-s-new-battery-tax-on-orders": {
+    "title_clean": "CATL：中国新电池税对订单影响有限",
+    "summary": "中国实施电池消费税后，宁德时代(CATL)国内订单出现一定波动，但整体影响有限。这一信息对元宝产品经理了解政策变化对供应链企业的影响有参考价值，特别是在评估AI助手在供应链管理场景的应用可能性时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/wRkb8qsZkgSn38VqxkhriA": {
+    "title_clean": "机器人领域的OpenAI：AI机器人技术发展",
+    "summary": "OpenAI在机器人领域取得突破，可能正在开发或投资AI机器人技术，这表明AI正从虚拟世界向物理世界拓展，为元宝产品经理提供了AI助手多场景应用的新方向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/vxrEcJwVoFelB8So7RHcnQ": {
+    "title_clean": "因果思维链：AI世界模型技术突破",
+    "summary": "该资讯报道了将因果思维链技术融入世界模型的最新进展，探讨了这一技术突破如何提升AI系统的推理能力和决策准确性。对产品经理而言，这代表了AI模型理解因果关系的重要发展方向，可能启发元宝在复杂问题解决和逻辑推理方面的功能升级。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-20/howard-marks-flags-uncertainty-in-ai-investing-video": {
+    "title_clean": "Howard Marks：AI投资面临不确定性",
+    "summary": "橡树资本联合创始人Howard Marks指出，自2022年底以来市场乐观情绪主导，投资者倾向于忽视负面消息，因此在AI投资领域保持谨慎变得愈发重要。这对AI产品经理评估市场风险和投资环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0": {
+    "title_clean": "苹果Home AI Hub、Fitness+裁员及iPhone双Apple Pencil动态",
+    "summary": "苹果发布Home AI Hub智能家居中枢详情，同时宣布Fitness+业务裁员，并透露iPhone将配备双Apple Pencil功能。这些信息反映了苹果在AI家庭服务、健康业务调整及生产力工具方面的战略动向，对元宝产品经理了解科技巨头AI服务布局与业务调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-20/china-august-power-use-tops-1-trillion-kwh-load-hits-record": {
+    "title_clean": "中国8月用电量突破1万亿千瓦时，负荷创历史新高",
+    "summary": "中国国家能源局数据显示，8月中国用电量首次突破1万亿千瓦时，电力需求保持强劲，负荷创下历史新高。这一数据反映了中国经济活动的活跃度，对元宝产品经理了解中国能源消费趋势及AI服务在能源领域的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race": {
+    "title_clean": "澳大利亚总理呼吁全球在AI竞赛中采取人道行动",
+    "summary": "澳大利亚总理阿尔巴尼斯呼吁中等国家在减轻人工智能风险方面发挥重要作用，并呼吁中美合作。这反映了国际社会对AI安全治理的关注，对元宝产品经理了解全球AI政策趋势和国际合作方向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force": {
+    "title_clean": "特朗普提议重新命名AI并创建AI部队",
+    "summary": "特朗普声称AI反弹是民主党骗局，提议重新命名AI并创建AI部队。这一政治表态可能影响AI政策方向，但缺乏具体实施细节，对产品经理的直接参考价值有限。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-ldoo": {
+    "title_clean": "LDOO CEO访谈：市场定位与客户需求分析",
+    "summary": "LDOO CEO Gideon Banks接受CB Insights采访，分享公司市场定位、客户需求分析及业务策略。该访谈为AI产品经理提供了企业级AI服务市场定位和客户需求洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-coalition": {
+    "title_clean": "Executive Interview: Coalition：CMO谈市场定位与客户需求",
+    "summary": "Coalition公司首席营销官Dylan Steele接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。对产品经理了解企业级服务市场定位与客户需求分析有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/president-trump-announces-ai-force-will-appoint-new-czar": {
+    "title_clean": "特朗普宣布成立'AI Force'，将任命新负责人",
+    "summary": "特朗普宣布成立新的'AI Force'，类似于他此前创建的太空部队，这是美国国防部专注于AI作战的新部门。这一动向表明AI在国家战略层面的重要性提升，可能影响AI政策方向和资源分配，对元宝产品经理了解AI政策环境变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-chorah-labs": {
+    "title_clean": "Chorah Labs CEO访谈：市场定位与客户需求",
+    "summary": "Chorah Labs首席技术官Jason Chou接受CB Insights采访，分享了他对市场定义、客户需求以及公司战略的看法。这为元宝产品经理提供了AI行业市场定位和客户洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-epsilon3": {
+    "title_clean": "CEO Interview: Epsilon3",
+    "summary": "Epsilon3 CEO Laura Crabtree接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家企业服务领域的公司，其CEO的市场洞察对了解企业服务行业趋势和客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026": {
+    "title_clean": "Nvidia高管探讨开放与封闭AI策略对下一代初创企业的影响",
+    "summary": "Nvidia高管Nader Khalil和Sydney Sykes在TechCrunch Disrupt 2026上讨论开放与封闭AI策略如何塑造下一代初创企业的发展方向，这对AI产品经理在技术路线选择和商业模式设计上有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

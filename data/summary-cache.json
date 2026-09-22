@@ -100541,5 +100541,377 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-zocks": {
+    "title_clean": "Executive Interview: Zocks - 保险科技高管访谈",
+    "summary": "Zocks保险业务总经理Bradley Stoub接受CB Insights采访，分享公司对市场的看法、客户需求分析以及市场定位。作为保险科技公司的战略视角，对元宝产品经理了解垂直行业AI应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/clarity-failure-a-win-for-communities-romero-rainey-video": {
+    "title_clean": "Clarity Failure A Win For Communities: Romero Rainey",
+    "summary": "美国参议院未能通过Clarity法案，稳定币收益率仍不受美国监管。美国独立社区银行家协会CEO Rebeca Romero Rainey讨论了她对该法案的反对意见，这对理解加密货币监管政策走向及潜在金融服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-cover-whale": {
+    "title_clean": "Executive Interview: Cover Whale",
+    "summary": "Cover Whale总裁Kevin Abramson接受CB Insights采访，分享公司对市场的看法、客户需求分析以及企业定位。这对元宝产品经理了解企业级AI服务市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/robot-voice-bridge": {
+    "title_clean": "Robot Voice Bridge：Mac端ElevenLabs语音会话工具",
+    "summary": "Robot Voice Bridge是一款Mac应用，允许用户在本地运行ElevenLabs语音合成服务，实现语音会话功能。这为AI语音交互提供了本地化解决方案，对元宝产品经理在语音交互设计和多平台支持方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-peppercorn": {
+    "title_clean": "Peppercorn CEO访谈：市场定位与客户需求分析",
+    "summary": "Peppercorn CEO Andy Snuggs接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。作为AI产品经理，可从中了解新兴AI企业的市场定位思路和客户需求洞察，为产品方向提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/cos-won-t-opt-out-of-tokenization-securitize-ceo-video": {
+    "title_clean": "Securitize CEO：企业不会选择退出代币化",
+    "summary": "Securitize联合创始人兼CEO Carlos Domingo在Bloomberg Crypto节目中表示，美国证券交易委员会(SEC)已批准数字证券开始交易，企业不会选择退出代币化趋势。这对元宝产品经理了解金融科技领域的代币化趋势和监管环境变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/we-want-this-country-to-win-tokenization-sec-s-selway-video-mud3mezu": {
+    "title_clean": "SEC官员支持美国证券代币化发展",
+    "summary": "美国证券交易委员会(SEC)官员Selway公开支持在美国开展证券代币化交易，这一举措可能重塑传统市场结构。对元宝产品经理而言，这反映了金融科技领域的合规方向和代币化资产的潜在应用场景，值得关注AI在金融合规和资产数字化服务中的机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-coverforce": {
+    "title_clean": "CEO Interview: CoverForce",
+    "summary": "CoverForce CEO Cyrus Karai接受CB Insights采访，分享公司对市场的看法、客户需求分析及公司定位。作为一家保险科技企业，其市场观点和客户洞察对元宝理解B2B服务场景和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-outfox-health": {
+    "title_clean": "Outfox Health CEO访谈：医疗健康市场洞察",
+    "summary": "Outfox Health CEO Beth Ann Lopez接受CB Insights采访，分享公司对医疗健康市场的定义、客户需求理解及公司定位。内容包含市场策略和客户洞察，对元宝产品经理了解垂直领域AI服务场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-f2": {
+    "title_clean": "Executive Interview: F2高管访谈",
+    "summary": "F2首席营收官Basile Senesi接受CB Insights采访，分享公司市场定位、客户需求认知及业务策略。作为AI行业高管访谈，提供了企业级AI服务市场的竞争格局和客户需求洞察，对元宝产品经理了解企业AI服务市场定位有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/world-labs-founder-fei-fei-li-urges-independent-oversight-of-ai": {
+    "title_clean": "World Labs创始人李飞飞呼吁对AI进行独立监督",
+    "summary": "人工智能先驱李飞飞呼吁由独立和公共部门对AI技术进行更多监督，认为对日益强大的AI系统进行安全评估至关重要。这一观点对元宝产品经理在AI安全治理和产品合规方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/trump-rejects-push-for-global-pact-to-manage-ai-risks-video": {
+    "title_clean": "特朗普拒绝参与国际AI风险管理协议",
+    "summary": "美国民主党议员表示特朗普总统在AI安全护栏方面与美国民众立场不一致，特朗普拒绝参与国际AI风险管理协议。这一政策动向可能影响全球AI治理格局，对元宝产品经理了解各国AI监管趋势和潜在市场环境变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-earthian": {
+    "title_clean": "Earthian CEO访谈：市场定位与客户需求分析",
+    "summary": "Earthian CEO Shayan Shokri接受CB Insights采访，分享公司市场定位、客户需求分析及业务发展方向。作为AI领域企业高管访谈，为元宝产品经理提供行业视角和商业策略参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence": {
+    "title_clean": "Meta承认AI助手Muse借鉴OpenClaw设计",
+    "summary": "Meta承认其AI助手Muse虽从零开始构建，但在工作区文件名和内容上'大量借鉴'了OpenClaw的设计。这反映了AI助手领域设计趋同现象，对产品经理在竞品分析和功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/bloomberg-tech-9-22-2026-video": {
+    "title_clean": "全球AI竞赛：芯片、人才与世界模型",
+    "summary": "Bloomberg报道阿里巴巴推出新AI芯片，旨在与英伟达竞争，并支撑未来数据中心的大规模扩张。这反映了全球AI芯片竞争加剧，以及科技巨头在算力基础设施上的战略布局，对元宝产品经理了解AI底层技术发展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/ec-cftc-no-substitute-for-long-range-laws-disparte-video": {
+    "title_clean": "SEC与CFTC对Circle的长期监管豁免：加密货币合规新动向",
+    "summary": "Circle首席战略官Dante Disparte在Bloomberg Crypto节目中讨论了美国SEC上周授予Circle为期五年的监管豁免决定，该豁免允许符合条件的稳定币业务继续运营，反映了监管机构对加密货币行业合规框架的逐步明确。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-announces-cheaper-gpt-6-family-models": {
+    "title_clean": "OpenAI发布更便宜的GPT-6系列模型",
+    "summary": "OpenAI宣布推出GPT-6 Sol和GPT-6 Luna两款新模型，属于GPT-6 Astra家族，特点是价格更低、速度更快。这对产品经理了解OpenAI产品线更新策略和成本优化方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/teresa-ribera-says-ai-needs-safety-standards-video": {
+    "title_clean": "Teresa Ribera：AI需要安全标准",
+    "summary": "欧盟委员会执行副主席Teresa Ribera表示，联合国应优先考虑AI安全标准的制定。她强调AI发展需要规范和保障，反映了全球监管机构对AI安全性的关注，这对元宝产品经理了解政策趋势和合规要求具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/apple-desarrolla-monitor-de-actividad-para-competir-con-whoop-garmin-y-google-mucy8vim": {
+    "title_clean": "Apple：无屏健康监测手环",
+    "summary": "苹果正在开发一款无屏幕的健康与活动监测手环，旨在与Whoop、Garmin和Google等公司的产品竞争。该设备预计最早2028年推出，专注于健康数据监测功能。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/legora-in-talks-to-raise-funds-at-a-roughly-8-5-billion-value": {
+    "title_clean": "Legora：法律科技初创公司融资",
+    "summary": "Legora正在洽谈新一轮融资，这家法律科技初创公司的估值可能达到约85亿美元。这反映了法律科技领域的投资热度，对元宝产品经理了解垂直行业AI应用融资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/luckeys-erebor-bank-plots-syria-expansion": {
+    "title_clean": "Luckey's Erebor Bank：美国与叙利亚金融桥梁",
+    "summary": "Erebor Bank刚刚成为美国与委内瑞拉之间的重要金融桥梁，现计划扩展至叙利亚市场。这一扩张表明该银行正在积极拓展国际金融连接服务，为产品经理提供了跨境金融服务扩展的参考案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/gulati-we-are-woefully-under-invested-in-ai-security": {
+    "title_clean": "Gulati：AI安全投资严重不足",
+    "summary": "前微软Azure业务负责人Sheila Gulati指出，AI行业在安全领域的投资严重不足，并提及Sam Altman、Dario Amodei等行业领袖对AI安全问题的警告。这对元宝产品经理具有重要参考价值，提醒在AI产品开发中需重视安全投入与风险防控。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month": {
+    "title_clean": "SpaceXAI的Grok Bot Agent：AI助手用户数首月突破40万",
+    "summary": "SpaceXAI的Grok Bot人工智能助手在推出一个月后，周活跃用户已突破40万，显示出对埃隆·马斯克AI战略产品的初步需求。这一数据表明AI助手市场仍有增长空间，对元宝产品经理评估用户增长策略和竞品表现有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda": {
+    "title_clean": "TechCrunch Disrupt 2026：五场AI安全专题会议",
+    "summary": "TechCrunch Disrupt 2026大会将举办五场AI安全专题会议，涵盖Anthropic、Nvidia、AWS、Waabi等公司领导者的分享，内容涉及AI安全领域的前沿观点和实践经验，对AI产品经理了解行业安全趋势和合规要求具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/evaleval-aisi": {
+    "title_clean": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "summary": "英国人工智能安全研究所(AISI)和EvalEval合作致力于提高AI基准测试结果的可复现性，这对AI产品经理评估模型性能和确保产品可靠性具有重要参考价值，特别是在选择和验证AI模型时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/xbox-cuts-jobs-moves-game-studios-under-activision": {
+    "title_clean": "Xbox裁员并将游戏工作室整合至动视",
+    "summary": "微软Xbox部门裁员268人，并将多个游戏工作室整合到《使命召唤》开发商动视旗下。这一调整反映了微软在游戏业务上的战略重组，对元宝产品经理了解大型科技公司在游戏领域的组织架构调整和资源整合策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-xbox-cut-hundreds-jobs-consolidate-game-studios": {
+    "title_clean": "Xbox将裁员数百人并整合游戏工作室",
+    "summary": "Xbox计划本周裁员数百人，这是今年第二次大规模裁员。微软旗下的这家公司还将整合游戏工作室，以优化资源配置和业务结构。这一动向可能影响游戏行业格局，对元宝产品经理了解科技巨头业务调整策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/transformers-llama-cpp-quants": {
+    "title_clean": "Transformers：支持llama.cpp量化模型",
+    "summary": "Transformers库现已支持llama.cpp量化模型，这将提升大语言模型在边缘设备上的运行效率，降低资源需求，为元宝在轻量化部署和移动端应用方面提供技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-complir": {
+    "title_clean": "CEO Interview: Complir",
+    "summary": "Complir CEO接受CB Insights采访，阐述其市场定位、客户需求及公司发展策略。作为一家AI企业，其观点对元宝产品经理了解行业趋势和竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site": {
+    "title_clean": "Amazon屏蔽Meta的Muse AI代理访问其零售网站",
+    "summary": "Amazon拒绝Meta的请求后，屏蔽了其新AI代理Muse在Amazon零售网站的访问。这反映了大型科技公司之间在AI代理服务上的竞争与限制，对产品经理了解AI代理在商业平台上的应用限制和竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

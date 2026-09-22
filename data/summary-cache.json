@@ -100236,5 +100236,310 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/pastely-2": {
+    "title_clean": "Pastely：智能剪贴板适配工具",
+    "summary": "Pastely是一款智能剪贴板工具，能够根据用户粘贴的不同场景自动调整内容格式，解决跨应用粘贴格式不兼容问题，为元宝产品经理提供剪贴板智能化处理的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week": {
+    "title_clean": "Meta Muse：AI助手首周用户超50万",
+    "summary": "Meta新推出的个人AI助手Muse在发布首周吸引超过50万用户尝试，其中包括25万日活跃用户。这一数据反映了市场对AI助手类产品的强劲需求，对元宝产品经理评估用户增长潜力和市场接受度具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/americas-ai-dream-failing-launch": {
+    "title_clean": "美国AI发展面临挑战：领先优势正在减弱",
+    "summary": "2022年美国在AI领域几乎占据绝对领先地位，在先进模型、半导体、资本和人才方面均处于主导地位。然而，随着出口管制等因素影响，美国AI发展面临挑战，其领先优势正在减弱，这对全球AI竞争格局和产品战略布局具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase": {
+    "title_clean": "OpenAI：提前引入第三方评估AI模型安全性",
+    "summary": "OpenAI计划在AI模型开发周期的更早阶段引入第三方组织评估安全风险，这是其持续应对日益增长的AI安全担忧的一部分。此举可能影响行业安全标准制定和产品开发流程，对元宝的产品安全策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/abb-motion-president-on-new-data-center-technology": {
+    "title_clean": "ABB Motion总裁谈数据中心新技术",
+    "summary": "ABB Motion总裁Brandon Spencer介绍了ABB新推出的数据中心机架产品组合，专门为支持AI基础设施日益增长的电力和计算需求而设计。这些机架级电源解决方案旨在解决AI计算密集型应用带来的能源管理挑战，对元宝产品经理了解AI基础设施供应商的技术方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance": {
+    "title_clean": "Anthropic发布Opus 5.5：降价并达到Fable级性能",
+    "summary": "Anthropic发布Opus 5.5模型，称其为\"迄今为止测试过的性能最强的模型\"，同时降低了价格。这对产品经理评估竞品性能与定价策略具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/gulati-we-are-woefully-under-invested-in-ai-security-mucw3i0b": {
+    "title_clean": "Gulati：AI安全投资严重不足",
+    "summary": "前微软Azure业务负责人Sheila Gulati指出，AI行业在安全领域的投资严重不足，并引用了Sam Altman、Dario Amodei等行业领袖的警告。这对元宝产品经理评估AI安全风险和资源分配具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/meta-s-new-muse-ai-app-tops-charts-draws-strong-reviews-video": {
+    "title_clean": "Meta's Muse AI：AI助手应用",
+    "summary": "Meta推出的AI助手应用Muse已登顶美国iOS和Google Play免费应用排行榜，六天内下载量超过90.2万次，获得用户高度评价。这表明市场对AI助手类应用仍有强劲需求，对元宝产品经理在产品定位和市场策略上有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/anthropic-unveils-more-cost-efficient-opus-5-5-model-before-ipo": {
+    "title_clean": "Anthropic发布更经济的Opus 5.5模型",
+    "summary": "Anthropic推出成本更低的Opus 5.5模型，旨在处理各类商业任务，这是该公司在IPO前保持竞争优势的战略举措。新模型为企业提供了更具性价比的AI解决方案，可能影响AI助手产品的定价策略和市场竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/salesforce-ethics-officer-on-ai-integration-new-book-video": {
+    "title_clean": "Salesforce伦理官谈AI集成：新书分享AI整合经验",
+    "summary": "Salesforce首席道德与人性化使用官Paula Goldman在新书《Manage the Machine》中分享，AI的最大收益不仅来自更强大的模型，还来自精心设计的人机交互方式，这对AI产品经理思考如何平衡技术能力与人性化设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/trump-rejects-push-for-international-pact-to-manage-risks-of-ai": {
+    "title_clean": "特朗普拒绝推动国际AI风险管理协议",
+    "summary": "特朗普拒绝了为人工智能发展设立护栏的国际协议提议，无视前沿AI模型可能失控的危险。这一表态反映了美国在AI监管政策上的转向，对全球AI治理格局和产品合规策略有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/un-chief-calls-for-ai-pact-to-prevent-the-rise-of-killer-robots": {
+    "title_clean": "联合国呼吁制定AI协议以阻止杀人机器人崛起",
+    "summary": "联合国秘书长呼吁加强AI监管，防止出现企业权力泛滥和杀人机器人等反乌托邦未来。这一表态反映了国际社会对AI安全风险的重视，对元宝产品经理了解AI伦理与监管趋势具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/entertainment-booking-startup-ande-raises-52-million-lightspeed-redpoint": {
+    "title_clean": "Ande：AI娱乐预订助手",
+    "summary": "Ande是一家娱乐预订初创公司，获得5200万美元融资，专注于通过AI助手帮助用户轻松预订难订的餐厅、百老汇演出和体育赛事门票。该产品解决了用户在热门娱乐活动预订中的痛点，为元宝在服务场景拓展上提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/qa-defense-tech-warning-ai-venture-espahbodi-generational": {
+    "title_clean": "软件风投追逐SpaceX前员工，国防科技专家警告'游客和FOMO'",
+    "summary": "Generational Partners合伙人Van Espahbodi在接受Crunchbase News采访时指出，AI正在改变硬件经济模式，软件投资者正涌入工业科技领域，但他警告这可能只是'游客和FOMO'现象，缺乏真正的行业理解。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction": {
+    "title_clean": "数据中心建设争议：AI发展面临的挑战",
+    "summary": "宾夕法尼亚州过去两年中，AI数据中心建设引发了激烈争议。文章探讨了数据中心建设面临的社区抵制、环境担忧和能源压力等问题，反映了AI基础设施扩张中的社会矛盾，对元宝产品经理了解AI服务落地挑战有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic": {
+    "title_clean": "中国监管部门调查DeepSeek与Moonshot数据泄露至Anthropic事件",
+    "summary": "中国网信办正在调查DeepSeek和Moonshot AI两家公司，因其被Anthropic指控将敏感用户数据传输至Claude模型。这一事件涉及AI企业的数据安全与合规问题，对元宝产品经理在数据隐私保护和跨境数据合规方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/peloton-debuts-three-treadmills-including-the-foldable-quiet-2-195-tread-flex": {
+    "title_clean": "Peloton 推出三款跑步机，包括可折叠静音款 Tread Flex",
+    "summary": "Peloton 推出三款新跑步机，包括售价2195美元的可折叠静音款Tread Flex，这是其迄今为止最实惠的型号，标志着公司进一步深入其认为至关重要的细分市场。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/z-ai-open-sources-zcode-data-uploading-scandal": {
+    "title_clean": "Z.ai：开源代码工具ZCode应对数据上传争议",
+    "summary": "中国AI公司Z.ai因开发者发现其数据被上传至云服务器而面临强烈反弹，随后宣布开源其代码工具ZCode。这一事件反映了AI工具数据隐私问题的重要性，对产品经理在处理用户数据透明度和信任方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/rising-yields-pose-risk-to-stock-valuations-rbc-bluebay-video": {
+    "title_clean": "RBC BlueBay：债券收益率上升对股票估值构成风险",
+    "summary": "RBC BlueBay资产管理公司市场策略主管Mike Bell讨论了债券收益率、股票估值和人工智能交易的前景。他指出，股票风险溢价已处于历史低位，随着债券收益率上升，股票估值面临下行压力，这可能影响AI相关投资策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/priorities-principles-third-party-assessments": {
+    "title_clean": "OpenAI：前沿模型第三方安全评估优先原则",
+    "summary": "OpenAI发布前沿模型第三方安全评估的优先原则与框架，强调评估需严格、安全且独立，旨在确保AI模型的安全保障措施有效。这对元宝产品经理了解行业安全标准制定与第三方评估机制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-odynn-2": {
+    "title_clean": "Odynn CEO访谈：市场定位与客户需求分析",
+    "summary": "Odynn CEO John Taylor Garner接受CB Insights采访，分享公司市场定位、客户需求分析及业务策略。该访谈提供了AI服务领域创业公司的市场视角和产品方向思考，对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok": {
+    "title_clean": "ScrollEd：教科书转社交媒体式学习平台",
+    "summary": "ScrollEd将教科书转化为可滚动的Instagram式信息流，整合视频、音频和测验功能。由帕洛阿尔托的学生创业者夫妇创立，旨在通过社交媒体形式提升教材的互动性和吸引力，为教育内容呈现提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/paramount-settles-state-antitrust-lawsuit-clearing-way-warner-deal-close": {
+    "title_clean": "派拉蒙与州政府反垄断诉讼和解，为华纳交易扫清障碍",
+    "summary": "派拉蒙与Skydance就12个州提起的反垄断诉讼达成和解，此前该诉讼曾威胁阻止其1100亿美元收购华纳兄弟的交易。此次和解为媒体行业重大并购扫清了法律障碍，对元宝产品经理了解内容行业整合趋势及潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/crowdstrike-okta-trade-big-premiums-despite-unproven-ai-payoff": {
+    "title_clean": "CrowdStrike与Okta股价溢价：AI网络安全概念炒作",
+    "summary": "网络安全股在2026年表现强劲，投资者押注这些公司将受益于企业加强AI驱动的网络威胁防御。尽管CrowdStrike和Okta等公司尚未证明AI技术能带来实际回报，但市场已给予它们显著溢价，反映了对AI网络安全概念的炒作。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

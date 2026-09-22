@@ -99796,5 +99796,445 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/shootsolo": {
+    "title_clean": "Shootsolo 2.0：单人创作者语音控制提词器相机",
+    "summary": "Shootsolo 2.0 是一款专为单人创作者设计的语音控制相机与提词器工具，帮助创作者在拍摄过程中通过语音控制设备并查看提词内容，提升单人创作效率与体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vgpu": {
+    "title_clean": "vgpu：面向AI Agent的WebGPU库",
+    "summary": "vgpu是一个专为AI Agent设计的WebGPU库，可能提供GPU加速计算能力，帮助AI Agent更高效地处理图形和计算密集型任务。这对元宝产品经理评估AI Agent性能优化和硬件加速方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/walkie-3": {
+    "title_clean": "Walkie：语音转写+会议+朗读一体化应用",
+    "summary": "Walkie是一款集语音转写、会议管理和文本朗读功能于一体的应用，采用设备端处理技术，无需联网即可使用。这款产品整合了语音处理的核心功能，为AI助手产品在语音交互和办公场景应用提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fez-2": {
+    "title_clean": "Fez：AI团队协作决策工具",
+    "summary": "Fez是一款AI协作工具，允许多个AI智能体作为团队共同工作并协同决策。这类工具对元宝产品经理有参考价值，特别是在探索AI Agent协作能力、团队决策机制以及多智能体系统架构方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/xem": {
+    "title_clean": "Xem：开源邮件营销与SMTP管理工具",
+    "summary": "Xem是一款开源邮件营销工具，提供SMTP管理服务，帮助用户进行邮件营销活动。作为开源解决方案，它可能为元宝在邮件营销功能集成或自建邮件系统方面提供技术参考，尤其适合需要低成本邮件服务场景的产品经理。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pewcb-in-house-pcb-prototyping-machine": {
+    "title_clean": "PewCB：PCB设计桌面工厂工具",
+    "summary": "PewCB推出桌面PCB设计工厂工具，引入Vibe-routing技术，为PCB设计提供桌面化解决方案。这对产品经理了解AI辅助硬件设计工具的发展方向有参考价值，特别是AI在专业领域工具化应用的案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wzrd": {
+    "title_clean": "WZRD：AI对话式文档工具",
+    "summary": "WZRD是一款AI原生文档工具，支持文档、幻灯片、表单和电子表格的对话交互功能。产品经理可关注其如何将传统办公文档与AI对话能力结合，探索元宝在文档处理场景的AI交互可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/googlebook-4": {
+    "title_clean": "Googlebook：Android手机配套笔记本电脑",
+    "summary": "Googlebook是一款专为Android手机设计的笔记本电脑产品，实现了手机与电脑的无缝连接。该产品可能针对移动办公场景，为用户提供跨设备协同工作体验，对元宝产品经理在多设备AI助手协同方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/grok-4-7-8": {
+    "title_clean": "Grok 4.7：SpaceXAI 编程与知识工作模型",
+    "summary": "SpaceXAI 发布了 Grok 4.7，这是其针对编程和知识工作场景的最强大模型。作为 AI 助手类产品的竞品，其技术进展对元宝在代码辅助和专业知识处理领域的产品规划具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/keet-2": {
+    "title_clean": "Keet：视频课程创作平台",
+    "summary": "Keet是一个视频课程创作平台，用户可以在任何主题上创建和分享视频课程。该平台为内容创作者提供了工具来制作结构化的教学视频，可能对元宝的产品经理在知识分享和内容创作功能方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/planehq": {
+    "title_clean": "Plane Agents：AI任务分配协作工具",
+    "summary": "Plane Agents是一款AI协作工具，允许用户像对待团队成员一样将工作分配给AI代理执行。该产品解决了AI团队协作中的任务分配问题，为产品经理提供了AI工作流管理的新思路，特别是在多AI代理协同工作场景下的应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fulvid": {
+    "title_clean": "Fulvid：Markdown与MDX桌面编辑器",
+    "summary": "Fulvid是一款独立的桌面编辑器，专门用于Markdown和MDX文档的编辑。作为一款专注于文档处理工具的产品，它可能为元宝在文档编辑功能或Markdown支持方面提供竞品参考，特别是在内容创作场景下的工具选择。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/thestory-run": {
+    "title_clean": "thestory.run：企业影响者写作教练工具",
+    "summary": "thestory.run是一款面向企业影响者的写作教练工具，旨在帮助专业人士提升内容创作能力和影响力。该产品针对企业营销人员、高管等需要通过内容建立个人品牌的专业人士，提供写作指导和优化建议，对元宝在内容创作辅助和企业服务场景拓展方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/know-what-s-really-free-before-you-click": {
+    "title_clean": "ReallyFree：免费服务隐藏条款检测工具",
+    "summary": "ReallyFree是一款帮助用户在点击前识别免费服务中隐藏条款或限制的工具，旨在提高用户对免费服务真实成本的认知，对产品经理设计透明度高的服务模式有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again": {
+    "title_clean": "Nscale：AI数据中心开发商IPO",
+    "summary": "英国AI数据中心开发商Nscale即将IPO，其营收主要依赖微软和Anthropic两大科技巨头。此次IPO将再次测试华尔街对集中式AI投资的兴趣，对元宝产品经理评估AI服务商业化路径和合作伙伴策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/pagaya-closes-460-million-revolving-personal-loan-facility": {
+    "title_clean": "Pagaya：金融科技获4.6亿美元循环贷款",
+    "summary": "金融科技公司Pagaya完成4.6亿美元循环贷款融资，显示其正在多元化资金策略。这对AI金融产品经理有参考价值，展示了AI金融服务的融资能力和资金稳定性策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/ai-startup-heidi-doubles-valuation-to-900-million-in-new-round": {
+    "title_clean": "Heidi：AI医疗行政自动化工具",
+    "summary": "Heidi是一家AI医疗创业公司，帮助医生自动化临床笔记和其他行政工作，最新融资3.4亿美元，估值达9亿美元。这反映了AI在医疗行政自动化领域的快速增长需求，对元宝在垂直行业AI应用场景拓展有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/videoflow-studio": {
+    "title_clean": "VideoFlow Studio：AI视频生成工具",
+    "summary": "VideoFlow Studio是一款AI视频生成工具，用户输入网站URL即可获得高质量的视频预告片。该产品专注于为初创企业提供快速、专业的视频内容生成服务，有助于产品经理了解AI在营销内容创作领域的应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise": {
+    "title_clean": "Baselayer：AI代理身份验证工具",
+    "summary": "Baselayer是一家AI初创公司，帮助金融机构验证企业和评估欺诈风险，已完成M13领投的3500万美元A轮融资，计划将身份验证技术扩展至AI代理领域，为企业在使用AI代理时提供安全验证方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/anthropic-ceo-dario-amodei-to-brief-un-security-council-on-ai": {
+    "title_clean": "Anthropic CEO Dario Amodei 将向联合国安理会简报AI发展",
+    "summary": "Anthropic CEO Dario Amodei将与OpenAI CEO Sam Altman共同出席联合国安理会会议，就人工智能未来发展进行简报。这反映了AI安全与治理已成为全球高层关注焦点，对元宝产品经理了解行业监管趋势和AI安全标准具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-22/ai-shopping-bots-still-have-a-hard-time-telling-web-facts-from-fiction": {
+    "title_clean": "AI购物机器人仍难以辨别网络信息真伪",
+    "summary": "文章指出AI购物机器人在辨别网络信息真伪方面仍面临挑战，营销人员需要提供更准确的信息来改善AI工具的表现。这对元宝产品经理有参考价值，特别是在提升AI助手的信息筛选能力和准确性方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/doordash-to-pay-132-million-to-nyc-workers-over-missing-wages": {
+    "title_clean": "DoorDash因未支付最低工资向纽约市赔偿1.32亿美元",
+    "summary": "美国外卖平台DoorDash与纽约市达成和解协议，同意支付1.32亿美元以解决其外卖员最低工资合规调查。这一事件对平台经济中的劳工权益保障和合规管理具有重要参考价值，尤其对涉及零工经济模式的产品经理有警示意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-22/meta-s-muse-ai-assistant-makes-the-next-battle-of-the-bots-personal": {
+    "title_clean": "Meta's Muse：个性化AI助手",
+    "summary": "Meta推出最新个性化AI助手Muse，正赢得用户喜爱。这标志着Meta在AI助手领域的又一重要尝试，专注于提供个性化体验，可能对元宝的产品方向和竞品分析有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/meta-s-personal-agent-fuels-ai-optimism": {
+    "title_clean": "Meta推出个人AI助手提振市场信心",
+    "summary": "Meta新推出的个人AI助手取得初步成功，重新提振了市场对AI芯片需求的乐观情绪，推动全球AI股票上涨。这一进展表明大型科技公司正在积极布局AI助手领域，为行业注入新活力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/metas-muse-tries-and-fails-disrupt-amazon": {
+    "title_clean": "Meta's Muse：个人购物助手",
+    "summary": "Meta推出个人购物助手Muse，试图挑战亚马逊在电商领域的地位，但亚马逊已阻止Muse访问其购物网站。这反映了AI助手在电商服务场景中的竞争格局，以及大平台对AI服务接入的限制策略，对元宝在服务场景拓展和商业化方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vara-security": {
+    "title_clean": "CEO访谈：Vara Security",
+    "summary": "Vara Security CEO Inon Shalom Ohana接受CB Insights采访，分享了公司对市场的看法、客户需求以及自身定位。这为理解网络安全领域的市场格局和产品策略提供了参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/omlx": {
+    "title_clean": "Jun Kim 加入 Hugging Face 支持 MLX 社区",
+    "summary": "MLX 框架的创建者和维护者 Jun Kim 加入 Hugging Face，将专注于支持 MLX 机器学习社区的发展。这一合作可能增强 MLX 在 AI 开发者生态中的影响力，对元宝产品经理了解 AI 工具生态和开发者社区动态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/world-models-need-intelligence-says-luma-ceo-amit-jain": {
+    "title_clean": "Luma CEO Amit Jain：世界模型需要更多智能",
+    "summary": "Luma CEO Amit Jain指出，当前AI行业的进步主要基于语言模型，但今年备受关注的世界模型需要更多智能才能准确生成。这一观点对AI产品经理思考多模态与物理世界交互的技术路线有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-21/google-georgia-power-strike-deal-to-boost-nuclear-capacity": {
+    "title_clean": "Google与佐治亚电力达成协议增加核能发电容量",
+    "summary": "Google与佐治亚电力公司达成协议，资助两座核电站扩容，将增加约96兆瓦电力供应，以应对数据中心用电需求增长。这对元宝产品经理了解大型科技公司在能源领域的战略布局有参考价值，特别是AI服务对能源基础设施的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-pelagos": {
+    "title_clean": "Pelagos CEO访谈：市场定位与客户需求分析",
+    "summary": "Pelagos CEO Samuel Scriven接受CB Insights采访，分享公司市场定位、客户需求分析及业务布局。作为AI领域企业，其市场观点对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/0gMnhFvovw9783eWcaRLgA": {
+    "title_clean": "Jev：AI分类器工具向所有人开放，赠送1.2亿token",
+    "summary": "Jev是一款AI分类器工具，现已向所有用户开放，并赠送1.2亿token作为福利。这一开放策略可能影响AI分类服务市场的竞争格局，为产品经理评估AI工具的商业模式和用户获取策略提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete": {
+    "title_clean": "Tabby：AI实时记账助手",
+    "summary": "Tabby是一款实时记账界面，能够处理客户的文书工作，并提供企业实时盈亏数据。该产品由前会计师开发，旨在通过AI技术替代传统会计服务，为中小企业提供更高效的财务解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-forgevista": {
+    "title_clean": "ForgeVista CEO访谈：市场定位与客户需求分析",
+    "summary": "ForgeVista CEO Kyle M. Rasmussen接受CB Insights采访，分享公司对市场定位、客户需求的看法。作为企业服务领域CEO访谈，提供了行业视角和客户洞察，对元宝产品经理了解企业级AI服务市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+    "title_clean": "OpenAI成立数学与人工智能咨询小组",
+    "summary": "OpenAI正与独立数学与人工智能咨询小组合作，指导新兴AI成果的审查与沟通。此举表明OpenAI重视AI研究的专业指导与透明度，对产品经理了解AI巨头如何平衡创新与风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+    "title_clean": "OpenAI Academy：新增多角色AI学习路径",
+    "summary": "OpenAI Academy新增针对员工、开发者、领导者、教育者和学生的AI学习路径，旨在帮助用户构建和展示实用AI技能。这反映了OpenAI对AI人才培养体系的扩展，为元宝产品经理提供了AI教育市场布局和用户技能培养方向的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

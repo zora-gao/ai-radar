@@ -99557,5 +99557,244 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/hola-ai": {
+    "title_clean": "Hola AI：AI语音留言助手",
+    "summary": "Hola AI是一款AI语音留言助手，可在用户无法接听电话时自动接听并处理语音留言。该产品解决了用户错过重要电话的痛点，为AI助手在电话场景中的应用提供了新思路，对元宝产品经理探索AI语音交互和电话服务场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/quietglass": {
+    "title_clean": "QuietGlass：Mac屏幕隐私保护工具",
+    "summary": "QuietGlass是一款Mac屏幕隐私保护工具，可通过AirPods或其他方式实现屏幕内容隐私遮挡，帮助用户在公共场合保护屏幕信息不被旁人窥视。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/valori-systems-deleted-1168484": {
+    "title_clean": "Valori：AI确定性记忆层",
+    "summary": "Valori是一款为AI提供确定性记忆层的技术产品，旨在解决AI在记忆和一致性方面的挑战。这类技术对AI助手产品经理有重要参考价值，特别是在提升AI长期记忆能力和响应一致性方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/resumecontext": {
+    "title_clean": "ResumeContext：AI编程代理共享记忆工具",
+    "summary": "ResumeContext是一个为AI编程代理提供共享记忆功能的工具，使多个AI代理能够共享和访问编程上下文信息，提升协作效率和代码理解能力，对构建多代理协作系统有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jev-wrapped": {
+    "title_clean": "Jev Wrapped：Telegram频道广告与噱头检测工具",
+    "summary": "Jev Wrapped是一款分析工具，可检测Telegram频道中广告和噱头内容的比例，帮助用户识别信息质量。产品经理可参考此类内容检测功能，用于提升AI助手的信息筛选能力和内容可信度评估。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gg-friggin-ez": {
+    "title_clean": "gg-friggin-ez：快速低成本的脏话与毒性内容筛查工具",
+    "summary": "gg-friggin-ez 是一款由 Jev & Laya 开发的工具，提供快速且低成本的脏话和毒性内容筛查服务。对于需要内容审核功能的AI助手产品，该工具可作为第三方服务集成，帮助识别和处理不当内容，提升用户体验和内容安全。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/reeno": {
+    "title_clean": "Reeno：AI语言练习通话工具",
+    "summary": "Reeno是一款AI语言学习工具，通过随机电话呼叫用户帮助练习外语口语。产品通过真实对话场景提升语言应用能力，为AI语言学习服务提供了新的交互方式，对元宝在语言学习场景下的AI应用设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pixelcrew": {
+    "title_clean": "PixelCrew：AI代理设计工具",
+    "summary": "PixelCrew是一款由AI代理团队提供的设计工具，能够生产就绪的设计方案。该工具通过多个AI代理协作完成设计任务，为产品经理提供了AI在设计领域应用的新思路，展示了AI代理在创意工作流中的协作潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/2ba-ai": {
+    "title_clean": "2BA.AI：AI开发效率工具",
+    "summary": "2BA.AI是一款AI开发效率工具，旨在帮助开发者减少等待token的时间，提高产品迭代速度。该工具可能通过优化AI模型调用流程或提供更高效的开发环境，为AI产品经理提供提升开发效率的解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/prowler": {
+    "title_clean": "Prowler Cloud：AI云安全防护工具",
+    "summary": "Prowler Cloud是一款将AI代理转变为云安全防护工具的产品，能够帮助用户在云环境中进行安全监控和防护。对于元宝产品经理而言，这展示了AI代理在专业领域安全防护的应用场景，可能启发AI助手在特定行业垂直领域的安全功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/ai-cloud-startup-verda-raises-189-million-in-funding-round": {
+    "title_clean": "AI云创企Verda完成1.89亿美元融资",
+    "summary": "AI云基础设施公司Verda完成1.89亿美元融资，反映投资者对支撑AI热潮的基础设施持续看好。此轮资金将助力其扩展AI云服务能力，对元宝产品经理了解AI基础设施投资趋势和云服务市场格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clueso": {
+    "title_clean": "Clueso MCP：AI视频创作聊天工具",
+    "summary": "Clueso MCP是一款通过聊天方式创建和编辑视频的AI工具，用户可通过自然语言指令完成视频制作。该产品展示了AI在创意内容生成领域的应用，为元宝产品经理提供了AI助手在多媒体创作场景下的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/verisilicon-ceo-on-business-strategy-video": {
+    "title_clean": "VeriSilicon CEO谈商业战略",
+    "summary": "VeriSilicon CEO戴伟民讨论了这家上海上市芯片设计公司的业务和增长战略，计划向更多全球市场扩张。这对AI产品经理了解芯片行业商业策略和供应链布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba": {
+    "title_clean": "腾讯发布AI图像模型，对标字节跳动与阿里巴巴",
+    "summary": "腾讯在其竞争对手阿里巴巴召开AI会议的同一天，发布了最新且性能最佳的图像生成模型，表明其意图追赶行业领先者。这反映了腾讯在AI图像生成领域加速布局，与字节跳动和阿里巴巴形成直接竞争，对元宝产品经理了解国内AI巨头竞争态势和图像生成技术发展有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032": {
+    "title_clean": "阿里巴巴发布AI芯片以推动全球数据中心建设",
+    "summary": "阿里巴巴推出其称为中国最强大的AI芯片，这是一款与英伟达竞争的加速器，旨在支持未来几年数据中心容量的大规模扩张。这对元宝产品经理有参考价值，因为展示了科技巨头在AI基础设施领域的竞争态势，可能影响AI服务成本和可用性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/china-us-discuss-ai-investment-as-trade-talks-continue-video": {
+    "title_clean": "中美就AI与投资进行贸易谈判",
+    "summary": "中美官员在纽约进行贸易谈判，重点讨论人工智能、投资和贸易议题。此次谈判旨在推进两国领导人会晤前的准备工作，对AI领域的政策走向和国际合作具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/australian-state-bans-data-centers-from-residential-areas": {
+    "title_clean": "澳大利亚州禁止在居民区建设数据中心",
+    "summary": "澳大利亚最大州之一禁止在居民区建设数据中心，并要求必须自带可再生能源供应，这是系列规定的一部分。这一政策变化可能影响AI基础设施布局和能源成本，对元宝产品经理评估全球AI服务部署策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-aivance": {
+    "title_clean": "CEO访谈：AIVANCE",
+    "summary": "AIVANCE CEO Ayman Karim接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了AI创业公司对市场定位和客户需求的专业见解，对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/china-us-discuss-ai-investment-on-second-day-of-trade-talks": {
+    "title_clean": "中美贸易会谈：讨论AI与投资议题",
+    "summary": "中美官员在纽约进行第二轮贸易会谈，重点讨论人工智能、投资和贸易议题，寻求推进谈判进程。这一对话可能影响两国AI政策走向和跨境投资环境，对元宝产品经理了解国际AI监管趋势和市场准入机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

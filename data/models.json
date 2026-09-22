@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T01:43:48.500Z",
+  "generated_at": "2026-09-22T08:26:23.487Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -194,8 +194,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.559,
-      "price_out": 1.676,
+      "price_in": 0.624,
+      "price_out": 2.88,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -520,6 +520,30 @@
       "description_zh": "Mercury 2.5 是最快的推理法学硕士，也是 Inception 最新的扩散法学硕士 (dLLM)。 Mercury 2.5 不是按顺序生成代币，而是并行生成和提炼多个代币，从而实现..."
     },
     {
+      "id": "nex-agi/nex-n2.5-mini",
+      "name": "Nex-N2.5-Mini",
+      "vendor": "Nex Agi",
+      "vendor_slug": "nex-agi",
+      "url": "https://openrouter.ai/nex-agi/nex-n2.5-mini-20260908",
+      "created_at": "2026-09-08T17:54:21Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.025,
+      "price_out": 0.1,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
+      "description_zh": null
+    },
+    {
       "id": "nex-agi/nex-n2.5-mini:free",
       "name": "Nex-N2.5-Mini (free)",
       "vendor": "Nex Agi",
@@ -538,6 +562,30 @@
       "price_in": 0,
       "price_out": 0,
       "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
+      "description_zh": null
+    },
+    {
+      "id": "nex-agi/nex-n2.5-pro",
+      "name": "Nex-N2.5-Pro",
+      "vendor": "Nex Agi",
+      "vendor_slug": "nex-agi",
+      "url": "https://openrouter.ai/nex-agi/nex-n2.5-pro-20260907",
+      "created_at": "2026-09-08T17:54:10Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.075,
+      "price_out": 0.25,
+      "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
@@ -1201,8 +1249,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.7,
-      "price_out": 2.2,
+      "price_in": 0.655,
+      "price_out": 2.057,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1247,8 +1295,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.7,
-      "price_out": 2.2,
+      "price_in": 0.84,
+      "price_out": 2.64,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1430,54 +1478,6 @@
       "supports_reasoning": true,
       "description": "Seed 2.1 Turbo is a multimodal model from ByteDance Seed for coding and long-horizon agent workflows. It is suited for end-to-end software delivery, multi-step task execution, and understanding visual and...",
       "description_zh": "Seed 2.1 Turbo 是字节跳动 Seed 的多模式模型，用于编码和长期代理工作流程。它适用于端到端软件交付、多步骤任务执行以及理解视觉和..."
-    },
-    {
-      "id": "qwen/qwen3.8-2.4t-a95b",
-      "name": "Qwen3.8 2.4T A95B",
-      "vendor": "Qwen",
-      "vendor_slug": "qwen",
-      "url": "https://openrouter.ai/qwen/qwen3.8-2.4t-a95b-20260812",
-      "created_at": "2026-08-12T16:21:42Z",
-      "context_length": 1048576,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Qwen3.8 2.4T A95B is an open-weight sparse mixture-of-experts model from Qwen and the open-weight variant of Qwen3.8 Max, with 95 billion active parameters out of 2.4 trillion total. It is...",
-      "description_zh": "Qwen3.8 2.4T A95B 是 Qwen 和 Qwen3.8 Max 的开放权重变体的开放权重稀疏专家混合模型，共有 2.4 万亿个活动参数，其中包含 950 亿个活动参数。这是..."
-    },
-    {
-      "id": "bytedance-seed/seed-2.0-code",
-      "name": "Seed-2.0-Code",
-      "vendor": "Bytedance Seed",
-      "vendor_slug": "bytedance-seed",
-      "url": "https://openrouter.ai/bytedance-seed/seed-2.0-code-20260730",
-      "created_at": "2026-08-12T16:05:01Z",
-      "context_length": 262144,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.5,
-      "price_out": 3,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Seed 2.0 Code is a model from ByteDance Seed optimized for agentic coding. It is suited for frontend development, multilingual programming tasks, and coding-agent workflows in tools such as Claude...",
-      "description_zh": "Seed 2.0 Code 是字节跳动 Seed 针对代理编码进行优化的模型。它适用于前端开发、多语言编程任务以及 Claude 等工具中的编码代理工作流程..."
     }
   ]
 }

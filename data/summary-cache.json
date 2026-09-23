@@ -101423,5 +101423,226 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/data-center-bet-makes-esds-one-of-india-s-best-new-listings": {
+    "title_clean": "ESDS：印度数据中心与AI投资新宠",
+    "summary": "ESDS成为印度数据中心和AI领域备受瞩目的新上市公司，投资者正积极寻找下一个类似投资机会。这反映了印度市场对数据中心和AI基础设施的强劲需求，对元宝产品经理了解全球AI基础设施投资趋势和区域市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push": {
+    "title_clean": "软银启动大规模高收益债券销售以资助AI战略",
+    "summary": "软银集团启动了可能是史上规模最大的企业高收益债券销售之一，旨在通过债务融资来资助其大规模AI投资。这一动向表明软银正积极筹集资金以加速在AI领域的布局，对元宝产品经理了解科技巨头在AI领域的资金投入战略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ai-un-xi-trump": {
+    "title_clean": "AI, the UN, Xi and Trump：全球领导人AI政策动向",
+    "summary": "本周联合国大会期间，多国领导人齐聚纽约讨论AI政策，包括中国领导人习近平和美国前总统特朗普等。这反映了AI已成为全球政治议程的重要议题，对元宝产品经理了解各国AI监管方向和国际合作机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/yPi_DeKlQaYpOhY1Wwga4w": {
+    "title_clean": "中国公司实现非侵入穿颅读脑技术突破",
+    "summary": "一家中国公司实现了全球唯一的非侵入式穿颅读脑技术突破，目标是成为脑科学领域的'英伟达'。这项技术可能为脑机接口、医疗诊断和神经科学研究带来革命性变化，对元宝产品经理在AI与脑科学交叉领域的产品布局具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4": {
+    "title_clean": "TechCrunch 创始人峰会议程揭晓：聚焦融资、招聘与AI洞察",
+    "summary": "TechCrunch 创始人峰会将于11月4日在波士顿举办，议程涵盖融资策略、人才招聘及AI行业洞察等内容，旨在帮助初创企业创始人应对创业挑战，把握行业机遇。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/us-rebukes-australia-for-plan-to-target-social-media-algorithms": {
+    "title_clean": "美国批评澳大利亚针对社交媒体算法的计划",
+    "summary": "美国政府批评澳大利亚计划加强对社交媒体算法和有害内容的监管，这是澳大利亚在加强对大型科技公司监管方面开辟的新政治战线。这一动态对元宝产品经理有参考价值，因为社交媒体算法监管变化可能影响AI助手的内容推荐策略和合规要求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/whole-foods-ceo-customers-are-making-more-trips-video": {
+    "title_clean": "Whole Foods CEO：顾客购物频次增加",
+    "summary": "Whole Foods CEO Jason Buechel在接受Bloomberg采访时表示，在成本上升的背景下，顾客正在改变购物习惯，增加了购物频次。这一信息对了解零售行业消费趋势和消费者行为变化有参考价值，可作为元宝在购物服务场景方面的市场洞察。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-releases-cheaper-model-first-launch-since-slowdown-calls": {
+    "title_clean": "Anthropic发布更便宜的Claude Opus 5.5模型",
+    "summary": "Anthropic发布了最新模型Claude Opus 5.5，声称其在多个领域表现优于或等同于此前最强大的Fable 5.1和Mythos 5.1模型，同时价格更低。这对产品经理了解AI大厂模型迭代策略和性价比竞争有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-mgt-insurance": {
+    "title_clean": "MGT Insurance CEO访谈：保险市场洞察与客户需求分析",
+    "summary": "MGT Insurance首席执行官Graham Topol接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。该访谈为保险行业的产品经理提供了市场定位和客户洞察的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-avallon-ai": {
+    "title_clean": "Executive Interview: Avallon AI：AI公司高管访谈",
+    "summary": "Avallon AI首席运营官Bryan Guin接受CB Insights采访，分享公司对市场定位、客户需求的看法。这对元宝产品经理了解AI行业高管的市场洞察和战略方向有参考价值，有助于把握行业趋势和用户需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-da2": {
+    "title_clean": "DA2 CEO访谈：市场定位与客户需求",
+    "summary": "DA2首席执行官Thiago Fernandes接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。这对元宝产品经理了解AI服务企业的市场策略和客户洞察有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/ari-emanuel-dishes-on-hollywood-feuds-paramount-merger-and-elon-musk-friendship": {
+    "title_clean": "Ari Emanuel：好莱坞媒体大亨谈并购与名人关系",
+    "summary": "媒体大亨Ari Emanuel在其新回忆录中分享了好莱坞争斗、派拉蒙并购以及与埃隆·马斯克的友谊等话题，为理解媒体行业动态和名人关系网络提供了高管视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop": {
+    "title_clean": "Apple开发新型健身追踪器，对标Whoop产品",
+    "summary": "苹果公司正在开发一款无屏幕健康健身追踪器，类似于Whoop公司的腕戴设备，这是其重新设计智能手表产品线并增加可穿戴技术的一部分。该产品可能对元宝在健康监测领域的功能拓展提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-binary-world": {
+    "title_clean": "Binary World CEO访谈：市场定位与客户需求分析",
+    "summary": "Binary World CEO Farrukh Furqan Elahi接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。该访谈提供了企业级AI服务提供商的市场洞察，对元宝产品经理了解企业AI服务市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-09-22/beats-announces-350-beats-360-headphones-with-lightweight-customizable-design": {
+    "title_clean": "Beats 360：轻量化可定制防水耳机",
+    "summary": "Beats推出350美元的Beats 360耳机，品牌首款支持防水防汗的头戴式耳机，采用轻量化可定制设计。对产品经理参考价值有限，属于传统音频设备更新，与AI助手/Agent/服务场景无直接关联。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/data-center-firm-accelevation-backer-seek-720-million-in-ipo": {
+    "title_clean": "Accelevation：数据中心基础设施公司寻求7.2亿美元IPO",
+    "summary": "数据中心基础设施公司Accelevation及其支持方Olympus Partners计划通过美国首次公开募股筹集高达7.2亿美元资金。这反映了数据中心基础设施领域的投资活跃度，对元宝产品经理了解AI基础设施服务提供商的资本动态和行业趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/softbank-draws-over-20-billion-of-early-interest-in-junk-bond": {
+    "title_clean": "软银吸引超200亿美元垃圾债券早期认购",
+    "summary": "软银集团正筹备史上最大规模垃圾债券发行之一，已吸引超过200亿美元的初步认购需求，显示投资者对该公司融资计划的强烈兴趣。这一巨额融资动向可能影响软银在AI领域的投资策略和竞争格局，对元宝产品经理评估科技巨头资金动向和行业竞争态势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/australia-bets-on-ai-to-spur-economic-growth-for-decades-video": {
+    "title_clean": "澳大利亚押注AI推动数十年经济增长",
+    "summary": "澳大利亚政府将AI视为未来40年经济增长的关键驱动力，财政部代际报告显示AI技术有望帮助实现长期劳动生产率目标。这一政策动向表明AI已被提升至国家战略层面，对元宝产品经理了解AI在国家经济规划中的定位具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

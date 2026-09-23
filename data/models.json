@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-09-23T10:17:27.527Z",
+  "generated_at": "2026-09-23T15:51:17.430Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "aion-labs/aion-3.5-mini",
+      "name": "Aion 3.5 Mini",
+      "vendor": "Aion Labs",
+      "vendor_slug": "aion-labs",
+      "url": "https://openrouter.ai/aion-labs/aion-3.5-mini-20260923",
+      "created_at": "2026-09-23T13:42:42Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.7,
+      "price_out": 1.4,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Aion 3.5 Mini is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It is the smaller, lower-cost sibling of Aion 3.5 and uses...",
+      "description_zh": null
+    },
+    {
+      "id": "aion-labs/aion-3.5",
+      "name": "Aion 3.5",
+      "vendor": "Aion Labs",
+      "vendor_slug": "aion-labs",
+      "url": "https://openrouter.ai/aion-labs/aion-3.5-20260923",
+      "created_at": "2026-09-23T13:42:41Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 3,
+      "price_out": 6,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Aion 3.5 is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It uses a collaborative generation process in which multiple specialized models each...",
+      "description_zh": null
+    },
+    {
+      "id": "upstage/solar-mini4",
+      "name": "Solar Mini 4",
+      "vendor": "Upstage",
+      "vendor_slug": "upstage",
+      "url": "https://openrouter.ai/upstage/solar-mini4-20260922",
+      "created_at": "2026-09-23T10:45:58Z",
+      "context_length": 524288,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.05,
+      "price_out": 0.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Solar Mini 4 is Upstage's compact, cost-efficient language model, a 35B-parameter mixture-of-experts with 3B active parameters and a 524K context window. It is built for agentic use cases where response...",
+      "description_zh": null
+    },
     {
       "id": "cohere/command-a-plus",
       "name": "Command A+",
@@ -495,7 +564,7 @@
         "text"
       ],
       "price_in": 0.4,
-      "price_out": 4.3,
+      "price_out": 1.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -788,8 +857,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.1,
+      "price_out": 0.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1411,82 +1480,6 @@
       "supports_reasoning": true,
       "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-context behavior while...",
       "description_zh": "GLM-5.3-Flash 是 Z.ai 的原生多模式模型。它适合高效编码和长期代理任务。其混合稀疏和线性注意架构保持准确的长上下文行为，同时......"
-    },
-    {
-      "id": "z-ai/glm-5.3-flash:batch",
-      "name": "GLM 5.3 Flash (batch)",
-      "vendor": "Zhipu AI",
-      "vendor_slug": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-flash-20260826",
-      "created_at": "2026-08-26T13:59:01Z",
-      "context_length": 1048576,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.06,
-      "price_out": 0.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-context behavior while...",
-      "description_zh": "GLM-5.3-Flash 是 Z.ai 的原生多模式模型。它适合高效编码和长期代理任务。其混合稀疏和线性注意架构保持准确的长上下文行为，同时......"
-    },
-    {
-      "id": "meta/muse-spark-1.2-contributor",
-      "name": "Muse Spark 1.2 Contributor",
-      "vendor": "Meta",
-      "vendor_slug": "meta",
-      "url": "https://openrouter.ai/meta/muse-spark-1.2-contributor-20260805",
-      "created_at": "2026-08-21T18:21:16Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.1,
-      "price_out": 0.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Muse Spark 1.2 contributor tier is a reasoning model from Meta designed for developers who want to start building at an even lower cost. It’s meaningfully cheaper than Muse Spark...",
-      "description_zh": "Muse Spark 1.2 贡献者层是 Meta 的推理模型，专为希望以更低的成本开始构建的开发人员而设计。它比 Muse Spark 便宜得多......"
-    },
-    {
-      "id": "deepseek/deepseek-v4-flash-vision-exp",
-      "name": "DeepSeek V4 Flash Vision Exp",
-      "vendor": "DeepSeek",
-      "vendor_slug": "deepseek",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp-20260821",
-      "created_at": "2026-08-21T11:26:03Z",
-      "context_length": 1048576,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.22,
-      "price_out": 0.66,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "DeepSeek V4 Flash Vision Exp is an experimental vision-enabled version of DeepSeek V4 Flash 0731 from DeepSeek, adding image understanding while matching the base model on text capabilities including agents,...",
-      "description_zh": "DeepSeek V4 Flash Vision Exp 是来自 DeepSeek 的 DeepSeek V4 Flash 0731 的实验性视觉版本，增加了图像理解，同时匹配文本功能的基本模型，包括代理、..."
     }
   ]
 }

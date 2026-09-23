@@ -101644,5 +101644,251 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/speechka": {
+    "title_clean": "Speechka：实时语音翻译工具",
+    "summary": "Speechka提供实时语音翻译服务，能够保留用户原始声音特征，使翻译后的语音听起来像是用户本人所说。这项技术对于需要跨语言交流的场景具有实用价值，特别是对元宝产品经理探索语音交互和多语言服务场景有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jev-state": {
+    "title_clean": "Jev State：AI对话转测试与代码工具",
+    "summary": "Jev State是一款将AI对话转化为测试用例和可运行代码的工具，帮助开发者从AI交互中提取可执行代码，提高开发效率。这对元宝产品经理有参考价值，展示了AI辅助编程的新场景，可能启发元宝在代码生成与测试自动化方面的功能拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tonebird": {
+    "title_clean": "ToneBird：AI关系记忆回复助手",
+    "summary": "ToneBird是一款AI回复助手，能够记住用户的人际关系，提供个性化的回复建议。这款产品针对社交场景中的沟通痛点，通过记忆用户关系网络来优化回复内容，对元宝产品经理在AI助手个性化服务和关系记忆功能开发方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lightmeter-2": {
+    "title_clean": "Lightmeter：胶片相机日常拍摄工具",
+    "summary": "Lightmeter是一款专为日常拍摄设计的胶片相机，专注于捕捉生活中的普通时刻。这款产品可能为AI助手在图像处理、摄影场景应用或怀旧体验设计方面提供参考价值，特别是对于如何将传统摄影与现代技术结合的思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/codespotlight": {
+    "title_clean": "CodeSpotlight：代码高亮与标记工具",
+    "summary": "CodeSpotlight是一款代码高亮工具，旨在帮助开发者标记和突出显示代码中的重要部分，使关键代码片段更易于被团队成员发现和理解，提高代码审查和协作效率。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/linguo-translate-for-macos": {
+    "title_clean": "Linguo Translate：macOS离线与AI翻译工具",
+    "summary": "Linguo Translate是一款专为macOS设计的翻译工具，提供离线与AI翻译功能。产品经理可关注其离线翻译技术实现与AI翻译在桌面端的用户体验设计，为元宝的跨平台翻译功能提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/how-lectric-wants-to-fuel-the-ebike-industry-video": {
+    "title_clean": "Lectric eBikes：电动自行车营销策略",
+    "summary": "Lectric eBike联合创始人分享如何通过营销策略推动新兴技术进入主流市场，重点聚焦于用户采用和信任建立。这对产品经理了解新兴科技产品的市场推广策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/greece-s-richest-shipping-magnate-rides-ai-boom-with-nvidia-bet": {
+    "title_clean": "希腊首富航运大亨通过英伟达押注AI热潮",
+    "summary": "希腊最大航运财富背后的女富豪Maria Angelicoussis通过家族办公室投资英伟达，在航运主业之外获得显著收益。这反映了传统行业巨头对AI技术的战略布局，展示了AI投资的高回报潜力，对元宝产品经理评估AI商业化路径和投资策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/airtel-money-london-ipo-favored-due-to-deep-capital-ceo-video": {
+    "title_clean": "Airtel Money伦敦IPO获资本青睐：CEO谈融资优势",
+    "summary": "印度电信巨头Airtel的数字支付平台Airtel Money计划在伦敦进行首次公开募股，CEO表示该IPO受到资本市场的深度青睐。这反映了数字支付领域的投资热度，对元宝产品经理了解金融科技融资趋势和支付平台国际化战略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/lottomatica-ceo-sees-ai-driving-online-growth-in-cirsa-deal": {
+    "title_clean": "Lottomatica：AI助力博彩业务在线增长",
+    "summary": "Lottomatica集团计划将其自研的博彩技术和人工智能工具应用于西班牙竞争对手Cirsa Enterprises，以加速其在线业务增长。此次收购反映了AI技术在博彩行业在线化转型中的关键作用，为元宝在垂直领域AI应用提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai": {
+    "title_clean": "希腊总理坦言各国政府尚未为AI变革做好准备",
+    "summary": "希腊总理在贸易访问中坦言，各国政府尚未为即将到来的AI变革做好准备，反映了政府层面在应对AI快速发展方面的滞后性。这对产品经理了解AI政策环境与政府合作机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/heidi-ceo-on-ai-in-healthcare-900m-valuation-video": {
+    "title_clean": "Heidi：AI医疗健康助手",
+    "summary": "澳大利亚AI医疗健康公司Heidi完成1亿美元融资，估值达9亿美元。CEO Thomas Kelly讨论了公司在AI医疗领域的应用和最新发展，为AI助手在垂直领域的商业化提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/philippines-ayala-to-cut-debt-after-700-million-mitsubishi-deal": {
+    "title_clean": "菲律宾Ayala公司完成7.61亿美元交易后将削减债务",
+    "summary": "菲律宾Ayala公司计划利用从三菱公司获得的7亿美元投资削减债务、回购低估股票并资助增长，以提高投资者回报。这一交易反映了企业通过战略投资优化财务结构的趋势，对AI产品经理在考虑企业服务场景和商业化策略方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/bofa-s-irigoyen-on-fed-policy-inflation-video": {
+    "title_clean": "BofA经济学家谈美联储政策与通胀前景",
+    "summary": "美国银行全球经济学研究主管Claudio Irigoyen在彭博社节目中讨论了美联储的利率路径和美国通胀前景。作为金融机构首席经济学家对货币政策的分析，对理解宏观经济环境对AI产品商业化策略的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/meta-spf-scam-efforts": {
+    "title_clean": "Meta与新加坡警方合作处理370万违规账户和内容",
+    "summary": "Meta与新加坡警方合作，处理了370万个违规账户、页面和内容，包括虚假股票推荐、假冒奢侈品品牌诈骗等欺诈行为。这反映了社交平台在打击网络诈骗方面的合作模式，对元宝产品经理在内容安全和反欺诈机制设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/coreweave-completes-4-2-billion-convertible-offering": {
+    "title_clean": "CoreWeave完成42亿美元可转换债券融资",
+    "summary": "AI云服务提供商CoreWeave完成42亿美元可转换债券融资，超出其上周最初目标金额。这表明AI基础设施领域获得大规模资本支持，对元宝产品经理了解AI云服务市场资本动向和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/qualcomm-cfo-on-snapdragon-and-two-new-mobile-platforms-video": {
+    "title_clean": "Qualcomm发布两款新旗舰移动平台",
+    "summary": "高通在Snapdragon Summit峰会上推出两款新旗舰移动平台，公司股价上涨2%。CFO Akash Palkhiwala表示，该活动专注于将高通技术融入人类生活，对AI助手硬件支持具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/sb-energy-plans-to-start-ipo-marketing-after-sec-review-finished": {
+    "title_clean": "SB Energy计划完成SEC审查后启动IPO营销",
+    "summary": "软银集团支持的能源公司SB Energy在建设数据中心的同时，计划在美国监管机构审查完成后正式启动首次公开募股(IPO)营销。这反映了AI基础设施领域的重要投资动向，对元宝产品经理了解AI服务提供商的资本运作和战略布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-22/india-dixon-sunil-vachani-growth-smartphones-electronics-laptop-ems": {
+    "title_clean": "Dixon Technologies：印度电子制造商拓展全球业务",
+    "summary": "Dixon Technologies作为印度领先的智能手机组装厂商，正计划拓展业务范围，挑战全球电子制造领导者，以推动公司进入下一阶段的扩张。这一战略转变对元宝产品经理了解新兴市场电子制造商的全球化战略和业务多元化方向具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30": {
+    "title_clean": "TechCrunch Disrupt 2026：初创企业参展最后机会",
+    "summary": "TechCrunch Disrupt 2026 展商计划重新开放一周，初创企业可在9月30日前预订展位，面向1万多名创始人、投资者和科技领袖展示产品。这对元宝产品经理了解行业展会营销机会和潜在合作伙伴有价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

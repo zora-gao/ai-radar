@@ -102265,7 +102265,7 @@
   },
   "https://www.bloomberg.com/news/videos/2026-09-22/meta-s-new-muse-ai-app-makes-shopping-easier-singh-says-video": {
     "title_clean": "Meta 推出 Muse AI 购物助手",
-    "summary": "Meta 发布了名为 Muse 的 AI 购物助手，据 Bloomberg Intelligence 技术研究主管 Mandeep Singh 评价，该应用能帮助用户轻松找到折扣代码，提升购物体验。这对元宝产品经理在 AI 购物助手和促销优惠场景设计上有参考价值。",
+    "summary": "Meta 发布了名为 Muse 的新 AI 购物助手，据 Bloomberg Intelligence 技术研究主管 Mandeep Singh 评价，该应用能帮助用户轻松找到折扣代码，简化购物流程，为电商场景下的 AI 助手应用提供了新思路。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -102286,6 +102286,443 @@
       "AI助手",
       "商业化",
       "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/solid-3": {
+    "title_clean": "Solid：AI Agent独立计算与预算管理工具",
+    "summary": "Solid为AI Agent提供独立的计算机、账户和预算管理系统，使AI助手能够自主管理资源并进行独立操作，为元宝产品经理在AI Agent自主能力设计方面提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/koreshield": {
+    "title_clean": "Koreshield：AI助手安全与证据保障工具",
+    "summary": "Koreshield为AI支持代理提供安全性和证据保障，可能涉及AI交互的安全验证、数据保护和操作审计功能，对元宝产品经理在AI助手安全合规方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/microsoft-president-backs-deployment-of-ai-safety-evaluators": {
+    "title_clean": "Microsoft总裁支持部署AI安全评估人员",
+    "summary": "微软总裁Brad Smith表示公司支持使用独立评估人员对人工智能进行安全评估。这一表态反映了微软对AI安全治理的重视，对元宝产品经理在AI安全机制设计方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/former-lone-pine-capital-director-launches-500-million-plus-tech-fund": {
+    "title_clean": "前Lone Pine Capital董事 launching 5亿美元科技基金",
+    "summary": "前Lone Pine Capital董事Kevin Salimian成立新公司，已获得超过5亿美元的承诺资本。这反映了科技领域投资活跃度，可能对AI初创企业融资环境产生影响，对产品经理了解行业资本动向和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion": {
+    "title_clean": "Google Beam：AI办公协作服务扩展至新国家",
+    "summary": "Google Beam扩展服务至五个新国家，并与Industrious建立合作关系，扩大其办公协作网络。这一扩展表明Google正在加强其在AI办公协作领域的市场覆盖和生态建设，对元宝产品经理在服务场景拓展和生态合作方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dub": {
+    "title_clean": "Dub Program Marketplace：SaaS联盟计划市场平台",
+    "summary": "Dub推出联盟计划市场平台，用户可浏览并申请优质的SaaS联盟营销项目。这为元宝产品经理提供了AI产品商业化新思路，特别是通过联盟合作拓展收入渠道和生态伙伴关系。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/open-interest-9-23-2026-video": {
+    "title_clean": "Meta AI 技术突破与摩根士丹利交易泄露事件",
+    "summary": "Meta AI 在技术竞赛中取得突破，同时摩根士丹利发生机密交易泄露事件。这两则信息对AI产品经理有参考价值，前者反映Meta在AI领域的最新进展，后者则警示企业数据安全风险，特别是对处理敏感信息的AI系统。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amazon-gives-sellers-12-months-ai-software-quick-free": {
+    "title_clean": "Amazon：为卖家提供12个月免费AI助手Quick Plus",
+    "summary": "Amazon在年度卖家大会上宣布，将为平台商家提供12个月的免费AI助手Quick Plus服务。该工具基于AWS技术，旨在帮助卖家提升工作效率，是电商领域AI应用的重要案例，对元宝在电商场景下的AI服务布局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/amazon-sustainability-chief-on-community-impact-video": {
+    "title_clean": "亚马逊首席可持续发展官谈社区影响",
+    "summary": "亚马逊首席可持续发展官Kara Hurst在Bloomberg Green New York 2026上讨论了灾难救援、水资源管理和社区影响等议题。这反映了大型科技企业在社会责任方面的战略布局，对元宝产品经理了解企业级AI服务的社会责任应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/if-the-us-slows-down-on-ai-china-wins-says-ives-video": {
+    "title_clean": "中美AI竞争：若美国放缓发展，中国将获得优势",
+    "summary": "中美领导人会晤讨论贸易、台湾等议题，双方均认为不能在AI领域放缓发展。分析师Dan Ives指出，美国若在AI发展上减速，中国将获得竞争优势，凸显了AI技术竞争的地缘政治重要性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/microsoft-pledges-to-spend-additional-2-billion-in-gulf-region": {
+    "title_clean": "微软承诺在中东地区额外投资20亿美元",
+    "summary": "微软宣布在中东地区额外投资约20亿美元，这是自美国与伊朗冲突爆发以来首次对该地区业务做出重大更新。这笔投资反映了微软对中东市场的战略重视，可能影响区域AI基础设施建设和云服务竞争格局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/two-years-of-openai-academy": {
+    "title_clean": "OpenAI Academy：AI技能社区培训项目",
+    "summary": "OpenAI Academy成立两周年，致力于将AI技能推广至更多社区。该项目通过培训和教育，帮助更多人获取AI知识，对元宝产品经理了解AI教育服务场景和社区拓展策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/anthropic-unveils-cheaper-claude-opus-5-5-ahead-of-ipo-video": {
+    "title_clean": "Anthropic发布更便宜的Claude Opus 5.5模型，预计IPO前推出",
+    "summary": "Anthropic发布Claude Opus 5.5模型，性能与Fable 5.1相当但速度更快、成本更低。此举发生在公司预计IPO之前，可能影响AI助手市场竞争格局和定价策略，对元宝产品经理有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features": {
+    "title_clean": "YouTube Music：新增AI对话式音乐搜索功能",
+    "summary": "YouTube Music在应用内新增Ask Music功能，允许用户用日常语言描述想要听的音乐，而非搜索特定歌曲或艺术家。这一AI功能提升了音乐发现体验，对元宝在AI助手与音乐场景结合方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/why-ai-safety-could-decide-future-elections-video": {
+    "title_clean": "AI安全可能决定未来选举结果",
+    "summary": "Just Capital CEO分析美国民众对AI安全的真实态度，87%的人希望加强AI安全规则，AI正成为关键投票议题，信任与公平性将成为选举中的核心因素。这对元宝产品经理了解AI安全的社会影响和潜在监管趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-voltaire": {
+    "title_clean": "Executive Interview: Voltaire",
+    "summary": "Voltaire首席营收官Mitchel Forney接受CB Insights采访，分享公司市场定位、客户需求认知及业务策略。作为AI领域企业，其市场观点对元宝产品经理了解行业竞争格局和客户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/pg-e-ceo-warns-california-on-wildfire-liability-crisis-video": {
+    "title_clean": "PG&E CEO警告加州面临野火责任危机",
+    "summary": "PG&E CEO帕蒂·波普警告称，若不迅速改革野火责任制度，加州将面临住房增长放缓、清洁能源和AI电力发展延迟以及长期成本上升的问题。这对了解AI基础设施面临的现实挑战和能源政策对AI发展的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-pathwork": {
+    "title_clean": "Pathwork CEO访谈：医疗AI市场定位与客户需求",
+    "summary": "Pathwork CEO Ian Levinsky接受CB Insights采访，分享公司对医疗AI市场的理解、客户需求分析以及自身在行业中的定位。这对元宝产品经理了解垂直领域AI产品的市场策略和客户洞察有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-sureify": {
+    "title_clean": "Executive Interview: Sureify：保险科技解决方案访谈",
+    "summary": "Sureify解决方案咨询负责人Travis Van Dyke接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及保险科技领域的业务策略。对元宝产品经理了解垂直行业AI应用场景和客户需求分析有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital": {
+    "title_clean": "StrictlyVC：AI改变风险投资规则",
+    "summary": "StrictlyVC将在TechCrunch Disrupt 2026大会上探讨AI如何改变风险投资格局，提供投资者参与机会。此资讯对元宝产品经理了解AI对投资领域的影响及潜在商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/founders-fund-khosla-ventures-visit-china-countrys-ai-prowess-rises": {
+    "title_clean": "Founders Fund、Khosla Ventures访华：中国AI实力崛起引发风投关注",
+    "summary": "美国顶级风投机构Founders Fund和Khosla Ventures近期访华，尽管近年来中美关系紧张导致对华投资减少，但中国AI领域的崛起仍吸引了这些风投机构深入考察，这可能预示着中国AI市场的新机遇和潜在合作可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-federato": {
+    "title_clean": "Executive Interview: Federato",
+    "summary": "Federato副总裁Jordan Sher接受CB Insights采访，分享公司对市场的看法、客户需求以及公司定位。作为一家企业营销解决方案提供商，其观点对理解企业级AI营销服务市场趋势和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-elysian": {
+    "title_clean": "Executive Interview: Elysian：AI公司创始人谈市场定位与客户需求",
+    "summary": "Elysian公司创始工程师Dylan Hanson接受CB Insights采访，分享了对市场定义、客户需求的理解以及公司定位。这为元宝产品经理提供了AI创业公司如何看待市场机会和用户需求的视角，有助于竞品分析和市场策略制定。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services": {
+    "title_clean": "Ema获7700万美元融资，AI开始蚕食企业软件服务市场",
+    "summary": "Ema累计融资已达1.4亿美元，拥有包括谷歌和微软在内的50多家企业客户。这表明AI正在进入传统企业软件服务领域，可能对元宝的企业服务方向提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/ringg": {
+    "title_clean": "Ringg：基于OpenAI的AI客户服务代理工具",
+    "summary": "Ringg利用GPT-5.6技术，通过语音、聊天、WhatsApp和网页等多渠道提供多语言AI客户服务代理，能够解决高达65%的客户咨询，相比GPT-4.1成本降低90%。这对元宝产品经理在AI客服场景和成本优化方面具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/invideo-builds-with-gpt-6-astra": {
+    "title_clean": "invideo：GPT-6 Astra提升视频调色效率3倍",
+    "summary": "invideo利用GPT-6 Astra技术，显著提升了视频编辑的精确度，将色彩校正和调色效率提高3倍，并能在一天内生成50种自定义特效。这对AI视频处理工具的产品经理具有参考价值，展示了大模型在专业内容创作领域的应用潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-23/ai-data-center-debt-offers-investors-huge-yields-and-new-risks": {
+    "title_clean": "软银发行高收益AI数据中心债券：近10%收益率与风险并存",
+    "summary": "软银发行收益率近10%的AI数据中心债券，为投资者提供高收益机会，同时也带来新的风险。这一融资动向反映了AI基础设施建设的资金需求旺盛，对元宝产品经理了解AI行业资本动向和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/pluto-tv-revamps-brand-with-new-ad-blitz-nostalgic-slate-tech-upgrades": {
+    "title_clean": "Pluto TV：免费流媒体平台品牌重塑",
+    "summary": "Pluto TV在David Ellison领导下进行品牌重塑，推出新广告攻势、怀旧内容阵容和技术升级，旨在重新吸引预算敏感型消费者。这对元宝产品经理了解免费广告支持流媒体平台的竞争策略和用户获取方式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/ai-data-centers-have-a-heat-problem-video": {
+    "title_clean": "AI数据中心面临散热挑战",
+    "summary": "美国数据中心将大量电能转化为废热，导致周边社区温度升高。随着AI热潮推动电力需求增长，成本和有限激励措施延缓了散热解决方案的采用，这对AI基础设施扩张构成潜在瓶颈。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/nvidia-backed-ai-startup-seeks-10-billion-before-australian-ipo": {
+    "title_clean": "Nvidia支持的AI创业公司寻求100亿美元融资，计划在澳大利亚IPO",
+    "summary": "澳大利亚AI创业公司Firmus Technologies正寻求约100亿美元融资，用于购买Nvidia芯片建设印尼数据中心。这反映了AI基础设施建设的强劲需求和Nvidia在AI芯片市场的关键地位，对元宝产品经理评估AI基础设施投资趋势和供应链合作有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-talks-cement-control-data-centers": {
+    "title_clean": "Anthropic洽谈扩大数据中心控制权",
+    "summary": "Anthropic正与Apollo Global Management旗下数据中心开发商洽谈租赁高达1吉瓦计算容量，这是AI公司减少对云服务依赖、加强基础设施控制的重要举措，对元宝产品经理评估AI公司自建基础设施趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/oecd-central-banks-must-be-vigilant-to-inflation-risks-video": {
+    "title_clean": "OECD：央行需警惕通胀风险",
+    "summary": "OECD首席经济学家Stefano Scarpetta讨论通胀前景、人工智能对全球经济和债务市场的影响，以及债券收益率上升问题。此资讯对元宝产品经理了解AI对宏观经济的潜在影响有参考价值，特别是AI如何影响通胀和债务市场，可能间接影响AI服务的经济环境。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/binance-invests-100-million-circle": {
+    "title_clean": "币安投资1亿美元给Circle：稳定币USDC合作",
+    "summary": "币安向Circle战略投资1亿美元，双方达成五年合作协议，将在币安平台推广Circle的稳定币USDC。这反映了加密货币交易所与稳定币提供商的深度合作，对元宝产品经理了解金融科技领域的AI应用场景和商业合作模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-22/can-silicon-valley-reinvent-college-for-the-ai-era-video": {
+    "title_clean": "硅谷能否为AI时代重塑大学教育",
+    "summary": "Horowitz Andreessen Academy推出新型替代传统大学的教育模式，旨在为AI经济培养人才，获4200万美元支持，包括Andreessen Horowitz等投资方。这对元宝产品经理有参考价值，反映AI教育市场需求和投资方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna": {
+    "title_clean": "OpenAI发布GPT-6 Sol和Luna：低成本低错误率模型",
+    "summary": "OpenAI发布两款新模型GPT-6 Sol和Luna，与Astra同源，主打更低成本和更少错误。这对产品经理具有重要参考价值，表明OpenAI正在优化模型性价比，可能影响未来AI助手产品的成本结构和性能标准。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
     ],
     "v": 4
   }

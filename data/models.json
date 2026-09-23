@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-09-23T15:51:17.430Z",
+  "generated_at": "2026-09-23T20:39:09.719Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "qwen/qwen3.8-max-prime",
+      "name": "Qwen3.8 Max Prime",
+      "vendor": "Qwen",
+      "vendor_slug": "qwen",
+      "url": "https://openrouter.ai/qwen/qwen3.8-max-prime-20260923",
+      "created_at": "2026-09-23T19:20:28Z",
+      "context_length": 1000000,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 4,
+      "price_out": 12,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Qwen3.8 Max Prime is a higher-throughput variant of Qwen3.8 Max from Alibaba's Qwen team, served as a separate SKU at a higher price point. It accepts text, image, and video...",
+      "description_zh": null
+    },
+    {
+      "id": "stealth/space-bunny-alpha",
+      "name": "Space Bunny Alpha",
+      "vendor": "Stealth",
+      "vendor_slug": "stealth",
+      "url": "https://openrouter.ai/stealth/space-bunny-alpha",
+      "created_at": "2026-09-23T14:48:04Z",
+      "context_length": 1000000,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Space Bunny Alpha is an anonymous large model with blazing-fast inference, strong coding capabilities and native multimodal input support. It delivers adjustable reasoning effort, and a 1M-token context window. Space...",
+      "description_zh": null
+    },
     {
       "id": "aion-labs/aion-3.5-mini",
       "name": "Aion 3.5 Mini",
@@ -563,8 +613,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.4,
-      "price_out": 1.2,
+      "price_in": 0.392,
+      "price_out": 2.9,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -798,7 +848,7 @@
       "vendor_slug": "inclusionai",
       "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-vl-20260910",
       "created_at": "2026-09-10T16:01:54Z",
-      "context_length": 131072,
+      "context_length": 262144,
       "modality": "text+image+video->text",
       "input_modalities": [
         "text",
@@ -811,31 +861,6 @@
       "price_in": 0.06,
       "price_out": 0.18,
       "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Ling 3.0 Flash VL builds on Ling 3.0 Flash (124B total / 5.5B active MoE from InclusionAI), further strengthening its language capabilities while adding native visual perception and advanced visual...",
-      "description_zh": null
-    },
-    {
-      "id": "inclusionai/ling-3.0-flash-vl:free",
-      "name": "Ling 3.0 Flash VL (free)",
-      "vendor": "Inclusionai",
-      "vendor_slug": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-vl-20260910",
-      "created_at": "2026-09-10T16:01:54Z",
-      "context_length": 262144,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Ling 3.0 Flash VL builds on Ling 3.0 Flash (124B total / 5.5B active MoE from InclusionAI), further strengthening its language capabilities while adding native visual perception and advanced visual...",
@@ -1455,31 +1480,6 @@
       "supports_reasoning": true,
       "description": "Qwen3.8 Flash is a multimodal reasoning model from Alibaba. It is suited for coding assistance, agentic workflows, visual understanding, document and codebase analysis, desktop interaction, chart analysis, and long-video analysis.",
       "description_zh": "Qwen3.8 Flash是阿里巴巴的多模态推理模型。它适用于编码辅助、代理工作流程、视觉理解、文档和代码库分析、桌面交互、图表分析和长视频分析。"
-    },
-    {
-      "id": "z-ai/glm-5.3-flash",
-      "name": "GLM 5.3 Flash",
-      "vendor": "Zhipu AI",
-      "vendor_slug": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-flash-20260826",
-      "created_at": "2026-08-26T13:59:01Z",
-      "context_length": 1310720,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.15,
-      "price_out": 0.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-context behavior while...",
-      "description_zh": "GLM-5.3-Flash 是 Z.ai 的原生多模式模型。它适合高效编码和长期代理任务。其混合稀疏和线性注意架构保持准确的长上下文行为，同时......"
     }
   ]
 }

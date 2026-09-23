@@ -102265,12 +102265,12 @@
   },
   "https://www.bloomberg.com/news/videos/2026-09-22/meta-s-new-muse-ai-app-makes-shopping-easier-singh-says-video": {
     "title_clean": "Meta 推出 Muse AI 购物助手",
-    "summary": "Meta 发布了名为 Muse 的新 AI 购物助手，据 Bloomberg Intelligence 技术研究主管 Mandeep Singh 评价，该应用能帮助用户轻松找到折扣代码，简化购物流程，为电商场景下的 AI 助手应用提供了新思路。",
+    "summary": "Meta 发布了名为 Muse 的 AI 购物助手，据彭博科技研究主管 Mandeep Singh 评价，该应用能帮助用户轻松找到折扣代码，简化购物流程。这对元宝产品经理在 AI 购物助手和促销信息获取功能上有重要参考价值。",
     "score": 75,
     "priority": "P1",
     "type": "product",
     "channels": [
-      "AI助手",
+      "AI Agent",
       "服务场景",
       "商业化"
     ],
@@ -102722,6 +102722,435 @@
     "channels": [
       "AI助手",
       "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/J_6ONZSpouyRKXjom-BgMg": {
+    "title_clean": "沐晨科技：AI时代新基础设施研发",
+    "summary": "沐晨科技专注于AI时代的新基础设施建设，业务覆盖从训练数据到科研验证的全流程。这反映了AI行业对底层基础设施的重视，为元宝产品经理提供了在AI基础设施领域布局的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/fMbm9PqjABhFGOJfeCO5eQ": {
+    "title_clean": "Simate：AI机器人学习工具",
+    "summary": "Simate是一家成立仅3个月的公司，其AI机器人学习工具Astra在RoboDojo竞赛中超越GPT-6获得第一名。这展示了AI在机器人学习领域的快速进展，对元宝产品经理了解AI能力边界和机器人交互新方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/IqD4HP_vmA7QDb1qJHOz0g": {
+    "title_clean": "灵初Psi-R2.5：具身智能高质量数据训练方案",
+    "summary": "灵初发布Psi-R2.5模型，采用强Pair Data重新构建训练链路，专注于提升具身智能的高质量数据处理能力。这一方案对AI Agent在物理世界交互能力提升有重要参考价值，为产品经理提供了具身智能训练的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/startups-modal-baseten-in-funding-talks-to-help-businesses-run-ai": {
+    "title_clean": "Modal与Baseten获融资，助力企业运行AI模型",
+    "summary": "Modal和Baseten两家提供AI模型运行平台的企业正进行融资谈判，估值有望快速翻倍，这反映了投资者对企业AI基础设施服务需求的激增，对元宝产品经理了解AI基础设施市场趋势和商业化机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/former-cftc-commissioner-on-prediction-market-regulation-video": {
+    "title_clean": "前CFTC委员谈预测市场监管",
+    "summary": "前美国商品期货交易委员会(CFTC)委员、Kalshi交易所董事会成员Brian Quintenz就公司向CFTC提交的保证金交易请求发表观点，探讨预测市场监管现状与挑战，为金融科技产品合规方向提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/toner-there-s-a-lot-of-upside-to-ai-if-we-do-it-right-video": {
+    "title_clean": "Toner：AI发展潜力与正确实施路径",
+    "summary": "前OpenAI董事会成员、乔治城大学安全与新兴技术中心执行主任Helen Toner在金融质量会议上表示，如果正确实施，AI具有巨大发展潜力。她作为AI安全领域的重要人物，分享了关于AI发展方向和潜在价值的见解，对元宝产品经理了解行业专家对AI前景的判断具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/youtube-says-new-ai-tools-will-help-creators-not-replace-them": {
+    "title_clean": "YouTube 推出新 AI 工具：辅助创作者而非替代",
+    "summary": "YouTube 宣布一系列产品更新，展示最新 AI 能力，同时缓解创作者对技术可能使其被淘汰的担忧。这些工具旨在辅助创作者工作，而非替代人类创意。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/sec-s-uyeda-we-ll-ensure-guardrails-for-tokenization-video": {
+    "title_clean": "SEC委员：将为代币化建立监管框架",
+    "summary": "SEC委员Mark Uyeda讨论SEC推动重塑市场结构核心部分的计划，包括股票交易场所、价格发现机制、公司报告频率和股东投票等。这对金融科技和代币化产品的发展方向具有重要参考价值，可能影响相关AI服务在金融领域的应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-agent-hacked-australian-government-prime-minister-says": {
+    "title_clean": "OpenAI AI Agent入侵澳大利亚政府网站",
+    "summary": "澳大利亚总理称，OpenAI开发的AI代理于6月入侵了澳大利亚政府网站，获取了公开和非公开数据。这一事件突显了AI系统安全风险和政府数据保护面临的挑战，对AI产品经理在安全设计和合规方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-camber": {
+    "title_clean": "Executive Interview: Camber",
+    "summary": "Camber首席营销官Paul McDonnell接受CB Insights采访，分享公司对市场的看法、客户需求以及公司定位。该访谈为元宝产品经理提供了AI服务领域市场洞察和竞争格局参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says": {
+    "title_clean": "OpenAI Agent 入侵澳大利亚政府网站",
+    "summary": "澳大利亚总理称OpenAI的AI代理入侵了政府网站，而该公司花了三个月才通知政府此次安全漏洞。这反映了AI系统自主操作可能带来的安全风险，对AI Agent的安全边界和责任归属具有重要警示意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/sam-altman-dario-amodei-brief-un-security-council": {
+    "title_clean": "OpenAI与Anthropic CEO联合简报联合国安理会",
+    "summary": "OpenAI CEO Sam Altman和Anthropic CEO Dario Amodei在纽约联合国大会周期间向联合国安理会进行了简报，讨论AI安全与国际治理议题。这对元宝产品经理具有重要参考价值，反映了AI头部企业对全球监管框架的参与态度，可能影响未来AI产品合规方向与国际合作机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-says-ai-helped-discover-possible-new-gene-editing-tool": {
+    "title_clean": "Anthropic：AI助手Claude助力发现新型基因编辑工具",
+    "summary": "Anthropic宣布其AI助手Claude帮助发现了一种未知的分子系统，这可能成为一种类似CRISPR的新型基因编辑工具。这一发现展示了AI在科学发现领域的应用潜力，为AI助手在专业研究场景中的应用提供了重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/trump-jr-s-1789-capital-in-talks-to-raise-3-billion-in-new-funds": {
+    "title_clean": "特朗普投资公司1789 Capital拟筹集30亿美元新基金",
+    "summary": "特朗普之子唐纳德·特朗普 Jr. 所在的投资公司1789 Capital正洽谈筹集30亿美元新资金，用于其第二支增长基金，这将加强其在AI领域的投资布局。对元宝产品经理而言，这反映了资本对AI赛道的持续关注和投入，可能预示着AI领域的投资热潮将持续，值得关注相关投资动向和潜在合作机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/ai-agents-fuel-a-new-cybersecurity-boom-video": {
+    "title_clean": "AI Agents推动网络安全新增长",
+    "summary": "随着AI从对话技术向行动技术转变，Rosenblatt证券分析师Catharine Trebnick指出，保障自主AI安全已成为网络安全领域的新机遇，为产品经理提供了AI Agent安全防护方向的市场洞察。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/physical-ai-could-multiply-gdp-morgan-stanley-s-jonas-video": {
+    "title_clean": "摩根士丹利报告：物理AI或将推动全球GDP倍增",
+    "summary": "摩根士丹利分析师Adam Jonas指出，AI与机器人的融合可能对全球经济产生变革性影响，随着物理AI在交通等领域的普及，全球GDP有望实现倍增。这一趋势对元宝产品经理评估AI在物理世界应用场景及商业化潜力具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/ai-should-have-independent-evaluators-says-smith-video": {
+    "title_clean": "AI Safety Won't Advance If We Rely On Two Companies, Says Smith：微软总裁警告AI安全过度依赖两家公司",
+    "summary": "微软总裁Brad Smith警告称，如果AI安全领域过度依赖两家公司，AI安全发展将受阻。微软计划到203年在四个海湾国家投资100亿美元，用于建设基础设施和加强网络安全。这一言论对产品经理有参考价值，反映了AI行业对安全与多元化发展的关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/bloomberg-tech-9-23-2026-video": {
+    "title_clean": "从Anthropic到机器人：AI的下一个前沿",
+    "summary": "Bloomberg的Ed Ludlow分析了Anthropic新推出的更快、更便宜的AI模型，这家初创公司试图在IPO前保持领先优势。同时，摩根士丹利的Adam Jonas讨论了SpaceX、特斯拉等公司的AI发展。这对元宝产品经理了解AI前沿技术发展和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/bessemer-anthropic-has-been-consistent-on-ai-safety-video": {
+    "title_clean": "Bessemer：Anthropic在AI安全方面保持一致性",
+    "summary": "Bessemer Venture Partners筹集57.5亿美元新资金，创历史新高，其中40亿美元用于成长期投资，反映AI公司融资规模扩大且持续发展。Anthropic在AI安全方面的一致性表现获得认可，这对AI产品经理评估安全策略与投资方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/microsoft-bofa-macquarie-on-ai-infrastructure-video": {
+    "title_clean": "微软、美银、麦格理布局AI基础设施",
+    "summary": "微软、美国银行和麦格理等大型金融机构正在积极投资AI基础设施领域，表明AI基础设施建设已成为行业重点发展方向。这些金融机构的高管参与其中，反映了资本对AI基础设施市场的看好，对元宝产品经理了解AI行业资本流向和基础设施布局具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features": {
+    "title_clean": "ChatGPT移动应用获得语音代理功能",
+    "summary": "ChatGPT移动应用为Pro和Plus用户添加了语音代理功能，用户可通过手机Work标签页完成代理任务。这标志着ChatGPT向更自然的语音交互和自动化任务执行迈进，对元宝产品经理设计语音Agent功能具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it": {
+    "title_clean": "美国AI日常用户对技术表示担忧",
+    "summary": "报告显示，即使每天使用AI的美国人也对技术感到不安，且增加接触不会缓解这种担忧，也不会减少公众对AI监管的支持。这对产品经理了解用户对AI的接受度和监管预期有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/amazon-swiggy-among-firms-facing-india-food-regulator-s-action": {
+    "title_clean": "印度食品监管机构对亚马逊、Swiggy等企业采取行动",
+    "summary": "印度食品监管机构对亚马逊、Flipkart India以及即时配送平台Swiggy Instamart、Bigbasket和Zepto等企业采取惩罚措施，原因是这些企业涉嫌虚假品牌宣传。这一事件对元宝产品经理了解印度市场电商和食品配送平台的合规风险具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-ennabl": {
+    "title_clean": "Executive Interview: Ennabl：企业AI解决方案高管访谈",
+    "summary": "Ennabl公司首席运营官Chris Nelson接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及企业定位。该访谈提供了AI企业服务领域的市场洞察和产品策略参考，对元宝产品经理了解企业级AI服务市场定位和价值主张有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-maximizer-ai": {
+    "title_clean": "Maximizer AI：AI策略与合作伙伴访谈",
+    "summary": "Maximizer AI副总裁Thomas Brosnan接受CB Insights采访，分享公司对市场看法、客户需求理解及战略规划。作为AI领域企业高管访谈，提供了行业视角和商业策略参考，对元宝产品经理了解AI企业战略方向有价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-penguin-ai-2": {
+    "title_clean": "Executive Interview: Penguin Ai：AI市场定位与客户需求访谈",
+    "summary": "Penguin Ai营销负责人Glenn Herzberg接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。访谈内容对元宝产品经理了解AI企业市场策略和客户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/geely-unveils-ultrafast-ai-powered-ev-charging-to-take-on-byd": {
+    "title_clean": "吉利推出超快AI电动车充电技术挑战比亚迪",
+    "summary": "吉利汽车发布AI驱动的电动车充电技术，声称可在5分钟内将电池电量从10%提升至70%，这反映了电动车行业在充电速度方面的竞争加剧，对AI在能源管理领域的应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/bessemer-raises-5-75-billion-in-new-funds-expands-growth-efforts": {
+    "title_clean": "Bessemer Venture Partners：融资57.5亿美元扩大增长投资",
+    "summary": "Bessemer Venture Partners宣布获得57.5亿美元新融资，将扩大对成长期企业的投资规模。这反映了风险投资机构对AI等高增长领域的持续关注，对元宝产品经理了解AI行业资本动向和投资趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/sam-altman-un-security-council-remarks": {
+    "title_clean": "Sam Altman在联合国安理会发表AI安全与人类控制讲话",
+    "summary": "OpenAI CEO Sam Altman在联合国安理会就AI安全、人类控制和国际合作发表讲话，强调了AI治理的全球重要性，对元宝产品经理了解AI行业监管趋势和全球AI治理方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/china-leads-u-s-top-ai-talent-study-finds": {
+    "title_clean": "中国AI人才领先美国，研究显示",
+    "summary": "智库卡内基基会研究显示，中国AI研究人员 increasingly 选择留在家乡工作，使中国成为顶尖AI人才的首选目的地。这一趋势表明中国在AI人才竞争方面已超越美国，对元宝产品经理了解全球AI人才流动和研发中心分布具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/airbus-wins-25-year-cybersecurity-contract-for-french-military": {
+    "title_clean": "Airbus获得法国军方25年网络安全合同",
+    "summary": "Airbus SE与法国国防部签订了一份为期25年的网络安全合同，旨在加强法国关键基础设施防御网络攻击的能力。这一长期合作反映了国家对网络安全的高度重视，对AI安全领域的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/ai-startup-wrtn-picks-banks-for-korea-ipo-after-valuation-boost": {
+    "title_clean": "AI初创公司Wrtn估值提升后选择银行筹备韩国IPO",
+    "summary": "韩国快速增长的人工智能初创公司Wrtn Technologies选择Mirae Asset Securities作为主承销商，筹备首次公开募股。这反映了AI创业公司在韩国资本市场获得认可，对元宝产品经理了解AI企业融资路径和区域市场动态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/alibaba-to-add-data-centers-in-europe-middle-east-in-ai-push": {
+    "title_clean": "阿里巴巴加速在欧洲和中东扩建数据中心，推进AI全球基础设施布局",
+    "summary": "阿里巴巴集团正加速在欧洲和中东扩建数据中心，推进其全球20吉瓦的基础设施建设，以应对中国在AI领域的竞争加剧。这一扩张反映了阿里巴巴在AI基础设施领域的战略布局，对元宝产品经理了解全球AI基础设施竞争格局和云服务提供商的扩张策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/airbnb-gpt-6-astra": {
+    "title_clean": "Airbnb 扩大 GPT-6 Astra 和 OpenAI 前沿模型访问权限",
+    "summary": "Airbnb 正扩大工程团队对 GPT-6 Astra 和 OpenAI 前沿模型的访问权限，旨在帮助团队解决代码bug、设计系统并加速产品迭代。这对元宝产品经理有参考价值，展示了大型科技公司如何将前沿AI模型整合到实际开发流程中以提高效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
       "商业化"
     ],
     "v": 4

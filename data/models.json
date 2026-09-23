@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-22T22:01:24.288Z",
+  "generated_at": "2026-09-23T01:13:49.572Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "cohere/command-a-plus",
+      "name": "Command A+",
+      "vendor": "Cohere",
+      "vendor_slug": "cohere",
+      "url": "https://openrouter.ai/cohere/command-a-plus-05-2026",
+      "created_at": "2026-09-22T18:48:16Z",
+      "context_length": 192000,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.3,
+      "price_out": 1.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Command A+ is Cohere's flagship model for enterprise agentic workflows. It accepts text and image inputs with a 192K context window, supports native tool calling with strict tool schemas, structured...",
+      "description_zh": null
+    },
     {
       "id": "openai/gpt-6-luna-pro",
       "name": "GPT-6 Luna Pro",
@@ -471,7 +495,7 @@
         "text"
       ],
       "price_in": 0.4,
-      "price_out": 1.2,
+      "price_out": 4.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -494,8 +518,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.12,
-      "price_out": 0.48,
+      "price_in": 0.1,
+      "price_out": 0.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -764,8 +788,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.1,
+      "price_out": 0.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1463,29 +1487,6 @@
       "supports_reasoning": true,
       "description": "DeepSeek V4 Flash Vision Exp is an experimental vision-enabled version of DeepSeek V4 Flash 0731 from DeepSeek, adding image understanding while matching the base model on text capabilities including agents,...",
       "description_zh": "DeepSeek V4 Flash Vision Exp 是来自 DeepSeek 的 DeepSeek V4 Flash 0731 的实验性视觉版本，增加了图像理解，同时匹配文本功能的基本模型，包括代理、..."
-    },
-    {
-      "id": "tencent/hy-mt2-1.8b",
-      "name": "Hy-MT2-1.8B",
-      "vendor": "Tencent",
-      "vendor_slug": "tencent",
-      "url": "https://openrouter.ai/tencent/hy-mt2-1.8b-20260521",
-      "created_at": "2026-08-20T13:13:01Z",
-      "context_length": 8192,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.044,
-      "price_out": 0.177,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": false,
-      "description": "Hy-MT2-1.8B is a compact 1.8B-parameter translation model from Tencent. It supports 33 language pairs and five Chinese dialect and minority-language pairs, with workflows for structured, delimiter-based, contextual, glossary-based, and style-guided...",
-      "description_zh": "Hy-MT2-1.8B是腾讯推出的紧凑型1.8B参数翻译模型。它支持 33 种语言对和 5 种中国方言和少数民族语言对，具有结构化、基于分隔符、上下文、基于术语表和风格引导的工作流程..."
     }
   ]
 }

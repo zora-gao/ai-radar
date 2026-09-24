@@ -102265,7 +102265,7 @@
   },
   "https://www.bloomberg.com/news/videos/2026-09-22/meta-s-new-muse-ai-app-makes-shopping-easier-singh-says-video": {
     "title_clean": "Meta 推出 Muse AI 购物助手",
-    "summary": "Meta 发布了名为 Muse 的 AI 购物助手，据 Bloomberg Intelligence 技术研究主管 Mandeep Singh 评价，该应用能帮助用户轻松找到折扣代码，简化购物流程。",
+    "summary": "Meta 发布了名为 Muse 的 AI 购物助手，据 Bloomberg Intelligence 技术研究主管 Mandeep Singh 评价，该应用能帮助用户轻松找到折扣代码，提升购物体验。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -103730,6 +103730,133 @@
     "channels": [
       "商业化",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/locklines": {
+    "title_clean": "LockLines：Mac锁屏信息设计工具",
+    "summary": "LockLines是一款Mac锁屏信息设计工具，帮助用户创建适配屏幕的个性化锁屏消息。对于元宝产品经理而言，该工具展示了如何针对特定设备场景提供定制化UI解决方案，可启发在移动端锁屏或通知界面设计方面的思考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/harness-manager": {
+    "title_clean": "Harness Manager：AI 编程工具管理平台",
+    "summary": "Harness Manager 是一款集中管理 AI 编程工具的平台，帮助开发者统一管理和整合各种 AI 编程工具，提升开发效率。对于元宝产品经理而言，这反映了 AI 工具整合管理的市场需求，可作为元宝扩展工具集成功能的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rudel": {
+    "title_clean": "Opaline：团队Claude Code与Codex会话分析工具",
+    "summary": "Opaline是一款专为团队Claude Code和Codex会话设计的分析工具，类似于PostHog的产品分析功能，但专门针对AI代码生成和协作场景。产品经理可参考其如何将分析能力应用于AI开发工具链，优化团队协作效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ctrlops": {
+    "title_clean": "CtrlOps：AI服务器管理工具",
+    "summary": "CtrlOps是一款AI驱动的服务器管理工具，提供服务器审计、管理和部署功能。产品经理可关注其AI在基础设施管理中的应用，探索元宝在系统级AI服务场景的拓展可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/learned-ai-agenda-live": {
+    "title_clean": "AI Agenda Live：AI行业领导者会议分享",
+    "summary": "作者在AI Agenda Live会议上采访了OpenAI、Google DeepMind、NVIDIA等公司的AI领导者，分享了与众多订阅者的交流内容。这类行业会议通常包含最新的AI产品趋势、技术发展方向和行业洞察，对元宝产品经理了解行业前沿动态和竞品策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding": {
+    "title_clean": "Dextr AI：酒店AI代理服务获670万美元融资",
+    "summary": "Dextr AI完成670万美元种子轮融资，开发AI代理系统处理酒店预订、客人请求、员工协调等任务。该产品专注于酒店场景的AI服务自动化，为元宝在垂直领域AI应用提供参考，特别是服务场景拓展和商业化方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law": {
+    "title_clean": "澳大利亚调查OpenAI入侵政府健康网站是否违法",
+    "summary": "澳大利亚发生首起影响政府机构的OpenAI数据安全事件，总理誓言追究OpenAI责任。此事件对AI产品安全合规、政府合作及数据保护具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/deepseek-aims-close-7-5-billion-funding-round-end-october": {
+    "title_clean": "DeepSeek：AI公司完成75亿美元融资准备上市",
+    "summary": "DeepSeek计划在10月底完成第二轮融资，金额达75亿美元，为在上海证券交易所上市做准备。这反映了AI大模型公司快速扩张的资本趋势，对元宝产品经理评估AI领域融资环境和商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/apple-explores-screenless-fitness-tracker-to-rival-whoop-video": {
+    "title_clean": "Apple探索无屏健身追踪器以竞争Whoop",
+    "summary": "苹果正在开发一款无屏幕健康与健身追踪器，旨在与Whoop和Oura等设备竞争。该设备可能提供更长的电池寿命，专注于健康监测功能，不依赖屏幕显示，这反映了可穿戴设备向更简约、专注特定功能方向发展的趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/deepseek-tests-efficient-safer-method-for-training-ai-agents": {
+    "title_clean": "DeepSeek：AI Agent高效安全训练方法",
+    "summary": "DeepSeek提出了一种创新的AI Agent训练方法，旨在提高学习效率同时减少不当行为。这一方法对AI助手产品开发具有重要参考价值，特别是在提升Agent安全性和训练效率方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
     ],
     "v": 4
   }

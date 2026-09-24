@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-09-24T03:51:59.442Z",
+  "generated_at": "2026-09-24T10:11:00.359Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "fireworks/ember-1",
+      "name": "Ember-1",
+      "vendor": "Fireworks",
+      "vendor_slug": "fireworks",
+      "url": "https://openrouter.ai/fireworks/ember-1-20260923",
+      "created_at": "2026-09-24T00:07:41Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 3,
+      "price_out": 15,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ember-1 is a specialized reasoning model from Fireworks Research, built on Kimi K3. It is designed to make every token go further: it produces shorter reasoning traces, using roughly 40%...",
+      "description_zh": null
+    },
     {
       "id": "z-ai/glm-5.3-prime",
       "name": "GLM 5.3 Prime",
@@ -636,7 +660,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.387,
+      "price_in": 0.39,
       "price_out": 2.9,
       "is_free": false,
       "supports_tools": true,
@@ -660,8 +684,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.099,
-      "price_out": 0.6,
+      "price_in": 0.04,
+      "price_out": 1,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -961,30 +985,6 @@
       "description_zh": "Mercury 2.5 是最快的推理法学硕士，也是 Inception 最新的扩散法学硕士 (dLLM)。 Mercury 2.5 不是按顺序生成代币，而是并行生成和提炼多个代币，从而实现..."
     },
     {
-      "id": "nex-agi/nex-n2.5-mini",
-      "name": "Nex-N2.5-Mini",
-      "vendor": "Nex Agi",
-      "vendor_slug": "nex-agi",
-      "url": "https://openrouter.ai/nex-agi/nex-n2.5-mini-20260908",
-      "created_at": "2026-09-08T17:54:21Z",
-      "context_length": 262144,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.025,
-      "price_out": 0.1,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": true,
-      "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
-      "description_zh": null
-    },
-    {
       "id": "nex-agi/nex-n2.5-mini:free",
       "name": "Nex-N2.5-Mini (free)",
       "vendor": "Nex Agi",
@@ -1003,30 +1003,6 @@
       "price_in": 0,
       "price_out": 0,
       "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
-      "description_zh": null
-    },
-    {
-      "id": "nex-agi/nex-n2.5-pro",
-      "name": "Nex-N2.5-Pro",
-      "vendor": "Nex Agi",
-      "vendor_slug": "nex-agi",
-      "url": "https://openrouter.ai/nex-agi/nex-n2.5-pro-20260907",
-      "created_at": "2026-09-08T17:54:10Z",
-      "context_length": 262144,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.075,
-      "price_out": 0.25,
-      "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
@@ -1471,13 +1447,38 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.25,
+      "price_in": 0.045,
+      "price_out": 0.14,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the GLM Flash family.",
       "description_zh": "此模型始终重定向到 GLM Flash 系列中的最新模型。"
+    },
+    {
+      "id": "qwen/qwen3.8-flash",
+      "name": "Qwen3.8 Flash",
+      "vendor": "Qwen",
+      "vendor_slug": "qwen",
+      "url": "https://openrouter.ai/qwen/qwen3.8-flash-20260826",
+      "created_at": "2026-08-26T19:37:40Z",
+      "context_length": 1000000,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.15,
+      "price_out": 0.47,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Qwen3.8 Flash is a multimodal reasoning model from Alibaba. It is suited for coding assistance, agentic workflows, visual understanding, document and codebase analysis, desktop interaction, chart analysis, and long-video analysis.",
+      "description_zh": "Qwen3.8 Flash是阿里巴巴的多模态推理模型。它适用于编码辅助、代理工作流程、视觉理解、文档和代码库分析、桌面交互、图表分析和长视频分析。"
     }
   ]
 }

@@ -102265,7 +102265,7 @@
   },
   "https://www.bloomberg.com/news/videos/2026-09-22/meta-s-new-muse-ai-app-makes-shopping-easier-singh-says-video": {
     "title_clean": "Meta 推出 Muse AI 购物助手",
-    "summary": "Meta 发布了名为 Muse 的 AI 购物助手，据彭博科技研究主管 Mandeep Singh 评价，该应用能帮助用户轻松找到折扣代码，简化购物流程。这对元宝产品经理在 AI 购物助手和促销信息获取功能上有重要参考价值。",
+    "summary": "Meta 发布了名为 Muse 的 AI 购物助手，据 Bloomberg Intelligence 技术研究主管 Mandeep Singh 评价，该应用能帮助用户轻松找到折扣代码，简化购物流程。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -103441,6 +103441,294 @@
     "channels": [
       "多模态",
       "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/parall": {
+    "title_clean": "Parall：Mac多应用实例运行工具",
+    "summary": "Parall是一款Mac应用，允许用户在同一设备上同时运行同一应用的多个实例。这为需要多账号操作或并行任务的用户提供了便利，对元宝产品经理在考虑多任务处理和用户场景扩展方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/floot": {
+    "title_clean": "Floot MCP：在Claude或ChatGPT内构建和发布Web及移动应用",
+    "summary": "Floot MCP是一款工具，允许用户在Claude或ChatGPT环境中直接构建和发布Web及移动应用。这展示了AI助手向全栈开发工具演进的趋势，为元宝产品经理提供了AI Agent能力边界扩展和开发场景整合的重要参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/storytailor": {
+    "title_clean": "Storytailor®：儿童想象力个性化故事生成工具",
+    "summary": "Storytailor是一款围绕儿童想象力构建的个性化故事生成工具，能够根据孩子的想法创建专属故事世界。这类AI内容生成工具对元宝拓展儿童教育场景和个性化内容服务具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/subscrrr": {
+    "title_clean": "Subscrr：订阅管理财务规划工具",
+    "summary": "Subscrr是一款帮助用户构建财务计划并识别可取消订阅的服务，通过分析用户的订阅支出，提供优化建议，帮助用户控制不必要的开支，对产品经理了解用户财务管理和订阅服务场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/choredivider": {
+    "title_clean": "ChoreDivider：家务任务智能分配工具",
+    "summary": "ChoreDivider是一款家务任务分配工具，能够根据每个人的偏好和意愿智能分配家务，解决家庭成员间任务分配不均的问题。产品经理可参考其基于用户偏好的任务分配机制，应用于AI助手中的生活场景服务设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/noan-2": {
+    "title_clean": "NOAN：AI代理事实层工具",
+    "summary": "NOAN是一个为AI代理提供事实层服务的工具，旨在增强AI代理的准确性和可靠性。该产品可能通过提供实时、准确的事实数据来帮助AI代理减少幻觉，提高回答质量，对元宝产品经理在构建更可靠的AI助手系统有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jev-seo": {
+    "title_clean": "jev-seo：免费Rust SEO/GEO审计工具",
+    "summary": "jev-seo是一款免费的Rust命令行SEO/GEO审计工具，无需订阅即可使用。这款工具为元宝产品经理提供了免费SEO审计解决方案的参考，可能启发产品在搜索优化功能上的低成本实现方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-24/ai-is-upending-lives-that-do-social-media-professionally-video": {
+    "title_clean": "AI正在改变社交媒体专业人士的工作方式",
+    "summary": "AI内容正在充斥社交媒体平台，影响专业内容创作者的工作方式和内容质量。这对元宝产品经理了解AI对内容创作行业的影响、用户需求变化以及AI在内容生成领域的应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-24/gcash-owner-mynt-starts-taking-orders-for-record-philippines-ipo": {
+    "title_clean": "GCash母公司Mynt启动菲律宾史上最大规模IPO",
+    "summary": "菲律宾最大移动支付应用GCash的母公司Mynt已开始接受订单，即将进行该国历史上规模最大的首次公开募股。这一事件反映了东南亚数字支付市场的快速增长和投资热度，对元宝产品经理了解区域金融科技发展态势和潜在市场机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/shram": {
+    "title_clean": "minimi 2.0：AI任务闭环助手",
+    "summary": "minimi 2.0是一款AI助手，专注于帮助用户完成未完成的任务和待办事项，实现任务闭环。这款产品对产品经理有参考价值，因为它展示了AI在个人任务管理领域的应用，可能启发元宝在任务提醒、自动完成和用户习惯养成方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-24/blackrock-ifm-close-in-on-25-billion-stack-data-center-deal": {
+    "title_clean": "BlackRock与IFM接近达成250亿美元亚洲数据中心交易",
+    "summary": "贝莱德和IFM投资者组成的财团正就收购Stack Infrastructure在亚太地区的数据中心进行独家谈判，潜在交易价值达250亿美元。这反映了大型金融机构对数据中心基础设施的持续投资，对AI服务提供商的算力资源获取和成本控制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-startup-finalizes-7-5-billion-fundraising": {
+    "title_clean": "DeepSeek：AI模型公司年收入达10亿美元完成75亿美元融资",
+    "summary": "DeepSeek公司年收入达到10亿美元，数月内增长超一倍，得益于近期提价和模型持续受欢迎。公司同时完成75亿美元融资，显示AI大模型商业化进程加速，对产品经理评估AI公司商业路径和竞争格局有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-24/aspi-s-cutler-on-trump-xi-summit-trade-relations-video": {
+    "title_clean": "ASPI's Cutler on Trump-Xi Summit, Trade Relations",
+    "summary": "亚洲协会政策研究所高级副总裁温迪·卡特勒就美中贸易关系发表看法，分析特朗普与习近平峰会后的贸易前景。作为前美国贸易代表署代理副代表，她的观点对理解地缘政治如何影响AI产品国际市场准入有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-24/pgim-s-singh-on-global-economy-china-us-relations-video": {
+    "title_clean": "PGIM首席经济学家辛格谈全球经济与中美关系",
+    "summary": "PGIM副主席兼首席全球经济学家辛格分享了对全球经济、通胀和利率的展望，正值世界两大经济体领导人华盛顿会晤之际。此分析对元宝产品经理了解全球经济形势对AI服务市场的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/meta-announces-new-retail-partnerships-agent-muse": {
+    "title_clean": "Meta 宣布与沃尔玛等零售商合作 AI Agent Muse",
+    "summary": "Meta 宣布与沃尔玛等零售商合作其 AI Agent Muse，此前亚马逊已阻止该个性化代理访问其购物网站。这反映了 AI 助手在电商领域的竞争格局，以及大型科技公司如何通过合作伙伴关系扩展 AI 代理的服务场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-349-camera-free-ray-bans-and-brings-muse-to-glasses": {
+    "title_clean": "Meta 推出无摄像头款智能眼镜并集成 Muse 助手",
+    "summary": "Meta 发布新款无摄像头智能眼镜，售价 349 美元，新增 Muse 助手支持和助听模式。这反映了 Meta 在可穿戴 AI 设备领域的战略调整，为产品经理提供了 AI 硬件与助手服务结合的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro": {
+    "title_clean": "Meta推出1299美元VR眼镜，挑战苹果Vision Pro",
+    "summary": "Meta发布售价1299美元的VR眼镜，在价格和尺寸上低于苹果Vision Pro，同时使其头显产品线有望实现盈利。这款产品标志着Meta在高端VR市场的战略调整，对产品经理了解VR设备竞争格局和定价策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/workiva-cfo-on-labor-cost-impacts-of-ai-implementation-video": {
+    "title_clean": "Workiva CFO谈AI实施对劳动力成本的影响",
+    "summary": "Workiva CFO Barbara Larson讨论了AI实施如何重塑劳动力成本、生产力和利润扩张，以及财务领导者如何权衡人工智能投资的经济学。这对产品经理了解AI在企业财务中的实际应用和成本效益分析有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-relevant-search": {
+    "title_clean": "Relevant Search CEO访谈：搜索市场定位与客户需求",
+    "summary": "Relevant Search CEO接受CB Insights采访，分享其公司对市场的定义、客户需求的理解以及自身在市场中的定位。这为AI搜索产品经理提供了专业视角，了解垂直搜索领域的市场策略和客户洞察。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-23/opinion-nvidia-is-shaping-the-rules-for-ai-video": {
+    "title_clean": "Nvidia：AI规则制定者",
+    "summary": "Nvidia CEO黄仁勋与特朗普共同淡化AI警告并反对新监管。Bloomberg评论认为放缓AI发展将阻碍创新，Nvidia正积极影响AI政策制定方向，这对了解AI监管趋势和行业巨头策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
+    "title_clean": "Harvey：基于GPT-6 Astra的法律文档生成工具",
+    "summary": "Harvey利用GPT-6 Astra生成结构化、上下文感知的法律文档，帮助律师从繁琐起草工作中解放出来，专注于战略思考。这对AI助手在专业领域应用有参考价值，展示了大模型在垂直场景的落地潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ma/emerging-map-ai-agentic-security-sagie": {
+    "title_clean": "AI Agent安全领域的并购地图",
+    "summary": "随着AI代理获得访问企业数据、系统和工具的权限，它们正成为一种需要专门权限、监控和治理的新型活跃身份。文章探讨了AI Agent安全领域的并购趋势，为产品经理提供了了解行业安全需求与市场格局的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
+    "title_clean": "ChatGPT Ads：扩展至东南亚及台湾市场",
+    "summary": "ChatGPT广告服务已扩展至东南亚和台湾地区，使符合条件的企业能够在超过60个国家触达更多用户。这一扩张反映了OpenAI在商业化方面的进展，也为元宝产品经理提供了AI广告服务地域扩展的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
       "竞品动态"
     ],
     "v": 4

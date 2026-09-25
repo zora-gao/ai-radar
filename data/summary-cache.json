@@ -105405,5 +105405,499 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/token-forecaster": {
+    "title_clean": "Token Forecaster：LLM回复时长预测工具",
+    "summary": "Token Forecaster是一款工具，能够在用户按下Enter键前预测LLM回复的运行时长，帮助用户更好地管理交互体验和等待预期，对优化AI助手响应时间管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stimly": {
+    "title_clean": "Stimly：咖啡因代谢曲线与睡眠时间预测工具",
+    "summary": "Stimly是一款实时追踪咖啡因代谢曲线并预测睡眠时间的工具，帮助用户了解咖啡因对身体的影响，优化摄入时间以改善睡眠质量。对产品经理而言，这展示了健康与生活场景下AI个性化服务的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/10xjoy": {
+    "title_clean": "10xJoy：AI 效率与愉悦度提升工具",
+    "summary": "10xJoy 是一款专注于提升用户工作效率和体验的 AI 工具，承诺带来更好的结果和更高的愉悦感。作为产品经理，可关注其如何平衡效率提升与用户体验，这对元宝在功能设计和用户满意度优化方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/once-ui-for-figma": {
+    "title_clean": "Once UI 2.0：为开发者和AI Agent构建一致的React应用",
+    "summary": "Once UI 2.0是一个专为开发者和AI Agent设计的React应用构建工具，旨在提供一致的用户界面体验。该工具可能帮助AI Agent更好地与用户交互，为元宝产品在Agent应用开发方面提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/forkest": {
+    "title_clean": "Forkest：GitHub贡献像素艺术花园工具",
+    "summary": "Forkest 是一款将 GitHub 贡献记录转化为像素艺术花园的可视化工具，通过用户代码提交活动生成独特的视觉艺术作品。这款产品为元宝提供了将用户行为数据艺术化呈现的创新思路，可能启发在个人成就展示、社交分享等场景的应用。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hyperdream": {
+    "title_clean": "Hyperdream：AI电影制作工具",
+    "summary": "Hyperdream是一款AI电影制作工具，被称为AI电影制作的'光标'，可能提供从剧本创作到视频生成的全流程AI辅助功能，为元宝产品团队在AI内容创作领域的功能拓展提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dev-tv": {
+    "title_clean": "DEV·TV：GitHub等平台的复古风格信息浏览工具",
+    "summary": "DEV·TV是一款复古风格的电视界面工具，提供GitHub、Hacker News、Hugging Face等10个技术平台的频道浏览功能，为开发者提供沉浸式的信息获取体验，可作为元宝多平台信息展示场景的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/perfect-slice": {
+    "title_clean": "Perfect Slice：精准切割工具",
+    "summary": "Perfect Slice 是一款提供精准切割功能的工具，用户只需一次切割即可获得完美切分结果。这款产品可能适用于需要精确分割的场景，如设计、烹饪或材料处理，为元宝产品经理在多模态交互和工具调用功能方面提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cutsio": {
+    "title_clean": "Cutsio：团队共享视频资产管理工具",
+    "summary": "Cutsio是一款团队共享视频资产管理工具，允许整个团队共享和访问视频资源库。对于元宝产品经理而言，这反映了团队协作场景下多媒体资源管理的需求，可作为AI助手在团队协作功能方面的参考方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/markly-3": {
+    "title_clean": "Markly：文件夹原生Markdown编辑器",
+    "summary": "Markly是一款专注于文件夹的原生Markdown编辑器，强调简洁与原生体验。对于产品经理而言，这反映了用户对轻量级、专注型文档工具的需求，可作为元宝在文档处理场景下的竞品参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bleetz-network": {
+    "title_clean": "Bleetz Network：AI代理投融资与 scouting 网络",
+    "summary": "Bleetz Network 是一个 AI 代理对代理的投融资与项目 scouting 网络，通过 AI 代理之间的协作完成风险投资和项目发现工作，为 AI 在金融投资领域的应用提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/donna-4": {
+    "title_clean": "Donna：会议日程智能安排工具",
+    "summary": "Donna是一款会议安排工具，可通过单个链接安排多场会议，简化会议协调流程。对于元宝产品经理而言，这展示了AI在简化日程管理方面的应用场景，可作为智能助手功能设计的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pair2fa": {
+    "title_clean": "Pair2FA：团队安全双因素认证共享工具",
+    "summary": "Pair2FA是一款专为团队设计的双因素认证(2FA)安全共享工具，解决了团队协作中安全凭证共享的痛点，为产品经理在团队安全协作场景提供了产品化解决方案参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kliva": {
+    "title_clean": "Kliva：Garmin运动轨迹规划工具",
+    "summary": "Kliva是一款专为越野跑者设计的工具，可将运动计划同步到Garmin设备上，帮助用户规划和管理越野跑步路线。对于元宝产品经理而言，这展示了垂直领域AI服务整合的可能性，特别是在运动健康场景下的设备互联价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tourkit": {
+    "title_clean": "TourKit：轻量级产品引导工具",
+    "summary": "TourKit是一款提供轻量级产品引导功能的工具，配有托管仪表板，帮助产品经理快速创建和管理用户引导流程，提升用户对产品功能的认知度和使用体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/omninotch": {
+    "title_clean": "OmniNotch：全能手机刘海屏工具",
+    "summary": "OmniNotch是一款手机刘海屏功能增强工具，提供全面的功能集成，可能包括通知显示、快捷操作等功能。产品经理可参考其如何优化手机刘海屏区域的用户体验，为元宝的多场景交互设计提供思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kairn-2": {
+    "title_clean": "Kairn：会议内容行动项提取工具",
+    "summary": "Kairn是一款将会议录音转化为行动项和后续跟进事项的工具，帮助用户从对话中自动提取关键任务和待办事项，提升会议执行效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fit-receipt": {
+    "title_clean": "Fit Receipt：私人试衣助手",
+    "summary": "Fit Receipt是一款私人试衣助手，能够智能判断何时调用JEV服务，为用户提供个性化的试衣体验。这款产品针对服装试穿场景，可能通过AI技术提升用户购物体验，对元宝在服务场景拓展和AI助手功能开发有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nexusaxi": {
+    "title_clean": "NexusAXI：工作流自动化工具",
+    "summary": "NexusAXI是一款工作流自动化工具，帮助用户研究、规划、创建和自动化重复性工作。该工具可能对元宝产品经理在自动化任务处理和工作流程优化方面提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandona-apuesta-por-copilot-como-asistente-personal": {
+    "title_clean": "Microsoft放弃Copilot个人助手项目",
+    "summary": "微软终止了Copilot作为个人助手的项目，这是其在AI时代的重要战略调整之一。公司现在将重点转向帮助员工自动化工作任务，反映了AI助手产品方向的转变，对元宝产品经理在AI助手定位上有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/14-gentle-mornings-by-small-wins": {
+    "title_clean": "Small WIns：WhatsApp音频物理治疗服务",
+    "summary": "Small WIns推出通过WhatsApp提供的音频优先物理治疗服务，专注于早晨温和康复方案。该服务以音频形式提供物理治疗，通过WhatsApp平台便捷送达，为用户提供灵活的康复选择，对元宝在健康服务场景拓展和轻量化交互设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-25/akamai-technologies-anthropic-deal-costco-earnings-beat-video": {
+    "title_clean": "Akamai与Anthropic达成116亿美元云计算合作",
+    "summary": "云服务提供商Akamai与AI公司Anthropic签署七年期116亿美元协议，为Anthropic提供计算资源支持。此交易显示大型AI模型训练对云计算资源的巨大需求，对元宝产品经理评估AI服务基础设施成本与合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue": {
+    "title_clean": "AI编程创业公司Cognition年化收入达10亿美元",
+    "summary": "Cognition AI公司本月表现强劲，预计年化收入将达到10亿美元，几乎翻倍。作为AI编程领域的领先企业，这一业绩突显了AI编程工具的商业化潜力和市场需求，对元宝产品经理评估AI编程类产品的商业路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/pope-says-technology-must-help-people-warns-of-dehumanization": {
+    "title_clean": "教皇警告技术可能导致非人化",
+    "summary": "教皇利奥十四世表示，人工智能等科技进步必须服务于人类，而非成为统治和不公正的工具。这一观点对AI产品经理有参考价值，提醒在开发AI助手和服务时需关注伦理边界，确保技术真正造福人类而非造成伤害。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars": {
+    "title_clean": "TechCrunch Disrupt 2026 Expo+ Pass 优惠：裁员人员专属75美元优惠",
+    "summary": "TechCrunch Disrupt 2026大会推出Expo+ Pass优惠票价，裁员人员可享75美元特价，限前100名符合条件者。对产品经理而言，这是了解AI行业最新趋势、潜在合作伙伴和人才机会的重要渠道，尤其关注AI助手和Agent领域的创新动态。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins": {
+    "title_clean": "Tesla的Optimus机器人：量产面临手部制造与供应链挑战",
+    "summary": "特斯拉已将其Optimus人形机器人的产量在过去几个月内提高了约十倍，但在规模化生产方面仍面临可靠性挑战，特别是在手部制造和供应链方面。这对AI机器人产品经理了解硬件规模化生产的难点和挑战具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot": {
+    "title_clean": "Microsoft放弃个人AI聊天机器人竞赛，重组Copilot面向企业客户",
+    "summary": "微软将个人版和企业版Copilot AI助手合并为单一产品，专注于企业市场，退出个人聊天机器人竞争领域，让出市场给OpenAI、Alphabet等竞争对手。这一战略调整反映了微软在AI消费级应用市场的重新定位。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/spacex-focused-pentagon-contracts-leave-rivals-feeling-squeezed": {
+    "title_clean": "SpaceX主导的五角大楼合同挤压竞争对手",
+    "summary": "卫星公司York Space Systems在IPO中表示，获得185亿美元的'金顶'导弹防御项目合同将推动其增长。然而，SpaceX在五角大楼卫星合同中的主导地位正使竞争对手面临压力，这可能影响国防承包市场的竞争格局和机会分配。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-25/bosses-don-t-feel-ai-ready-as-safety-concerns-mount": {
+    "title_clean": "企业高管对AI准备不足，安全担忧加剧",
+    "summary": "调查显示近四分之三的企业高管表示缺乏足够的技能来理解AI相关问题，这反映了企业在采用AI技术时面临的安全和能力挑战，对元宝产品经理了解企业用户需求痛点有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/india-seeks-comfort-on-tata-s-14-billion-chip-plans-amid-boardroom-battle": {
+    "title_clean": "印度寻求塔塔集团140亿美元芯片计划保证",
+    "summary": "印度政府已获得塔塔集团对其140亿美元半导体和电子项目的继续实施保证，尽管围绕该项目存在法庭纠纷。这一信息对产品经理关注全球半导体供应链动态和新兴市场科技投资环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/telefonica-weighs-sale-of-venezuelan-telecom-unit-after-35-years": {
+    "title_clean": "Telefónica 考虑出售委内瑞拉电信业务",
+    "summary": "西班牙电信巨头Telefónica正考虑出售其在委内瑞拉运营35年的电信业务，这将进一步缩减其在拉丁美洲的业务版图。这一战略调整可能为区域电信市场格局带来变化，对关注拉美市场的电信产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai": {
+    "title_clean": "Lightspeed：印度早期AI投资基金",
+    "summary": "风险投资公司Lightspeed正募集2.5亿美元新基金，专注印度早期AI投资，首次将印度募资周期与全球基金同步，并转向更短的投资周期。这对元宝产品经理了解AI投资趋势和印度市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/hong-kong-s-buy-ship-eyes-tokyo-listing-in-japan-expansion-push": {
+    "title_clean": "香港Buy&Ship寻求东京上市推进日本扩张",
+    "summary": "香港Buy&Ship成为东京证券交易所首家入选其首次公开发行孵化项目的香港公司，此举将助力其在日本市场的扩张。这反映了跨境物流服务在亚洲市场的扩张趋势，对元宝在服务场景拓展和商业化方面具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-trust-will": {
+    "title_clean": "Trust & Will CEO访谈：遗嘱与信托市场洞察",
+    "summary": "Trust & Will联合创始人兼CEO接受CB Insights采访，分享公司对市场的看法、客户需求分析以及业务定位。内容涵盖遗嘱与信托行业的市场定义、客户痛点及公司战略，为理解垂直领域AI服务场景提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-25/why-us-china-ai-talks-are-about-risk-management-video": {
+    "title_clean": "美中AI对话聚焦风险管理",
+    "summary": "前美国官员Sarah Beran指出，美中AI交流将侧重风险降低而非深度合作，强调护栏机制和威胁报告渠道为主要内容。这对元宝产品经理了解国际AI监管趋势和潜在合作限制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Jdr1wzniQD689afKGHuJ5g": {
+    "title_clean": "清华大学联合无问芯穹开源具身智能云原生纳管平台RLark",
+    "summary": "清华大学与无问芯穹合作开源具身智能云原生纳管平台RLark，可实现5分钟快速接入。该平台专注于具身智能的云原生管理，为AI Agent和智能体提供基础设施支持，对元宝在智能体管理和云服务架构方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amazon-gives-merchants-tools-manage-walmart-shopify-inventory": {
+    "title_clean": "Amazon推出跨平台库存管理工具",
+    "summary": "Amazon宣布为商家提供软件工具，使其能够通过Amazon平台管理在Walmart、Shopify、eBay和TikTok等竞争对手平台上的库存。这一功能将帮助商家简化多渠道销售管理流程，对元宝产品经理在多平台整合和服务场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-24/ai-tied-debt-seeing-higher-costs-video": {
+    "title_clean": "AI-Tied Debt：AI相关债务成本上升",
+    "summary": "高盛和橡树资本高管在彭博节目中讨论AI相关债务融资成本上升的趋势，分析AI项目融资面临的挑战与市场变化，为元宝产品经理了解AI商业化过程中的金融环境变化提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-24/bloomberg-tech-9-24-2026-video": {
+    "title_clean": "Oracle应对新墨西哥数据中心成本压力，AI战略调整",
+    "summary": "Oracle因新墨西哥大型数据中心面临监管障碍和当地反对，正采取措施控制成本。同时，Meta也发布了相关AI战略。这对元宝产品经理了解大型科技公司如何平衡AI基础设施投资与监管风险有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-24/apple-store-creator-on-new-book-and-retail-s-ai-future-video": {
+    "title_clean": "Apple Store创始人谈零售业AI未来",
+    "summary": "Apple Store创始人兼新书《Shop Different》作者Ron Johnson解析苹果零售店战略，探讨AI如何重塑零售业。对元宝产品经理有参考价值，特别是AI在实体零售场景的应用与用户体验设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

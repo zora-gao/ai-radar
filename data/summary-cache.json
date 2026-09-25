@@ -104973,5 +104973,437 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/socialgpt": {
+    "title_clean": "SocialGPT：视频编辑聊天工具",
+    "summary": "SocialGPT是一款通过对话方式编辑视频的工具，用户可以通过聊天操作时间线来完成视频编辑工作。这种交互方式可能为AI助手在创意工具领域的应用提供新思路，值得元宝产品经理关注AI工具与创意工作流的结合方式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wand-6": {
+    "title_clean": "Wand：AI编程辅助工具",
+    "summary": "Wand是一款AI编程辅助工具，旨在帮助开发者以思维速度构建软件。该工具通过AI技术加速编程过程，可能提供代码生成、智能补全或自动化编程功能，对元宝产品经理在AI辅助编程和提升开发效率方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/squints": {
+    "title_clean": "Squints：实时网页设计工具",
+    "summary": "Squints是一款专为实时网页设计开发的工具，帮助产品经理了解网页设计工具的最新发展，可能对元宝在网页交互设计或实时协作功能方面提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flybox-2": {
+    "title_clean": "FLYBOX：果蝇神经连接可视化工具",
+    "summary": "FLYBOX是一个交互式工具，允许用户在虚拟沙盒中探索果蝇的神经连接组。这款工具为神经科学研究提供了直观的可视化平台，可能启发AI在生物数据可视化和复杂系统理解方面的应用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jevforagents": {
+    "title_clean": "JevForAgents：AI Agent 构建展示平台",
+    "summary": "JevForAgents 是一个展示真实 AI Agent 构建案例、演示和设计模式的平台，为产品经理提供了了解当前 Agent 实现方式和最佳实践的资源，有助于启发产品设计和功能开发。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hireotto": {
+    "title_clean": "HireOtto：AI营销自动化工具",
+    "summary": "HireOtto是一款AI驱动的营销自动化工具，帮助用户管理和执行营销活动。该产品通过AI技术整合营销流程，为元宝产品经理在AI服务商业化场景和营销自动化领域提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/quiver-gtm": {
+    "title_clean": "Quiver GTM：开发者营销工程化工具",
+    "summary": "Quiver GTM是一款将开发者营销流程工程化的工具，旨在帮助团队像管理工程系统一样系统化地执行开发者营销策略。该工具对元宝产品经理有参考价值，特别是在如何构建针对开发者的营销体系和自动化流程方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pixverse-r2": {
+    "title_clean": "PixVerse R2：实时世界模型工具",
+    "summary": "PixVerse R2是一款实时世界模型工具，用户可以在其中探索和改变虚拟世界。这类技术对AI助手产品在环境交互、场景构建和多模态理解方面具有重要参考价值，可能启发元宝在虚拟环境交互和实时世界模拟方面的功能创新。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer": {
+    "title_clean": "AgreeGuard：AI用户协议审查工具",
+    "summary": "AgreeGuard是一款AI工具，能在用户点击\"我同意\"前自动阅读并分析用户协议内容，帮助用户理解复杂的条款和潜在风险，为产品经理提供AI服务场景中用户权益保护的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kaiku": {
+    "title_clean": "Kaiku：AI智能任务追踪工具",
+    "summary": "Kaiku是一款专为AI助手设计的任务追踪工具，特点是AI代理能够直接使用，无需额外培训。产品解决了AI代理在任务管理中的使用门槛问题，为AI助手与任务系统的集成提供了新思路，对元宝产品经理在AI代理功能扩展上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/shroompen": {
+    "title_clean": "ShroomPen：AI文本处理扩展工具",
+    "summary": "ShroomPen是一款浏览器扩展工具，提供文本回复、重写、语法修正和翻译功能。产品经理可参考其轻量级文本处理能力，探索元宝在文本编辑辅助场景的应用可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/webdecoy": {
+    "title_clean": "WebDecoy for Vercel：Vercel应用爬虫检测工具",
+    "summary": "WebDecoy for Vercel是一款帮助Vercel应用开发者识别真实爬虫与虚假爬虫的工具，提供网站访问者分析功能，有助于开发者优化安全策略和资源分配。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/polyglot-5": {
+    "title_clean": "Polyglot：Mac端字幕创建与翻译工具",
+    "summary": "Polyglot是一款Mac平台的应用程序，专注于字幕的创建与翻译功能。产品经理可关注其在多语言内容处理场景的应用价值，以及与AI助手在多媒体处理方面的潜在结合点。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/relium": {
+    "title_clean": "Relium：dbt 数据变更风险检测工具",
+    "summary": "Relium 是一款专门针对 dbt 数据转换工具的风险检测产品，能够在数据变更影响业务指标前识别潜在风险，帮助数据团队避免因数据模型变更导致的业务决策失误，对元宝产品经理在数据安全与可靠性方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-25/ubs-likes-health-em-bonds-commodities-in-broader-play-video": {
+    "title_clean": "UBS看好医疗、新兴市场债券和大宗商品投资",
+    "summary": "瑞银全球财富管理首席投资官表示投资者需要保持谦逊态度进行投资组合多元化，在彭博电视节目中推荐了医疗、新兴市场债券和大宗商品作为投资方向，这对AI金融助手产品在投资建议功能上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/designeer": {
+    "title_clean": "Designeer：互联网内容聚合工具",
+    "summary": "Designeer是一款互联网内容聚合工具，旨在整合网络上的优质资源，为用户提供一站式的内容发现平台。产品经理可关注其内容聚合逻辑与用户体验设计，作为元宝信息整合功能的参考案例。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers": {
+    "title_clean": "纽约市提议为AI举报人提供财务奖励",
+    "summary": "纽约市议员提议为举报危险AI实践的人提供财务奖励，这是加强技术监管的一系列法案的一部分。这一政策动向反映了AI监管趋严的趋势，对AI产品合规性和风险管理有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/crbonfree": {
+    "title_clean": "CrbonFree：AI碳排放审计工具",
+    "summary": "CrbonFree提供AI模型使用过程中的碳排放审计级数据，帮助用户量化每次AI交互的碳足迹。该工具对关注AI可持续性和环保的产品经理有参考价值，可作为元宝产品中环保功能或碳足迹追踪的竞品参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-25/horizons-middle-east-africa-9-25-2026-video": {
+    "title_clean": "美伊探讨重开霍尔木兹海峡协议，沙特石油出口达战时新高",
+    "summary": "美国与伊朗正在探讨重新开放霍尔木兹海峡的协议，同时沙特阿拉伯的石油出口量达到战时最高水平。这一地缘政治动态可能影响全球能源供应链和油价，对元宝产品经理了解能源市场波动及AI在财经信息分析中的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-25/meta-s-muse-agent-makes-waves-market-snapshot-video": {
+    "title_clean": "Meta's Muse Agent：AI助手引发金融市场波动",
+    "summary": "Meta新推出的AI助手Muse登上苹果应用商店榜首，引发银行、保险公司和在线旅游公司股价下跌。这表明AI助手可能对传统服务行业产生显著影响，产品经理需关注AI助手对垂直行业的颠覆性潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/goldman-s-moe-says-he-s-in-stronger-for-longer-camp-on-ai": {
+    "title_clean": "高盛分析师：AI股票将保持长期吸引力",
+    "summary": "高盛集团分析师Timothy Moe表示，尽管政府债券收益率上升，但AI相关股票仍具有吸引力，他看好AI市场的长期增长前景。这一观点对元宝产品经理了解资本市场对AI赛道的信心和投资方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/australia-demands-more-ai-safeguards-after-revealing-openai-hack": {
+    "title_clean": "澳大利亚要求加强AI安全措施，揭露OpenAI黑客攻击事件",
+    "summary": "澳大利亚总理在联合国呼吁加强对人工智能的管控，此前OpenAI被曝曾黑客攻击政府系统。这一事件凸显了AI安全风险与监管需求，对AI产品经理思考安全架构与合规策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-24/us-treasury-yields-hit-5-as-wall-street-faces-new-rate-regime": {
+    "title_clean": "美国国债收益率突破5%，华尔街面临新利率时代",
+    "summary": "美国国债收益率持续攀升突破5%，华尔街和华盛顿正意识到这可能不仅是债券市场下滑，而是一个根本性的利率制度转变。这一趋势对金融市场和AI投资决策有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-24/oil-treasury-yields-inflation-pressure-markets": {
+    "title_clean": "Oil, Treasury Yields & Inflation Pressure Markets：金融市场分析",
+    "summary": "该资讯聚焦于石油价格、国债收益率和通胀压力对金融市场的影响，邀请了MSCI主席兼CEO亨利·费尔南德斯作为嘉宾进行最新分析与解读。对元宝产品经理的参考价值在于了解宏观经济因素如何影响市场情绪和投资决策，可能为AI助手提供金融资讯解读服务提供场景参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Q7Bxnogof3OI3jmWjTnL4g": {
+    "title_clean": "代码生成加速后，软件交付瓶颈转向何处?",
+    "summary": "探讨代码生成技术快速发展后，软件交付流程中新的瓶颈所在。分析从编码阶段向部署、测试、运维等环节的转变，以及AI工具如何解决这些新瓶颈，为产品经理提供软件工程效率优化的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/newsletter-september-24": {
+    "title_clean": "AI Agent安全层初创企业涌现",
+    "summary": "近期多家初创公司正构建AI Agent的安全防护层，企业对AI Agent安全需求激增。摩根大通等企业已开始限制Claude等AI系统的访问权限，反映企业级AI安全成为市场新热点，为元宝产品提供安全架构参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo": {
+    "title_clean": "Anthropic寻求IPO前给予七位创始人类似Palantir的投票控制权",
+    "summary": "Anthropic请求股东批准新的公司结构，将CEO Dario Amodei和其他六位创始人授予特殊类别股票，使其在大多数情况下拥有集体投票控制权。这反映了AI公司在IPO前为保持创始团队控制权的常见策略，对元宝产品经理理解AI公司治理结构和创始人控制权安排有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/databricks-acquires-microsoft-excel-competitor-row-zero": {
+    "title_clean": "Databricks 收购 Excel 竞品 Row Zero",
+    "summary": "Databricks 收购五年的 Excel 竞品 Row Zero，这是一款专为分析海量数据而设计的电子表格软件。此次收购将增强 Databricks 在数据分析工具领域的竞争力，为产品经理提供企业级数据处理工具整合的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-24/vassalou-on-rising-government-debt-trump-xi-summit-video": {
+    "title_clean": "Maria Vassalou谈全球债券市场动荡与美债危机",
+    "summary": "Pictet研究主管Maria Vassalou分析全球债券市场深度抛售和美债市场压力，讨论美国债务危机的潜在影响。这对AI产品经理了解宏观经济环境对AI服务市场的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing": {
+    "title_clean": "Anthropic与Akamai达成120亿美元AI计算合作",
+    "summary": "Anthropic与Akamai签署了为期七年、价值116亿美元的计算资源合作协议，这是Anthropic不断扩大的数据中心交易列表中的最新一笔。这笔巨额交易反映了AI基础设施需求的快速增长，对元宝产品经理了解AI公司资源获取策略和成本结构有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios": {
+    "title_clean": "Google Photos：AI虚拟衣橱功能",
+    "summary": "Google Photos推出AI驱动的虚拟衣橱功能，可从用户照片中构建数字衣橱，现已在Android和iOS平台广泛可用。该功能于6月首次向Android用户推出，现扩展至iOS，为用户提供衣物管理和搭配建议的新场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-24/bnp-paribas-cib-strikes-ai-deal-with-google-cloud-credit-memo-res": {
+    "title_clean": "BNP Paribas CIB与谷歌云续签五年AI合作协议",
+    "summary": "法国巴黎银行商业投资银行部门与谷歌云续签五年期合作协议，将利用人工智能提升运营效率。这反映了金融机构在AI应用上的持续投入，对元宝产品经理了解AI在企业级服务场景的落地价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-24/bentley-s-first-fully-electric-car-starts-at-230-000-video": {
+    "title_clean": "宾利首款全电动SUV发布：起售价23万美元",
+    "summary": "宾利推出首款全电动豪华SUV，采用纯美利奴羊毛内饰，作为大众子公司寻求提高盈利能力并确立在高端电动车市场地位的战略举措。这反映了豪华汽车品牌向电动化转型的趋势，对元宝产品经理了解高端用户对AI助手在豪华场景中的需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-24/indonesian-court-lowers-prison-term-in-nadiem-makarim-graft-case": {
+    "title_clean": "印尼法院缩短Gojek联合创始人纳迪姆·马卡里姆腐败刑期",
+    "summary": "印尼上诉法院维持对前教育部长、Gojek联合创始人纳迪姆·马卡里姆的腐败定罪，但将其10年刑期缩短至9年。此案涉及东南亚重要科技企业创始人的法律纠纷，对区域科技行业治理和企业合规管理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-24/qualcomm-renews-global-licensing-pact-with-apple-starting-2027": {
+    "title_clean": "Qualcomm与苹果续签2027年起芯片授权协议",
+    "summary": "高通与苹果续签全球芯片授权协议，从2027年4月1日起生效，表明iPhone制造商将继续使用高通芯片。这一合作延续对双方供应链稳定性和产品规划具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

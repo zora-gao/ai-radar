@@ -106221,5 +106221,268 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/dokbot": {
+    "title_clean": "DokBot：文档网站智能客服工具",
+    "summary": "DokBot可将文档转化为网站支持聊天机器人，帮助用户通过对话方式获取文档信息。这款工具能提升网站用户体验，减少客服压力，对元宝产品经理在文档智能交互和客服场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/uidcaption": {
+    "title_clean": "UIDCaption：离线自动动画字幕生成工具",
+    "summary": "UIDCaption是一款离线字幕生成工具，可自动创建动画字幕，无需联网即可使用。对于元宝产品经理而言，这代表了一种在无网络环境下提供字幕服务的解决方案，可能启发多模态交互中的离线功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/decktly": {
+    "title_clean": "Decktly：HTML演示文稿编辑工具",
+    "summary": "Decktly是一款HTML演示文稿编辑工具，允许用户像使用PowerPoint一样创建和编辑HTML演示文稿。这为产品经理提供了新的交互思路，探索将传统演示文稿与Web技术结合的可能性，可能为多模态交互和内容创作场景提供新方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/github-statistics-velocity-radar": {
+    "title_clean": "Velocity Radar：GitHub 代码库动态追踪工具",
+    "summary": "Velocity Radar 是一款追踪 GitHub 代码库动态的工具，可监控私有仓库和 AI 代理项目的开发活动，帮助产品经理了解开源社区和 AI 项目的开发趋势与活跃度。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/remoteconsole": {
+    "title_clean": "RemoteConsole：远程终端访问工具",
+    "summary": "RemoteConsole是一款远程终端访问工具，允许用户在AI代理无法或不便访问时，直接连接到家庭或工作终端。该工具为产品经理提供了在AI服务场景中补充人工干预的解决方案，特别是在需要直接系统操作的场景下具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wapisender": {
+    "title_clean": "WapiSender：WhatsApp自动化工具",
+    "summary": "WapiSender是一款WhatsApp自动化工具，结合AI能力、可视化流程和MCP协议，为用户提供强大的WhatsApp自动化解决方案。产品经理可关注其AI驱动的自动化实现方式和商业应用场景，评估对元宝在服务自动化领域的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aks-ai": {
+    "title_clean": "Aks.ai：个人引导式自我反思工具",
+    "summary": "Aks.ai是一款个人引导式自我反思工具，帮助用户进行有指导的自我反思。作为AI助手类产品，它专注于心理健康和个人成长领域，为元宝产品经理提供了AI在非传统聊天场景下的应用参考，展示了AI如何辅助用户进行深度自我对话。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meta-vr-glasses": {
+    "title_clean": "Meta VR Glasses：轻量化虚拟现实眼镜",
+    "summary": "Meta推出仅重100克的VR眼镜，集影院、前排座位和办公空间于一体，展示了轻量化VR设备的多场景应用潜力，为AI助手在虚拟空间中的服务场景提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/memoire-3": {
+    "title_clean": "Memoire：AI 思维转文稿工具",
+    "summary": "Memoire 是一款将思维转化为文稿的 AI 工具，旨在减少创作过程中的摩擦。它可能帮助用户快速将想法、笔记或思考过程转化为结构化的文档，对元宝产品经理在内容创作和知识管理功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kelam": {
+    "title_clean": "Kelam：AI电话代办助手",
+    "summary": "Kelam是一款AI代理工具，能够代替用户完成不想亲自接听的电话任务，帮助用户处理电话沟通事宜，减轻沟通负担，提升效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lateron-email": {
+    "title_clean": "LaterOn：AI 邮件代理平台",
+    "summary": "LaterOn v2 是一款AI邮件代理平台，用户只需描述一次邮件任务，系统即可自动完成相关工作。该产品通过AI代理技术简化邮件处理流程，为元宝产品经理提供了AI自动化任务处理的参考案例，特别是在邮件服务场景的应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/mj4-aPbFyr2_TjPVEWolaQ": {
+    "title_clean": "Jev刷屏后：12个月前已提出概率并行生成技术",
+    "summary": "该资讯指出在Jev技术刷屏后，有研究早在12个月前就已提出概率并行生成技术。这提示AI生成领域可能存在技术路线的相似性或重复创新，对产品经理了解AI生成技术的发展脉络和潜在竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/X_kANlNN9MripkbRg2-HRQ": {
+    "title_clean": "AI改图，终于懂点「用户心理学」了",
+    "summary": "该资讯报道了AI图像编辑技术在理解用户心理需求方面的最新进展，表明AI工具正在从简单的图像处理向更智能的用户意图理解转变，这对元宝产品经理在AI交互设计上具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/gS5Bwtf28wPMUYaR2V6dag": {
+    "title_clean": "AdaRoboVLG：机械手任务自适应视觉语言抓取框架",
+    "summary": "AdaRoboVLG是一个适用于不同机械手的任务自适应视觉语言抓取框架，通过视觉语言理解实现机械手对不同任务的适应性抓取。该技术对AI助手在物理世界交互、机器人控制领域的产品开发具有参考价值，特别是在多模态理解和任务执行方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/YId6ryrraiJcisH-xHUd6Q": {
+    "title_clean": "Anthropic创始人IPO：持股2%却要求50.1%投票权",
+    "summary": "Anthropic创始人计划在IPO中仅持有约2%的股份，却要求掌握50.1%的投票权，这反映了创始团队对公司控制权的重视。这一股权结构设计对AI公司治理和创始团队与投资者之间的权力平衡具有重要参考价值，尤其对元宝在考虑公司治理结构和融资策略时提供了重要启示。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026": {
+    "title_clean": "马克·沃尔伯格将出席TechCrunch Disrupt 2026大会，聚焦创业与投资话题",
+    "summary": "演员马克·沃尔伯格将参加TechCrunch Disrupt 2026大会，与Bruce K. Lee共同探讨投资、创业、健康保健、企业建设等话题，为创业者提供行业洞见和商业机会。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo": {
+    "title_clean": "Anthropic 创始人寻求 IPO 前投票控制权",
+    "summary": "Anthropic 正请求股东批准一项特殊股权结构，使其七位联合创始人共同拥有公司大部分事项的50.1%投票权。这反映了AI公司创始人试图在IPO后保持对公司战略方向的控制，对元宝产品经理理解AI公司治理结构和创始人控制权策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-stuut": {
+    "title_clean": "Executive Interview: Stuut",
+    "summary": "Stuut公司首席运营官接受CB Insights专访，分享其市场定位、客户需求认知及公司战略。作为一家AI服务提供商，Stuut阐述了其市场定义和竞争策略，对AI服务场景和商业化方向具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing": {
+    "title_clean": "Nscale：英国AI云服务公司完成33.6亿美元可转换融资",
+    "summary": "英国AI云服务公司Nscale在美IPO前获得33.6亿美元可转换融资，投资方包括Third Point和Nvidia等。这笔资金将用于支持公司大规模AI数据中心建设，显示AI基础设施领域持续获得资本青睐。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-25/meta-connect-2026-muse-ai-gadget-shows-ambitious-hardware-vision": {
+    "title_clean": "Meta Connect 2026：Muse AI 硬件展示雄心勃勃的硬件愿景",
+    "summary": "Meta 在 Connect 2026 大会上展示了 Muse AI 硬件产品，扩展了其 AI 硬件产品组合，展示了公司在 AI 硬件领域的雄心与风险。这一产品动向对元宝产品经理评估 AI 硬件与 AI 助手结合的可能性具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end": {
+    "title_clean": "马斯克计划年底前将Colossus 2的Nvidia芯片数量翻倍",
+    "summary": "马斯克表示，其xAI业务构建的AI计算集群Colossus 2计划在年底前将Nvidia芯片数量增加一倍以上。这反映了xAI在AI基础设施方面的快速扩张，对产品经理评估AI算力资源竞争态势和大型语言模型训练成本具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

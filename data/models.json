@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-09-25T21:02:42.237Z",
+  "generated_at": "2026-09-26T00:16:15.508Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "typesafe/jev-router",
+      "name": "Jev Router",
+      "vendor": "Typesafe",
+      "vendor_slug": "typesafe",
+      "url": "https://openrouter.ai/typesafe/jev-router",
+      "created_at": "2026-09-25T19:12:40Z",
+      "context_length": 1000000,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "audio",
+        "file",
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": null,
+      "price_out": null,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": false,
+      "description": "Jev Router picks the best model and reasoning effort for each request, balancing quality, speed, and cost. It runs on Jev, TypeSafe's first System One model, and adapts as your...",
+      "description_zh": null
+    },
     {
       "id": "perceptron/perceptron-mk1.5",
       "name": "Perceptron Mk1.5",
@@ -710,8 +737,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.099,
-      "price_out": 0.6,
+      "price_in": 0.035,
+      "price_out": 0.29,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -955,8 +982,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.099,
-      "price_out": 0.6,
+      "price_in": 0.14,
+      "price_out": 0.42,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1457,31 +1484,6 @@
       "supports_reasoning": true,
       "description": "Qwen3.8 Flash is a multimodal reasoning model from Alibaba. It is suited for coding assistance, agentic workflows, visual understanding, document and codebase analysis, desktop interaction, chart analysis, and long-video analysis.",
       "description_zh": "Qwen3.8 Flash是阿里巴巴的多模态推理模型。它适用于编码辅助、代理工作流程、视觉理解、文档和代码库分析、桌面交互、图表分析和长视频分析。"
-    },
-    {
-      "id": "z-ai/glm-5.3-flash",
-      "name": "GLM 5.3 Flash",
-      "vendor": "Zhipu AI",
-      "vendor_slug": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-flash-20260826",
-      "created_at": "2026-08-26T13:59:01Z",
-      "context_length": 1310720,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.045,
-      "price_out": 0.14,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GLM-5.3-Flash is a native multimodal model from Z.ai. It is suited for efficient coding and long-horizon agent tasks. Its hybrid sparse and linear attention architecture maintains accurate long-context behavior while...",
-      "description_zh": "GLM-5.3-Flash 是 Z.ai 的原生多模式模型。它适合高效编码和长期代理任务。其混合稀疏和线性注意架构保持准确的长上下文行为，同时......"
     }
   ]
 }

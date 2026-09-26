@@ -107196,5 +107196,65 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-26/ai-gives-tech-firms-new-national-security-power-video": {
+    "title_clean": "AI赋予科技公司新的国家安全能力",
+    "summary": "科技公司与投资者日益接受国防合作，AI技术正在重塑硅谷与国防工业的关系，为科技公司带来新的国家安全影响力。这对元宝产品经理了解AI技术在国家安全领域的应用边界和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-26/what-is-an-ai-kill-switch-why-shutting-down-ai-isn-t-so-simple": {
+    "title_clean": "AI安全开关：为何关闭失控AI并非易事",
+    "summary": "文章探讨AI安全开关的可行性，分析当AI能力超越人类控制时，简单关闭机制面临的挑战。对产品经理了解AI安全边界和失控风险防范有参考价值，尤其涉及AI助手和Agent的安全设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-26/exxon-signs-shale-deal-with-azerbaijan-for-middle-kura-basin": {
+    "title_clean": "埃克森美孚与阿塞拜疆签署页岩油气开发协议",
+    "summary": "埃克森美孚与阿塞拜疆达成协议，将在阿塞拜疆的页岩田进行石油和天然气开采，这是这家德克萨斯能源巨头将其水力压裂技术拓展到海外的举措。此交易展示了传统能源公司在全球页岩资源开发方面的战略布局。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-25/bitget-hack-pushes-north-korean-crypto-haul-past-1-billion": {
+    "title_clean": "Bitget交易所遭黑客攻击，朝鲜黑客加密货币盗窃总额超10亿美元",
+    "summary": "Bitget交易所遭遇价值3.57亿美元的黑客攻击，疑似与朝鲜有关联的黑客所为，使朝鲜今年通过加密货币盗窃获得的总额超过10亿美元。这一事件凸显了加密货币交易所面临的安全风险，以及朝鲜黑客组织在数字资产领域的持续威胁。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-24/amcham-shanghai-president-on-trump-xi-summit-video": {
+    "title_clean": "AmCham Shanghai President on Trump-Xi summit",
+    "summary": "上海美国商会会长Eric Zheng就中美两国元首华盛顿峰会发表看法，分析此次高层会晤对美国企业的潜在影响。作为中美商业关系的重要观察者，其观点对元宝产品经理了解国际商业环境变化及潜在服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

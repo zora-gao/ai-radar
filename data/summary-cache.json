@@ -107256,5 +107256,68 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/fg-Oqr_1aNcXch1axbahQA": {
+    "title_clean": "计算机科学学术界死了吗？AI博士生该何去何从",
+    "summary": "探讨计算机科学学术界现状及AI博士生的职业发展路径，分析学术界面临的挑战与机遇，为AI人才职业规划提供参考视角。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/8HXt8jiIhNMu5bpNmiDjPw": {
+    "title_clean": "OpenAI承认：AI将用户图片错误上传至网络，公开53个案例",
+    "summary": "OpenAI承认其AI系统存在安全漏洞，将用户图片错误上传至互联网，并公开了53个相关案例。这反映了AI服务在用户数据保护方面的风险，对产品经理在处理用户隐私和数据安全方面有重要警示价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/kH0CR50I1k-_ZTZz6UO92Q": {
+    "title_clean": "港科大提出LexAgentHallu：追踪AI智能体幻觉检测工具",
+    "summary": "香港科技大学研究团队提出LexAgentHallu工具，专门追踪AI智能体在回答问题时的幻觉现象，即虽然答案正确但推理过程存在错误。这项研究对提升AI助手准确性和可靠性有重要参考价值，产品经理可关注如何在实际应用中减少AI幻觉现象。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs": {
+    "title_clean": "Insurers claim AI is already increasing healthcare costs",
+    "summary": "蓝十字蓝盾报告称，医院使用AI工具导致两年内医疗支出额外增加9.42亿美元。这表明AI在医疗领域的应用可能正在推高成本，而非降低医疗支出，对AI在医疗场景中的实际效益评估具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/bpCsQ7GAkrFjD4b3WdANkQ": {
+    "title_clean": "AI代写论文露馅：顶刊主编质疑作者无法回答",
+    "summary": "顶刊主编通过提问发现论文作者无法回答自己文章内容，暴露AI代写问题。这一事件警示AI内容生成工具的伦理风险和检测必要性，对元宝产品经理在开发AI内容生成功能时如何确保原创性和可追溯性具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

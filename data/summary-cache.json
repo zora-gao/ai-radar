@@ -107448,5 +107448,68 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6": {
+    "title_clean": "Meta VR眼镜：苹果Vision Pro的理想替代方案",
+    "summary": "Meta推出VR眼镜产品，被评价为苹果Vision Pro的理想替代方案。苹果正在权衡其头显设备的下一步发展方向，这对元宝产品经理在AR/VR领域的产品定位和竞争策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-27/why-humanoid-robots-might-be-the-future-of-elder-care-video": {
+    "title_clean": "人形机器人或将成为老年护理的未来",
+    "summary": "美国每年在长期护理上花费约4000亿美元，而每100名65岁以上老人仅有4名专业护理人员。Andromeda公司开发的人形机器人Abi等正提供情感支持，可能解决老年护理人力短缺问题，为AI服务在养老场景的应用提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba": {
+    "title_clean": "中国考虑允许字节跳动、阿里巴巴购买英伟达新芯片",
+    "summary": "据知情人士透露，中国政府正考虑允许部分国内企业购买英伟达为高端专业电脑设计的新芯片，这可能影响字节跳动和阿里巴巴等科技巨头的AI硬件采购策略，对元宝产品经理了解中国AI基础设施政策变化和供应链调整有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-27/ai-safety-concerns-put-congress-on-the-spot-video": {
+    "title_clean": "AI安全问题引发国会关注",
+    "summary": "弗吉尼亚州民主党议员Don Beyer表示，近期AI事件加剧了联邦安全保护的紧迫性，包括安全测试和严重事件强制报告。这反映了AI安全监管趋势，对产品经理了解政策风险和合规要求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says": {
+    "title_clean": "中国或允许阿里巴巴购买英伟达新款RTX Pro 5500芯片",
+    "summary": "据The Information报道，中国政府可能允许阿里巴巴和字节跳动等公司购买英伟达新款RTX Pro 5500芯片。这一政策变化可能影响中国AI企业的硬件供应，对元宝产品经理了解中国AI基础设施环境及潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

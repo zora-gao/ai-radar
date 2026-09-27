@@ -107396,5 +107396,57 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry": {
+    "title_clean": "澳大利亚参议院要求OpenAI和AnthropicCEO出席AI质询",
+    "summary": "澳大利亚参议院要求OpenAI和Anthropic的CEO出席质询，回应近期政府系统被黑客攻击事件。这反映了政府对AI安全与监管的重视，对元宝产品经理了解AI监管趋势和安全合规要求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-27/china-state-media-says-us-shares-responsibility-for-managing-ai": {
+    "title_clean": "中国官方媒体称美国应共同承担AI管理责任",
+    "summary": "中国官方社交媒体账号\"圆天天\"发文指出，中美两国有能力且有责任共同管理和开发人工智能。这一表态反映了两国在AI治理方面的合作必要性，对元宝产品经理了解国际AI政策环境及潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards": {
+    "title_clean": "比尔·盖茨：特朗普反对AI安全保障是错误的",
+    "summary": "微软创始人比尔·盖茨表示，政府针对人工智能潜在灾难性风险的安全保障措施不会阻碍美国在与中国的竞争中取得优势，这与特朗普总统的立场形成鲜明对比。这一观点对AI产品经理具有重要参考价值，反映了科技领袖对AI安全监管与国家竞争力关系的看法。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-27/how-ai-is-helping-african-farmers-prepare-for-el-nino-video": {
+    "title_clean": "AI助力非洲农民应对厄尔尼诺现象",
+    "summary": "国际机会组织通过基于WhatsApp的AI工具为小农户提供本地化的种植建议，帮助农民决定种植作物种类和时间。这项技术旨在帮助农民应对气候变化带来的挑战，对元宝在农业服务场景的AI应用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

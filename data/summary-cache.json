@@ -107511,5 +107511,65 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/BHAcQel47t43-N-pMz5-cg": {
+    "title_clean": "海交大卢策吾、汶川团队让VLA",
+    "summary": "上海交通大学卢策吾教授与汶川团队合作开发VLA技术，具体应用场景和功能细节未在描述中明确提及。作为AI领域的研究进展，可能对计算机视觉或相关AI技术方向有参考价值，但信息不足难以评估具体产品意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/0zurNjezW9JPtQdZdR2_rw": {
+    "title_clean": "DeepSeekmHC多流残差坍塌失效问题",
+    "summary": "DeepSeekmHC模型出现多流残差坍塌失效问题，这可能导致模型性能下降。对于AI产品经理而言，这是模型架构稳定性的重要参考，提醒在产品开发中需关注模型训练过程中的技术风险和稳定性问题。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/tz3cFkyt2UMHhvT9bKRKxg": {
+    "title_clean": "OpenAI横扫100多道世界难题，数学能力获重大突破",
+    "summary": "OpenAI在数学领域取得重大进展，成功解决了100多道世界级数学难题，但创始人表示这只是数学AI应用的开始，暗示未来在数学推理和问题解决方面还有更大潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment": {
+    "title_clean": "Anthropic的Dario Amodei登上《周六夜现场》",
+    "summary": "Anthropic CEO Dario Amodei登上美国喜剧节目《周六夜现场》，节目中引用了'AI是魔鬼，我是创造者'的台词。这反映了AI行业领袖在公众形象塑造方面的努力，以及主流媒体对AI伦理和创造者责任的关注。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising": {
+    "title_clean": "Anthropic CEO与特朗普会面：AI安全担忧加剧背景下的高层对话",
+    "summary": "Anthropic CEO Dario Amodei将于周日与总统特朗普共进晚餐，此次会面发生在AI安全担忧加剧的背景下。这反映了AI行业与政府高层就AI安全监管和政策方向的直接对话，对元宝产品经理了解AI政策环境变化和行业应对策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

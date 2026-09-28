@@ -107571,5 +107571,105 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/china-s-industrial-profit-growth-slows-for-fourth-straight-month": {
+    "title_clean": "中国工业企业利润增长放缓至去年11月以来最低",
+    "summary": "中国工业企业利润增长放缓至去年11月以来最低水平，凸显了复苏的不平衡性，主要受高油价和部分行业拖累。这一经济信号对AI产品经理评估企业服务市场潜力及用户需求变化具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/TnqpnqmsVfgs8pomZQgpEw": {
+    "title_clean": "Plan Mode被宣布死亡：AI规划功能争议",
+    "summary": "AI助手中的Plan Mode（规划模式）功能刚刚成为标配，就有声音宣布它已死亡。这反映了AI助手功能迭代快速，用户对规划功能的需求和评价可能存在分歧，产品经理需关注用户实际使用反馈与功能价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-27/shein-faces-first-public-earnings-test-as-growth-woes-mount": {
+    "title_clean": "Shein面临首次公开业绩考验，增长困境加剧",
+    "summary": "Shein作为全球快时尚零售巨头首次公布上市后财报，投资者关注其能否扭转自上市以来股价下跌28%的颓势，反映其面对增长放缓的市场挑战。这对元宝产品经理了解电商领域AI服务场景与商业化策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/GuMCI8Gt1aHVt1PeJ5CyRw": {
+    "title_clean": "模型越来越强，企业AI为什么还卡在「最后一公里」?",
+    "summary": "探讨企业AI应用面临的落地挑战，分析强大模型与实际业务场景之间的差距，指出企业AI在实施过程中遇到的障碍和解决方案，为产品经理提供企业级AI产品设计的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/u9Pnht2mHluZH_FS5tnbAg": {
+    "title_clean": "Claude Code与Codex协作，Raven新版本担任总调度",
+    "summary": "Claude Code与Codex实现协作，Raven新版本担任总调度角色，整合多个AI编程工具的工作流程。这一协作模式展示了AI编程工具的整合趋势，对元宝产品经理在AI助手协作与任务调度方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin": {
+    "title_clean": "Sakai Chemical：AI服务器粉末材料供应商",
+    "summary": "Sakai Chemical将百年化妆品粉末生产技术应用于AI服务器领域，成为AI硬件产业链的重要材料供应商。这一转型展示了传统制造业如何通过技术创新切入AI产业链，对元宝产品经理了解AI硬件供应链和材料创新有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropics-amodei-dine-trump-white-house": {
+    "title_clean": "Anthropic CEO Amodei将与美国总统特朗普在白宫共进晚餐",
+    "summary": "Anthropic首席执行官Dario Amodei将于周日与美国总统特朗普在白宫共进晚餐，这一会面可能涉及AI政策与监管讨论，对了解Anthropic与政府关系及未来政策走向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues": {
+    "title_clean": "Muse能否解决Meta的信任问题？",
+    "summary": "讨论Meta的AI产品Muse如何应对Meta在用户信任方面的挑战，以及Meta的AI发布如何从OpenAI和Anthropic那里抢走市场关注。这对元宝产品经理了解AI产品竞争格局和用户信任建设有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

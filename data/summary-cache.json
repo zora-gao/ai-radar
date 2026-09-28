@@ -107671,5 +107671,55 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/shotcandy": {
+    "title_clean": "Shotcandy：截图美化工具",
+    "summary": "Shotcandy是一款专注于提升截图视觉效果的工具，帮助用户创建更专业、吸引人的截图。对于元宝产品经理而言，这反映了用户对视觉呈现的需求，可作为AI助手增强内容输出质量的参考方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sayble": {
+    "title_clean": "Sayble：AI 通话助手",
+    "summary": "Sayble 是一款 AI 通话助手工具，能够在通话过程中实时提供对话建议，指导用户接下来应该说什么。这类工具对元宝产品经理在开发 AI 语音交互和实时对话辅助功能方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vitals-3": {
+    "title_clean": "Vitals：Mac应用活动监控工具",
+    "summary": "Vitals是一款Mac系统活动监控工具，与传统监控进程不同，它以应用为中心进行监控，帮助用户了解各应用的资源使用情况，为优化系统性能提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vantage-ai-2": {
+    "title_clean": "vantage.ai：AI 编程代理可视化控制工具",
+    "summary": "vantage.ai 提供可视化界面，让用户能够查看和控制 AI 编程代理的操作过程。这款工具帮助开发者理解 AI 编程代理的决策逻辑和工作流程，对元宝产品经理在 AI 代理透明度和用户控制方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

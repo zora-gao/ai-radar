@@ -108358,5 +108358,504 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/zerg-router": {
+    "title_clean": "Zerg Router：DeepSeek代码执行工具",
+    "summary": "Zerg Router是一款允许在Codex环境中运行DeepSeek模型的工具，为开发者提供了在特定代码环境中使用DeepSeek能力的途径。这对产品经理评估AI模型在不同开发环境中的集成可能性有参考价值，特别是在代码生成和执行场景中的应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/okara-2": {
+    "title_clean": "Okara：全球首个AI首席营销官工具",
+    "summary": "Okara宣称是全球首个AI首席营销官工具，可能提供营销策略制定、市场分析或营销自动化等功能。产品经理可关注其如何将AI技术应用于营销决策流程，以及这类AI高管工具对传统营销岗位的潜在影响和商业化价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/hO3qwjKNpzkAp4_Igb6tqQ": {
+    "title_clean": "LLM For Algorithm Design：华为团队获AI算法设计大赛冠军",
+    "summary": "华为联合团队在SAT2026大赛AI赛道夺冠，展示了LLM在算法设计领域的应用能力。这一成果表明大模型在解决复杂算法问题上的潜力，对元宝产品经理评估AI技术在实际问题解决中的应用价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/8F2Hu-Xixjnuq3mN1oNolg": {
+    "title_clean": "阿里云AgentSandbox：Agent云上计算机工具",
+    "summary": "阿里云推出AgentSandbox，为AI Agent提供可控的云上计算机环境，使Agent能够安全执行复杂任务。这一工具解决了Agent在执行任务时的环境隔离和资源控制问题，为AI Agent的实用化提供了基础设施支持，对元宝产品经理在Agent能力建设方面有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/m8P5ncbr8MjtjKin7kWotw": {
+    "title_clean": "SceneMosaic：3D场景快速生成工具",
+    "summary": "SceneMosaic是一款3D场景生成工具，能够通过单张图像快速生成可交互的3D室内场景，支持仿真功能。该技术可能为元宝在多模态交互和虚拟场景构建方面提供技术参考，特别是在快速生成3D内容方面的创新方法值得关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/qSFbEMZ93zhoizuo5PY56w": {
+    "title_clean": "IDC×浪潮信息报告：22亿Agent背后的AI算力重构",
+    "summary": "IDC与浪潮信息联合发布报告，指出AI Agent数量已达22亿，推动AI算力基础设施发生结构性变革。这一数据揭示了AI服务规模化部署的算力需求变化，对元宝产品规划AI服务扩展和资源分配具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pip-9": {
+    "title_clean": "PIP：AI电脑助手工具",
+    "summary": "PIP是一款运行在电脑上的AI助手工具，作为用户的AI伙伴提供辅助功能。产品经理可关注这类轻量级桌面AI助手的发展方向，以及它们如何与现有AI助手产品形成差异化竞争。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/metas-mongodb-ceo-poach": {
+    "title_clean": "Meta 挖角 MongoDB CEO",
+    "summary": "Meta CEO 扎克伯格在推出 Muse 个人助手后，宣布挖角 MongoDB CEO CJ Desai，表明其向企业销售 AI 产品的战略意图。这一人才动向反映 Meta 正加强企业级 AI 市场布局，对元宝产品经理评估企业 AI 服务策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-will-ship-gpt-6-1-astra-due-safety-concerns": {
+    "title_clean": "OpenAI因安全测试结果取消发布GPT-6.1 Astra模型",
+    "summary": "OpenAI宣布取消原计划发布的GPT-6.1 Astra模型，原因是该模型在安全测试中未达到预期标准。这一决定反映了AI公司在模型迭代过程中对安全性的高度重视，对产品经理评估AI产品发布策略和安全标准具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/goodman-pulls-sydney-data-center-plan-after-community-outcry": {
+    "title_clean": "Goodman撤回悉尼数据中心计划：因社区反对",
+    "summary": "澳大利亚工业地产开发商Goodman Group因公众反对，撤回了在悉尼北岸开发24小时数据中心的申请。此事件反映大型数据中心项目面临社区阻力，对元宝产品经理了解AI基础设施选址挑战和社区关系管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/recursive-self-improvement-winner-takes-all-say-founders-ricursive": {
+    "title_clean": "Recursive Self-Improvement Won’t Be Winner-Takes-All, Say Founders of Ricursive：AI自我改进非赢家通吃",
+    "summary": "Ricursive创始人提出AI自我改进不会形成赢家通吃局面，这一观点挑战了硅谷普遍认为的AI模型将完全自主研发无需人类干预的观点。这对产品经理评估AI长期发展路径和竞争格局具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says": {
+    "title_clean": "OpenAI推迟Astra模型发布：安全评估未达标",
+    "summary": "OpenAI因安全评估表现不佳而推迟了Astra人工智能模型的发布，该版本未能达到当前迭代的安全标准。这反映了AI公司在追求先进能力与确保安全之间的持续权衡，对产品经理在AI安全与功能平衡方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/premium-sports-content-is-here-to-stay-simon-gallagher-video": {
+    "title_clean": "前Hulu和Netflix高管谈体育内容付费趋势：NBC重获MLB转播权",
+    "summary": "前Hulu和Netflix高管Simon Gallagher在SPG Global讨论了NBC重新获得MLB转播权以及体育联赛广播与流媒体混合分发模式的增长，包括Peacock平台。他指出当前最大的问题是内容碎片化问题，这对体育内容付费策略和分发模式有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/manus-unveils-new-personal-agent-app-challenge-metas-muse": {
+    "title_clean": "Manus：个人代理应用挑战Meta Muse",
+    "summary": "从Meta分拆的AI代理创业公司Manus发布了一款独立的个人代理应用，直接挑战Meta的Muse产品。这反映了AI代理领域的竞争加剧，以及大公司分拆团队独立发展的趋势，对元宝产品经理了解AI代理市场竞争格局和产品差异化策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/libby-leffler-on-nvidia-buyback-state-of-ai-trade-video": {
+    "title_clean": "Libby Leffler谈英伟达股票回购与AI行业现状",
+    "summary": "Libby Leffler评价英伟达新系统旨在防止AI代理行为失范是积极进展，并指出股票回购数据反映市场真实情况。对产品经理了解AI行业资本动向和风险控制机制有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-anchor-2": {
+    "title_clean": "Executive Interview: Anchor：创始人谈市场定位与客户需求",
+    "summary": "Anchor联合创始人兼首席营收官Omry Man接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身在市场中的定位。这对元宝产品经理了解AI服务企业的市场策略和客户洞察有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-custodia": {
+    "title_clean": "Custodia CEO访谈：金融科技市场定位与客户需求",
+    "summary": "Custodia CEO Elad Efraim接受CB Insights采访，阐述公司对市场的理解、客户需求分析以及自身在金融科技领域的定位。访谈探讨了公司如何定义市场空间及业务发展方向，为金融科技产品经理提供市场洞察和战略参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-pallav": {
+    "title_clean": "CEO Interview: Pallav",
+    "summary": "Pallav CEO Nathan Gunawan接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了AI创业公司对市场机会的理解和战略思考，对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amd-buy-fei-fei-lis-world-labs-8-2-billion": {
+    "title_clean": "AMD收购李飞飞创立的World Labs，涉足3D空间模拟AI",
+    "summary": "AMD宣布以全股票交易方式约82亿美元收购李飞飞创立的World Labs。这家两年前成立的公司专注于开发能够模拟三维空间的AI模型。此次收购将增强AMD在空间计算和AI视觉领域的能力，对元宝产品经理评估AI多模态技术发展和空间计算应用场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-hesta-health": {
+    "title_clean": "Hesta Health CEO访谈：健康市场定位与客户需求分析",
+    "summary": "Hesta Health CEO Amanda Cupples接受CB Insights采访，分享公司对健康市场的定义、客户需求的理解以及自身在行业中的定位。这为元宝产品经理提供了健康领域AI服务市场洞察和客户需求参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion": {
+    "title_clean": "AMD收购李飞飞创立的World Labs AI公司，交易金额82亿美元",
+    "summary": "芯片制造商AMD宣布以82亿美元收购由AI先驱李飞飞创立的World Labs公司，此举将增强AMD在人工智能领域的技术实力和研发能力，对AI芯片市场竞争格局和AI大模型发展路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/amd-acquires-fei-fei-li-s-world-labs-for-8-2-billion-video": {
+    "title_clean": "AMD收购李飞飞创立的World Labs，作价82亿美元",
+    "summary": "AMD以全股票交易方式收购李飞飞创立的AI初创公司World Labs，估值约82亿美元。这笔收购将增强AMD在AI领域的竞争力，特别是计算机视觉和大型模型方面的技术实力，对AI行业格局和AMD产品战略有重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-instinct-hires-coatues-schwerin-chief-business-officer": {
+    "title_clean": "Instinct：硅谷热门AI助手任命首席业务官",
+    "summary": "硅谷热门AI助手Instinct任命Coatue管理公司投资人Ben Schwerin为首任首席业务官，这表明Instinct正在加速商业化进程，对AI助手产品的商业化和融资策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/amd-to-buy-world-labs-ai-startup-for-8-2-billion-video": {
+    "title_clean": "AMD收购李飞飞创立的World Labs AI公司，交易金额82亿美元",
+    "summary": "AMD以82亿美元收购李飞飞创立的World Labs AI公司，这是芯片巨头在AI领域的重要布局。李飞飞作为AI行业先驱，其创立的World Labs可能拥有先进的AI技术，此次收购将增强AMD在AI芯片和解决方案方面的竞争力，对AI行业格局和产品技术路线有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-robin-health": {
+    "title_clean": "Robin Health CEO访谈：医疗健康市场定位与公司战略",
+    "summary": "Robin Health CEO Giacomo De Lorenzo接受CB Insights采访，分享公司对医疗健康市场的看法、客户需求理解以及自身定位。这为元宝产品经理提供了医疗AI服务场景下的市场定位参考，以及如何针对特定行业客户需求进行产品定位的思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner": {
+    "title_clean": "Anthropic发布Sonnet 5.5：更快速、更经济的AI工作伙伴",
+    "summary": "Anthropic发布中端模型Sonnet 5.5新版，宣称响应速度更快且token消耗更少，定位为更经济高效的工作伙伴。这对产品经理评估AI模型性价比和性能优化方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market": {
+    "title_clean": "Manus：中国AI初创企业扩展AI Agent工具",
+    "summary": "中国AI初创公司Manus正在扩展其AI Agent产品线，试图在当前科技行业最热门的领域之一取得更大进展。这表明AI Agent市场竞争加剧，中国初创企业正积极布局这一领域，对元宝产品经理了解市场格局和竞争态势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-alix": {
+    "title_clean": "CEO Interview: Alix",
+    "summary": "Alix CEO Alexandra Mysoor接受CB Insights采访，分享公司市场定位、客户需求认知及业务布局。作为AI产品创始人，其市场洞察和战略思考对元宝产品经理有参考价值，特别是关于AI服务市场定位和客户需求理解的部分。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-ethic": {
+    "title_clean": "Ethic CEO访谈：ESG投资市场定位与客户需求",
+    "summary": "Ethic CEO Douglas Scott接受CB Insights访谈，阐述公司对ESG投资市场的理解、客户需求分析以及自身在行业中的定位。访谈内容对元宝产品经理了解金融科技领域AI服务场景与商业化策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/como-funcionaria-un-interruptor-de-emergencia-para-la-ia": {
+    "title_clean": "美国立法者推动AI紧急开关机制",
+    "summary": "美国立法者推动为AI系统设置紧急开关，但专家警告称断开先进AI模型并非易事。这一动态反映了AI监管与安全控制的重要趋势，对元宝产品经理了解AI安全边界和监管环境变化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/spacex-starship-splashes-down-in-pacific-ocean-video": {
+    "title_clean": "SpaceX Starship：星舰首次入轨但任务提前结束",
+    "summary": "SpaceX的Starship火箭首次成功进入轨道，但因发动机故障导致任务提前结束，期间成功部署了26颗卫星。这一进展对航天领域和太空探索具有重要意义，对元宝产品经理了解科技前沿突破有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/meta-taps-mongodb-ceo-lead-new-enterprise-ai-division": {
+    "title_clean": "Meta任命MongoDB CEO领导新企业AI部门",
+    "summary": "Meta宣布成立新企业AI部门，专门向企业销售其AI工具，并任命MongoDB首席执行官Chirantan Desai担任企业平台主管。这表明Meta正加速布局企业级AI市场，与OpenAI、微软等竞争对手争夺企业客户。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/bloomberg-surveillance-9-28-2026-video": {
+    "title_clean": "全球债券抛售拖累风险资产开局表现",
+    "summary": "全球债券市场大幅抛售对风险资产造成压力，影响投资者和决策者。该资讯反映了金融市场的风险情绪变化，对元宝产品经理了解经济环境对AI服务的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/kuaishou-s-ai-video-spinoff-unveils-new-model-in-bytedance-chase": {
+    "title_clean": "快手AI视频分拆公司发布新模型，追赶字节跳动",
+    "summary": "快手科技旗下AI分拆公司发布了最新的视频生成模型，此举旨在缩小与行业领导者字节跳动的差距，并为可能的香港上市做准备。这对元宝产品经理了解AI视频生成领域的竞争格局和商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending": {
+    "title_clean": "Anthropic与OpenAI争夺企业市场份额",
+    "summary": "Anthropic对企业客户采取严格折扣政策，在客户购买的token用完后不再提供优惠，这为OpenAI创造了抢占企业市场的机会。这对元宝产品经理了解AI企业级服务市场竞争策略和定价模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-boosts-share-buyback-program-by-150-billion-video": {
+    "title_clean": "Nvidia：150亿美元扩大股票回购计划",
+    "summary": "Nvidia宣布将股票回购计划增加150亿美元，使剩余授权回购总额达到235亿美元。这反映了公司强劲的现金流状况和对未来发展的信心，对AI硬件领域市场信号有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/Hcompany/holo4": {
+    "title_clean": "Holo4：通用计算机使用代理工具",
+    "summary": "Holo4是一个专注于通用计算机使用代理的工具，能够帮助AI代理执行广泛的计算机操作任务。这为元宝产品经理提供了关于AI代理如何实现跨应用操作和自动执行功能的参考价值，特别是在提升AI助手实际操作能力方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/belgium-s-agfa-to-merge-digital-printing-unit-with-siris-efi": {
+    "title_clean": "比利时Agfa与Siris的EFI合并数字印刷业务",
+    "summary": "比利时印刷IT公司Agfa Gevaert NV将其数字印刷解决方案业务与美国私募股权公司Sris持有的工业印刷公司Electronics for Imaging Inc.合并，这将整合两家公司在数字印刷领域的专业技术和市场资源。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/basis-tax-workbook-with-astra": {
+    "title_clean": "Basis：GPT-6 Astra加速税务处理工具",
+    "summary": "Basis使用GPT-6 Astra处理50页税务工作簿的速度比GPT-5.6 Sol快两倍，且对用户意图的理解更强，为实际应用提供了更高可靠性。这展示了新一代AI模型在专业服务场景中的效率提升，对元宝在税务、财务等垂直领域的AI服务能力有参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/why-building-a-crosswalk-in-la-is-kafkaesque-video": {
+    "title_clean": "洛杉矶人行道建设为何如此复杂：城市规划中的官僚主义困境",
+    "summary": "本文探讨了洛杉矶人行道建设过程中的官僚主义障碍，通过分析城市规划中的复杂审批流程和法规限制，揭示了公共服务项目面临的现实挑战。对产品经理的参考价值在于理解公共服务领域的系统复杂性，以及如何在简化流程与合规要求之间寻找平衡。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

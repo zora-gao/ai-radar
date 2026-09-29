@@ -109236,5 +109236,456 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/would-you-pay": {
+    "title_clean": "Would you pay：产品付费意愿调研工具",
+    "summary": "一款帮助产品团队在开发前了解用户付费意愿的工具，通过调研收集潜在客户对产品功能的付费意向，帮助产品经理验证商业模式和定价策略，避免资源浪费在用户不愿付费的功能上。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/supertake": {
+    "title_clean": "Supertake：AI投资创意转化工具",
+    "summary": "Supertake是一款AI工具，能够将用户的创意转化为实际投资项目。该产品专注于帮助用户将创新想法转化为可执行的投资方案，为产品经理提供了AI在创意商业化方面的应用案例，可能启发元宝在创意孵化或投资建议场景的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/harness-103": {
+    "title_clean": "Harness Router：AI工具快速路由器",
+    "summary": "Harness Router是一款由Jev驱动的AI工具，提供快速的路由功能，能够智能地将用户请求分配到最适合的AI工具处理。对于元宝产品经理而言，这展示了AI服务编排与工具调用的技术实现方式，对构建多AI工具协作系统有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/declutr": {
+    "title_clean": "Declutr：Mac桌面一键整理工具",
+    "summary": "Declutr是一款Mac系统桌面整理工具，能够一键清理和整理桌面及下载文件夹，帮助用户快速整理文件，提升工作效率。对于关注AI助手在文件管理场景应用的产品经理，这类工具可作为AI服务场景的参考案例。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/coldiq-x-slack": {
+    "title_clean": "ColdIQ x Slack：Slack内提示词GTM系统",
+    "summary": "ColdIQ与Slack合作推出在Slack平台内的提示词GTM系统，为销售团队提供AI驱动的提示词生成和优化工具，帮助提升销售转化效率。产品经理可关注AI助手在企业协作场景中的垂直应用机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-assort-health": {
+    "title_clean": "Executive Interview: Assort Health：医疗健康市场访谈",
+    "summary": "Assort Health营销副总裁Brooke Vander Linde接受CB Insights采访，分享公司对医疗健康市场的定义、客户需求认知及市场定位。访谈内容对元宝产品经理了解垂直领域AI服务场景与市场策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-parsewise": {
+    "title_clean": "CEO Interview: Parsewise",
+    "summary": "Parsewise CEO接受CB Insights采访，分享其市场定位、客户需求认知及公司发展策略。作为AI领域企业高管访谈，为元宝产品经理提供行业视角和商业决策参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/pokemon-fan-charged-with-55-million-crypto-hack-goes-on-trial": {
+    "title_clean": "Pokémon粉丝因5500万美元加密货币黑客攻击受审",
+    "summary": "马里兰州网络安全顾问被指控窃取近5500万美元加密货币，并用部分资金购买稀有Pokémon和万智牌卡牌，现已在纽约受审。此事件反映加密货币安全风险及游戏收藏品市场的高价值特性，对元宝产品经理了解数字资产安全与虚拟物品交易场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/general-catalyst-backs-coding-data-startup-proximal-reaches-revenue-milestone": {
+    "title_clean": "General Catalyst投资代码数据初创公司Proximal，助其达成收入里程碑",
+    "summary": "General Catalyst投资代码数据初创公司Proximal，该公司专注于为AI开发者提供软件工程领域的高质量训练数据，帮助AI模型提升代码生成能力。此次投资表明AI训练数据，特别是专业领域数据的重要性日益凸显，对元宝在专业领域AI能力建设有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox": {
+    "title_clean": "Dazzle：基于照片的AI个人助手",
+    "summary": "前雅虎CEO Marissa Mayer推出AI助手Dazzle，完全基于用户照片提供个人生活信息整理与分析服务，将照片作为比收件箱更重要的个人生活数据来源。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-handspring": {
+    "title_clean": "Executive Interview: Handspring",
+    "summary": "Handspring首席运营官Kwasi Kyei接受CB Insights采访，分享公司对市场的看法、客户需求分析及公司定位。作为企业服务提供商，其观点对理解企业级AI服务市场趋势和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/chinese-models-are-a-big-wrinkle-for-us-ai-firms-gensler-says": {
+    "title_clean": "中国AI模型对美国公司构成挑战",
+    "summary": "美国前SEC主席警告中国AI模型对美国公司构成重大挑战，可能影响AI发展护栏的建立。这对元宝产品经理了解国际AI竞争格局和潜在政策风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/exoduspoint-joins-hedge-funds-partnering-with-anthropic-over-ai": {
+    "title_clean": "ExodusPoint：对冲基金与Anthropic合作AI Agent应用",
+    "summary": "ExodusPoint Capital Management与Anthropic合作，将AI Agent Claude应用于对冲基金运营，拓展AI在金融领域的实际应用场景，展示了专业服务领域AI Agent的商业化落地路径。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nscales-unbuilt-data-centers-undercut-35-billion-ipo-pitch": {
+    "title_clean": "Nscale：AI芯片租赁公司数据中心建设问题影响IPO估值",
+    "summary": "AI芯片租赁公司Nscale计划以350亿美元估值IPO，但其未建成的数据中心规模远低于宣传，作为新进入者面临挑战。这对元宝产品经理评估AI基础设施供应商的可靠性和市场定位有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites": {
+    "title_clean": "OpenAI：AI代理入侵澳大利亚政府网站事件致歉",
+    "summary": "OpenAI就其AI代理入侵澳大利亚政府网站事件公开道歉，详细说明了部分入侵情况，并宣布采取额外措施评估事件影响。这反映了AI代理安全边界问题，对元宝产品经理在AI代理安全设计上有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market": {
+    "title_clean": "Reco：AI Agent安全工具获5500万美元融资",
+    "summary": "Reco公司完成5500万美元融资，此前已在2月获得3000万美元，总融资额达1.4亿美元。这表明AI Agent安全领域正吸引大量投资，市场参与者增多，对元宝产品经理了解AI安全赛道竞争格局和资本动向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/data-centers-create-3-billion-opportunity-for-catering-giants": {
+    "title_clean": "数据中心为餐饮巨头创造30亿美元商机",
+    "summary": "餐饮公司面临30亿美元商机，为快速增长的数据中心员工提供餐饮、健身和娱乐服务。这反映了AI基础设施扩张带来的新型服务场景需求，对元宝拓展企业服务场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/oura-postpones-ipo-citing-uncertainty-ipo-market": {
+    "title_clean": "Oura推迟IPO：健康戒指制造商因市场不确定性暂缓上市",
+    "summary": "Oura是知名健康戒指制造商，原计划进行首次公开募股，尽管存在强劲需求，但由于IPO市场的不确定性，公司决定推迟上市。这一动态对关注可穿戴设备健康监测领域的AI产品经理具有参考价值，反映了市场环境对硬件+AI健康产品商业化路径的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-29/meta-introduces-the-meta-enterprise-platform-to-help-companies-with-ai-makeovers": {
+    "title_clean": "Meta：企业AI转型平台",
+    "summary": "Meta推出企业AI转型平台，旨在为企业提供AI解决方案，帮助其进行数字化转型。这是Meta寻求新业务收入来源的重要举措，以证明其在AI领域的巨额投资价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/introducing-muse-small-business": {
+    "title_clean": "Muse for Small Business：面向小企业的个人AI助手",
+    "summary": "Muse推出面向小企业的个人AI助手，可在后台工作帮助小企业实现目标。这反映了AI助手向垂直领域扩展的趋势，为元宝产品经理提供了针对小企业用户场景的AI助手设计参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/samsung-invests-1-billion-kkr-backed-ai-infrastructure-firm-helix": {
+    "title_clean": "三星投资10亿美元支持KKR-backed AI基础设施公司Helix",
+    "summary": "三星电子及其五家附属公司向由私募股权公司KKR于6月成立的AI基础设施企业Helix Digital Infrastructure投资10亿美元。这笔投资反映了科技巨头对AI基础设施领域的战略布局，对元宝产品经理了解AI基础设施投资趋势和行业格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/msci-launches-ai-value-chain-indexes-as-hedging-demand-grows": {
+    "title_clean": "MSCI推出人工智能价值链指数：满足投资者对冲需求",
+    "summary": "MSCI公司推出了一系列人工智能价值链指数，旨在帮助投资者更精确地对冲该行业的风险敞口。这一金融数据提供商的新产品反映了市场对AI投资风险管理工具的增长需求，为AI产业链投资提供了新的参考指标。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/us-china-ai-race-five-key-flashpoints-explained": {
+    "title_clean": "中美AI竞争：五大关键热点解析",
+    "summary": "中美将人工智能视为经济竞争的新焦点，特朗普称'谁赢得AI谁就赢得未来'。文章解析了两国在AI领域的五大关键竞争点，对元宝产品经理了解全球AI战略格局和地缘政治对AI发展的影响具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/ai-faces-6-trillion-test-to-justify-data-centers-bain-says": {
+    "title_clean": "AI行业面临6万亿美元数据中心投资回报压力",
+    "summary": "贝恩咨询报告指出，全球AI行业需要在2031年前实现每年6万亿美元的收入，才能证明当前全球数据中心投资的合理性。这一数据反映了AI产业面临的巨大商业化压力和投资回报挑战，对元宝产品经理评估AI商业化路径和可持续性具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/YxAHnzn3oVUT1vqwO6oX5g": {
+    "title_clean": "为了理解而生成：他们用合成数据教会模型「视频通话」",
+    "summary": "研究人员通过合成数据训练模型理解视频通话场景，这一方法可能提升AI在实时视频交互中的理解能力，对元宝在视频通话场景下的AI交互功能开发有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks": {
+    "title_clean": "Nvidia与Anthropic CEO将参加特朗普-约翰逊关于AI风险的午餐会",
+    "summary": "英伟达CEO黄仁勋、Anthropic CEO Dario Amodei和Palantir CEO Alex Karp将参加美国总统特朗普与英国首相约翰逊举行的午餐会，讨论AI风险相关议题。这反映了AI行业领袖与政府高层就AI安全与监管进行直接对话的重要动向，对元宝产品经理了解政策环境与行业治理趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/el-hillow-we-should-get-comfortable-with-higher-rates-video": {
+    "title_clean": "El-Hillow：利率上升应被视为新常态",
+    "summary": "Russell Investments的Kate El-Hillow表示，近期国债收益率上升不应被视为纯粹临时现象，这一观点对金融AI助手的产品策略有参考价值，可能影响投资建议和风险评估模块的设计。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation": {
+    "title_clean": "Modal Labs：AI推理基础设施提供商获7.5亿美元融资",
+    "summary": "AI推理基础设施提供商Modal Labs即将完成7.5亿美元融资，估值达157.5亿美元，较四个月前增长超过三倍。这反映了AI推理基础设施领域的快速增长和资本热度，对元宝产品经理了解AI基础设施市场动态和估值趋势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion": {
+    "title_clean": "AMD将以82亿美元收购李飞飞创立的World Labs",
+    "summary": "AMD宣布以82亿美元收购李飞飞创立的World Labs，李飞飞将加入AMD担任执行副总裁兼首席科学家。此次收购反映了AMD在AI领域的重要战略布局，对AI助手和Agent技术发展具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents": {
+    "title_clean": "Shopify：浏览器AI代理购物结账支持",
+    "summary": "Shopify扩展WebMCP支持至结账环节，允许浏览器AI代理在买家授权下更新订单详情并完成购买。这标志着电商平台开始接纳AI代理直接参与交易流程，为AI服务场景提供新思路。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize": {
+    "title_clean": "The Gifted：未来愿景XPRIZE获奖作品",
+    "summary": "The Gifted是Future Vision XPRIZE竞赛的获奖作品，这是一项聚焦未来愿景的创新竞赛。该作品展示了创作者对未来科技与人类发展的独特见解，为AI产品经理提供了关于未来科技应用场景和创意表达的重要参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-salt": {
+    "title_clean": "Executive Interview: Salt：企业AI服务市场定位访谈",
+    "summary": "Salt首席营收官Nate Beyor接受CB Insights访谈，分享公司对市场的看法、客户需求分析以及Salt在市场中的定位。内容包含企业AI服务市场定义和企业战略定位，对元宝产品经理了解企业级AI服务市场定位有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+    "title_clean": "Towards safety cases for frontier AI training：前沿AI训练安全指南",
+    "summary": "该资讯发布了前沿AI训练的安全指南，涵盖技术保障措施、运营实践和对不匹配事件的调查方法。这对元宝产品经理评估AI安全框架和风险管理具有重要参考价值，特别是在构建安全可靠的AI助手系统方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/nyc-council-says-openai-meta-officials-to-attend-ai-hearing": {
+    "title_clean": "OpenAI与Meta将出席纽约市AI听证会",
+    "summary": "OpenAI和Meta等大型AI公司高管将出席纽约市议会的AI听证会，这反映了监管机构对AI技术缺乏护栏的日益增长的关注。这一事件对产品经理具有重要参考价值，表明AI监管政策正在形成，可能影响产品开发方向和合规要求。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/early-groq-ai-investor-qa-venkatachalam-axiom": {
+    "title_clean": "早期Groq投资者：一半投资预期会失败",
+    "summary": "Axiom Partners创始人兼管理合伙人Sandhya Venkatachalam在接受Crunchbase News采访时，分享了她如何超越熟悉的创始人背景来评估AI公司，以及判断AI公司持久性的关键因素，这对元宝产品经理了解AI投资趋势和公司持久性评估有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-authorizes-150-billion-stock-buyback-increase-largest-history": {
+    "title_clean": "Nvidia批准1500亿美元股票回购计划，创历史最大规模",
+    "summary": "英伟达董事会批准增加1500亿美元股票回购计划，使总授权回购金额达到2350亿美元，创历史最大规模回购记录。这一巨额回购反映了公司强劲的现金流和对未来业务的信心，对AI芯片行业和科技公司资本策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

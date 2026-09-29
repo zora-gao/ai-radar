@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:41:51.980Z",
+  "generated_at": "2026-09-29T15:36:32.486Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -318,8 +318,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "GPT-6 Luna Pro is the same underlying model as GPT-6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
-      "description_zh": "GPT-6 Luna Pro 与 GPT-6 Luna 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
+      "description": "GPT-6 Luna Pro is the same underlying model as GPT-6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
     },
     {
       "id": "openai/gpt-6-luna-pro:batch",
@@ -343,8 +343,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "GPT-6 Luna Pro is the same underlying model as GPT-6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
-      "description_zh": "GPT-6 Luna Pro 与 GPT-6 Luna 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
+      "description": "GPT-6 Luna Pro is the same underlying model as GPT-6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
     },
     {
       "id": "openai/gpt-6-luna",
@@ -418,8 +418,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "GPT-6 Sol Pro is the same underlying model as GPT-6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
-      "description_zh": "GPT-6 Sol Pro 与 GPT-6 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
+      "description": "GPT-6 Sol Pro is the same underlying model as GPT-6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
     },
     {
       "id": "openai/gpt-6-sol-pro:batch",
@@ -443,8 +443,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "GPT-6 Sol Pro is the same underlying model as GPT-6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
-      "description_zh": "GPT-6 Sol Pro 与 GPT-6 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
+      "description": "GPT-6 Sol Pro is the same underlying model as GPT-6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
     },
     {
       "id": "openai/gpt-6-sol",
@@ -763,8 +763,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.158,
-      "price_out": 1.958,
+      "price_in": 0.15,
+      "price_out": 3.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1207,8 +1207,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "GPT-6 Astra Pro is the same underlying model as GPT-6 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
-      "description_zh": "GPT-6 Astra Pro 与 GPT-6 Astra 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
+      "description": "GPT-6 Astra Pro is the same underlying model as GPT-6 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
     },
     {
       "id": "openai/gpt-6-astra-pro:batch",
@@ -1232,8 +1232,8 @@
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "GPT-6 Astra Pro is the same underlying model as GPT-6 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Learn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning reasoning-mode",
-      "description_zh": "GPT-6 Astra Pro 与 GPT-6 Astra 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。在 OpenAI 文档中了解更多信息：https://developers.openai.com/api/docs/guides/reasoning Reasoning-mode"
+      "description": "GPT-6 Astra Pro is the same underlying model as GPT-6 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
     },
     {
       "id": "inclusionai/ling-3.0-flash-sante:free",

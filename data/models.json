@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-09-29T15:36:32.486Z",
+  "generated_at": "2026-09-29T21:28:50.798Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "openai/gpt-6.1-sol-pro",
+      "name": "GPT-6.1 Sol Pro",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.1-sol-pro-20260929",
+      "created_at": "2026-09-29T17:28:06Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.1 Sol Pro is the same underlying model as GPT-6.1 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
+    },
+    {
+      "id": "openai/gpt-6.1-sol-pro:batch",
+      "name": "GPT-6.1 Sol Pro (batch)",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.1-sol-pro-20260929",
+      "created_at": "2026-09-29T17:28:06Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.1 Sol Pro is the same underlying model as GPT-6.1 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
+    },
+    {
+      "id": "openai/gpt-6.1-sol",
+      "name": "GPT-6.1 Sol",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.1-sol-20260929",
+      "created_at": "2026-09-29T17:28:02Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.1 Sol is an upgrade to GPT-6 Sol from OpenAI, positioned below the flagship GPT-6 Astra in the GPT-6 series. It is suited for agentic coding, computer use, document-heavy professional...",
+      "description_zh": null
+    },
+    {
+      "id": "openai/gpt-6.1-sol:batch",
+      "name": "GPT-6.1 Sol (batch)",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.1-sol-20260929",
+      "created_at": "2026-09-29T17:28:02Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.1 Sol is an upgrade to GPT-6 Sol from OpenAI, positioned below the flagship GPT-6 Astra in the GPT-6 series. It is suited for agentic coding, computer use, document-heavy professional...",
+      "description_zh": null
+    },
     {
       "id": "anthropic/claude-sonnet-5.5",
       "name": "Claude Sonnet 5.5",
@@ -1388,102 +1488,6 @@
       "supports_reasoning": true,
       "description": "Gemini 3.8 Flash is Google's most intelligent Flash model with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning.",
       "description_zh": "Gemini 3.8 Flash 是 Google 最智能的 Flash 模型，在软件工程、代理任务和多步推理方面较 3.7 Flash 有了显着的进步。"
-    },
-    {
-      "id": "anthropic/claude-fable-5.1",
-      "name": "Claude Fable 5.1",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-fable-5.1-20260831",
-      "created_at": "2026-09-01T18:03:58Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 10,
-      "price_out": 50,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Fable 5.1 improves on Claude Fable 5 across the board, with the biggest gains in agentic coding, long-running agentic workflows, and knowledge work: long code refactors, front-end and visual...",
-      "description_zh": "Claude Fable 5.1 在 Claude Fable 5 的基础上进行了全面改进，在代理编码、长时间运行的代理工作流程和知识工作方面取得了最大的进步：长代码重构、前端和可视化……"
-    },
-    {
-      "id": "anthropic/claude-fable-5.1:batch",
-      "name": "Claude Fable 5.1 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-fable-5.1-20260831",
-      "created_at": "2026-09-01T18:03:58Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Fable 5.1 improves on Claude Fable 5 across the board, with the biggest gains in agentic coding, long-running agentic workflows, and knowledge work: long code refactors, front-end and visual...",
-      "description_zh": "Claude Fable 5.1 在 Claude Fable 5 的基础上进行了全面改进，在代理编码、长时间运行的代理工作流程和知识工作方面取得了最大的进步：长代码重构、前端和可视化……"
-    },
-    {
-      "id": "ibm-granite/granite-4.2-8b",
-      "name": "Granite 4.2 8B",
-      "vendor": "Ibm Granite",
-      "vendor_slug": "ibm-granite",
-      "url": "https://openrouter.ai/ibm-granite/granite-4.2-8b-20260831",
-      "created_at": "2026-08-31T20:06:20Z",
-      "context_length": 131072,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.06,
-      "price_out": 0.25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Granite 4.2 8B is a dense reasoning model from IBM. It is suited for mathematics, code generation, multilingual dialogue, and agentic workflows that need multi-step reasoning. It supports full, low-effort,...",
-      "description_zh": "Granite 4.2 8B 是 IBM 的密集推理模型。它适用于数学、代码生成、多语言对话和需要多步骤推理的代理工作流程。它支持完整、省力、..."
-    },
-    {
-      "id": "tencent/hy4-preview",
-      "name": "Hy4 preview",
-      "vendor": "Tencent",
-      "vendor_slug": "tencent",
-      "url": "https://openrouter.ai/tencent/hy4-preview-20260827",
-      "created_at": "2026-08-28T06:09:35Z",
-      "context_length": 1048576,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.834,
-      "price_out": 2.501,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Tencent: Hy4 preview is a mixture-of-experts model from Tencent, with 49B active parameters out of 770B total. It is designed for coding agents, complex tool-use workflows, and productivity tasks that...",
-      "description_zh": "腾讯：Hy4预览版是腾讯的专家混合模型，总共770B个活动参数，其中有49B个。它专为编码代理、复杂的工具使用工作流程和生产力任务而设计..."
     }
   ]
 }

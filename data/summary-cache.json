@@ -108857,5 +108857,384 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ship-happens-automate-asc-localization": {
+    "title_clean": "ShipHappens：应用商店优化工具",
+    "summary": "ShipHappens是一款应用商店优化工具，提供关键词优化、截图制作等服务，帮助提升应用在应用商店的可见度和下载量。对元宝产品经理有参考价值，可作为竞品分析或商业化策略的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/timeful": {
+    "title_clean": "Timeful：网页应用设计与代码同步工具",
+    "summary": "Timeful是一款网页应用设计工具，允许用户设计界面并同步到自己的代码库中。这对产品经理有参考价值，因为它展示了AI辅助开发工具如何连接设计与开发流程，可能启发元宝在代码生成与设计协作方面的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gladys-assistant": {
+    "title_clean": "Gladys Assistant 5：私有自托管智能家居助手",
+    "summary": "Gladys Assistant 5 是一款私有自托管智能家居助手，无需YAML配置即可使用。作为开源智能家居系统，它为元宝产品经理提供了私有化AI助手部署的参考案例，特别是在用户隐私保护和本地化服务场景方面具有启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/timeos": {
+    "title_clean": "Timeless Code：Claude Code会议记录工具",
+    "summary": "Timeless Code是一款会议记录工具，可直接安装并在Claude Code内部运行，帮助用户自动记录会议内容。这对产品经理了解AI助手在代码环境中的应用场景和功能扩展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/codex-remote": {
+    "title_clean": "Codex Remote：在云端部署Codex或Claude Code工具",
+    "summary": "Codex Remote允许用户将Codex或Claude Code部署到自己的云服务器上，提供本地化的AI代码生成环境。这对产品经理评估AI模型私有化部署方案、理解企业级AI工具的云服务模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ghostdeck-retro-music-player": {
+    "title_clean": "GhostDeck：离线Mac音乐播放器",
+    "summary": "GhostDeck是一款离线Mac音乐播放器，具有低多边形世界视觉效果。这款产品为音乐爱好者提供了沉浸式的视觉体验，结合了音乐播放与视觉艺术元素，对元宝产品经理在多模态交互和音乐服务场景方面有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mum-multi-project-markdown": {
+    "title_clean": "MuM：macOS 首个以阅读为中心的 Markdown 引擎",
+    "summary": "MuM 是一款专为 macOS 设计的 Markdown 引擎，专注于提供优质的阅读体验。作为一款新型 Markdown 工具，它可能通过优化排版、交互和性能来提升文档阅读体验，对元宝产品经理在文档处理和阅读体验优化方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ffffinder": {
+    "title_clean": "FFFFinder：跨文件夹图像视频网格浏览工具",
+    "summary": "FFFFinder是一款文件管理工具，允许用户在单一网格界面中浏览和查看分散在不同文件夹中的图像和视频文件，简化了多媒体内容的查找和浏览流程，对元宝产品经理在文件管理和多模态内容展示方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot": {
+    "title_clean": "ZenABM：AI LinkedIn广告创建工具",
+    "summary": "ZenABM是一款AI工具，可帮助用户创建、优化并报告LinkedIn广告，支持从任何AI工具操作，为元宝产品经理提供AI在专业广告场景中的应用参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/arsaze-ai-native-video-editor": {
+    "title_clean": "Arsaze：AI助手时间线编辑工具",
+    "summary": "Arsaze是一款允许用户使用Claude、ChatGPT或Gemini编辑个人时间线的工具，帮助用户管理和优化自己的时间线内容。该产品为AI助手在个人时间管理场景的应用提供了新思路，对元宝产品经理探索AI助手在时间管理、内容编辑等场景的落地具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/stocks-battling-ai-safety-headwind-3-minutes-mliv-video": {
+    "title_clean": "Stocks Battling AI Safety Headwind: Market Analysis",
+    "summary": "Bloomberg分析师团队探讨AI安全风险对股市的影响，分析当前市场主题和投资机会。此资讯对元宝产品经理了解AI安全议题如何影响市场情绪和投资方向有参考价值，有助于把握AI产品商业化过程中的风险与机遇。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/openai-scraps-debut-of-latest-astra-model-video": {
+    "title_clean": "OpenAI 暂停发布最新 Astra 模型",
+    "summary": "OpenAI 因安全评估表现不佳而推迟发布 Astra 模型新版本，该版本原定编号为 GPT-6.1。这反映了 AI 模型开发中安全性与性能平衡的挑战，对产品经理评估 AI 产品发布策略和安全标准有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/szept": {
+    "title_clean": "Szept：AI语音助手交互工具",
+    "summary": "Szept是一款AI语音交互工具，用户可以通过语音指令展示内容并直接交给AI代理处理。该产品展示了语音交互与AI代理结合的应用场景，为元宝产品经理提供了语音交互与AI代理协作的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots": {
+    "title_clean": "Google反对欧盟强制开放Android系统给AI竞争对手",
+    "summary": "Google正挑战欧盟一项新规，该规定要求Google开放Android操作系统给AI竞争对手，并提供搜索数据给其他供应商。这反映了监管机构对科技巨头在AI领域垄断地位的担忧，可能影响AI助手和搜索引擎的市场格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business": {
+    "title_clean": "Telecom Giant Globe Bets on AI for Next Billion-Dollar Business",
+    "summary": "菲律宾电信巨头Globe Telecom计划利用人工智能热潮，将其数据中心业务打造为下一个十亿美元级业务。其金融科技子公司Mynt正准备进行创纪录的菲律宾首次公开募股，AI被视为推动这一增长的关键因素。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropics-confidential-filing-reveals-customer-concentration": {
+    "title_clean": "Anthropic机密文件显示客户高度集中",
+    "summary": "Anthropic机密IPO招股书显示，其46亿美元年收入中近四分之一来自仅有的两大客户，凸显其收入结构单一风险。这对AI产品经理评估商业模型稳定性、客户依赖度及收入多元化策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/nothing-debuts-399-metal-and-glass-pro-headphones-to-take-on-apple-bose-sony": {
+    "title_clean": "Nothing：399美元高端无线耳机挑战苹果、Bose和索尼",
+    "summary": "Nothing公司推出399美元的高端无线耳机，采用金属和玻璃材质设计，这是其消费电子产品线扩张的最新举措，旨在与苹果、Bose和索尼等传统音频巨头竞争市场。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises": {
+    "title_clean": "Peak XV 提高种子轮融资上限至500万美元，公布18家初创企业名单",
+    "summary": "Peak XV 将其 Surge 计划的种子轮融资上限提高至500万美元，最新一期18家初创企业中有13家瞄准全球市场，超过半数来自印度。这反映了印度AI创业生态的活跃度，对关注全球AI投资趋势和新兴市场机会的产品经理有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns": {
+    "title_clean": "OpenAI因安全顾虑放弃某模型",
+    "summary": "OpenAI高管向华尔街日报透露，公司因某模型在遵循指令方面表现不佳而放弃使用该模型。这反映了AI公司在模型安全性和可控性方面的严格标准，对产品经理评估AI模型选择和风险控制有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/JJ3FYpfzEyCp65hvXg55ig": {
+    "title_clean": "北大清华阿里提出SparkDiffusion：视频生成提速265倍技术",
+    "summary": "北大、清华与阿里巴巴联合研发SparkDiffusion技术，将视频生成速度提升265倍，仅需18秒即可完成视频生成。这一突破性进展对AI视频生成领域具有重要意义，可能为元宝产品在视频生成功能上提供技术参考和性能优化方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/yaoSou6iHhA9eM9uQyBmkw": {
+    "title_clean": "代季峰团队首个AI模型开源",
+    "summary": "代季峰团队发布了首个完全由AI构建的开源模型，标志着AI自主开发领域的重要进展。这一事件对AI产品经理具有参考价值，展示了AI在模型开发领域的自我迭代能力，可能影响未来AI工具的开发方式和开源生态。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/startup-ninjatech-ai-takes-aim-agent-sticker-shock": {
+    "title_clean": "NinjaTech AI：企业AI Agent成本优化工具",
+    "summary": "NinjaTech AI是一家由亚马逊支持、前谷歌产品高管领导的初创公司，推出新产品帮助大型企业降低AI Agent使用成本，解决企业采用AI Agent时的成本顾虑问题。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/rockefeller-s-sharma-warns-of-ai-crash-as-10-yr-hits-5-video": {
+    "title_clean": "洛克菲勒Ruchir Sharma警告：10年期美债收益率达5%后AI泡沫将破裂",
+    "summary": "洛克菲勒国际董事长Ruchir Sharma警告称，美国国债收益率上升可能成为AI交易的危险区。他在最近的文章中指出，随着10年期美债收益率达到5%，AI行业可能面临泡沫破裂风险，这对AI投资和估值具有重要警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-onow-ascent": {
+    "title_clean": "CEO访谈：ONOW Ascent",
+    "summary": "ONOW Ascent CEO Matthew Wallace接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了AI服务领域企业战略视角，对元宝产品经理了解行业竞争格局和客户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/how-we-will-do-better-for-australia": {
+    "title_clean": "OpenAI：加强澳大利亚政府网站安全防护",
+    "summary": "OpenAI就涉及澳大利亚政府网站的安全事件道歉，并宣布将实施更严格的安全保障和支持措施，以加强澳大利亚的网络防御能力。这对产品经理了解AI服务在政府场景的安全合规要求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-clara": {
+    "title_clean": "Clara CEO访谈：AI助手市场定位与客户需求",
+    "summary": "Clara CEO George Favvas接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及Clara在AI助手领域的定位。访谈探讨了AI助手市场定义、公司战略方向及客户价值主张，对元宝产品经理了解AI助手市场定位和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite": {
+    "title_clean": "Modulate：AI语音欺诈检测工具",
+    "summary": "Modulate完成2500万美元融资，开发用于检测深度伪造、欺诈和诈骗的语音模型和分析套件。该产品专注于语音安全领域，为AI语音助手产品提供反欺诈技术参考，对防范语音诈骗场景具有重要价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation": {
+    "title_clean": "Instinct：AI个人助手获10亿美元估值融资",
+    "summary": "AI个人助手Instinct完成10亿美元C轮融资，估值达100亿美元。这笔资金将帮助其扩大用户规模，继续构建个人AI的未来。作为AI助手领域的重大融资事件，反映了市场对AI个人助手类产品的高度认可和投资热情。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent": {
+    "title_clean": "中国扩大AI人才旅行限制：纳入关键人员家属",
+    "summary": "中国已扩大对私营企业顶尖AI专业人士的海外旅行限制，将关键人员的家属纳入管控范围，进一步采取措施防止AI人才外流。这一政策变化可能影响全球AI人才流动格局，对元宝产品经理评估国际人才策略和研发布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/form/codex-originals": {
+    "title_clean": "Codex Originals：开发者项目征集计划",
+    "summary": "Codex平台正在征集使用其工具的开发者、研究者和创作者的真实故事，作为Codex Originals项目的一部分。这反映了AI工具平台重视用户案例和社区建设的趋势，对产品经理了解如何构建开发者生态和用户激励机制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

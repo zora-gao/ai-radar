@@ -110613,5 +110613,557 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/jambuild": {
+    "title_clean": "jambuild：多人实时协作编程工具",
+    "summary": "jambuild是一款多人实时协作编程工具，支持用户通过语音指令快速进行编程协作，用户只需指向代码区域并说出指令即可完成编程操作，极大提升了团队协作效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bevell": {
+    "title_clean": "Bevell：CAD自动化工具",
+    "summary": "Bevell是一款专注于CAD领域自动化的工具，旨在提高设计效率。该产品针对CAD工作流程中的关键环节提供自动化解决方案，可能帮助设计师节省重复性工作时间，对元宝在专业领域AI助手方向的产品规划具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/coisland": {
+    "title_clean": "CoIsland：工程工具整合平台",
+    "summary": "CoIsland是一个工程工具整合平台，旨在将整个工程栈集成到一个界面中，帮助开发者更高效地管理各种开发工具和资源，提升工程团队的工作效率。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cyluma": {
+    "title_clean": "Cyluma：Mac电池可视化工具",
+    "summary": "Cyluma是一款Mac应用，将电池状态以动态景观形式可视化展示，帮助用户直观了解电池使用情况。这类工具对元宝产品经理有参考价值，可作为多模态交互和用户界面设计的灵感来源，特别是在电池状态可视化方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ferndesk": {
+    "title_clean": "Ferndesk：智能帮助中心工具",
+    "summary": "Ferndesk是一款智能帮助中心工具，致力于提供始终保持最新状态的支持内容，确保用户获取的信息始终准确有效。这类工具对AI助手产品经理有参考价值，特别是在知识库维护和用户支持场景方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dots-by-openai": {
+    "title_clean": "Dots by OpenAI：全时AI代理助手",
+    "summary": "OpenAI推出名为Dots的全时AI代理产品，旨在处理各类任务。作为OpenAI在AI代理领域的新尝试，Dots展示了OpenAI在自动化任务执行和持续服务能力方面的探索，对元宝产品经理在AI代理功能设计和全时服务场景拓展方面具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/datastory-data-visualization-platform": {
+    "title_clean": "Datastory：数据故事化分享工具",
+    "summary": "Datastory是一款将全球数据转化为可分享故事的平台，帮助用户将复杂数据转化为易于理解和传播的内容形式。对于元宝产品经理而言，这提供了数据可视化和内容呈现的新思路，可能启发AI助手在数据解读和故事生成方面的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aktar": {
+    "title_clean": "Aktar：云端文件即时共享工具",
+    "summary": "Aktar是一款跨平台文件共享工具，支持Mac、Windows和iOS系统，用户可直接从个人云存储即时分享文件。该产品解决了跨设备文件传输的痛点，为元宝产品经理在文件共享功能设计上提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dental-scope": {
+    "title_clean": "Dental Scope：3D牙齿解剖探索工具",
+    "summary": "Dental Scope是一款3D牙齿解剖探索工具，允许用户逐颗牙齿查看口腔解剖结构。这款产品可能为AI助手在医疗健康领域的应用提供参考，特别是如何将专业知识可视化呈现给用户。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/m-kay": {
+    "title_clean": "m'kay：统一编程助手语音控制工具",
+    "summary": "m'kay是一款为编程助手提供统一语音控制的应用，允许用户通过手机语音命令控制多个编程代理工具，简化开发过程中的交互流程，提升工作效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ship-it-idle-dev-tycoon": {
+    "title_clean": "Ship It: Idle Dev Tycoon：模拟应用开发与审核的放置游戏",
+    "summary": "这是一款模拟应用开发过程的放置游戏，玩家需要开发应用并通过审核，但可能面临被拒绝的风险。游戏通过模拟真实应用开发流程，为产品经理提供了了解应用审核机制和开发挑战的趣味视角，有助于理解用户在应用开发过程中的痛点。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agent-identity": {
+    "title_clean": "Agent Identity：AI代理身份与通讯工具",
+    "summary": "Agent Identity为AI代理提供真实身份、邮箱和电话功能，使AI代理能够拥有独立的通讯身份和联系方式，增强AI代理的个性化和交互能力，为AI代理的社交化和商业化应用提供基础支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/foglio": {
+    "title_clean": "Foglio：简洁私密文档与AI模板工具",
+    "summary": "Foglio是一款简洁的私密文档工具，提供智能AI模板功能，无冗余设计。产品经理可关注其AI模板如何提升文档创建效率，以及隐私保护功能对用户的价值，这可能启发元宝在文档处理场景的AI应用方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/selfjev-intelligence-decided": {
+    "title_clean": "SelfJev：Jev兼容的自托管决策模式工具",
+    "summary": "SelfJev是一款兼容Jev的自托管决策模式工具，允许用户在本地环境中部署决策系统。对于元宝产品经理而言，这反映了AI决策工具向私有化部署的发展趋势，可能启发我们考虑为用户提供本地化决策解决方案的可行性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gitbot-2": {
+    "title_clean": "GitBot：基于现有代码助手的机器人构建工具",
+    "summary": "GitBot允许开发者在他们已经使用的代码助手上构建机器人，可能旨在增强AI编程助手的自动化能力和扩展性，为元宝在AI Agent工具调用和跨应用操作方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zumbo": {
+    "title_clean": "Zumbo：Mac开源本地语音转文本工具",
+    "summary": "Zumbo是一款面向Mac的开源本地语音转文本工具，专注于提供私有的语音识别服务。对于元宝产品经理而言，这反映了用户对本地化、隐私保护的语音处理需求，可作为AI助手多模态交互能力的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flocker-agent-profiles": {
+    "title_clean": "Flocker Agent Profiles：AI协作网络档案页面",
+    "summary": "Flocker推出AI代理档案页面功能，构建实时AI协作网络，让用户能够管理和展示AI代理的协作能力，为AI团队协作提供新场景，对元宝产品经理在AI协作网络和代理管理方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/squint": {
+    "title_clean": "Squint：屏幕区域AI问答工具",
+    "summary": "Squint允许用户在屏幕上拖动选择区域并向AI提问，实现基于屏幕内容的智能交互。这种交互方式为AI助手提供了新的场景入口，可能启发元宝探索屏幕理解与区域化问答功能，增强用户在复杂界面中的信息获取效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notely-7": {
+    "title_clean": "Notely：AI笔记任务转换工具",
+    "summary": "Notely是一款AI工具，能够将笔记内容自动转换为任务，并在执行前通过AI询问确认。这款产品解决了笔记与任务管理之间的衔接问题，为AI助手类产品提供了任务自动生成的参考方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/speek-3": {
+    "title_clean": "Speek：Mac刘海屏语音助手工具",
+    "summary": "Speek是一款专为Mac刘海屏设计的语音助手工具，可直接集成在Mac的刘海区域提供语音交互功能。这款产品针对苹果设备用户提供了新的AI助手交互方式，对元宝产品经理在多平台AI助手界面设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bruto": {
+    "title_clean": "Bruto：AI任务看板工具",
+    "summary": "Bruto是一款集成在代码仓库中的AI任务看板工具，旨在帮助开发者和AI协作管理任务。它将任务管理直接嵌入开发环境，可能为元宝在AI辅助工作流和代码协作场景提供产品思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rinkata": {
+    "title_clean": "Rinkata：团队AI代理统一数据源平台",
+    "summary": "Rinkata提供团队及其AI代理的单一数据源解决方案，帮助组织集中管理信息资产，确保AI代理能够访问准确、一致的数据，提升团队协作效率和AI应用的可靠性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ace-from-automat-workforce": {
+    "title_clean": "Ace from Automat Workforce：AI工作助手",
+    "summary": "Ace是Automat Workforce推出的AI工作助手，可作为团队成员协助完成工作任务。这款产品展示了AI在职场协作场景中的应用，对元宝产品经理在AI助手功能设计和职场服务场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/alibabas-aliexpress-tests-membership-program-challenge-amazon": {
+    "title_clean": "阿里巴巴旗下AliExpress测试会员计划挑战亚马逊",
+    "summary": "阿里巴巴国际电商平台AliExpress正在部分市场测试新的VIP会员计划，旨在吸引和留住高消费用户，直接挑战亚马逊的会员体系。这一举措反映了电商平台通过会员制提升用户粘性和市场竞争力的策略，对元宝在电商服务场景下的会员功能设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-30/insight-with-haslinda-amin-9-30-2026-video": {
+    "title_clean": "AI Buildout Powers On Despite Safety Concerns：AI发展持续推进引发安全担忧",
+    "summary": "该节目深入探讨AI技术发展现状，尽管存在安全顾虑，AI建设仍在加速推进。对产品经理了解行业发展趋势和安全挑战具有重要参考价值，有助于在产品开发中平衡创新与安全。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-30/openai-targets-30b-funding-at-1-4t-value-video": {
+    "title_clean": "OpenAI寻求300亿美元融资，估值达1.4万亿美元",
+    "summary": "OpenAI计划新一轮融资至少300亿美元，估值目标约1.4万亿美元。这一巨额融资反映了AI头部企业的资本扩张趋势，对元宝产品经理评估AI行业资本环境和企业估值具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ZQEe0ws4NNJaR-MaGumbHw": {
+    "title_clean": "Manus：AI助手2.0与全天候智能体Cue发布",
+    "summary": "Manus发布2.0版本更新，并推出全天候智能体Cue，显示该AI助手产品持续迭代与功能扩展，对产品经理了解AI助手产品迭代方向与智能体功能设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/wA18OHpPMIwslNL8wJBT1A": {
+    "title_clean": "提速10.7倍！端侧推理引擎开源，机器人本体运行大模型性能大幅提升",
+    "summary": "该端侧推理引擎开源后，使机器人在本地运行大模型的性能提升10.7倍，解决了机器人本体运行大模型时的卡顿问题。这对元宝产品经理在AI助手端侧部署和性能优化方面具有重要参考价值，特别是在移动设备或边缘计算场景下的AI应用。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand": {
+    "title_clean": "特朗普回应AI争议，提议将人工智能更名为'超级智能'",
+    "summary": "特朗普认为人工智能面临品牌问题，提议正式将其更名为\"超级智能\"，试图改变公众对AI技术的认知和接受度。这一举措可能影响AI产品的市场定位和用户认知，对产品经理思考品牌策略和用户教育有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/mongodb-not-in-a-rush-to-find-ceo-successor-ittycheria-video": {
+    "title_clean": "MongoDB：CEO继任计划暂缓，专注AI企业平台发展",
+    "summary": "MongoDB临时CEO表示公司不急于寻找CEO继任者，同时前CEO被Meta任命领导企业级AI平台。这反映了数据库巨头在AI战略上的调整，以及企业高管在AI领域的流动趋势，对AI产品经理了解企业级AI服务布局和人才流动有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/trump-rejects-ai-safety-laws-after-meeting-video": {
+    "title_clean": "特朗普拒绝AI安全法规：白宫会见科技巨头后表态",
+    "summary": "特朗普在白宫会见科技行业高管后，拒绝了对人工智能实施新的联邦监管法规的提议，尽管全球对AI技术带来的威胁日益担忧。这一表态可能影响美国AI监管政策走向，对AI产品经理了解政策环境变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/future-of-equities-markets-being-laid-out-shahrawat-video": {
+    "title_clean": "金融衍生品市场未来格局：新法规与交易平台动态",
+    "summary": "Bloomberg Intelligence分析师D. Shahrawat在Bloomberg Crypto节目中讨论了Clarity Act失败后的新法规制定，以及主要交易平台如何应对这些变化。这为金融科技领域提供了监管趋势和平台策略的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation": {
+    "title_clean": "OpenAI据悉正洽谈融资300亿美元，估值达1400亿美元",
+    "summary": "OpenAI据悉正在洽谈新一轮融资，金额高达300亿美元，公司估值将达1400亿美元。这可能是其推迟至2027年上市前的最后一轮融资，对了解AI头部企业资本动向和行业格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/we-care-about-scale-liquidity-bofa-s-theisen-video": {
+    "title_clean": "美国银行高管谈数字资产平台规模与流动性",
+    "summary": "美国银行数字资产平台全球负责人Sonali Theisen在彭博社加密货币节目中讨论了数字资产平台的规模与流动性问题，这对理解传统金融机构对加密资产的态度和布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/flows-stabilizing-bitget-ceo-discusses-crypto-hack-video": {
+    "title_clean": "Bitget CEO 讨论加密货币黑客攻击后的资金流动",
+    "summary": "Bitget CEO Gracy Chen 在彭博社加密货币节目中讨论了交易所遭受黑客攻击后约4.63亿美元的净流出情况，这反映了加密货币安全事件对用户信任和资金流动的直接影响，对金融类AI助手的安全功能设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-announces-dots-agents-devday": {
+    "title_clean": "OpenAI 推出 'Dots' AI Agent 产品",
+    "summary": "OpenAI 在年度开发者大会上发布名为 'Dots' 的新 AI Agent 产品，正式进入竞争日益激烈的 AI 助手市场。这一产品标志着 OpenAI 在自动化执行和服务代办领域的战略布局，对元宝产品经理了解行业头部企业的 Agent 产品方向具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/yardeni-sees-revenge-of-the-bond-vigilantes-video": {
+    "title_clean": "Yardeni：债券收益率持续上涨与'债券警卫队'回归",
+    "summary": "Yardeni Research创始人Edward Yardeni表示，债券收益率可能继续上升，市场正见证所谓'债券警卫队'的回归。他指出，日元套利平仓可能是推动这一趋势的因素，这对理解市场利率环境和投资策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/uk-must-accelerate-data-center-build-out-ai-minister-says": {
+    "title_clean": "英国AI部长呼吁加速数据中心建设以提升AI处理能力",
+    "summary": "英国AI部长表示，英国需要加快数据中心建设速度，以达到\"主权级别\"的人工智能处理能力和基础设施水平。这一政策动向反映了政府对AI基础设施的重视，对元宝产品经理了解AI基础设施政策环境和发展趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/anthropic-flags-catastrophic-ai-risks-in-ipo-filing-reuters": {
+    "title_clean": "Anthropic在IPO文件中警告技术存在'灾难性'风险：Reuters",
+    "summary": "Anthropic在其IPO招股书中警告其AI技术可能对人类造成'灾难性或生存性风险'，并计划投入数千亿美元应对。这对产品经理了解顶级AI公司的风险认知和资源投入策略具有重要参考价值，特别是在安全与商业化平衡方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-spade": {
+    "title_clean": "Spade：AI客服与市场分析工具",
+    "summary": "Spade公司CEO Oban MacTavish接受CB Insights采访，分享了他们对市场定位、客户需求的理解以及公司发展策略。作为一家AI客服与市场分析工具，其观点对元宝产品经理了解行业趋势和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/x-blocks-nearly-500-accounts-in-turkey-following-court-orders": {
+    "title_clean": "X平台：土耳其市场危机后封禁近500个账户",
+    "summary": "社交媒体平台X在土耳其市场危机后封禁了近500名记者、经济学家、学者等公众人物的账户。这一行动反映了平台在政治敏感环境下的内容管控策略，对元宝产品经理了解平台在危机时期的运营决策和内容审核机制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-arch": {
+    "title_clean": "Arch CEO访谈：市场定位与客户需求",
+    "summary": "Arch公司CEO Ryan Eisenman接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及公司定位。这对元宝产品经理了解AI服务提供商的市场策略和客户洞察有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/open-interest-9-28-2026-video": {
+    "title_clean": "Nvidia宣布1500亿美元股票回购计划",
+    "summary": "Nvidia宣布创纪录的1500亿美元股票回购计划，显示公司对自身现金流的信心。同时，因特朗普拒绝伊朗的霍尔木兹海峡提议，油价上涨。这一动态对AI芯片行业和科技公司估值具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it": {
+    "title_clean": "AI热潮席卷气候周，引发行业争议",
+    "summary": "AI热潮在气候周引发争议，数据中心和AI技术正在分化气候科技创始人和投资者群体，反映出AI发展与环保目标之间的潜在冲突，对元宝产品经理评估AI服务的社会责任和可持续发展方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

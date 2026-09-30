@@ -111165,5 +111165,252 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/crawlraven-mcp": {
+    "title_clean": "CrawlRaven MCP：AI代理SEO工具",
+    "summary": "CrawlRaven MCP是一款通过AI代理执行SEO工作的工具，将SEO任务整合到AI工作流中，帮助产品经理探索AI在专业服务场景中的应用可能性，特别是自动化内容优化和网站分析方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/freddy": {
+    "title_clean": "freddy.health：AI健康助手工具",
+    "summary": "freddy.health是一款健康类AI工具，允许用户通过Claude、ChatGPT等AI助手与自己的身体进行对话交流。该产品将健康咨询与AI聊天机器人结合，为用户提供个性化健康建议和身体状态分析，对元宝在健康服务场景拓展方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/evlat": {
+    "title_clean": "Evlat：AI编程助手选择工具",
+    "summary": "Evlat是一个帮助用户了解和选择适合的AI编程助手工具的平台，通过对比不同AI编程助手的功能和特点，为开发者提供决策参考，有助于元宝产品经理了解AI编程助手领域的竞争格局和用户需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/webinarflow": {
+    "title_clean": "WebinarFlow：AI自动化营销演示工具",
+    "summary": "WebinarFlow是一款自动化营销演示工具，能够重复使用销售演示内容，并在关键时刻精准触达目标用户。该产品通过AI技术优化演示流程，提高营销效率，对元宝产品经理在AI营销自动化和用户触达策略方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rxfilmstudio": {
+    "title_clean": "RxFilmStudio：AI代理产品视频创作工具",
+    "summary": "RxFilmStudio是一款AI代理工具，可帮助用户创建和编辑产品视频。该工具通过AI技术简化视频制作流程，为产品经理提供了一种新的产品展示和营销方式，可能启发AI在内容创作领域的应用场景拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/getcta-store": {
+    "title_clean": "getcta.store：AI提词器工具",
+    "summary": "getcta.store是一款AI提词器工具，可安装在MacBook刘海屏下方，为用户提供实时提示和指导。该产品针对内容创作者和演讲者设计，解决了在视频录制或演讲过程中需要参考提示内容的问题，对元宝在AI辅助创作和实时指导场景的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/styx-2": {
+    "title_clean": "Styx：Mac端智能代理开发环境",
+    "summary": "Styx是一款专为Mac设计的智能代理开发环境(ADE)，为AI代理的开发和运行提供专用工具链。产品经理可关注其如何简化AI代理在Mac生态中的开发流程，以及这类专业开发工具对AI Agent技术落地的支持价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/campfire-12": {
+    "title_clean": "Campfire：人机协作编程工作空间",
+    "summary": "Campfire是一个专为人类与AI编程助手共同设计的共享工作空间，旨在促进人与AI编码代理之间的协作，提升开发效率。产品经理可关注其如何整合AI能力到开发流程中，以及人机协作模式的创新点。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/voice-memo": {
+    "title_clean": "Voice Memo：开源语音笔记任务管理工具",
+    "summary": "Voice Memo是一款开源语音笔记工具，可将语音内容自动整理为任务和提醒事项，帮助用户通过语音快速记录待办事项。这款产品对元宝产品经理有参考价值，特别是在语音交互与任务管理结合的场景设计上。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-09-30/ai-is-opening-a-new-front-in-cyberwar-and-startups-want-in": {
+    "title_clean": "AI开启网络战新领域，初创公司争相布局",
+    "summary": "多家初创公司正在筹集资金用于网络攻击性操作，AI技术正在改变网络安全领域的竞争格局。这一趋势对元宝产品经理有参考价值，因为AI在安全领域的应用可能催生新的服务场景和商业化机会，同时也需要关注AI技术被滥用的风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/morningstar-picks-google-s-new-chicago-building-for-hq-move": {
+    "title_clean": "Morningstar将总部迁入谷歌芝加哥新办公楼",
+    "summary": "Morningstar公司将总部迁入谷歌在芝加哥的新办公楼，这一合作将为曾经被忽视的市中心区域带来显著提升。对产品经理而言，这反映了大型科技公司与传统企业合作的新趋势，可能影响办公空间设计和企业服务场景的规划。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/coreweave-the-original-neocloud-wants-people-to-stop-calling-it-that": {
+    "title_clean": "CoreWeave：云计算服务提供商澄清品牌定位",
+    "summary": "CoreWeave作为云计算服务提供商，不满外界将其归类为'neocloud'，希望纠正这一品牌定位。这对元宝产品经理了解云计算服务提供商的品牌策略和市场定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/airbnb-courts-traveling-families-with-baby-gear-rentals-in-the-us": {
+    "title_clean": "Airbnb：美国推出婴儿用品租赁服务",
+    "summary": "Airbnb在美国部分市场推出婴儿用品租赁服务，允许旅客预订婴儿用品并直接送达租赁住所，这是公司计划在美国及海外提供的一系列新服务之一，旨在吸引家庭旅客并增强服务场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/texas-stock-exchange-raises-155-million-after-first-listings": {
+    "title_clean": "Texas Stock Exchange：美国德州证券交易所获1.55亿美元融资",
+    "summary": "德州证券交易所母公司完成1.55亿美元第三轮融资，资金将用于挑战纽交所和纳斯达克在股票交易市场的地位。这反映了区域金融科技平台的崛起趋势，对元宝产品经理了解金融科技领域竞争格局和资本动向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/michael-burry-s-protege-warns-of-value-traps-in-korean-stocks": {
+    "title_clean": "Michael Burry 弟子警告韩国股票存在'价值陷阱'",
+    "summary": "Michael Burry 的弟子警告韩国廉价股票存在'价值陷阱'，指出这些股票的价值往往被少数股东控制，使少数股东难以获得相应回报。这对产品经理了解金融投资领域的风险识别机制和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/china-hardware-stocks-set-for-worst-quarter-as-ai-rally-unravels": {
+    "title_clean": "中国硬件股因AI热潮退却创季度最差表现",
+    "summary": "中国科技硬件股遭遇最差季度表现，7月因市场担忧AI企业估值过高而出现抛售潮。这一市场动向对元宝产品经理有参考价值，反映了AI投资热潮可能存在泡沫，提示在规划AI产品商业化路径时需考虑市场情绪和估值合理性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-bunch": {
+    "title_clean": "Executive Interview: bunch - 企业协作平台高管访谈",
+    "summary": "bunch首席员工官Kardan Beytas接受CB Insights采访，分享其市场定位、客户需求分析及公司战略。该访谈揭示了企业协作平台的市场洞察和产品发展方向，对元宝产品经理了解企业级AI协作工具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value": {
+    "title_clean": "OpenAI寻求300亿美元融资，估值达1.4万亿美元",
+    "summary": "OpenAI计划从投资者处筹集至少300亿美元资金，估值目标高达1.4万亿美元。这一融资规模反映了AI领域的资本热度，对元宝产品经理而言，这预示着AI巨头可能加速产品迭代和商业化布局，值得密切关注其战略动向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/anthropic-ipo-to-be-a-watershed-event-for-tech-ives-video": {
+    "title_clean": "Anthropic IPO：AI巨头上市将成科技行业分水岭",
+    "summary": "Yorkville Ives & Co.合伙人Dan Ives分析Anthropic即将进行的首次公开募股，认为这将是一个影响深远的科技行业分水岭事件，同时探讨了围绕该公司日益增长的担忧因素。这对元宝产品经理了解AI行业头部企业动态和资本市场态度具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/samsung-to-invest-1-billion-in-kkr-s-ai-infrastructure-company": {
+    "title_clean": "三星投资10亿美元支持前AWS首席领导的AI数据中心项目",
+    "summary": "三星电子及其五家关联公司共同投资10亿美元支持一家由前亚马逊AWS首席执行官领导的美国公司，此举深化了三星集团向快速发展的AI领域扩张的战略布局，对元宝产品经理了解科技巨头在AI基础设施领域的投资动向具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

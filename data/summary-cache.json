@@ -110314,5 +110314,304 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/TidgNv92Wf1xF9EFF8Xg2A": {
+    "title_clean": "BenchShield：AI奖励漏洞检测框架",
+    "summary": "BenchShield提出了一种新的Reward Hacking检测框架，用于发现和判定AI系统中的奖励漏洞。这一技术对AI产品经理评估模型安全性和鲁棒性具有重要参考价值，有助于提升AI助手产品的可靠性和安全性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/UBWFihi7qzBT4uJcqNyNlg": {
+    "title_clean": "OpenAI将重新开放200美元套餐，但Tibo被骂惨了",
+    "summary": "OpenAI将重新开放200美元套餐，但Tibo被骂惨了。这反映了AI服务定价策略对用户情绪的影响，以及高端套餐市场的重要性。产品经理需关注定价策略与用户接受度的平衡。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/KprZA12Sbbhp5E4Z_pvHGg": {
+    "title_clean": "GPT-6Astra：丹麦团队通过工具调用揭示隐藏推理能力",
+    "summary": "丹麦研究团队通过工具调用技术揭示了GPT-6Astra的隐藏推理能力，这一发现可能对AI助手产品的推理能力提升和功能设计有重要参考价值，有助于产品经理了解前沿AI模型的潜在能力边界。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/deloitte-uk-partner-pay-grows-to-1-5-million-on-ai-demand": {
+    "title_clean": "德勤英国合伙人薪酬因AI需求增至150万美元",
+    "summary": "德勤英国业务去年向其权益合伙人支付平均约113万英镑(150万美元)薪酬，较前一年增长7%。公司表示，对人工智能咨询需求的增长是推动这一增长的关键因素，反映了AI专业服务市场的强劲商业价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/president-trump-announces-white-house-ai-accord": {
+    "title_clean": "特朗普宣布'超级智能'协议并更名AI",
+    "summary": "特朗普宣布主要AI公司已就AI安全条款达成非约束性承诺，包括模型对齐的内部控制和外部审计。这一政策动向可能影响AI行业监管框架，对元宝产品经理了解政策环境变化和行业合规要求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-withcoverage": {
+    "title_clean": "WithCoverage：保险科技市场定位与客户需求访谈",
+    "summary": "WithCoverage CEO Max Brenner接受CB Insights访谈，分享公司对保险科技市场的理解、客户需求分析以及自身在行业中的定位。访谈探讨了市场定义和公司战略方向，为保险科技领域的市场策略提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/altman-on-openai-s-ipo-plans-ai-agent-dots-ai-security-video": {
+    "title_clean": "Altman谈OpenAI IPO计划、AI Agent Dots及AI安全",
+    "summary": "OpenAI CEO Altman宣布推出名为Dots的AI个人代理产品，定位为高端服务，同时透露公司计划未来上市但保持耐心。这对元宝产品经理了解头部AI公司的商业化路径和Agent产品布局有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/bloom-energy-ceo-power-demand-is-coming-from-all-angles-video": {
+    "title_clean": "Bloom Energy CEO：AI基础设施能源需求激增",
+    "summary": "Bloom Energy在加入标普500指数并庆祝25周年之际，CEO强调AI基础设施带来的全方位电力需求增长，凸显能源供应商在AI时代面临的新机遇与挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/bloom-ceo-says-growth-goals-intact-despite-ai-slowdown-concerns": {
+    "title_clean": "Bloom CEO：AI基建放缓不影响公司增长目标",
+    "summary": "Bloom Energy CEO KR Sridhar表示，尽管AI基础设施建设面临'颠簸'，但公司增长目标保持不变。这对AI基础设施供应商的信心和行业韧性提供了重要参考，有助于产品经理评估AI基础设施市场的稳定性和长期发展前景。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/openai-cfo-friar-on-new-ai-assistant-capital-raise-video": {
+    "title_clean": "OpenAI CFO谈新AI助手Dots与融资计划",
+    "summary": "OpenAI CFO Sarah Friar介绍了公司新推出的主动式AI助手Dots，并在Bloomberg访谈中表示公司资金充足。这对元宝产品经理了解OpenAI最新产品方向和商业化策略具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/david-fincher-to-end-deal-with-netflix-adding-to-string-of-departures": {
+    "title_clean": "大卫·芬奇结束与Netflix合作，知名导演接连离开",
+    "summary": "知名导演大卫·芬cher结束与Netflix的长期合作关系，他曾执导Netflix标志性原创剧集《纸牌屋》。这一消息反映了Netflix在内容创作领域可能面临的人才流失问题，对内容平台战略和人才管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/altman-openai-investors-are-patient-on-ipo-amid-safety-focus": {
+    "title_clean": "Altman称OpenAI投资者愿意在安全优先情况下耐心等待IPO",
+    "summary": "OpenAI CEO表示公司希望在人工智能安全顾虑加剧的时期，不受上市公司压力的约束进行发展，投资者对此表示理解并愿意耐心等待。这对元宝产品经理了解AI巨头在安全与商业化平衡上的战略选择有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-29/openai-holds-back-astra-model-over-safety-concerns-video": {
+    "title_clean": "OpenAI因安全顾虑暂缓Astra模型发布",
+    "summary": "OpenAI正在开发更强的安全措施，暂缓发布其先进Astra模型的一个版本，这是该公司呼吁'放缓'AI开发节奏的最清晰例证之一，反映了AI安全与速度平衡的挑战。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/investors-financing-on-site-power-break-ai-bottlenecks": {
+    "title_clean": "投资者如何通过现场电源融资突破AI瓶颈",
+    "summary": "数据中心建设与运营公司正积极寻求资金保障，以支持大规模AI基础设施扩建。这促使投资者做出重大融资承诺，并创造性地设计交易方案，解决AI发展中的电力供应瓶颈问题。对元宝产品经理而言，这反映了AI服务扩张背后的基础设施挑战与投资机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-29/ternus-busca-transformar-apple-para-competir-en-era-de-ia-mumyl7t7": {
+    "title_clean": "Ternus：苹果重组以加速AI时代竞争",
+    "summary": "苹果新任CEO开始重组公司，减少管理层级，增加工程师与高管直接沟通，旨在加速产品发布并减少官僚作风，以应对AI时代的竞争挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-early-talks-raise-30-billion-ipo": {
+    "title_clean": "OpenAI：拟在IPO前筹集300亿美元",
+    "summary": "OpenAI正与投资者进行早期谈判，计划在IPO前筹集300亿美元资金。这一巨额融资反映了市场对AI领域的持续看好，同时也可能影响OpenAI的产品战略和竞争格局，对元宝产品经理评估AI巨头的资金实力和市场动向具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/find-community-forum-dedicated-app-facebook-groups": {
+    "title_clean": "Forum：Facebook群组专属社区应用",
+    "summary": "Forum是一款专为深度参与Facebook群组的用户设计的应用，帮助用户在群组中找到更紧密的社区连接。这款产品针对社交平台中用户对深度社区互动的需求，为元宝在构建AI驱动的社区连接功能方面提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less": {
+    "title_clean": "OpenAI发布GPT-6.1 Sol：称性能接近GPT-6 Astra且成本更低",
+    "summary": "OpenAI推出GPT-6.1 Sol模型，在代码编写、文档理解和多步业务执行等专业任务上较前代有显著提升，声称其性能接近更高端的GPT-6 Astra但成本更低，这对产品经理评估AI模型性价比和功能迭代方向有参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-discloses-84-5-billion-spacex-compute-agreements": {
+    "title_clean": "Anthropic与SpaceX签署高达845亿美元算力协议",
+    "summary": "Anthropic与SpaceX签署保密协议，将通过2029年使用SpaceX基于NVIDIA的算力能力，支付金额高达845亿美元。这反映了AI大模型训练对算力的巨大需求，以及头部AI公司为获取计算资源进行的巨额投资布局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses": {
+    "title_clean": "Meta：扩展AI助手Muse至小企业服务",
+    "summary": "Meta正在将其AI助手Muse扩展至小企业领域，该AI助手可帮助企业管理日常运营并获取新客户。这反映了科技巨头在AI商业化服务场景的布局，对元宝探索B端AI服务模式具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/the-close-9-28-2026-video": {
+    "title_clean": "股市与债券抛售：油价推高收益率",
+    "summary": "股市与债券市场出现抛售，主要受油价上涨推动收益率上升影响。这反映了市场对通胀和利率变化的担忧，对元宝产品经理了解宏观经济环境对AI金融服务的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-28/robotechnik-leads-hong-kong-s-1-8-billion-listing-debut-lineup": {
+    "title_clean": "RoboTechnik领衔香港18亿美元新股上市热潮",
+    "summary": "RoboTechnik等四家公司将在香港上市，共筹集144亿港元(18亿美元)，这是香港今年最繁忙的新股上市日之一。这一市场动态反映了香港资本市场对科技企业的投资热度，对元宝产品经理了解AI领域融资环境和市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-eventual": {
+    "title_clean": "CEO Interview: Eventual",
+    "summary": "Eventual CEO Dylan DiMarchi接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身定位。作为一家AI公司，其观点对了解AI产品市场定位和客户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-28/gecko-ceo-physical-ai-needs-humans-in-control-video": {
+    "title_clean": "Gecko CEO：物理AI需保持人类控制",
+    "summary": "Gecko Robotics CEO Jake Loosararian指出，随着自主系统进入物理世界，AI安全的新阶段在于保持人类控制权。他讨论了Gecko与NVIDIA在物理AI安全方面的合作，这对AI助手在物理世界应用的安全控制具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

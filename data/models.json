@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:42:03.750Z",
+  "generated_at": "2026-09-30T21:37:21.594Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -175,8 +175,8 @@
       "price_in": null,
       "price_out": null,
       "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
       "description": "Jev Router picks the best model and reasoning effort for each request, balancing quality, speed, and cost. It runs on Jev, TypeSafe's first System One model, and adapts as your...",
       "description_zh": "Jev Router 为每个请求选择最佳模型和推理工作，平衡质量、速度和成本。它在 Jev（TypeSafe 的第一个 System One 模型）上运行，并根据您的需要进行调整..."
     },

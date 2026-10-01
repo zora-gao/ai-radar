@@ -112035,5 +112035,372 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/0KzdQjq_yvagJ6-8SaWnIg": {
+    "title_clean": "DeepSeek开源昇腾基础组件：计算、通信与编译工具同步发布",
+    "summary": "DeepSeek开源了昇腾基础组件，包括计算、通信与编译工具，为AI开发者提供底层支持。这有助于降低AI模型部署门槛，对元宝产品经理评估底层技术选型与合作伙伴生态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ChcBYE_i2YdKuBIwpFphtA": {
+    "title_clean": "EMNLP2026I大模型解码不能只看概率，人大团队引入语义冗余",
+    "summary": "人大团队在EMNLP2026I上提出大模型解码新方法，认为不能仅依赖概率进行解码，引入语义冗余概念提升生成质量。这一研究对AI助手产品在文本生成质量优化方面有参考价值，可能影响大模型输出策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/pz0qloEOB4o5OMnIFoToyw": {
+    "title_clean": "TeleOCR：轻量化文档智能解析模型",
+    "summary": "TeleOCR是一款轻量化文档解析模型，拥有1.2B参数，在多个榜单上表现优异。该模型能够智能化解析各类文档，为AI助手处理文档内容提供技术支持，对元宝提升文档理解能力有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/behind-factory-founders-spat-cognition-key-hire": {
+    "title_clean": "AI公司Cognition与Factory创始人因关键人才招聘发生公开冲突",
+    "summary": "AI编程公司Cognition雇佣了曾为竞争对手Factory提供建议的销售主管，引发创始人公开争执，导致创业公司和投资者群体分裂。这一事件反映了AI人才争夺的激烈程度，以及行业内部竞争关系的复杂性，对元宝产品经理了解AI行业人才流动和竞争格局有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/doordash-needs-ai-assistant": {
+    "title_clean": "DoorDash：外卖平台AI助手商业化探索",
+    "summary": "DoorDash正在开发自有AI助手，旨在提升用户消费转化能力。这一举措反映了外卖平台通过AI技术增强用户粘性和商业变现的行业趋势，对元宝在服务场景商业化方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-01/south-korea-s-export-growth-extends-rally-as-chip-boom-rolls-on": {
+    "title_clean": "韩国出口创纪录：AI芯片需求持续推动半导体繁荣",
+    "summary": "韩国9月出口持续快速增长，全球对人工智能的需求继续推动半导体出货量增长，强化了贸易依赖型经济复苏的预期。这一趋势表明AI芯片市场强劲，对元宝产品经理评估AI硬件供应链和芯片应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet": {
+    "title_clean": "Google发布Gemini 4 Argon，称其为迄今为止最强大的模型",
+    "summary": "Google发布了最新Gemini模型Gemini 4 Argon，定位为编程和网络安全领域的工作主力模型。这一发布对AI助手产品经理具有重要参考价值，展示了大模型在专业垂直领域的能力发展方向。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business": {
+    "title_clean": "Meta任命Dhruv Vohra领导东南亚业务",
+    "summary": "Meta宣布Dhruv Vohra将担任东南亚全球业务集团总经理一职，负责该地区的业务发展。这一人事变动可能影响Meta在东南亚市场的AI产品布局和商业策略，对元宝在东南亚市场的竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/google-unveils-gemini-4-argon-pricing-well-rivals": {
+    "title_clean": "Google发布Gemini 4 Argon，定价低于竞品",
+    "summary": "Google推出最新旗舰AI模型Gemini 4 Argon，主打网络安全防御、编程以及法律和金融工作能力。该模型定价显著低于竞争对手，可能影响AI市场的价格策略和竞争格局，对产品经理评估AI模型成本效益和定价策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/deepseek-open-sources-software-tools-huawei-ai-chips": {
+    "title_clean": "DeepSeek开源华为AI芯片软件工具",
+    "summary": "DeepSeek宣布将开源专为华为AI芯片定制的软件工具，此举显示中国AI企业正加速采用国产半导体进行模型训练。这对元宝产品经理有参考价值，特别是在AI芯片适配和本土化技术合作方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-30/the-close-9-30-2026-video": {
+    "title_clean": "美光AI业务增长与九月市场回顾",
+    "summary": "美光公司在AI领域业务实现显著增长，成为市场关注焦点。该资讯提供了华尔街对美光AI业务表现的分析，以及九月整体市场动态，对了解AI硬件市场趋势和芯片公司在AI领域的商业机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-30/next-legacy-s-ryan-nece-on-the-rise-of-athlete-investing-video": {
+    "title_clean": "Next Legacy的Ryan Nece谈运动员投资趋势",
+    "summary": "前NFL球员Ryan Nece分享退役后的投资策略，探讨当前资本部署方向，包括是否将全部资金投入AI领域。作为运动员转型投资人的案例，对元宝产品经理了解高净值人群投资决策和AI资产配置有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-30/redpoint-ventures-brescia-on-micron-q4-ai-outlook-video": {
+    "title_clean": "Redpoint Ventures分析师谈美光Q4业绩与AI前景",
+    "summary": "美光科技第四季度业绩超出预期，第一季度展望也高于估计。Redpoint Ventures分析师Erica Brescia分析了美光在AI领域的表现和前景，对AI芯片市场趋势提供了专业见解，对元宝产品经理了解AI基础设施发展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-30/hpe-boosts-forecast-on-positive-networking-outlook-video": {
+    "title_clean": "HPE上调网络业务预期，获12亿美元云服务商大单",
+    "summary": "惠普企业上调网络业务收入预期，并宣布从云服务商Vultr获得12亿美元订单，显示其正受益于AI基础设施建设浪潮。这一动向表明企业级网络设备需求随AI发展而增长，对元宝了解企业服务市场与AI基础设施合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-30/why-morgan-stanley-sees-industrials-as-next-growth-wave-video": {
+    "title_clean": "摩根士丹利：工业地产是下一个增长领域",
+    "summary": "摩根士丹利全球实物资产主管Lauren Hochfelder表示，商业地产在长期调整后可能正处于有吸引力的转折点，工业地产将成为下一个增长领域。这一趋势可能影响AI助手在商业地产服务场景中的应用机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/banks-including-socgen-mufg-pull-back-data-center-loan-deals": {
+    "title_clean": "多家银行收紧AI数据中心贷款",
+    "summary": "法国巴黎银行、三菱UFJ等大型金融机构正在减少对AI数据中心建设的贷款投放，因市场波动和收益率上升促使他们选择更安全的投资。这一趋势可能影响AI基础设施建设的资金来源和成本结构，对AI产品经理评估技术部署成本和供应商稳定性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/former-ny-governor-cuomo-buys-9-6-million-hamptons-estate": {
+    "title_clean": "前纽约州长科莫以960万美元购买汉普顿庄园",
+    "summary": "前纽约州长安德鲁·科莫以960万美元购买了长岛南岸约七英亩的庄园。这一交易反映了高净值人群在高端房地产市场的投资行为，对元宝产品经理了解高端用户消费习惯和潜在服务场景有一定参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/kalshi-finalizing-new-funding-at-40-billion-value-ahead-of-ipo": {
+    "title_clean": "Kalshi：预测市场平台完成40亿美元估值融资",
+    "summary": "预测市场平台Kalshi完成新一轮融资，估值达40亿美元，即将IPO。这反映了预测市场类AI应用的商业价值获得资本市场认可，对元宝探索AI辅助决策和预测功能有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-30/key-takeaways-from-micron-s-better-than-expected-outlook-video": {
+    "title_clean": "美光科技超预期销售预测：AI热潮推动业绩增长",
+    "summary": "美光科技发布当前季度销售预测，大幅超出市场预期，主要受AI热潮推动。这一业绩表现反映了AI基础设施建设对存储芯片需求的强劲拉动，对元宝产品经理评估AI硬件供应链和算力资源布局具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-scout-ai": {
+    "title_clean": "Executive Interview: Scout AI：企业AI市场定位与客户需求访谈",
+    "summary": "Scout AI企业开发总监Anthony John接受CB Insights采访，分享了该公司对市场的看法、客户需求分析以及自身定位。访谈内容对了解企业AI服务市场趋势和客户痛点有参考价值，可作为元宝产品在B端市场定位的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-09-30/sonos-beam-ultra-soundbar-ace-ultra-headphones-review-a-fresh-era-for-the-brand": {
+    "title_clean": "Sonos Beam Ultra和Ace Ultra耳机评测：品牌迎来新时代",
+    "summary": "Sonos最新发布的Beam Ultra音响和Ace Ultra耳机产品显示品牌已从2024年应用崩溃事件中完全恢复。这些新品标志着Sonos在音频产品线上的重要更新，对产品经理了解高端音频设备与AI结合的体验设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/galaxy-tab-s12-ultra-galaxy-tab-s12-samsung-launches-new-tablets-smarttag-3": {
+    "title_clean": "三星发布Galaxy Tab S12 Ultra和S12+平板电脑及SmartTag 3追踪器",
+    "summary": "三星推出两款基于Android的新款平板电脑Galaxy Tab S12 Ultra和S12+，承诺提升性能，同时升级SmartTag 3物品追踪器，提供更精准的定位和更远距离的追踪能力。这对元宝产品经理了解硬件厂商如何整合AI功能到设备中，以及智能追踪技术的最新发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-09-30/horizons-middle-east-africa-9-30-2026-video": {
+    "title_clean": "中东原油产量恢复至战前98%，曼城被判罚12亿美元",
+    "summary": "中东原油产量已恢复至战前水平的98%，全球原油市场供应趋稳；同时英超曼城俱乐部因违反财务规则被罚款12亿美元，这两则新闻对全球能源和体育产业有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-30/apple-will-sell-6-million-iphone-duos-in-2026-counterpoint-says": {
+    "title_clean": "苹果预计2026年将售出600万部iPhone Duo折叠屏手机",
+    "summary": "Counterpoint Research预测苹果将于2026年售出约600万部iPhone Duo折叠屏手机，这是苹果首款折叠设备的首个销量预测。这对元宝产品经理了解高端折叠设备市场趋势和苹果创新方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/helping-small-businesses-put-ai-to-work": {
+    "title_clean": "OpenAI与美国小企业发展中心合作推广AI应用",
+    "summary": "OpenAI与美国小企业发展中心合作，为小企业提供实用AI培训和本地支持，并发布小团队使用AI的报告。此举展示了AI在商业场景中的实际应用，对元宝产品经理了解AI服务中小企业的市场机会和用户需求有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning": {
+    "title_clean": "LLM条件控制中的效果与流畅性权衡：系统性研究",
+    "summary": "该研究系统探讨了大型语言模型(LLM)输出控制中的核心挑战，分析了效果与流畅性之间的权衡关系，为AI产品经理提供了理解LLM可靠部署关键因素的参考，有助于优化模型输出控制策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/oura-world-labs-show-divergence-vc-exits": {
+    "title_clean": "Oura与World Labs展示VC退出路径分化",
+    "summary": "Oura与World Labs展示了风险投资退出路径的分化趋势，今年并购(M&A)退出表现良好，反映了AI健康科技领域投资策略的多样性，为元宝产品经理提供AI硬件与软件服务商业化路径参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/sclate-agent-training-evaluation": {
+    "title_clean": "SCLATE：持续学习智能体训练评估平台",
+    "summary": "SCLATE是一个专门用于持续学习智能体训练与评估的平台，支持多会话长周期操作，能够处理模型、工具和内存的复杂系统。该平台对元宝产品经理在AI Agent持续学习能力开发与评估方面具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation": {
+    "title_clean": "OpenAI据悉正洽谈300亿美元融资，估值达1400亿美元",
+    "summary": "OpenAI据悉正在洽谈新一轮300亿美元融资，预计这将为其2027年上市前的最后一轮融资。此轮高估值融资反映了市场对AI领域头部企业的持续看好，对元宝产品经理了解行业资本动向和头部企业战略规划具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/09/expanding-instagram-school-partnership-program-help-teens-stay-informed": {
+    "title_clean": "Instagram扩展学校合作计划：帮助青少年获取信息",
+    "summary": "Instagram扩展其学校合作计划，为认证学校合作伙伴、认证学生及家长提供新功能，帮助他们保持联系并获取信息。这一举措旨在增强青少年在平台上的信息获取渠道，对元宝产品经理了解社交媒体如何服务青少年教育场景有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

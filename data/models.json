@@ -1,8 +1,55 @@
 {
-  "generated_at": "2026-10-01T09:20:43.386Z",
+  "generated_at": "2026-10-01T18:03:01.919Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "apodex/apodex-1.1-mini:free",
+      "name": "Apodex 1.1 Mini (free)",
+      "vendor": "Apodex",
+      "vendor_slug": "apodex",
+      "url": "https://openrouter.ai/apodex/apodex-1.1-mini-20261001",
+      "created_at": "2026-10-01T17:22:15Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Apodex 1.1 Mini is a reasoning-first model from Apodex, built for complex, long-horizon research and forecasting tasks. It works directly with files, data, code, and tools to produce verifiable results,...",
+      "description_zh": null
+    },
+    {
+      "id": "unbiased/pareto-26.10-preview",
+      "name": "Pareto 26.10 Preview",
+      "vendor": "Unbiased",
+      "vendor_slug": "unbiased",
+      "url": "https://openrouter.ai/unbiased/pareto-26.10-preview-20260929",
+      "created_at": "2026-10-01T14:07:03Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.8,
+      "price_out": 3.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": false,
+      "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. This is a preview of the...",
+      "description_zh": null
+    },
     {
       "id": "openai/gpt-6.1-sol-pro",
       "name": "GPT-6.1 Sol Pro",
@@ -813,8 +860,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.228,
-      "price_out": 3.5,
+      "price_in": 0.153,
+      "price_out": 0.459,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -837,7 +884,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.027,
+      "price_in": 0.026,
       "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
@@ -1438,56 +1485,6 @@
       "supports_reasoning": true,
       "description": "Gemini 3.8 Flash is Google's most intelligent Flash model with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning.",
       "description_zh": "Gemini 3.8 Flash 是 Google 最智能的 Flash 模型，在软件工程、代理任务和多步推理方面较 3.7 Flash 有了显着的进步。"
-    },
-    {
-      "id": "anthropic/claude-fable-5.1",
-      "name": "Claude Fable 5.1",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-fable-5.1-20260831",
-      "created_at": "2026-09-01T18:03:58Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 10,
-      "price_out": 50,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Fable 5.1 improves on Claude Fable 5 across the board, with the biggest gains in agentic coding, long-running agentic workflows, and knowledge work: long code refactors, front-end and visual...",
-      "description_zh": "Claude Fable 5.1 在 Claude Fable 5 的基础上进行了全面改进，在代理编码、长时间运行的代理工作流程和知识工作方面取得了最大的进步：长代码重构、前端和可视化……"
-    },
-    {
-      "id": "anthropic/claude-fable-5.1:batch",
-      "name": "Claude Fable 5.1 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-fable-5.1-20260831",
-      "created_at": "2026-09-01T18:03:58Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Fable 5.1 improves on Claude Fable 5 across the board, with the biggest gains in agentic coding, long-running agentic workflows, and knowledge work: long code refactors, front-end and visual...",
-      "description_zh": "Claude Fable 5.1 在 Claude Fable 5 的基础上进行了全面改进，在代理编码、长时间运行的代理工作流程和知识工作方面取得了最大的进步：长代码重构、前端和可视化……"
     }
   ]
 }

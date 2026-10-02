@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:22:45.217Z",
+  "generated_at": "2026-10-02T04:26:06.732Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -24,7 +24,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Apodex 1.1 Mini is a reasoning-first model from Apodex, built for complex, long-horizon research and forecasting tasks. It works directly with files, data, code, and tools to produce verifiable results,...",
-      "description_zh": null
+      "description_zh": "Apodex 1.1 Mini 是 Apodex 的推理优先模型，专为复杂的长期研究和预测任务而构建。它直接与文件、数据、代码和工具一起工作以产生可验证的结果，..."
     },
     {
       "id": "unbiased/pareto-26.10-preview",
@@ -48,7 +48,7 @@
       "supports_tools": true,
       "supports_reasoning": false,
       "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. This is a preview of the...",
-      "description_zh": null
+      "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。这是...的预览"
     },
     {
       "id": "openai/gpt-6.1-sol-pro",
@@ -73,7 +73,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.1 Sol Pro is the same underlying model as GPT-6.1 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6.1 Sol Pro 与 GPT-6.1 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6.1-sol",
@@ -98,7 +98,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.1 Sol is an upgrade to GPT-6 Sol from OpenAI, positioned below the flagship GPT-6 Astra in the GPT-6 series. It is suited for agentic coding, computer use, document-heavy professional...",
-      "description_zh": null
+      "description_zh": "GPT-6.1 Sol是OpenAI对GPT-6 Sol的升级版，定位低于GPT-6系列中的旗舰产品GPT-6 Astra。它适合代理编码、计算机使用、文档密集型专业......"
     },
     {
       "id": "anthropic/claude-sonnet-5.5",
@@ -416,7 +416,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6 Luna Pro is the same underlying model as GPT-6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6 Luna Pro 与 GPT-6 Luna 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6-luna-pro:batch",
@@ -441,7 +441,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6 Luna Pro is the same underlying model as GPT-6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6 Luna Pro 与 GPT-6 Luna 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6-luna",
@@ -516,7 +516,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6 Sol Pro is the same underlying model as GPT-6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6 Sol Pro 与 GPT-6 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6-sol-pro:batch",
@@ -541,7 +541,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6 Sol Pro is the same underlying model as GPT-6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6 Sol Pro 与 GPT-6 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6-sol",
@@ -860,8 +860,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.143,
-      "price_out": 3.5,
+      "price_in": 0.132,
+      "price_out": 0.396,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -884,8 +884,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.026,
-      "price_out": 0.6,
+      "price_in": 0.03,
+      "price_out": 0.75,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1130,7 +1130,7 @@
         "text"
       ],
       "price_in": 0.03,
-      "price_out": 0.5,
+      "price_out": 0.75,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1305,7 +1305,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6 Astra Pro is the same underlying model as GPT-6 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6 Astra Pro 与 GPT-6 Astra 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6-astra-pro:batch",
@@ -1330,7 +1330,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6 Astra Pro is the same underlying model as GPT-6 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6 Astra Pro 与 GPT-6 Astra 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "inclusionai/ling-3.0-flash-sante:free",

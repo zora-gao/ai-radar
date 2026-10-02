@@ -114715,5 +114715,440 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/cloudflare-clef": {
+    "title_clean": "Clef：Cloudflare开源决策模型",
+    "summary": "Cloudflare发布开源决策模型Clef，为企业提供决策能力支持。作为网络安全巨头的新产品，这可能影响AI在企业决策场景的应用方向，值得元宝产品经理关注企业级AI决策工具的发展趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/never-boring-ai": {
+    "title_clean": "Never Boring AI：LinkedIn 内容创作 AI 助手",
+    "summary": "Never Boring AI 是一款 AI 助手工具，能够模仿用户的声音和风格撰写 LinkedIn 帖子，帮助用户在专业社交平台自动生成个性化内容。这款产品针对职场人士在 LinkedIn 上持续发布内容的需求，展示了 AI 在内容创作领域的垂直应用场景，对元宝在专业内容生成和个性化表达方向的产品设计具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/communicate": {
+    "title_clean": "Communicate：基于知识库的AI支持助手与交接功能",
+    "summary": "Communicate是一款基于用户知识库构建的AI支持助手，提供知识库支持和交接功能，能够为企业提供智能客服解决方案，帮助提升客户服务效率和质量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/moxie-2": {
+    "title_clean": "Moxie：AI助手任务中切换账户工具",
+    "summary": "Moxie是一款允许用户在执行任务过程中切换不同AI账户的工具，特别支持与Claude Code集成。该产品解决了多账户管理需求，为AI助手用户提供了更灵活的任务执行方式，对产品经理设计多账户协同功能有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/weftcut": {
+    "title_clean": "WeftCut：AI代理可驱动的开源视频编辑工具",
+    "summary": "WeftCut是一款开源视频编辑工具，专为AI代理设计，使AI能够直接操作和驱动视频编辑流程。这为元宝产品经理提供了AI代理在创意工具领域应用的新思路，展示了AI如何通过API或自动化控制专业软件，拓展AI代理的能力边界。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lloyal": {
+    "title_clean": "Loyal：开源模型应用化工具",
+    "summary": "Loyal提供将开源大模型转化为可下载AI应用的平台，帮助开发者将模型能力转化为用户可直接使用的应用产品，这对元宝产品经理探索轻量化AI应用分发模式具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cue-by-manus": {
+    "title_clean": "Cue by Manus：个人身份代理全生命周期管理工具",
+    "summary": "Cue by Manus推出具有身份识别的个人代理工具，能够端到端处理用户生活事务。这款产品代表了AI Agent向更复杂生活场景的发展，对元宝产品经理在AI代理功能设计和用户身份管理方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/german-army-to-start-training-with-new-attack-drones-next-month": {
+    "title_clean": "德国军队将开始使用新型攻击无人机进行训练",
+    "summary": "德国国防初创企业Helsing和Stark Defence正在开发攻击无人机，计划于下月开始为德国军队提供训练。这反映了军事领域对AI驱动的自主武器系统的应用趋势，对元宝产品经理了解AI技术在国防和安全领域的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you": {
+    "title_clean": "Circuit Breaker Labs：AI安全测试工具",
+    "summary": "Circuit Breaker Labs开发了AI安全测试工具，通过模拟'碰撞测试假人'来评估AI可能对用户造成的心理伤害，旨在提高AI产品的安全性，特别是保护儿童用户免受潜在负面影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ai-data-center-debt-showing-everywhere": {
+    "title_clean": "AI数据中心债务问题日益凸显",
+    "summary": "AI数据中心及相关基础设施的债务融资快速增长，已成为独立类别。信用分析师开始区分AI与非AI相关的债务，反映出数据中心建设热潮背后的金融风险，对AI基础设施投资决策有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/practical-guide-building-gpt-6": {
+    "title_clean": "GPT-6模型选择指南：面向初创企业的模型选择与工作流优化",
+    "summary": "该指南为初创企业提供GPT-6模型选择策略、推理能力调优、提示词优化、技能提升、工具协调及生产环境工作流准备方法，帮助产品经理规划AI产品架构与实施路径。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/sean-parker-spreads-gospel-ai-music": {
+    "title_clean": "Sean Parker：AI音乐行业倡导者",
+    "summary": "Sean Parker（Napster联合创始人、Facebook早期投资者）在音乐行业积极推广AI技术应用，作为行业变革的倡导者，其观点对元宝产品经理了解AI在音乐领域的应用前景和行业接受度具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/nike-s-worsening-slump-forces-ceo-to-rethink-turnaround-video": {
+    "title_clean": "Nike业绩下滑迫使CEO rethink转型策略",
+    "summary": "Nike正面临业绩持续下滑，CEO Elliott Hill宣布将进行大规模业务重组并裁员，以应对市场表现恶化及华尔街压力。这一传统运动巨头转型困境对元宝产品经理有参考价值，特别是在分析传统企业如何应对数字化挑战和用户需求变化方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/tesla-sales-top-estimates-for-third-quarter-video": {
+    "title_clean": "特斯拉第三季度销量超预期",
+    "summary": "特斯拉第三季度交付486,532辆汽车，超出分析师预期的466,761辆，但同比仍有所下降。这一数据反映了电动汽车市场的波动和特斯拉的市场表现，对AI助手产品经理了解科技巨头业务表现有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants": {
+    "title_clean": "TechCrunch Disrupt 2026：Blackstone高管谈下一代AI巨头构建",
+    "summary": "Blackstone高管Jas Khaira将在TechCrunch Disrupt 2026大会上分享如何构建下一代AI巨头，并提供参会门票优惠。这对产品经理了解顶级投资机构对AI发展的战略方向和投资重点有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/opinion-amazon-s-smart-glasses-raise-privacy-fears-video": {
+    "title_clean": "Amazon智能眼镜引发隐私担忧",
+    "summary": "Amazon为其快递员配备智能眼镜，可捕捉周围环境图像。这引发了关于隐私和数据使用的担忧，对产品经理评估AI设备在服务场景中的隐私边界和数据管理策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amazon-pledges-give-ndas-give-back-1-billion-communities-data-center-buildout": {
+    "title_clean": "Amazon承诺放弃保密协议并投入10亿美元用于数据中心建设社区项目",
+    "summary": "Amazon Web Services承诺在未来五年投入10亿美元升级学校、住宅和其他市政建筑的热水和供水系统，作为数据中心建设计划的一部分。此举反映了科技巨头在社区责任和可持续发展方面的战略转变，对元宝产品经理评估企业社会责任与品牌价值策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/onsemi-revises-the-terms-of-synaptics-deal-video": {
+    "title_clean": "Onsemi修订Synaptics收购条款：从股票收购转为现金支付",
+    "summary": "芯片制造商Onsemi修订了对Synaptics的收购条款，将原本约70亿美元的股票收购改为约57亿美元的现金支付。这一收购条款变更反映了半导体行业并购策略的调整，对AI硬件供应链和芯片市场格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/blackstone-banks-gather-60b-for-broadcom-ai-chip-deal-video": {
+    "title_clean": "黑石与银行筹集600亿美元支持博通AI芯片交易",
+    "summary": "黑石与多家银行正筹集600亿美元新资金，用于支持博通向Anthropic等公司提供AI芯片融资。这一大规模资金动向反映了AI芯片市场的资本活跃度，对元宝产品经理了解AI基础设施投资趋势和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market": {
+    "title_clean": "中国代币转售者创建Anthropic灰色市场",
+    "summary": "北京海淀区一栋普通办公楼内约30家租户中，有6家从事同一业务——Anthropic API代币转售。这反映了中国市场对Anthropic服务的强烈需求，以及官方渠道限制催生的灰色交易生态，对元宝产品经理了解海外AI服务在中国市场的渗透方式和潜在合作机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-ceo-maps-pivot-to-move-at-skunk-works-speed-video": {
+    "title_clean": "Lockheed CEO推动公司以'臭鼬工厂'速度转型",
+    "summary": "洛克希德·马丁CEO Jim Taiclet希望全球最大国防承包商能够像公司神秘的臭鼬工厂一样灵活创新，推动整个组织向敏捷化转型。这对AI产品经理有参考价值，特别是在如何将创新文化从特殊团队扩展到整个组织方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/billionaire-chey-sells-700-million-in-sk-stock-amid-divorce": {
+    "title_clean": "SK集团创始人离婚期间出售70亿美元股份",
+    "summary": "SK集团创始人崔泰源在离婚诉讼期间出售价值70亿美元的SK集团股份，这是韩国历史上备受瞩目的离婚案之一。这一事件可能影响SK集团股权结构和公司治理，对了解大型科技企业创始人家族变动及其对公司战略的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-debuts-voice-ai-compete-elevenlabs": {
+    "title_clean": "Microsoft：语音生成AI工具",
+    "summary": "Microsoft发布语音生成AI，声称比ElevenLabs、SpaceXAI和Google等竞品更便宜且更准确。这表明微软正在积极布局AI语音领域，可能与元宝的语音交互功能形成竞争关系，值得产品经理关注其技术特点和定价策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-02/paramount-backer-cardinale-says-ceo-david-ellison-is-the-future-of-hollywood": {
+    "title_clean": "派拉蒙投资者称CEO Ellison是好莱坞的未来",
+    "summary": "RedBird Capital创始人表示派拉蒙与华纳兄弟的合并将对行业产生积极影响，并称CEO David Ellison是好莱坞的未来。这反映了传统媒体巨头在AI时代寻求转型与整合的战略动向，对理解内容行业与AI结合的商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/humanx-amsterdam-europe-sovereign-ai-user-push": {
+    "title_clean": "欧洲主权AI发展需要客户支持而不仅是资本投入",
+    "summary": "Crunchbase News研究负责人在阿姆斯特丹HumanX会议上与欧洲和中东AI生态系统建设者交流，指出欧洲主权AI发展不仅需要资本投入，更需要客户支持来推动实际应用和生态建设。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-02/ai-talent-race-between-us-and-china-is-the-next-battleground": {
+    "title_clean": "中美AI人才竞争：国际学生回流趋势",
+    "summary": "中美AI人才竞争加剧，中国和印度占美国国际研究生主体，且这些人才正逐渐回流本国。这一趋势可能影响全球AI人才分布和各国AI发展速度，对元宝产品团队的人才战略和国际化布局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/neocloud-backed-chinese-tech-giants-files-ipo": {
+    "title_clean": "Neocloud：中国AI云基础设施服务商申请港股IPO",
+    "summary": "中国AI云基础设施服务商Neocloud已向香港交易所提交秘密IPO申请，计划融资数亿美元。该公司获得中国科技巨头支持，此次IPO反映了AI基础设施领域的投资热潮和市场信心，对元宝产品经理了解AI基础设施商业化路径和资本动向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/amazon-seeks-to-move-8-billion-of-chips-off-its-books-ft-says": {
+    "title_clean": "亚马逊计划转移80亿美元芯片资产",
+    "summary": "亚马逊正与英伟达洽谈，计划将其价值80亿美元的高端芯片资产转移出资产负债表，这可能影响其AI基础设施投资策略和财务结构，对元宝产品经理了解科技巨头的AI资源调配有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/microsofts-executive-exodus-foreshadows-business-transition": {
+    "title_clean": "微软高管离职潮预示业务转型",
+    "summary": "近期微软多名高管相继离职，包括Office业务执行副总裁Roslansky在内。这一高管变动可能预示着微软正在进行重大业务战略调整，对元宝产品经理了解科技巨头组织架构变化与业务方向调整具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-01/softbank-investors-look-past-credit-risks-to-gauge-ai-upside": {
+    "title_clean": "软银投资者关注AI投资回报，忽视信贷风险",
+    "summary": "软银集团股权投资者日益关注其AI投资回报潜力，尽管公司面临更高的借贷成本，但这一关注点仍推动股价反弹。这反映了市场对AI投资回报的高度期待，以及投资者对软银AI战略的信心。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-01/the-close-10-1-2026-video": {
+    "title_clean": "Nike业绩不及预期，中国销售疲软",
+    "summary": "Nike最新财报显示业绩未达预期，主要受中国市场需求疲软影响。这一信息对元宝产品经理有参考价值，特别是对于关注国际品牌在中国市场表现以及AI助手如何帮助品牌理解区域市场需求的场景。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-nextria": {
+    "title_clean": "Nextria CEO访谈：市场定位与客户需求分析",
+    "summary": "Nextria CEO Ravi Ramsaran接受CB Insights采访，分享了公司对市场的看法、客户需求的理解以及自身定位。这为元宝产品经理提供了AI服务企业如何定义市场空间和满足客户需求的参考视角。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses": {
+    "title_clean": "Ray-Ban与Ray-Ban Meta任命印度品牌大使并更新AI眼镜功能",
+    "summary": "Ray-Ban和Ray-Ban Meta宣布任命印度演员Ranveer Singh为其在印度的首位品牌大使，同时宣布对AI眼镜功能进行令人兴奋的新更新。这一合作将增强品牌在印度市场的存在感，并可能推动AI眼镜在当地的采用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/federal-court-dismisses-publishers-suits-googles-ai-overviews": {
+    "title_clean": "联邦法院驳回出版商起诉谷歌AI概览案",
+    "summary": "联邦法官驳回了教育科技公司Chegg和Penske Media等出版商对谷歌的诉讼，这些出版商指控谷歌的AI概览功能侵犯了其版权。此案结果对AI内容引用和版权边界有重要参考价值，影响AI产品如何合法使用第三方内容。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm": {
+    "title_clean": "SpaceX AI部门转型为AI云服务公司",
+    "summary": "SpaceX的AI部门正与微软洽谈计算能力租赁业务，这表明埃隆·马斯克已全面拥抱新云服务业务。这一转型反映了航天科技巨头向AI云服务领域的战略扩展，对元宝产品经理了解AI企业服务化趋势和潜在合作机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

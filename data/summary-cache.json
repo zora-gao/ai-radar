@@ -114445,5 +114445,275 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/gitsync": {
+    "title_clean": "GitSync：GitHub分支同步工具",
+    "summary": "GitSync是一款Chrome扩展工具，允许用户直接在浏览器中同步不同GitHub仓库之间的分支。对于元宝产品经理而言，这展示了AI工具如何简化开发工作流程，可能启发AI助手集成代码管理功能或提供开发辅助服务。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/codync": {
+    "title_clean": "Codync：开源AI助手替代工具",
+    "summary": "Codync是一款开源AI助手，定位为Grok Bot、Muse和Dots的替代方案。对于元宝产品经理而言，这代表了一个潜在的开源竞品方向，值得关注其功能特性和开源生态对AI助手市场格局的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/codeaf": {
+    "title_clean": "CodeAF：开源软件开发工厂",
+    "summary": "CodeAF是一个开源软件开发工厂，专注于提供软件开发工具和解决方案。作为产品经理，可关注其如何通过开源模式提升开发效率，以及是否与元宝的AI辅助编程功能形成互补或竞争关系。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/finbar-2": {
+    "title_clean": "Finbar：AI投资研究代理工具",
+    "summary": "Finbar是一款AI驱动的投资研究代理工具，能够自主执行投资研究任务。该产品对元宝产品经理具有参考价值，特别是在探索AI代理在金融垂直领域的应用场景和自动化服务能力方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/shiphq": {
+    "title_clean": "ShipHQ：自有应用工作室构建工具",
+    "summary": "ShipHQ是一款允许用户基于真实应用构建自有应用工作室的工具，帮助产品经理了解如何整合现有应用资源创建统一工作空间，对多应用集成和自有AI服务架构设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/anthroposcaper": {
+    "title_clean": "Anthroposcaper：2D平面转3D城市环境建模工具",
+    "summary": "Anthroposcaper是一款可将2D平面图转换为3D城市环境模型的工具，帮助用户快速构建三维城市空间模型，为城市规划、建筑设计等领域提供可视化支持，对元宝在空间理解和多模态交互方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wu": {
+    "title_clean": "Wu：基于Rust的快速原生代码编辑器",
+    "summary": "Wu是一款使用Rust语言开发的快速原生代码编辑器，其用户体验与VS Code相似。对于元宝产品经理而言，这代表了一种轻量级、高性能的开发工具选择，可能影响AI辅助编程工具的竞争格局和用户需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bambu-lab-r1": {
+    "title_clean": "Bambu Lab R1：二氧化碳激光切割自动化设备",
+    "summary": "Bambu Lab推出R1设备，结合二氧化碳激光切割技术与类似Bambu Lab的自动化功能，可能面向工业制造或DIY市场，为产品经理提供自动化激光切割设备的产品方向参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/halo-11": {
+    "title_clean": "Halo：Mac动态岛与外接显示器控制工具",
+    "summary": "Halo是一款Mac应用，将iPhone的Dynamic Island功能引入Mac系统，同时提供外接显示器的控制功能。这款产品为元宝产品经理提供了跨设备交互设计的参考价值，特别是在如何将移动端特色功能适配到桌面环境方面具有启发意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/slash-editor": {
+    "title_clean": "slash-editor：React风格块状编辑器",
+    "summary": "slash-editor是一款MIT许可的React块状编辑器，类似Notion的编辑体验，用户可拥有完全的UI控制权。作为开发工具，它为元宝产品经理提供了构建自定义编辑界面的技术参考，特别是在实现类似Notion风格的交互功能方面有借鉴价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/esigna": {
+    "title_clean": "esigna：邮件签名设计工具",
+    "summary": "esigna是一款专注于邮件签名设计的工具，帮助用户创建专业、个性化的电子邮件签名。对于元宝产品经理而言，这反映了用户对专业形象展示的需求，可作为AI助手在办公场景中提供个性化设计服务的参考案例。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sayonic": {
+    "title_clean": "Sayonic：Mac刘海屏语音助手工具",
+    "summary": "Sayonic是一款在Mac刘海屏区域运行的语音助手工具，能够执行任务。这款产品针对苹果设备用户提供了便捷的语音交互方式，可能为元宝在桌面端语音助手功能开发提供参考，特别是在屏幕空间利用和任务执行方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mintlify": {
+    "title_clean": "Mintlify Desktop：AI原生文档编写工具",
+    "summary": "Mintlify Desktop是一款专为文档编写和知识管理设计的AI原生应用，通过AI技术提升文档创建效率，为产品经理提供文档工具的AI化参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/eleven-v4-and-eleven-v4-turbo": {
+    "title_clean": "Eleven v4：最新情感语音合成模型",
+    "summary": "Elevenlabs发布最新语音合成模型v4和v4 Turbo，号称是迄今为止最快且最具表现力的语音模型。这对AI助手产品经理有重要参考价值，特别是在提升语音交互的自然度和情感表达能力方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wmail-3": {
+    "title_clean": "WMail：Fastmail 原生 iPhone 邮件应用",
+    "summary": "WMail 是一款专为 Fastmail 设计的原生 iPhone 邮件应用，提供美观的用户界面和流畅的邮件管理体验。对于元宝产品经理而言，这展示了邮件服务在移动端的用户体验优化方向，可作为邮件类 AI 助手的交互设计参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/nyc-s-ai-office-boom-is-bust-for-young-job-hunters-report-finds": {
+    "title_clean": "纽约AI办公室热潮对年轻求职者无益",
+    "summary": "报告显示，纽约人工智能热潮吸引大量投资并推动办公租赁激增，但对年轻求职者职业发展帮助有限。这反映了AI行业扩张与就业市场结构性失衡的问题，对元宝产品经理了解AI行业就业趋势和人才需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/nidec-is-in-talks-with-mufg-bank-smbc-to-renew-credit-lines": {
+    "title_clean": "Nidec与三菱UFJ、三井住友银行洽谈续贷600亿日元",
+    "summary": "日本电产公司正与三菱UFJ银行和三井住友银行洽谈续贷600亿日元(约3.8亿美元)的承诺信贷额度。这反映了大型制造企业对资金流动性的管理策略，对元宝产品经理了解企业级AI服务客户在财务决策方面的需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/california-man-arrested-smuggling-nvidia-chips-china": {
+    "title_clean": "美国逮捕男子向中国走私Nvidia芯片",
+    "summary": "美国当局逮捕了一名加州男子，指控其向中国走私价值超过3亿美元的服务器，这些服务器包含受限制的Nvidia AI芯片。此事件反映了美国对高端AI芯片出口管制措施的执行情况，对元宝产品经理了解AI硬件供应链限制及国际市场合规风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/key-takeaways-from-bloomberg-s-screentime-conference-toplive": {
+    "title_clean": "Bloomberg Screentime Conference：媒体与科技行业关键洞察",
+    "summary": "彭博社在洛杉矶举办的Screentime Conference汇集了媒体与科技行业高管，分享了行业趋势、内容消费变化及媒体商业模式创新，为元宝产品经理了解媒体行业数字化转型和用户内容消费习惯提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-01/ey-parthenon-s-guerzoni-on-latest-ceo-outlook-survey-video": {
+    "title_clean": "EY-Parthenon最新CEO展望调查：企业信心指数下降",
+    "summary": "EY-Parthenon全球副主席Andrea Guerzoni在彭博社访谈中分享了最新CEO展望调查结果，显示企业信心指数出现回落。这一调查数据对元宝产品经理了解企业决策者当前关注点和市场趋势具有重要参考价值，有助于把握AI服务在企业场景中的潜在需求变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports": {
+    "title_clean": "OpenAI解雇三名安全研究人员",
+    "summary": "据华尔街日报报道，OpenAI在内部调查后解雇了三名安全研究人员，原因是他们不当处理了公司敏感信息。这一事件反映了AI公司在安全与商业利益之间的潜在冲突，对元宝产品经理在AI安全策略和团队管理方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-01/gcash-owner-prices-record-philippine-ipo-of-nearly-1-billion": {
+    "title_clean": "GCash母公司Mynt完成近10亿美元菲律宾最大规模IPO",
+    "summary": "菲律宾最大电子钱包GCash的母公司Mynt完成了近10亿美元的首次公开募股，定价低于最高预期，成为菲律宾今年首个上市项目，有望提振该国低迷的股市表现。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

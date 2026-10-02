@@ -115150,5 +115150,387 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/pastily": {
+    "title_clean": "Pastily：增强型剪贴板工具",
+    "summary": "Pastily是一款增强型剪贴板工具，提供比传统剪贴板更强大的功能。作为AI助手产品经理，可关注其如何优化用户复制粘贴体验，这可能启发元宝在内容处理和跨应用操作方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jarviscore": {
+    "title_clean": "JarvisCore：零信任对等网络代理构建工具",
+    "summary": "JarvisCore是一个构建代理的平台，采用零信任架构和对等网络技术，允许用户创建可相互通信的代理节点。这种架构可能为AI Agent的分布式部署和安全通信提供新思路，对元宝的产品经理在考虑Agent网络化和安全性方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/earlyn": {
+    "title_clean": "Earlyn：屏幕与会议内容搜索记忆工具",
+    "summary": "Earlyn是一款Mac应用，能够记录并搜索用户的屏幕活动和会议内容，帮助用户快速查找历史信息。这款产品对元宝产品经理有参考价值，因为它展示了AI在信息检索与记忆管理方面的应用场景，可能启发元宝在多模态交互和用户记忆功能方面的产品设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/huwD1EXDdnRlSI7YBO7NQQ": {
+    "title_clean": "MiniMax M3.1 Flash：对标Opus 5.5的AI模型",
+    "summary": "MiniMax发布M3.1 Flash模型，声称能够实现与Opus 5.5相似的功能表现。这表明国内AI模型在能力上正快速追赶国际领先产品，为元宝产品团队提供了竞品技术发展的参考信息。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/HQAWOH5cQoG905fwoMOK1w": {
+    "title_clean": "AIBuildAl：AI自进化大模型后训练工具",
+    "summary": "AIBuildAl开源了一款递归自进化后训练工具，允许AI系统自主对大模型进行后训练优化。这一技术突破可能大幅降低模型迭代成本，为元宝产品团队在自动化模型优化和减少人工干预方面提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/audryo": {
+    "title_clean": "Audryo：AI邮件代理操作工具",
+    "summary": "Audryo是一款AI代理工具，能够接收并操作客户邮件，帮助用户自动化处理邮件往来。产品经理可关注其邮件代理功能实现方式，为元宝的邮件自动化处理场景提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ywXO5qryvJhFatdk8B5u4w": {
+    "title_clean": "LegoFlow：AI智能体全流程自动化工具",
+    "summary": "LegoFlow是一个AI工具，能够智能体自主完成代码数据构建、训练和测评的全流程自动化。这为元宝产品经理提供了AI工作流自动化的参考价值，特别是在减少人工干预和提高AI模型开发效率方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/open-inspector": {
+    "title_clean": "Open Inspector：网站设计系统开源工具",
+    "summary": "Open Inspector是一款开源免费工具，允许用户悬停任何网站即可获取其设计系统信息。产品经理可参考其技术实现方式，为元宝增加类似网页元素解析功能，提升用户在网页内容理解和交互方面的体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/globestudio": {
+    "title_clean": "Globestudio：开源点状地图与3D地球仪设计工具",
+    "summary": "Globestudio是一款开源工具，为设计师提供点状地图和3D地球仪功能。产品经理可关注其多模态可视化能力，评估是否能为元宝的地理信息展示或数据可视化场景提供参考，特别是在设计交互和用户体验方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents": {
+    "title_clean": "Apple 将收紧 Mac 数据控制以防范 AI 代理",
+    "summary": "Apple 计划为 Mac 用户引入新的隐私控制措施，警告授予第三方软件（包括 AI 代理）广泛数据访问权限带来的日益增长的风险。此举反映了 AI 代理可能带来的数据安全挑战，对产品经理在设计 AI 功能时如何平衡用户体验与数据安全具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/nscale-hires-meta-s-justin-osofsky-to-be-coo-ahead-of-ipo": {
+    "title_clean": "Nscale 聘请 Meta 前高管 Justin Osofsky 担任 COO，为 IPO 做准备",
+    "summary": "AI 基础设施公司 Nscale 聘请 Meta 前高管 Justin Osofsky 担任首席运营官，以加速其与即将到来的 IPO 相关的快速扩张。这表明 Nscale 正在加强管理团队，为上市做准备，反映了 AI 基础设施领域的竞争加剧和资本市场的关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/hackers-breached-propulsion-system-of-us-bound-oil-tanker": {
+    "title_clean": "黑客入侵驶美油轮推进系统",
+    "summary": "FBI和海岸警卫队调查发现，黑客在今年夏天一艘超级油轮接近德克萨斯海岸时入侵了其推进系统。这表明关键基础设施面临网络安全威胁，对AI安全防护和工业控制系统安全具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars": {
+    "title_clean": "TechCrunch Disrupt 2026 Expo+ Pass：科技行业裁员者专属优惠",
+    "summary": "TechCrunch Disrupt 2026科技大会推出针对受裁员影响人士的Expo+ Pass优惠票价75美元，限前100名符合条件者。此信息对产品经理了解科技行业人才流动和行业活动价值有参考意义，可作为潜在用户获取渠道和行业趋势观察窗口。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents": {
+    "title_clean": "Apple收紧macOS完全磁盘访问权限控制，应对AI代理新风险",
+    "summary": "Apple宣布将加强macOS的完全磁盘访问权限控制，警告日益强大的AI代理可能带来用户文件、消息、邮件和浏览历史等敏感数据访问风险。此举反映了AI代理能力提升带来的安全挑战，对AI助手产品设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-andromeda-surgical": {
+    "title_clean": "CEO访谈：Andromeda Surgical公司市场定位与客户需求分析",
+    "summary": "Andromeda Surgical CEO Nicholas Damiano接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身在市场中的定位。这为医疗AI领域的市场策略和产品方向提供了参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-crypto-custodian-anchorage-digital-lays-17-staff": {
+    "title_clean": "加密托管机构 Anchorage Digital 裁员 17%",
+    "summary": "美国首个联邦特许数字资产银行 Anchorage Digital 裁员 17%，CEO 已向员工通报。作为加密货币托管领域的头部机构，此次裁员反映了加密行业当前面临的挑战，对元宝产品经理了解金融科技领域企业运营策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it": {
+    "title_clean": "白宫召集科技巨头签署AI安全承诺，仅2%消费者购买AI产品",
+    "summary": "白宫召集扎克伯格、贝佐斯、马斯克等科技巨头签署AI安全承诺，特朗普总统称之为\"超级智能\"。调查显示仅2%消费者购买AI产品，反映市场接受度与行业热度存在差距，对产品经理评估AI商业化进程有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/bloomberg-defense-tech-special-10-02-2026-video": {
+    "title_clean": "Bloomberg Defense Tech Special：洛克希德·马丁先进航空技术专题",
+    "summary": "彭博社从洛克希德·马丁先进飞机研发中心现场报道，该公司高管分享最新国防航空技术发展动态，对了解AI在军事航空领域的应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-backs-fortem-s-counter-drone-push-video": {
+    "title_clean": "Lockheed 支持的 Fortem：反无人机解决方案提供商获 5000 万美元融资",
+    "summary": "Fortem 完成 5000 万美元 B 轮融资，洛克希德·马丁参与投资。该公司专注于反无人机技术，计划扩大生产规模和订单量。对产品经理的参考价值在于了解特定垂直领域（反无人机）的 AI 应用和商业合作模式。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-quantum-xchange": {
+    "title_clean": "Executive Interview: Quantum XChange",
+    "summary": "Quantum XChange首席战略官Antonio Sanchez接受CB Insights采访，分享公司对市场的看法、客户需求以及公司定位。作为量子安全领域的代表企业，其市场策略和客户洞察对元宝在安全领域的AI应用可能有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/lambda-secures-1-billion-gpu-loan": {
+    "title_clean": "Lambda：AI云公司获10亿美元GPU贷款",
+    "summary": "AI云服务公司Lambda获得超过10亿美元的延迟提取定期贷款，用于购买超过3万块英伟达图形处理器。这反映了AI基础设施需求激增，对元宝等AI服务提供商的算力成本和供应链策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-remote-sense": {
+    "title_clean": "Executive Interview: Remote Sense",
+    "summary": "Remote Sense CSO Ross Brown接受CB Insights采访，分享公司对市场的看法、客户需求定位以及公司战略。作为一家远程感知技术公司，其高管阐述了市场定义和公司定位，对了解企业级远程感知解决方案的市场策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/nike-down-on-job-cuts-broadcom-gathers-ai-chip-funding-video": {
+    "title_clean": "Nike裁员与Broadcom融资：企业战略调整与AI芯片投资动态",
+    "summary": "Nike因业绩下滑宣布裁员并业务重组，计划节省25亿美元；Broadcom筹集AI芯片资金。这两则消息反映了大型企业在经济压力下的战略调整，以及AI硬件领域的持续投资，对元宝产品经理了解企业服务场景和AI商业化趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/roblox-s-rblx-newest-bear-says-wall-street-is-too-optimistic-on-recovery": {
+    "title_clean": "Roblox：游戏平台增长预期被质疑",
+    "summary": "有分析师认为Roblox股价近期上涨过度，投资者对平台预订量增长的复苏预期过于乐观。这提示元宝产品经理需关注游戏平台商业化模式与用户增长可持续性，警惕市场预期与实际业务表现之间的差距。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders": {
+    "title_clean": "TechCrunch Disrupt 2026：科技领袖展会参展机会",
+    "summary": "TechCrunch Disrupt 2026展会将于10月13-15日在旧金山莫斯康中心西举办，吸引超过1万名创始人、投资者、运营商和科技领袖。这是科技行业重要展会，为产品经理提供了接触行业领袖、了解市场趋势和潜在合作机会的平台。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/amazon-s-latest-response-to-ai-data-center-backlash-1-billion": {
+    "title_clean": "Amazon投入10亿美元应对AI数据中心争议",
+    "summary": "Amazon承诺未来五年投入超过10亿美元应对对其AI数据中心扩张的强烈反对，这反映了科技巨头在AI基础设施扩张中面临的社会压力与平衡需求，对元宝产品经理了解AI服务规模化部署的挑战与应对策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/nautical-marine-startups-funding-grows-defense-robots-clean-energy-saronic": {
+    "title_clean": "海洋科技初创企业获大幅融资",
+    "summary": "过去一年，风投机构向海洋科技初创企业投入近30亿美元，覆盖国防科技到清洁能源等多个领域。这反映了投资者对海洋科技领域的兴趣增长，可能为元宝在垂直领域AI应用提供市场信号参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/chatham-financial": {
+    "title_clean": "Chatham Financial：利用OpenAI技术重塑资本市场工作流",
+    "summary": "Chatham Financial应用OpenAI的Codex和GPT-5.6技术构建新系统并重新设计工作流程，将交易验证时间从30分钟缩短至4分钟以内，展示了AI在金融资本市场的实际应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning": {
+    "title_clean": "多语言语音模型中的语言歧视提升语言学习能力",
+    "summary": "研究显示，在相同预训练数据预算下，多语言自监督语音模型通过语言歧视技术可以提升跨语言信息共享能力，缩小与单语模型的性能差距，这对多语言AI语音助手的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases": {
+    "title_clean": "Nvidia面临中国AI芯片走私案件质疑",
+    "summary": "尽管美国有限制措施，Nvidia的AI芯片仍持续流入中国。官员们质疑该公司为何未能识别出这些危险信号，这可能影响Nvidia在中国市场的合规策略和供应链管理。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/limits-confidence-diffusion": {
+    "title_clean": "Limits of Confidence in Diffusion：离散扩散模型置信度研究",
+    "summary": "该研究探讨了离散扩散模型（包括重掩码和均匀状态采样器）在生成序列时的置信度限制，分析了每步写入多个token位置时的分布选择问题，对AI生成模型的可靠性和质量控制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
   }
 }

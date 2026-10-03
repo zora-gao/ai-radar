@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T13:53:20.107Z",
+  "generated_at": "2026-10-03T17:46:31.492Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -24,7 +24,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Ling 3.1 Flash is a hybrid reasoning mixture-of-experts model from inclusionAI, with 25B active parameters out of 560B total.",
-      "description_zh": null
+      "description_zh": "Ling 3.1 Flash是inclusionAI的混合推理混合专家模型，总共560B个活动参数，其中有25B个。"
     },
     {
       "id": "apodex/apodex-1.1-mini:free",
@@ -687,7 +687,7 @@
       "supports_tools": false,
       "supports_reasoning": false,
       "description": "Switchyard is an open-source model router that switches between multiple models to optimize the cost of requests. By default it will use OpenRouter market data to select the most popular...",
-      "description_zh": null
+      "description_zh": "Switchyard 是一个开源模型路由器，可以在多个模型之间切换以优化请求的成本。默认情况下，它将使用 OpenRouter 市场数据来选择最流行的..."
     },
     {
       "id": "xiaomi/mimo-v2.6-pro-ultraspeed",

@@ -116168,5 +116168,29 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas": {
+    "title_clean": "Amazon回应数据中心争议，宣布不再使用保密协议",
+    "summary": "亚马逊云服务CEO针对数据中心广泛争议作出回应，宣布公司不再使用保密协议(NDAs)。这一表态可能影响数据中心行业透明度，对关注数据隐私和合规的AI服务提供商有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken": {
+    "title_clean": "OpenAI安全员工辞职，称公司文化已崩溃",
+    "summary": "OpenAI安全团队成员David Robinson在辞职时公开批评公司文化存在问题，称其已'崩溃'。这一事件反映了AI巨头内部治理与安全文化的潜在风险，对元宝产品经理评估AI企业安全治理与企业文化对产品方向的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

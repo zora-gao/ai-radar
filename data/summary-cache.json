@@ -116005,5 +116005,92 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/singularity-2": {
+    "title_clean": "Singularity：AI编程并行执行工具",
+    "summary": "Singularity是一款AI编程工具，能够并行执行AI编码代理，每次处理一个任务。它通过并行处理提高编程效率，对产品经理了解AI辅助编程工具的发展方向和用户需求变化有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kindle-2026": {
+    "title_clean": "Kindle 2026：更小更快的电子阅读器",
+    "summary": "亚马逊推出新款Kindle电子阅读器，采用更小尺寸、更快的处理速度和全面屏设计，提升了阅读体验。这对元宝产品经理在移动阅读设备优化和用户界面设计方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/feelmymac": {
+    "title_clean": "FeelMyMac：Mac触感反馈模拟工具",
+    "summary": "FeelMyMac是一款Mac应用，通过触控板模拟不同材质的触感，为用户提供物理纹理的数字化体验。这种触觉反馈技术可能为元宝在多模态交互和感官体验增强方面提供创新思路，特别是在虚拟触感模拟领域的产品设计参考价值较高。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bevel-software": {
+    "title_clean": "eu/jev：欧盟托管的首个Jev类模型",
+    "summary": "eu/jev是首个在欧盟托管的Jev类模型，为欧洲用户提供本地化AI服务，可能涉及数据隐私合规与区域化AI产品布局，对元宝拓展欧洲市场有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-02/apple-iphone-18-pro-max-at-t-glitch-requires-device-replacements": {
+    "title_clean": "Apple iPhone 18 Pro Max AT&T故障需更换设备",
+    "summary": "苹果公司称，部分升级至iPhone 18 Pro Max的AT&T用户因设备出现故障导致蜂窝网络服务中断，需要更换设备。这一事件对产品经理有参考价值，提醒关注硬件与网络服务兼容性测试的重要性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openai-hires-top-trump-ai-official-work-national-security": {
+    "title_clean": "OpenAI聘请特朗普政府AI官员负责国家安全工作",
+    "summary": "OpenAI持续吸纳前特朗普政府官员加入领导团队，最新任命了一位负责国家安全的AI高级官员。这一人事变动表明OpenAI正在加强在政府关系与国家安全领域的人才布局，对元宝产品经理了解AI公司在政府合作与政策应对方面的战略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-taps-openai-to-solve-f-35-challenges-video": {
+    "title_clean": "Lockheed与OpenAI合作解决F-35战机挑战",
+    "summary": "洛克希德·马丁采用模型无关的AI策略，在其业务中应用55种不同的大语言模型，技术范围涵盖内部运营到自主系统，此次与OpenAI合作旨在解决F-35战机项目中的技术挑战，展示了AI在国防领域的实际应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

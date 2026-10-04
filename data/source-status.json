@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T17:56:17.397Z",
+  "generated_at": "2026-10-04T20:49:11.522Z",
   "sites": [
     {
       "site_id": "jiqizhixin",
       "site_name": "机器之心",
       "ok": true,
-      "item_count": 6,
-      "duration_ms": 766,
+      "item_count": 5,
+      "duration_ms": 282,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI News",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 913,
+      "duration_ms": 628,
       "error": "Status code 403"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "TechCrunch AI",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 274,
+      "duration_ms": 182,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "The Information",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 353,
+      "duration_ms": 284,
       "error": null
     },
     {
       "site_id": "bloomberg-tech",
       "site_name": "Bloomberg Tech",
       "ok": true,
-      "item_count": 8,
-      "duration_ms": 758,
+      "item_count": 9,
+      "duration_ms": 725,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 224,
+      "duration_ms": 136,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "There's An AI For That",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 84,
+      "duration_ms": 122,
       "error": "Status code 403"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "YC Companies",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 306,
+      "duration_ms": 512,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Hugging Face Trending",
       "ok": true,
       "item_count": 873,
-      "duration_ms": 292,
+      "duration_ms": 195,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "Crunchbase",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 117,
+      "duration_ms": 166,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "CB Insights",
       "ok": true,
       "item_count": 25,
-      "duration_ms": 95,
+      "duration_ms": 2059,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "OpenAI",
       "ok": true,
       "item_count": 1245,
-      "duration_ms": 191,
+      "duration_ms": 214,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "Google AI",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 316,
+      "duration_ms": 328,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "Anthropic",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 146,
+      "duration_ms": 197,
       "error": "Status code 404"
     },
     {
@@ -118,7 +118,7 @@
       "site_name": "Meta",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1215,
+      "duration_ms": 1119,
       "error": null
     },
     {
@@ -126,7 +126,7 @@
       "site_name": "Microsoft AI",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 175,
+      "duration_ms": 156,
       "error": null
     },
     {
@@ -134,7 +134,7 @@
       "site_name": "Apple Intelligence",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 212,
+      "duration_ms": 103,
       "error": null
     },
     {
@@ -142,7 +142,7 @@
       "site_name": "Perplexity",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 65,
+      "duration_ms": 191,
       "error": "Status code 403"
     }
   ],
@@ -155,8 +155,8 @@
   ],
   "zero_item_sites": [],
   "fetched_raw_items": 2322,
-  "items_before_topic_filter": 753,
-  "items_in_24h": 30,
+  "items_before_topic_filter": 756,
+  "items_in_24h": 33,
   "rss_opml": {
     "enabled": false,
     "path": null,

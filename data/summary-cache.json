@@ -116752,5 +116752,106 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/5LKHi7_AoXqD0WyJaleg2Q": {
+    "title_clean": "Agent Harness选择指南：南洋理工大学安波团队最新研究",
+    "summary": "南洋理工大学安波团队发布关于Agent Harness选择的研究，为AI Agent工具选择提供科学依据和方法论。这项研究对元宝产品经理在AI Agent架构设计和工具集成方面具有重要参考价值，有助于优化产品技术选型。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/TlRcnfH1rnPDvy0ea_FoMw": {
+    "title_clean": "Tibo：Astra 6.1代码管理工具",
+    "summary": "Tibo公司预告Astra 6.1版本即将发布，该工具专注于解决代码管理问题，可能针对'屎山代码'提供优化方案。对于AI产品经理而言，这反映了代码质量管理和开发者工具领域的需求变化，值得关注其技术实现和产品定位。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/YHZvBGwnLYMX6LMXCOarNA": {
+    "title_clean": "Jev火了，NeurlPS 2025的ConfTuner早已探索相似思路",
+    "summary": "Jev走红引发关注，而NeurlPS 2025会议上的ConfTuner项目已探索了类似思路。这表明AI领域创新思路可能存在并行发展，产品经理需关注学术会议与行业热点之间的关联，避免重复研发。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions": {
+    "title_clean": "Google暂停开源漏洞赏金计划：AI提交量激增",
+    "summary": "Google因AI提交量显著上升而暂停了其开源漏洞赏金计划，反映了AI生成代码质量对安全测试的挑战。产品经理需关注AI工具在安全领域的应用边界和质量控制问题。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/DWSIhf52x217d_IcB2aDSg": {
+    "title_clean": "AlphaGo核心作者：LLM尚未掌握围棋「神之一手」的精华",
+    "summary": "AlphaGo核心作者指出，尽管大型语言模型(LLM)发展迅速，但尚未从2016年AlphaGo与李世石的围棋对局中学习到那场著名「神之一手」的精髓。这一观点对AI产品经理有参考价值，提示当前AI系统在深度学习和创造性思维方面仍有局限，特别是在需要突破性思维的领域。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-04/ai-stocks-drive-an-increasingly-divided-market-video": {
+    "title_clean": "AI股票推动市场分化加剧",
+    "summary": "嘉信理财宏观研究主管Kevin Gordon指出，AI相关科技股正在支撑整体市场表现，尽管许多个股表现不佳。这一现象反映了AI技术对市场结构的深远影响，对产品经理了解AI行业的资本流向和市场分化趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem": {
+    "title_clean": "特朗普政府试图重塑AI品牌形象：超级智能与非约束性安全协议能否解决AI的公众形象问题？",
+    "summary": "特朗普政府正尝试重塑AI品牌形象，探讨通过超级智能技术和非约束性安全协议来解决AI的公众形象问题。这一政策动向可能影响AI产品的市场定位和用户信任度，对元宝的产品策略和品牌建设具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council": {
+    "title_clean": "AI吹哨人、谷歌、OpenAI和Meta将出席纽约市议会听证会",
+    "summary": "前Anthropic研究员Jacob Coxon等AI吹哨人将与谷歌、OpenAI和Meta代表一起出席纽约市议会听证会，讨论AI可能变得过于强大而超出人类控制的风险。这反映了监管机构对AI安全性的关注加强，产品经理需关注政策变化对AI产品开发的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

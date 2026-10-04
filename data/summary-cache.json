@@ -116192,5 +116192,80 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/finDwlosNkRSSstuKlwQbg": {
+    "title_clean": "Jev被取代，StartLux中国开源决策模型登顶",
+    "summary": "中国开源决策模型StartLux超越Jev成为第一，这表明国内在决策AI领域取得突破性进展，对元宝产品经理评估国内AI决策模型能力、竞品动态及技术发展方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/reassign": {
+    "title_clean": "Reassign：创作者日程规划工具",
+    "summary": "Reassign是一款面向创作者的日程规划工具，将用户的日程转化为故事形式呈现，帮助创意工作者更好地组织和规划日常任务与项目进度。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/5YPKctLVxVKXVwa1KDiH4A": {
+    "title_clean": "Karpathy：航空规范应用于AI废话抑制",
+    "summary": "Karpathy尝试将40年前的航空规范应用于AI模型，以减少AI生成无意义或冗余内容。这一方法可能为提升AI输出质量提供新思路，对产品经理在优化AI助手回答质量方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/mbXlRXYH-6JbQ_b2EBPMNQ": {
+    "title_clean": "Meta开源MuseGadgets：AI外设开发工具包",
+    "summary": "Meta开源MuseGadgets工具包，使全球开发者能够自主创建AI外设设备。这为元宝产品经理提供了AI硬件生态扩展的新思路，可能影响未来AI交互方式的硬件化趋势，值得关注AI外设与软件结合的产品机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/JwUPaJhG4wm2DS5X1U_NXA": {
+    "title_clean": "万分之一稀疏监督：AI模型高效训练方法",
+    "summary": "万分之一稀疏监督是一种AI模型训练技术，通过仅使用极少量标注数据进行监督学习，大幅降低数据标注成本。这种方法对产品经理有参考价值，因为它可能帮助AI助手类产品在数据有限的情况下实现高效训练，降低开发成本并加速产品迭代。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/microsoft/thinkingbox": {
+    "title_clean": "The Agent Said It Was Done. The Database Disagreed.：AI Agent与数据库数据不一致问题",
+    "summary": "该文章探讨了AI Agent执行任务后声称完成，但数据库显示实际未完成的情况，揭示了AI Agent与实际系统交互时可能出现的可靠性问题。这对产品经理设计可靠的AI Agent系统具有重要参考价值，特别是在任务执行验证和错误处理机制方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

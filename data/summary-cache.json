@@ -116267,5 +116267,315 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/sellio-2": {
+    "title_clean": "Sellio：AI客户支持共享收件箱",
+    "summary": "Sellio是一款AI客户支持工具，通过AI代理提供共享收件箱功能，帮助团队集中管理客户咨询。该产品整合了AI自动化处理能力，可提升客服效率，对元宝在AI客服场景的产品设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aperture-7": {
+    "title_clean": "Aperture：AI代码自我检查编辑器",
+    "summary": "Aperture是一款AI代码编辑器，能够自动检查自身工作内容，帮助开发者提高代码质量和效率。这类工具对元宝产品经理有参考价值，可作为AI辅助编程场景的竞品分析，探索AI在代码生成与验证方面的应用可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/poddle-3": {
+    "title_clean": "Poddle：手机摇控电脑打匹克球工具",
+    "summary": "Poddle是一款创新工具，允许用户通过摇动手机来控制电脑上的匹克球游戏，实现跨设备互动游戏体验。这种交互方式为移动端与桌面端的游戏控制提供了新思路，对元宝产品经理探索多设备交互和游戏化场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notchmate": {
+    "title_clean": "NotchMate：刘海屏交互增强工具",
+    "summary": "NotchMate是一款针对刘海屏设备的交互增强工具，旨在让刘海屏区域变得更加有趣、互动和实用。该产品通过优化刘海屏区域的显示和交互方式，为用户提供更丰富的屏幕体验，对移动设备UI设计和交互设计有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/smooth-recorder": {
+    "title_clean": "Smooth Recorder：Mac屏幕录制自动美化工具",
+    "summary": "Smooth Recorder是一款Mac屏幕录制工具，能在录制完成后自动应用编辑效果，使录制的视频看起来已经过专业编辑，简化了屏幕录制后的处理流程，为需要快速生成高质量演示视频的用户提供了便捷解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/eat-train-feel": {
+    "title_clean": "Eat Train Feel：健康生活管理教练",
+    "summary": "这是一款健康生活管理应用，提供健身训练指导、饮食建议和情绪追踪功能，帮助用户全面管理健康生活。产品经理可参考其整合多维度健康数据的服务模式，探索元宝在健康管理场景的应用可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/thinking-orbs": {
+    "title_clean": "Thinking Orbs：React AI状态指示器组件库",
+    "summary": "Thinking Orbs是一个专为React设计的AI状态指示器动画组件库，用于在AI处理任务时提供视觉反馈。产品经理可参考其设计思路，优化AI助手在思考、加载等状态下的用户体验，提升交互的直观性和专业感。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tinyfolder": {
+    "title_clean": "TinyFolder：Mac Dock文件夹自定义工具",
+    "summary": "TinyFolder是一款Mac应用程序，允许用户自定义Dock中的文件夹布局和设计。这款工具为Mac用户提供了更灵活的桌面组织方式，可能对元宝产品经理在桌面助手应用界面设计和用户体验优化方面提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/qarunbook": {
+    "title_clean": "qarunbook：AI团队测试计划协作工具",
+    "summary": "qarunbook是一款团队测试计划工具，允许团队成员与AI共同协作完成测试流程。该产品将AI能力融入测试管理场景，为产品经理提供了AI辅助团队协作的新思路，可能启发AI在项目管理、质量保证等领域的应用方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/blenny": {
+    "title_clean": "Blenny：macOS 菜单栏整理工具",
+    "summary": "Blenny 是一款 macOS 菜单栏整理工具，允许用户在不移动指针的情况下组织菜单栏项目，提升桌面操作效率。对于元宝产品经理而言，这类桌面交互优化工具的设计思路可借鉴到多模态交互和桌面场景服务中。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pixel-soup": {
+    "title_clean": "Pixel Soup：Mac动态壁纸生成工具",
+    "summary": "Pixel Soup是一款为Mac系统开发的动态壁纸生成工具，能够自动创建抖动效果的动态壁纸。产品经理可关注其AI生成动态内容的技术实现，探索元宝在个性化壁纸或背景生成场景的应用可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/snapset": {
+    "title_clean": "Snapset：Mac工作区保存与恢复工具",
+    "summary": "Snapset是一款Mac应用，能够快速保存和恢复整个工作区布局，帮助用户在不同任务间无缝切换，提高工作效率。对于元宝产品经理而言，这提供了AI助手在多任务管理和工作区状态保存方面的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/opensend-cc": {
+    "title_clean": "opensend.cc：开源邮件平台",
+    "summary": "opensend.cc 是一个可在用户自己服务器上运行的开源邮件平台。对于元宝产品经理而言，这代表了一种自托管通信解决方案的可能性，可作为企业级AI助手或Agent服务的基础设施参考，特别是在数据隐私和自主可控方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-4-argon": {
+    "title_clean": "Gemini 4：Google前沿推理模型",
+    "summary": "Google发布Gemini 4模型，专注于复杂任务和严谨推理能力，作为其前沿AI模型代表。这对元宝产品经理具有重要参考价值，展示了大模型在复杂任务处理方向的发展趋势，可能影响AI助手产品架构设计。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cursor-remote-lite": {
+    "title_clean": "Cursor Remote Lite：手机远程控制电脑编程工具",
+    "summary": "Cursor Remote Lite 允许用户通过手机远程操控电脑上的 Cursor 编辑器，实现跨设备编程工作。这一工具解决了开发者需要在移动设备上继续编程的需求，为元宝产品经理提供了移动端与桌面端协同工作场景的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cupola": {
+    "title_clean": "Cupola：苹果日历提醒笔记整合工具",
+    "summary": "Cupola是一款将苹果设备原生日历、提醒事项和笔记功能整合于一体的应用，帮助用户统一管理日程安排和待办事项，提升个人信息管理效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/quven": {
+    "title_clean": "Quven：自托管媒体服务器工具",
+    "summary": "Quven是一款自托管媒体服务器，专注于提供原生播放体验。作为开源工具，它允许用户在自己的服务器上托管媒体内容，优化播放性能和兼容性，为产品经理提供了构建自有媒体服务的技术参考方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jogak": {
+    "title_clean": "JOGAK：日常视频自动编辑工具",
+    "summary": "JOGAK是一款视频编辑工具，旨在帮助用户减少日常视频剪辑的工作量，让制作日常vlog更加简单高效。产品经理可关注其自动化编辑技术如何降低用户创作门槛，以及这种轻量化工具对AI辅助内容创作场景的启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/calnio": {
+    "title_clean": "Calnio：Notion与Apple日历双向同步工具",
+    "summary": "Calnio是一款实现Notion与Apple日历之间双向同步的工具，解决了用户在两个平台间日程管理的割裂问题。对于元宝产品经理而言，此类跨平台同步功能可作为AI助手整合第三方服务的参考案例，特别是在提升用户工作流连贯性方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/control-my-mac": {
+    "title_clean": "Control My Mac：跨设备Mac应用快捷工具",
+    "summary": "一款允许用户在iPhone或iPad上控制Mac应用的快捷工具，通过快捷方式实现跨设备操作，提升多设备协作效率，对元宝产品经理设计跨平台AI助手交互有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/angebotsmeister": {
+    "title_clean": "Angebotsmeister：AI报价生成工具",
+    "summary": "Angebotsmeister是一款AI工具，用户通过语音输入工作需求即可自动生成报价单。该产品简化了报价流程，对需要频繁处理报价的元宝用户场景有参考价值，特别是在服务类AI助手中整合语音交互与文档生成功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-04/korea-orders-security-checks-after-finance-sector-data-breaches": {
+    "title_clean": "韩国金融数据泄露后要求安全检查",
+    "summary": "韩国监管机构在金融行业发生多起网络攻击导致个人数据泄露后，要求金融机构迅速完成内部安全检查并向当局报告结果。这反映了金融数据安全的重要性，对AI助手处理敏感数据的安全设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/tKbYX-1MMmBBfPNU8_Aqmw": {
+    "title_clean": "CoRL2026|让机器人更会动，从学会「起步」开始",
+    "summary": "CoRL2026会议聚焦机器人运动能力提升，特别关注机器人起步动作的优化研究。这一研究方向对AI助手在物理世界中的应用具有重要意义，可能为元宝未来拓展机器人交互能力提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports": {
+    "title_clean": "美国白宫AI风险评估工作组将发布报告",
+    "summary": "白宫成立新工作组将评估人工智能技术带来的风险，并确定美国联邦政府应如何监管该技术。报告将关注AI的风险评估和政府责任划分，对元宝产品经理了解AI监管趋势和政策影响有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/pnSoNdPKvZxbOKBomE8QNQ": {
+    "title_clean": "Depth Anything模型优化：6M参数版本适配Jetson设备",
+    "summary": "Depth Anything模型被优化至6M参数，成功适配Jetson嵌入式设备，使深度估计技术能够在边缘设备上运行，为AI视觉应用在移动和嵌入式场景的落地提供可能，对元宝在移动端视觉功能开发有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

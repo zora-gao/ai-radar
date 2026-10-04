@@ -116703,5 +116703,54 @@
       "多模态"
     ],
     "v": 4
+  },
+  "https://www.theinformation.com/briefings/musk-change-spacexais-name-spacexsi": {
+    "title_clean": "马斯克将SpaceXAI更名为SpaceXSI",
+    "summary": "马斯克在X平台宣布将SpaceX的AI部门名称从SpaceXAI改为SpaceXSI，采用特朗普总统偏好的AI命名方式。这一名称变更反映了政治人物对科技企业命名的影响，以及科技公司对政治风向的敏感度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter": {
+    "title_clean": "苹果推出触控屏OLED MacBook Pro，重量减轻",
+    "summary": "苹果设计团队负责人John Ternus领导推出新款触控屏OLED MacBook Pro，产品重量减轻。这一更新标志着苹果笔记本电脑向更轻薄、交互更直观的方向发展，对元宝产品经理了解硬件与AI交互结合的趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropics-big-charity-bill-shareholders": {
+    "title_clean": "Anthropic：大额股东慈善支出",
+    "summary": "Anthropic在IPO财务文件中披露，将向非营利组织提供巨额资金支持。这一慈善举措反映了AI企业对社会责任的重视，也为元宝产品经理提供了AI企业社会责任战略的参考案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force": {
+    "title_clean": "特朗普推出新超级智能部队",
+    "summary": "特朗普宣布成立新的超级智能部队，这是他对AI安全辩论的最新回应。该举措表明美国政界对AI安全监管的重视程度提升，可能影响AI政策走向和行业监管环境，对产品经理了解政策动向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -117228,5 +117228,384 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account": {
+    "title_clean": "Instinct：AI群聊协作工具",
+    "summary": "Instinct推出群聊功能，允许好友共同使用其AI助手完成旅行规划、拼车安排和活动协调等任务。即使没有账户的朋友也能参与，个人账户保持独立。这对产品经理参考AI助手在社交场景中的协作价值有启发意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/-blue-horseshoe-tracking-big-active-video": {
+    "title_clean": "'Blue Horseshoe'：Bloomberg股票追踪工具",
+    "summary": "Bloomberg Intelligence推出名为'Blue Horseshoe'的新工具，允许Bloomberg Terminal用户查看大型活跃投资者的股票交易动向。该工具旨在帮助投资者追踪机构投资者的交易行为，提供市场洞察，对金融AI助手和投资决策类产品有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/speechshield": {
+    "title_clean": "SpeechShield：Mac端面试会议AI助手",
+    "summary": "SpeechShield是一款面向Mac用户的实时面试与会议AI辅助工具，可根据用户简历提供智能支持，帮助用户在面试和会议中表现更佳。产品经理可关注其如何将简历信息转化为实时对话辅助功能，这对提升AI助手在职业场景中的应用价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude": {
+    "title_clean": "Meta与微软减少使用Anthropic的Claude",
+    "summary": "Meta和微软作为Anthropic的主要企业客户，正努力减少员工对Claude的使用，这对Anthropic维持爆炸性增长的努力构成挑战。这对元宝产品经理了解大模型企业客户流失风险和客户留存策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout": {
+    "title_clean": "TikTok推出AI购物助手和一键结账功能",
+    "summary": "TikTok发布了新的购物助手，这是一个对话式AI代理，旨在帮助用户发现和购买产品。这一功能标志着TikTok进一步整合电商与社交内容，为元宝产品经理提供了社交平台AI购物场景的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/ai-moves-from-experiment-to-the-enterprise-video": {
+    "title_clean": "AI从实验走向企业应用",
+    "summary": "企业正投入巨资发展AI，但将AI真正投入生产仍面临重大挑战。Insight Partners提出解决方案：通过前置部署工程师直接嵌入工作流程，解决AI落地难题。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/bofa-sees-the-end-of-easy-money-made-from-the-ai-spending-trade": {
+    "title_clean": "BofA：AI投资'轻松获利'时代即将结束",
+    "summary": "美国银行报告指出，投资者通过AI相关资本支出获取超额回报的'轻松获利'模式正在终结，未来AI投资将面临更严格的回报评估，这反映了AI商业化进程中的理性回归，对产品经理评估AI商业化路径和投资回报具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era": {
+    "title_clean": "Hot Girl Hotline：AI时代女性情感建议助手",
+    "summary": "Hot Girl Hotline由两姐妹创立，利用AI为年轻女性提供个性化约会和恋爱建议，注重安全性和避免情感依赖。这款产品针对特定人群的情感需求，展示了AI在情感咨询领域的垂直应用场景，对元宝产品经理了解AI服务细分市场有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/ai-pacing-doesn-t-mean-slower-adoption-video": {
+    "title_clean": "AI 'Pacing' Doesn't Mean Slower Adoption：AI发展节奏放缓不等于经济领域采用速度减慢",
+    "summary": "NEA合伙人Tiffany Luck表示，AI前沿开发节奏的放缓不会阻碍经济领域的广泛采用。她认为OpenAI、Anthropic等公司不断增强的模型将推动AI在各行业的快速应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-decade-energy": {
+    "title_clean": "Executive Interview: Decade Energy",
+    "summary": "Decade Energy董事长Carl-Magnus Norden接受CB Insights采访，分享公司对市场的看法、客户需求分析以及企业定位。作为能源行业高管访谈，提供了行业洞察和企业战略视角，对元宝产品经理了解垂直行业AI应用场景有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/ch-robinson-to-buy-rxo-for-5-8b-in-bet-on-ai-model-video": {
+    "title_clean": "CH Robinson收购RXO：押注AI提升货运效率",
+    "summary": "物流巨头CH Robinson以58亿美元收购卡车经纪公司RXO，此次交易的核心是押注AI技术能够帮助两家公司在充满挑战的货运市场中提升运营效率。这反映了物流行业对AI优化供应链和运输管理的重视，对元宝产品经理了解AI在传统行业的应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become": {
+    "title_clean": "HackerRank：AI面试官工具",
+    "summary": "HackerRank推出AI面试官工具，已完成超过50万次面试，Snowflake、Snorkel和Capgemini等企业已率先试用。该产品展示了AI在招聘面试场景的应用潜力，为元宝在职业服务领域的AI应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/tsmc-in-talks-to-join-musk-s-texas-terafab-project-video": {
+    "title_clean": "台积电与马斯克德州超级芯片工厂项目洽谈合作",
+    "summary": "台积电与马斯克公司正在洽谈在德克萨斯州建立芯片制造合作伙伴关系的可能性，该项目可能使台积电成为特斯拉、SpaceX和xAI的供应商。这对元宝产品经理评估AI硬件供应链和大型科技公司的AI基础设施布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-synclair-vision": {
+    "title_clean": "Executive Interview: Synclair Vision",
+    "summary": "Synclair Vision首席商务官David N. Nilsson接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司战略方向。这对元宝产品经理了解企业级AI视觉解决方案的市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/schneider-expands-in-ai-with-23-billion-acquisition-video": {
+    "title_clean": "施耐德电气斥资230亿美元收购PTC，加速AI领域扩张",
+    "summary": "施耐德电气以约230亿美元收购软件公司PTC，这是该公司历史上最大规模的收购交易，标志着施耐德电气正积极拓展人工智能领域，通过整合PTC的软件能力加强其在工业AI解决方案市场的竞争力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results": {
+    "title_clean": "OpenAI推出图像生成结果旁的视觉广告功能",
+    "summary": "OpenAI在美国市场推出视觉广告功能，这些广告将显示在图像生成结果之后。这一举措标志着OpenAI开始探索图像生成领域的商业化路径，为产品经理提供了AI服务商业化的重要参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/tech-billionaires-make-up-36-of-bloomberg-index-video": {
+    "title_clean": "科技富豪占彭博指数36%",
+    "summary": "科技富豪在9月30日前累计赚取8450亿美元，占彭博亿万富翁指数的36%，埃隆·马斯克位居榜首。此数据反映了科技行业的财富集中度和市场影响力，对产品经理了解行业资本动向和潜在投资方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/eu-text-provenance": {
+    "title_clean": "OpenAI应对欧盟文本溯源规则的做法",
+    "summary": "OpenAI分享其如何应对欧盟文本溯源规则，包括水印应用范围、检测机制以及为何首先向研究人员开放。这对元宝产品经理了解AI内容合规要求和文本溯源技术具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026": {
+    "title_clean": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "summary": "TechCrunch Disrupt 2026将探讨创始人在选择开放或封闭AI平台构建产品时的决策考量。这一讨论对元宝产品经理具有重要参考价值，涉及AI基础设施选择、技术路线决策以及产品生态战略方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/google-amazon-microsoft-need-chinese-data-center-suppliers": {
+    "title_clean": "美科技巨头依赖中国数据中心供应商引发安全担忧",
+    "summary": "美国数据中心运营商依赖中国制造商供应电池、冷却系统、光模块等设备，这一情况因国家安全问题受到审查。这对元宝产品经理了解全球供应链安全风险、数据中心基础设施选择以及可能的替代方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026": {
+    "title_clean": "TechCrunch Disrupt 2026：科技行业领袖对话大会",
+    "summary": "TechCrunch Disrupt 2026大会公布完整演讲阵容，包括Max Hodak、Mark Wahlberg及Benchmark合伙人等行业领袖。作为科技行业重要会议，将为元宝产品经理提供AI领域最新趋势、产品方向和行业洞察的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/jensen-huangs-son-in-law-became-one-trusted-executives": {
+    "title_clean": "英文名：NVIDIA高管晋升事件",
+    "summary": "NVIDIA CEO黄仁勋的女婿Madison Huang近期晋升为高管，成为公司最受信任的执行团队成员之一。这一人事变动反映了NVIDIA家族企业在高管选拔上的特点，对AI芯片巨头的人才战略和公司治理结构有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026": {
+    "title_clean": "TechCrunch Disrupt 2026 创业战场评委阵容公布",
+    "summary": "TechCrunch Disrupt 2026 创业比赛评委阵容最终确定，将决定创业竞赛获胜者。这是一场重要的科技创业赛事，对关注AI创业生态和新兴产品的产品经理具有参考价值，可了解行业投资趋势和创业方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them": {
+    "title_clean": "Safeworld：构建数字人类确保机器人安全",
+    "summary": "Safeworld正在开发数字人类技术，旨在确保人工智能机器人不会对人类造成伤害。该公司专注于通过数字人类来监控和控制物理机器人，解决人们对AI机器人安全性的担忧，这对元宝产品经理在AI安全与伦理方面的产品设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+    "title_clean": "OpenAI推出ChatGPT视觉广告格式并扩展广告测量工具",
+    "summary": "OpenAI在ChatGPT中引入新型视觉广告格式，同时扩展了广告测量工具、归因合作伙伴和品牌适用性功能，为广告商提供更全面的广告投放解决方案，这对AI助手产品的商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-s-valuations-show-ai-rally-isn-t-a-bubble-dbs-says": {
+    "title_clean": "Nvidia估值显示AI热潮并非泡沫",
+    "summary": "DBS集团分析指出，Nvidia的市盈率和预计70%的明年收益增长表明，AI驱动科技股票远未达到泡沫水平，这反映了AI市场的真实增长潜力，对元宝产品经理判断AI行业投资热度与市场信心有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/dbs-cio-on-ai-bonds-and-market-risks-video": {
+    "title_clean": "DBS首席投资官谈AI、债券与市场风险",
+    "summary": "DBS集团首席投资官Hou Wey Fook表示，AI驱动的盈利增长继续支撑主要科技股，而收益率超过5%的投资级债券提供了有吸引力的投资选择。这反映了AI在金融投资领域的影响力和市场对AI相关资产的信心。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/how-to-outsmart-your-investing-instincts-video": {
+    "title_clean": "How to Outsmart Your Investing Instincts：投资心理与决策优化指南",
+    "summary": "本文探讨《疯狂市场》一书作者Alex Edmans的观点，分析为何经验丰富的投资者仍会做出非理性决策，并提供如何利用这些认知偏差进行投资优化的方法。对产品经理理解用户在金融决策中的心理障碍有参考价值，可启发AI助手在投资建议场景中的应用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/denmark-data-breach-exposes-8-8-million-people-s-personal-data": {
+    "title_clean": "丹麦数据泄露事件：880万人个人信息遭泄露",
+    "summary": "丹麦发生重大数据泄露事件，约880万人的姓名、地址和个人身份证号码等敏感信息被未授权人员获取。此次事件凸显了数据安全与隐私保护的重要性，对AI产品经理在处理用户数据时需加强安全防护措施具有警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/asia-economies-among-most-at-risk-from-any-ai-correction-researchers-warn": {
+    "title_clean": "亚洲经济体面临AI调整风险，研究警告",
+    "summary": "新研究发现，亚洲主要经济体比其他地区更易受AI行业调整冲击，这可能削弱其快速增长出口并引发市场连锁反应。对元宝产品经理而言，这提示需关注AI产业波动对亚洲市场的潜在影响，以及可能带来的服务场景变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/ontological-boundary-negotiation": {
+    "title_clean": "Negotiating Ontological Boundaries in User-Authored Personal Sensing Systems：用户自主感知系统的本体边界研究",
+    "summary": "该研究探讨了用户自主设计的感知系统如何塑造和限制可能性，提出通过赋予用户系统设计自主权来缓解这种限制。对产品经理理解用户参与设计的重要性及如何平衡系统引导与用户自主有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

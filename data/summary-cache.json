@@ -116853,5 +116853,56 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.theinformation.com/articles/ellisons-hollywood-adventure-scale": {
+    "title_clean": "The Ellisons’ Hollywood Adventure Is About to Scale Up：科技巨头收购华纳兄弟探索公司",
+    "summary": "科技巨头拉里·埃里森家族完成对华纳兄弟探索公司的收购，这是好莱坞标志性电影制片厂的易主。这一收购可能影响内容产业格局，对AI助手在娱乐内容分发、版权管理等方面的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-04/david-ellison-s-plan-for-warner-bros-is-no-longer-a-secret": {
+    "title_clean": "David Ellison的华纳兄弟战略：债务偿还与流媒体扩张并行",
+    "summary": "华纳兄弟新任CEO David Ellison正面临双重挑战：偿还数十亿美元债务的同时投资流媒体平台建设。这一战略调整对内容行业和流媒体市场竞争格局有重要参考价值，尤其对AI助手在内容分发和个性化推荐方面的应用场景启发。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/rPlAWxKStgNq9w9PiFJYxw": {
+    "title_clean": "DeepSeek与Harness假期更新：AI模型与工具迭代",
+    "summary": "DeepSeek和Harness在假期期间发布新版本，显示AI产品迭代加速。DeepSeek作为AI模型持续优化，Harness作为工具可能增强了功能，这对产品经理了解AI产品更新节奏和竞争态势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says": {
+    "title_clean": "美国AI领先优势因DeepSeek崛起而缩小",
+    "summary": "据彭博社报道，随着DeepSeek等中国AI实验室的进步，美国AI公司过去几个月的领先优势已缩小至历史最低点，威胁到美国的技术霸主地位。这对元宝产品经理了解全球AI竞争格局变化和潜在市场机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI搜索",
+      "商业化"
+    ],
+    "v": 4
   }
 }

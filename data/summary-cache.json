@@ -116904,5 +116904,329 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/marv-3": {
+    "title_clean": "Marv：AI光标助手工具",
+    "summary": "Marv是一款AI光标伴侣工具，能够直观显示用户应该点击的位置，通过视觉引导简化操作流程，提升用户交互效率。这类工具对AI助手产品在界面交互优化和用户体验提升方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/spira-ai": {
+    "title_clean": "Spira Maxima：AI视频生成工具",
+    "summary": "Spira Maxima是一款AI视频模型，能够将脚本转化为可在社交媒体上传播的病毒式视频内容。该工具对产品经理的参考价值在于了解AI在内容创作领域的应用，特别是如何通过AI技术快速生成符合社交媒体传播特性的视频内容。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/heygen": {
+    "title_clean": "HyperFrames Studio：AI Agent专用视频编辑工具",
+    "summary": "HyperFrames Studio是全球首个专为AI Agent设计的视频编辑桌面应用，解决了AI生成内容需要专业视频编辑工具的痛点。产品经理可关注其如何将Agent能力与创意工具结合，探索元宝在多媒体内容生成与编辑场景的产品机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/crosswalk": {
+    "title_clean": "Crosswalk：人与AI代理的第三空间工具",
+    "summary": "Crosswalk推出一个被称为'第三空间'的平台，旨在为用户及其AI代理提供交流环境，首先从收件箱功能开始。这一产品探索了AI代理与人类交互的新场景，为元宝产品经理提供了关于AI代理服务场景拓展的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dereference-the-100x-ide": {
+    "title_clean": "Reason：AI编程工作空间工具",
+    "summary": "Reason是一款集成上下文理解、插件和技能功能的AI编程工作空间工具，为开发者提供智能化的编程环境，可能提升代码编写效率和项目协作能力，对元宝在AI辅助编程场景的产品设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pilot5-ai": {
+    "title_clean": "Pilot5 Legal：AI法律答案验证平台",
+    "summary": "Pilot5 Legal是一个法律AI平台，通过五个不同的AI模型对每个法律答案进行交叉验证，提高法律咨询的准确性和可靠性。该产品对元宝产品经理有参考价值，特别是在AI多模型验证、专业领域应用和答案可靠性保障方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/reviu": {
+    "title_clean": "Reviu：代码审查AI助手",
+    "summary": "Reviu是一款专门用于审查AI生成代码的应用程序，能够帮助开发者检查和改进AI助手编写的代码质量。对于元宝产品经理而言，这反映了AI辅助编程场景下的代码质量保障需求，可作为AI助手功能扩展的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dots-ui": {
+    "title_clean": "Dots UI：React 粒子变形界面库",
+    "summary": "Dots UI 是一个 React 库，专注于创建可变形的粒子界面。对于元宝产品经理而言，这可能提供新颖的 UI 交互思路，特别是在多模态交互和视觉呈现方面，可作为提升用户体验的技术参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/xtracticle": {
+    "title_clean": "Xtracticle：文章内容导出工具",
+    "summary": "Xtracticle是一款内容导出工具，可将网页文章和讨论线程保存为PDF、Markdown或EPUB格式。这类工具对AI助手产品经理有参考价值，特别是在内容处理、多格式导出和用户阅读习惯优化方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jarq": {
+    "title_clean": "Jarq：文本编辑与优化工具",
+    "summary": "Jarq是一款文本处理工具，能够在光标附近提供翻译、缩短、修正或重写文本的功能。这款工具可能对元宝产品经理在文本处理和内容优化方面有参考价值，特别是在多语言支持和文本编辑功能的设计上。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/iland": {
+    "title_clean": "iLand：Mac刘海屏工作区工具",
+    "summary": "iLand是一款Mac应用，将Mac的刘海屏区域转化为日常工作的交互空间，可能提供快捷操作、信息显示等功能，为产品经理提供多屏幕利用和交互设计的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chain-exchange": {
+    "title_clean": "Chain Exchange：跨链稳定币交易工具",
+    "summary": "Chain Exchange 是一个专注于稳定币交易、桥接和跨链移动的平台，特别支持 Arc 区块链生态系统。产品经理可关注其在 DeFi 领域的跨链解决方案，评估是否能为元宝的资产转移功能提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/unscary-ai": {
+    "title_clean": "Unscary AI：AI入门学习工具",
+    "summary": "Unscary AI提供简短课程，帮助用户克服对AI技术的恐惧和落后感，通过轻松学习方式提升AI素养。该产品针对普通用户对AI的焦虑心理，提供入门级学习内容，对元宝产品经理了解用户AI学习需求和心理障碍有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/siteprint": {
+    "title_clean": "Siteprint：网站设计测量与AI分析工具",
+    "summary": "Siteprint是一款网站设计测量工具，能够分析任何网站的设计元素，并将分析结果提供给AI进行处理。产品经理可参考其如何将网站分析能力与AI结合，为元宝在网站解析、设计评估或竞品分析方面提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bentomux": {
+    "title_clean": "Bentomux：终端工作区工具",
+    "summary": "Bentomux是一款终端工作区管理工具，采用便当盒(bento box)概念组织终端界面，帮助用户更高效地管理多个终端会话。对于元宝产品经理而言，这提供了AI助手如何优化多任务工作区管理的参考思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/devpit": {
+    "title_clean": "devpit：Claude Code 原生控制室工具",
+    "summary": "devpit 是一款专为 Claude Code 代理设计的原生控制室工具，提供集中管理界面，帮助用户更好地监控和管理 AI 代理的执行过程。这对元宝产品经理在构建 AI 代理管理界面和增强代理控制能力方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dailyhelm": {
+    "title_clean": "DailyHelm：数据分析营收优化工具",
+    "summary": "DailyHelm是一款将分析数据转化为日常营收提升解决方案的工具，帮助用户通过数据分析发现并实施能增加收入的优化措施，为产品经理提供数据驱动商业决策的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fastrouter-ai": {
+    "title_clean": "FastRouter.ai：LLM请求智能路由工具",
+    "summary": "FastRouter.ai是一个智能路由工具，能够根据成本、延迟和质量将用户请求精准分配到最适合的大语言模型，帮助优化AI服务性能和成本控制，对元宝产品经理在LLM资源调度和成本优化方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-partner-hon-hai-beats-sales-estimates-due-to-ai-frenzy": {
+    "title_clean": "富士康：Nvidia AI合作伙伴销售超预期",
+    "summary": "富士康作为Nvidia的合作伙伴，季度营收超出预期，表明全球AI基础设施支出持续增长。这一数据反映了AI硬件需求的强劲势头，对元宝产品经理评估AI基础设施市场趋势和供应链合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/reactive-resume": {
+    "title_clean": "Reactive Resume：开源简历生成工具",
+    "summary": "Reactive Resume是一款免费开源的简历生成工具，提供简历创建功能。作为AI助手产品经理，可参考其开源模式与简历构建场景，评估元宝在文档生成与职业服务领域的可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/bt-buys-talktalk-to-save-uk-broadband-provider-from-collapse": {
+    "title_clean": "BT收购TalkTalk以挽救英国宽带提供商",
+    "summary": "英国电信集团BT收购了陷入破产管理的TalkTalk和PlatformX通信公司，成功阻止了这家英国主要宽带提供商及其重要客户的倒闭。这一收购反映了电信行业整合趋势，对元宝产品经理了解企业级AI服务在通信行业的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/oogwai-beacon": {
+    "title_clean": "Oogwai Beacon：AI搜索引擎优化审计工具",
+    "summary": "Oogwai Beacon是一款专注于搜索引擎优化审计的AI工具，帮助网站提升在AI搜索引擎中的排名表现。该工具通过分析网站内容结构和SEO因素，为产品经理提供优化AI搜索可见性的专业建议，对提升元宝在AI搜索中的竞争力有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech": {
+    "title_clean": "Qualcomm授权华为LogicFolding芯片技术专利",
+    "summary": "高通公司已同意授权华为LogicFolding芯片制造技术相关专利，这是华为在海外AI市场推进的重要胜利。该合作表明华为在AI芯片技术上的创新获得了国际认可，可能影响全球AI芯片市场格局和竞争态势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/us-investors-drive-record-haul-for-european-defense-startups-in-2026": {
+    "title_clean": "美国投资者创纪录投资欧洲防务初创企业",
+    "summary": "2026年欧洲防务初创企业创纪录融资，首次主要依赖美国投资者而非本地基金。这一趋势反映了全球防务科技投资格局变化，对元宝产品经理了解AI在国防安全领域的应用场景和投资动向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/malaysia-plans-its-first-ai-law-as-global-scrutiny-intensifies": {
+    "title_clean": "马来西亚计划于2027年推出首部人工智能法律",
+    "summary": "马来西亚计划于2027年初推出首部专门针对人工智能的法律，这是全球各国加强对人工智能技术监管的最新举措。这一动向对元宝产品经理具有重要参考价值，表明AI监管环境正在全球范围内逐步形成，企业需提前布局合规策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/schneider-electric-to-acquire-ptc-in-all-cash-deal-video": {
+    "title_clean": "施耐德电气收购PTC：237亿美元全现金交易",
+    "summary": "法国工业巨头施耐德电气宣布以全现金方式收购美国工程软件开发商PTC，企业估值达237亿美元，每股205美元。这一收购将增强施耐德在工业软件和物联网领域的实力，对元宝产品经理了解工业AI应用整合与企业级软件并购战略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

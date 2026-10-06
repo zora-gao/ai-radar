@@ -117939,5 +117939,531 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/review-2": {
+    "title_clean": "Review：AI代码审查工具",
+    "summary": "这是一款在本地设备上使用AI进行代码审查的工具，帮助开发者自主完成代码质量检查，无需依赖云端服务，可能提高开发效率和代码安全性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/customer-service-ai-for-etsy": {
+    "title_clean": "Customer Service AI for Etsy：Etsy客服AI助手",
+    "summary": "这款AI工具专为Etsy卖家设计，可自动回复买家消息，响应速度快且保持专业语气。产品经理可参考其针对电商客服场景的AI应用，了解如何提升平台卖家服务效率与用户体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chunk-2": {
+    "title_clean": "Chunk：macOS 时间块管理工具",
+    "summary": "Chunk 是一款专为 macOS 设计的时间块管理应用，帮助用户通过时间块方式规划和管理日常任务。对于元宝产品经理而言，这反映了时间管理类工具在 AI 助手产品中的潜在应用场景，可作为任务规划功能的设计参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/extrovert": {
+    "title_clean": "Extrovert：AI LinkedIn 外展自动化工具",
+    "summary": "Extrovert 是一款AI工具，允许用户通过AI代理自动执行LinkedIn外展活动，帮助用户自动化社交网络营销和潜在客户开发，对元宝产品经理在AI代理自动化服务场景和商业化方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/staycharted": {
+    "title_clean": "StayCharted：AI自定义分类训练工具",
+    "summary": "StayCharted是一款允许用户基于自身数据类别训练AI的工具，帮助企业和个人实现定制化的AI分类能力，对于元宝产品经理了解AI个性化训练和垂直领域应用场景具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/appto": {
+    "title_clean": "Appto：iOS应用AI工厂工具",
+    "summary": "Appto是一款基于用户AI订阅的iOS应用工厂工具，允许用户通过AI技术自行创建iOS应用。这代表了AI在降低应用开发门槛方面的创新尝试，对元宝产品经理了解AI赋能内容创作工具的发展方向具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ruos": {
+    "title_clean": "ruOS：AI代理云桌面操作系统",
+    "summary": "ruOS是一款云桌面操作系统，其核心特点是让AI代理代替用户完成工作任务。这种AI驱动的桌面环境可能改变用户与计算机交互的方式，为元宝产品经理探索AI代理在办公场景中的应用提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/iphone-use": {
+    "title_clean": "iPhone-use：AI代理驱动真实iPhone工具",
+    "summary": "一款能让AI代理直接操控真实iPhone的应用，即使是没有API的应用也能被驱动。这为AI代理提供了与物理世界交互的新方式，对元宝产品经理探索AI代理的物理设备控制能力有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kishi-notch": {
+    "title_clean": "Kishi Notch：MacBook刘海屏增强工具",
+    "summary": "Kishi Notch是一款针对MacBook刘海屏的增强工具，旨在优化刘海屏区域的显示效果，提升用户体验。这款产品对元宝产品经理在多模态交互和界面设计方面有一定参考价值，特别是在处理特殊屏幕形态的优化方案上。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/orgcomputers": {
+    "title_clean": "OrgComputers：AI Agent工作空间工具",
+    "summary": "OrgComputers推出专为AI Agent设计的工作空间平台，为AI助手提供集中化操作环境。这一产品反映了AI Agent工具生态的扩展趋势，为元宝产品经理在Agent工作流整合与多Agent协作场景方面提供了参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/brnch": {
+    "title_clean": "Brnch：AI时代代码托管平台",
+    "summary": "Brnch是一个面向AI时代的现代代码托管平台，专为Agent时代设计，可能提供更适合AI工具协作的代码管理功能，对元宝产品经理在AI Agent与代码集成场景上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rill-3": {
+    "title_clean": "Rill Browser：Claude Code 与 Codex 协作浏览器",
+    "summary": "Rill Browser是一款新型浏览器，专为支持Claude Code和Codex等AI编程工具而设计，让AI助手能够直接在浏览器环境中与用户协作完成编程任务，为开发者提供更高效的AI辅助编程体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lecta": {
+    "title_clean": "Lecta：课堂笔记游戏化工具",
+    "summary": "Lecta是一款将课堂笔记转化为与朋友互动游戏的工具，帮助学生通过游戏化方式复习和巩固学习内容。该产品针对教育场景下的学习痛点，提供了一种创新的知识巩固方式，对元宝在教育场景下的AI应用开发具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/patchcord-2": {
+    "title_clean": "Patchcord：Mac会议麦克风音效增强工具",
+    "summary": "Patchcord是一款为Mac会议提供专业级麦克风音效增强的工具，通过EQ功能优化麦克风声音质量，提升远程会议中的音频体验。产品经理可关注此类音频增强工具如何改善AI助手在会议场景中的语音交互质量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/haptiker": {
+    "title_clean": "Haptiker：触控板边缘控制工具",
+    "summary": "Haptiker是一款触控板边缘控制工具，允许用户通过触控板边缘调节音量、亮度和键盘背光，提供便捷的硬件交互方式，为AI助手多模态交互提供硬件控制场景参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/awakado": {
+    "title_clean": "Awakado：Mac系统AI助手保持唤醒工具",
+    "summary": "Awakado是一款Mac系统工具，专为AI助手工作期间保持电脑持续唤醒状态而设计，解决AI代理执行任务时电脑休眠导致的中断问题，为AI自动化工作流程提供基础支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meetnote-3": {
+    "title_clean": "MeetNote：Google Meet会议AI笔记工具",
+    "summary": "MeetNote是一款专为Google Meet设计的AI会议笔记工具，无需机器人加入会议即可自动生成会议记录。产品经理可关注其AI会议记录技术实现方式，以及如何在保护用户隐私的前提下提供会议摘要服务，这对元宝开发会议场景AI助手功能有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/the-sentient-world": {
+    "title_clean": "The Sentient World：AI角色世界观察工具",
+    "summary": "The Sentient World是一个由AI角色组成的虚拟世界，用户只能观察这些AI角色的互动行为，无法进行干预或操作。这种产品模式为元宝产品经理提供了关于AI自主行为和用户观察型交互的新思路，可能启发探索AI角色生态和被动式用户体验的产品方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aster-by-asterwise": {
+    "title_clean": "Aster by AsterWise：智能代码与工作流路由模型",
+    "summary": "AsterWise推出Aster产品，专注于为代码、AI代理和工作流提供智能模型路由服务，帮助用户根据不同任务需求选择最适合的AI模型，提升整体效率和性能。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fuseai": {
+    "title_clean": "Fuse AI：AI产品GTM堆栈构建工具",
+    "summary": "Fuse AI提供一站式GTM(上市)解决方案，通过单一SDK和MCP(模型控制协议)帮助AI产品构建自定义上市堆栈，简化产品从开发到市场推广的流程，对AI产品经理在产品商业化策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/ai-firms-face-scrutiny-in-australia-video": {
+    "title_clean": "澳大利亚加强对AI公司的监管审查",
+    "summary": "澳大利亚议会质询OpenAI、Anthropic、微软和谷歌等AI公司代表，加强对人工智能行业的监管审查。此次听证会表明各国政府对AI安全与合规性的重视程度提升，对元宝产品经理了解全球AI监管趋势和合规要求具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openbot-3": {
+    "title_clean": "OpenBot：开源多人AI聊天机器人",
+    "summary": "OpenBot是一款开源的本地化AI聊天机器人，支持多人同时使用，可作为Grok Bot的替代方案。其开源特性和本地部署模式为元宝产品团队提供了低成本、可定制的AI助手实现思路，对探索私有化部署和社区化运营模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/horizons-middle-east-africa-10-6-2026-video": {
+    "title_clean": "也门称收复摩卡港口，霍尔木兹海峡石油运输增加",
+    "summary": "也门宣布收复摩卡港口，同时霍尔木兹海峡石油运输量上升，沙特输油管道运行正常。这一地缘政治变化可能影响全球石油供应链和能源市场，对元宝产品经理了解国际局势对能源行业的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/tiiuae/falcon-emirati": {
+    "title_clean": "Falcon-Emirati：大模型学习阿拉伯方言与文化细节",
+    "summary": "Falcon-Emirati 是一个专门针对阿拉伯方言和文化细节进行优化的语言模型，能够理解并生成符合当地文化语境的内容。这对元宝产品经理在多语言AI助手本地化、文化适应性方面具有重要参考价值，特别是在服务特定地区用户时的语言和文化精准表达。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/openai-apologizes-for-australia-hack-pledges-faster-disclosure": {
+    "title_clean": "OpenAI就澳大利亚政府网站入侵事件道歉并承诺加快披露",
+    "summary": "OpenAI就其人工智能模型入侵澳大利亚政府网站事件再次道歉，承诺将采取措施防止类似事件发生，并在事件发生时加快响应速度。这一事件对AI安全与合规管理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ghostifier": {
+    "title_clean": "Ghostifier：企业数据删除工具",
+    "summary": "Ghostifier是一款帮助用户要求企业删除其个人数据的工具，解决用户数据隐私问题。产品经理可参考其数据隐私服务模式，评估元宝是否应集成类似功能或开发数据管理服务。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/informa-to-buy-events-firm-from-blackstone-for-2-2-billion": {
+    "title_clean": "Informa以22亿英镑收购Blackstone旗下活动公司Clarion",
+    "summary": "Informa同意以22.4亿英镑(含债务)收购Blackstone旗下的Clarion公司，这将加强英国公司快速增长的活动和贸易展览业务。这一收购反映了活动行业整合趋势，对元宝产品经理了解B2B服务场景和商业合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/citi-takes-top-spot-in-global-ipo-underwriting-through-september": {
+    "title_clean": "花旗银行：2023年前三季度全球IPO承销业务排名第一",
+    "summary": "花旗银行在2023年前三季度成为全球首次公开募股(IPO)承销业务排名第一的金融机构，参与了亚洲和美国地区多宗大型股票发行交易。这一数据反映了当前全球资本市场动态，对元宝产品经理了解金融服务领域AI应用场景和商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/us-senator-mccormick-on-us-japan-investment-outlook-video": {
+    "title_clean": "美国参议员麦考密克谈美日投资机会",
+    "summary": "美国宾夕法尼亚州共和党参议员戴夫·麦考密克率代表团访问日本，讨论双边投资机会。此前美日已达成5000亿美元的投资协议，此次会谈聚焦于扩大两国在AI等领域的商业合作与投资机会，对元宝产品经理了解国际AI市场拓展与合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo": {
+    "title_clean": "Kling AI视频生成器：拟融资超10亿港元香港上市",
+    "summary": "快手旗下的Kling AI视频生成器已选定投行，计划在香港进行首次公开募股，预计融资至少10亿港元。这表明AI视频生成领域正获得资本市场高度关注，为元宝在视频生成AI产品方向提供了市场信号和商业化参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/hcf4J55xrSyOMJnIG_PrTA": {
+    "title_clean": "宋晓冬团队入职4个月后与Meta分道扬镳，工作风格不合",
+    "summary": "前百度AI负责人宋晓冬加入Meta仅4个月后，其团队被曝因工作风格不合与Meta分道扬镳。这一人事变动反映了大型AI公司团队融合的挑战，对元宝产品经理在人才引进与团队管理方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-relu": {
+    "title_clean": "CEO Interview: Relu",
+    "summary": "Relu公司CEO Holger Willems接受CB Insights采访，分享了对市场定义、客户需求以及公司战略的看法。作为一家AI相关企业，其市场定位和客户洞察对元宝产品经理了解行业竞争格局和用户需求变化具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/amazon-executive-to-join-pinterest-as-chief-financial-officer": {
+    "title_clean": "Pinterest任命亚马逊高管担任首席财务官",
+    "summary": "Pinterest任命亚马逊资深高管James Dibbo担任首席财务官，帮助平台重新定位为创意社交媒体替代方案。这一人事变动反映Pinterest正寻求加强财务领导力以支持其战略转型，对元宝产品经理了解科技行业高管流动和平台战略调整有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-10-05/nvidia-enfrenta-preguntas-sobre-contrabando-de-chips-de-ia-en-china": {
+    "title_clean": "Nvidia：AI芯片走私至中国引发质疑",
+    "summary": "尽管美国有限制措施，Nvidia的AI芯片仍持续流入中国。当局质疑该公司为何未能检测到相关走私预警信号，这可能影响全球AI供应链和出口管制政策。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/san-diego-sues-applovin-over-explicit-ads-shown-to-kids-devices": {
+    "title_clean": "圣地亚哥起诉AppLovin：向儿童设备推送成人广告",
+    "summary": "圣地亚哥郡起诉移动广告技术公司AppLovin，指控其绕过家长控制机制，向儿童设备推送成人约会服务、酒精和电子烟广告。此案反映广告行业在儿童保护方面的监管风险，对元宝的产品经理有警示意义，提醒在AI助手服务中需重视内容过滤与家长控制功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost": {
+    "title_clean": "Reflection推出Beam：低成本开源AI模型挑战中国产品",
+    "summary": "Reflection发布Beam开源AI模型，以更低计算成本对标中国竞品，目标为企业及主权国家提供'AI工厂'解决方案，帮助机构构建定制化本地AI系统，对元宝产品经理在成本控制和本地化部署方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing": {
+    "title_clean": "前Anthropic研究员在纽约市议会AI听证会上作证",
+    "summary": "前Anthropic研究员Jacob Coxon在纽约市议会AI听证会上警告，AI开发竞赛存在行业自身尚未充分理解的风险。这反映了AI安全监管的重要性和行业内部对潜在风险的担忧，对元宝产品经理了解AI安全与监管趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-sent-letter-new-york-city-council-recommending-safeguards-ai-risk": {
+    "title_clean": "OpenAI致纽约市议会信函：建议防范AI风险",
+    "summary": "OpenAI上周致信纽约市议会，建议该市制定防范先进AI风险的保障措施。市议会议长朱莉·梅宁在新闻发布会上透露了这一信息，显示OpenAI正主动参与AI安全监管讨论，这对元宝产品经理了解AI企业对监管的态度和潜在合规要求有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-black-forest-systems": {
+    "title_clean": "Black Forest Systems CEO访谈：市场定位与客户需求分析",
+    "summary": "Black Forest Systems CEO Oleksander Davydenko接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。该访谈提供了AI服务提供商的市场视角和客户洞察，对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data": {
+    "title_clean": "Crunchbase数据：2026年Q3全球AI融资创纪录，十亿美元级交易激增",
+    "summary": "Crunchbase数据显示，2026年第三季度全球风险投资总额达1590亿美元，近6000家初创公司获得融资。尽管这是今年迄今为止投资额最低的季度，但十亿美元级交易数量创下历史新高，反映全球AI竞赛加剧。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/ch-robinson-to-buy-rxo-in-5-8-billion-logistics-deal-video": {
+    "title_clean": "CH Robinson收购RXO：AI提升物流效率的58亿美元交易",
+    "summary": "CH Robinson Worldwide以58亿美元收购卡车经纪公司RXO，交易核心是利用人工智能技术提升在挑战性货运市场中的运营效率。这一交易展示了AI在传统物流领域的应用价值，为元宝产品经理提供了AI服务在物流场景的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/why-treasuries-are-risky-again-video": {
+    "title_clean": "美国国债风险再起：全球债券收益率飙升背后的原因",
+    "summary": "美国国债收益率持续攀升，全球债券市场同步下跌。本文分析了债券抛售现象及其背后的原因，探讨了债券是否正在变得更具根本性风险，为金融产品经理提供了市场风险变化的重要参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

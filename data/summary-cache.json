@@ -118465,5 +118465,388 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/codecrab": {
+    "title_clean": "CodeCrab：本地优先的AI代码审查工具",
+    "summary": "CodeCrab是一款100%本地优先的AI代码审查工具，专注于在本地环境中对代码拉取请求进行智能审查，帮助开发者提高代码质量和安全性，同时保护数据隐私。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/easycut-2": {
+    "title_clean": "EasyCut：Claude 视频剪辑工具",
+    "summary": "EasyCut 是一款专门用于编辑 Claude 动态视频的工具，帮助用户快速处理和优化视频内容。对于元宝产品经理而言，这反映了 AI 视频处理领域的新工具出现，可能启发多模态交互功能的发展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/floani": {
+    "title_clean": "Floani：AI图表创建与动画工具",
+    "summary": "Floani是一款AI驱动的图表创建与动画分享工具，用户可利用AI技术快速制作、动画化并分享图表。该产品对元宝产品经理在AI辅助内容创作和可视化交互方面具有参考价值，特别是在简化复杂信息呈现和增强用户表达场景方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pheebs": {
+    "title_clean": "Pheebs：AI工程师团队效能测量工具",
+    "summary": "Pheebs是一款专注于测量工程师和团队实际使用AI工作方式的工具，通过收集和分析AI在开发过程中的应用数据，帮助团队评估AI工具的实际效能和工作流程，为AI工具在软件开发场景中的优化提供数据支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/nordic-data-center-group-asp-is-said-to-weigh-oslo-stock-listing": {
+    "title_clean": "Nordic Data Center Group ASP：AI基础设施开发商考虑奥斯陆上市",
+    "summary": "AI基础设施开发商ASP Data Center AS正考虑在奥斯陆进行首次公开募股，可能筹集约1亿美元资金。这反映了AI基础设施领域的投资活跃度，对元宝产品经理了解AI服务底层基础设施的商业化路径有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/nvidia-heads-for-6-trillion-value-as-chips-rally-video": {
+    "title_clean": "Nvidia市值逼近6万亿美元，AI芯片市场持续增长",
+    "summary": "Nvidia市值接近6万亿美元，投资者在年初失望后重新关注这家AI芯片制造商。这一市场表现反映了AI芯片需求的强劲增长，对元宝产品经理了解AI基础设施市场趋势和潜在合作机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals": {
+    "title_clean": "Mistral Large 4：法国AI实验室发布多模态大模型",
+    "summary": "法国AI实验室Mistral发布Mistral Large 4多模态大模型，旨在超越中美竞争对手。这一新模型展示了欧洲AI公司在全球AI竞赛中的技术实力，对产品经理评估多模态模型能力和竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/ai-to-see-adoption-unseen-in-previous-cycles-says-lee-video": {
+    "title_clean": "中美AI竞争格局：美国领先优势缩小至历史低点",
+    "summary": "根据Bloomberg报道，DeepSeek等中国AI实验室近期取得进展，使美国AI公司对中国的领先优势在过去几个月内急剧缩小至历史低点，威胁美国科技霸主地位。这一变化对元宝产品经理评估全球AI竞争态势和潜在市场机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ai-whistleblowers-say-researchers-checking-ai-less-frequently": {
+    "title_clean": "AI吹哨人：研究人员减少对AI的检查频率",
+    "summary": "AI吹哨人指出研究人员正在减少对AI系统的安全检查频率，这一现象在纽约市议会关于AI风险的听证会上被提及。这反映了AI安全监管可能存在漏洞，对产品经理关注AI安全与合规性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed": {
+    "title_clean": "TechCrunch Disrupt 2026：科技创业峰会议程公布",
+    "summary": "TechCrunch Disrupt 2026峰会将于10月13-15日在旧金山举行，现已公布完整的分组会议议程。该峰会聚焦科技创业与规模化发展，将为元宝产品经理提供AI行业前沿趋势、产品创新方向及市场动态的重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-dawnguard": {
+    "title_clean": "CEO访谈：Dawnguard",
+    "summary": "Dawnguard CEO马迪·阿卜杜勒拉扎克接受CB Insights采访，阐述其市场定位、客户需求及公司战略。该访谈揭示了Dawnguard在市场中的定位及对客户需求的独特理解，为AI产品经理提供了创业公司市场策略的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/dimon-weighs-in-on-ai-boom-bond-selloff-and-uk-banks-video": {
+    "title_clean": "摩根大通CEO谈AI热潮、债券抛售与英国银行业",
+    "summary": "摩根大通CEO杰米·戴蒙就AI热潮融资问题、全球债券抛售现象及英国银行业现状发表见解。作为金融界领袖，他对AI投资趋势的分析对元宝产品经理了解AI商业化进程和金融行业AI应用具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/saaspocalypse-workday": {
+    "title_clean": "Workday：企业级AI应用替代风险分析",
+    "summary": "Workday作为企业核心人力资源和财务管理系统，面临AI技术带来的替代风险。AI虽难以完全取代此类存储关键员工信息和财务交易数据的企业应用，但正在施加潜在限制，影响其市场地位和产品策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/uber-buy-catering-firm-2-3-billion": {
+    "title_clean": "Uber以23亿美元收购餐饮公司ezCater",
+    "summary": "Uber宣布以23亿美元现金收购餐饮公司ezCater，这是一家专注于工作场所餐饮和餐食服务的公司。此次收购表明Uber正积极拓展其餐饮服务业务，从外卖向企业级餐饮服务领域扩张，为产品经理提供了平台多元化战略的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/wayve-ceo-kendall-on-the-future-of-driving-video": {
+    "title_clean": "Wayve CEO谈自动驾驶未来发展",
+    "summary": "Wayve CEO Alex Kendall与彭博电视讨论自动驾驶的未来发展，分析了美国和中国自动驾驶车辆市场情况，并探讨了公司未来IPO的可能性。对元宝产品经理了解自动驾驶领域发展动态和商业化路径有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/uber-to-buy-catering-platform-ezcater-for-2-3-billion-in-cash": {
+    "title_clean": "Uber以23亿美元收购EzCater拓展企业餐饮服务",
+    "summary": "Uber宣布以23亿美元现金收购餐饮公司EzCater，此次收购将帮助Uber Eats平台接触更多企业客户，拓展企业级餐饮配送服务市场，增强其在B2B餐饮服务领域的竞争力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/uae-s-al-bannai-on-ai-developments-video": {
+    "title_clean": "阿联酋AI顾问Al Bannai谈AI发展",
+    "summary": "阿联酋总统顾问Faisal Al Bannai在阿布扎比'AI Everything'会议上与彭博社Alex Dooler对话，讨论了新模型的发布。这反映了中东地区AI战略布局，对元宝产品经理了解全球AI政策动向和区域市场机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/kuaishous-kling-picks-banks-1-billion-plus-hong-kong-ipo": {
+    "title_clean": "快手旗下Kling AI选择投行，计划香港IPO融资超10亿美元",
+    "summary": "快手科技旗下分拆的AI公司Kling AI已选定投行，计划在香港进行首次公开募股，预计融资至少10亿美元。这反映了AI创业公司的商业化进程加速，对元宝产品经理评估AI公司估值路径和商业化策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-06/ai-subscription-models-tested-as-few-consumers-pay": {
+    "title_clean": "AI订阅模式测试：消费者付费意愿低",
+    "summary": "AI产品测试订阅模式发现，消费者对付费订阅的接受度不高，这表明AI产品在商业化方面面临挑战，产品经理需重新思考AI服务的定价策略和用户付费意愿。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/mnt-halan-plans-150-million-ipo-egypt-s-biggest-since-2021": {
+    "title_clean": "MNT-Halan：埃及金融科技独角兽IPO融资1.5亿美元",
+    "summary": "埃及金融科技独角兽MNT-Halan计划通过IPO融资1.5亿美元，这将是自2021年以来埃及规模最大的美元IPO。此次融资7.84亿英镑，反映了中东地区金融科技市场的活跃度和投资机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/amd-ceo-sees-very-high-chip-demand-urges-ai-firms-to-cooperate": {
+    "title_clean": "AMD CEO预测AI芯片需求将持续高涨，呼吁行业合作",
+    "summary": "AMD首席执行官Lisa Su预测未来几年AI芯片需求将保持\"非常高\"的水平，尽管行业面临AI安全等挑战。这一信息对元宝产品经理了解AI硬件基础设施发展趋势和潜在供应链影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/openai-s-kwon-apologizes-for-australian-hack-video": {
+    "title_clean": "OpenAI首席战略官就澳大利亚政府网站入侵事件道歉",
+    "summary": "OpenAI首席战略官Jason Kwon在澳大利亚议会调查中就未经授权的政府网站入侵事件道歉。此事件涉及OpenAI系统安全漏洞，对AI产品在政府服务场景中的应用安全性和合规性具有重要警示意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/higgsfield-ceo-on-growth-1b-run-rate-video": {
+    "title_clean": "Higgsfield CEO谈增长与10亿美元年收入目标",
+    "summary": "视频AI初创公司Higgsfield的CEO Alex Mashrabov分享了公司如何基于当前表现实现超过10亿美元的年化收入目标，这对AI视频领域商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/HgWvqoyD0Qg_IUR0NQrLVA": {
+    "title_clean": "SocioVerse2：社会模拟实验平台",
+    "summary": "SocioVerse2是一个长程推演的社会模拟实验基地，允许研究者和智能体共同参与社会系统的模拟与进化研究。该平台为AI社会模拟研究提供了实验环境，有助于理解复杂社会系统的动态变化，对元宝产品经理在AI社会模拟应用场景设计方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/dayone-data-centers-files-nasdaq-ipo-amid-market-uncertainty": {
+    "title_clean": "DayOne Data Centers：数据中心服务商申请纳斯达克IPO",
+    "summary": "新加坡数据中心服务商DayOne Data Centers向纳斯达克提交IPO申请，表明对IPO市场的乐观态度。尽管近期多家公司推迟上市计划，此举可能反映数据中心行业在市场不确定性下的韧性，对关注AI基础设施建设的元宝产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/tiffany-mcghee-earnings-must-show-ai-spend-paying-off-video": {
+    "title_clean": "Tiffany McGhee：AI投资回报需在财报中体现",
+    "summary": "Pivotal Advisors CEO兼CIO Tiffany McGhee表示市场具有韧性但仍对利率敏感，她强调在即将到来的财报季中，企业必须证明AI投资正在产生回报，这对AI产品经理评估商业化路径和投资者预期具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-logic-fruit-technologies": {
+    "title_clean": "Logic Fruit Technologies CEO访谈：市场定位与客户需求",
+    "summary": "Logic Fruit Technologies印度CEO Sourabh Varma接受CB Insights采访，分享公司市场定位、客户需求认知及业务发展策略。访谈内容对AI服务领域的产品经理了解企业级AI解决方案的市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu": {
+    "title_clean": "OpenAI将在欧盟为ChatGPT文本添加水印",
+    "summary": "OpenAI将在欧盟为ChatGPT和Codex生成的文本添加水印，以遵守AI法案。公司表示，编辑操作可能使这些不可见的水印更难被检测到。这对产品经理了解AI内容合规要求和内容溯源技术有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-05/apple-new-ceo-ternus-puts-focus-back-on-design-video": {
+    "title_clean": "Apple新CEO Ternus重新聚焦设计优先级",
+    "summary": "苹果新CEO John Ternus正亲自掌舵，将设计提升为更高优先级，为苹果即将推出的一系列新产品做准备。这一战略调整可能影响苹果产品的交互设计和用户体验，对元宝产品经理在AI助手界面设计方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-decision-advantage-ai": {
+    "title_clean": "Executive Interview: Decision Advantage AI",
+    "summary": "Decision Advantage AI首席商业官接受CB Insights采访，分享其市场定位、客户需求及公司战略。作为一家AI企业，其高管观点对了解AI行业商业策略和市场趋势有参考价值，特别是对元宝产品经理思考AI产品的商业化路径和客户需求把握有启发意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-05/lockheed-s-fabled-skunk-works-integrates-ai-in-push-to-modernize-defense": {
+    "title_clean": "洛克希德·马丁臭鼬工厂：AI助力国防现代化",
+    "summary": "洛克希德·马丁公司的臭鼬工厂开发部门正在整合AI技术，以推动国防现代化进程。这一举措对公司的未来成功至关重要，表明AI在国防领域的应用正在加速，可能为AI助手在军事和安全场景中的应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -119266,5 +119266,379 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/robinhood-s-kerbrat-on-business-strategy-crypto-video": {
+    "title_clean": "Robinhood高管Kerbrat谈加密货币业务战略",
+    "summary": "Robinhood加密货币与国际业务高级副总裁Kerbrat讨论了公司在加密货币市场的扩张计划和投资机会，这对了解金融科技巨头如何布局加密业务及产品多元化战略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/amd-s-su-to-meet-samsung-s-chip-head-as-memory-crunch-persists": {
+    "title_clean": "AMD CEO与三星半导体负责人会晤，讨论AI芯片内存短缺问题",
+    "summary": "AMD首席执行官计划与三星半导体业务负责人会面，讨论持续存在的AI芯片内存短缺问题。这反映了AI硬件供应链面临的挑战，对元宝产品经理了解AI基础设施限制及潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/spacex-seeks-raise-40-billion-apollo-buy-nvidia-chips": {
+    "title_clean": "SpaceX寻求融资400亿美元购买英伟达芯片",
+    "summary": "SpaceX正由Apollo Global Management牵头寻求融资400亿美元，用于购买英伟达芯片。这反映了AI大模型训练对高端芯片的巨大需求，以及科技巨头在AI算力竞赛中的激烈竞争态势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/apple-to-launch-doorbell-lock-and-thermostat-video": {
+    "title_clean": "Apple与LG合作推出智能门铃、门锁和恒温器",
+    "summary": "苹果将与LG电子合作推出智能门铃、恒温器等智能家居设备，这是苹果扩展智能家居产品线的重要举措，对产品经理了解科技巨头在智能家居领域的布局和合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/scumble": {
+    "title_clean": "Scumble：AI图像修复开源编辑器",
+    "summary": "Scumble是一款开源的AI图像修复编辑器，专注于AI inpainting功能，允许用户对图像进行智能修复和编辑。作为开源工具，它可能为元宝团队在图像处理和多模态交互方面提供技术参考和合作机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-publishes-700-new-math-papers-ai-made-solutions": {
+    "title_clean": "OpenAI发布700余篇AI数学论文及解决方案",
+    "summary": "OpenAI在宣布解决数学领域重大难题后不到一个月，又发布了700多篇新研究论文，包含AI生成的数学解决方案。这展示了AI在数学研究领域的突破性进展，对元宝产品经理评估AI在专业领域的应用能力和技术边界具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/hubspot-lays-7-workforce-says-ai": {
+    "title_clean": "HubSpot裁员7%：称与AI无关",
+    "summary": "HubSpot宣布裁员660人（占员工总数7%），作为公司重组的一部分，将精简管理层并重组产品团队。CEO表示此次裁员并非因AI技术导致，而是组织结构调整，这对AI产品经理评估AI对传统企业影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product": {
+    "title_clean": "Ex-Ramp 工程师获2000万美元融资，推出创意生成平台 Melius",
+    "summary": "前 Ramp 工程师在放弃首个产品后，获2000万美元融资推出 Melius 平台，该平台专注于帮助营销人员生成创意资产和广告活动，而非传统的广告支出管理。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/apollo-s-zelter-says-compute-energy-will-be-ai-bottlenecks": {
+    "title_clean": "Apollo高管称算力与能源将成为AI发展瓶颈",
+    "summary": "Apollo全球管理公司总裁Jim Zelter表示，随着人工智能投资热潮加速，算力和能源将继续成为AI发展的主要瓶颈。这一观点对产品经理评估AI基础设施成本和可持续发展策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/MDY426-xGuT6yGopm1IR3A": {
+    "title_clean": "影视公司开发全球第二视频模型：揭秘生产系统",
+    "summary": "一家影视公司成功开发出全球排名第二的视频生成模型，其关键在于独特的生产系统设计。这一突破展示了传统影视行业向AI技术转型的可能性，为AI视频生成领域提供了新的技术路径和商业模式的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/blackrock-s-magyera-on-latest-future-of-wealth-report-video": {
+    "title_clean": "BlackRock：最新财富报告揭示美国退休储蓄缺口",
+    "summary": "BlackRock调查显示，70%美国人认为自己退休规划正常，但工作场所储蓄可能仅能满足50%-60%的预期退休收入需求，揭示了美国退休储蓄面临的潜在缺口问题，对AI理财助手产品有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/investor-floodgates-opened-for-ibit-etf-jay-jacobs-video": {
+    "title_clean": "贝莱德比特币ETF获投资者热捧",
+    "summary": "贝莱德美国股票ETF主管Jay Jacobs表示，iShares比特币信托ETF(IBIT)吸引了大量投资者关注，显示出机构对比特币ETF的强烈兴趣。这对元宝产品经理了解加密货币资产类别在传统金融领域的接受度及潜在投资场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/bitcoin-headwinds-sign-of-monetary-tightening-acheson-video": {
+    "title_clean": "Bitcoin Headwinds Are Sign of Monetary Tightening: Acheson",
+    "summary": "BlackRock美国股票ETF主管Jay Jacobs在彭博加密货币节目中讨论了iShares比特币信托ETF(IBIT)对投资者的吸引力，并指出比特币面临的阻力是货币紧缩的信号。这为元宝产品经理提供了加密货币市场与货币政策关联性的参考视角，有助于理解数字资产在宏观经济环境中的表现。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/zscaler-ceo-ai-models-are-raising-demand-for-security-video": {
+    "title_clean": "Zscaler CEO：AI模型提升安全需求",
+    "summary": "Zscaler CEO表示，企业将AI视为提升收入和效率的方式，这增加了对安全解决方案的需求。公司在投资者日重申了第一季度和全年业绩指引，股价因此上涨约4%。这对AI产品经理了解AI应用带来的安全挑战和机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-helena-bioinformatics": {
+    "title_clean": "Helena Bioinformatics CEO访谈：生物信息学市场洞察",
+    "summary": "Helena Bioinformatics CEO Vladimir Mitev接受CB Insights采访，分享了公司对市场的定义、客户需求的理解以及公司发展策略。这为元宝产品经理提供了垂直领域AI应用的市场洞察和客户需求参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-v2o": {
+    "title_clean": "V2O CEO访谈：AI市场定位与客户需求洞察",
+    "summary": "V2O AI首席执行官Simone Qu接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。这为元宝产品经理提供了AI企业市场策略和客户需求理解的重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/atlassian-partnership": {
+    "title_clean": "Atlassian与OpenAI扩展合作：将企业知识转化为行动",
+    "summary": "Atlassian与OpenAI扩展合作，连接前沿模型与企业知识，帮助团队规划、构建和交付工作。这对产品经理参考AI在企业知识管理中的应用场景和商业化模式有价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature": {
+    "title_clean": "LibreOffice：拒绝AI功能的文档编辑软件",
+    "summary": "开源文档编辑软件LibreOffice宣布不会在默认配置中添加AI功能，理由是保护用户隐私。这一决策反映了部分用户对AI隐私问题的担忧，为产品经理提供了关于AI功能可选化设计的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/asml-s-chip-technology-move-threatens-besi-shares-bofa-says": {
+    "title_clean": "ASML芯片技术威胁Besi市场份额，美银警告",
+    "summary": "美银分析师指出，ASML的先进芯片封装技术对Besi构成威胁，但Besi股价尚未反映这一风险。这反映了半导体封装领域的技术竞争格局变化，对AI芯片供应链和硬件竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/mythos-drove-up-cyber-risk-10-fold-dimon-says-video": {
+    "title_clean": "摩根大通CEO：AI使银行网络风险增加10倍",
+    "summary": "摩根大通CEO杰米·戴蒙表示，人工智能为银行带来了新的安全漏洞，自AI技术发布以来，网络攻击风险已增加10倍。这一警示对AI服务提供商和金融机构都具有重要参考价值，提醒在AI应用中需加强安全防护措施。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/jump-trading": {
+    "title_clean": "Jump Trading：利用ChatGPT扩展量化研究",
+    "summary": "Jump Trading采用OpenAI技术扩展量化研究，展示了如何结合多数据源与人工审查的长期AI工作流程。这对AI助手在金融领域的专业应用和复杂任务处理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+    "title_clean": "OpenAI：数学问题AI求解进展",
+    "summary": "OpenAI发布内部前沿模型在数学开放问题上的新成果，并在GitHub上分享了Lean证明形式化及研究细节。这展示了AI在数学推理领域的突破，对元宝产品经理评估AI在复杂问题解决和知识推理方面的能力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-06/openai-and-anthropic-face-rising-price-pressure-from-big-ai-users": {
+    "title_clean": "OpenAI与Anthropic面临大客户价格压力",
+    "summary": "AI软件初创公司正转向更便宜的开源模型，导致OpenAI和Anthropic面临来自大客户的价格压力。这一趋势可能影响AI服务定价策略和市场竞争格局，对元宝产品经理评估成本结构和商业模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/google-accused-of-overcharging-20-million-consumers-in-uk-class-action": {
+    "title_clean": "Google被指控在英国集体诉讼中向2000万消费者多收费",
+    "summary": "Google被指控在过去十年间向Android应用开发者多收费，导致Play Store价格虚高，约2000万英国消费者受到影响。此案涉及应用商店定价机制和消费者权益保护，对元宝产品经理了解平台定价策略和用户权益保护有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/advancing-computer-use-with-ironclad": {
+    "title_clean": "OpenAI与Ironclad合作：AI合同处理工作流训练",
+    "summary": "OpenAI与Ironclad合作训练和评估AI代理在复杂合同工作流中的应用，旨在推进专业工作中的计算机使用。这对元宝产品经理在AI代理处理专业工作流程方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai": {
+    "title_clean": "Crunchbase数据显示：AI领域高增长初创企业频繁收购",
+    "summary": "Crunchbase数据显示，AI行业增长最快的初创企业正成为频繁收购者，通过收购小型公司填补产品空白、进入新市场并将专业团队纳入内部。这一趋势对元宝产品经理具有重要参考价值，反映了AI行业整合加速，可能预示着产品生态构建和专业化团队获取的新策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/nvidia-heads-for-6-trillion-value-with-chipmaker-back-at-record": {
+    "title_clean": "Nvidia市值接近6万亿美元，股价重回高位",
+    "summary": "Nvidia市值即将成为首家达到6万亿美元的公司，投资者在AI芯片领域重新布局。这一市场表现反映了AI芯片需求的强劲增长，对元宝产品经理了解AI基础设施投资趋势和算力市场格局有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/rised-multi-environment-selection": {
+    "title_clean": "RISED：AI智能体多环境选择与自我蒸馏评估框架",
+    "summary": "RISED提出了一种新型评估框架，用于训练能够在多样化交互环境中共同学习的通用AI智能体。该研究聚焦于课程设计和数据选择策略，旨在提升AI智能体在不同环境中的适应性和泛化能力，为构建更通用的AI助手提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/pATGhBP82UTbLdJdwsQGiQ": {
+    "title_clean": "Tibo承诺连续28天发布或重置，OpenAI遭遇信任危机",
+    "summary": "Tibo承诺连续28天发布或重置产品，同时OpenAI正面临信任危机。这一动态反映了AI行业竞争加剧和用户对AI产品可靠性的关注，对产品经理评估发布策略和用户信任建设有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-05/oracle-2025-health-breach-compromised-data-of-20-million-people": {
+    "title_clean": "Oracle医疗数据泄露事件：2000万人个人信息遭安全漏洞威胁",
+    "summary": "Oracle医疗部门发生网络安全漏洞，导致近2000万人的个人信息被泄露。这一事件对AI助手产品经理具有重要参考价值，提醒在处理用户医疗数据时需加强安全防护措施，并考虑如何在产品设计中保障用户隐私安全。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

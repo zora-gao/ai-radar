@@ -119640,5 +119640,505 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ownfeed": {
+    "title_clean": "Ownfeed：产品需求社交聚合平台",
+    "summary": "Ownfeed是一个社交聚合平台，专门收集有特定产品需求的人群信息，帮助产品开发者直接接触潜在用户，了解真实需求，为产品迭代和营销提供一手市场反馈。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kitbar": {
+    "title_clean": "Kitbar：开发者工具栏整合工具",
+    "summary": "Kitbar是一款将开发者常用工具整合到单一工具栏的产品，旨在简化开发工作流程。这款工具可能对元宝产品经理在考虑如何整合多种AI工具或服务接口方面有参考价值，特别是对于提升AI助手在技术场景下的实用性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aura-by-neural": {
+    "title_clean": "Aura by Neural：屏幕交互界面生成工具",
+    "summary": "Aura by Neural是一款能将用户请求转化为屏幕上交互界面的工具，可能通过AI技术直接在屏幕上生成可操作的用户界面元素，为AI助手与用户交互提供了新的视觉呈现方式，对元宝的产品经理探索多模态交互和界面创新有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/reika": {
+    "title_clean": "Reika：面向本地小模型的编程代理CLI工具",
+    "summary": "Reika是一款专为本地小型模型设计的编程代理命令行工具，专注于在资源受限环境下提供代码生成与辅助功能。这款产品对元宝产品经理有参考价值，因为它探索了轻量化AI代理在开发场景的应用，可能启发元宝在低资源环境下的AI能力部署方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/studyquest": {
+    "title_clean": "StudyQuest：笔记游戏化工具",
+    "summary": "StudyQuest是一款将学习笔记转化为游戏的应用，通过游戏化方式提升学习体验和记忆效果。产品经理可参考其游戏化交互设计思路，探索AI助手在教育场景中的创新应用方式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/walrus-console": {
+    "title_clean": "Walrus Console：数据存储保护连接工具",
+    "summary": "Walrus Console是一款数据管理工具，主要功能包括存储、保护和连接用户数据。对于元宝产品经理而言，这可能是一个参考数据管理架构或数据安全解决方案的案例，特别是在AI助手需要处理用户数据时的数据保护策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/knuff-app": {
+    "title_clean": "Knuff App：家庭安全签到应用",
+    "summary": "Knuff App是一款家庭安全签到应用，帮助用户确认家人安全状态。该产品针对家庭场景提供简单实用的安全确认功能，对元宝在家庭关怀类AI服务场景设计有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/featherweight-dictation": {
+    "title_clean": "Featherweight Dictation：轻量级跨平台语音输入工具",
+    "summary": "Featherweight Dictation是一款适用于Mac和Windows的轻量级语音输入工具，专注于提供无负担的语音转文字功能，可能对元宝产品经理在多平台语音交互设计方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sunsed": {
+    "title_clean": "SunSed：AI应用构建工具",
+    "summary": "SunSed是一款AI应用构建工具，通过使用经过测试的组件来避免构建过程中的错误，帮助开发者更可靠地创建AI应用。这种模块化构建方式对元宝产品经理在提高AI应用稳定性和开发效率方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/manus": {
+    "title_clean": "Manus 2.0：推出视频编辑功能",
+    "summary": "Manus 2.0版本新增视频编辑功能，让用户能够轻松制作出值得分享的视频内容。这一更新扩展了AI助手的应用场景，为产品经理提供了将AI能力拓展到多媒体创作领域的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day": {
+    "title_clean": "DailyHub：个人项目任务管理中心",
+    "summary": "DailyHub是一款个人项目、任务和习惯管理的命令中心工具，帮助用户集中管理日常工作和生活任务。对于元宝产品经理而言，这提供了AI助手在个人任务管理场景的应用参考，可作为元宝整合任务管理功能的竞品分析对象。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rhem-labs": {
+    "title_clean": "Rhem Labs：老年人健康助手机器人",
+    "summary": "Rhem Labs开发面向老年人的健康助手机器人，旨在为老年人提供健康监测和日常辅助服务。这类产品对元宝产品经理有参考价值，特别是在老龄化社会背景下，探索AI助手在老年健康服务场景的应用机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/proofsource": {
+    "title_clean": "Proofsource：AI搜索可见性与智能修复工具",
+    "summary": "Proofsource提供AI搜索可见性服务，通过智能代理识别并修复搜索结果中的信息缺口，帮助内容提升在AI搜索中的排名和可见度，对元宝产品经理在AI搜索优化和内容策略方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/devally": {
+    "title_clean": "DevAlly AI Agent：自然语言用户旅程捕获工具",
+    "summary": "DevAlly AI Agent是一款能够通过自然语言捕获用户旅程的工具，帮助产品经理理解用户行为路径和交互模式，为产品优化提供数据支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/postquel": {
+    "title_clean": "Postquel：Mac端原生PostgreSQL AI助手应用",
+    "summary": "Postquel是一款面向Mac用户的原生PostgreSQL数据库应用，内置AI代理功能，允许用户在数据库环境中直接使用AI助手进行数据操作和分析，为数据库管理提供了智能化新场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/plugins-radar": {
+    "title_clean": "Plugins Radar：ChatGPT插件搜索排名与竞品监控工具",
+    "summary": "Plugins Radar是一款专门监控ChatGPT插件搜索排名和竞争对手动态的工具，帮助产品经理了解AI插件生态中的热门应用和竞争格局，为元宝的插件生态策略提供市场洞察。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/redlamp": {
+    "title_clean": "Redlamp：Mac RAW图像编辑开源工具",
+    "summary": "Redlamp是一款面向Mac系统的开源RAW图像编辑工具，作为Adobe Lightroom的替代方案，专注于原生RAW文件处理。产品经理可关注其开源模式对专业图像编辑软件市场的影响，以及如何平衡功能完整性与轻量化体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/takweem-ai": {
+    "title_clean": "Takweem AI：智能日程管理工具",
+    "summary": "Takweem AI是一款AI日程管理工具，帮助用户为重要工作预留时间。该产品专注于优化日程安排，提高工作效率，对元宝产品经理在AI助手日程管理功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/parakeetai": {
+    "title_clean": "ParakeetAI：AI求职面试准备工具",
+    "summary": "ParakeetAI 2.0是一款专注于求职面试准备的AI工具，帮助用户模拟面试场景并提供反馈。产品经理可关注其如何将AI技术应用于职业服务场景，以及面试模拟类产品的交互设计和商业化路径。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/unprompt-2": {
+    "title_clean": "Unprompt：AI使用量与水资源消耗追踪工具",
+    "summary": "Unprompt是一款工具，帮助用户追踪AI使用量对应的美元成本和水资源消耗量，提供AI使用环境影响的数据可视化，帮助用户了解AI使用的实际成本和环境影响。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/linda": {
+    "title_clean": "Linda：Mac平台私人AI助手",
+    "summary": "Linda是一款专为Mac系统设计的私人AI助手，可作为用户的虚拟同事提供工作辅助功能。该产品针对苹果电脑用户群体，可能提供文档处理、信息检索、日程管理等办公场景支持，为元宝在桌面端AI助手产品开发提供竞品参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ana-by-vertice": {
+    "title_clean": "Ana by Vertice：AI软件采购谈判助手",
+    "summary": "Ana是一款专门用于软件采购谈判的AI代理工具，帮助企业自动化处理软件采购过程中的谈判环节，提高采购效率并优化成本。对于元宝产品经理而言，这展示了AI在专业服务场景中的应用潜力，特别是在自动化谈判和商业决策支持方面的创新方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/bitcoin-btc-falls-as-550-million-in-risky-crypto-bets-wiped-out": {
+    "title_clean": "比特币下跌：5.5亿美元高风险加密货币投注被清零",
+    "summary": "加密货币市场周三因强制抛售浪潮而下跌，数字资产市场整体波动加剧，风险偏好减弱。这一事件反映了加密货币市场的高风险性和不稳定性，对元宝产品经理评估金融类AI服务的风险提示和用户教育场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/genpage": {
+    "title_clean": "GenPage 3.0：AI落地页生成与优化工具",
+    "summary": "GenPage 3.0是一款AI驱动的落地页生成工具，可帮助用户构建、个性化定制和优化落地页。对于元宝产品经理而言，该工具展示了AI在营销内容生成领域的应用，可作为AI辅助内容创作的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/south-korea-s-nuri-rocket-lifts-off-with-hanwha-aerospace-help": {
+    "title_clean": "韩国Nuri火箭搭载韩华航空航天技术成功发射",
+    "summary": "韩国第五次发射自主研发的Nuri火箭，国防承包商韩华航空航天公司深度参与，凸显韩国日益依赖私营部门推动航天技术发展的战略方向。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/servicenow-president-and-coo-amit-zavery-on-ai-demand-video": {
+    "title_clean": "ServiceNow总裁兼首席运营官谈AI需求",
+    "summary": "ServiceNow总裁兼首席运营官Amit Zavery表达了对AI行业的乐观态度，指出企业对AI驱动软件的需求强劲。ServiceNow在财务表现上持续超越预期，反映了AI在企业服务市场的增长潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/spacex-eyes-40-billion-deal-to-buy-nvidia-chips-video": {
+    "title_clean": "SpaceX寻求400亿美元购买英伟达芯片",
+    "summary": "SpaceX正与银行和投资者洽谈筹集400亿美元，用于购买英伟达芯片，Pimco等投资机构正在评估这笔交易。这反映了AI算力需求的激增，对AI基础设施供应商和芯片市场格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/former-canadian-intl-trade-minister-on-global-trade-ai-video": {
+    "title_clean": "前加拿大国际贸易部长谈全球贸易与AI",
+    "summary": "前加拿大国际贸易部长Mary Ng探讨AI在区域贸易和投资中的作用，以及加拿大如何更好地参与其中。作为米尔肯研究所高级研究员，她分享了AI对国际贸易格局的影响观点，为元宝产品经理提供了AI在商业服务场景中的政策视角参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/intel-to-keep-working-on-elon-musk-s-terafab-chipmaking-venture": {
+    "title_clean": "Intel将继续与马斯克合作Terafab芯片制造项目",
+    "summary": "Intel CEO确认将继续与马斯克合作Terafab项目，这是这位亿万富翁进军先进芯片制造的雄心计划。这一合作对AI硬件领域具有重要参考价值，特别是对元宝产品经理了解AI基础设施供应链变化和潜在合作伙伴关系。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/temasek-cio-says-ai-inflation-pose-biggest-market-risks-in-2027": {
+    "title_clean": "淡马锡CIO：AI与通胀将成为2027年最大市场风险",
+    "summary": "淡马锡国际首席投资官指出，人工智能交易可能逆转，通胀推高债券利率至可能结束股市上涨行情的水平，这对AI投资策略和资产配置具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ubers-m-a-blitz": {
+    "title_clean": "Uber's M&A Blitz：外卖行业收购扩张",
+    "summary": "Uber以23亿美元收购企业餐饮服务商ezCater，这是近期外卖行业通过收购实现扩张的典型案例。对产品经理而言，这反映了大型平台通过并购快速拓展服务场景和用户覆盖的战略趋势，值得评估类似收购对元宝业务边界的潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/lightspeeds-top-fundraiser-joins-firm-takes-seed-funds-pro-rata": {
+    "title_clean": "Lightspeed 顶级投资人加入支持种子基金优先认购权的公司",
+    "summary": "知名风投机构 Lightspeed 的顶级投资人加入了一家支持种子基金优先认购权的公司。这反映了风投行业对早期投资机会的争夺策略，大机构通过投资种子基金来确保在初创企业后续轮次中的参与权，对理解风投生态和潜在投资策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/big-take-the-unexpected-billionaires-of-the-ai-boom": {
+    "title_clean": "AI热潮中的意外亿万富翁：传统行业巨头崛起",
+    "summary": "AI基础设施热潮正在创造意想不到的亿万富翁，从家具制造商到卫浴企业，传统行业巨头通过AI技术实现价值跃升，这对元宝产品经理提示了AI技术在传统行业的应用潜力和商业机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/bitcoin-becoming-portfolio-allocation-jay-jacobs-video": {
+    "title_clean": "BlackRock高管：比特币正成为投资组合配置选项",
+    "summary": "贝莱德(BlackRock)美国股票ETF主管Jay Jacobs在彭博加密货币节目中表示，比特币信托ETF(IBIT)对投资者具有吸引力，比特币正逐渐成为投资组合的配置选项。这一观点来自全球最大资产管理公司高管，对理解机构对比特币的认可度及加密货币资产类别的发展趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/anthropic-expands-access-to-latest-ai-models-for-cyber-firms": {
+    "title_clean": "Anthropic：扩大AI模型网络安全领域访问权限",
+    "summary": "Anthropic向特定组织开放其最先进的AI模型，与美国政府合作测试网络安全能力。此举表明AI在安全防护领域的应用正在深化，为元宝在安全相关AI服务场景上提供了参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-satleo-labs": {
+    "title_clean": "SatLeo Labs CEO访谈：市场定位与客户需求分析",
+    "summary": "SatLeo Labs CEO Shravan Bhati接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。该访谈为AI产品经理提供了新兴AI企业市场洞察和客户需求理解的重要参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-06/paramount-completes-acquisition-of-warner-bros-video": {
+    "title_clean": "派拉蒙完成收购华纳兄弟",
+    "summary": "派拉蒙与天空舞蹈公司完成1100亿美元收购华纳兄弟探索的交易，这是史上最大的媒体合并之一。这一合并将重塑媒体行业格局，可能影响内容分发渠道和AI服务的内容资源获取策略，对元宝的产品内容合作方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-blossom-energy": {
+    "title_clean": "CEO访谈：Blossom Energy",
+    "summary": "Blossom Energy CEO Shimpei Hamamoto接受CB Insights采访，分享了公司对市场的看法、客户需求以及反应堆设计理念。作为高温反应堆开发商，其技术可能为能源领域带来创新解决方案，对元宝产品经理了解能源科技企业的产品策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-06/seagate-is-said-to-battle-toshiba-for-tdk-s-hard-drive-head-unit": {
+    "title_clean": "西部数据与东芝竞购TDK硬盘磁头业务",
+    "summary": "西部数据与东芝正竞购TDK的硬盘磁头业务，两家公司试图满足AI数据中心对存储设备的需求。这一竞争反映了AI发展对传统硬件供应链的影响，对元宝产品经理了解AI基础设施需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/ellison-controlled-skydance-completes-warner-bros-discovery-acquisition": {
+    "title_clean": "Ellison控股的Skydance完成华纳兄弟探索收购",
+    "summary": "Ellison家族旗下的Skydance完成对华纳兄弟探索的1100亿美元收购，将组建名为Skydance的新公司。这一媒体巨头合并可能影响内容分发渠道，对AI助手在娱乐内容推荐和版权合作方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

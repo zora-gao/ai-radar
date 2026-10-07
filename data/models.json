@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T11:34:12.643Z",
+  "generated_at": "2026-10-07T18:35:21.147Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -26,7 +26,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Nano Banana 2.1 (Gemini Nano Banana 2.1) is Google's image generation and editing model on the Flash tier, succeeding Nano Banana 2 and Nano Banana Pro. It improves product recontextualization,...",
-      "description_zh": null
+      "description_zh": "Nano Banana 2.1（Gemini Nano Banana 2.1）是Google在Flash层上的图像生成和编辑模型，继承了Nano Banana 2和Nano Banana Pro。它提高了产品的重新上下文化，..."
     },
     {
       "id": "mistralai/mistral-large-4-0",
@@ -50,7 +50,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Mistral Large 4 is a frontier multimodal (text and image input) model from Mistral AI built for reasoning, coding, and agentic workloads. It offers a 512K-token context window with up...",
-      "description_zh": null
+      "description_zh": "Mistral Large 4 是 Mistral AI 的前沿多模式（文本和图像输入）模型，专为推理、编码和代理工作负载而构建。它提供了一个 512K 令牌上下文窗口，最多..."
     },
     {
       "id": "inclusionai/ling-3.1-flash",
@@ -930,8 +930,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.4,
-      "price_out": 4.3,
+      "price_in": 0.292,
+      "price_out": 4.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -954,7 +954,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.05,
+      "price_in": 0.049,
       "price_out": 1.2,
       "is_free": false,
       "supports_tools": true,
@@ -1199,7 +1199,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.05,
+      "price_in": 0.3,
       "price_out": 1.2,
       "is_free": false,
       "supports_tools": true,

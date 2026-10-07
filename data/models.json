@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-10-07T18:35:21.147Z",
+  "generated_at": "2026-10-07T23:59:27.216Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "anthropic/claude-haiku-5.5",
+      "name": "Claude Haiku 5.5",
+      "vendor": "Anthropic",
+      "vendor_slug": "anthropic",
+      "url": "https://openrouter.ai/anthropic/claude-haiku-5.5-20261007",
+      "created_at": "2026-10-07T18:31:23Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.1,
+      "price_out": 0.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Claude Haiku 5.5 is Anthropic's small, fast model for high-volume, cost-sensitive work such as summarization, subagents, and browser use. It succeeds Claude Haiku 4.5 with stronger coding, computer use, and...",
+      "description_zh": "Claude Haiku 5.5 是 Anthropic 的小型、快速模型，适用于大批量、成本敏感的工作，例如摘要、子代理和浏览器使用。它继承了克劳德俳句 4.5，具有更强的编码、计算机使用和..."
+    },
+    {
+      "id": "anthropic/claude-haiku-5.5:batch",
+      "name": "Claude Haiku 5.5 (batch)",
+      "vendor": "Anthropic",
+      "vendor_slug": "anthropic",
+      "url": "https://openrouter.ai/anthropic/claude-haiku-5.5-20261007",
+      "created_at": "2026-10-07T18:31:23Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.05,
+      "price_out": 0.25,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Claude Haiku 5.5 is Anthropic's small, fast model for high-volume, cost-sensitive work such as summarization, subagents, and browser use. It succeeds Claude Haiku 4.5 with stronger coding, computer use, and...",
+      "description_zh": "Claude Haiku 5.5 是 Anthropic 的小型、快速模型，适用于大批量、成本敏感的工作，例如摘要、子代理和浏览器使用。它继承了克劳德俳句 4.5，具有更强的编码、计算机使用和..."
+    },
     {
       "id": "google/gemini-nano-banana-2.1",
       "name": "Nano Banana 2.1",
@@ -930,7 +980,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.292,
+      "price_in": 0.291,
       "price_out": 4.2,
       "is_free": false,
       "supports_tools": true,
@@ -954,8 +1004,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.049,
-      "price_out": 1.2,
+      "price_in": 0.015,
+      "price_out": 0.8,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1424,57 +1474,6 @@
       "supports_reasoning": true,
       "description": "Ling 3.0 Flash Sante is a health and medicine-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for...",
       "description_zh": "Ling 3.0 Flash Sante 是 InclusionAI 推出的专注于健康和医学的混合专家模型，基于 Ling 3.0 Flash 构建，总共 124B 个活动参数，其中包含 5.1B 个活动参数。它是专为..."
-    },
-    {
-      "id": "qwen/qwen3.8-max-0902",
-      "name": "Qwen3.8 Max (0902)",
-      "vendor": "Qwen",
-      "vendor_slug": "qwen",
-      "url": "https://openrouter.ai/qwen/qwen3.8-max-20260902",
-      "created_at": "2026-09-03T21:08:24Z",
-      "context_length": 1000000,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Qwen3.8 Max 0902 is an updated snapshot of Qwen3.8 Max from Alibaba's Qwen team. It is a 2.4-trillion-parameter mixture-of-experts model that accepts text, image, and video input and returns text,...",
-      "description_zh": "Qwen3.8 Max 0902是阿里巴巴Qwen团队对Qwen3.8 Max的更新快照。它是一个 2.4 万亿参数的专家混合模型，接受文本、图像和视频输入并返回文本，..."
-    },
-    {
-      "id": "meta/muse-spark-1.3-contributor",
-      "name": "Muse Spark 1.3 Contributor",
-      "vendor": "Meta",
-      "vendor_slug": "meta",
-      "url": "https://openrouter.ai/meta/muse-spark-1.3-contributor-20260902",
-      "created_at": "2026-09-02T20:38:39Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.1,
-      "price_out": 0.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Muse Spark 1.3 Contributor is the cost-efficient contributor tier of Meta’s multimodal reasoning model for experimentation, learning, and early-stage agentic, multi-agent, and coding workflows. It is designed to track information...",
-      "description_zh": "Muse Spark 1.3 Contributor 是 Meta 多模式推理模型的经济高效的贡献者层，用于实验、学习以及早期代理、多代理和编码工作流程。它旨在跟踪信息..."
     }
   ]
 }

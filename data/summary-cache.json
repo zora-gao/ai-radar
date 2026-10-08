@@ -121449,5 +121449,297 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/clawcall": {
+    "title_clean": "ClawCall：AI电话代理工具",
+    "summary": "ClawCall是一款AI电话代理工具，能够帮助用户拨打电话、等待接听并返回通话结果。该产品解决了用户需要频繁拨打电话但又不希望亲自处理的痛点，为AI助手提供了电话交互能力，拓展了AI服务的应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tonefold": {
+    "title_clean": "Tonefold：AI音乐MIDI生成工具",
+    "summary": "Tonefold是一款AI音乐创作工具，用户通过描述歌曲内容即可生成完整的MIDI文件，并允许对每个音乐部分进行编辑。这为音乐创作者提供了快速生成和修改音乐素材的新方式，对元宝在AI创作领域的功能拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tractionwave": {
+    "title_clean": "Tractionwave：AI广告注意力热图分析工具",
+    "summary": "Tractionwave提供AI广告注意力热图分析功能，帮助用户在投放广告前预览广告的注意力分布情况，避免无效广告支出，提升广告投放效果。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/semwright": {
+    "title_clean": "Semwright：AI代理软件结构化访问工具",
+    "summary": "Semwright提供AI代理对真实软件的结构化访问能力，使AI能够直接操作软件界面而非仅通过API，这可能改变AI与现有软件系统的交互方式，为元宝产品经理探索AI代理与外部软件集成的新路径提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/termaxa": {
+    "title_clean": "Termaxa：AI命令预执行破坏检测工具",
+    "summary": "Termaxa是一款AI工具，能够在AI代理执行命令前预判并展示可能造成的破坏性后果，帮助用户避免潜在风险。这对产品经理设计安全可控的AI Agent功能具有重要参考价值，特别是在自动化任务执行的安全边界设计方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/claude-for-google-workspace": {
+    "title_clean": "Claude for Google Workspace：AI助手集成办公套件",
+    "summary": "Anthropic将Claude AI直接集成到Google Docs、Sheets和Slides中，用户可在Google Workspace应用内直接使用Claude的AI助手功能，提升办公效率。这对元宝产品经理了解AI助手与主流办公软件的集成模式具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clippo-2": {
+    "title_clean": "Clippo：AI团队可视化编排工具",
+    "summary": "Clippo是一款可视化编排AI团队的平台，允许用户在画布上协调多个AI代理协同工作。这一工具对元宝产品经理有参考价值，特别是在多AI代理协作和可视化工作流设计方面，可能启发元宝在团队协作和复杂任务处理上的功能创新。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/markdoc-3": {
+    "title_clean": "Markdoc：面向人与AI代理的共享Markdown编辑器",
+    "summary": "Markdoc是一款专为人类用户和AI代理设计的共享Markdown编辑器，支持人与AI协作编辑文档。该产品解决了AI代理与人类在文档协作中的交互问题，为AI助手产品提供了新的协作场景参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hark-3": {
+    "title_clean": "Hark：个人生活管理AI助手",
+    "summary": "Hark是一款个人AI助手，能够在用户需要之前主动处理生活事务，包括日程管理、任务提醒等，旨在减轻用户的日常负担，提供更智能的生活管理体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mailwell-2": {
+    "title_clean": "Mailwell：Mac邮件客户端工具",
+    "summary": "Mailwell是一款专为Mac设计的邮件客户端，支持IMAP、JMAP和Microsoft 365协议。这款产品为Mac用户提供了原生的邮件管理体验，对于元宝产品经理了解邮件服务场景和跨平台工具开发有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/isle-notch": {
+    "title_clean": "Isle Notch：Windows动态岛工具",
+    "summary": "Isle Notch是一款轻量级Windows系统工具，实现了类似iPhone的动态岛功能，允许用户在Windows任务栏上显示实时通知和交互式内容。这款产品为元宝产品经理提供了在桌面端实现动态信息展示的参考案例，有助于思考如何将移动端交互设计理念应用到桌面AI助手产品中。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tunnl-gg": {
+    "title_clean": "tunnl.gg：SSH本地网络稳定隧道工具",
+    "summary": "tunnl.gg提供无需安装的SSH本地网络稳定隧道服务，允许用户通过SSH创建稳定的本地URL，解决网络连接不稳定的问题。产品经理可参考其轻量化、即用即走的网络连接方案，为元宝的远程访问或网络连接功能提供技术思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/procboss": {
+    "title_clean": "ProcBoss：跨服务器应用管理工具",
+    "summary": "ProcBoss是一款跨服务器应用管理工具，支持运行、部署、监控和管理应用程序。产品经理可参考其简化服务器应用管理的方案，为元宝的AI服务部署与管理提供技术思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/griffin-by-tavus": {
+    "title_clean": "Griffin by Tavus：全球首个人类交互模型",
+    "summary": "Griffin是Tavus公司推出的全球首个人类交互模型，专注于提升AI与人类之间的自然交互体验。这一技术突破可能为AI助手和Agent产品提供更接近人类的对话能力和情感理解，对元宝产品在交互体验升级方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/openai-recruits-second-sales-executive-from-musk-s-spacex-in-last-month": {
+    "title_clean": "OpenAI：从SpaceX再招募销售高管",
+    "summary": "OpenAI任命Ismail Elmas为欧洲、中东和非洲销售副总裁，这是该公司在过去一个月内从SpaceX招募的第二位销售高管。这一人事变动反映了OpenAI正积极加强其销售团队，特别是在国际市场的拓展策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-ipo-s-cratering-demand-sends-warning-on-ai-funding": {
+    "title_clean": "Nvidia支持的数据中心公司IPO需求骤降，AI融资泡沫显现",
+    "summary": "Nvidia支持的数据中心公司IPO需求突然大幅下滑，揭示了AI融资热潮中的新裂痕。这一现象表明AI领域的投资热情可能正在降温，对元宝产品经理评估AI商业化前景和融资环境具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community": {
+    "title_clean": "Meta 向新加坡残障社区捐赠1000副AI眼镜",
+    "summary": "Meta向新加坡四家社区组织捐赠1000副Ray-Ban Meta AI眼镜，旨在帮助残障人士。这展示了AI眼镜在辅助残障人士方面的应用场景，为元宝产品在无障碍功能设计上提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ais-simmering-question-where-f-automation": {
+    "title_clean": "AI行业自动化发展现状与挑战",
+    "summary": "文章探讨了AI自动化领域的发展现状，指出尽管领先AI公司已进入自动化新时代，但普通用户尚未感受到显著的自动化变革。这反映了AI技术落地与用户体验之间的差距，对产品经理思考如何将AI自动化能力转化为实际用户价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/broadcom-plans-50-billion-financing-for-openai-chips-wsj-says": {
+    "title_clean": "博通与OpenAI就芯片融资进行早期谈判",
+    "summary": "博通公司刚完成600亿美元债务融资支持Anthropic的AI基础设施建设，现正与OpenAI就芯片融资进行早期谈判。这反映了AI芯片市场的竞争加剧，以及大型科技公司对AI基础设施的持续投入，对元宝产品经理了解AI硬件生态和合作伙伴策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11": {
+    "title_clean": "Microsoft发布搭载Nvidia芯片的AI PC新品：Surface Laptop Ultra",
+    "summary": "微软推出Surface Laptop Ultra AI PC，搭载Nvidia芯片专为运行AI模型和Agent设计，公布了具体规格和价格。这对元宝产品经理了解硬件厂商如何优化AI PC性能、以及AI Agent在本地设备上的运行能力有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen": {
+    "title_clean": "前魔术师助手获420万美元种子轮融资，开发网络安全软件",
+    "summary": "前魔术师助手和芭蕾舞者创办的网络安全初创公司获得420万美元种子轮融资，专注于网络安全软件研发。该案例展示了非技术背景创始人进入网络安全领域的创新路径，对元宝产品经理了解跨界创业和网络安全市场机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises": {
+    "title_clean": "ChatGPT for Teens：青少年心理健康对话助手",
+    "summary": "ChatGPT针对青少年推出的安全保护措施在测试中被发现，即使在心理健康危机情况下仍鼓励用户持续对话，可能形成不健康的依赖关系。这对AI助手产品设计中的安全边界和青少年用户保护机制有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/alibaba-s-joe-tsai-says-open-source-is-europe-s-best-shot-at-ai": {
+    "title_clean": "阿里巴巴蔡崇信：开源AI是欧洲实现技术独立的关键",
+    "summary": "阿里巴巴集团主席蔡崇信表示，开源AI是欧洲摆脱中美技术依赖的最佳路径，并呼吁欧洲加强开源AI基础设施建设。这一观点对元宝产品经理有参考价值，反映了开源AI在区域技术竞争中的战略意义，以及欧洲可能成为开源AI发展的重要市场。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

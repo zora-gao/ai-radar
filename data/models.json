@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-10-08T04:49:57.535Z",
+  "generated_at": "2026-10-08T12:40:01.541Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "stepfun/step-5-preview",
+      "name": "Step 5 Preview",
+      "vendor": "Stepfun",
+      "vendor_slug": "stepfun",
+      "url": "https://openrouter.ai/stepfun/step-5-preview-20261008",
+      "created_at": "2026-10-08T12:34:09Z",
+      "context_length": 1000000,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 2.7,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Step 5 Preview is StepFun's flagship model for agentic work, built on a sparse Mixture-of-Experts architecture (27B active / 600B total parameters). It performs strongly in software engineering and professional...",
+      "description_zh": "Step 5 Preview 是 StepFun 用于代理工作的旗舰模型，建立在稀疏的 Mixture-of-Experts 架构（27B 活动/600B 总参数）之上。 It performs strongly in software engineering and professional..."
+    },
     {
       "id": "anthropic/claude-haiku-5.5",
       "name": "Claude Haiku 5.5",
@@ -980,8 +1005,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.158,
-      "price_out": 4.2,
+      "price_in": 0.108,
+      "price_out": 8,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1004,7 +1029,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.018,
+      "price_in": 0.036,
       "price_out": 1,
       "is_free": false,
       "supports_tools": true,
@@ -1249,8 +1274,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
-      "price_out": 1.2,
+      "price_in": 0.036,
+      "price_out": 1,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1451,29 +1476,6 @@
       "supports_reasoning": true,
       "description": "GPT-6 Astra Pro is the same underlying model as GPT-6 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
       "description_zh": "GPT-6 Astra Pro 与 GPT-6 Astra 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
-    },
-    {
-      "id": "inclusionai/ling-3.0-flash-sante:free",
-      "name": "Ling 3.0 Flash Sante (free)",
-      "vendor": "Inclusionai",
-      "vendor_slug": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-sante-20260904",
-      "created_at": "2026-09-04T18:19:06Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Ling 3.0 Flash Sante is a health and medicine-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for...",
-      "description_zh": "Ling 3.0 Flash Sante 是 InclusionAI 推出的专注于健康和医学的混合专家模型，基于 Ling 3.0 Flash 构建，总共 124B 个活动参数，其中包含 5.1B 个活动参数。它是专为..."
     }
   ]
 }

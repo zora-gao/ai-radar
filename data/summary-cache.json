@@ -120421,8 +120421,8 @@
     "v": 4
   },
   "https://www.bloomberg.com/news/articles/2026-10-07/amazon-ring-unveils-249-smart-lock-with-dial-to-restore-dead-battery": {
-    "title_clean": "Amazon Ring 推出带机械拨盘的智能门锁，解决电池耗尽问题",
-    "summary": "Amazon Ring 品牌推出首款智能门锁，售价249美元，创新性地配备了机械拨盘功能，解决了用户回家时发现电池耗尽的痛点问题。",
+    "title_clean": "Amazon Ring：智能门锁新品支持机械旋钮应急供电",
+    "summary": "Amazon Ring品牌推出首款智能门锁，售价249美元，创新性地配备了机械旋钮功能，可在电池耗尽时通过手动旋转解锁，解决了用户回家发现门锁没电的痛点。",
     "score": 65,
     "priority": "P2",
     "type": "product",
@@ -121115,6 +121115,338 @@
     "channels": [
       "商业化",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/italy-data-center-group-sees-investments-reaching-37-billion": {
+    "title_clean": "意大利数据中心投资将达370亿欧元",
+    "summary": "意大利数据中心建设预计到2036年将吸引369亿欧元投资，人工智能和云计算需求推动数据中心容量快速扩张。这一趋势表明AI服务基础设施需求强劲，对元宝产品经理评估全球AI服务部署和基础设施规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/why-investors-are-skeptical-over-firmus-ipo-video": {
+    "title_clean": "澳大利亚数据中心公司Firmus的IPO引发投资者质疑",
+    "summary": "Nvidia支持的数据中心公司Firmus计划在澳大利亚进行大规模IPO，但这一计划在投资者中引发两极分化反应。作为澳大利亚最大的上市计划之一，Firmus的IPO反映了投资者对数据中心行业估值和前景的分歧，对AI基础设施投资决策具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/alphabet-s-isomorphic-labs-in-funding-talks-for-at-least-40-billion-value": {
+    "title_clean": "Alphabet旗下Isomorphic Labs：AI药物研发公司寻求至少400亿美元估值融资",
+    "summary": "Alphabet旗下Google DeepMind分拆出的AI药物研发公司Isomorphic Labs正在寻求新一轮融资，估值至少达400亿美元。这反映了AI在药物发现领域的巨大商业潜力，对元宝产品经理评估AI在专业垂直领域的商业化路径具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/ai-chipmaker-biren-taps-market-again-in-515-million-share-sale": {
+    "title_clean": "AI芯片商壁仞科技完成5.15亿美元新一轮融资",
+    "summary": "壁仞科技通过新一轮股票发售筹集5.15亿美元，用于支持其人工智能芯片研发。这是中国AI企业融资热潮的延续，反映了AI硬件领域的资本活跃度，对元宝产品经理了解AI基础设施投资趋势和算力资源竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/odd-lots-the-story-of-europe-s-decline-isn-t-so-simple": {
+    "title_clean": "Odd Lots：欧洲经济衰退评估争议",
+    "summary": "经济学家Dominik Leusder在Odd Lots播客中质疑Draghi报告可能低估了欧洲经济衰退的真实规模，探讨了欧洲经济状况的复杂性，为产品经理提供了欧洲市场趋势分析的新视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/young-bankers-to-manage-ai-agents-from-start-goldman-exec-says": {
+    "title_clean": "高盛高管：新入职银行师将直接管理AI代理",
+    "summary": "高盛高管表示，金融行业新入职的银行师将不再需要等待多年才能成为管理者，他们从入职起就将直接监督人工智能代理，这引发了关于现有员工角色变化的疑问。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-firmus-said-to-close-books-as-mega-ipo-struggles": {
+    "title_clean": "Nvidia支持的Firmus因IPO困难终止上市",
+    "summary": "澳大利亚数据中心公司Firmus Grid Ltd.在投资者担忧交易可能被取消的情况下，终止了其困难重重的首次公开募股。这反映了当前科技行业IPO环境趋紧，特别是对AI基础设施类公司的融资挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/malaysian-chip-firm-sqai-said-to-plan-73-million-ipo-in-early-2027": {
+    "title_clean": "马来西亚芯片公司SQAI计划2027年第一季度进行7300万美元IPO",
+    "summary": "马来西亚半导体公司SQ Advanced Interconnect Bhd.计划在2027年第一季度进行首次公开募股，预计融资约3亿林吉特（7300万美元）。这反映了半导体行业融资动态，但与AI chatbot/Agent/服务/多模态/AI搜索等产品方向关联度较低，对元宝产品经理的直接参考价值有限。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/ai-data-center-boom-ignites-bidding-war-for-critical-tdk-unit": {
+    "title_clean": "TDK硬盘部件业务引发AI数据中心争夺战",
+    "summary": "TDK硬盘部件业务引发竞购战，这场争夺将决定日本企业东芝的前景，并影响谁将控制日益盈利的AI数据中心存储市场。对元宝产品经理而言，这反映了AI数据中心基础设施的竞争加剧，可能影响存储解决方案的成本与供应策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/-N-Wo8ra1YqC1-HHKkprnQ": {
+    "title_clean": "NeurIPS 2026：SAGE用结构信号纠偏长推理问题",
+    "summary": "NeurIPS 2026研究探讨了长推理过程中常见的走偏问题，提出SAGE方法通过结构信号进行纠偏。这项研究对AI产品经理理解长推理模型的局限性及改进方向具有重要参考价值，有助于提升AI助手在复杂任务中的推理稳定性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/GN7N8uoX_B6_nIGmHfN0zQ": {
+    "title_clean": "视频世界模型2-bitKVCache压缩方案：解决量化后画面闪烁问题",
+    "summary": "该方案针对视频世界模型在量化后出现的画面闪烁问题，提出了一种时序稳定的2-bitKVCache压缩技术，有助于提升视频生成模型的稳定性和效率，对AI视频处理产品优化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/samsung-reaches-new-profit-record-video": {
+    "title_clean": "三星内存芯片创利润新高",
+    "summary": "三星凭借高带宽内存芯片需求，创下约107.4万亿韩元的运营利润纪录。这一业绩表明内存芯片市场强劲，对AI硬件基础设施有重要参考价值，元宝产品经理可关注AI硬件与内存芯片市场的关联性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/malaysia-builds-a-new-silicon-island-to-house-its-ai-ambitions": {
+    "title_clean": "马来西亚新建'硅岛'以发展AI产业",
+    "summary": "马来西亚在槟城以南填海造岛，建设新的\"硅岛\"以发展AI产业。这一基础设施项目旨在吸引AI企业入驻，推动国家AI战略，为元宝产品经理提供AI产业布局和区域发展机会的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/ex-bytedance-intern-s-200-million-ai-lab-takes-on-fei-fei-li": {
+    "title_clean": "前字节跳动实习生2亿美元AI实验室挑战李飞飞世界模型",
+    "summary": "前字节跳动实习生获得5Y Capital等知名风投2亿美元融资，其隐秘创业公司正挑战李飞飞等AI先驱，专注于新兴的世界模型领域。这反映了AI领域新玩家对前沿技术方向的布局，值得关注世界模型这一新兴赛道的竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users": {
+    "title_clean": "Nous Research：AI商业代理开发商确认15亿美元估值",
+    "summary": "Nous Research作为Hermes Agent开发商完成9000万美元B轮融资，公司估值达15亿美元，同时面向企业用户推出AI代理产品。这对元宝产品经理了解AI Agent商业化进展和企业级应用场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/u-s-treasury-issues-first-fine-outbound-investments-chinas-tech-sector": {
+    "title_clean": "美国财政部对中国科技领域对外投资发出首张罚单",
+    "summary": "美国财政部对创业加速器Plug and Play Tech Center的母公司处以罚款，这是美国对外投资限制计划下的首例处罚。该事件反映了中美科技投资监管趋严的态势，对AI企业全球化布局和跨境投资策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut": {
+    "title_clean": "Meta's Muse：AI助手iPad版发布",
+    "summary": "Meta的AI助手Muse在移动端发布仅一个月后，现已登陆iPad平台，显示公司正快速扩展该助手的覆盖范围和集成能力。这对产品经理关注AI助手多平台扩展策略和竞品动态有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-debuts-new-windows-pcs-features-powered-on-device-ai": {
+    "title_clean": "Microsoft 推出搭载英伟达芯片的本地AI PC",
+    "summary": "Microsoft发布新款PC，搭载英伟达芯片实现本地AI运行，而非云端处理，称此举可降低客户成本。这是继苹果突破性产品后，微软在AI PC领域的重要布局，对产品经理了解AI硬件化趋势和成本策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/open-interest-10-7-2026-video": {
+    "title_clean": "油价上涨引发华尔街担忧",
+    "summary": "油价上涨导致华尔街市场紧张，SpaceX计划筹集40亿美元购买英伟达芯片，苹果与LG加强智能家居合作。这些动态可能影响AI芯片供应链和能源成本，对AI硬件布局和成本控制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material": {
+    "title_clean": "Meta推出AI工具检测引导至儿童性虐待材料的广告",
+    "summary": "Meta发布新AI工具，用于检测平台上看似正常但实际引导用户访问有害内容的广告。这些工具旨在识别那些秘密引导至儿童性虐待材料的广告，增强平台内容安全能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/spacex-reported-to-be-in-nvidia-chip-financing-talks-video": {
+    "title_clean": "SpaceX与Nvidia达成400亿美元芯片融资协议",
+    "summary": "SpaceX正与银行和投资者洽谈筹集400亿美元资金，用于从Nvidia购买芯片。这笔巨额融资反映了AI硬件需求的激增，对AI服务提供商的供应链策略和成本结构有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/national-compute-takes-on-ai-gatekeepers-video": {
+    "title_clean": "National Compute：挑战AI算力垄断的国家基础设施计划",
+    "summary": "National Compute CEO Anjney Midha提出将AI基础设施转变为共享国家资源的计划，旨在打破当前AI算力被少数巨头垄断的局面，为美国保持AI竞争优势提供新思路。这对元宝产品经理思考AI服务资源获取与成本控制有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": {
+    "title_clean": "Nemotron模型：针对国际数学竞赛的微调优化",
+    "summary": "NVIDIA通过微调Nemotron模型，在国际信息学竞赛(IOI)和国际数学竞赛(IMO)中均获得金牌级表现，展示了AI在复杂数学问题解决能力上的突破，为元宝产品在数学教育领域的AI应用提供了技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/jpm-s-guven-toktamis-on-private-equity-dpi-outlook-video": {
+    "title_clean": "摩根大通谈私募股权DPI与行业展望",
+    "summary": "摩根大通欧洲、中东和非洲私募股权投资银行业务主管İşik Güven Toktamis表示，私募股权行业目前最关注的是展示强劲的已分配实收资本(DPI)。2026年将成为关键年份，行业面临DPI压力，这可能影响投资策略和退出时机。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/pinterest-names-new-cfo": {
+    "title_clean": "Pinterest任命新首席财务官",
+    "summary": "Pinterest任命亚马逊高管James Dibbo为新任首席财务官，这是该公司今年第四次高管层变动。这一人事变动可能影响公司的财务战略和业务发展方向，对关注社交媒体平台商业策略的产品经理有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-07/video-game-designer-behind-sky-journey-raises-35-million": {
+    "title_clean": "Sky与Journey游戏工作室获3500万美元融资",
+    "summary": "《Sky: Children of the Light》和《Journey》的开发商获得3500万美元融资，旨在颠覆病毒式传播的'朋友圈'休闲游戏类型。这对元宝产品经理在游戏化设计和社交互动方面有参考价值，特别是如何将情感连接融入AI产品体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-07/dragonfly-s-qureshi-easy-money-in-crypto-is-over-video": {
+    "title_clean": "Dragonfly合伙人Qureshi：加密货币轻松获利时代已结束",
+    "summary": "Dragonfly管理合伙人Haseeb Qureshi在Token2049会议上表示，加密货币市场正处于整合期，散户投资者开始重新关注。这一市场信号对元宝产品经理评估加密货币相关AI服务的市场时机和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
     ],
     "v": 4
   }

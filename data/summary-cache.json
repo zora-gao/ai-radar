@@ -122546,5 +122546,513 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/pmtui": {
+    "title_clean": "pmtui：终端AI会话自动化工具",
+    "summary": "pmtui是一款终端工具，能够自动化执行长时间运行的AI会话，帮助用户在命令行环境中更高效地使用AI服务，减少手动操作，提升工作效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/off-the-record-2": {
+    "title_clean": "Off the Record：会议防AI转录工具",
+    "summary": "Off the Record是一款会议隐私保护工具，专门阻止AI转录和记录会议内容，帮助用户保护敏感商业信息和私人谈话不被AI系统获取，适用于需要高度保密的商务会议场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openswarm-3": {
+    "title_clean": "OpenSwarm：AI智能体群协作工具",
+    "summary": "OpenSwarm是一个AI智能体群协作平台，允许多个AI智能体在同一工作环境中协同工作，为团队协作和任务自动化提供新思路，对元宝产品经理探索多智能体协作场景具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ahem-calendar-overlay": {
+    "title_clean": "Ahem!：ADHD全屏会议提醒工具",
+    "summary": "Ahem!是一款专为ADHD、时间盲和专注力不足人群设计的全屏会议提醒工具，通过全屏提醒方式帮助用户避免错过重要会议，解决时间管理困难问题，对元宝产品经理在特殊人群AI助手功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/dI7-LFSWJsGak7e1PbTiZg": {
+    "title_clean": "李飞飞团队开发世界动作模型：提升机器人任务成功率",
+    "summary": "李飞飞团队研发的世界动作模型通过更换底层架构，显著提高了机器人执行任务的成功率。这一技术突破对AI助手和AI Agent领域具有重要参考价值，特别是在提升机器人自主操作能力和任务完成效率方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Oe0ZcONLLMwdgSaZfbPMMw": {
+    "title_clean": "Anthropic推出价格降低90%的新模型，多项测试超越GPT-6Luna",
+    "summary": "Anthropic发布了价格大幅降低90%的新模型，在多项测试中表现优于GPT-6Luna。这一价格策略和性能提升对AI产品经理具有重要参考价值，可能影响市场竞争格局和用户获取成本。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aegis-14": {
+    "title_clean": "aegis：智能个人安全应用",
+    "summary": "aegis是一款智能个人安全应用，连接24小时紧急调度服务，为用户提供实时安全保障。该产品对元宝产品经理在AI安全服务场景和用户需求变化方面具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/wBjkQ8peMP0pRlbjJ169Mg": {
+    "title_clean": "EinsiaAl发布世界模型物理规律理解测试",
+    "summary": "EinsiaAl推出世界模型物理规律理解测试，结果显示当前AI模型在物理规律理解方面的最高得分仅为57分，揭示了AI在理解物理世界规律方面的局限性，为AI产品经理提供了评估模型物理认知能力的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openai-arr-snafu-highlights-flawed-metric": {
+    "title_clean": "OpenAI年收入数据错误凸显指标缺陷",
+    "summary": "OpenAI此前报道的700亿美元年收入数据严重失实，实际远低于此。这一事件暴露了AI行业收入统计指标的不规范问题，对产品经理评估行业数据可靠性和制定财务指标有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/spacex-announces-plans-take-aim-major-mobile-carriers": {
+    "title_clean": "SpaceX：计划收购低频无线频谱挑战传统电信运营商",
+    "summary": "SpaceX宣布计划收购全国性低频无线频谱组合，直接挑战Verizon和AT&T等美国主要无线运营商。这一举措表明SpaceX正从卫星通信向地面移动通信领域扩张，可能重塑电信行业竞争格局，对AI助手和Agent服务的网络基础设施布局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift": {
+    "title_clean": "中国配送机器人学习应对夜间配送",
+    "summary": "自动驾驶公司认为夜间配送存在巨大市场机会，但需克服技术挑战。这反映了AI服务场景在物流领域的拓展，对元宝产品经理了解AI服务场景拓展和商业化机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/newsletter-october-8-2026": {
+    "title_clean": "明星创始人：从本·阿弗莱克到泰格·伍兹的知名公司背后",
+    "summary": "Netflix以5.87亿美元收购本·阿弗莱克的AI创业公司InterPositive，人均估值达3700万美元。WNBA球星创立的Unrivaled篮球联盟也在8月获得关注。文章探讨名人创办的热门公司及其商业价值，对元宝产品经理了解名人效应与AI创业估值有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/siebert-williams-shank-ceo-on-30-year-anniversary-video": {
+    "title_clean": "Siebert Williams Shank CEO：30周年纪念访谈",
+    "summary": "Siebert Williams Shank CEO Suzanne Shank回顾公司自1996年成立以来从市政债券承销商扩展至企业债务市场的发展历程，目前服务财富100强中的80家企业。该访谈提供金融机构业务扩展案例，对元宝产品经理了解企业级服务场景和客户拓展策略有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/applied-digital-ceo-on-q1-results-video": {
+    "title_clean": "Applied Digital：AI算力公司Q1财报分析",
+    "summary": "Applied Digital发布Q1财报，营收同比增长超320%并超出预期，但股价下跌2.5%。CEO Wes Cummins就业绩差距进行了解释，这对AI算力行业发展和投资者情绪有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website": {
+    "title_clean": "Elizabeth Holmes 审判模拟网站：展示千份审判文件",
+    "summary": "Extend 工程师 Bo Lau 创建了一个模拟 Elizabeth Holmes 办公桌体验的网站，展示了超过一千封邮件、幻灯片、文本和来自美国诉 Elizabeth Holmes 审判的文件。这种沉浸式体验可能为产品经理提供如何构建交互式历史事件展示的灵感。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-catch": {
+    "title_clean": "Catch CEO访谈：市场定位与客户需求分析",
+    "summary": "Catch公司CEO Nir Sabato接受CB Insights采访，分享了公司对市场的看法、客户需求的理解以及自身定位。这为元宝产品经理提供了AI服务领域企业战略视角，有助于理解市场格局和用户需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vikar-technologies": {
+    "title_clean": "Vikar Technologies CEO访谈：市场定位与客户需求分析",
+    "summary": "Vikar Technologies CEO Glenn Bolstad接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了企业级服务市场的洞察，对元宝产品经理了解企业AI服务市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-stockgro": {
+    "title_clean": "StockGro CEO访谈：市场定位与客户需求分析",
+    "summary": "StockGro CEO Ajay Lakhotia接受CB Insights采访，分享公司市场定位、客户需求分析及业务发展策略。该访谈为AI产品经理提供了金融科技领域市场洞察和客户需求理解的重要参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-xund": {
+    "title_clean": "CEO访谈：XUND",
+    "summary": "XUND公司CEO Tamás Petrovics接受CB Insights采访，分享了公司对市场定位、客户需求的理解以及公司发展策略。该访谈为元宝产品经理提供了AI服务领域企业家的市场洞察和产品方向参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-mintos": {
+    "title_clean": "Executive Interview: Mintos",
+    "summary": "Mintos首席增长官Kertu-Liina Lehismae接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。这对元宝产品经理了解金融科技领域的市场策略和客户洞察有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-wer": {
+    "title_clean": "WeR：AI市场定位与客户需求访谈",
+    "summary": "WeR CEO Michael Berl接受CB Insights访谈，分享公司对市场的看法、客户需求分析以及自身定位。内容包含市场定义和公司战略定位，对AI产品经理了解行业视角和企业战略规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-farsight": {
+    "title_clean": "CEO Interview: Farsight",
+    "summary": "Farsight CEO Samir Dutta接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。作为AI领域企业高管的观点访谈，为元宝产品经理提供了行业视角和战略参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october": {
+    "title_clean": "苹果计划10月下旬推出触控屏MacBook和新iPad Mini",
+    "summary": "苹果公司计划在10月下旬推出首款触控屏MacBook和新款iPad Mini，这是继下周智能家居战略更新后的第二次产品发布。这对元宝产品经理有参考价值，因为触控屏交互可能影响AI助手在移动设备上的交互方式，同时新iPad Mini可能成为AI服务的新硬件平台。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/why-apple-s-vision-pro-is-struggling-video": {
+    "title_clean": "苹果Vision Pro与Meta VR眼镜对比分析",
+    "summary": "彭博社报道，苹果高管甚至不使用自家Vision Pro头显，认为其沉重且昂贵，与Meta的VR眼镜相比表现不佳。这反映了高端VR设备的市场接受度问题，对AI助手在空间计算领域的布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed": {
+    "title_clean": "本·阿弗莱克：AI知识渊博的演员创业者",
+    "summary": "演员本·阿弗莱克因对AI的深入了解而走红网络，从神经网络到transformers再到open weights均有涉猎。他今年早些时候将AI影视制作初创公司出售给Netflix，展示了AI在创意产业的应用潜力。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference": {
+    "title_clean": "Anthropic更新使用政策：禁止模型滥用和选举干预",
+    "summary": "Anthropic更新了Claude的使用政策，明确禁止用户极端情况下反复滥用模型，但允许普通批评和不满。新政策还涉及选举干预相关内容，旨在规范AI使用边界，对产品经理制定AI使用规范有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/oracle-moves-gas-by-trucks-to-avoid-data-center-power-delays": {
+    "title_clean": "Oracle：通过卡车运输天然气解决数据中心电力延迟问题",
+    "summary": "Oracle采用创新电力策略，通过卡车直接向服务器农场运输天然气，以保障多个数据中心的正常运行进度，避免因电力供应延迟导致的服务中断。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/apple-announces-oct-13-smart-home-product-launch-in-new-york": {
+    "title_clean": "Apple宣布10月13日在纽约发布智能家居新品",
+    "summary": "Apple确认将于10月13日在纽约举办新品发布会，重点推出智能家居产品。这表明Apple正在加强其在智能家居领域的布局，对元宝产品经理了解科技巨头在智能家居场景的AI应用方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/white-house-suspends-visa-program-microsoft-tech-firms": {
+    "title_clean": "白宫暂停微软等科技公司的签证项目",
+    "summary": "美国政府限制微软为特定移民工人提供签证赞助，称正在对微软相关指控进行调查。这可能影响科技公司的人才引进策略，对元宝产品经理了解国际科技人才政策变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost": {
+    "title_clean": "Goodfire：低成本AI内部监控工具",
+    "summary": "Goodfire推出新型AI监控系统，通过直接窥探模型内部工作状态来监控AI代理行为，而非依赖第二个AI进行监控，声称成本仅为传统方法的零头，为AI代理安全监控提供新方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/globalfoundries-rallies-after-announcing-2-billion-tsmc-deal": {
+    "title_clean": "GlobalFoundries与台积电达成20亿美元产能合作",
+    "summary": "芯片制造商GlobalFoundries宣布与台积电达成五年期20亿美元协议，将为台积电提供美国产能支持。这一合作反映了半导体供应链重构趋势，对AI芯片供应链稳定性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta": {
+    "title_clean": "Manus完成超5亿美元融资，腾讯等参投",
+    "summary": "中国AI公司Manus完成首轮超5亿美元融资，由博裕资本和IDG资本领投，腾讯、红杉中国(现HSG)、真格基金等现有股东跟投。这是Manus与Meta分拆后的首次融资，显示中国AI领域获得大额资本关注。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/former-openai-cognition-staffers-want-ai-to-help-run-a-business": {
+    "title_clean": "前OpenAI与Cognition员工创立新公司：AI业务管理助手",
+    "summary": "前OpenAI和Cognition AI员工联合创立新公司，专注于开发能够协助企业运营的AI代理工具。这反映了AI代理技术在商业管理场景的应用趋势，对元宝产品经理在AI助手业务拓展和商业化方向具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/pollo-ai": {
+    "title_clean": "Pollo AI：创意生成营销广告工具",
+    "summary": "Pollo AI利用GPT-5.6、GPT-6 Astra和GPT-Image-2.5等模型，帮助创作者将创意转化为详细图像和电影级视频广告，为AI在营销内容生成领域提供了新工具。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-former-omidyar-ceo-founds-ai-investor-network": {
+    "title_clean": "前Omidyar CEO创立AI投资者网络",
+    "summary": "前Omidyar Network首席执行官Mike Kubzansky正在发起一个大型投资者组织，旨在促进AI行业信息共享，以推动更多投资决策。这对元宝产品经理了解AI投资趋势和资本动向具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/german-startup-trains-its-robots-using-humans-filming-themselves": {
+    "title_clean": "German Startup：利用人类自拍视频训练机器人",
+    "summary": "德国Agile Robots公司通过拍摄人类执行任务的视频来训练机器人，旨在解决工业自动化领域数据不足的问题。这种方法为机器人学习人类行为提供了新思路，对AI训练和工业自动化场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/tcs-profit-beats-estimates-after-it-deal-flow-slowly-picks-up": {
+    "title_clean": "TCS利润超预期：IT合同流逐步回升",
+    "summary": "塔塔咨询服务公司季度利润超出分析师预期，主要得益于成本削减措施和逐步改善的合同流，这推动了亚洲最大IT服务提供商的增长。这一趋势表明IT服务市场可能正在回暖，对元宝产品经理了解企业服务市场动态和客户预算恢复有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/horizons-middle-east-africa-10-8-2026-video": {
+    "title_clean": "胡塞武装袭击沙特机场并击沉油轮，推高油价",
+    "summary": "胡塞武装袭击沙特利雅得和阿卜哈机场造成3人死亡，同时袭击油轮导致国际油价上涨。此事件可能影响中东地区稳定及全球能源供应链，对元宝产品经理了解地缘政治风险对能源市场的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/building-with-ml-intern": {
+    "title_clean": "The model that didn't exist, so you made it yourself：用户自定义AI模型平台",
+    "summary": "该平台允许用户根据自身需求创建和定制AI模型，解决了通用AI模型无法满足特定场景需求的问题。对产品经理的参考价值在于了解用户对个性化AI模型的潜在需求，以及如何通过低代码/无代码方式降低用户使用门槛。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/tiiuae/falcon-asr": {
+    "title_clean": "Falcon ASR：语音识别模型",
+    "summary": "Falcon ASR是一款新型语音识别模型，专注于提供高精度的语音转文本功能。该模型可能针对多语言支持或特定场景优化，对于元宝产品经理评估语音交互能力与多模态应用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+    "title_clean": "OpenAI：打击AI驱动的虚假信息行动",
+    "summary": "OpenAI成功挫败了两起利用AI技术进行的虚假信息行动，这些行动通过虚假记者和智库传播地缘政治信息。这展示了AI公司在识别和打击AI滥用方面的能力，对产品经理了解AI安全防护和内容治理有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

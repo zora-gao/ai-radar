@@ -124020,5 +124020,446 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/phonable": {
+    "title_clean": "Phonable：未接来电智能处理工具",
+    "summary": "Phonable是一款处理未接来电的工具，它能自动向来电者发送短信，同时为用户提供来电内容的简要摘要，帮助用户高效管理未接来电信息。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/amazon-alexa-tablets": {
+    "title_clean": "Amazon Alexa Tablets：搭载Alexa的平板电脑",
+    "summary": "Amazon推出内置Alexa语音助手的平板电脑，支持完整Google Play应用商店，同时提供Alexa+功能和Kindle阅读模式。这表明亚马逊正在将语音助手与硬件设备深度融合，为用户提供多场景交互体验，对元宝在硬件集成和多场景服务拓展方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/D6b1FbGx-Zvzknnlt9zzPw": {
+    "title_clean": "英伟达Physis-Lang：自然语言增强视频物体理解模型",
+    "summary": "英伟达推出Physis-Lang模型，通过将自然语言作为世界模型的表征，增强对视频中物体的理解和交互能力。这一技术突破为AI视频理解和多模态交互提供了新思路，对元宝在视频内容理解和多模态AI能力开发具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/iLtJ8g3xwawKfnoShFBIFg": {
+    "title_clean": "全球竞逐RSI，华人团队已跑通规模化闭环",
+    "summary": "华人团队在RSI(可能是某种AI技术或服务)领域已实现规模化闭环，表明该技术或服务已具备商业化落地能力。这对元宝产品经理评估AI技术商业化路径和规模化运营具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/IaGOywzQC74tSL-Hc8HTAA": {
+    "title_clean": "视频生成也能查资料、做模拟：8B智能体学会自主调用工具",
+    "summary": "8B智能体已具备自主调用工具的能力，能够进行资料查询和模拟操作，将视频生成与信息检索、任务模拟相结合，为AI助手提供了更丰富的应用场景和交互能力，对产品经理设计多功能AI助手具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/ramp-hits-60-billion-valuation-in-1-85-billion-funding-round": {
+    "title_clean": "Ramp：企业支出管理平台获60亿美元估值",
+    "summary": "金融科技创业公司Ramp最新融资18.5亿美元，估值达到约600亿美元。作为企业支出管理平台，其高估值反映了企业级AI财务工具市场的强劲增长，对元宝在B端AI服务场景拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/surveillance-pricing-may-be-coming-to-a-store-near-you": {
+    "title_clean": "动态定价电子标签：根据购物行为实时调整商品价格",
+    "summary": "零售商正在部署能够根据顾客购物行为实时调整价格的电子货架标签技术。当顾客将某商品放入购物车时，系统可能自动提高该商品价格，这种动态定价策略正从概念走向实际应用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/lockheed-unveils-new-patriot-for-us-army-air-defense-contest": {
+    "title_clean": "Lockheed推出新型爱国者导弹拦截器：针对美国陆军防空竞赛",
+    "summary": "洛克希德·马丁公司推出新型导弹拦截器，旨在超越其最先进的爱国者变体，满足美国陆军增强防空能力的需求，以应对日益复杂的空中威胁。这对元宝产品经理了解国防科技领域AI应用与高端武器系统发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/bloomberg-tech-10-9-2026-video": {
+    "title_clean": "OpenAI年化收入达700亿美元，面临AI基础设施挑战",
+    "summary": "彭博社报道OpenAI预计年底年化收入将达或超过700亿美元，同时分析OpenAI在AI基础设施方面面临的挑战，以及Oracle如何通过特定策略维持数据中心运营。这对元宝产品经理了解AI头部商业化进程和基础设施瓶颈有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/why-finance-execs-are-counting-every-token-video": {
+    "title_clean": "金融高管关注AI token使用成本",
+    "summary": "企业员工过度使用AI导致token消耗激增，促使企业从追求token最大化转向价值最大化，但AI支出仍令首席财务官担忧。这反映了AI应用成本控制成为企业关注焦点，对元宝产品经理在定价和成本优化方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/kleiner-perkins-bets-on-ai-s-next-act-video": {
+    "title_clean": "Kleiner Perkins投资Anthropic至Waymo：押注AI下一阶段发展",
+    "summary": "Kleiner Perkins合伙人Ilya Fushman表示AI仍处于重塑经济的早期阶段，投资机会从前沿模型如Anthropic扩展到消费者代理和自动驾驶领域。这对元宝产品经理了解顶级风投对AI赛道的布局重点和未来方向有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-09/disney-s-star-wars-strategy-is-working-out-much-better-for-video-games": {
+    "title_clean": "迪士尼《星球大战》游戏战略成效显著",
+    "summary": "迪士尼《星球大战》游戏战略成效显著，《星球大战：零连队》等作品在商业和口碑上均取得成功，表明IP游戏化战略有效，为元宝在IP合作与游戏化方向提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/trump-visa-crackdown-raises-questions-for-tech-talent-video": {
+    "title_clean": "特朗普签证政策收紧影响科技人才引进",
+    "summary": "特朗普政府暂停微软、Adobe等公司及高校的永久居留担保项目，理由是存在潜在安全风险。这可能影响科技行业外籍人才招聘策略，元宝需关注AI人才流动变化及合规要求调整。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot": {
+    "title_clean": "Danu Robotics：智能垃圾分类机器人",
+    "summary": "Danu Robotics创始人Amy Ma六年来致力于开发更高效的垃圾分类解决方案，通过机器人技术提升可回收废物的分拣效率，这对AI在环保场景的应用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card": {
+    "title_clean": "Amazon取消数据中心保密协议，AI代理寻求信用卡支付",
+    "summary": "Amazon宣布将停止在与地方政府谈判数据中心交易时使用保密协议，此举与微软今年早前的类似举措相呼应。保密协议的取消可能影响AI代理服务的数据获取方式，对元宝在数据合作策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust": {
+    "title_clean": "亚马逊停止数据中心交易保密协议，微软此前已采取类似措施",
+    "summary": "亚马逊宣布在与地方政府谈判数据中心交易时将停止使用保密协议(NDAs)，此前微软今年已采取类似措施。保密政策曾引发社区强烈反对，此举旨在重建信任，对AI基础设施布局和政府合作策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/ai-buildout-is-boom-not-bubble-says-jared-gross-video": {
+    "title_clean": "AI Buildout is Boom 'Not Bubble,' Says Jared Gross",
+    "summary": "Jared Gross表示AI建设热潮是繁荣而非泡沫，信贷市场对更多大型债务交易感到担忧，这些交易旨在为AI军备竞赛提供资金。这反映了AI领域投资持续升温的现状，对产品经理了解行业资本动向和商业化趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-10-09/ia-de-codigo-abierto-impulsa-material-de-abuso-sexual-infantil": {
+    "title_clean": "开源AI代码推动儿童性虐待材料生成",
+    "summary": "开源AI代码被用于生成儿童性虐待材料，且一旦模型被下载，相关非法活动几乎无法追踪。这对AI内容安全监管和伦理边界提出了严峻挑战，产品经理需关注AI技术被滥用的风险及内容审核机制。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-druo": {
+    "title_clean": "CEO Interview: DRUO",
+    "summary": "DRUO公司CEO Alejandro Pinzon Acevedo接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。作为AI领域企业高管的访谈，为产品经理提供了行业视角和商业策略参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-fintastic": {
+    "title_clean": "Executive Interview: Fintastic：金融科技企业高管访谈",
+    "summary": "Fintastic首席营收官Brian McCormac接受CB Insights采访，分享公司对市场的看法、客户需求分析及企业定位。该访谈为金融科技领域的产品经理提供了行业视角和客户洞察，有助于理解金融科技企业的市场策略和客户需求变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/panmure-warns-ai-bubble-could-burst-by-2028-video": {
+    "title_clean": "Panmure警告：AI泡沫可能在两年内破裂",
+    "summary": "Panmure Liberum研究分析师Joachim Klement分析了AI领域面临的风险，并讨论了AI可能引发的市场严重崩溃可能性。这对产品经理评估AI商业化前景和风险管理具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise": {
+    "title_clean": "TechCrunch Disrupt 2026：科技创业大会将于旧金山举办",
+    "summary": "TechCrunch Disrupt 2026大会将于10月13-15日在旧金山Moscone West中心举办，预计吸引1万名创始人、投资者和科技领袖参与。目前购票可享受最高100美元的早鸟优惠，价格即将上涨。对产品经理而言，这是了解行业趋势、竞品动态和潜在合作机会的重要平台。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/medtech-faces-one-more-weak-quarter-before-a-2027-rebound": {
+    "title_clean": "医疗科技行业：2027年前将经历又一季度低迷后迎来反弹",
+    "summary": "医疗科技行业在经历政策不确定性的艰难时期后，预计将在2027年前再经历一个低迷季度，随后迎来两年多来最强的增长前景。这一趋势对元宝产品经理了解行业周期性波动和长期发展机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/revolut-ceo-nik-storonsky-on-us-strategy-video": {
+    "title_clean": "Revolut CEO：计划在美国市场与摩根大通和美国运通竞争",
+    "summary": "Revolut CEO Nik Storonsky阐述了金融科技公司进军美国市场的雄心，计划与摩根大通和美国运通等传统金融机构竞争。Revolut计划构建完整的数字银行服务，这反映了金融科技巨头对传统银行市场的挑战，对元宝产品经理了解金融科技竞争格局和国际化战略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/koch-nets-nearly-1-billion-in-payouts-from-infor-in-two-years": {
+    "title_clean": "科氏集团两年内从Infor获得近10亿美元 payouts",
+    "summary": "科氏集团子公司从软件公司Infor的国际业务中获得近7亿美元 payout，过去两个财政年度总收益近10亿美元。这反映了大型企业软件公司的财务回报模式，对AI助手产品经理了解企业级软件商业化和盈利模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/firmus-is-said-to-explore-raising-3-billion-after-shelving-ipo": {
+    "title_clean": "Firmus：数据中心公司搁置IPO后寻求30亿美元融资",
+    "summary": "数据中心公司Firmus Grid在搁置IPO计划后，正寻求通过私人融资筹集高达30亿美元资金。这一融资动向反映了数据中心行业在当前市场环境下的资本策略调整，对AI基础设施领域的投资趋势具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-09/china-is-trouncing-the-us-in-consumer-adoption-of-generative-ai": {
+    "title_clean": "中国消费者生成式AI采用率超越美国",
+    "summary": "美国在AI能力方面得分高，但在采用率方面落后于中国。这一数据表明中国消费者对生成式AI的接受度和使用速度更快，这对元宝产品经理了解全球AI市场格局和用户行为差异具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/franklin-templeton-ai-investing-a-durable-opportunity-video": {
+    "title_clean": "Franklin Templeton：AI投资长期机遇",
+    "summary": "富兰克林邓普顿CEO Jenny Johnson认为人工智能投资仍是持久的长期机遇。她在2026年米尔肯研究所活动间隙表示，AI将持续为投资领域带来变革性影响，这对AI产品经理把握金融科技服务方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-backed-firmus-scraps-5-billion-australia-ipo-markets-wobble": {
+    "title_clean": "Nvidia支持的Firmus取消50亿美元澳大利亚IPO",
+    "summary": "Nvidia支持的AI云公司Firmus取消了澳大利亚近30年来最大的首次公开募股，原计划筹集近50亿美元。这反映了当前市场波动对AI基础设施融资的影响，对元宝产品经理评估AI云服务市场环境和企业融资策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/nvidia-backed-lumentum-sees-opto-parts-capacity-sold-out-to-2029": {
+    "title_clean": "Lumentum：AI服务器光组件售罄至2029年",
+    "summary": "Lumentum公司CEO表示，其光组件已完全售罄至2029年初，科技企业争相采购以构建更快的AI数据中心。这反映了AI硬件需求激增，对元宝产品经理评估AI基础设施供应链和成本有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/baiju-bhatt-on-company-plans-for-data-centers-in-space-video": {
+    "title_clean": "Baiju Bhatt：太空能源网格初创公司创始人",
+    "summary": "Cowboy Space创始人兼CEO Baiju Bhatt宣布正在开发轨道能源网格，首颗卫星Reason 1已通过SpaceX发射入轨并建立联系。这对AI产品经理的参考价值在于了解前沿科技创业方向，特别是太空基础设施与能源技术可能带来的新型服务场景机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-researchers-say-fired-prioritizing-safety": {
+    "title_clean": "OpenAI研究人员称因优先考虑安全被解雇",
+    "summary": "三名OpenAI安全研究人员声称因提出安全顾虑而被解雇，他们挑战了公司的决定，称自己因优先考虑安全而受到惩罚。这反映了AI安全与商业发展之间的内部冲突，对元宝产品经理在平衡安全与功能迭代方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/oracle": {
+    "title_clean": "Oracle利用ChatGPT和Codex将工作流程从天缩短到分钟",
+    "summary": "Oracle通过整合ChatGPT Work和Codex，在招聘、工程和运营领域将专业知识转化为快速、可重复的工作流程，显著提升了工作效率。这一案例展示了企业级AI助手如何优化专业工作流程，对元宝产品经理在AI工作流自动化方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/legalon-halves-codex-costs": {
+    "title_clean": "LegalOn：AI法律开发成本优化工具",
+    "summary": "LegalOn通过智能任务匹配和预算管理，将Codex的日常开发成本降低了65%，同时保持了开发速度。这展示了AI法律工具在成本控制方面的创新方法，对元宝产品经理优化AI服务成本具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/vivek-ramaswamy-s-nuclear-startup-raises-at-1-9-billion-value": {
+    "title_clean": "Atlas Atomics：核能初创公司获19亿美元估值融资",
+    "summary": "Atlas Atomics是由俄亥俄州长候选人Vivek Ramaswamy联合创立的核能初创公司，近期获得约19亿美元估值融资。这反映了清洁能源领域，特别是核能技术的投资热潮，对AI产品经理了解清洁科技投资趋势和能源AI应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/the-story-of-europe-s-decline-isn-t-so-simple-video": {
+    "title_clean": "欧洲经济问题：Draghi报告两年后的挑战与反思",
+    "summary": "Draghi报告发布两年后，欧洲竞争力问题仍未解决，面临人口结构挑战和能源成本上升等关键问题。这份分析对元宝产品经理了解欧洲经济环境对AI产品市场的影响有参考价值，特别是在服务场景和商业化策略方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -123597,5 +123597,428 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/openpilot": {
+    "title_clean": "OpenPilot：开源桌面AI代理工具",
+    "summary": "OpenPilot是一款开源的桌面AI代理工具，支持用户选择任意AI模型。它为产品经理提供了构建自定义AI代理的参考方案，展示了如何实现模型灵活适配的桌面AI解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/staffcoder": {
+    "title_clean": "Staffcoder：AI辅助编程工具",
+    "summary": "Staffcoder是一款面向工程师的AI编程辅助工具，旨在帮助开发者像真正的工程师一样高效构建软件。该工具可能提供代码生成、调试或优化功能，对元宝产品经理在AI辅助编程领域的产品设计和功能开发具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/trophy-1-0": {
+    "title_clean": "Trophy MCP Servers：AI工具集成服务",
+    "summary": "Trophy MCP Servers允许用户从各种AI工具中与Trophy进行交互，这表明它可能是一个AI服务集成平台或中间件，帮助AI工具之间实现互操作性和功能扩展，对元宝产品经理在AI生态整合和工具调用方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ambiguous-workspace": {
+    "title_clean": "Ambiguous Workspace：AI与人类生产力应用套件",
+    "summary": "Ambiguous Workspace推出了18款专为AI代理和人类用户设计的生产力应用，旨在提升工作效率。这一产品套件可能为元宝在AI助手与人类协作场景下的功能拓展提供参考价值，特别是在多应用集成和自动化任务处理方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentsdr": {
+    "title_clean": "AgentSDR：开源AI销售代表工具",
+    "summary": "AgentSDR是一款开源AI销售代表工具，旨在自动化销售流程。该产品对元宝产品经理具有参考价值，可作为AI Agent在商业服务场景中的应用案例，探索AI在销售领域的自动化可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zernio": {
+    "title_clean": "Zernio：产品与代理营销基础设施",
+    "summary": "Zernio是一个为产品和AI代理提供营销基础设施的工具，旨在帮助开发者构建和推广AI产品及代理服务。这对元宝产品经理有参考价值，特别是在AI产品商业化路径和营销策略方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/together-ai": {
+    "title_clean": "Together Link：开源模型集成工具",
+    "summary": "Together Link是一款工具，允许开发者在自己的应用中集成和使用开源AI模型。该产品为元宝产品经理提供了关于如何整合开源模型到AI助手产品的参考价值，有助于评估开源模型与专有模型的竞争力和应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we": {
+    "title_clean": "人类对AI的情感依赖：我们为何将AI视为人类",
+    "summary": "探讨人类与AI交互时产生的情感连接现象，引用Sherry Turkle的研究指出，即使是最基础的AI交互也会让人类感受到被关心，并自然地对AI产生情感回应。这对产品经理理解用户心理和设计更符合人类认知的AI助手具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/heypi": {
+    "title_clean": "HeyPi：会议实时协作AI助手",
+    "summary": "HeyPi是一款会议实时协作AI助手，允许用户在会议中即时构建和交付内容。该工具可能帮助产品经理了解AI在会议场景中的应用，提升团队协作效率，探索AI助手在实时工作流中的新可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai": {
+    "title_clean": "a16z的Olivia Moore谈消费AI现状",
+    "summary": "a16z合伙人Olivia Moore分析了消费AI领域的现状，认为行业有机会探索除订阅和API收费外的多元化收入模式，这对元宝产品经理思考商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cakie-2": {
+    "title_clean": "Cakie：屏幕录像转AI Agent提示工具",
+    "summary": "Cakie是一款将屏幕录像转换为AI Agent提示的工具，能够帮助用户将屏幕操作过程转化为可执行的AI指令，为AI Agent的自动化操作提供新的交互方式，对元宝产品经理在AI Agent能力拓展方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-clair": {
+    "title_clean": "CEO Interview: Clair：AI助手市场定位与客户需求洞察",
+    "summary": "Clair公司CEO Nico Simko接受CB Insights采访，分享了对市场定义、客户需求的理解以及公司定位。这为元宝产品经理提供了AI助手市场竞争格局和用户需求的一手见解，有助于明确产品差异化方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-bon-credit": {
+    "title_clean": "Bon Credit CEO访谈：金融科技市场洞察",
+    "summary": "Bon Credit CEO Samder Singh Khangarot接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。这为金融科技领域的市场定位和用户需求分析提供了高管视角，对元宝在金融服务场景的产品规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/ea-turns-to-egan-jones-rating-as-angry-bondholders-claim-default": {
+    "title_clean": "EA采用Egan-Jones评级应对债券违约指控",
+    "summary": "艺电公司(EA)向债权人表示，已从Egan-Jones评级公司获得部分债券的投资级评级，以此反驳其违约指控。这反映了游戏公司在债务管理上的策略变化，对元宝产品经理了解企业信用风险管理有一定参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value": {
+    "title_clean": "Andreessen Horowitz投资Jev母公司TypeSafe AI，估值达75亿美元",
+    "summary": "TypeSafe AI开发的AI模型Jev发布几周后迅速走红，公司已完成8700万美元融资，估值达75亿美元。这表明新型AI模型获得顶级风投认可，对产品经理评估AI初创公司融资趋势和市场接受度有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/chinas-ai-model-race-just-getting-crowded": {
+    "title_clean": "中国AI模型竞争加剧：科技巨头纷纷入局大模型赛道",
+    "summary": "中国AI模型竞争日益激烈，包括Epic Games、Apple和DoorDash等科技巨头正从零开始开发自己的大语言模型，以与OpenAI和Anthropic等公司竞争。这表明AI模型已成为科技行业核心竞争领域，对元宝产品经理了解行业格局和潜在竞争对手具有重要意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry": {
+    "title_clean": "英国将限制竞业禁止条款，回应科技与AI初创企业抗议",
+    "summary": "英国计划限制强制员工在离职或创业前等待的雇佣限制条款，这一政策调整源于该国科技和AI初创企业的强烈反对。此举可能影响人才流动和创业环境，对AI行业人才策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/bending-spoons-ceo-sees-opportunity-in-saaspocalypse-video": {
+    "title_clean": "Bending Spoons CEO：AI重塑软件行业中的收购机遇",
+    "summary": "Bending Spoons CEO Luca Ferrari表示，软件估值下降正在创造收购机会，而AI正在重塑整个行业。该公司正从两方面受益：能够以更低价格收购目标公司，同时AI转型带来的市场变化也为其创造了新的业务机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/revolut-ceo-aims-to-rival-jpmorgan-american-express-video": {
+    "title_clean": "Revolut CEO：挑战摩根大通和美国运通，主导美国市场",
+    "summary": "Revolut CEO Nik Storonsky在Wave by Vento科技会议上表示，希望这家快速增长的金科技公司能够'主导'美国市场，挑战摩根大通和美国运通等传统金融巨头。这对元宝产品经理有参考价值，展示了金融科技领域的竞争格局和扩张策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/softbanks-son-seeks-100-billion-gulf-investors-ai-bets": {
+    "title_clean": "软银寻求海湾国家投资者筹集1000亿美元用于AI投资",
+    "summary": "软银CEO孙正义正寻求从海湾国家投资者筹集高达1000亿美元，用于支持其人工智能领域的投资计划。这一大规模融资反映了AI领域资本市场的活跃度，对元宝产品经理了解AI行业资本动向和巨头战略布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/-i-had-nightmares-says-airtel-money-ceo-before-ipo-video": {
+    "title_clean": "Airtel Money CEO在IPO前称'昨晚我做噩梦'",
+    "summary": "Airtel Money作为移动支付公司在伦敦证券交易所上市，可能是该交易所五年来最大规模的IPO。CEO在上市前表示自己因担忧而做噩梦，反映了公司对市场表现的谨慎态度，这对了解金融科技公司的上市心态和投资者情绪有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews": {
+    "title_clean": "日本遭遇网络攻击激增，政府呼吁安全审查",
+    "summary": "日本近期遭遇多起网络攻击，政府已呼吁企业进行安全审查。AI工具降低了大规模黑客攻击的门槛，这可能对AI安全防护和风险管理产品带来新的市场需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/airtel-money-ceo-says-london-ipo-a-big-milestone-video": {
+    "title_clean": "Airtel Money：移动支付公司在伦敦上市",
+    "summary": "Airtel Money CEO Ian Ferrao宣布公司在伦敦证券交易所上市，这可能是迄今为止最大的首次公开募股。这一事件对元宝产品经理具有参考价值，展示了移动支付领域的资本动向和商业模式发展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/sophos": {
+    "title_clean": "Sophos：利用OpenAI Daybreak将威胁调查时间减少96%",
+    "summary": "Sophos采用OpenAI的Daybreak技术，将网络安全威胁调查时间缩短96%，同时自动化处理52%的MDR(托管检测与响应)案例，同时保留人工监督。这对AI在安全领域的实际应用和效率提升具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/franklin-templeton-sees-short-term-debt-as-sweet-spot-for-ai": {
+    "title_clean": "Franklin Templeton：科技企业短期债务是AI投资良机",
+    "summary": "富兰克林邓普顿CEO珍妮·约翰逊表示，科技巨头发行的短期债务是人工智能领域的投资机会，理由是这些企业拥有强劲的现金流。这反映了金融资本对AI产业的投资策略变化，对元宝产品经理了解AI商业化路径和资本动向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/asia-s-largest-it-firm-shrugs-off-latest-us-immigration-curbs": {
+    "title_clean": "亚洲最大IT公司回应美国最新移民限制",
+    "summary": "亚洲最大软件外包服务提供商表示，特朗普政府最新签证移民限制不会影响其招聘和业务。这反映了全球IT服务行业对政策变化的适应能力，以及印度等外包市场在面临美国移民政策收紧时的业务韧性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-announces-broader-cyber-defense-program": {
+    "title_clean": "Anthropic：扩大网络安全防御计划",
+    "summary": "Anthropic宣布推出新计划，支持关键基础设施和开源软件的网络安全。这表明AI安全领域正在扩展，对元宝产品经理了解AI在安全场景的应用和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/aFbuCWUgGpyip6sgEJ3Evw": {
+    "title_clean": "OpenAI撤回三篇AI数学论文因符号错误",
+    "summary": "OpenAI撤回了三篇AI数学论文，原因是论文中存在符号错误。这一事件反映了AI研究严谨性的重要性，对产品经理在评估AI研究质量和可靠性方面有警示作用，特别是在将学术成果转化为产品功能时需注意验证基础研究的准确性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/mSDTTzZdtDPZqfb1y1hgkA": {
+    "title_clean": "首篇自回归视频生成Memory综述发布",
+    "summary": "港科大、城大、复旦、CMU等机构联合发布了首篇关于自回归视频生成Memory技术的综述，系统梳理了该领域的技术进展与应用方向，为AI视频生成领域提供了重要的技术参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-08/openai-s-math-advances-spark-a-reckoning-for-academia": {
+    "title_clean": "OpenAI数学进展引发学术界反思",
+    "summary": "OpenAI在数学领域的最新进展促使一位数学家反思AI对其专业领域的影响。这反映了AI正在改变传统学术研究方式，对元宝产品经理了解AI如何影响知识型工作场景、以及如何构建能够辅助专业领域的AI助手具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/waymo-closes-5-billion-debt-financing": {
+    "title_clean": "Waymo完成50亿美元债务融资",
+    "summary": "Alphabet旗下自动驾驶出行公司Waymo宣布完成50亿美元定期贷款，这是其首次债务融资。这笔大额融资表明自动驾驶领域商业化的加速推进，对元宝产品经理评估AI服务商业化路径和资本投入策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vontive": {
+    "title_clean": "CEO Interview: Vontive",
+    "summary": "Vontive CEO Charles McKinney接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。作为一家企业服务公司，其CEO观点对了解企业级AI服务市场趋势和客户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/who-pays-for-ai-financing-the-next-investment-cycle-video": {
+    "title_clean": "Who Pays for AI：AI投资周期融资模式分析",
+    "summary": "该文探讨AI驱动的大规模资本支出周期，分析AI投资的融资模式、风险分布和商业机会，对元宝产品经理理解AI商业化路径和资金流向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/apple-names-steve-smith-m-a-chief-moves-adrian-perica-to-services-business": {
+    "title_clean": "苹果任命Steve Smith为并购主管，Adrian Perica调任服务业务",
+    "summary": "苹果公司任命Steve Smith为新的并购主管，这是在CEO John Ternus领导下最新的管理层变动。Adrian Perica将被调任至服务业务部门。这一人事调整可能影响苹果的战略并购方向和服务业务发展，对关注苹果产品战略的元宝产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

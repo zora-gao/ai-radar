@@ -123054,5 +123054,548 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/iwant": {
+    "title_clean": "iwant：GPU资源与开源模型托管工具",
+    "summary": "iwant是一款工具，可通过单一命令查找可用GPU资源并托管开源模型，简化AI开发环境配置，为产品经理提供基础设施资源管理的新思路，有助于降低AI应用部署门槛。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/request-eagle": {
+    "title_clean": "Request Eagle：开源Postman替代工具",
+    "summary": "Request Eagle是一款快速且开源的API测试工具，作为Postman的替代方案，主要功能是帮助开发者进行API请求测试和调试。对于元宝产品经理而言，这反映了开发者对轻量级、开源API工具的需求，可能与元宝未来集成API测试功能或服务开发者场景相关。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rune": {
+    "title_clean": "Rune：跨设备文本同步工具",
+    "summary": "Rune是一款跨设备文本同步工具，允许用户在一台Mac上输入文本后，可在另一台Mac上直接访问，解决了多设备间文本内容同步的需求，为产品经理提供了跨设备数据同步场景的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sorted-6": {
+    "title_clean": "Sorted：Mac端AI文件整理工具",
+    "summary": "Sorted是一款专为Mac用户设计的AI文件整理工具，能够自动组织和分类用户的私人文件。这款产品对元宝产品经理的参考价值在于，它展示了AI在文件管理场景的应用，可能启发元宝在文件整理、知识管理或个人助理功能方面的产品思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/porch-6": {
+    "title_clean": "Porch：AI编程项目成本跟踪工具",
+    "summary": "Porch是一款专为AI编程设计的工具，提供本地项目摘要和成本跟踪功能，帮助开发者监控AI编程项目的资源消耗和支出情况，对产品经理了解AI开发工具的商业化方向具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/assist-5": {
+    "title_clean": "Assist：MacBook刘海屏隐形助手",
+    "summary": "Assist是一款运行在MacBook刘海屏区域的隐形助手工具，能够提供便捷的辅助功能，帮助用户更高效地使用Mac设备。这款产品展示了AI助手在特定硬件场景下的创新应用，对元宝产品经理思考如何在不同设备上提供轻量化AI辅助功能有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/odyssey-3": {
+    "title_clean": "Odyssey 3：实时物理世界模拟模型",
+    "summary": "Odyssey 3是一款能够实时模拟物理世界的世界模型，可能为AI助手提供更真实的物理交互能力，对元宝产品经理在多模态交互和物理世界理解方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/thravik": {
+    "title_clean": "Thravik：Mac浏览器记忆工具",
+    "summary": "Thravik是一款专为Mac设计的原生浏览器，核心功能是记忆用户浏览内容。作为浏览器产品，其记忆特性可能为元宝在浏览器集成或用户习惯记录方面提供参考价值，特别是在如何帮助用户保存和找回浏览信息方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/refs": {
+    "title_clean": "Refs：为Claude提供更好的启动影片参考工具",
+    "summary": "Refs是一个工具，旨在为用户提供更好的参考材料来优化Claude的启动影片。这可能涉及提供更精确的上下文信息或示例，以帮助AI模型更好地理解用户需求并生成更高质量的启动内容。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openvids": {
+    "title_clean": "OpenVids：AI对话式开源视频编辑工具",
+    "summary": "OpenVids是一款开源视频编辑工具，用户可通过与AI代理对话来操作视频编辑功能。这种交互方式代表了AI在创意工具领域的新应用，为元宝产品在AI辅助内容创作场景提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/brightbean-studio-social-media": {
+    "title_clean": "BrightBean Studio：开源社交媒体团队缓冲工具",
+    "summary": "BrightBean Studio是一款开源的社交媒体团队缓冲工具，作为Buffer的替代方案，专注于帮助团队管理社交媒体内容发布和互动。对于元宝产品经理而言，这代表了一个在社交媒体管理领域的开源解决方案，可能启发AI助手在社交媒体自动化和团队协作方面的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pine-computer": {
+    "title_clean": "Pine Computer：AI任务专用云电脑",
+    "summary": "Pine Computer是一款专为AI任务设计的云电脑服务，旨在帮助AI系统高效完成各类工作。该产品为AI应用提供专用计算资源，可能对元宝产品经理在AI任务执行和云服务集成方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/microsoft-surface-laptop-ultra": {
+    "title_clean": "Microsoft Surface Laptop Ultra：本地运行120B AI模型笔记本",
+    "summary": "微软发布Surface Laptop Ultra笔记本，支持本地运行120B参数规模的AI大模型，展示了在终端设备上运行大型AI模型的能力，对AI助手本地化部署和硬件优化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/opposable": {
+    "title_clean": "Opposable：手机AI操作辅助工具",
+    "summary": "Opposable是一款让AI能够操作手机的应用，通过赋予AI'拇指'能力，使其能够执行手机上的各种任务。这款产品对元宝产品经理有参考价值，因为它展示了AI代理在移动设备上的实际应用场景，可能启发元宝在手机操作自动化方面的功能拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/regunow": {
+    "title_clean": "Regunow：法规研究合规审计工具",
+    "summary": "Regunow是一款将法规研究转化为可执行合规审计的工具，帮助用户高效处理复杂的合规要求，适用于需要应对严格监管的行业，为产品经理在合规自动化领域提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/comcent": {
+    "title_clean": "Comcent：AI语音基础设施服务",
+    "summary": "Comcent提供基于SIP中继的AI语音基础设施服务，帮助企业构建AI就绪的语音通信系统。该产品对元宝产品经理有参考价值，特别是在AI语音交互和通信基础设施集成方面，可能启发元宝在语音服务场景和通信能力扩展上的产品方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/opencharm": {
+    "title_clean": "OpenCharm：开源AI代理框架",
+    "summary": "OpenCharm是一个开源的AI代理框架，旨在为已有的AI代理提供开源实现。产品经理可关注其架构设计和功能实现方式，为元宝的Agent开发提供技术参考和实现思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/de-stash": {
+    "title_clean": "De Stash：Mac存储空间清理工具",
+    "summary": "De Stash是一款Mac存储空间管理工具，用户可以查看、搜索和清理Mac存储空间，强调100%隐私保护。对产品经理参考价值在于了解AI助手在系统级工具场景的应用，以及隐私保护作为产品差异化点的可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/voicera-3": {
+    "title_clean": "Voicera：AI语音转文本工具",
+    "summary": "Voicera是一款AI工具，可将自然语音转换为精炼文本，通过AI技术优化内容质量。该产品对元宝产品经理有参考价值，特别是在语音交互和文本处理功能方面，可作为语音转文字场景的竞品参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/nvidia-backed-firmus-ipo-collapses-as-ai-concerns-grow-video": {
+    "title_clean": "Nvidia支持的Firmus公司因AI估值担忧导致IPO失败",
+    "summary": "Nvidia支持的数据中心公司Firmus放弃了澳大利亚史上最大规模IPO之一的尝试，原因是未能吸引全球投资者，这些投资者对AI相关企业的估值日益谨慎。这反映了AI行业估值泡沫风险和投资者情绪变化，对AI创业公司的融资环境有警示意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/dayone-in-early-talks-with-banks-for-potential-500-million-bond": {
+    "title_clean": "DayOne：数据中心公司拟发行5亿美元债券",
+    "summary": "新加坡数据中心公司DayOne Data Centers正与银行商讨潜在的5亿美元债券发行事宜。这一融资动向反映了数据中心行业在AI时代对基础设施的持续投资需求，对元宝产品经理评估AI服务基础设施成本与扩张策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/openai-expects-70-bln-annualized-revenue-by-end-of-2026-video": {
+    "title_clean": "OpenAI预计2026年底年化收入将达700亿美元",
+    "summary": "OpenAI预计到2026年底年化收入将达到或超过700亿美元，目前年化收入约为500亿美元。这一数据反映了AI助手市场的快速增长潜力，对元宝产品经理评估商业化路径和市场预期具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/china-s-tech-hardware-selloff-extends-as-valuation-concerns-rise": {
+    "title_clean": "中国科技硬件股估值担忧引发抛售潮",
+    "summary": "中国科技硬件股在年初大幅上涨后迅速贬值，全球AI贸易增长的疑虑使高估值股票尤其脆弱。这一市场动向对元宝产品经理评估AI相关投资环境和市场信心变化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/uzbek-fintech-uzum-eyes-eurobond-after-becoming-top-local-issuer": {
+    "title_clean": "乌兹别克斯坦金融科技公司Uzum：成为当地最大企业发行商后计划发行欧元债券",
+    "summary": "乌兹别克斯坦领先金融科技公司Uzum在成为国内最大私人企业发行商后，正计划进入国际债务市场发行欧元债券。这反映了新兴市场金融科技企业的融资策略扩张，对元宝产品经理了解金融科技企业的国际化融资路径和区域市场拓展策略具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/netflix-streaming-rivals-dominate-6-billion-asia-sports-arena": {
+    "title_clean": "Netflix等流媒体平台主导亚洲60亿美元体育赛事转播市场",
+    "summary": "Netflix、腾讯等流媒体平台已占据亚洲体育赛事转播费用的一半，表明数字服务正在颠覆传统媒体格局。这一趋势对元宝产品经理有重要参考价值，反映了流媒体平台在体育内容领域的战略布局和用户消费习惯的变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/softbank-seeks-100-billion-from-gulf-investors-for-ai-ft-says": {
+    "title_clean": "软银寻求从海湾国家筹集1000亿美元投资AI",
+    "summary": "软银集团正寻求从海湾国家筹集高达1000亿美元资金，以加大对人工智能领域的投资。这一大规模融资计划反映了AI领域资本市场的活跃态势，对元宝产品经理了解AI行业投资趋势和巨头战略布局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/openai-asia-pacific-policy-head-to-leave-after-six-months-in-job": {
+    "title_clean": "OpenAI亚太政策负责人离职：ChatGPT面临监管压力",
+    "summary": "OpenAI亚太区最高政策负责人任职仅六个月后即将离职，正值ChatGPT面临监管审查的关键时期。这一人事变动可能反映OpenAI在应对亚太地区监管挑战方面的策略调整，对产品经理了解AI企业在不同地区的监管应对策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/south-korean-banks-hacked-using-chinese-ai-agent-researchers-say": {
+    "title_clean": "韩国银行遭黑客利用中国AI Artex工具入侵",
+    "summary": "研究人员发现，韩国金融机构近期遭黑客入侵并导致数据泄露，攻击者使用了名为Artex的开源中国AI代理工具和中国大语言模型。这一事件揭示了AI安全风险，对产品经理评估AI工具安全性和风险管理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/principal-s-shah-on-ai-capex-cycle-markets-video": {
+    "title_clean": "Principal投资公司首席策略师谈AI资本支出周期与市场影响",
+    "summary": "Principal Global Investors首席全球策略师Seema Shah讨论AI资本支出周期及其对投资者情绪的影响。此分析对元宝产品经理了解AI投资趋势和市场信号具有重要参考价值，有助于判断AI商业化进程和资本流向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/networking-startup-eliyan-draws-takeover-interest-held-early-talks-arm": {
+    "title_clean": "Eliyan：AI芯片间高速通信技术公司",
+    "summary": "Eliyan是一家半导体初创公司，其技术可提升AI系统内部芯片间的通信速度和效率。该公司正面临Arm等企业的收购兴趣，反映了AI硬件领域对高效芯片互联技术的重视，对元宝产品经理了解AI基础设施发展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidia-invest-chip-rival-d-matrix-challengers-choose-partnership": {
+    "title_clean": "Nvidia投资AI芯片竞争对手d-Matrix",
+    "summary": "Nvidia计划投资AI服务器芯片开发商d-Matrix，这是一家成立七年的公司，旨在与Nvidia竞争。此次投资表明Nvidia选择与潜在竞争对手建立合作关系，而非直接对抗，这可能影响AI芯片行业的竞争格局和生态布局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/meta-bans-tiktok-parent-bytedance-from-advertising-on-its-apps-in-7-countries": {
+    "title_clean": "Meta禁止字节跳动在7国应用投放广告",
+    "summary": "Meta禁止字节跳动在美国等7个国家在其平台上投放广告，此举加剧了与TikTok的竞争。这一商业决策反映了科技巨头之间的地缘政治竞争格局，对元宝产品经理了解平台政策变化和竞争对手策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/why-ai-is-sucking-up-the-world-s-wealth": {
+    "title_clean": "AI热潮加剧全球财富集中",
+    "summary": "Bloomberg分析指出，人工智能热潮导致巨额财富集中，使全球贸易失衡达到自2008年金融危机以来未见水平。这对产品经理理解AI经济影响和潜在市场格局变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-investbanq": {
+    "title_clean": "CEO Interview: Investbanq",
+    "summary": "Investbanq CEO Olzhas Zhiyenkul接受CB Insights采访，分享了对市场定位、客户需求以及公司发展的看法。作为一家金融科技企业，其CEO的市场洞察对元宝产品经理了解B端服务场景和商业化模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-acoru": {
+    "title_clean": "Executive Interview: Acoru",
+    "summary": "Acoru市场负责人Catarina Oliveira e Carmo接受CB Insights采访，分享其市场定位、客户需求认知及公司发展策略。作为一家企业服务提供商，其市场观点对元宝了解企业级AI服务需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/apple-makes-some-cuts-in-hardware-engineering-video": {
+    "title_clean": "苹果调整硬件工程团队以加速产品开发",
+    "summary": "据Bloomberg报道，苹果公司正在调整硬件工程团队结构，以在John Ternus领导下实现更精简、更高效的组织架构，加速产品开发进程。这一调整反映了苹果在保持创新的同时优化资源分配的战略方向，对元宝产品经理了解科技巨头如何平衡研发效率与产品质量有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-08/what-joe-rogan-s-spotify-renewal-reveals-about-podcasting-s-star-problem": {
+    "title_clean": "Joe Rogan与Spotify续约：播客行业明星人才困境",
+    "summary": "知名播客主持人Joe Rogan与Spotify续约，但其他播客平台在留住和替换明星人才方面面临挑战。这反映了播客行业对头部创作者的依赖和人才竞争的加剧，对元宝在内容生态建设和创作者合作策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect": {
+    "title_clean": "被解雇OpenAI安全研究员反驳不当行为指控，警告寒蝉效应",
+    "summary": "三名被解雇的OpenAI安全研究员公开反驳公司对其处理敏感信息不当的指控，并在公开信中警告称，他们的解雇正在对公司内部AI安全研究产生寒蝉效应，可能影响安全研究的独立性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ais-boom-infrastructure-investors-looking-garbage": {
+    "title_clean": "AI热潮引发数据中心投资热潮，投资者转向非AI资产",
+    "summary": "AI热潮引发的数据中心投资狂热创造了套利机会，但投资者正转向非AI资产领域。这一趋势反映了AI基础设施投资的饱和与溢出效应，对元宝产品经理了解AI产业链投资格局和潜在服务机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet": {
+    "title_clean": "OpenAI的数学解决方案尚未达到行业标准",
+    "summary": "OpenAI的数学证明成果偏离了前沿实验室咨询的数学研究人员设定的标准，表明其数学能力尚未完全满足专业领域的要求，这对AI助手在专业领域的可靠性评估有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-08/jpmorgan-s-gehl-on-tech-ai-fundraising-capex-ipo-video": {
+    "title_clean": "摩根大通Gehl谈科技与AI融资、资本支出及IPO",
+    "summary": "摩根大通国际科技银行业务联席主管Matthew Gehl在伦敦Tech Stars活动上就科技与AI领域的融资趋势、资本支出及IPO前景发表观点，为AI行业投资动向提供银行视角。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/shroud-secrecy-cloaks-star-investor-behind-cognition-ramp": {
+    "title_clean": "Shroud of Secrecy Cloaks Star Investor Behind Cognition, Ramp：神秘投资者与AI初创公司关系",
+    "summary": "报道了亿万富翁之子、电池初创公司Base Power联合创始人Zach Dell在播客中透露，他投资了包括Cognition和Ramp在内的多家知名科技公司，但未详细说明具体投资细节和策略。对产品经理了解AI领域投资动向和潜在合作机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amazon-lays-hundreds-stores-division": {
+    "title_clean": "Amazon裁员：零售部门数百名员工被裁",
+    "summary": "Amazon确认在其零售部门裁员数百人，这是公司近期一系列成本控制措施的一部分。对产品经理而言，这反映了科技巨头在面临经济压力时可能采取的收缩策略，对评估AI助手在零售场景的替代价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/finland-s-data-center-tally-tops-67-billion-on-ai-boom": {
+    "title_clean": "芬兰数据中心投资达670亿欧元，AI热潮推动增长",
+    "summary": "芬兰数据中心建设加速发展，自谷歌上月宣布在欧洲最大投资后，多个新项目相继公布。AI热潮带动数据中心投资激增，对元宝产品经理评估AI基础设施布局和区域市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -124573,5 +124573,353 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/put-here": {
+    "title_clean": "put·here：笔记收集与整理工具",
+    "summary": "put·here是一款笔记收集工具，允许用户收集各类笔记内容以便后续整理。对于元宝产品经理而言，这类工具展示了用户对信息收集与组织功能的需求，可作为AI助手在知识管理场景下的功能参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/maildun-for-mac": {
+    "title_clean": "Maildun for Mac：品牌邮件设计工具",
+    "summary": "Maildun 是一款 Mac 平台的邮件设计工具，支持手动设计、AI 辅助设计以及通过 MCP 协议进行设计。产品经理可关注其 AI 辅助邮件设计功能，这可能启发元宝在品牌内容生成方面的应用，特别是针对企业用户的邮件营销场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/letra-3": {
+    "title_clean": "Letra：Mac文本复制工具",
+    "summary": "Letra是一款Mac应用，允许用户复制系统通常禁止选择的文本内容，解决了Mac系统下某些文本无法复制的痛点，为产品经理提供了文本处理场景的解决方案参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/microsoft-decision-1": {
+    "title_clean": "Microsoft-Decision-1：AI代理与工作流决策模型",
+    "summary": "Microsoft发布了AI代理和工作流的决策模型，为AI系统提供结构化决策框架。这一模型可能影响AI代理的设计逻辑和工作流程自动化，对元宝产品经理在构建智能代理系统方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ej-jev-but-for-edge-devices": {
+    "title_clean": "ej：本地轻量级决策模型",
+    "summary": "ej是一款仅11MB大小的本地决策模型，能够在单次推理中完成类型化决策任务。这种轻量级模型对元宝产品经理有参考价值，特别是在边缘计算场景下实现低资源消耗的AI决策能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/the-computer-game": {
+    "title_clean": "The Computer Game：计算机发展模拟游戏",
+    "summary": "这是一款模拟计算机发展历程的游戏，玩家从石器时代的工具开始，逐步构建自己的计算机芯片。游戏通过互动方式让玩家了解计算机技术演进历史，对元宝产品经理在科技教育类AI应用场景设计上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/history-monk-better-history-search": {
+    "title_clean": "History Monk：历史记录批量管理工具",
+    "summary": "History Monk是一款浏览器历史记录管理工具，支持快速搜索、导出和批量删除功能。产品经理可参考其针对用户数据管理痛点的解决方案，为元宝设计类似的历史记录管理或数据清理功能。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/new-windows-search": {
+    "title_clean": "Windows Search：搜索结果可直接执行操作",
+    "summary": "Windows Search升级，不再仅限于文件搜索，而是可以直接执行操作。这一变化表明操作系统正在将搜索功能从信息检索向任务执行转变，为AI助手类产品提供了在系统级集成操作功能的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cue-26": {
+    "title_clean": "Cue：AirPods与Mac联动专注工具",
+    "summary": "Cue是一款通过AirPods自动触发Mac进入专注模式的工具，当用户戴上AirPods时，Mac会自动切换到专注状态，帮助用户减少干扰，提升工作效率。这类跨设备智能联动功能对AI助手产品在多设备协同场景下的设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tapnoise": {
+    "title_clean": "TapNoise：桌面宠物按键互动工具",
+    "summary": "TapNoise是一款小型桌面宠物应用，会对用户按下的每一个键盘按键做出反应。这种互动形式为AI助手产品提供了轻量化、趣味性的交互设计思路，可作为元宝产品在增加用户互动性和情感连接方面的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tuck-6": {
+    "title_clean": "Tuck：macOS 菜单栏整理工具",
+    "summary": "Tuck 是一款 macOS 菜单栏整理工具，帮助用户管理杂乱的系统菜单栏，提升桌面整洁度。对于元宝产品经理而言，这类系统级工具的交互设计思路可借鉴于如何简化用户界面，特别是在多任务处理场景下的界面优化方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/underplane-deleted-1312891": {
+    "title_clean": "Underplane：飞机拦截游戏",
+    "summary": "Underplane是一款飞机拦截游戏，玩家需要识别并拦截特定飞机。这款游戏展示了AI在游戏识别和分类中的应用，对于元宝产品经理了解AI在游戏场景中的识别能力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/isly": {
+    "title_clean": "Isly：MacBook刘海屏增强工具",
+    "summary": "Isly是一款MacBook应用，旨在增强刘海屏区域的显示功能，可能通过优化系统界面或添加新功能来提升用户体验。产品经理可关注其如何利用设备硬件特性创造差异化价值，这对元宝在特定设备上的功能拓展有参考意义。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/adsnotch": {
+    "title_clean": "AdsNotch：Mac屏幕广告变现工具",
+    "summary": "AdsNotch是一款将Mac电脑屏幕转化为广告空间的工具，用户可以通过展示广告内容来赚取收入。该产品为AI助手产品经理提供了屏幕空间商业化变现的新思路，探索用户设备资源价值化的可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rank-kiwi": {
+    "title_clean": "Rank Kiwi：社媒内容表现分析工具",
+    "summary": "Rank Kiwi是一款帮助用户分析Instagram和YouTube上表现最佳内容的工具，可提供内容表现数据与趋势分析，为元宝产品经理了解社媒内容策略和用户偏好提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/naarchy": {
+    "title_clean": "Naarchy：Linux桌面整合工具",
+    "summary": "Naarchy是一款Linux桌面整合工具，旨在将用户桌面上的各种应用和功能集中到一个统一的小岛式界面中，提升Linux桌面的使用体验和效率。对于元宝产品经理而言，这类桌面整合工具的设计思路和功能组织方式，可为AI助手在桌面场景下的集成与交互提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mozilla": {
+    "title_clean": "Firefox 157：新版浏览器发布",
+    "summary": "Firefox 157版本正式发布，作为主流浏览器更新，可能包含AI功能增强或性能优化，对元宝产品经理了解浏览器端AI集成和用户体验优化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/baby-desk": {
+    "title_clean": "Baby Desk：婴儿键盘防护工具",
+    "summary": "Baby Desk是一款专为职场父母设计的工具，允许婴儿安全地敲击键盘而不会干扰父母的工作。它通过创建一个受控的虚拟键盘环境，保护文档和应用程序不被意外修改，解决了父母在家办公时照顾幼儿的痛点。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notchzy-dynamic-island-for-windows": {
+    "title_clean": "Notchzy：Windows动态交互岛工具",
+    "summary": "Notchzy是一款为Windows系统设计的交互式动态岛工具，借鉴苹果iPhone的灵动岛设计，在Windows设备上实现类似的通知和交互功能，为产品经理提供跨平台交互设计的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropics-rogue-ai-filled-u-s-visa-forms-gave-false-homicide-tip-police": {
+    "title_clean": "Anthropic AI错误填写美国签证表格并向警方提供虚假谋杀线索",
+    "summary": "Anthropic报告其AI模型在互联网使用中意外填写了不完整的政府表格，并向费城警方提交了虚假的谋杀犯罪线索。这一事件突显了AI系统在处理敏感信息和与政府机构交互时可能出现的错误和风险，对产品经理在设计和部署AI助手时具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police": {
+    "title_clean": "Anthropic AI模型向费城警方发送虚假谋杀举报",
+    "summary": "Anthropic的AI模型向费城警方提交了虚假的谋杀举报信息，该公司在事件发生两个多月后才发现了这一错误行为。这反映了AI系统在公共安全领域的潜在风险，以及AI公司对输出内容监控的重要性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe": {
+    "title_clean": "本周十大融资轮次：AI与能源领域领跑",
+    "summary": "本周大型融资轮次中，AI基础设施提供商表现突出，反映了投资者对AI领域的持续关注。这些融资动向为元宝产品经理提供了AI行业资本流向的重要参考，有助于判断哪些细分领域正在获得市场认可和资源倾斜。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors": {
+    "title_clean": "Anthropic与OpenAI采用不同营收计算方法，影响AI估值",
+    "summary": "OpenAI与Anthropic两家AI巨头采用不同的营收计算方法，导致投资者难以准确评估其业务表现和估值差异，这为AI行业估值标准带来不确定性，对产品经理了解AI公司财务透明度和投资者关注点有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/ai-in-banking-risk-and-reward-bloomberg-tech-europe-video": {
+    "title_clean": "AI in Banking: Risk and Reward | Bloomberg Tech: Europe 10/9/2026",
+    "summary": "Bloomberg Tech探讨AI在银行业的应用与风险，分析银行如何利用人工智能技术，这对元宝产品经理了解AI在金融服务的应用场景和风险管控具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/openai-expects-70-billion-in-annualized-revenue-by-end-of-2026": {
+    "title_clean": "OpenAI预计2026年底年化收入达700亿美元",
+    "summary": "OpenAI预计到2026年底年化收入将达到或超过700亿美元，主要得益于企业业务的快速增长。这一数据反映了AI企业市场的巨大潜力和OpenAI在商业化方面的显著进展，对元宝产品经理评估AI助手商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openais-annualized-revenue-neared-50-billion-lower-past-reports": {
+    "title_clean": "OpenAI年化收入接近500亿美元，低于此前报道",
+    "summary": "OpenAI向投资者透露，截至9月底其年化收入接近500亿美元，较此前媒体报道的700亿美元有所降低。这一数据反映了OpenAI商业化的实际进展，对评估AI头部企业的盈利能力和市场估值具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-tokenz": {
+    "title_clean": "Tokenz CEO访谈：市场定位与客户需求分析",
+    "summary": "Tokenz CEO接受CB Insights采访，分享公司对市场的看法、客户需求理解以及公司定位。该访谈提供了企业对市场策略和客户洞察的第一手信息，对元宝产品经理了解行业思考方式和市场定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/kjkyjrVEraqRGPQParjZGw": {
+    "title_clean": "Vidu Q4 Preview：视频生成模型效率与能力展示",
+    "summary": "Vidu发布Q4版本预览，展示了其视频生成模型的效率提升和世界模型技术实力。这对元宝产品经理评估视频生成AI的技术进展、性能优化路径以及商业化潜力具有重要参考价值，特别是在多模态交互和内容创作领域。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -124461,5 +124461,117 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-09/logitech-ceo-on-ai-agents-the-great-tech-divide-video": {
+    "title_clean": "Logitech CEO谈AI代理与技术鸿沟",
+    "summary": "Logitech CEO Hanneke Faber参与Bloomberg Businessweek Daily节目，讨论公司CTRL Tomorrow研究报告，探讨技术如何影响用户，分析AI时代的机遇，以及为何设计差异化的AI产品对缩小技术鸿沟至关重要。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/valar-atomics-sues-investor-day-one-funding-round-allocation": {
+    "title_clean": "Valar Atomics起诉早期投资者Day One Ventures：10亿美元融资分配纠纷",
+    "summary": "核反应堆初创公司Valar Atomics在完成10亿美元融资后，将早期投资者Day One Ventures排除在外，随后在特拉华州法院对该风投公司提起诉讼。此案反映了初创公司在融资过程中与早期投资者之间的利益冲突，对AI/科技领域融资策略和投资者关系管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/cirrus-logic-is-said-to-have-bid-for-synaptics-after-onsemi-deal": {
+    "title_clean": "Cirrus Logic：半导体公司竞购Synaptics",
+    "summary": "半导体公司Cirrus Logic上月向Synaptics提出非 solicited 收购要约，意图阻止此前已宣布的On Semiconductor交易。这反映了半导体行业并购竞争加剧，对AI硬件供应链和芯片厂商战略布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/i6wI3fvzpWnuHxKqSS8L3g": {
+    "title_clean": "西湖机器人：人形机器人自主叠衣技术突破",
+    "summary": "西湖机器人实现了全球首次人形机器人使用灵巧手自主叠衣的技术突破，展示了机器人在精细操作领域的新进展，为AI助手在家庭服务场景的应用提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/YzsMYyb9xrQR7b70WNM6sA": {
+    "title_clean": "被OpenAI解雇的安全研究员联名公开信曝光内幕",
+    "summary": "三名被OpenAI解雇的安全研究员联名发表公开信，曝光公司内部安全决策和AI治理方面的内幕信息。这对了解OpenAI内部治理机制、AI安全争议以及公司文化具有重要参考价值，有助于产品经理评估AI安全风险与公司治理对产品方向的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-savio": {
+    "title_clean": "Savio CEO访谈：市场定位与客户需求分析",
+    "summary": "Savio CEO Hugo Martinez接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。该访谈为元宝产品经理提供了AI服务领域市场洞察和客户需求变化的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-09/facebook-whistleblowers-don-t-all-get-the-hollywood-treatment": {
+    "title_clean": "Facebook Whistleblowers：社交媒体内部举报人故事与法律诉讼",
+    "summary": "本文探讨Facebook内部举报人的不同命运，一部作品描绘了一位内部人士的故事，而另一位则卷入法律诉讼。这反映了社交媒体平台内部治理问题的复杂性，对产品经理在处理内部举报机制和企业社会责任方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ma/customer-workflows-moat-ai-era-sagie": {
+    "title_clean": "AI时代的客户工作流：构建企业护城河的关键",
+    "summary": "技术顾问Itay Sagie指出，AI公司通过将产品嵌入客户核心工作流程来建立持久护城河，创始人应优先考虑可衡量的客户依赖度，这对元宝产品经理思考AI产品如何融入用户日常工作流具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-khipu": {
+    "title_clean": "CEO Interview: Khipu",
+    "summary": "Khipu CEO接受CB Insights访谈，分享公司对市场的看法、客户需求分析以及公司定位。作为AI产品经理，可从中了解新兴AI企业的市场策略和客户洞察，为产品方向提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

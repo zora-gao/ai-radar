@@ -125401,5 +125401,287 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/farol-3": {
+    "title_clean": "Farol：AI 编程助手终端工具",
+    "summary": "Farol 是一款 macOS 终端工具，能够智能显示当前最适合使用的 AI 编程助手，帮助开发者选择最合适的 AI 工具辅助编程工作，提升开发效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/focuswrite": {
+    "title_clean": "FocusWrite：本地专注写作工具",
+    "summary": "FocusWrite是一款本地优先的写作应用，提供专注模式功能，帮助用户在无干扰环境下进行写作创作。对于元宝产品经理而言，这反映了用户对专注写作工具的需求，可作为AI助手在内容创作场景下的功能参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips": {
+    "title_clean": "EdgeVolume：Mac触控板边缘音量控制工具",
+    "summary": "EdgeVolume是一款Mac应用，允许用户通过触控板边缘控制音量，提供便捷的音频调节方式。此工具展示了如何通过创新的交互方式提升用户体验，对元宝在多模态交互和设备控制场景方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/simplespread": {
+    "title_clean": "SimpleSpread：开源Mac电子表格工具",
+    "summary": "SimpleSpread是一款原生的开源Mac电子表格应用，专注于提供简洁高效的表格处理功能。作为Mac平台上的电子表格工具，它可能为元宝产品经理在桌面端办公场景或数据处理功能方面提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/floorgen": {
+    "title_clean": "FloorGen：AI房屋平面图生成工具",
+    "summary": "FloorGen是一款AI工具，用户可以通过绘制或直接提问的方式免费生成房屋平面图。该工具为建筑设计和室内规划提供了便捷的AI辅助方案，对元宝在空间设计场景拓展和AI绘图功能开发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notchpit": {
+    "title_clean": "NotchPit：Mac刘海屏控制中心工具",
+    "summary": "NotchPit是一款Mac应用，将Mac的刘海屏区域重新排列为控制中心，提供便捷的系统控制功能。这款产品展示了如何利用Mac硬件特性创造新的交互方式，对元宝产品经理思考设备特定功能设计有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agibot": {
+    "title_clean": "Agibot：Mac个人AI助手工具",
+    "summary": "Agibot是一款专为Mac设计的个人AI助手，允许用户使用自己的密钥运行，强调隐私保护和本地化处理能力。这款产品展示了AI助手在个人设备上的应用趋势，为元宝产品经理提供了在隐私保护和本地化AI服务方面的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kooler-2": {
+    "title_clean": "Kooler：鸡尾酒配方推荐工具",
+    "summary": "Kooler是一款基于用户现有酒柜内容推荐鸡尾酒配方的工具，帮助用户利用已有材料制作鸡尾酒，解决鸡尾酒制作中材料不匹配的问题，为AI助手在生活服务场景下的应用提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/newminecraftservers": {
+    "title_clean": "NewMinecraftServers：Minecraft服务器发现与分析工具",
+    "summary": "NewMinecraftServers提供Minecraft服务器发现、数据分析及欺骗检测功能，帮助玩家找到优质服务器并维护社区环境。对元宝产品经理的参考价值在于了解游戏社区服务场景下的服务器管理需求，以及如何通过数据分析提升用户体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/karmaboard": {
+    "title_clean": "KarmaBoard：复古翻页式电视信息展示板",
+    "summary": "KarmaBoard是一款复古风格的翻页式信息展示板，专为电视屏幕设计，可显示各种消息和通知。这款产品为电视信息展示提供了复古风格的解决方案，可能启发元宝在多设备展示和交互场景上的创新思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/devterminal": {
+    "title_clean": "DevTerminal：macOS终端运行工具",
+    "summary": "DevTerminal是一款macOS终端工具，带有运行按钮功能，能够智能识别并理解项目结构。对于元宝产品经理而言，这展示了AI在开发工具场景中的应用价值，可能启发AI助手在代码执行、项目管理方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tori-japanese-listening-srs": {
+    "title_clean": "Tori：日语听力练习工具",
+    "summary": "Tori是一款基于用户自定义句子构建的日语听力练习工具，帮助用户通过自己创建的句子进行日语听力训练，为语言学习类AI应用提供了个性化学习场景的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ghost-core": {
+    "title_clean": "Ghost Core：本地运行的个人AI电脑",
+    "summary": "Ghost Core是一款完全在设备上运行的个人AI电脑，强调隐私保护和本地计算能力，无需云端支持即可运行AI功能。这类产品反映了AI向本地化、隐私保护方向发展的趋势，对元宝产品经理思考边缘计算和隐私保护AI方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/foley": {
+    "title_clean": "Foley：语音待办事项清单工具",
+    "summary": "Foley是一款语音待办事项清单工具，能够自动分类、规划任务并主动询问用户需求。这款产品通过语音交互简化任务管理流程，为AI助手类产品提供了语音交互与任务自动处理的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kodlo": {
+    "title_clean": "kōdlo：端到端销售工作空间工具",
+    "summary": "kōdlo是一个端到端销售工作空间工具，提供统一上下文管理，帮助销售团队整合客户信息和沟通记录，提升销售效率。对于元宝产品经理，该产品展示了AI在销售场景中的应用价值，可作为服务场景拓展的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-11/apple-supplier-luxshare-expects-no-material-impact-from-us-probe": {
+    "title_clean": "苹果供应商立讯精密：美国调查不会造成重大影响",
+    "summary": "苹果供应商立讯精密正面临美国公司Vicor对其数据中心电源技术的专利调查，但立讯精密表示此次调查不会对其业务造成重大影响。这一信息对产品经理了解苹果供应链的稳定性及潜在风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/di2nc8OyW0J_yKkdLcT9_g": {
+    "title_clean": "田渊栋：与GPT-5合写论文后预测5年内AI将取代人类研究工作",
+    "summary": "前百度AI科学家田渊栋分享与GPT-5合作完成论文的经历，并预测未来5年内AI将取代人类研究工作。这一观点反映了顶尖AI研究者对技术发展速度的担忧，对元宝产品经理评估AI能力边界和人类与AI协作模式具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/poke-finder-catch-em-on-the-web": {
+    "title_clean": "Poke Finder：浏览器宝可梦捕捉工具",
+    "summary": "Poke Finder是一款浏览器插件，用户在浏览网页时可以捕捉宝可梦并完成图鉴收集。这款产品将游戏化元素融入日常浏览体验，为产品经理提供了将游戏化机制融入AI助手交互的参考思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/NTpgVBaF-zm_X9iPF7zp2w": {
+    "title_clean": "ROMA：机器人交互探索物体工具",
+    "summary": "ROMA是一种让机器人能够主动理解物理世界并学会交互探索物体的技术。这项技术使机器人能够通过自主探索来理解物体特性，为AI助手在物理世界中的应用提供了新思路，对元宝产品经理在AI多模态交互和物理世界理解方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-10/bloomberg-this-weekend-10-10-2026-video": {
+    "title_clean": "Bloomberg This Weekend：周末新闻播客节目",
+    "summary": "Bloomberg This Weekend是一档周末新闻播客节目，由David Gura、Christina Ruffini和Lisa Mateo主持，从纽约现场直播，为听众提供周末重大新闻的清晰解读、背景分析和幽默评论。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-10/turkey-bans-social-media-accounts-for-children-under-15": {
+    "title_clean": "土耳其禁止15岁以下儿童使用社交媒体",
+    "summary": "土耳其发布法规，禁止社交媒体平台向15岁以下儿童提供服务。这一政策反映了全球对未成年人网络保护的加强趋势，对元宝产品经理在儿童AI服务设计和合规方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake": {
+    "title_clean": "微软CEO称AI模型需要'紧急制动'",
+    "summary": "微软CEO萨提亚·纳德拉在周六早间发文表示，现在是时候\"退后一步并评估AI的信任架构\"，强调了AI安全与监管的重要性，这对AI产品经理思考安全机制与伦理框架具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/tax-breaks-partly-fuel-data-center-boom-democratic-report-says": {
+    "title_clean": "税收减免助推数据中心建设增长，民主党报告指出",
+    "summary": "民主党参议院报告指出，各州和地方政府对数据中心建设提供的慷慨税收减免正导致数十亿美元税收流失。这一信息对元宝产品经理评估AI基础设施成本和潜在合作机会有参考价值，特别是当元宝需要依赖云服务或考虑自建数据中心时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

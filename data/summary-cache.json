@@ -125376,5 +125376,30 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/gitglow-2": {
+    "title_clean": "GitGlow：代码与AI代理变更审查工具",
+    "summary": "GitGlow是一款代码审查工具，帮助开发者在发布前检查自己的代码和AI代理的变更，确保代码质量和安全性，为AI辅助开发场景提供质量控制支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ox9VeUaJFH2rmv83mwGNeA": {
+    "title_clean": "OpenAI搅乱数学界：科研项目受冲击，数学家面临挑战",
+    "summary": "OpenAI的技术发展对数学研究领域造成显著影响，导致部分科研项目中断，数学家面临职业困境。这一现象反映了AI技术对传统学术领域的深远影响，对元宝产品经理了解AI技术对专业领域的潜在冲击和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

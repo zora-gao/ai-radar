@@ -125898,5 +125898,42 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.theinformation.com/articles/amazons-bargains-include-stock": {
+    "title_clean": "亚马逊股价纳入促销商品",
+    "summary": "亚马逊将自家股票纳入促销商品，暗示投资者对半导体和蓝筹股的热情可能降温。这一举措可能反映亚马逊对自身股价的信心，同时也可能影响投资者对科技股的整体预期，对产品经理了解企业市场策略有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/GYMyaWua633Ruq3LzTQHyg": {
+    "title_clean": "中科大团队：倒推世界模型机器人",
+    "summary": "中科大团队研发出具有倒推能力的世界模型并集成到机器人中，该团队成立仅三个月即取得重要进展。这一技术突破可能为AI机器人的环境理解和自主决策能力带来新思路，对元宝在智能助手和AI Agent领域的产品研发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/9Nnfu0rvcFLzJ7bYpXHOsA": {
+    "title_clean": "ChatGPT共同创造者LiamFedus：AI应从数学转向实验室应用",
+    "summary": "ChatGPT共同创造者Liam Fedus提出AI发展方向应从纯数学研究转向实验室应用，暗示AI技术需要更多实际场景验证和落地，这对元宝产品经理思考AI技术商业化路径和产品方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -126134,5 +126134,259 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/dropstone-cli": {
+    "title_clean": "Dropstone CLI：终端自学习编程助手",
+    "summary": "Dropstone CLI是一款终端环境下的自学习编程助手，能够理解用户在终端中的操作并自动学习编程模式，帮助开发者提高命令行操作效率，为AI助手在开发场景中的应用提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/embeddinggemma-2": {
+    "title_clean": "Google EmbeddingGemma 2：开源轻量多模态嵌入模型",
+    "summary": "Google发布EmbeddingGemma 2，这是一个开源、轻量级的多模态嵌入模型，能够处理文本和图像数据。该模型对AI助手和Agent产品开发具有重要参考价值，特别是在多模态理解和处理能力方面，可能为元宝产品在多模态交互和语义理解方面提供技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/following-the-money-across-ai-s-infrastructure-boom-video": {
+    "title_clean": "OpenAI与AnthropicIPO可能揭示AI经济模式",
+    "summary": "VistaShares投资经理David Fetherstonhaugh指出，投资者正寻求大规模AI投入能否产生回报的证据。文章探讨了OpenAI和Anthropic等AI独角兽公司可能的IPO如何揭示AI商业模式的可持续性，这对元宝产品经理评估AI商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-12/bumble-in-talks-to-be-taken-private-in-1-billion-deal-wsj-says": {
+    "title_clean": "Bumble：婚恋应用公司拟10亿美元私有化交易",
+    "summary": "婚恋应用公司Bumble正进行私有化谈判，交易估值约10亿美元。这一动向对产品经理有参考价值，表明婚恋应用领域可能面临资本重组，影响市场竞争格局和产品发展方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic": {
+    "title_clean": "Meta发布新AI模型挑战OpenAI和Anthropic",
+    "summary": "Meta推出两款新AI模型Muse Wonder和Muse Wonder Full，旨在加强其在AI竞争中的地位。这对元宝产品经理有参考价值，可作为竞品动态分析，了解Meta在AI模型领域的最新布局和竞争策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/why-gold-is-stuck-right-now-video": {
+    "title_clean": "黄金市场当前停滞原因分析",
+    "summary": "美联储维持鹰派立场及实际收益率上升导致黄金涨势停滞，这一传统避险资产正面临市场波动性下降的挑战。分析指出黄金市场当前面临的关键压力因素，对理解宏观经济环境与资产表现有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/banks-poised-to-surprise-wall-street-analyst-video": {
+    "title_clean": "银行有望超越华尔街预期：分析师",
+    "summary": "Baird高级研究分析师David George在Bloomberg节目中解释了为何看涨即将公布的银行财报，尽管市场处于避险状态。他指出AI驱动的资本市场可能带来的积极影响，这对元宝产品经理了解AI在金融领域的应用场景和商业化机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-12/meta-says-new-muse-model-reaches-ai-frontier-after-14-month-push": {
+    "title_clean": "Meta发布Muse模型：称其已达到AI前沿水平",
+    "summary": "Meta推出Muse Wonder模型，这是其重建的超智能团队的关键测试。该模型代表了Meta在AI前沿领域的最新进展，将与其现有AI产品形成竞争关系，对AI助手和AI Agent领域的产品经理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/ai-markups-distort-s-p-earnings-power-says-mcdonald-video": {
+    "title_clean": "AI标记扭曲标普500真实盈利能力",
+    "summary": "Larry McDonald指出AI标记正在扭曲标普500指数的真实盈利能力，市场关注即将到来的财报季和通胀数据对美联储政策的影响。这对AI在金融数据分析中的应用及市场评估准确性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openais-plan-revive-sora": {
+    "title_clean": "OpenAI 计划重启视频生成模型 Sora",
+    "summary": "OpenAI 计划重新推出其视频生成模型 Sora 及其支持的类 TikTok 应用。此前，作为 ChatGPT 开发商的 OpenAI 在今年早些时候因业务调整取消了该模型和应用。这一重启计划表明 OpenAI 仍在探索 AI 视频生成领域，对产品经理了解 AI 多模态能力发展路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/ionq-s-biggest-move-yet-a-1-3b-security-acquisition-video": {
+    "title_clean": "IonQ：量子计算公司13亿美元收购网络安全公司",
+    "summary": "量子计算领军企业IonQ宣布以高达13亿美元收购网络安全公司Elisity，这是公司迄今为止最大规模的收购行动。此次收购将加强IonQ在量子安全领域的布局，为量子计算与网络安全融合提供新方向，对产品经理评估量子计算商业化路径具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-teal": {
+    "title_clean": "Executive Interview: Teal",
+    "summary": "Teal首席产品官兼联合创始人André Saavedra Pinto接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。这对元宝产品经理了解AI招聘工具的市场定位和客户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings": {
+    "title_clean": "TechCrunch Disrupt 2026：科技行业年度大会明日开幕",
+    "summary": "TechCrunch Disrupt 2026大会将于明日8时PT在旧金山莫斯康中心开幕，为期三天，预计吸引1万多名创始人、投资者和技术从业者参与。作为科技行业重要活动，对元宝产品经理了解行业趋势、潜在合作伙伴和竞品动态有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella": {
+    "title_clean": "微软新任Office负责人修复Copilot并赢得纳德拉认可",
+    "summary": "2025年夏季，微软AI助手Copilot因Excel和PowerPoint自动化功能存在缺陷而面临客户投诉。新任Office负责人Charles Lamanna采取措施修复了这些问题，成功赢得了CEO萨提亚·纳德拉的认可，展示了微软在AI办公助手领域的改进方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background": {
+    "title_clean": "前Plaud高管融资2600万美元开发后台监听AI应用",
+    "summary": "前Plaud高管获得2600万美元融资，开发一款能在后台持续监听用户并提供任务协助和建议的AI应用。该产品基于AI通过了解用户更多信息来提升服务质量的核心理念，对AI助手产品经理关注用户隐私与个性化服务平衡有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/bains-bridge-data-centres-seeks-upsized-loan-6-6-billion": {
+    "title_clean": "Bridge Data Centres：寻求扩大6.6亿美元贷款",
+    "summary": "贝恩资本旗下的Bridge Data Centers正与银行洽谈，将其在马来西亚业务的贷款规模从2.8亿美元增加到约6.6亿美元。这一融资扩张反映了数据中心基础设施在AI时代的重要性，对元宝产品经理评估AI基础设施投资和云服务合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/iif-ceo-on-rising-global-debt-video": {
+    "title_clean": "IIF CEO：全球债务持续上升",
+    "summary": "国际金融研究所(IIF)首席执行官蒂姆·亚当斯表示，随着各国政府持续大量借款以及私营部门加大对AI基础设施的投资，发达经济体的债务水平将继续上升。这对AI行业投资环境与融资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-12/firmus-fiasco-wipes-out-700-million-of-early-backer-maas-value": {
+    "title_clean": "Firmus Fiasco：早期投资者Maas价值蒸发7亿美元",
+    "summary": "Maas Group Holdings因Firmus Grid有限公司首次公开募股失败，市值蒸发超过10亿美元（6.99亿美元），股票连续五日下跌。这一事件对AI产品经理具有参考价值，提示投资风险和市场波动对AI相关企业估值的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-12/tiktok-s-chew-and-microsoft-s-althoff-warn-about-runaway-ai-hype": {
+    "title_clean": "TikTok与微软高管警告AI过度炒作",
+    "summary": "TikTok首席信息安全官和微软高管警告全球对AI潜力过度兴奋，忽视了AI技术的不成熟性，认为网络安全是比AI更紧迫的近期问题。这对产品经理提醒在AI产品开发中需平衡创新与风险，避免盲目跟风炒作。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-12/dongshan-said-to-gauge-demand-for-up-to-3-billion-hk-listing": {
+    "title_clean": "东山精密：拟在香港进行高达30亿美元的IPO",
+    "summary": "苏州东山精密制造公司正在评估投资者对香港上市的兴趣，此次IPO可能筹集20亿至30亿美元。作为PCB制造商，这一大规模融资动向可能反映电子制造行业资本需求变化，对元宝产品经理了解硬件供应链企业融资策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/dbs-ceo-market-repricing-risks-on-ai-financing-video": {
+    "title_clean": "DBS CEO：AI融资市场风险重估",
+    "summary": "DBS集团CEO谭顺山表示，市场正在对人工智能相关投资的风险进行重新评估，这可能导致融资更加谨慎。这一观点反映了金融界对AI投资过热的担忧，对元宝产品经理了解AI商业化进程中的融资环境变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

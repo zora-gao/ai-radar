@@ -1,8 +1,85 @@
 {
-  "generated_at": "2026-10-13T08:57:51.154Z",
+  "generated_at": "2026-10-13T17:20:14.719Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "google/gemini-4-argon",
+      "name": "Gemini 4 Argon",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-4-argon-20261013",
+      "created_at": "2026-10-13T16:04:37Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "audio",
+        "file",
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 4 Argon is Google's flagship reasoning model, built for complex software engineering, deep mathematical and scientific problem solving, and autonomous multi-step agents. Google trained it to keep context across...",
+      "description_zh": "Gemini 4 Argon 是 Google 的旗舰推理模型，专为复杂的软件工程、深入的数学和科学问题解决以及自主多步骤代理而构建。谷歌训练它保持上下文......"
+    },
+    {
+      "id": "scaledown/summarize",
+      "name": "Summarize",
+      "vendor": "Scaledown",
+      "vendor_slug": "scaledown",
+      "url": "https://openrouter.ai/scaledown/summarize-20260928",
+      "created_at": "2026-10-13T12:09:20Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.04,
+      "price_out": 0,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": false,
+      "description": "Summarize is an abstractive summarization model from ScaleDown. It condenses long text and documents into a fluent, faithful rewrite rather than lifting sentences from the source, and is suited for...",
+      "description_zh": "Summarize 是来自 ScaleDown 的抽象摘要模型。它将长文本和文档压缩为流畅、忠实的重写，而不是从源中提取句子，并且适合..."
+    },
+    {
+      "id": "scaledown/extract",
+      "name": "Extract",
+      "vendor": "Scaledown",
+      "vendor_slug": "scaledown",
+      "url": "https://openrouter.ai/scaledown/extract-20260928",
+      "created_at": "2026-10-13T12:09:11Z",
+      "context_length": 1000000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "file"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.04,
+      "price_out": 0,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": false,
+      "description": "Extract is a description-driven entity extraction model from ScaleDown. Instead of a fixed set of entity types, callers describe the fields they want in plain English through provider.options.scaledown.entities , and the...",
+      "description_zh": "Extract是来自ScaleDown的描述驱动的实体提取模型。调用者不是通过一组固定的实体类型，而是通过provider.options.scaledown.entities以简单的英语描述他们想要的字段，并且..."
+    },
     {
       "id": "meta/muse-wonder",
       "name": "Muse Wonder",
@@ -1082,8 +1159,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.25,
-      "price_out": 5,
+      "price_in": 0.249,
+      "price_out": 0.748,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1405,79 +1482,6 @@
       "supports_reasoning": true,
       "description": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. Instead of generating tokens sequentially, Mercury 2.5 produces and refines multiple tokens in parallel, achieving...",
       "description_zh": "Mercury 2.5 是最快的推理法学硕士，也是 Inception 最新的扩散法学硕士 (dLLM)。 Mercury 2.5 不是按顺序生成代币，而是并行生成和提炼多个代币，从而实现..."
-    },
-    {
-      "id": "nex-agi/nex-n2.5-mini",
-      "name": "Nex-N2.5-Mini",
-      "vendor": "Nex Agi",
-      "vendor_slug": "nex-agi",
-      "url": "https://openrouter.ai/nex-agi/nex-n2.5-mini-20260908",
-      "created_at": "2026-09-08T17:54:21Z",
-      "context_length": 262144,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.025,
-      "price_out": 0.1,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": true,
-      "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
-      "description_zh": "Nex-N2.5 是一种代理模型，旨在将目标转化为可行的、经过验证的结果。它的核心优势是视觉反馈循环内的代理编码：它可以探索代码库，实现多文件......"
-    },
-    {
-      "id": "nex-agi/nex-n2.5-pro",
-      "name": "Nex-N2.5-Pro",
-      "vendor": "Nex Agi",
-      "vendor_slug": "nex-agi",
-      "url": "https://openrouter.ai/nex-agi/nex-n2.5-pro-20260907",
-      "created_at": "2026-09-08T17:54:10Z",
-      "context_length": 262144,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.075,
-      "price_out": 0.25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Nex-N2.5 is an agentic model built to turn goals into working, verified outcomes. Its core strength is agentic coding within a visual feedback loop: it can explore codebases, implement multi-file...",
-      "description_zh": "Nex-N2.5 是一种代理模型，旨在将目标转化为可行的、经过验证的结果。它的核心优势是视觉反馈循环内的代理编码：它可以探索代码库，实现多文件......"
-    },
-    {
-      "id": "openai/gpt-6-astra",
-      "name": "GPT-6 Astra",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6-astra-20260903",
-      "created_at": "2026-09-04T20:13:58Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 10,
-      "price_out": 50,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6 Astra is OpenAI's flagship model for demanding end-to-end work. It is suited for advanced analysis, software engineering, deep research, scientific work, and document creation, with particular strengths in long-horizon...",
-      "description_zh": "GPT-6 Astra 是 OpenAI 的旗舰模型，适用于要求苛刻的端到端工作。它适用于高级分析、软件工程、深入研究、科学工作和文档创建，在长期..."
     }
   ]
 }

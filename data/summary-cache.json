@@ -126388,5 +126388,341 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/strawberry": {
+    "title_clean": "Strawberry：AI团队协作浏览器",
+    "summary": "Strawberry是一款AI浏览器，专为团队和AI代理协作设计，提供多人协同工作环境，可能整合AI助手功能以提升团队协作效率，对元宝产品经理在AI协作场景和浏览器集成方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/squadroom": {
+    "title_clean": "SquadRoom：AI员工24小时工作助手",
+    "summary": "SquadRoom提供24/7全天候工作的AI员工服务，可替代部分人类工作职能。产品经理可关注其AI员工的具体应用场景、能力边界及商业化模式，评估对元宝产品在自动化服务与人力替代方面的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/bNfaQyThKpijj-B7yBgDnw": {
+    "title_clean": "OpenClaw：AI Agent技能与MCP应用平台更新",
+    "summary": "OpenClaw平台推出Skills和MCPApps功能升级，但用户反馈使用疲劳。此次更新涉及AI Agent技能增强和应用生态扩展，对产品经理了解AI Agent功能迭代与用户接受度有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/zEt5cu_6gPXUdh25iers_Q": {
+    "title_clean": "PhAILabs提出RSI-Anything：探索通用RSI新路径",
+    "summary": "PhAILabs推出RSI-Anything技术，从预测万物向自我进化方向探索通用RSI新路径。这一技术可能为AI系统提供更强大的通用感知与交互能力，对元宝产品经理在AI Agent能力拓展方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/IutrooEWK9wR7_2KGrPXAQ": {
+    "title_clean": "菲尔兹奖得主：AI摧毁其研究领域",
+    "summary": "菲尔兹奖得主公开表示AI技术已摧毁了他的研究领域，反映了AI对传统学术研究领域的颠覆性影响。这对元宝产品经理具有重要参考价值，提示需关注AI对专业领域的影响及潜在服务机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/5DfL1GI9NC6FfNcfX6u1OQ": {
+    "title_clean": "跨维UNITAS：机器人任务原生3D世界模型",
+    "summary": "跨维UNITAS是全球首个机器人任务原生3D世界模型，能够帮助机器人理解和操作物理世界。这一技术突破对AI助手和AI Agent领域具有重要参考价值，可能为未来机器人与物理世界的交互提供新思路，特别是在服务场景和自动化任务方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/5P5TAIXOfIDVbdynJbSEdA": {
+    "title_clean": "文生图「世界一致性」测评来了",
+    "summary": "该资讯对文生图模型的世界一致性进行了测评，探讨了AI生成图像在细节真实性和逻辑一致性方面的表现。对产品经理了解AI图像生成技术的当前局限性和发展方向有参考价值，有助于评估多模态AI在视觉内容生成领域的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending": {
+    "title_clean": "腾讯发行50亿美元债券支持AI投资",
+    "summary": "腾讯开始发行美元和离岸人民币债券，融资规模约50亿美元，用于支持其不断增长的人工智能投资。这反映了腾讯对AI领域的战略投入加大，对元宝产品经理了解科技巨头AI资金布局和行业趋势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/meta-reaches-ais-crowded-frontier-will-users-care": {
+    "title_clean": "Meta发布Muse Wonder AI模型：声称在特定任务上达到最先进性能",
+    "summary": "Meta推出名为Muse Wonder的AI模型，声称在特定任务上能达到最先进性能。这反映了AI领域竞争激烈，大型科技公司频繁发布新模型的现象，对产品经理了解行业动态和竞品策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/muse-wonder-puts-meta-s-aggressive-ai-push-in-focus-video": {
+    "title_clean": "Meta发布Muse Wonder AI模型：声称性能大幅超越前代",
+    "summary": "Meta推出名为Muse Wonder的新AI模型，公司宣称该模型相比前代产品有显著性能提升。这反映了Meta在AI领域的持续投入和竞争策略，对元宝产品经理了解行业巨头AI技术演进方向和竞争态势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/barclays-generational-shift-in-aerospace-defense-video": {
+    "title_clean": "巴克莱银行：航空航天与国防行业出现代际转变",
+    "summary": "巴克莱银行分析师Anthony Valentini指出，航空航天与国防行业正处于转折点，采用商业模式的新兴高增长企业应与传统企业区别评估。这一趋势对AI助手在国防和航空航天领域的应用场景拓展具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/bumble-talks-go-private-sequoia-partner-guptas-new-venture": {
+    "title_clean": "Bumble：约会应用公司拟被收购",
+    "summary": "约会应用Bumble正与红杉资本前合伙人Ravi Gupta新成立的控股公司进行深入收购谈判，拟被私有化。这反映了成熟社交应用寻求资本退出的策略，对元宝产品经理了解AI应用商业化路径和资本动向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/tech-rally-puts-earnings-in-focus-video": {
+    "title_clean": "Fidelity：科技股有望继续攀升担忧之墙",
+    "summary": "Fidelity分析师Denise Chisholm表示，科技股经历了异常大的估值调整，同时盈利预期持续上升，该行业可能具备进一步上涨空间。这对AI产品经理了解科技行业投资趋势和市场情绪有参考价值，可能影响AI相关企业的估值和融资环境。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/trump-administration-plans-move-ai-testing-agency-officials-white-house": {
+    "title_clean": "特朗普政府计划将AI测试机构官员迁至白宫",
+    "summary": "美国商务部下属的小型AI测试机构将进行人员调整，相关官员将被调往白宫。这一变动可能影响AI监管政策制定和测试流程，对元宝产品经理了解美国AI监管环境变化及政策走向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/bloomberg-tech-10-12-2026-video": {
+    "title_clean": "微软与马斯克竞相革新AI芯片",
+    "summary": "微软推出自主研发的Maia芯片，减少对外部半导体供应商的依赖，以支持其AI野心；同时埃隆·马斯克也计划进入芯片开发领域，两家科技巨头在AI芯片领域展开竞争。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder": {
+    "title_clean": "Meta发布前沿模型Muse Wonder",
+    "summary": "Meta推出其首个前沿模型Muse Wonder，相比之前的Muse Spark，Wonder模型规模更大，能力更强，在基准测试中得分更高，在复杂任务上表现更优。这对产品经理了解AI模型发展趋势和竞品技术路线有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/andreessen-horowitz-general-catalyst-race-secure-chips-startups-need": {
+    "title_clean": "Andreessen Horowitz与General Catalyst竞相为初创企业获取AI芯片",
+    "summary": "随着初创企业争相获取AI服务器算力，更多风投机构开始为旗下公司提供计算资源保障。这反映了AI基础设施资源紧张的现状，以及风投机构通过提供算力支持来增强投资价值的策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-12/openai-adds-new-irish-roles-in-boost-to-firm-s-eu-headquarters": {
+    "title_clean": "OpenAI在爱尔兰新增职位，强化欧盟总部布局",
+    "summary": "OpenAI宣布在都柏林新增工作岗位，这是ChatGPT制造商在欧洲总部快速扩张的又一迹象。这一举措表明OpenAI正加强其在欧盟市场的业务布局，对元宝产品经理了解AI巨头区域扩张策略和人才布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company": {
+    "title_clean": "Honeyjar：AI公关与传播工具",
+    "summary": "Honeyjar提供AI工具帮助改善企业公关和传播流程，针对当前PR行业痛点提出解决方案。该产品对元宝产品经理有参考价值，特别是在AI服务场景拓展和商业化方向上，可作为AI助手在专业领域应用的案例研究。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/t-mobile-rises-on-upgrade-ionq-to-buy-elisity-video": {
+    "title_clean": "T-Mobile升级需求增长；IonQ收购Elisity：股票动态",
+    "summary": "T-Mobile因升级需求增长股价上涨，IonQ宣布收购Elisity。亚马逊正洽谈以约7亿美元收购AI初创公司Decart AI。这些动态反映了AI领域并购活跃，对元宝产品经理评估AI商业化趋势和潜在收购机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks": {
+    "title_clean": "黑客攻击法国超市致制冷系统瘫痪",
+    "summary": "法国多家周日遭遇网络攻击，黑客入侵导致超市制冷系统瘫痪，被迫丢弃受损食品。这反映了关键基础设施面临的网络安全威胁，对AI助手在安全监控和应急响应场景的应用有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.microsoft.com/maia-2026": {
+    "title_clean": "Microsoft 推出自研芯片 Maia 300",
+    "summary": "Microsoft 发布最新自研 AI 芯片 Maia 300，专为加速 AI 工作负载设计，旨在提升其云服务和 AI 产品的性能与效率，对元宝产品经理了解大厂 AI 基础设施布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/llm-translation-quality-annotation": {
+    "title_clean": "大语言模型在机器翻译质量评估中的应用：人类与模型均面临挑战",
+    "summary": "研究探讨了大型语言模型作为机器翻译评估替代人类判断的效率与成本效益，发现在大规模机器翻译评估任务中，人类和模型都面临挑战。这对元宝产品经理评估AI翻译功能质量及评估方法选择有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-12/tencent-tells-investors-its-5-billion-bond-mainly-for-ai-capex": {
+    "title_clean": "腾讯：50亿美元债券主要用于AI资本支出",
+    "summary": "腾讯计划发行约50亿美元债券，主要用于支持AI相关资本支出。这一融资动向表明腾讯正加大在AI领域的投入力度，对元宝产品经理了解科技巨头AI战略布局和行业资源投入趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/meta-bans-bytedance-ads-platforms": {
+    "title_clean": "Meta禁止字节跳动广告在其平台投放",
+    "summary": "Meta已在美国及其他多个市场禁止字节跳动广告在其平台投放，这是两家科技巨头之间商业竞争的最新发展，对元宝产品经理了解国际科技平台政策变化和竞争对手动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/mirae-asset-s-ceo-on-india-s-ai-advantage-video": {
+    "title_clean": "Mirae Asset's CEO on India's AI Advantage",
+    "summary": "Mirae Asset CEO Swarup Mohanty指出印度正成为全球非AI投资的有力对冲选择，并解释了资本向AI驱动生产力领域倾斜如何进一步强化印度优势。这对产品经理了解AI投资趋势和新兴市场机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/distributed-gpu-cloud": {
+    "title_clean": "Minions：基于闲置苹果设备的分布式虚拟GPU云",
+    "summary": "Minions是一个动态分布式虚拟GPU云服务，通过利用闲置的苹果硅设备构建GPU基础设施，解决集中式GPU基础设施在高成本、有限弹性和资源等待时间长等方面的局限性，为机器学习推理提供更灵活的解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

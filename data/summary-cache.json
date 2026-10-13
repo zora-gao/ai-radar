@@ -127672,5 +127672,634 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/cube-forms": {
+    "title_clean": "Cube Forms：AI智能表单工具",
+    "summary": "Cube Forms是一款允许AI代理填写表单的工具，解决了自动化流程中表单处理的痛点。产品经理可关注其技术实现方式，为元宝的Agent能力扩展提供参考，特别是在自动化办公、数据收集等场景中的应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/servor": {
+    "title_clean": "Servor：服务器监控管理工具",
+    "summary": "Servor是一款服务器管理工具，提供统一控制台来运行和监控所有服务器，帮助用户简化服务器管理流程，提高运维效率。对于元宝产品经理而言，这类工具展示了集中化管理的价值，可作为AI助手在系统管理场景下的参考案例。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/gvhFe31iCmareY9ErkpdZQ": {
+    "title_clean": "2026云程奖学金：面向AI专业在校生",
+    "summary": "2026云程奖学金项目进入最后7天申报期，专门面向人工智能专业本硕博在校生提供资金支持。该奖学金旨在培养AI领域人才，对元宝产品经理了解AI人才储备和教育方向具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/DLlcO6VSObGM6NPnj-hBSA": {
+    "title_clean": "牛津大学等团队提出可交互的生成世界技术",
+    "summary": "牛津大学、莫纳什大学和布里斯托大学等研究团队提出了一种能够实现交互的生成世界技术，这可能为AI助手和虚拟环境创建提供新的技术路径，为元宝产品在多模态交互和场景构建方面提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/vista-s-smith-on-growth-of-ai-agentic-software-video": {
+    "title_clean": "Vista Equity CEO Smith：AI与智能代理软件增长趋势",
+    "summary": "Vista Equity Partners创始人兼CEO Robert F. Smith谈论人工智能和智能代理软件的增长趋势，强调学习使用AI代理的重要性。这对元宝产品经理了解行业头部投资人对AI Agent领域的判断和未来发展方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/microsoft-cloud-president-asks-leaders-find-20-cost-cuts": {
+    "title_clean": "微软云业务总裁要求领导层寻求20%成本削减",
+    "summary": "微软Azure云业务总裁Girish Bablani要求领导层寻求20%的成本削减，这表明微软正在考虑对其云服务器租赁业务进行重大成本调整。这对元宝产品经理有参考价值，因为云服务成本优化策略可能影响AI服务提供商的定价模型和成本结构。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/applied-materials-ceo-on-doubling-revenue-thanks-to-ai-video": {
+    "title_clean": "Applied Materials CEO：AI助力公司收入翻倍",
+    "summary": "Applied Materials CEO Gary Dickerson表示，得益于AI技术的应用，公司预计未来几年收入将翻倍。公司已在硅谷投资50亿美元建立研发中心，显示AI对传统制造业的显著商业价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-employee-arrested-allegedly-installing-office-listening-device": {
+    "title_clean": "OpenAI员工涉嫌在办公室安装窃听器被逮捕",
+    "summary": "OpenAI员工Abdulrahman Alfozan因涉嫌在旧金山办公室安装隐藏监听设备被美国司法部逮捕。此事件涉及企业内部安全与员工行为规范，对AI公司治理和信息安全有警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/character-ai-files-bankruptcy-citing-costs-litigation": {
+    "title_clean": "Character.ai：AI角色对话平台申请破产",
+    "summary": "Character.ai是一家五年的初创公司，允许用户创建和与AI角色互动，因面临重大法律和监管问题而申请第11章破产。这对元宝产品经理的参考价值在于了解AI聊天机器人行业的财务挑战和法律风险，以及可能影响类似产品商业化路径的因素。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race": {
+    "title_clean": "中国机器人手技术：引领5万亿美元人形AI发展竞赛",
+    "summary": "中国在先进人形硬件领域已取得对美国的早期战略领先优势，机器人手技术成为人形AI发展的关键。这一动态对元宝产品经理具有重要参考价值，特别是在AI助手物理交互能力和服务场景拓展方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/psp-s-momei-qu-on-anthropic-s-pre-ipo-investor-day-video": {
+    "title_clean": "PSP's Momei Qu：Anthropic Pre-IPO投资者日观点",
+    "summary": "PSP Growth合伙人Momei Qu在Anthropic Pre-IPO投资者日前表示，市场投资者对于高增长AI公司是否应接受较低利润率和大量资本支出可能存在分歧。这反映了AI行业估值逻辑的争议，对元宝产品经理理解资本市场对AI企业的预期和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/ai-industry-not-ready-for-coming-crisis-says-mukunda-video": {
+    "title_clean": "AI行业面临潜在危机，高管警告未来一年内可能出现重大AI事故",
+    "summary": "多位AI高管正为未来6-12个月内可能发生的重大AI灾难做准备，AI系统已被关联到多起网络安全事件。这对产品经理警示AI安全风险的重要性，提醒在产品设计中需加强安全防护和风险控制机制。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case": {
+    "title_clean": "法院命令OpenAI提交雇佣记录：涉及苹果商业秘密案",
+    "summary": "联邦法官裁定，OpenAI需向苹果公司提交涉及前苹果员工的面试材料，以及案件关键人物的私人信息和证词。此案涉及商业秘密泄露，对AI公司人才流动和商业秘密保护有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/jpmorgan-closely-tracking-ai-exposure-cfo-says": {
+    "title_clean": "摩根大通密切追踪AI投资风险，CFO称正监控AI支出",
+    "summary": "摩根大通CFO表示，随着AI建设资本支出需求增长，银行正密切监控其AI投资风险。这反映了大型金融机构对AI成本与回报平衡的审慎态度，对AI产品经理评估商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model": {
+    "title_clean": "OpenAI：紧急修复旗舰模型安全漏洞",
+    "summary": "OpenAI正努力解决其AI设计中一项有争议创新带来的问题，确保即将发布的旗舰模型达到安全发布标准。这反映了AI安全与产品发布之间的紧张关系，对产品经理评估AI产品安全策略有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/rebuilding-companies-agentic-era": {
+    "title_clean": "Rebuilding Companies for the Agentic Era：企业如何适应AI代理时代",
+    "summary": "文章探讨了企业在2026年面临的挑战：当AI能够理解上下文并协调工作时，企业应该如何重新构建自身架构。这对元宝产品经理有重要参考价值，特别是在规划AI Agent能力和企业服务场景时。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office": {
+    "title_clean": "OpenAI员工因在办公室安装隐藏录音设备被捕",
+    "summary": "OpenAI一名员工因在公司办公室安装隐藏录音设备被逮捕并面临指控。这一事件反映了AI企业内部安全与信任问题，对产品经理在考虑企业安全策略和员工管理方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/bloomberg-crypto-10-13-2026-video": {
+    "title_clean": "Saylor Exclusive, DC Fintech, Longshot Prediction：加密金融领域专家访谈",
+    "summary": "Bloomberg Crypto节目采访了Strategy创始人兼执行董事长Michael Saylor，探讨去中心化金融领域的人物、交易和技术发展。内容涉及加密金融行业动态和专家观点，对元宝产品经理了解金融科技领域AI应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/supreme-court-will-address-prediction-markets-yadav-video": {
+    "title_clean": "最高法院将处理预测市场：Yadav",
+    "summary": "范德堡大学法学院教授Yesha Yadav在彭博加密货币节目中讨论了体育如何围绕预测市场创造'注意力经济'，以及最高法院将如何处理这一新兴领域。这对元宝产品经理了解预测市场在AI服务中的应用前景和监管环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/saylor-on-bullish-bitcoin-clarity-msci-disappointment-video": {
+    "title_clean": "Saylor谈比特币前景：MSCI失望与市场清晰度",
+    "summary": "MicroStrategy创始人兼执行董事长Michael Saylor在彭博加密货币节目中表达了对比特币价格的持续看涨观点，讨论了比特币在MSCI指数表现不佳背景下的市场定位与投资价值，为元宝产品经理提供了加密货币市场情绪与机构态度的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-13/fed-s-williams-currently-sees-no-need-for-rate-hike-in-2027": {
+    "title_clean": "美联储官员：2027年前无需进一步加息",
+    "summary": "纽约联储主席约翰·威廉姆斯表示今年仍认为有必要再加息一次，但目前认为央行在2027年前无需进一步加息。这一货币政策信号对AI产品经理了解经济环境变化可能影响用户消费能力和企业预算有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm": {
+    "title_clean": "Facebook 推出AI算法控制功能",
+    "summary": "Meta宣布推出名为\"Your Algorithm\"的AI驱动功能，首次在Instagram上线后扩展至Facebook，让用户获得更多对算法推荐的控制权，这对产品经理了解平台透明度与用户控制权设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world": {
+    "title_clean": "Laplace Intelligence：AI机器人与自动驾驶车辆安全测试工具",
+    "summary": "Laplace Intelligence是一家密歇根大学衍生公司，利用AI代理和交互式模拟技术，在部署前对机器人和自动驾驶车辆进行压力测试。这家已盈利的初创公司正在竞争自动驾驶安全测试市场，为元宝产品经理提供了AI代理在物理世界安全验证场景的应用参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/mainspring-aep-strike-deal-to-bring-power-online-faster-video": {
+    "title_clean": "Mainspring与AEP达成协议加速电网供电",
+    "summary": "Mainspring Energy与美国电力公司AEP达成协议，将提供高达1.6吉瓦的发电能力，这项为期八年的协议价值可能高达40亿美元。这反映了能源行业对高效电网解决方案的需求增长，对AI产品经理在能源管理、智能电网解决方案开发方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache": {
+    "title_clean": "Pluto Security：AI企业安全防护工具",
+    "summary": "Pluto Security获4200万美元融资，专注于解决企业员工使用AI工具带来的新型安全风险。该产品针对AI工具普及后企业面临的安全漏洞问题，为安全团队提供防护方案，反映了AI在企业应用中的安全挑战日益凸显。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week": {
+    "title_clean": "Nvidia计划下周在欧洲宣布20亿美元AI投资",
+    "summary": "Nvidia CEO黄仁勋在巴黎活动上宣布，公司将在未来一周内宣布在欧洲的20亿美元AI投资计划。这笔大规模投资反映了Nvidia对欧洲AI市场的重视，可能影响欧洲AI基础设施建设和竞争格局，对元宝产品经理了解AI芯片巨头战略布局和区域市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook": {
+    "title_clean": "Facebook推出AI工具：用户可自定义算法内容推荐",
+    "summary": "Facebook推出新型AI工具，允许用户通过自然语言描述自己的兴趣，从而个性化定制Feed和Reels中的内容推荐。这一功能直接赋予用户对算法内容展示的主动控制权，对理解用户如何与AI推荐系统互动及产品个性化设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/announcing-the-official-selection-for-the-edits-film-festival": {
+    "title_clean": "Edits Film Festival：孟买电影节官方公布入选影片",
+    "summary": "Edits Film Festival本周在孟举办，已公布官方入选影片名单。作为电影行业活动，对元宝产品经理参考价值有限，除非涉及AI在影视内容创作或分析中的应用场景。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon": {
+    "title_clean": "Gemini 4 Argon：谷歌最新前沿模型",
+    "summary": "谷歌发布Gemini 4 Argon最新前沿模型，面向开发者、企业、科学家和消费者，旨在解决用户最复杂的问题。作为Gemini系列的新成员，该模型可能代表谷歌在AI能力上的重要进展，对元宝产品经理了解行业领先模型的能力边界和产品方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026": {
+    "title_clean": "TechCrunch Disrupt 2026：科技行业顶级峰会阵容公布",
+    "summary": "TechCrunch公布2026年Disrupt Stage完整演讲阵容，包括Max Hodak、Mark Wahlberg及Benchmark合伙人等行业领袖。作为科技行业顶级峰会，将聚焦AI、创业投资等前沿话题，对产品经理了解行业趋势和潜在合作机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases": {
+    "title_clean": "Amex：AI购物授权框架",
+    "summary": "美国运通推出新框架，确保AI代理仅执行用户授权的购买行为，旨在预防AI购物中的错误和纠纷，为AI服务场景中的交易安全提供解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-10-13/apple-unveils-299-homeview-smart-home-hub-new-apple-tv-4k-homepod-mini-2": {
+    "title_clean": "Apple 发布 $299 HomeView 智能家居中心、新款 Apple TV 4K 和 HomePod Mini 2",
+    "summary": "Apple 推出 $299 HomeView 智能家居中心，同时发布新款 Apple TV 4K 流媒体设备和 HomePod Mini 2 智能音箱。这些产品扩展了苹果在智能家居领域的布局，对元宝产品经理了解科技巨头如何整合 AI 与智能家居场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/higgsfield-longer-videos-voice": {
+    "title_clean": "Higgsfield：AI视频生成时长突破10分钟工具",
+    "summary": "Higgsfield推出基于GPT-6 Astra的AI视频生成技术，可将视频时长从1分钟延长至10分钟以上，同时提供GPT-Image-2.5精准视觉生成和GPT-Live语音电影制作功能，大幅提升AI视频创作能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-13/moderna-founder-calls-for-urgent-regulation-of-ai-agents": {
+    "title_clean": "Moderna创始人呼吁紧急监管AI Agent",
+    "summary": "生物科技亿万富翁Noubar Afeyan呼吁对科技公司销售的AI Agent实施紧急监管，警告等待灾难发生将重蹈历史覆辙。这一观点对AI产品经理具有重要参考价值，提示在产品开发中需考虑监管合规性和潜在风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-pex": {
+    "title_clean": "PEX CEO访谈：市场定位与客户需求分析",
+    "summary": "PEX首席执行官Toffer Grant接受CB Insights采访，分享公司对市场的看法、客户需求分析以及企业定位。该访谈为产品经理提供了企业级服务市场定位和客户需求洞察的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-prospero-ai": {
+    "title_clean": "Prospero.ai CEO访谈：AI市场定位与客户需求",
+    "summary": "Prospero.ai CEO George Kailas接受CB Insights采访，分享了公司对市场的定义、客户需求的理解以及公司定位。这为元宝产品经理提供了AI企业市场策略和客户洞察的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-atlas-compliance": {
+    "title_clean": "Atlas Compliance CEO访谈：企业合规市场洞察",
+    "summary": "Atlas Compliance CEO Bhavish Agarwal接受CB Insights采访，分享了对企业合规市场的定义、客户需求认知及公司战略。内容包含市场定位分析和客户需求洞察，对了解企业合规服务市场格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-flipzen": {
+    "title_clean": "CEO Interview: Flipzen",
+    "summary": "Flipzen CEO Maia Brenner接受CB Insights访谈，分享公司对市场定位、客户需求的理解以及公司发展策略。该访谈为AI产品经理提供了新兴AI服务创业公司的市场视角和产品定位参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-13/tech-giants-to-outpace-us-in-issuing-long-term-debt-sunak-says": {
+    "title_clean": "科技巨头将超越美国成为最大长期债券发行方",
+    "summary": "英国前首相里希·苏纳克表示，科技企业预计在2027年超越美国政府，成为最大的长期净债券发行方，反映了科技行业巨大的资本需求驱动。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-pearl-health": {
+    "title_clean": "Pearl Health CEO访谈：医疗健康市场洞察",
+    "summary": "Pearl Health CEO Michael Kopko接受CB Insights采访，分享公司对医疗健康市场的定义、客户需求认知及公司定位。内容包含医疗AI服务市场策略和客户需求分析，对元宝在垂直领域AI服务场景拓展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-microsoft-reorganizes-azure-cloud-unit-amid-ai-overhaul": {
+    "title_clean": "微软重组Azure云业务部门，聚焦AI战略转型",
+    "summary": "微软正在重组Azure云业务部门，整合业务单元并重新定位以围绕AI战略。这一调整反映了微软将AI作为核心业务方向的决心，对元宝产品经理了解大型科技公司AI战略布局和云服务与AI结合的商业模式有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/mix-dont-tune": {
+    "title_clean": "Mix, Don't Tune: 双语预训练在数据受限环境下优于超参数搜索",
+    "summary": "研究提出在数据受限的语言模型预训练中，混合双语数据比超参数搜索更有效，能提升模型泛化能力。这对多语言AI助手开发有参考价值，特别是在资源有限的语言场景下优化训练策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/big-take-ai-s-giant-money-loop-has-echoes-of-2008": {
+    "title_clean": "AI投资循环引发2008金融危机式担忧",
+    "summary": "报道揭示了AI行业存在的循环投资网络，这种模式正在推动AI热潮，同时也加剧了全球不平衡，并引发了对2008年金融危机的担忧。对产品经理了解AI行业资本运作模式和潜在风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/eOHbcbvJr9dfZcScJwq-3A": {
+    "title_clean": "大厂面试转向：LeetCode刷题时代或将结束",
+    "summary": "大厂面试正在从传统的LeetCode刷题模式转向，可能更注重实际项目经验和解决问题的能力。这一变化反映了行业对人才评估标准的调整，对AI助手产品在编程学习和面试准备方面的功能设计有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/tesla-to-debut-cybercab-at-paris-motor-show-video": {
+    "title_clean": "Tesla Cybercab将在巴黎车展首次亮相欧洲",
+    "summary": "Tesla的Cybercab将在本周巴黎车展首次亮相欧洲，这是埃隆·马斯克扩大特斯拉在美国以外业务布局的重要举措。这一产品发布对元宝产品经理参考价值有限，因为特斯拉的自动驾驶出租车与AI助手产品领域关联度不高。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/the-staggering-costs-of-a-single-data-center-video": {
+    "title_clean": "科技巨头数据中心成本：从土地到芯片的巨额投入",
+    "summary": "Meta、亚马逊、微软和谷歌四大科技巨头今年预计将投入约7500亿美元用于资本支出，主要用于建设数据中心。这些巨额投资反映了AI服务对基础设施的巨大需求，对元宝产品经理评估AI服务成本与扩展策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/introducing-muse-wonder-models": {
+    "title_clean": "Meta发布Muse Wonder系列：面向AI Agent的前沿模型",
+    "summary": "Meta推出Muse Wonder和Muse Wonder Full两款最新模型，专为个人和专业AI Agent任务设计，提供最先进的性能表现。这对元宝产品经理具有重要参考价值，展示了大模型在Agent能力建设上的最新进展。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/robinhood-cio-on-investment-ideas-ahead-of-earnings-video": {
+    "title_clean": "Robinhood CIO：财报季前投资观点",
+    "summary": "Robinhood首席投资官Stephanie Guild表示，债券收益率上升尚未削弱股票吸引力，她将收益率增长主要归因于强劲的资本支出需求和增长。这对元宝产品经理了解金融投资类AI助手如何解读市场信号和投资策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation": {
+    "title_clean": "微软总裁称英国最适合推动AI监管",
+    "summary": "微软总裁布拉德·史密斯呼吁紧急实施AI监管，指出当前AI公司受到的监管甚至不如牛奶和洗衣机行业严格。这一言论反映了科技巨头对AI监管必要性的认可，对元宝产品经理了解行业监管趋势和合规要求具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-12/cisco-nvidia-tackle-ai-s-growing-data-center-bottleneck-video": {
+    "title_clean": "思科与英伟达合作解决AI数据中心瓶颈",
+    "summary": "思科与英伟达合作推出新一代光网络技术，旨在处理AI数据中心爆炸性增长的数据传输需求。这一合作针对AI训练和推理过程中数据中心面临的带宽和延迟挑战，为AI基础设施提供更高效的数据传输解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/self-compacting-language-agents": {
+    "title_clean": "Self-Compacting Language Model Agents：自压缩语言模型代理",
+    "summary": "该研究提出了一种自压缩语言模型代理技术，能够解决长代理轨迹中累积的过时内容问题，这些内容会锚定后续生成并最终超出上下文窗口限制。现有框架只能缓解这一问题，而这项技术为AI Agent处理长期任务提供了新思路，对元宝产品经理设计持久性Agent功能具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-13T17:20:14.719Z",
+  "generated_at": "2026-10-13T22:18:07.298Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "liquid/lfm-2.5-24b-a2b",
+      "name": "LFM2.5-24B-A2B",
+      "vendor": "Liquid",
+      "vendor_slug": "liquid",
+      "url": "https://openrouter.ai/liquid/lfm-2.5-24b-a2b-20261012",
+      "created_at": "2026-10-13T17:20:25Z",
+      "context_length": 128000,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.05,
+      "price_out": 0.7,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "LFM2.5-24B-A2B is a mixture-of-experts reasoning model from Liquid AI with 24B total and 2.45B active parameters. It always reasons before answering and is built for agents that call tools. Liquid...",
+      "description_zh": null
+    },
     {
       "id": "google/gemini-4-argon",
       "name": "Gemini 4 Argon",
@@ -24,6 +47,33 @@
       ],
       "price_in": 2,
       "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 4 Argon is Google's flagship reasoning model, built for complex software engineering, deep mathematical and scientific problem solving, and autonomous multi-step agents. Google trained it to keep context across...",
+      "description_zh": "Gemini 4 Argon 是 Google 的旗舰推理模型，专为复杂的软件工程、深入的数学和科学问题解决以及自主多步骤代理而构建。谷歌训练它保持上下文......"
+    },
+    {
+      "id": "google/gemini-4-argon:batch",
+      "name": "Gemini 4 Argon (batch)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-4-argon-20261013",
+      "created_at": "2026-10-13T16:04:37Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "audio",
+        "file",
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -246,36 +296,13 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
+      "price_in": 0.075,
+      "price_out": 0.225,
+      "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Ling 3.1 Flash is a hybrid reasoning mixture-of-experts model from inclusionAI, with 25B active parameters out of 560B total.",
       "description_zh": "Ling 3.1 Flash是inclusionAI的混合推理混合专家模型，总共560B个活动参数，其中有25B个。"
-    },
-    {
-      "id": "apodex/apodex-1.1-mini:free",
-      "name": "Apodex 1.1 Mini (free)",
-      "vendor": "Apodex",
-      "vendor_slug": "apodex",
-      "url": "https://openrouter.ai/apodex/apodex-1.1-mini-20261001",
-      "created_at": "2026-10-01T17:22:15Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Apodex 1.1 Mini is a reasoning-first model from Apodex, built for complex, long-horizon research and forecasting tasks. It works directly with files, data, code, and tools to produce verifiable results,...",
-      "description_zh": "Apodex 1.1 Mini 是 Apodex 的推理优先模型，专为复杂的长期研究和预测任务而构建。它直接与文件、数据、代码和工具一起工作以产生可验证的结果，..."
     },
     {
       "id": "unbiased/pareto-26.10-preview",
@@ -1159,8 +1186,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.249,
-      "price_out": 0.748,
+      "price_in": 0.202,
+      "price_out": 8,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1184,7 +1211,7 @@
         "text"
       ],
       "price_in": 0.044,
-      "price_out": 0.63,
+      "price_out": 0.765,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1394,7 +1421,7 @@
       "vendor_slug": "inclusionai",
       "url": "https://openrouter.ai/inclusionai/ling-3.0-flash-vl-20260910",
       "created_at": "2026-09-10T16:01:54Z",
-      "context_length": 262144,
+      "context_length": 131072,
       "modality": "text+image+video->text",
       "input_modalities": [
         "text",
@@ -1404,8 +1431,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.021,
-      "price_out": 0.062,
+      "price_in": 0.06,
+      "price_out": 0.18,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1429,7 +1456,7 @@
         "text"
       ],
       "price_in": 0.044,
-      "price_out": 0.63,
+      "price_out": 0.765,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1459,29 +1486,6 @@
       "supports_reasoning": true,
       "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the first built on the company's Causal Encoder-Decoder (CED) architecture. It activates 8B parameters on input and 16B on...",
       "description_zh": "DeepSeek V4.1 Flash 是 DeepSeek 的稀疏专家混合模型，也是第一个基于该公司因果编码器-解码器 (CED) 架构构建的模型。它在输入上激活 8B 参数，在...上激活 16B 参数。"
-    },
-    {
-      "id": "inception/mercury-2.5",
-      "name": "Mercury 2.5",
-      "vendor": "Inception",
-      "vendor_slug": "inception",
-      "url": "https://openrouter.ai/inception/mercury-2.5-20260908",
-      "created_at": "2026-09-08T18:28:57Z",
-      "context_length": 260000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.04,
-      "price_out": 0.15,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Mercury 2.5 is the fastest reasoning LLM, and the latest diffusion LLM (dLLM) from Inception. Instead of generating tokens sequentially, Mercury 2.5 produces and refines multiple tokens in parallel, achieving...",
-      "description_zh": "Mercury 2.5 是最快的推理法学硕士，也是 Inception 最新的扩散法学硕士 (dLLM)。 Mercury 2.5 不是按顺序生成代币，而是并行生成和提炼多个代币，从而实现..."
     }
   ]
 }

@@ -126307,11 +126307,11 @@
     "v": 4
   },
   "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background": {
-    "title_clean": "前Plaud高管融资2600万美元开发后台监听AI应用",
-    "summary": "前Plaud高管获得2600万美元融资，开发一款能在后台持续监听用户并提供任务协助和建议的AI应用。该产品基于AI通过了解用户更多信息来提升服务质量的核心理念，对AI助手产品经理关注用户隐私与个性化服务平衡有参考价值。",
+    "title_clean": "前Plaud高管获2600万美元融资：背景监听AI助手",
+    "summary": "前Plaud高管创立的AI应用获得2600万美元融资，该应用能在后台持续监听用户，以获取更多个人信息来提供更精准的任务协助和建议。这反映了AI助手向更主动、更个性化服务发展的趋势，对元宝产品经理在隐私平衡与个性化服务设计上有参考价值。",
     "score": 75,
     "priority": "P1",
-    "type": "product",
+    "type": "news",
     "channels": [
       "AI助手",
       "用户需求",
@@ -126722,6 +126722,328 @@
       "AI助手",
       "服务场景",
       "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/harnesshive": {
+    "title_clean": "HarnessHive：AI协作线束设计工具",
+    "summary": "HarnessHive是一款AI原生线束设计工具，提供简单协作功能，专注于线束设计领域。该产品可能通过AI技术简化传统复杂的线束设计流程，为产品经理提供AI在工业设计场景应用的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/the-drive-ai-2": {
+    "title_clean": "The Drive AI：文件处理AI助手",
+    "summary": "The Drive AI是一款专注于文件处理的AI助手，能够自动执行用户文件中的任务。这款产品对元宝产品经理具有参考价值，因为它展示了AI助手在文件处理场景的应用潜力，可能启发元宝在文档自动化、任务执行方面的功能拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openflowkit": {
+    "title_clean": "OpenFlowKit 2：开源协作图表工具",
+    "summary": "OpenFlowKit 2是一款免费开源的图表工具，支持用户与AI代理共同编辑协作。该产品为AI Agent提供了协作编辑能力，可能启发元宝在多用户协作场景下的功能设计，特别是与AI代理共同完成任务的应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/toby-5": {
+    "title_clean": "Toby：AI模拟面试工具",
+    "summary": "Toby是一款AI模拟面试工具，提供逼真的AI面试官模拟面试体验，帮助求职者准备真实面试场景。产品经理可关注此类AI在职业服务场景的应用，评估其交互设计和用户价值，为元宝拓展职业服务场景提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/adhelm-cli": {
+    "title_clean": "AdHelm CLI：开源广告管理命令行工具",
+    "summary": "AdHelm CLI是一款开源的命令行工具，专门用于管理广告活动。它为产品经理提供了广告管理的技术实现参考，可能对元宝未来集成广告功能或开发相关服务场景有启发价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vibesmonitor": {
+    "title_clean": "vibesmonitor.com：产品发布监控工具",
+    "summary": "vibesmonitor.com是一个产品发布监控平台，帮助用户追踪和管理所有产品的发布状态。作为产品经理，该工具可提供产品发布全流程的实时监控和数据分析，有助于优化发布策略和提升产品运营效率。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meta-ai": {
+    "title_clean": "Muse Wonder：Meta个人代理模型",
+    "summary": "Meta发布Muse Wonder，这是其最强大的个人代理模型，专注于提升AI助手在个人任务处理方面的能力。该产品对元宝产品经理具有重要参考价值，展示了Meta在AI Agent领域的技术方向和产品布局，可作为竞品分析和功能设计的参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/xiryn": {
+    "title_clean": "Xiryn：开源个人电脑运行助手",
+    "summary": "Xiryn是一款开源的个人代理助手，可直接在用户电脑上运行。作为本地部署的AI Agent工具，它代表了AI助手向本地化、隐私保护方向发展的趋势，对元宝产品经理在本地化AI助手架构设计和隐私保护策略方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/music-dawn": {
+    "title_clean": "Music Dawn：音乐人录音工具",
+    "summary": "Music Dawn是一款专为音乐人设计的录音工具，能够将音乐人的创意想法转化为完整作品，让每个灵感听起来都已完成。这款产品对元宝产品经理在音乐创作类AI服务场景的拓展具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/takes-for-mac": {
+    "title_clean": "Takes for Mac：AI视频编辑工具",
+    "summary": "Takes for Mac是一款录屏工具，可录制头部视频，并由Claude Code进行智能编辑。产品经理可关注其AI辅助视频编辑功能，探索元宝在多模态内容生成领域的可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/google-fit-2": {
+    "title_clean": "Google Fitbit Edge：智能健身追踪器",
+    "summary": "Google发布旗下最智能的健身追踪设备Fitbit Edge，配备7天电池续航。作为Google在可穿戴健康领域的新产品，它可能整合AI健康分析与Google服务生态，对元宝在健康场景下的AI服务布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/genchi": {
+    "title_clean": "Genchi：项目交付预测工具",
+    "summary": "Genchi是一款项目交付预测工具，通过收集一线工作人员的实际数据来预测项目完成时间和结果。这类工具对AI助手产品经理有参考价值，特别是在如何将实际工作数据转化为预测性AI功能方面，可能启发元宝在项目管理或任务执行场景中的应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/postnitro": {
+    "title_clean": "PostNitro for Agents：AI代理社交内容发布工具",
+    "summary": "PostNitro for Agents是一款让AI代理能够设计和发布社交媒体内容的工具，帮助自动化社交内容创作流程，为AI助手在社交媒体管理场景中的应用提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mausbot": {
+    "title_clean": "MausBot：开源本地化Grok机器人",
+    "summary": "MausBot是一款开源的本地化Grok机器人，提供免费使用。作为开源项目，它允许用户在本地部署，可能涉及隐私保护和数据安全优势，对元宝产品经理在开源AI助手实现和本地化部署方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agent-craft": {
+    "title_clean": "Agent Craft：AI社交互动与线索生成工具",
+    "summary": "Agent Craft是一款AI工具，声称能提升用户社交互动和线索生成效果达100倍。该产品专注于帮助用户在社交媒体上增加互动和获取潜在客户，对元宝产品经理在AI社交场景应用和商业化模式方面有一定参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-alethesis-ai": {
+    "title_clean": "Alethesis AI CEO访谈：AI市场定位与客户需求分析",
+    "summary": "Alethesis AI CEO Elena Maran接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及公司定位。这为元宝产品经理提供了AI初创企业市场策略和客户洞察的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-13/infosys-chairman-calls-job-fears-hogwash-as-ai-spurs-business": {
+    "title_clean": "Infosys主席驳斥AI就业恐慌，称AI将促进小企业发展",
+    "summary": "印度科技巨头Infosys主席Nandan Nilekani驳斥了AI将消除就业的担忧，认为AI技术将促进小企业发展并创造新机会。这一观点对产品经理评估AI对就业市场的影响及产品商业化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/imf-says-growth-should-pick-up-with-ai-investment-boost-video": {
+    "title_clean": "IMF：AI投资将推动全球经济增长",
+    "summary": "IMF首席经济学家表示，人工智能投资将推动全球经济增长。这一观点来自IMF官员在活动间隙的发言，强调了AI对经济复苏的潜在积极作用，对元宝产品经理了解AI技术对宏观经济的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-hello-inside": {
+    "title_clean": "Hello Inside CEO访谈：AI助手市场洞察",
+    "summary": "Hello Inside CEO Mario Aichlseder接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司定位。该访谈提供了AI助手行业视角和产品策略思考，对元宝产品经理了解行业趋势和竞品策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-insure": {
+    "title_clean": "Insure CEO访谈：保险市场定位与客户需求分析",
+    "summary": "Insure CEO Andrew Burdock接受CB Insights采访，分享公司对保险市场的定义、客户需求理解及公司定位。内容包含市场策略和客户洞察，对元宝产品经理了解垂直领域AI服务场景和商业模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/piramal-pharma-on-cutting-exposure-to-china-video": {
+    "title_clean": "Piramal Pharma：减少对中国原材料依赖",
+    "summary": "Piramal Pharma公司主席表示正在减少对中国原材料的依赖，同时强调印度可成为美国制药业的可靠合作伙伴。这一动向反映全球制药供应链重构趋势，对元宝产品经理评估AI在供应链风险管理中的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-salvo-health": {
+    "title_clean": "Salvo Health CEO访谈：健康市场定位与客户需求分析",
+    "summary": "Salvo Health CEO Jeffrey Glueck接受CB Insights采访，分享公司对健康市场的定义、客户需求的理解以及公司战略。该访谈提供了健康科技领域市场定位和客户洞察的参考价值，对元宝产品经理了解垂直领域AI服务场景有启发意义。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-13/tata-chair-defends-nation-building-bets-over-short-term-returns": {
+    "title_clean": "Tata Chair：坚持国家建设投资优先于短期回报",
+    "summary": "印度塔塔集团董事长表示将继续投资半导体芯片等长期项目，即使这些项目短期内难以盈利，以满足印度和全球需求。这反映了大型企业对国家战略产业的长期承诺，对AI产品经理思考长期价值与短期回报平衡有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix": {
+    "title_clean": "中国存储芯片企业CXMT宣称突破三星、海力士多年技术瓶颈",
+    "summary": "中国存储芯片企业CXMT宣称实现了三星、海力士等竞争对手多年追求的技术突破，这一未经证实的声明引发股价波动，反映了中国在半导体领域积极追赶国际巨头的态势。对产品经理而言，这提示AI硬件供应链可能面临变化，需关注存储技术进步对AI模型训练和推理成本的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/imf-forecasts-2027-global-gdp-boost-but-risks-remain-video": {
+    "title_clean": "IMF预测2027年全球GDP增长，AI投资将带来提振",
+    "summary": "国际货币基金组织预测，随着AI投资的推动，全球经济增长将在明年加速，但警告世界经济正接近其韧性极限，能源压力构成风险。这一预测对元宝产品经理评估AI技术对全球经济的影响及潜在市场机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-13/revolut-and-vinted-backer-sprints-raises-725-million-fund": {
+    "title_clean": "Sprints：欧洲风投机构获7.25亿欧元融资",
+    "summary": "Sprints是一家早期投资了Revolut和Vinted的风投机构，现已完成7.25亿欧元（约8.1亿美元）的第五轮融资。这笔资金将用于支持更多金融科技和电商领域的创新企业，对元宝产品经理了解欧洲金融科技投资趋势和潜在合作机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
     ],
     "v": 4
   }

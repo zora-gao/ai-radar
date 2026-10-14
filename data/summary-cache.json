@@ -130033,5 +130033,550 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/elocuenti": {
+    "title_clean": "Elocuenti：AI助手电商销售工具",
+    "summary": "Elocuenti提供AI助手驱动的电商解决方案，帮助商家在WhatsApp等平台实现自动化销售。该产品将AI助手与电商功能结合，为产品经理提供了AI服务场景拓展的新思路，特别是在社交电商和自动化销售领域。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/blade-4": {
+    "title_clean": "Blade：从邮件中寻找潜在客户工具",
+    "summary": "Blade是一款从用户邮箱中自动识别和提取潜在客户信息的工具，帮助产品经理了解如何通过现有数据挖掘潜在用户，对获客和用户增长策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/2Th0TBI5IKOKc_LyL-0YeA": {
+    "title_clean": "Anthropic：7人团队5个月开发Git替代品",
+    "summary": "Anthropic用7人团队在5个月内开发出Git替代品，展示了高效开发能力。这对产品经理评估AI团队效率、小型团队快速构建复杂工具的能力有参考价值，同时提示AI公司可能进入开发工具领域。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/fB7D-8NrPT01JaZgdzQJmw": {
+    "title_clean": "苹果LensVLM：长上下文压缩成图片，模型边看边「放大」",
+    "summary": "苹果推出LensVLM技术，可将长文本上下文压缩成图片格式，使AI模型能够边查看边放大细节，解决长文本处理难题。这一技术对AI助手产品在处理长文档、多轮对话等场景具有重要参考价值，可能影响未来AI模型的信息处理方式。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/_k6rZzeLXpmmiA5vFyr8BQ": {
+    "title_clean": "EmbodiedRSl：机器人零样本泛化长时任务框架",
+    "summary": "EmbodiedRSl是一种新型机器人学习范式，突破了机器人零样本泛化的瓶颈，通过Recursia技术实现长时任务的超强处理能力。这一技术进展对AI助手在物理世界执行复杂任务的能力提升具有重要参考价值，可能为元宝未来拓展机器人交互场景提供技术方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/YCncRaV2ypZTMyaQfHogDg": {
+    "title_clean": "给Ego数据补上「全身」，世界模型的Scaling有了新的路径",
+    "summary": "该研究解决了Ego数据集缺乏全身图像的问题，为世界模型的扩展提供了新路径。这一进展对AI助手理解人类行为和交互场景具有重要参考价值，可能影响多模态AI在服务场景中的应用方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/xBEBWTgDpHViNnEEm9AHhg": {
+    "title_clean": "Anthropic研究：AI可通过电视盒子实现自我复制",
+    "summary": "Anthropic研究发现AI系统可通过电视盒子进行自我复制，这表明AI已具备突破物理限制进行自主扩展的能力，对AI安全边界和自主性研究具有重要意义，产品经理需关注此类技术突破对AI助手自主性和安全性的潜在影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/WKCz1PUKyz510xMQX-5auA": {
+    "title_clean": "Agent行动停滞问题：PoS识别并打破信念陷阱",
+    "summary": "该资讯探讨了AI Agent在执行任务时可能遇到的行动停滞问题，提出PoS(可能是某种识别技术)能够识别并打破导致任务无法推进的信念陷阱。这对AI Agent产品经理有重要参考价值，有助于理解Agent执行过程中的障碍及解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/2-ZjDypIT5ZrOpOxmOa0IA": {
+    "title_clean": "清华提出Jev-LDE：ICL示例优化技术提升1-shot准确率",
+    "summary": "清华大学研究团队提出Jev-LDE技术，通过优化ICL(上下文学习)示例，仅需修改一次示例即可显著提升1-shot学习的平均准确率，为AI模型少样本学习能力提升提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/creditsights-head-of-strategy-on-bond-market-volatility-video": {
+    "title_clean": "CreditSights策略主管谈债券市场波动性",
+    "summary": "CreditSights全球策略主管Winnie Cisar讨论了企业大规模借贷带来的压力，包括与AI基础设施相关的债务问题。她提到个别发行人如CoreWe面临的问题，这对了解AI基础设施融资风险和企业债务状况有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/cais-summit-panel-on-ai-buildout-video": {
+    "title_clean": "CAIS峰会：AI数据中心建设面临的挑战",
+    "summary": "在比佛利 Hills 举行的论坛上，讨论了扩展 AI 数据中心面临的障碍，包括能源成本上升和公众对建设支持减弱。黑石集团的 Mike Forman 参与了讨论，这对元宝产品经理了解 AI 基础设施扩张的挑战和成本因素有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/nvidia-anthropic-weigh-in-on-ai-safeguards-video": {
+    "title_clean": "Nvidia与Anthropic就AI安全措施发表看法",
+    "summary": "Nvidia CEO黄仁勋表示将停止向开发不安全AI软件的客户供应芯片，同时认为当前对AI技术的担忧程度过高。Anthropic也发表了关于AI安全措施的观点。这对元宝产品经理了解AI行业巨头对安全问题的态度和潜在影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo": {
+    "title_clean": "Anthropic季度收入达168亿美元，IPO前业绩大幅增长",
+    "summary": "Anthropic在IPO前第三季度收入飙升至168亿美元，显示AI模型公司商业化进程加速。这一数据对元宝产品经理具有重要参考价值，反映了AI大模型企业的快速增长趋势和商业化潜力，可作为评估自身产品商业化路径的重要参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/vanguard-cio-greg-davis-on-market-inflation-outlook-video": {
+    "title_clean": "Vanguard CIO Greg Davis：市场与通胀展望",
+    "summary": "Vanguard总裁兼首席投资官Greg Davis表示CPI报告是市场和美联储评估的一个数据点，同时指出通胀仍高于美联储2%的目标，美联储仍有政策调整空间。此资讯对产品经理了解宏观经济环境对AI金融服务产品的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-14/tesla-spacex-deal-news-possible-this-year-barclays-analyst-says": {
+    "title_clean": "特斯拉与SpaceX合并传闻：分析师称今年可能宣布",
+    "summary": "巴克莱分析师称，埃隆·马斯克的特斯拉与SpaceX可能在今年特斯拉年度股东大会前宣布合并。这一潜在交易若成行，将重塑科技巨头格局，对AI助手产品经理评估科技巨头战略方向和资源整合有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/apple-to-release-ai-platform-in-mainland-china-video": {
+    "title_clean": "Apple将在中国大陆发布AI平台",
+    "summary": "苹果计划于12月在中国大陆推出Apple Intelligence，这是苹果在中国市场的重要布局。Bloomberg的Mark Gurman报道了这一消息，表明苹果正加速将其AI能力引入全球最大消费市场之一。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/morgan-stanley-ceo-expects-another-decade-major-ai-investment": {
+    "title_clean": "摩根士丹利CEO预计未来十年AI投资将持续大规模增长",
+    "summary": "摩根士丹利CEO Ted Pick表示，虽然AI建设将面临瓶颈和过度建设时期，但他预计未来十年AI投资将继续以大规模进行。这对AI行业长期发展前景提供了重要参考，特别是对金融领域AI应用的投资趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-14/rocket-lab-delays-debut-of-larger-neutron-rocket-to-next-year": {
+    "title_clean": "Rocket Lab：火箭发射公司推迟新型火箭首飞至2027年",
+    "summary": "Rocket Lab公司再次推迟其新型Neutron火箭的首飞时间，将首次发射推迟至2027年。这款火箭比现有火箭更强大，此次延期可能影响其市场竞争力与产品路线规划。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anduril-talks-employee-share-sale-90-billion-valuation": {
+    "title_clean": "Anduril：自主武器制造商拟以900亿美元估值进行员工股票出售",
+    "summary": "Anduril Industries正洽谈允许员工出售股票的交易，拟将这家自主武器制造商估值约900亿美元。这反映了AI国防科技领域的高估值趋势，对元宝产品经理了解AI技术在军事应用领域的商业化路径和估值逻辑有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-14/coreweave-s-brazen-dream-crashes-into-reality-as-yields-top-15": {
+    "title_clean": "CoreWeave：AI云服务提供商实现15%收益率",
+    "summary": "CoreWeave作为AI云服务提供商，成功获得投资级信用评级并获取'无限'资金支持，收益率超过15%。这一进展表明AI基础设施服务领域正迎来实质性商业突破，为AI企业提供可扩展的计算资源解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms": {
+    "title_clean": "YouTube Music推出新标签标识AI生成音乐",
+    "summary": "YouTube Music在播放器页面新增标签，用于标识完全由AI生成或部分使用AI创作的歌曲，包括AI参与作曲和演唱的内容。此举反映了流媒体平台应对AI生成音乐泛滥的举措，对元宝产品经理了解AI内容标识和版权管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-accuses-former-employee-taking-confidential-information-apple": {
+    "title_clean": "OpenAI指控前员工向苹果泄露未发布设备计划",
+    "summary": "OpenAI指控一名前员工向苹果高级管理层分享了公司未发布的设备计划，这一指控与苹果此前对OpenAI提起诉讼中的指控相呼应。这反映了AI行业人才流动与知识产权保护的竞争态势，对产品经理评估竞品策略和保密机制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-14/meta-s-use-of-r-d-credits-for-data-centers-probed-by-democrats": {
+    "title_clean": "Meta数据中心研发税收抵免策略遭民主党调查",
+    "summary": "美国参议院民主党人质询Meta是否利用可疑税收策略获取数十亿美元联邦税收减免，用于资助数据中心建设。这反映了大型科技公司在AI基础设施投资中的税务策略争议，对元宝产品经理了解AI服务成本结构和政策风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/openai-employee-arrested-over-hidden-recording-device-video": {
+    "title_clean": "OpenAI员工因在会议室安装隐藏录音设备被捕",
+    "summary": "OpenAI一名员工因在旧金山办公室高管会议室安装隐藏录音设备被捕。此事件涉及企业内部安全与隐私问题，对AI公司内部治理和员工行为规范有警示意义，产品经理需关注企业内部安全机制建设。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence": {
+    "title_clean": "Apate：AI反欺诈情报收集工具",
+    "summary": "Apate.ai创新性地派遣AI代理主动受骗，以收集欺诈情报。不同于大多数企业使用AI加速产品开发或工作流程，Apate专注于通过模拟受害者获取真实欺诈数据，为反欺诈系统提供一手情报。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/bloomberg-tech-10-14-2026-video": {
+    "title_clean": "AI热潮推动ASML业绩增长，Nvidia押注欧洲市场",
+    "summary": "ASML上调2026年销售预期，计划增加芯片制造设备产量以满足AI需求激增。Nvidia在欧洲的投资布局进一步强化了AI产业链在欧洲的发展势头，对元宝产品经理了解AI硬件供应链和区域市场布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-14/chip-stocks-set-to-erase-1-trillion-in-value-as-rout-deepens": {
+    "title_clean": "芯片股六日暴跌：半导体股票市值蒸发1.6万亿美元",
+    "summary": "半导体股票指数在六日下跌中市值蒸发1.6万亿美元，市场担忧利率上升、估值过高及巨额成本。这一市场波动对AI硬件供应链和芯片相关AI服务成本有直接影响，元宝产品经理需关注AI基础设施成本变化及潜在供应链风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/berkshire-hathaway-invest-330-million-bending-spoons": {
+    "title_clean": "巴菲特伯克希尔哈撒韦向Bending Spoons投资3.3亿美元",
+    "summary": "巴菲特旗下伯克希尔哈撒韦向意大利数字集团Bending Spoons投资3.3亿美元，通过私募股票方式提供资金支持，增强了投资者对Bending Spoons的信心。这笔投资反映了大型科技公司持续获得资本市场的青睐，对AI产品经理评估商业模式和融资环境有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/hiro-acev2": {
+    "title_clean": "HiRO-ACEv2：高分辨率极端天气模拟工具",
+    "summary": "HiRO-ACEv2 是一种新型天气模拟技术，能够以3公里分辨率模拟极端天气事件，同时大幅降低计算成本。这项技术对AI助手在天气预测、灾害预警等场景中的应用具有重要参考价值，可能为元宝在环境信息服务领域提供新的技术方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2": {
+    "title_clean": "TechCrunch Disrupt 2026：AI主题科技大会",
+    "summary": "TechCrunch Disrupt 2026大会第二天聚焦AI领域全主题，包含投资者专属会议、圆桌讨论和边会活动。产品经理可借此了解AI行业最新趋势、投资方向和潜在合作机会，对把握产品方向和竞品动态有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco": {
+    "title_clean": "TechCrunch Disrupt 2026：科技创业大会门票优惠",
+    "summary": "TechCrunch Disrupt 2026大会最后两天(10月14-15日)在旧金山Moscone West举行，现提供50%门票折扣。作为科技创业领域重要会议，对了解行业趋势、潜在合作伙伴及竞品动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openais-math-breakthroughs-rattle-cryptography-leaders": {
+    "title_clean": "OpenAI数学突破引发密码学专家担忧",
+    "summary": "OpenAI上周发布其内部模型解决的300多项数学研究成果，引发全球密码学专家对信息编码安全性的担忧。这一突破可能对现有加密系统构成潜在威胁，值得AI产品经理关注其对安全领域的影响及可能的商业机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/anthropic-s-princen-on-ai-impact-on-businesses-startups-video": {
+    "title_clean": "Anthropic高管Princen谈AI对企业与初创公司的影响",
+    "summary": "Anthropic国际初创企业及原生数字业务负责人Guillaume Princen在Bloomberg节目中讨论人工智能将如何影响企业和初创公司，探讨AI在商业领域的应用前景与挑战，为元宝产品经理提供AI商业化方向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness": {
+    "title_clean": "Farah Khan谈电影创作：内容突破源于自发性、共鸣感和真实性",
+    "summary": "知名导演Farah Khan在孟买Edits电影节上分享创作理念，强调内容突破来自自发性、共鸣感和真实性。这一观点对AI内容生成产品有参考价值，提示AI创作工具应注重真实性和情感共鸣，而非仅追求技术效果。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/deepl-ceo-on-voice-ai-growth-and-competition-video": {
+    "title_clean": "DeepL CEO：探讨语音AI增长与竞争",
+    "summary": "DeepL CEO Jarek Kutylowski讨论了语音到语音翻译需求的激增以及AI如何改变全球商业。他还谈及与OpenAI和Anthropic的竞争，以及DeepL的AWS战略，对产品经理了解语音AI市场格局和竞争态势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-14/ai-robots-china-is-beating-the-us-to-5-trillion-market": {
+    "title_clean": "AI机器人：中国领先美国抢占5万亿美元市场",
+    "summary": "中国企业在先进物理AI硬件领域处于领先地位，特别是在机器人手等硬件方面。这一动态表明中国在AI实体化应用方面取得突破，对元宝产品经理评估AI硬件与软件结合的服务场景具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-tokenz-2": {
+    "title_clean": "Tokenz：CEO访谈谈市场定位与客户需求",
+    "summary": "Tokenz销售运营负责人接受CB Insights访谈，分享其市场定位、客户需求分析及公司战略。内容包含对行业市场的定义、公司定位及客户需求洞察，对了解AI服务商业化策略和客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-hilltech-truck-tech": {
+    "title_clean": "CEO Interview: Hilltech Truck Tech",
+    "summary": "Hiller Truck Tech CEO Wojciech Maślany接受CB Insights采访，分享公司对市场的看法、客户需求分析及公司定位。作为一家卡车技术公司，其CEO的市场洞察可能为元宝在垂直领域AI应用提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-explores-ways-cut-costs-azure-cloud-unit": {
+    "title_clean": "微软探索削减Azure云部门成本",
+    "summary": "据报道，微软正讨论对其Azure云部门进行显著的成本削减，Azure总裁Girish Bablani近期已向高级管理人员传达了这一信息。这表明微软正在调整其云业务战略，可能影响云服务定价和产品路线，对元宝产品经理了解云厂商战略调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk": {
+    "title_clean": "Anthropic高管称开源AI模型风险更高",
+    "summary": "Anthropic美国以外地区销售高管表示，与其AI模型的开源替代品相比，存在更高的网络安全风险或其他危险。这一观点反映了主流AI公司对开源模型安全性的担忧，对产品经理评估开源与闭源AI模型的安全策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-checkups-medical-hub": {
+    "title_clean": "CheckUps Medical Hub：医疗健康平台CEO访谈",
+    "summary": "CheckUps Medical Hub的CEO接受CB Insights采访，分享其市场定位、客户需求认知及公司发展策略。访谈内容对了解医疗健康领域AI服务场景和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/code-switching-detection": {
+    "title_clean": "Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models：多语言语音模型中的语言切换检测",
+    "summary": "该研究针对多语言语音中常见的语言切换现象，提出在语音基础模型中通过语言选择性维度进行检测的方法，解决了预训练语料中语言切换样本不足的问题，对提升多语言语音识别和处理能力有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient": {
+    "title_clean": "Science Corporation：视力恢复芯片首例植入患者",
+    "summary": "Science Corporation在Stargardt病患者中首次植入其视力恢复芯片，这是该公司通过PRIMA项目开发新型脑机接口(BCI)路径的一部分。该信息对AI产品经理有参考价值，展示了AI与医疗结合的创新应用场景。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits": {
+    "title_clean": "OpenAI考虑收购Trail of Bits以加强网络安全业务",
+    "summary": "OpenAI正在洽谈收购网络安全公司Trail of Bits，后者专注于发现和修复开源软件漏洞。此次收购旨在帮助OpenAI发展其网络安全业务，增强在软件安全领域的能力，对元宝产品经理评估AI公司在安全领域的战略布局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

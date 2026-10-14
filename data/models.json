@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-10-13T22:18:07.298Z",
+  "generated_at": "2026-10-14T03:11:42.389Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "~unbiased/pareto-latest",
+      "name": "Pareto Latest",
+      "vendor": "Unbiased",
+      "vendor_slug": "unbiased",
+      "url": "https://openrouter.ai/~unbiased/pareto-latest",
+      "created_at": "2026-10-13T23:10:50Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2.5,
+      "price_out": 7.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": false,
+      "description": "This model always redirects to the latest model in the Pareto family.",
+      "description_zh": null
+    },
+    {
+      "id": "unbiased/pareto-26.9",
+      "name": "Pareto 26.9",
+      "vendor": "Unbiased",
+      "vendor_slug": "unbiased",
+      "url": "https://openrouter.ai/unbiased/pareto-26.9-20260917",
+      "created_at": "2026-10-13T22:28:57Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2.5,
+      "price_out": 7.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": false,
+      "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
+      "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。"
+    },
     {
       "id": "liquid/lfm-2.5-24b-a2b",
       "name": "LFM2.5-24B-A2B",
@@ -1148,30 +1196,6 @@
       "description_zh": "GLM-5.3-FlashX 是 Z.ai GLM-5.3-Flash 的高速变体，GLM-5.3-Flash 是一种原生多模态模型，推理速度高达 200 个令牌/秒。建立在相同的混合稀疏和线性注意力架构之上......"
     },
     {
-      "id": "unbiased/pareto",
-      "name": "Pareto",
-      "vendor": "Unbiased",
-      "vendor_slug": "unbiased",
-      "url": "https://openrouter.ai/unbiased/pareto-20260917",
-      "created_at": "2026-09-17T23:02:58Z",
-      "context_length": 262144,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2.5,
-      "price_out": 7.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
-      "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。"
-    },
-    {
       "id": "~deepseek/deepseek-pro-latest",
       "name": "DeepSeek Pro Latest",
       "vendor": "DeepSeek",
@@ -1186,7 +1210,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.202,
+      "price_in": 0.18,
       "price_out": 8,
       "is_free": false,
       "supports_tools": true,
@@ -1210,8 +1234,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.044,
-      "price_out": 0.765,
+      "price_in": 0.032,
+      "price_out": 0.891,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1455,32 +1479,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.044,
-      "price_out": 0.765,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "DeepSeek V4.1 Flash is a sparse mixture-of-experts model from DeepSeek, and the first built on the company's Causal Encoder-Decoder (CED) architecture. It activates 8B parameters on input and 16B on...",
-      "description_zh": "DeepSeek V4.1 Flash 是 DeepSeek 的稀疏专家混合模型，也是第一个基于该公司因果编码器-解码器 (CED) 架构构建的模型。它在输入上激活 8B 参数，在...上激活 16B 参数。"
-    },
-    {
-      "id": "deepseek/deepseek-v4.1-flash:batch",
-      "name": "DeepSeek V4.1 Flash (batch)",
-      "vendor": "DeepSeek",
-      "vendor_slug": "deepseek",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-20260910",
-      "created_at": "2026-09-10T06:21:25Z",
-      "context_length": 1048576,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.112,
-      "price_out": 0.336,
+      "price_in": 0.032,
+      "price_out": 0.891,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

@@ -128301,5 +128301,78 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-14/malaysia-taps-china-s-satellite-tech-for-earlier-flood-warnings": {
+    "title_clean": "马来西亚采用中国卫星技术提升洪水预警能力",
+    "summary": "马来西亚引入中国卫星技术，旨在提前预警东北季风期间频发的洪水灾害。这一合作展示了卫星技术在灾害预警领域的实际应用价值，为元宝在自然灾害预警服务场景方面提供了技术参考和合作可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-14/china-s-producer-prices-jolted-by-100-oil-as-inflation-rebounds": {
+    "title_clean": "中东冲突致油价上涨推动中国生产者价格反弹",
+    "summary": "中东局势升级导致油价突破100美元/桶，推动中国生产者价格指数反弹，同时与AI相关的商品成本上升。这一通胀趋势可能影响AI硬件成本和供应链，对AI产品经理评估成本结构和定价策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/neocloud-prime-intellect-acquires-startup-speed-inference": {
+    "title_clean": "Neocloud Prime Intellect收购初创公司以加速模型推理",
+    "summary": "Neocloud Prime Intellect收购了一家初创公司，旨在加速AI模型推理速度。这一举措反映了开源模型推理服务提供商在竞争激烈市场中寻求差异化的战略动向，对AI服务提供商的产品定位和竞争策略具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-13/-299-device-puts-apple-at-center-of-homes-video": {
+    "title_clean": "Apple 推出 $299 智能家居设备 HomeView",
+    "summary": "Apple 发布新款智能家居产品线，其中 $299 的 HomeView 显示屏直接挑战谷歌和亚马逊在智能家居领域的 dominance。同时，苹果还升级了 Apple TV 4K 机顶盒，进一步扩展其家庭生态系统。这对元宝产品经理了解科技巨头如何布局智能家居服务场景具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-build-first-data-center-japan": {
+    "title_clean": "Anthropic将在日本建设首个数据中心",
+    "summary": "Anthropic正与NTT Data Group洽谈在日本建设首个数据中心，该设施预计总电力容量可达500兆瓦。此举将增强Anthropic在亚太地区的服务能力，对AI基础设施布局和区域服务扩展具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-akurateco": {
+    "title_clean": "Executive Interview: Akurateco支付解决方案高管访谈",
+    "summary": "Akurateco首席商业官Anastasiia Brener接受CB Insights采访，分享公司对市场的看法、客户需求以及公司定位。作为支付解决方案提供商，其观点对元宝产品经理了解支付行业趋势和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:20:15.130Z",
+  "generated_at": "2026-10-15T03:02:25.475Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -25,7 +25,7 @@
       "supports_tools": true,
       "supports_reasoning": false,
       "description": "This model always redirects to the latest model in the Pareto family.",
-      "description_zh": null
+      "description_zh": "此模型始终重定向到 Pareto 系列中的最新模型。"
     },
     {
       "id": "unbiased/pareto-26.9",
@@ -72,7 +72,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "LFM2.5-24B-A2B is a mixture-of-experts reasoning model from Liquid AI with 24B total and 2.45B active parameters. It always reasons before answering and is built for agents that call tools. Liquid...",
-      "description_zh": null
+      "description_zh": "LFM2.5-24B-A2B 是来自 Liquid AI 的专家混合推理模型，共有 24B 个总参数和 2.45B 个活动参数。它总是在回答之前进行推理，并且是为调用工具的代理而构建的。液体..."
     },
     {
       "id": "google/gemini-4-argon",
@@ -1210,7 +1210,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.131,
+      "price_in": 0.225,
       "price_out": 8,
       "is_free": false,
       "supports_tools": true,

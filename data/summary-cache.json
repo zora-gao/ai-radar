@@ -131309,5 +131309,468 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/cmdround": {
+    "title_clean": "CmdRound：AI工程实践评估工具",
+    "summary": "CmdRound是一款评估工程师如何使用人工智能构建产品的工具，通过分析工程实践为团队提供AI应用能力评估，帮助产品经理了解AI技术在实际开发中的应用情况和效果。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chatway": {
+    "title_clean": "Chatway MCP：AI客服工单处理工具",
+    "summary": "Chatway MCP允许ChatGPT和Claude通过MCP协议处理客户支持工单，为AI客服系统提供新的集成方案，有助于产品经理探索AI助手在客服场景的应用和商业化路径。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cinemalut": {
+    "title_clean": "CinemaLut：视频色彩LUT生成工具",
+    "summary": "CinemaLut是一款视频处理工具，可将任意视频帧转换为色彩查找表(LUT)，供用户在其他视频项目中使用。这为视频创作者提供了便捷的色彩匹配和风格化解决方案，对元宝在视频处理和AI辅助创作场景开发上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/superlocalmemory-v2": {
+    "title_clean": "SuperLocalMemory：AI Agent 本地记忆工具",
+    "summary": "SuperLocalMemory 是一款为 AI Agent 提供本地记忆功能的工具，支持与 Laya、Jev 和 Google Gemma 等模型集成。该产品解决了 AI Agent 在长期记忆和上下文保持方面的痛点，对元宝产品经理在 Agent 记忆系统设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/audimate": {
+    "title_clean": "Audimate：跨应用AI助手工具",
+    "summary": "Audimate是一款AI助手工具，可直接在用户已使用的应用程序中工作，提供无缝的AI辅助体验。这种跨应用集成模式对元宝产品经理有重要参考价值，特别是在如何将AI助手深度嵌入用户日常工作流方面提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us": {
+    "title_clean": "Google Universal Cart：美国推出购物车工具",
+    "summary": "Google在美国推出Universal Cart购物工具，集成在Google搜索和Gemini应用中，为用户提供跨平台购物车功能，简化购物流程，增强电商服务场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kerno": {
+    "title_clean": "Kerno：AI运行时后端QA工程师工具",
+    "summary": "Kerno 1.0是一款面向AI运行时后端的QA工程师工具，专注于测试和验证AI系统的后端性能与稳定性。产品经理可参考其针对AI系统质量保障的专业解决方案，为元宝的测试流程和后端稳定性优化提供思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/coreweave-risk-gauge-hits-record-pricing-60-odds-of-default": {
+    "title_clean": "CoreWeave：AI云计算公司信用风险创纪录",
+    "summary": "CoreWeave作为AI云计算公司，其信用风险指标升至历史最高点，高收益债券持续下跌，原因是公司计划大幅增加借款。这对元宝产品经理了解AI基础设施提供商的财务健康状况和潜在风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/audio-lip-sync-pro-for-blender": {
+    "title_clean": "Audio Lip Sync Pro for Blender：音频驱动面部动画工具",
+    "summary": "这是一款为Blender开发的插件，能够直接从音频生成高质量的面部动画。对于元宝产品经理而言，这展示了AI在动画生成领域的应用潜力，特别是在多模态交互和语音同步方面的技术实现，可为虚拟助手或数字人产品提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/anthropic-urged-to-pause-ipo-by-nyc-comptroller-video": {
+    "title_clean": "Anthropic被敦缓IPO以确保AI安全",
+    "summary": "纽约市主计长敦促Anthropic推迟其首次公开募股，直到完全解决人工智能相关风险。这反映了监管机构对AI安全问题的关注，对AI公司上市进程的潜在影响，以及产品经理需关注的安全合规风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/santander-s-ana-botin-the-david-rubenstein-show-video": {
+    "title_clean": "桑坦德银行CEO谈美国扩张、债务、AI与全球经济",
+    "summary": "桑坦德银行执行主席Ana Botin与David Rubenstein访谈，讨论银行在美国的扩张策略，包括近期收购Webster Financial，并分享她对经济债务和AI在银行业应用的见解。对产品经理了解大型金融机构如何整合AI技术及全球银行业发展趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/ambani-s-jio-hits-crypto-rails-ahead-of-record-india-ipo": {
+    "title_clean": "加密交易者押注安巴尼Jio公司IPO",
+    "summary": "Jio Platforms Ltd.即将进行的创纪录IPO已在加密货币平台上交易，允许投资者在公司股票正式上市前24小时对其估值进行押注。这反映了加密市场与传统金融的融合趋势，为AI金融助手提供了新的服务场景和投资数据源参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan": {
+    "title_clean": "Amazon 推出升级版 Bee AI 可穿戴设备，采用 12 美元/月订阅模式",
+    "summary": "Amazon 推出两款新型 AI 可穿戴设备，能够记录和分析用户一天的活动，这是该公司对去年收购的 Bee 创业公司进行重塑的最新举措，标志着 Amazon 在 AI 个人助理领域的进一步布局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/ledger-unveils-899-smartphone-like-device-after-90-million-crypto-theft": {
+    "title_clean": "Ledger：加密货币硬件钱包推出899美元类智能手机设备",
+    "summary": "加密硬件钱包厂商Ledger在经历9000万美元加密货币被盗安全事件后，推出一款899美元的类智能手机设备，为用户提供数字资产和在线活动的额外保护。该产品反映了加密安全领域的新方向，对关注数字资产安全的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/ai-trade-in-fear-phase-right-now-says-baird-s-mortonson-video": {
+    "title_clean": "AI交易进入恐惧阶段，Baird分析师警告市场恐慌将至",
+    "summary": "Baird科技董事总经理Ted Mortonson表示，如果市场从恐惧转向恐慌阶段，AI交易将迅速大幅下跌。这一市场信号对AI产品经理评估市场情绪和潜在风险具有重要参考价值，可能影响AI产品的市场策略和商业化时机。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75": {
+    "title_clean": "Amazon Bee：推出两款个人AI设备，起价75美元",
+    "summary": "Amazon旗下Bee品牌发布两款新型AI设备，包括可穿戴设备更新版和信用卡大小的手机录音附件，这些设备能够进行内容摘要功能。这是Bee被收购后首次推出新产品，展示了亚马逊在个人AI硬件领域的布局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/truecaller-india-rival-seeks-1-billion-valuation-in-new-funding": {
+    "title_clean": "Equal AI：自动电话筛选应用寻求10亿美元估值融资",
+    "summary": "Equal AI是一家自动电话筛选应用，正在寻求新一轮融资，目标估值达10亿美元，旨在与Truecaller竞争。该应用专注于自动电话筛选功能，可能为元宝在电话筛选和骚扰防护方面提供竞品参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups": {
+    "title_clean": "网络安全领域Q3融资达68亿美元，大额交易主导",
+    "summary": "2026年第三季度，全球网络安全和隐私相关初创企业共获得68亿美元融资，较上一季度增长约50%，大额交易占比显著增加。这一趋势表明网络安全领域持续获得资本青睐，对AI助手产品经理而言，可能意味着安全功能集成和隐私保护将成为产品差异化的重要方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay": {
+    "title_clean": "如何组建由自主人类而非自主系统构成的团队",
+    "summary": "文章探讨了AI如何使团队规模更小、反应更快，并建议企业应雇佣好奇、适应性强且能够挑战既定实践的人才，这些人才值得信任并能独立决策，这对元宝产品经理思考团队构建和AI辅助决策有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-mueon-raises-65-million-rework-data-centers-put-together": {
+    "title_clean": "Mueon：AI服务器组件新型排列方案开发商",
+    "summary": "波特兰初创公司Mueon获6500万美元融资，开发新型AI服务器机架组件排列方案，称其设计可在相同空间内容纳高达十倍的算力容量。此技术对AI基础设施优化有重要参考价值，可能影响元宝等AI产品的算力部署策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-15/ai-medicine-big-pharma-investing-billions-but-success-is-debatable": {
+    "title_clean": "AI Medicine：制药巨头百亿投资AI，成效存疑",
+    "summary": "制药行业正投入巨资开发AI医疗技术，旨在提升人类健康水平，但AI在药物研发和医疗应用中的实际效果仍存在争议，这对AI助手在医疗健康领域的商业化路径和产品定位具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-rex-ai": {
+    "title_clean": "Rex AI CEO访谈：AI助手市场定位与客户需求",
+    "summary": "Rex AI CEO接受CB Insights采访，阐述其市场定位、客户需求及公司战略。作为AI助手产品，其观点对元宝产品经理了解行业竞争格局和用户需求变化具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-amae-health": {
+    "title_clean": "Executive Interview: Amae Health：医疗健康AI市场策略访谈",
+    "summary": "Amae Health首席营收官Sonia Priscilla Garcia接受CB Insights访谈，分享公司对医疗健康市场的定义、客户需求理解及市场策略。这对元宝产品经理了解医疗健康AI领域的市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/spacex-s-spectrum-purchase-exposes-risks-for-big-telecom-stocks": {
+    "title_clean": "SpaceX频谱购买暴露电信巨头风险",
+    "summary": "SpaceX购买频谱资源对传统电信巨头构成竞争威胁，动摇了电信股作为稳健投资品种的地位。这一变化可能影响AI服务提供商的网络基础设施选择，对元宝未来接入网络服务有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/how-the-financial-industry-could-wind-up-on-hyperliquid-video": {
+    "title_clean": "Jeff Yan计划将整个金融行业引入Hyperliquid",
+    "summary": "Jeff Yan正计划将整个金融行业引入加密平台Hyperliquid，该平台今年初因投机者利用其交易原油市场而受到关注。这展示了区块链技术在传统金融领域的应用潜力，对元宝产品经理了解金融科技与AI结合的新场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-open-to-working-with-terafab-but-must-control-plants": {
+    "title_clean": "台积电：愿与马斯克Terafab合作但坚持控制工厂",
+    "summary": "台积电正与马斯克的Terafab项目进行合作谈判，但亚洲芯片制造商强调在任何联盟中必须保持对其芯片生产的控制权。这对AI芯片供应链和AI硬件发展具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-flood": {
+    "title_clean": "Flood CEO访谈：市场定位与客户需求",
+    "summary": "Flood公司CEO接受CB Insights访谈，分享其市场定位、客户需求认知及公司发展策略。作为企业服务领域CEO的观点，对元宝产品经理理解B端AI服务市场定位与客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in": {
+    "title_clean": "台积电乐观展望未能缓解AI建设担忧",
+    "summary": "台积电发布超出预期的收入展望，维持高速增长，但未能消除全球AI基础设施建设可持续性上升的担忧。这对元宝产品经理评估AI算力供应链风险和成本趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-happy-pay": {
+    "title_clean": "CEO Interview: Happy Pay",
+    "summary": "Happy Pay CEO Wesley Billett接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈可能提供支付行业洞察和商业模式参考，对元宝产品经理了解支付服务场景和用户需求有价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-finmarine": {
+    "title_clean": "CEO Interview: Finmarine：金融科技公司CEO谈市场定位与客户需求",
+    "summary": "Finmarine公司CEO Ziko Atamuloev接受CB Insights采访，分享其公司对市场的定义、客户需求的理解以及公司定位。这为金融科技领域的市场策略和客户洞察提供了参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-anyone-com": {
+    "title_clean": "Anyone.com CEO访谈：市场定位与客户需求分析",
+    "summary": "Anyone.com CEO Reza Sardeha接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。作为AI服务提供商，其市场观点对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-finofo": {
+    "title_clean": "Finofo CEO访谈：市场定位与客户需求分析",
+    "summary": "Finofo CEO Prateek Sodhi接受CB Insights采访，分享了公司对市场的看法、客户需求的理解以及自身定位。这为元宝产品经理提供了AI服务领域企业战略视角，有助于了解行业头部企业的市场策略和客户洞察方法。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-qnu-labs": {
+    "title_clean": "QNu Labs CEO访谈：量子安全市场定位与客户需求分析",
+    "summary": "QNu Labs CEO Sunil Kumar Gupta接受CB Insights采访，阐述公司对量子安全市场的看法、客户需求分析以及自身在市场中的定位。该访谈提供了量子安全领域的市场洞察和商业策略，对元宝产品经理了解前沿技术商业化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-ng-cash": {
+    "title_clean": "Executive Interview: NG.CASH",
+    "summary": "NG.CASH联合创始人兼CMO Antonio Nakad接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。这对元宝产品经理了解金融科技领域创业公司的市场策略和客户洞察有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/nyu-professor-gary-marcus-on-ai-safety-video": {
+    "title_clean": "NYU教授Gary Marcus谈AI安全",
+    "summary": "纽约大学教授Gary Marcus讨论中美AI竞赛将形成\"平局\"的观点，以及如何提升AI安全性。作为知名AI专家，他的分析对元宝产品经理了解国际AI竞争格局和安全考量具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/stripe-bets-on-ai-powered-commerce-video": {
+    "title_clean": "Stripe 投资AI驱动的商业",
+    "summary": "Stripe副总裁Eileen O'Mara在都柏林国际AI峰会上表示，欧洲正助力初创企业扩展，AI驱动企业数量激增。这表明支付巨头正在布局AI商业应用，对元宝探索AI商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-nvidia-chipagents-launch-evaluation-ai-powered-chip-design": {
+    "title_clean": "Nvidia与ChipAgents联合推出AI芯片设计评估工具",
+    "summary": "Nvidia与ChipAgents合作发布了一项基准测试，用于评估不同AI模型在芯片设计任务中的表现。ChipAgents是一家帮助客户自动化芯片设计的初创公司，此次合作标志着AI在半导体设计领域的应用进一步深化，为元宝产品经理提供了AI专业领域应用的新视角。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

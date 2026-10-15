@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-10-15T19:44:24.922Z",
+  "generated_at": "2026-10-15T22:50:17.240Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "moondream/moondream3-preview",
+      "name": "Moondream 3 Preview",
+      "vendor": "Moondream",
+      "vendor_slug": "moondream",
+      "url": "https://openrouter.ai/moondream/moondream3-preview-20261013",
+      "created_at": "2026-10-15T22:13:05Z",
+      "context_length": 32000,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.3,
+      "price_out": 2.5,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Moondream 3 Preview is a vision-language model from Moondream with 9B total parameters and 2B active (mixture-of-experts). It handles visual question answering, captioning, OCR, and visual reasoning over images, with...",
+      "description_zh": "Moondream 3 Preview 是 Moondream 的视觉语言模型，具有 9B 总参数和 2B 活跃参数（专家混合）。它处理视觉问答、字幕、OCR 和图像视觉推理，..."
+    },
+    {
+      "id": "moondream/moondream3.1-9b-a2b",
+      "name": "Moondream 3.1",
+      "vendor": "Moondream",
+      "vendor_slug": "moondream",
+      "url": "https://openrouter.ai/moondream/moondream3.1-9b-a2b-20261013",
+      "created_at": "2026-10-15T22:12:53Z",
+      "context_length": 32000,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.3,
+      "price_out": 2.5,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Moondream 3.1 is a vision-language model from Moondream, the successor to Moondream 3 Preview, with 9B total parameters and 2B active (mixture-of-experts). It handles visual question answering, captioning, OCR, and...",
+      "description_zh": "Moondream 3.1 是 Moondream 的视觉语言模型，是 Moondream 3 Preview 的后继者，具有 9B 总参数和 2B 活动参数（专家混合）。它处理视觉问答、字幕、OCR 和..."
+    },
     {
       "id": "meta/muse-spark-open",
       "name": "Muse Spark Open",
@@ -1287,8 +1335,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.017,
-      "price_out": 0.8,
+      "price_in": 0.013,
+      "price_out": 0.72,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1440,56 +1488,6 @@
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the GPT Luna family.",
       "description_zh": "此模型始终重定向到 GPT Luna 系列中的最新模型。"
-    },
-    {
-      "id": "sakana/fugu-ultra-v2",
-      "name": "Fugu Ultra v2",
-      "vendor": "Sakana",
-      "vendor_slug": "sakana",
-      "url": "https://openrouter.ai/sakana/fugu-ultra-v2-20260911",
-      "created_at": "2026-09-11T05:43:03Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 30,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Fugu Ultra v2 is the higher-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to...",
-      "description_zh": "Fugu Ultra v2 是 Sakana AI Fugu 系列中性能更高的型号。 Fugu 不是一个单一的整体模型，而是一个学习的多代理编排系统：一种经过训练的语言模型......"
-    },
-    {
-      "id": "sakana/fugu-max",
-      "name": "Fugu Max",
-      "vendor": "Sakana",
-      "vendor_slug": "sakana",
-      "url": "https://openrouter.ai/sakana/fugu-max-20260911",
-      "created_at": "2026-09-11T05:32:51Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Fugu Max is the cost-performance model in Sakana AI's Fugu family. Rather than a single monolithic model, Fugu is a learned multi-agent orchestration system: a language model trained to route...",
-      "description_zh": "Fugu Max 是 Sakana AI Fugu 系列中的性价比型号。 Fugu 不是一个单一的整体模型，而是一个学习的多代理编排系统：一种经过训练的语言模型，用于路由......"
     }
   ]
 }

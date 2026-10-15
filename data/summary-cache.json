@@ -131772,5 +131772,481 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/superdraft": {
+    "title_clean": "Superdraft：客户邮件营销自动化工具",
+    "summary": "Superdraft是一款自动化工具，能够识别并向客户发送邮件营销机会。该产品帮助企业管理客户沟通流程，自动发现适合通过邮件触达客户的时机，提升营销效率和客户转化率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/anthropic-stands-alone-as-rest-of-us-ipo-market-slows-to-a-crawl": {
+    "title_clean": "Anthropic：美国AI独角兽IPO市场中的亮点",
+    "summary": "在美国IPO市场整体放缓的背景下，Anthropic成为少数被投资者看好的潜在重磅上市企业。这反映了AI领域特别是大型模型公司仍受到资本市场青睐，对元宝产品经理判断AI行业融资环境和估值趋势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more": {
+    "title_clean": "Bluesky：AI驱动的Attie平台扩展至网站与游戏构建",
+    "summary": "Bluesky将其实验性Attie平台扩展，引入\"社交氛围编程\"功能，允许用户创建游戏、测验和网站等互动体验，并能接入社交网络数据。这对元宝产品经理有参考价值，展示了AI工具如何赋能用户创作，并融入社交元素。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access": {
+    "title_clean": "Anthropic向METR研究员开放员工级访问权限",
+    "summary": "Anthropic允许METR研究人员以员工级别权限访问其系统，后者将发布对Anthropic风险、事件和实践的独立评估，且Anthropic放弃阻止其发布的权利。这反映了AI安全研究透明度提升的趋势，对元宝产品经理了解AI安全评估机制和行业透明度标准有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/bloomberg-tech-10-15-2026-video": {
+    "title_clean": "Anthropic IPO进展与CoreWeave融资动态",
+    "summary": "Anthropic准备IPO，第三季度营收数据公布；CoreWeave声称可获取'无限'资金，引发市场震动。这两家AI公司的融资动态反映了AI行业资本热度，对元宝产品经理评估AI创业公司估值和融资环境有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16": {
+    "title_clean": "TechCrunch 创始人峰会门票优惠截止：最高可省200美元",
+    "summary": "TechCrunch 创始人峰会门票优惠将于10月16日结束，创始人及投资者票种可节省最高200美元。该峰会将于11月4日在波士顿SoWa举行，预计将有1000名创始人和投资者参与，对产品经理了解行业动态和建立人脉有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ai-written-software-needs-flight-simulator": {
+    "title_clean": "AI编写软件需要飞行模拟器：企业应用压力测试工具",
+    "summary": "随着企业越来越多地使用AI创建应用程序，公司高管对新型软件的需求正在上升，这类软件能够对这些AI应用进行压力测试，模拟它们如何处理网络问题和其他故障情况，为企业提供AI应用可靠性保障。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-10-15/ia-y-robots-humanoides-china-desafia-el-liderazgo-de-ee-uu": {
+    "title_clean": "中国挑战美国在先进人形机器人硬件领域的领导地位",
+    "summary": "中国在先进人形机器人硬件领域已取得领先优势，这是高科技战略领域的重要突破。这一发展对AI助手和AI Agent的产品经理具有重要参考价值，表明中国在机器人硬件技术方面可能为AI实体化提供新基础。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/inside-blackstone-s-massive-bet-on-the-ai-boom-video": {
+    "title_clean": "黑石集团大规模押注AI投资热潮",
+    "summary": "黑石集团建立了华尔街最广泛的AI投资组合之一，从数据中心、电力和冷却到芯片融资，并投资了包括OpenAI、Anthropic和Space在内的多家公司，展示了AI领域的资本布局趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/meta-releases-open-ai-model-while-keeping-its-best-tech-closed": {
+    "title_clean": "Meta 发布开源AI模型但保留核心技术",
+    "summary": "Meta向开发者开放了一个新的AI模型供下载和修改，同时将其最先进的技术保持封闭，旨在将其AI技术商业化。这一策略反映了大公司在开源与专有技术之间的平衡考量，对元宝的产品策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/anthropic-revenue-hits-16-8-billion-in-q3-before-ipo-video": {
+    "title_clean": "Anthropic：AI公司Q3收入达168亿美元并实现盈利",
+    "summary": "Anthropic在第三季度实现168亿美元收入，并在调整后实现盈利。这一财务表现表明AI公司商业化进程加速，为元宝产品经理提供了AI企业服务市场潜力和盈利模式的重要参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/coreweave-s-selloff-is-buying-opportunity-deutsche-bank-says": {
+    "title_clean": "CoreWeave股价暴跌被德银视为买入机会",
+    "summary": "CoreWeave公司股价本周暴跌，四个交易日内市值蒸发超100亿美元，原因是公司信用状况恶化。德银分析师认为这是买入机会，这对AI基础设施提供商的估值波动和投资策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/cityfibre-asks-banks-to-lend-for-new-deals-write-down-some-debt": {
+    "title_clean": "CityFibre寻求重组债务并资助新并购交易",
+    "summary": "英国光纤网络公司CityFibre要求银行削减20亿英镑贷款并提供新资金用于收购，以维持公司运营。这一动向反映了基础设施领域融资环境变化，对元宝产品经理了解科技企业资本策略和并购动向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/power-on-podcast-apple-s-homeview-is-here-video": {
+    "title_clean": "Apple HomeView发布：智能家居控制面板",
+    "summary": "Apple终于推出智能家居控制面板HomeView，同时Mark Gurman透露了新款触控屏MacBook Pro的发布细节。这对元宝产品经理有参考价值，因为智能家居控制是AI助手的重要服务场景之一，Apple的布局可能影响用户对AI助手控制智能家居的期望。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/cognitions-plan-limit-tokenmaxxing-efficient-engineers": {
+    "title_clean": "Cognition限制工程师使用Token数量以控制AI成本",
+    "summary": "大型企业正采取措施控制AI支出，包括限制员工使用量、转向更小更便宜的模型，并使用路由器仅将最复杂请求发送给最昂贵的模型。Cognition此举反映了AI服务成本管理成为企业关注的重点，对产品经理思考AI资源分配和定价策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.microsoft.com/source/emea/features/missed-a-lecture-this-ai-agent-at-bar-ilan-university-helps-students-catch-up": {
+    "title_clean": "Bar-Ilan University：AI学习助手帮助学生补课",
+    "summary": "以色列巴伊兰大学开发了一款AI助手，专门帮助缺课学生快速补全学习内容。该AI代理能够处理课程材料，为学生提供个性化的学习支持，这对教育类AI助手的产品设计和功能实现具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day": {
+    "title_clean": "TechCrunch Disrupt 2026：科技大会最后报名日",
+    "summary": "TechCrunch Disrupt 2026大会最后报名日，活动将汇聚1万多名科技领袖，提供交流与洞察机会，目前门票可享受75%折扣。对产品经理而言，这是了解行业趋势、潜在合作伙伴和竞品动态的重要平台。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/dangote-cement-adds-goldman-ubs-for-november-london-listing": {
+    "title_clean": "Dangote Cement：伦敦IPO新增高盛和瑞银作为联合承销商",
+    "summary": "尼日利亚Dangote Cement公司已邀请高盛和瑞银担任其11月伦敦IPO的联合承销商，这是该公司上市计划的重要进展。此信息对产品经理了解大型企业融资动向及金融服务行业合作模式有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars": {
+    "title_clean": "AI agents are coming to Rivian's cars：汽车AI助手服务",
+    "summary": "Rivian宣布将在汽车中引入AI agents，具体功能细节将在12月的\"AI与自动驾驶日\"活动中公布。这表明汽车制造商正在探索AI助手在车载场景中的应用，为元宝产品经理提供了AI服务在汽车领域的新场景参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/dyson-s-500-toothbrush-has-one-big-problem-video": {
+    "title_clean": "戴森500美元AI牙刷：相机功能存在可靠性问题",
+    "summary": "戴森推出售价500美元的AI牙刷CameraJet，配备摄像头功能，但测试显示其可靠性存在问题，产品尚未达到市场预期。这对高端AI消费品开发有警示意义，提醒产品经理在创新功能与可靠性平衡上的重要性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-15/instagram-fills-a-pregnant-reporter-s-feed-with-a-future-to-dread": {
+    "title_clean": "Instagram：孕妇记者的社交媒体内容推送问题",
+    "summary": "Instagram向一位怀孕记者的推送内容中充斥着负面育儿信息，引发社交媒体平台内容推荐算法对敏感人群的担忧。这提示产品经理需关注AI推荐系统对特殊用户群体的内容安全与心理健康影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/ripple-opens-9-billion-perp-trading-boom-to-wall-street-clients": {
+    "title_clean": "Ripple向华尔街客户开放90亿美元永续交易市场",
+    "summary": "Ripple向华尔街客户开放价值90亿美元的永续交易市场，加密货币公司正通过定位为传统金融机构的竞争对手来寻求增长。这反映了加密与传统金融的融合趋势，对元宝产品经理了解金融服务场景拓展和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/__trashed-3": {
+    "title_clean": "Voyager AI CEO访谈：市场定位与客户需求",
+    "summary": "Voyager AI CEO Aaron Colcord接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及公司定位。该访谈揭示了AI公司在市场策略和客户需求理解方面的思考，对元宝产品经理了解行业头部企业的市场定位和客户洞察有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/ai-demand-keeps-t-rowe-price-cio-optimistic-on-trade-video": {
+    "title_clean": "T. Rowe Price CIO：AI需求持续看好投资前景",
+    "summary": "T. Rowe Price全球投资联席首席投资官Sebastien Page表示，未来6-12个月对人工智能投资保持'根本性'乐观态度，认为AI需求持续增长。这对AI产品经理了解资本市场对AI赛道的信心和资金流向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/israeli-firms-placed-spyware-at-al-jazeera-via-ads-report-says": {
+    "title_clean": "以色列公司通过广告向半岛电视台植入间谍软件",
+    "summary": "两家以色列公司通过操控在线广告，在卡塔尔半岛电视台的数十台电脑上安装了监控软件。这一事件揭示了广告供应链安全风险，对AI助手产品在广告投放和内容安全方面的安全防护机制有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/deutsche-bank-sees-promising-signs-in-limited-selloff-video": {
+    "title_clean": "德银：AI板块抛售有限，市场呈现积极信号",
+    "summary": "德银宏观策略师Henry Allen分析称，尽管人工智能交易板块出现抛售，但市场反应有限，显示出积极信号。这一市场动态对AI产品经理了解行业资本流动和投资者情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
+    "title_clean": "Apertus 1.5：AI模型训练与部署工具更新",
+    "summary": "Apertus 1.5版本发布，主要更新包括模型训练性能优化、部署流程简化及新增多模态支持。此次更新对AI产品经理有参考价值，特别是在模型训练效率和部署便捷性方面的改进，可启发元宝在AI模型应用和部署流程上的优化思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/nyu-s-gary-marcus-on-building-ai-we-can-trust-video": {
+    "title_clean": "纽约大学Gary Marcus：构建可信AI",
+    "summary": "纽约大学心理学与神经科学荣誉教授Gary Marcus在2026年彭博新经济论坛上讨论如何构建可信AI，探讨AI信任问题的解决方案与挑战，为产品经理提供AI安全与可靠性方面的专业见解。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-hyprview": {
+    "title_clean": "HyprView CEO访谈：市场定位与客户需求分析",
+    "summary": "HyprView CEO Victor Outters接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在市场中的定位。该访谈为AI产品经理提供了企业级AI解决方案市场定位和客户需求洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-venture360": {
+    "title_clean": "Venture360 CEO访谈：市场定位与客户需求分析",
+    "summary": "Venture360 CEO Rachael Qualls接受CB Insights采访，分享了公司对市场的定义、客户需求的理解以及公司定位。这为AI产品经理提供了企业级服务市场洞察和客户需求分析视角，有助于理解B端AI服务市场的发展趋势。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/apple-prepares-debut-apple-intelligence-china-december": {
+    "title_clean": "Apple Intelligence：苹果端侧AI服务即将登陆中国",
+    "summary": "苹果计划于12月在中国大陆推出Apple Intelligence端侧AI服务，此前因监管障碍导致延迟。这一进展标志着苹果AI产品进入中国市场，对元宝产品经理了解国际AI巨头在中国市场的本地化策略和监管应对具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/hsbc-on-using-ai-and-quantum-computing-video": {
+    "title_clean": "HSBC：银行AI与量子计算应用进展",
+    "summary": "汇丰银行企业及机构银行业务CEO Michael Roberts讨论了该行在实施人工智能和量子计算方面的进展。这反映了大型金融机构在探索前沿技术以提升服务效率和风险管理能力方面的战略方向，对元宝了解AI在金融场景的应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/asia-tech-selloff-shows-china-as-possible-bright-spot-video": {
+    "title_clean": "亚洲科技股抛售显示中国成为潜在亮点",
+    "summary": "亚洲半导体和AI硬件股票出现大幅抛售，促使投资者超越短期恐慌关注中国。高盛亚太股票策略主管Timothy Moe等专家认为，中国可能成为这一轮市场调整中的亮点，这对关注AI硬件供应链多元化的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance": {
+    "title_clean": "Meta研究：四分之三小企业主认为AI提升生产力，但需更多指导",
+    "summary": "Meta在亚太九国市场的研究显示，AI正帮助小企业成长、与大型竞争对手抗衡并跨境触达客户。多数小企业主认可AI提升生产力的价值，但在实际应用中仍需要更多指导和支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/meta-muse-spark-open": {
+    "title_clean": "Meta发布Muse Spark Open：多模态专家混合开源模型",
+    "summary": "Meta推出Muse Spark Open，这是一款前沿的多模态专家混合模型，采用开放权重设计。该模型整合了文本、图像等多种模态的处理能力，代表了Meta在多模态AI领域的重要进展，为元宝产品团队在多模态交互和模型选型方面提供了重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-14/the-close-10-14-2026-video": {
+    "title_clean": "通胀高企与AI信贷担忧致股市下跌",
+    "summary": "通胀数据强劲与AI信贷市场担忧引发股市下滑，Vanguard总裁Greg Davis对市场走势进行分析。此资讯反映了宏观经济环境对AI行业融资的影响，对元宝产品经理评估AI商业化环境与市场风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/mlx-distributed-inference": {
+    "title_clean": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio：Mac Studio本地大模型推理框架",
+    "summary": "该技术方案在Mac Studio上利用MLX框架和RDMA技术实现本地大语言模型推理，为AI研究人员和开发者提供私有环境下的模型实验能力。这对产品经理评估本地化AI部署方案和硬件适配策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses": {
+    "title_clean": "Meta、米兰布雷拉美术馆和依视路陆逊梯卡通过AI眼镜扩大艺术可及性",
+    "summary": "Meta与米兰布雷拉美术馆、依视路陆逊梯卡合作推出'Sensing Art'项目，探索AI眼镜如何让用户超越肉眼所见发现艺术作品细节，为艺术欣赏提供新的多模态交互体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openais-computing-lead-sachin-katti-depart-november": {
+    "title_clean": "OpenAI计算战略副总裁Sachin Katti将于11月离职",
+    "summary": "OpenAI计算战略副总裁Sachin Katti宣布将于11月15日离职，他在OpenAI任职约一年，此前曾在英特尔工作四年。这一人事变动可能影响OpenAI的AI基础设施战略规划，对产品经理了解OpenAI内部架构调整有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

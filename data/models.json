@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-16T19:12:38.077Z",
+  "generated_at": "2026-10-16T22:24:00.489Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "xingchen-agi/xing4.0-29b-a4b:free",
+      "name": "Xing4.0 29B A4B (free)",
+      "vendor": "Xingchen Agi",
+      "vendor_slug": "xingchen-agi",
+      "url": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b-20261015",
+      "created_at": "2026-10-16T19:04:56Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Xing4.0-29B-A4B is an open-weight mixture-of-experts language model from China Telecom's AI team (TeleAI) and the successor to the TeleChat series. It has 29B total parameters with 4B active per token...",
+      "description_zh": "Xing4.0-29B-A4B是来自中国电信人工智能团队（TeleAI）的开放权重专家混合语言模型，是TeleChat系列的后继者。它总共有 29B 个参数，每个代币有 4B 个活跃参数......"
+    },
     {
       "id": "reflection/beam-1.0-501b-a23b",
       "name": "Beam 1.0 501B A23B",
@@ -18,8 +41,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.25,
-      "price_out": 1,
+      "price_in": 1,
+      "price_out": 3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1461,31 +1484,6 @@
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the GPT Sol family.",
       "description_zh": "此模型始终重定向到 GPT Sol 系列中的最新模型。"
-    },
-    {
-      "id": "~openai/gpt-terra-latest",
-      "name": "GPT Terra Latest",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/~openai/gpt-terra-latest",
-      "created_at": "2026-09-11T12:48:45Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 12,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the GPT Terra family.",
-      "description_zh": "此模型始终重定向到 GPT Terra 系列中的最新模型。"
     }
   ]
 }

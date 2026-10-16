@@ -133857,5 +133857,419 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/iokr-0xXyTV8dbLsQE1hJw": {
+    "title_clean": "WorldOracle：世界模型真实应用测试",
+    "summary": "WorldOracle对世界模型进行了真实场景测试，评估其在实际应用中的表现和可行性。这项测试为AI模型在复杂现实环境中的应用提供了重要参考，对产品经理了解前沿AI技术的实际落地价值具有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/WZu1EcrzM2OMImoLdmhngA": {
+    "title_clean": "AI系统自主规划与决策能力提升",
+    "summary": "该资讯报道了AI系统在自主规划与决策方面的进展，表明AI正在学习如何像人类一样进行战略思考和资源调配。这对元宝产品经理有重要参考价值，特别是在开发AI助手和Agent功能时，如何提升系统自主解决问题的能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/neophyte": {
+    "title_clean": "Neophyte：AI自动产品注册与引导工具",
+    "summary": "Neophyte是一款AI代理工具，能够自动完成产品注册和引导流程。这项技术可大幅简化用户首次使用复杂软件的体验，对元宝产品经理在降低用户使用门槛、优化首次交互流程方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/oNvhbUu-kUhl3JoSixAVRw": {
+    "title_clean": "大模型推理等待问题：吞吐优化新解法",
+    "summary": "针对大模型推理过程中的卡顿和吞吐量不足问题，提出了新的解决方案。这一技术突破可能直接影响AI助手的响应速度和用户体验，对产品经理评估技术选型和性能优化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/XnT6ME64yzcZlWfZw6vcyQ": {
+    "title_clean": "KTransformers：CPU直接参与模型计算技术",
+    "summary": "KTransformers技术解决了AI模型计算中权重搬运的延迟问题，使CPU能够直接参与模型计算，提升计算效率。这项技术对优化AI推理性能、降低计算成本具有参考价值，可能影响元宝的产品架构设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up": {
+    "title_clean": "Apple任命Meta法律专家为诉讼主管",
+    "summary": "苹果公司任命Meta前高管担任新的诉讼主管，加强其法律团队，以应对日益增多的诉讼案件。这一人事变动反映了苹果在法律策略上的调整，对产品经理了解科技巨头间的法律竞争态势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/jp-morgan-strategist-on-ai-jitters-investing-outlook-video": {
+    "title_clean": "摩根士丹利策略师谈AI投资前景与市场波动",
+    "summary": "摩根士丹利资产管理全球市场策略师Jordan Jackson讨论AI相关市场波动及投资前景，分析企业盈利增长是否接近峰值，即使业绩并未恶化。这对元宝产品经理了解AI投资趋势和市场情绪变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/financing-the-ai-boom-masters-in-business-video": {
+    "title_clean": "Financing The AI Boom: Masters in Business with Bob Michele",
+    "summary": "摩根大通CIO Bob Michele探讨AI行业融资趋势，分享其职业经历和对AI金融投资的见解，为元宝产品经理提供AI商业化与资本视角的行业动态参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says": {
+    "title_clean": "Replit终止与Anthropic合作，CEO称因成本等因素",
+    "summary": "Replit CEO Masad宣布终止与Anthropic的合作，称这一决定基于多种原因，包括成本考量。Replit曾在8月宣布与OpenAI建立合作关系，但此前并未表明已停止与Anthropic的合作。这对AI服务提供商选择和成本控制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass": {
+    "title_clean": "Nvidia CEO：AI市场动荡终将过去",
+    "summary": "Nvidia CEO黄仁勋对AI股票市场下跌持乐观态度，认为AI技术的优势将很快超过投资者的担忧。这反映了行业领导者对AI长期价值的信心，对元宝产品经理判断AI市场趋势和企业信心有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/openai-poaches-another-spacex-sales-lead-focused-on-ai": {
+    "title_clean": "OpenAI挖角SpaceX销售主管负责网络安全业务",
+    "summary": "OpenAI聘请SpaceX销售主管Graham Seamans负责网络安全业务销售，这是继埃隆·马斯克的人工智能公司后，OpenAI的又一次关键人才挖角。这一动向表明OpenAI正在加强企业级安全领域的销售能力，可能与企业服务市场扩张策略相关。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal": {
+    "title_clean": "本周十大融资轮次：AI驱动初创公司获大额投资",
+    "summary": "本周AI驱动初创公司融资市场活跃，但大型融资轮次有所减少，仅有两家公司获得数亿美元级别投资。这反映了AI领域投资趋势的变化，对元宝产品经理了解AI行业资本动向和潜在竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/power-on-exclusive-news-on-apple-s-october-launch-event-video": {
+    "title_clean": "苹果十月发布会：计划支付网红差旅费邀请参与",
+    "summary": "彭博社独家消息称，苹果计划支付网红差旅费，邀请他们参加十月底的发布会。这反映了苹果对社交媒体营销的重视，以及通过网红影响消费者购买决策的策略，对元宝产品经理了解科技巨头的营销策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/tesla-showcases-long-awaited-roadster-with-aerial-tricks-video-mvbe4ufl": {
+    "title_clean": "Tesla展示期待已久的Roadster跑车：空中特技表演",
+    "summary": "特斯拉终于发布了长期推迟的Roadster跑车原型，并通过一场独特的产品发布会展示了车辆在空中的特技表演。这一事件对AI产品经理的参考价值在于了解科技公司的产品发布策略和营销创新，尤其是如何通过视觉冲击力强的演示来吸引用户关注。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/coreweave-nscale-put-neocloud-economics-in-focus-video": {
+    "title_clean": "CoreWeave与Nscale聚焦Neocloud经济模式",
+    "summary": "CoreWeave和Nscale两家公司正关注Neocloud经济模式，AI基础设施热潮带来的巨额债务融资使Neocloud行业面临日益严格的审查。Decoding Discontinuity CEO Raphaelle D'Ornano对此进行了讨论，这对AI基础设施提供商的商业模式和财务可持续性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-16/behind-the-scenes-of-grand-theft-auto-vi": {
+    "title_clean": "Behind the Scenes of 'Grand Theft Auto VI'：游戏幕后制作揭秘",
+    "summary": "深入探索了可能是史上最大规模电子游戏《侠盗猎车手VI》的制作过程，展示了游戏开发的技术细节和创意理念，为AI游戏开发团队提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/us-imposes-drone-flight-restrictions-along-border-with-mexico": {
+    "title_clean": "美国对墨西哥边境实施无人机飞行限制",
+    "summary": "美国交通部宣布立即禁止未经授权的无人机沿美墨边境飞行，以协助持续的安全任务。这一政策变化可能影响边境地区的无人机应用场景，对元宝产品经理了解无人机监管政策变化及潜在服务限制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/only-third-inning-relative-to-this-ai-game-says-ives-video": {
+    "title_clean": "AI行业仍处于早期发展阶段，CoreWeave创始人套现33亿美元",
+    "summary": "CoreWeave三位联合创始人自去年IPO以来已出售价值33亿美元的公司股票，反映出在AI领域信贷风险上升和投资者谨慎情绪下，创始人选择获利了结。这表明AI行业仍处于早期发展阶段，未来有巨大增长空间，对元宝产品经理评估AI市场成熟度和投资策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/debt-worries-keep-driving-down-coreweave-stock-video": {
+    "title_clean": "CoreWeave股票因债务担忧持续下跌",
+    "summary": "CoreWeave股票本周前三个交易日下跌20%，随后英伟达CEO黄仁勋公开表示对该公司有信心，但市场担忧其债务问题可能持续影响股价表现。对AI基础设施供应商的财务稳定性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-azoma": {
+    "title_clean": "Executive Interview: Azoma：CTO谈市场定位与客户需求",
+    "summary": "Azoma公司首席技术官Timur Luguev接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身在市场中的定位。这为元宝产品经理提供了AI企业服务领域的市场洞察和客户需求参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/singapores-dayone-pushes-ahead-data-center-ipo-tied-tiktok": {
+    "title_clean": "新加坡DayOne数据中心推进与TikTok关联的IPO",
+    "summary": "新加坡数据中心运营商DayOne Data Centers正筹备在纽约进行数十亿美元的首次公开募股，尽管在美国投资者中知名度不高，但其业务与TikTok紧密关联。这一动态对元宝产品经理了解AI服务基础设施布局和潜在合作机会具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever": {
+    "title_clean": "Jev：Vercel最快采用的AI模型",
+    "summary": "Jev成为Vercel历史上被采用速度最快的AI模型，数据来自Vercel的AI网关服务。该网关是与OpenRouter类似的统一API服务，表明Jev在开发者社区中获得了快速认可，可能对AI模型部署和采用模式有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy": {
+    "title_clean": "Mark Wahlberg：支持在电影中正确使用AI并接受AI克隆延续事业",
+    "summary": "演员兼天使投资人Mark Wahlberg表示支持在电影制作中使用AI技术，但强调必须'增强创作'而非替代。他甚至接受AI克隆技术延续自己的演艺事业，反映了名人对于AI在创意产业中应用的开放态度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods": {
+    "title_clean": "Veritas：防伪芯片扩展至珠宝奖杯香水瓶领域",
+    "summary": "Veritas公司将其防伪芯片技术扩展应用于珠宝、奖杯和香水瓶等高端消费品，旨在应对日益严重的'超级仿冒品'问题。该芯片技术为品牌提供难以复制的防伪解决方案，对元宝在奢侈品防伪服务场景拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/tesla-reveals-flying-roadster-built-with-spacex-tech-video": {
+    "title_clean": "Tesla发布搭载SpaceX技术的飞行跑车原型",
+    "summary": "特斯拉在德州SpaceX设施展示了新款Roadster跑车原型，配备空气推进器可实现飞行功能。这一跨界技术整合展示了电动汽车与航天技术的融合创新，为未来交通工具形态提供了新思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-certify": {
+    "title_clean": "Executive Interview: Certify：企业差旅管理平台高管访谈",
+    "summary": "Certify首席商务官Nicholas Helfrich接受CB Insights采访，分享公司对市场的看法、客户需求分析以及企业差旅管理领域的市场定位。这对元宝产品经理了解企业服务场景下的AI应用机会和商业化模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers": {
+    "title_clean": "苹果反垄断谈判引发开发者担忧",
+    "summary": "美国司法部正与苹果就反垄断诉讼进行和解谈判，但应用开发者担忧任何协议都无法充分遏制苹果的垄断行为。这一动态可能影响苹果应用生态规则和开发者利益，对元宝产品经理了解平台政策变化和开发者关系管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/schwab-ceo-on-ai-strategy-investing-trends-charlie-video": {
+    "title_clean": "Schwab CEO：AI战略与投资趋势及'Charlie'计划",
+    "summary": "嘉信理财CEO Rick Wurster讨论了客户投资趋势、吸引年轻投资者的努力，以及公司为何阻止未经授权的AI代理。这反映了金融行业对AI工具的谨慎态度，以及传统金融机构如何应对AI竞争，对元宝在金融场景的AI应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai": {
+    "title_clean": "亚洲AI初创企业融资创近季度新高",
+    "summary": "根据Crunchbase数据，第三季度亚洲初创企业融资总额达385亿美元，其中大部分流向AI公司，反映投资者对AI领域的持续关注和投入，为元宝产品经理提供了区域AI市场投资趋势的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/taiwan-to-curb-china-ai-chip-exports-to-align-with-us-video": {
+    "title_clean": "台湾将限制对华AI芯片出口以配合美国政策",
+    "summary": "台湾计划加强对AI芯片的出口管制，进一步与美国限制措施保持一致，这是特朗普政府打击半导体走私至中国行动的一部分。此举可能影响全球AI芯片供应链，对元宝等AI产品的硬件供应和成本控制带来潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/malaysia-unveils-six-chips-in-bid-to-move-up-technology-chain": {
+    "title_clean": "马来西亚推出六款芯片：提升技术链与AI产业布局",
+    "summary": "马来西亚推出六款自主研发芯片，旨在提升半导体产业链价值并抓住人工智能发展机遇。这一举措反映了国家层面在AI硬件领域的战略布局，对元宝产品经理了解AI产业链上游发展态势和国家科技政策动向具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/apple-iphone-duo-orders-slip-into-2027-amid-preorder-frenzy": {
+    "title_clean": "苹果折叠手机iPhone Duo供应短缺，发货延迟至2027年",
+    "summary": "苹果首款折叠手机iPhone Duo预售火爆，发货时间已推迟至2027年，显示强劲需求与供应不足。这对元宝产品经理了解高端折叠设备市场趋势和用户对创新形态的接受度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/boe-s-bailey-calls-for-global-ai-testing-standards-video": {
+    "title_clean": "英格兰银行行长呼吁建立全球AI测试标准",
+    "summary": "英格兰银行行长贝利呼吁对AI模型实施严格的发布前后测试标准，以保护公众信任和金融基础设施安全，同时警告市场可能面临调整风险。这对AI金融应用监管和合规具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+    "title_clean": "Stack Overflow for Agents：AI开发者问答社区插件",
+    "summary": "Stack Overflow推出的AI开发者问答社区通过ChatGPT插件实现用户量三倍增长，并带来高达10倍的AI代理创建量增长。该产品由两名工程师在几周内基于Codex开发完成，展示了AI插件在专业社区中的商业潜力。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

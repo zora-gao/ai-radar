@@ -133141,5 +133141,243 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/toad-4": {
+    "title_clean": "Toad：AI设备远程控制工具",
+    "summary": "Toad是一款允许AI代理控制用户自有设备的工具，通过将AI指向任何机器实现远程操作，为AI Agent的设备控制能力提供新思路，对元宝拓展跨设备服务场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gbrain": {
+    "title_clean": "GBrain Tools：AI密码管理工具",
+    "summary": "GBrain Tools是一款专为AI设计的密码管理工具，旨在解决AI应用中的密码安全问题。该工具可能帮助AI助手安全存储和管理各类服务的登录凭证，为AI系统提供更安全的服务接入能力，对元宝产品经理在AI安全与权限管理方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tetriz-harness": {
+    "title_clean": "Tetriz Harness：团队知识转化AI代理工具",
+    "summary": "Tetriz Harness是一款将团队学习内容转化为全员AI代理设置的工具，帮助组织将内部知识转化为可执行的AI代理，提升团队协作效率和知识利用率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/boss-console": {
+    "title_clean": "BOSS Console：AI Agent常驻操作系统",
+    "summary": "BOSS Console是一款专为AI Agent设计的微型操作系统，支持Agent持续运行并提供基础功能。产品经理可关注其如何解决Agent常驻运行的技术挑战，为元宝的Agent功能开发提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/grablo-spot": {
+    "title_clean": "Grablo Spot：AI智能安防监控工具",
+    "summary": "Grablo Spot是一款免费AI网络视频录像机(NVR)，能在数秒内识别画面中的人或车辆，提供实时安防监控功能。该工具对产品经理有参考价值，展示了AI在安防监控场景的应用，可作为元宝在智能监控或安全服务场景的产品方向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/maybloc": {
+    "title_clean": "Maybloc：多人语音转文本工具",
+    "summary": "Maybloc推出了一项多人语音转文本的新技术，在多说话人音频处理方面达到了当前最优水平。这项技术对元宝产品经理有参考价值，特别是在提升语音识别在会议、访谈等多场景下的准确性和实用性方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sparrow-10": {
+    "title_clean": "Sparrow：自托管webhook交付工具",
+    "summary": "Sparrow是一个自托管webhook交付工具，仅需一个二进制文件和Postgres数据库即可运行，专注于简化webhook的部署和管理，为开发者提供轻量级的解决方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skisso-design-on-the-live-product": {
+    "title_clean": "Skisso：设计系统实时UI编辑工具",
+    "summary": "Skisso是一款设计系统工具，允许用户在设计系统中实时编辑UI界面，并能生成差异对比。这对产品经理在UI/UX设计协作和设计系统维护方面有参考价值，有助于提高设计迭代效率。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/doyt": {
+    "title_clean": "DOYT：Dynamic Island 待办事项应用",
+    "summary": "DOYT 是一款专为苹果 Dynamic Island 设计的待办事项应用，无需打开应用即可在 Dynamic Island 中查看和管理任务，为用户提供便捷的待办事项管理体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dottr": {
+    "title_clean": "Dottr：AI合同起草与风险管理工具",
+    "summary": "Dottr是一款AI智能体，能够自动起草合同、识别风险点并协助完成签约流程，为企业和个人提供高效的合同管理解决方案，可帮助产品经理探索AI在法律文档处理场景的应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/atelier-9": {
+    "title_clean": "Atelier：AI编程代理工作室",
+    "summary": "Atelier是一个专为AI编程代理设计的工作室环境，为AI代码助手提供协作和开发空间。产品经理可关注其如何优化AI编程代理的工作流程和协作模式，为元宝的AI编程功能提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lovable": {
+    "title_clean": "Lovable Growth Tools：AI应用增长聊天工具",
+    "summary": "Lovable Growth Tools提供一站式应用开发与增长解决方案，用户可通过单一聊天界面完成从构建到推广的全流程。该工具整合了应用开发与增长策略，为产品经理提供AI驱动的全周期管理思路，可能启发元宝在应用生命周期管理方面的功能拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tidy-design": {
+    "title_clean": "Tidy Design：开源Figma替代工具",
+    "summary": "Tidy Design是一款开源的Figma替代工具，为设计师提供免费的设计协作平台。作为开源项目，它可能降低设计工具成本，对元宝产品经理评估开源设计工具替代方案和成本控制有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mermaid": {
+    "title_clean": "Mermaid：Mac远程控制工具",
+    "summary": "Mermaid是一款允许用户从任何地方远程控制Mac的工具，通过语音指令实现操作，为AI助手远程控制设备场景提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/calenteri": {
+    "title_clean": "Calenteri：用户预约管理SaaS工具",
+    "summary": "Calenteri是一款SaaS工具，允许用户之间进行预约管理。该产品解决了跨用户预约协调的需求，可作为元宝在服务场景拓展方面的参考，特别是涉及用户间交互的预约类功能设计。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/palomino": {
+    "title_clean": "Palomino：AI Agent并行运行工作空间",
+    "summary": "Palomino是一个专为AI Agent设计的超快速工作空间，支持多个Agent并行运行，提高任务处理效率。这一产品对元宝产品经理有参考价值，特别是在提升AI Agent多任务处理能力和性能优化方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/helicon": {
+    "title_clean": "Helicon：Muse Code 开源桌面应用与 VS Code 面板",
+    "summary": "Helicon 是一款开源的桌面应用程序和 VS Code 面板，专为 Muse Code 服务提供支持。作为开发工具，它可能增强了 Muse Code 的集成度和可用性，为产品经理提供了 AI 编程助手工具生态扩展的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/everwind-to-build-nova-scotia-data-center-lease-to-ai-developer": {
+    "title_clean": "EverWind：在加拿大新斯科舍省建设数据中心并租赁给AI开发商",
+    "summary": "EverWind Fuels宣布投资超过100亿加元在新斯科舍省建设数据中心园区和风力发电基础设施，这是加拿大最大的私人投资项目，将租赁给AI开发商使用，为AI企业提供大规模算力支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-sage": {
+    "title_clean": "Executive Interview: Sage：企业SaaS市场战略访谈",
+    "summary": "Sage首席营销官Carolyn Manning接受CB Insights采访，分享公司对市场的定位、客户需求的理解以及企业战略方向。作为企业SaaS服务提供商，其市场洞察对元宝了解企业级AI服务场景和商业化策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

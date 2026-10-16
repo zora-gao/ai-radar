@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-16T14:29:17.275Z",
+  "generated_at": "2026-10-16T19:12:38.077Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "reflection/beam-1.0-501b-a23b",
+      "name": "Beam 1.0 501B A23B",
+      "vendor": "Reflection",
+      "vendor_slug": "reflection",
+      "url": "https://openrouter.ai/reflection/beam-1.0-501b-a23b-20261016",
+      "created_at": "2026-10-16T14:21:39Z",
+      "context_length": 1048576,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.25,
+      "price_out": 1,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Beam 1.0 is Reflection's open-weight reasoning model for coding and long-horizon agentic workflows. It uses a sparse mixture-of-experts architecture with 501B total and 23B active parameters per token, and a...",
+      "description_zh": "Beam 1.0 是 Reflection 的开放权重推理模型，用于编码和长期代理工作流程。它使用稀疏的专家混合架构，每个令牌有 501B 总数和 23B 活动参数，以及..."
+    },
     {
       "id": "moondream/moondream3-preview",
       "name": "Moondream 3 Preview",
@@ -1336,7 +1359,7 @@
         "text"
       ],
       "price_in": 0.036,
-      "price_out": 0.143,
+      "price_out": 0.644,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1463,31 +1486,6 @@
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the GPT Terra family.",
       "description_zh": "此模型始终重定向到 GPT Terra 系列中的最新模型。"
-    },
-    {
-      "id": "~openai/gpt-luna-latest",
-      "name": "GPT Luna Latest",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/~openai/gpt-luna-latest",
-      "created_at": "2026-09-11T12:48:42Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.1,
-      "price_out": 0.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the GPT Luna family.",
-      "description_zh": "此模型始终重定向到 GPT Luna 系列中的最新模型。"
     }
   ]
 }

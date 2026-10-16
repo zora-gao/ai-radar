@@ -132585,5 +132585,230 @@
       "AI搜索"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane": {
+    "title_clean": "Nvidia合作伙伴称CoreWeave债券15%收益率过高",
+    "summary": "Nvidia合作伙伴GMI Cloud创始人批评CoreWeave债券15%的收益率过高，称其公司仅获得约3.45%的利率。这反映了云计算行业融资环境差异，对AI基础设施服务商的融资策略和成本结构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners": {
+    "title_clean": "台湾将投资40亿美元在德克萨斯州建设AI产业园区，与Nvidia合作",
+    "summary": "台湾计划筹集数十亿美元在美国德克萨斯州开发工业园区，为Nvidia及其他AI硬件制造商建立全面供应链基地。这一举措反映了AI硬件产业链的区域布局趋势，对元宝产品经理了解AI基础设施投资方向和供应链整合策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/india-s-billionaire-family-offices-are-betting-big-on-homegrown-ai-startups": {
+    "title_clean": "印度亿万富翁家族办公室大力投资本土AI初创企业",
+    "summary": "印度亿万富翁家族办公室和富裕投资者正积极投资本土AI初创企业，试图在美国和中国主导的AI领域建立印度自己的科技优势。这一趋势反映了印度在AI领域寻求自主发展的战略方向，对元宝产品经理了解新兴市场AI投资格局和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-16/top-korea-tech-fund-favors-non-memory-stocks-in-ai-value-chain": {
+    "title_clean": "韩国顶级科技基金看好AI价值链中非存储芯片股",
+    "summary": "韩国顶级科技基金表示，当市场反弹时，具有良好盈利潜力的韩国AI硬件组件股票可能超越存储芯片巨头，这反映了AI硬件投资方向的转变，对元宝产品经理了解AI硬件投资趋势和供应链布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-15/taiwan-fund-managers-quit-jobs-to-trade-their-own-money-in-stock-boom": {
+    "title_clean": "台湾基金经理离职炒股：股市热潮引发职业投资者转向自营交易",
+    "summary": "台湾股市创历史最大涨幅，引发专业基金经理集体离职转向自营交易，反映市场情绪高涨与职业投资者行为变化，对AI投资助手产品在情绪分析、市场趋势预测方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off": {
+    "title_clean": "Cal AI：健身AI应用通过网红营销实现病毒式增长",
+    "summary": "Cal AI是一家健身AI应用，通过大量网红营销策略在两年内实现3000万美元营收，并于今年3月被MyFitnessPal收购。其成功案例展示了网红营销对AI健身应用的显著推动作用，为元宝在用户获取和增长策略方面提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nick-wingfield-promoted-co-executive-editor-information": {
+    "title_clean": "Nick Wingfield晋升为The Information联合执行主编",
+    "summary": "The Information宣布Nick Wingfield晋升为联合执行主编，同时还有其他编辑晋升和新闻room调整。这反映了媒体机构对AI领域报道的重视，对关注AI行业动态的产品经理有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/newsletter-october-15-2026": {
+    "title_clean": "40+ startups揭露AI虚假信息",
+    "summary": "超过40家初创公司联合揭露AI虚假信息问题，以Ervin Hoskins为例——这位发表关于伊朗战争评论的记者实为虚构人物，是OpenAI公布的七个由伊朗运营的虚假记者之一。这反映了AI虚假信息泛滥的现状，对元宝产品经理在内容真实性验证和用户信任建设方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/eRUBxlDFxuEXfdRp4PNYBQ": {
+    "title_clean": "EinsiaAl发布EmbodiedEvo：自进化编程智能体",
+    "summary": "EinsiaAl发布EmbodiedEvo，这是一款自进化编程智能体，标志着具身智能领域的技术突破。该产品可能具备自主学习和进化的能力，能够执行编程任务，为AI Agent在自动化编程和自我优化方面提供了新的技术路径，对元宝产品经理在AI Agent能力拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/hyperliquid-wants-to-house-the-entire-financial-industry-video": {
+    "title_clean": "Jeff Yan计划将整个金融行业引入Hyperliquid",
+    "summary": "Jeff Yan计划将整个金融行业引入Hyperliquid平台，此前特朗普总统表示CFTC正以完全合规合法方式将Hyperliquid引入美国。这反映了加密货币与传统金融融合的趋势，对元宝产品经理在金融科技服务场景和合规性设计上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/coreweave-broadcom-object-shares-tokenized-blockchain": {
+    "title_clean": "CoreWeave与Broadcom反对股票区块链化交易",
+    "summary": "CoreWeave与Broadcom联合反对OKXICE将其股票在区块链上交易的计划，这是加密货币交易所OKX与洲际交易所合资企业提出的请求。此事件反映了传统科技企业对区块链股票化的抵制态度，对元宝产品经理了解传统企业对区块链技术的态度及潜在合作障碍有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-says-ai-evaluators-can-now-work-company": {
+    "title_clean": "Anthropic：引入AI评估师评估公司内部安全实践",
+    "summary": "Anthropic宣布在公司内部部署AI评估师，用于评估和发布关于安全实践与风险的报告。这些AI评估师将使用公司计算机工作，标志着AI安全评估从外部向内部应用的转变，为AI企业内部治理提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices": {
+    "title_clean": "OpenAI加速广告业务扩张：招募Meta高管并降价",
+    "summary": "OpenAI正积极发展广告业务，招募前Meta高管加入团队，并降低广告价格，以应对与Anthropic在开发者市场的竞争。这表明OpenAI正将广告业务提升至战略高度，可能影响其产品商业化路径和收入结构。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/mukesh-aghi-on-india-us-ties-video": {
+    "title_clean": "Mukesh Aghi：印美关系与贸易协议分析",
+    "summary": "美国印度战略伙伴关系论坛主席兼CEO Mukesh Aghi讨论印美关系现状及潜在贸易协议进展。作为两国商业合作的重要观察者，其观点对元宝拓展南亚市场及国际化战略具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang": {
+    "title_clean": "Chariot：消费者维权与订阅管理工具",
+    "summary": "纽约初创公司Chariot获1000万美元A轮融资，帮助消费者针对隐私侵犯、隐藏费用和难以取消的订阅提起索赔。该产品针对消费者权益保护场景，为元宝在服务场景拓展和商业化模式上提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-river-markets": {
+    "title_clean": "River Markets CEO访谈：市场定义与客户需求",
+    "summary": "River Markets CEO奥斯卡·列维接受CB Insights访谈，分享公司对市场定义、客户需求的理解以及公司定位。内容包含企业对市场策略和客户需求的思考，对元宝产品经理了解企业服务市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-15/apple-s-homeview-ecosystem-worth-buying-into-video": {
+    "title_clean": "苹果发布HomeView生态系统：完善智能家居产品线",
+    "summary": "苹果最新发布HomeView生态系统，旨在填补其产品线在智能家居领域的最大空白。这一完整设备系列标志着苹果进一步扩展其生态系统，为用户提供更全面的智能家居解决方案，对元宝产品经理了解科技巨头如何构建AI服务场景具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/sullivan-cromwell": {
+    "title_clean": "Sullivan & Cromwell：AI法律协议审查工具",
+    "summary": "Sullivan & Cromwell与OpenAI合作开发了Agreement Analyzer，这是一款能够识别草案协议中问题的AI工具。这展示了AI在专业法律服务场景中的应用，对元宝产品经理在AI服务场景拓展和专业化AI工具开发方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -134729,5 +134729,52 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/spiralens": {
+    "title_clean": "Spiralens：黄金比例相机引导工具",
+    "summary": "Spiralens是一款基于黄金比例的相机应用，通过算法指导用户调整手机位置，帮助拍摄出构图更完美的照片。这款产品针对摄影爱好者和普通用户，解决了构图难题，为元宝在图像处理和场景识别功能上提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/salience": {
+    "title_clean": "Salience：网站请求监控工具",
+    "summary": "Salience是一款网站监控工具，能够展示所有网站请求及其响应情况。产品经理可借此了解用户交互细节，优化AI助手与网站集成的性能表现，提升服务稳定性与用户体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ultracite": {
+    "title_clean": "Ultracite v8：Agent开发代码检查与格式化工具",
+    "summary": "Ultracite v8是一款专门针对Agent开发的代码检查与格式化工具，旨在提升AI Agent开发代码的质量和一致性。对于元宝产品经理而言，这反映了Agent开发工具链的专业化趋势，可能影响元宝在代码生成、调试和优化方面的功能规划。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner": {
+    "title_clean": "DeepSeek发布更新版AI模型：称速度更快、体积更小",
+    "summary": "DeepSeek于本周末发布AI模型更新，声称新版本速度更快、体积更小，这增强了这家中国公司对Anthropic和OpenAI等硅谷竞争对手的挑战。此更新可能影响AI性能与资源效率，对产品经理评估模型优化方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

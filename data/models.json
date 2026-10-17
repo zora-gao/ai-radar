@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-10-17T02:31:25.721Z",
+  "generated_at": "2026-10-17T08:11:42.495Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "elorian/glimpse",
+      "name": "Glimpse",
+      "vendor": "Elorian",
+      "vendor_slug": "elorian",
+      "url": "https://openrouter.ai/elorian/glimpse-20261016",
+      "created_at": "2026-10-17T03:10:29Z",
+      "context_length": 262144,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.6,
+      "price_out": 3,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Glimpse is a multimodal visual reasoning model from Elorian, built for visual understanding and complex visual reasoning in the physical world. It reasons directly over images and video rather than...",
+      "description_zh": "Glimpse 是 Elorian 的多模态视觉推理模型，专为物理世界中的视觉理解和复杂视觉推理而构建。它直接通过图像和视频进行推理，而不是......"
+    },
     {
       "id": "xingchen-agi/xing4.0-29b-a4b:free",
       "name": "Xing4.0 29B A4B (free)",
@@ -1357,8 +1382,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.249,
-      "price_out": 0.748,
+      "price_in": 0.165,
+      "price_out": 0.495,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1381,8 +1406,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.032,
-      "price_out": 0.144,
+      "price_in": 0.023,
+      "price_out": 0.625,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1459,31 +1484,6 @@
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the GPT Astra family.",
       "description_zh": "此模型始终重定向到 GPT Astra 系列中的最新模型。"
-    },
-    {
-      "id": "~openai/gpt-sol-latest",
-      "name": "GPT Sol Latest",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/~openai/gpt-sol-latest",
-      "created_at": "2026-09-11T12:48:48Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the GPT Sol family.",
-      "description_zh": "此模型始终重定向到 GPT Sol 系列中的最新模型。"
     }
   ]
 }

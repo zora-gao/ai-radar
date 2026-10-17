@@ -134396,5 +134396,216 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/draper": {
+    "title_clean": "Draper：商业计划与创业指导工具",
+    "summary": "Draper是一款商业计划与创业指导工具，帮助用户分步骤验证、规划和启动商业项目。产品经理可参考其结构化创业流程设计，为元宝用户提供商业决策支持功能。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/step-3-5-flash": {
+    "title_clean": "Step 5 Preview：长程Agent专用600B开源模型",
+    "summary": "Step 5 Preview是一款专为长程Agent设计的600B参数开源模型，专注于支持长时间运行的AI代理任务。这对元宝产品经理在评估大模型能力边界和Agent开发方向上有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/craft-agents": {
+    "title_clean": "Craft Agents：AI智能体平台",
+    "summary": "Craft Agents是一个提供强大AI智能体服务的平台，专注于优化用户体验。该平台可能提供能够执行复杂任务的AI代理，旨在为用户提供更智能、更便捷的交互体验，对元宝产品经理在AI Agent功能设计和用户体验优化方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/unfenced": {
+    "title_clean": "Unfenced：连接公共土地的房产交易平台",
+    "summary": "Unfenced是一个专门销售与公共土地接壤房产的平台，解决了传统房产交易中难以找到与公共土地相邻物业的痛点，为户外爱好者和寻求特定景观的买家提供了独特选择。",
+    "score": 35,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/train-with-pasta": {
+    "title_clean": "Train with Pasta：基于Apple Intelligence的个人健身教练",
+    "summary": "Train with Pasta是一款由Apple Intelligence驱动的个人健身教练应用，能够为用户提供个性化的健身指导和训练计划。作为AI助手在健身场景的应用，它展示了AI如何融入日常生活服务，为元宝产品经理在健康领域AI服务场景拓展方面提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/caldera": {
+    "title_clean": "Caldera：Obsidian知识库链接管理工具",
+    "summary": "Caldera是一款将Obsidian笔记库转化为动态个人档案和链接知识花园的工具，帮助用户构建结构化的知识网络，对元宝产品经理在知识管理类AI助手功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/korinotch": {
+    "title_clean": "Korinotch：MacBook刘海屏控制中心工具",
+    "summary": "Korinotch是一款将MacBook刘海屏区域转变为命令中心的工具，可能提供快捷操作和功能入口，有助于优化MacBook用户交互体验，为多模态交互和屏幕空间利用提供产品思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/xOxaNkezhmGuc6vfFjX13Q": {
+    "title_clean": "南大系公司押注智能增长的第四要素",
+    "summary": "一家南京大学系创业公司提出智能增长的第四要素，超越传统的算力、算法和数据三大要素，探索AI驱动业务增长的新模式，为产品经理提供AI商业化新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/wall-street-week-battery-pivot-farmers-fed-warning-video": {
+    "title_clean": "华尔街周报：美国关系困境、电池产业转向与农民预警",
+    "summary": "本周全球商业领袖齐聚新德里彭博新经济论坛，讨论地缘政治风险下全球供应链和投资计划的重新调整。内容涵盖美国国际关系挑战、电池产业战略转型以及农民对美联储政策的预警，为元宝产品经理提供宏观环境变化洞察，有助于理解全球经济趋势对AI服务场景的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/bloomberg-tech-10-16-2026-video": {
+    "title_clean": "芯片短缺加剧与特斯拉展示飞行跑车",
+    "summary": "芯片行业面临自2008年以来最长的连续下跌，苹果iPhone Duo交货期推迟至1月。特斯拉展示飞行跑车原型，展示其在电动汽车和飞行器领域的技术进展。这对产品经理了解芯片供应对科技产品的影响及创新方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/loogo": {
+    "title_clean": "LooGo：公共厕所快速查找工具",
+    "summary": "LooGo是一款帮助用户快速查找公共厕所的应用，解决外出时如厕难的问题。这类工具对元宝产品经理有参考价值，可作为服务场景类AI助手的功能扩展方向，满足用户日常生活中的即时需求。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/thomas-hoenig-on-rate-hikes-inflation-outlook-video": {
+    "title_clean": "Thomas Hoenig on Rate Hikes, Inflation Outlook",
+    "summary": "Thomas Hoenig认为美联储官员不提前透露下一步加息决策是恰当的，这为10月底的政策会议提供了灵活性。他指出通胀已经上升，但未提供具体数据或预测。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them": {
+    "title_clean": "Elorian：图像推理AI模型",
+    "summary": "Elorian推出首个AI模型Glimpse，专注于图像推理而非简单描述图像。据评估，该模型在科学图表推理和短视频字幕生成方面表现优于GPT-6 Astra，在其他视觉推理任务上也具有竞争力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-newdays": {
+    "title_clean": "CEO Interview: NewDays",
+    "summary": "NewDays CEO Babak Parviz接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。作为AI产品经理，可了解新兴AI服务企业的市场洞察和战略规划思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/benefit-street-partners": {
+    "title_clean": "Benefit Street Partners：使用Codex加速金融问答",
+    "summary": "Anant Kumar为Benefit Street Partners开发贷款估值比较和信贷协议分析工具，利用Codex进行代码审查和快速跟进，展示了AI在金融领域的具体应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/why-neuberger-berman-has-neutral-stance-on-global-stocks-video": {
+    "title_clean": "Neuberger对全球股票持中性立场",
+    "summary": "Neuberger Multi-Asset Strategies首席投资官Maya Bhandari表示，该公司四年来首次将全球股票持仓调整为\"目标水平\"，并继续对欧洲股票保持低配。这一市场动向对AI投资顾问类产品有参考价值，反映了机构对全球股市的谨慎态度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-knowable-labs": {
+    "title_clean": "Knowable Labs：AI市场与客户需求访谈",
+    "summary": "Knowable Labs首席运营官Gautham Srinivas接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。访谈内容对了解AI服务市场定位和客户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

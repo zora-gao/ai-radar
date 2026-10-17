@@ -134776,5 +134776,30 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says": {
+    "title_clean": "Replit 更换默认模型提供商：从 Anthropic 切换至 OpenAI",
+    "summary": "Replit CEO 确认公司已停止与 Anthropic 合作，OpenAI 将成为其默认模型提供商。Claude 模型仍可在平台上供用户使用，这反映了 AI 编程工具领域模型供应商格局的变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/office-spy-proof": {
+    "title_clean": "Your Office Isn't Spy Proof：办公隐私安全警示",
+    "summary": "该文章警示办公环境中可能存在的隐私泄露风险，提醒企业重视办公场所的隐私保护措施。对产品经理而言，这提示在开发AI办公助手时需考虑用户隐私安全场景，可能涉及数据加密、权限管理等功能的必要性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

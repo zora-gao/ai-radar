@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:48:03.696Z",
+  "generated_at": "2026-10-17T19:56:48.423Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -25,7 +25,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the deepseek-flash API model name. V4.1 Flash is a sparse mixture-of-experts model...",
-      "description_zh": null
+      "description_zh": "DeepSeek V4.1 Flash 1017 是 DeepSeek V4.1 Flash 于 2026 年 10 月 17 日发布的快照，由 DeepSeek 以 deepseek-flash API 模型名称提供服务。 V4.1 Flash 是一个稀疏的专家混合模型......"
     },
     {
       "id": "elorian/glimpse",
@@ -1430,8 +1430,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.09,
-      "price_out": 0.55,
+      "price_in": 0.08,
+      "price_out": 0.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

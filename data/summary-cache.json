@@ -134607,5 +134607,127 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/emochi-2": {
+    "title_clean": "Emochi：AI语音日记与自我分析工具",
+    "summary": "Emochi是一款结合艺术与科学的AI语音日记应用，用户可通过语音记录日常，系统帮助分析情绪模式并提供自我洞察。产品经理可关注其AI在情绪识别与心理健康场景的应用方式，以及语音交互在日记类产品中的创新设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/crew-tower": {
+    "title_clean": "CrewTower Mod for Claude Code：MacBook凹槽交互工具",
+    "summary": "CrewTower Mod是一款为Claude Code设计的MacBook凹槽交互工具，允许用户直接从MacBook的凹槽区域与Claude Code进行对话。这款工具展示了AI助手如何通过硬件创新实现更便捷的交互方式，对产品经理思考AI助手与硬件设备的结合方式具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video": {
+    "title_clean": "AI Selloff Tests Investor Confidence：AI市场波动考验投资者信心",
+    "summary": "Ritholtz Wealth Management董事长兼首席投资官Barry Ritholtz表示，AI仍是变革性技术，但投资者面临判断其价值的挑战。此资讯反映了AI市场近期波动对投资者信心的影响，对产品经理了解AI行业投资环境与市场情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate": {
+    "title_clean": "泽连斯基称乌克兰星链限制看似蓄意",
+    "summary": "乌克兰总统泽连斯基表示，SpaceX星link系统对乌克兰军事使用的限制似乎是蓄意为之，而非技术问题。这一表态反映了关键通信基础设施在冲突中的战略重要性，对AI产品经理思考技术服务的地缘政治风险和可靠性保障有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-17/the-ev-bust-creating-a-new-battery-boom-video": {
+    "title_clean": "电动汽车热潮退去，电池产业迎来新机遇",
+    "summary": "为美国电动汽车热潮建设的工厂正在转型为电网电池制造商。随着电动汽车需求减弱，数据中心和新工厂的电力需求增加，这些工厂找到了新的市场方向，为电网提供储能解决方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-17/david-byrne-on-how-forgotten-ideas-come-back-to-life-video": {
+    "title_clean": "David Byrne：被遗忘 ideas 如何重新获得生命力",
+    "summary": "David Byrne 探讨了历史上被搁置的想法如何在后来重新获得相关性的现象，以《白鲸记》为例，说明某些作品或概念在当时被忽视，但后来却被重新发现并重视。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee": {
+    "title_clean": "OpenAI工程师被捕寻求保释，否认计划逃离",
+    "summary": "OpenAI软件工程师因在办公室使用隐藏录音设备被起诉，他申请保释并否认购买了飞往家乡的单程机票。此事件涉及OpenAI内部安全与合规问题，对产品经理了解AI公司内部治理与员工行为规范有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-16/ai-gold-rush-hits-america-s-college-campuses-video": {
+    "title_clean": "AI热潮席卷美国大学校园",
+    "summary": "学生风险投资基金Dorm Room Fund指出，AI不会使大学过时，反而已在校园引发创业热潮。年轻创始人对AI领域的乐观情绪日益增长，这反映了AI在高等教育中的新兴应用场景和创业机会，对元宝产品经理了解AI在年轻用户群体中的接受度和应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it": {
+    "title_clean": "Physical AI：超越机器人的实体智能技术",
+    "summary": "前NVIDIA机器人产品营销负责人Amulya Vishwanath表示，机器人技术正处于'乐高时代'，拥有执行器等基础构建块。Physical AI不仅限于机器人，还包括更广泛的实体智能技术，这对AI助手在物理世界的应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet": {
+    "title_clean": "Nvidia前高管：机器人尚未迎来ChatGPT时刻",
+    "summary": "Nvidia前产品营销主管Amulya Vishwanath表示，机器人行业目前处于\"乐高时代\"，仅有执行器等基础构建模块，尚未达到ChatGPT那样的爆发点。这对AI产品经理了解机器人技术发展瓶颈和未来突破方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

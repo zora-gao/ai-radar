@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-17T08:11:42.495Z",
+  "generated_at": "2026-10-17T13:25:43.686Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "deepseek/deepseek-v4.1-flash-1017",
+      "name": "DeepSeek V4.1 Flash 1017",
+      "vendor": "DeepSeek",
+      "vendor_slug": "deepseek",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-20261017",
+      "created_at": "2026-10-17T08:27:04Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.15,
+      "price_out": 0.6,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the deepseek-flash API model name. V4.1 Flash is a sparse mixture-of-experts model...",
+      "description_zh": null
+    },
     {
       "id": "elorian/glimpse",
       "name": "Glimpse",
@@ -1382,8 +1406,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.165,
-      "price_out": 0.495,
+      "price_in": 0.12,
+      "price_out": 8,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1406,8 +1430,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.023,
-      "price_out": 0.625,
+      "price_in": 0.1,
+      "price_out": 0.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1459,31 +1483,6 @@
       "supports_reasoning": false,
       "description": "Schematron V2 Small is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes extraction quality for complex schemas and long pages. Extraction instructions must be supplied through a JSON schema...",
       "description_zh": "Schematron V2 Small 是来自 Inference.net 的 3B 参数 HTML 到 JSON 提取模型。它优先考虑复杂模式和长页面的提取质量。提取指令必须通过 JSON 模式提供..."
-    },
-    {
-      "id": "~openai/gpt-astra-latest",
-      "name": "GPT Astra Latest",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/~openai/gpt-astra-latest",
-      "created_at": "2026-09-11T12:48:52Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 10,
-      "price_out": 50,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the GPT Astra family.",
-      "description_zh": "此模型始终重定向到 GPT Astra 系列中的最新模型。"
     }
   ]
 }

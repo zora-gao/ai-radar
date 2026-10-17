@@ -134801,5 +134801,93 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/9upaUSLvrWiH1cAewHxDpg": {
+    "title_clean": "DeepSeekV4.1F：新版本主打「许愿式编程」",
+    "summary": "DeepSeek发布V4.1F新版本，主打「许愿式编程」功能，这表明AI编程助手正朝着更自然、更接近人类思维的方向发展，对产品经理了解AI编程工具的交互演进和用户需求变化有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/GqI66EPiB9xz7Bz_LxwdmQ": {
+    "title_clean": "Manifold AI推出R²SI：登顶RoboDojo智能体超过GPT-6Astra",
+    "summary": "Manifold AI推出R²SI智能体，在RoboDojo评测中超越GPT-6Astra成为第一。这表明AI智能体在复杂任务执行能力上取得突破，对元宝产品经理评估AI Agent性能基准和竞品技术路线具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/KQB8Lggw8WJctRHabTJZ2Q": {
+    "title_clean": "当LLM学会抽象，语言学还有什么不可替代的价值？",
+    "summary": "探讨大型语言模型获得抽象能力后，语言学在AI时代仍具有的独特价值。文章分析语言学知识如何帮助AI理解人类语言的本质，以及语言学家在AI系统设计中的不可替代作用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/lIpe5Va7oEinzpnupipFuQ": {
+    "title_clean": "蚂蚁百灵Ling-3.1-flash：AI长时间任务处理能力展示",
+    "summary": "蚂蚁百灵Ling-3.1-flash模型展示了长时间连续工作的能力，能够持续处理复杂任务达十几个小时，这表明AI在长时间任务处理方面取得了进展，对产品经理评估AI助手持续工作能力和任务处理深度有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings": {
+    "title_clean": "Anthropic：员工结构变化与会议时间增加",
+    "summary": "Anthropic在过去一年中员工结构显著变化，初级员工比例下降，会议时间增加，反映了公司规模扩大和组织结构调整，这对AI公司人才策略和管理模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns": {
+    "title_clean": "Meta移除引发网络爬取和AI训练担忧的条款",
+    "summary": "Meta更新了其服务条款，移除了此前引发用户对网络爬取和AI训练担忧的表述。Meta发言人强调，此次更新并不反映Meta网络爬取方式的改变，但此举可能影响用户对数据使用的理解。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/5znJv_i5tuiw3kdeDSk4Mw": {
+    "title_clean": "李飞飞点赞：15分钟用相机将真实世界导入AI",
+    "summary": "该技术展示如何通过一台相机在15分钟内将真实世界场景导入AI系统，李飞飞对此表示认可。这可能为AI多模态交互和现实世界数字化提供新思路，对元宝在物理世界与AI融合场景的产品开发有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

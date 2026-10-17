@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:56:48.423Z",
+  "generated_at": "2026-10-17T21:58:06.360Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -190,8 +190,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.1,
-      "price_out": 0.4,
+      "price_in": 0.15,
+      "price_out": 0.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -224,13 +224,13 @@
       "description_zh": "NVIDIA Nemotron 3.5 Super VL 是 NVIDIA 的开放式多模式混合专家模型，共有 120B 个活动参数，其中有 12B 个。它需要文本、图像、文档、GUI 屏幕截图和视频......"
     },
     {
-      "id": "~unbiased/pareto-latest",
-      "name": "Pareto Latest",
+      "id": "unbiased/pareto-26.10",
+      "name": "Pareto 26.10",
       "vendor": "Unbiased",
       "vendor_slug": "unbiased",
-      "url": "https://openrouter.ai/~unbiased/pareto-latest",
-      "created_at": "2026-10-13T23:10:50Z",
-      "context_length": 262144,
+      "url": "https://openrouter.ai/unbiased/pareto-26.10-20261015",
+      "created_at": "2026-10-15T14:13:40Z",
+      "context_length": 1048576,
       "modality": "text+image->text",
       "input_modalities": [
         "text",
@@ -239,8 +239,32 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 2.5,
-      "price_out": 7.5,
+      "price_in": 0.8,
+      "price_out": 3.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": false,
+      "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
+      "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。"
+    },
+    {
+      "id": "~unbiased/pareto-latest",
+      "name": "Pareto Latest",
+      "vendor": "Unbiased",
+      "vendor_slug": "unbiased",
+      "url": "https://openrouter.ai/~unbiased/pareto-latest",
+      "created_at": "2026-10-13T23:10:50Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.8,
+      "price_out": 3.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": false,
@@ -1460,29 +1484,6 @@
       "supports_reasoning": false,
       "description": "Schematron V2 Turbo is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes throughput for high-volume extraction workloads. Extraction instructions must be supplied through a JSON schema in response format rather...",
       "description_zh": "Schematron V2 Turbo 是来自 Inference.net 的 3B 参数 HTML 到 JSON 提取模型。它优先考虑大容量提取工作负载的吞吐量。提取指令必须通过 JSON 模式以响应格式提供，而不是......"
-    },
-    {
-      "id": "inference-net/schematron-v2-small",
-      "name": "Schematron V2 Small",
-      "vendor": "Inference Net",
-      "vendor_slug": "inference-net",
-      "url": "https://openrouter.ai/inference-net/schematron-v2-small-20260902",
-      "created_at": "2026-09-12T01:35:33Z",
-      "context_length": 128000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.05,
-      "price_out": 0.23,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": false,
-      "description": "Schematron V2 Small is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes extraction quality for complex schemas and long pages. Extraction instructions must be supplied through a JSON schema...",
-      "description_zh": "Schematron V2 Small 是来自 Inference.net 的 3B 参数 HTML 到 JSON 提取模型。它优先考虑复杂模式和长页面的提取质量。提取指令必须通过 JSON 模式提供..."
     }
   ]
 }

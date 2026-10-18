@@ -134926,5 +134926,165 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/latch-7": {
+    "title_clean": "Latch：基于位置的手机解锁应用",
+    "summary": "Latch是一款通过用户走到钥匙位置来解锁手机的应用程序，提供了一种基于物理位置的设备解锁方式。这种创新的安全机制可能为元宝产品经理提供关于生物识别与位置服务结合的交互设计参考，特别是在移动设备安全与便捷性平衡方面的产品思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/microsoft-xbox-series-s": {
+    "title_clean": "XBOX Nano Controller：迷你无线游戏手柄",
+    "summary": "XBOX推出微型无线游戏手柄Nano Controller，体积小巧但具备完整的18个按键输入功能，为移动游戏场景提供便携操作方案。产品经理可关注其便携性与功能完整性的平衡设计，为元宝在游戏交互场景提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vampire-crawlers": {
+    "title_clean": "Vampire Crawlers™：AI 生成吸血鬼幸存者游戏内容",
+    "summary": "Vampire Crawlers 是一款基于吸血鬼幸存者游戏的 AI 内容生成工具，能够自动创建游戏关卡、角色和道具，为游戏开发者提供高效的内容创作解决方案，对元宝在游戏化 AI 内容生成方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mylens-ai": {
+    "title_clean": "MyLens：AI大规模一对一演示工具",
+    "summary": "MyLens是一款AI工具，支持大规模一对一实时演示，可能通过AI技术实现个性化展示内容，对产品经理在AI交互场景和自动化演示方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tomo-for-chatgpt": {
+    "title_clean": "Tomo for ChatGPT：游戏化语言学习工具",
+    "summary": "Tomo for ChatGPT将ChatGPT与Duolingo式游戏化学习结合，用户可以提问任何内容，然后通过游戏化方式学习语言，为AI教育场景提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meetpaw": {
+    "title_clean": "MeetPaw：Mac菜单栏快速会议工具",
+    "summary": "MeetPaw是一款Mac应用，允许用户通过菜单栏快速发起即时会议。这款工具简化了会议创建流程，可能对元宝产品经理在简化用户操作流程、提升会议效率方面有参考价值，特别是在设计快捷交互方式上。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse": {
+    "title_clean": "Bee Frontier and Bee Eclipse：亚马逊个人AI记忆腕带与手机应用",
+    "summary": "亚马逊推出两款个人AI记忆产品Bee Frontier和Eclipse，分别以腕带和手机应用形式提供，旨在帮助用户记录和访问个人记忆信息。这对元宝产品经理在AI记忆功能设计和可穿戴设备集成方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tower": {
+    "title_clean": "Tower 18 for Mac：Mac平台Git客户端",
+    "summary": "Tower 18 for Mac是一款专为Mac用户设计的Git客户端，提供强大的版本控制功能和优化的命令行界面体验。这款工具对产品经理有参考价值，因为它展示了专业工具如何通过优化特定工作流来提升用户效率，特别是在开发协作场景中。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openbroca": {
+    "title_clean": "Openbroca：轻量级Mac语音输入AI工具",
+    "summary": "Openbroca是一款专为Mac设计的轻量级语音输入AI工具，能够模拟用户真实声音进行文字输入。这款产品对元宝产品经理有参考价值，因为它展示了AI语音技术在输入场景的应用，可能启发元宝在语音交互和声音个性化方面的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/krea": {
+    "title_clean": "Krea 3：AI图像快速编辑工具",
+    "summary": "Krea 3是一款AI图像编辑工具，其核心优势在于能在8秒内完成2000次图像编辑操作，大幅提升了AI图像处理的速度和效率。对于元宝产品经理而言，这反映了AI图像处理领域在速度和批量处理能力上的技术突破，可能启发多模态交互中的实时图像处理功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/pboc-deputy-urges-private-role-in-sovereign-debt-restructuring": {
+    "title_clean": "中国央行副行长呼吁私营部门参与主权债务重组",
+    "summary": "中国央行副行长宣昌能呼吁增加私营部门参与主权债务重组，以应对发展中国家因借贷成本上升而增加的债务服务压力。这一政策动向可能影响国际金融合作模式，对AI助手在金融风险管理、跨境债务咨询等场景的应用提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/woodside-pauses-pre-commissioning-at-scarborough-due-to-protest": {
+    "title_clean": "Woodside因抗议暂停Scarborough项目预调试工作",
+    "summary": "Woodside Energy因绿色和平组织抗议者登上天然气平台，暂停了西澳大利亚海岸Scarborough项目的预调试工作。这反映了能源项目面临的社会阻力增加，对元宝产品经理了解企业运营风险和公共关系管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/shim-cli": {
+    "title_clean": "shim-cli：AI 编程代理调试工具",
+    "summary": "shim-cli 是一款调试工具，允许用户查看 AI 编程代理发送的内容，并可选择性地屏蔽敏感信息。该工具帮助开发者监控和调试 AI 编程代理的交互过程，保护代码隐私，对元宝产品经理了解 AI 编程代理的调试需求和隐私保护方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

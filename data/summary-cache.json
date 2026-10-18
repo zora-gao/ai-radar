@@ -135197,5 +135197,29 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.theinformation.com/articles/upstart-banks-may-keep-raising-money": {
+    "title_clean": "为什么新兴银行可能需要持续融资",
+    "summary": "特朗普政府为创业者在美开设新银行敞开大门，许多银行获得风险投资支持。然而，对于快速发展的新兴银行而言，持续融资成为必要条件，这可能影响其商业模式和竞争策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund": {
+    "title_clean": "Anthropic计划设立'公共利益'基金",
+    "summary": "Anthropic宣布将5%的股份投入新设立的'公共利益'基金，用于捐赠解决公共问题，包括缓解AI风险等社会挑战。此举反映AI企业开始重视社会责任与长期可持续发展，为元宝产品经理提供AI企业社会责任战略参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

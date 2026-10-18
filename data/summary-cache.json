@@ -135136,5 +135136,66 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-18/inside-andreessen-s-growing-political-influence-video": {
+    "title_clean": "Inside Andreessen's Growing Political Influence",
+    "summary": "Bloomberg Businessweek报道Andreessen Horowitz联合创始人Marc Andreessen如何成为日益有影响力的共和党捐助者和顾问，探讨其政治影响力的增长及其对科技行业可能产生的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce": {
+    "title_clean": "Disney收购Character.AI大部分员工",
+    "summary": "聊天机器人初创公司Character.AI本周申请破产后，迪士尼同意雇佣其大部分员工。这反映了AI聊天机器人领域的人才流动趋势，以及大型科技公司对AI人才和技术的战略收购兴趣，对元宝产品经理评估人才竞争和行业整合有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo": {
+    "title_clean": "苹果新品发布会：Mac、iPad Mini及iPhone Duo新品计划11月6日发布",
+    "summary": "苹果计划于11月6日发布新款Mac、iPad Mini及iPhone Duo，同时零售店将进行重置，暗示新品发布日期。这对元宝产品经理了解苹果硬件更新节奏及AI助手与硬件结合的潜在机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-18/microsoft-scraps-uk-data-center-deal-with-nscale-telegraph-says": {
+    "title_clean": "微软退出与英国Nscale的数据中心交易",
+    "summary": "微软已终止与英国Nscale公司的数据中心合作协议，这对Nscale的IPO计划造成打击。作为英国一家新兴云服务提供商，Nscale失去重要合作伙伴可能影响其业务发展和市场扩张策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/neocloud-shakeout-looms-nvidia-lot-lose": {
+    "title_clean": "Neocloud市场洗牌在即，Nvidia面临巨大风险",
+    "summary": "AI云计算市场正面临洗牌，Nvidia作为核心芯片供应商可能遭受重大损失。文章探讨了市场能支持多少新兴AI云服务提供商的问题，这对元宝产品经理了解AI基础设施市场格局和供应链风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

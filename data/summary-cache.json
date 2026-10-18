@@ -135221,5 +135221,53 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund": {
+    "title_clean": "Anthropic承诺5%股份设立公共利益基金",
+    "summary": "Anthropic宣布将公司5%的股份用于设立公共利益基金，这反映了AI企业对社会责任和公共利益的重视，为元宝产品经理提供了AI企业社会责任实践的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-pulls-nscale-u-k-data-center-following-delays": {
+    "title_clean": "微软退出英国Nscale数据中心项目",
+    "summary": "微软因电力供应延迟问题，终止了与Nscale合作的英国数据中心建设计划。这一事件反映了云服务提供商在基础设施扩张中面临的实际挑战，对元宝产品经理评估云服务部署风险和合作伙伴选择具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-commits-least-5-shares-new-public-benefit-fund": {
+    "title_clean": "Anthropic：设立公共福利基金分配至少5%股份",
+    "summary": "Anthropic宣布成立新的公共福利基金，将分配至少5%的公司股份，用于支持解决AI就业影响等公共利益事业。此举反映了AI企业对社会责任的重视，为元宝产品经理提供了AI企业社会责任实践的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/meta-tesla-netflix-q3-updates-coming-week": {
+    "title_clean": "Meta、特斯拉和奈飞Q3财报更新即将发布",
+    "summary": "科技巨头财报季再次来临，Meta Platforms将打破常规，在9月季度财报中公布业绩，特斯拉和奈飞也将陆续发布Q3财报更新。这些科技巨头的业绩表现可能影响AI相关业务的投资方向和市场预期，对元宝产品经理了解科技行业对AI业务的投入和态度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

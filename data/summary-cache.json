@@ -135986,5 +135986,372 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/big-tech-earnings-could-validate-ai-ives-says-video": {
+    "title_clean": "Big Tech财报将验证AI价值",
+    "summary": "Yorkville分析师Dan Ives表示，大型科技公司即将发布的财报将成为验证AI市场信心的重要指标。这反映了AI技术商业化进程中的关键里程碑，对元宝产品经理评估AI业务增长潜力与市场接受度有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/tenstorrent-ceo-on-new-funding-round-ai-progress-video": {
+    "title_clean": "Tenstorrent CEO：AI芯片公司获15亿美元融资，估值达62亿美元",
+    "summary": "Tenstorrent CEO Jim Keller宣布公司完成15亿美元融资，估值约62亿美元。公司专注于扩展其Galaxy服务器项目，这是一家专注于AI芯片的初创企业，融资将助力其AI芯片研发和服务器项目扩展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/retailers-will-struggle-during-earnings-season-whitney-video": {
+    "title_clean": "零售商将面临财报季挑战：美银CEO称家庭成本上升影响",
+    "summary": "美银CEO梅瑞狄斯·惠特尼表示，由于家庭成本自年初以来持续上升，许多零售商将在本财报季面临困境。这一分析对元宝产品经理了解经济环境对消费行为的影响，以及可能调整AI助手在购物场景中的策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/jpmorgan-s-2027-long-term-capital-market-assumptions-video": {
+    "title_clean": "摩根大通：2027年长期资本市场预测",
+    "summary": "摩根大通资产管理首席全球策略师和私人银行全球投资策略联合负责人发布2027年长期资本市场预测报告，分析未来几年全球投资环境、资产配置策略和市场趋势，为AI金融服务场景提供宏观参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data": {
+    "title_clean": "FTC要求Publicis提供对LiveRamp数据的平等访问权",
+    "summary": "美国联邦贸易委员会批准Publicis以22亿美元收购LiveRamp，但要求这家法国媒体巨头必须确保其他公司能够平等访问LiveRamp的数据。这一决定对AI产品经理有参考价值，反映了数据访问公平性在并购监管中的重要性，可能影响AI服务的数据获取策略和商业化模式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/goldman-s-lynam-on-access-to-capital-amid-ai-buildout-video": {
+    "title_clean": "高盛信贷策略师：AI建设中的债务获取无需担忧",
+    "summary": "高盛首席信贷策略师Amanda Lynam表示，近期AI相关信贷利差扩大情况与此前类似事件有相似之处，但不同之处在于目前高收益债务正引领这一趋势。这对AI行业融资环境及企业资金规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool": {
+    "title_clean": "Amazon推出TorchNeuron开发工具挑战Nvidia在PyTorch领域的主导地位",
+    "summary": "Amazon发布TorchNeuron开发工具，旨在打破Nvidia在PyTorch AI开发工具包上的垄断，鼓励开发者使用其自有芯片等替代方案运行AI应用，这可能影响AI基础设施市场的竞争格局和开发者选择。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/japan-launches-probe-in-first-sampling-mission-to-a-moon-of-mars": {
+    "title_clean": "日本启动火星卫星采样任务，领先中国",
+    "summary": "日本发射探测器前往火星卫星，成为首个尝试从火星或其卫星返回样本的国家，领先于中国的同类任务。这一太空探索进展可能为AI在航天任务规划、数据处理和自动化控制领域提供新的应用场景和合作机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts": {
+    "title_clean": "OpenCode：开源AI编程助手遭遇黑客攻击",
+    "summary": "OpenCode作为开源AI编程工具，遭遇黑客入侵导致用户API密钥被盗，黑客利用这些密钥在用户AI账户上产生额外费用。这一事件警示AI工具平台需加强安全防护，特别是API密钥管理，对产品经理在构建AI服务时考虑安全架构具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/ai-firm-nscale-faces-investor-pushback-on-ipo-valuation-video": {
+    "title_clean": "AI公司Nscale因IPO估值问题遭遇投资者抵制",
+    "summary": "AI公司Nscale在IPO过程中面临投资者对其估值的抵制，Bloomberg报道称，这些问题在AI数据中心行业普遍存在，开发者正努力获取电力和劳动力资源，并应对潜在延迟。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life": {
+    "title_clean": "Tolan：AI生活助手应用",
+    "summary": "Tolan是一款AI生活助手应用，已完成3000万美元融资，拥有超过25万活跃用户。该产品通过AI技术帮助用户解决日常生活问题，展示了AI在生活服务场景的应用潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco": {
+    "title_clean": "Corgi Insurance 员工成长故事：从工作试用到长期扎根",
+    "summary": "Corgi Insurance 员工 Ryder Kemper 分享其从工作试用到成为公司第7号员工的经历，包括在旧金山搬家具等创业初期经历，为产品经理提供创业公司人才留存与早期团队建设的参考案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/merz-warns-europe-it-s-underestimating-russian-threat-video": {
+    "title_clean": "德国总理警告欧洲低估俄罗斯威胁",
+    "summary": "德国总理弗里德里希·梅茨警告欧洲低估了俄罗斯对欧洲大陆的影响，称俄罗斯正在试图破坏该地区的整个政治秩序。这反映了欧洲地缘政治格局的变化，可能对AI助手在国际事务分析和风险预警方面的应用场景有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips": {
+    "title_clean": "Tenstorrent获62亿美元估值，扩大开源AI芯片规模",
+    "summary": "Tenstorrent作为英伟达的竞争对手，在吸引收购兴趣后筹集15亿美元保持独立，估值达到62亿美元，专注于开源AI芯片的研发与扩展，这对AI硬件领域竞争格局和芯片供应链多元化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal": {
+    "title_clean": "Nscale与Anthropic洽谈450亿美元云计算交易",
+    "summary": "AI云计算公司Nscale正与Anthropic洽谈一项价值约450亿美元的云计算交易，Nscale将向Anthropic提供计算资源。这笔巨额交易反映了AI大模型对算力的巨大需求，对元宝产品经理评估AI基础设施成本与云服务合作策略具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/employee-bugged-openai-saudi-royal-ties-u-s-prosecutors-say": {
+    "title_clean": "OpenAI员工被曝与沙特王室有联系",
+    "summary": "美国检察官指控一名OpenAI员工在办公室安装监听设备，并与沙特王室有关联。此事件涉及企业安全与地缘政治风险，对AI公司治理和员工背景审查有警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/apple-already-developing-higher-end-homeview-video": {
+    "title_clean": "Apple Already Developing Higher-End HomeView",
+    "summary": "Apple正在开发高端版HomeView设备，该设备配备机械臂，可自动将屏幕转向使用者。这表明Apple在智能家居交互领域探索更主动的物理交互方式，对AI助手产品在物理世界中的交互设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/anthropic-and-musk-on-ai-wealth-sharing-video": {
+    "title_clean": "Anthropic与马斯克提出AI财富共享的竞争性愿景",
+    "summary": "Anthropic计划将其5%的股份用于公共利益基金，提出AI财富共享方案，以应对AI驱动的劳动力中断担忧。这反映了AI巨头对社会责任与商业平衡的不同思考，为元宝产品经理提供了AI商业化与社会责任平衡的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/hamilton-lane-ai-s-biggest-returns-have-been-private-video": {
+    "title_clean": "Hamilton Lane：AI财富主要在私人市场创造",
+    "summary": "Hamilton Lane联席董事长指出，AI繁荣创造的财富主要流向私人市场，因公司保持私有状态时间更长且融资渠道更深。这对元宝产品经理了解AI商业化路径和资本流向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/information-announces-new-openai-google-finance-asia-reporters": {
+    "title_clean": "The Information：新增OpenAI、Google、金融和亚洲领域记者",
+    "summary": "The Information宣布新增多名记者，将专注于报道OpenAI、Google、金融和亚洲领域的重要商业新闻。这表明媒体对AI巨头和商业动态的关注度提升，可能带来更多行业内部信息，对产品经理了解行业趋势和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/proofpoint-s-6-3-billion-cybersecurity-bet-video": {
+    "title_clean": "Proofpoint以63亿美元收购Varonis：整合邮件协作与数据安全",
+    "summary": "网络安全公司Proofpoint在Thoma Bravo支持下以63亿美元收购Varonis，双方将整合邮件、协作和数据安全能力，构建更全面的网络安全平台。这一收购反映了企业对整合型安全解决方案的需求增长，对AI助手在安全领域的应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again": {
+    "title_clean": "用户利用AI让智能电视回归简单",
+    "summary": "部分智能电视用户因厌倦广告、追踪和缓慢界面，开始使用AI助手移除预装软件，重新掌控电视体验。这反映了用户对简洁、无干扰设备的需求，对AI助手在设备控制场景的应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world": {
+    "title_clean": "Laplace Intelligence：AI机器人与自动驾驶车辆安全测试平台",
+    "summary": "Laplace Intelligence是一家密歇根大学衍生公司，利用AI代理和交互式模拟技术，在机器人与自动驾驶车辆实际部署前进行压力测试。这家已盈利的初创公司正在竞争相关市场，为产品经理提供了AI安全测试领域的重要参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/us-futures-climb-with-semiconductor-stocks-rebounding-after-rout": {
+    "title_clean": "半导体与AI企业CoreWeave推动股市反弹",
+    "summary": "半导体公司和AI企业CoreWeave在周一交易中股价上涨，帮助科技股从纳斯达克100指数最糟糕的一周后反弹。CoreWeave作为AI基础设施提供商，其股价变动反映了市场对AI芯片和计算基础设施的信心变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/doj-calls-for-detaining-openai-engineer-citing-saudi-ties": {
+    "title_clean": "美国司法部要求拘留OpenAI工程师，因其与沙特阿拉伯有关联",
+    "summary": "美国司法部敦促联邦法官拒绝OpenAI软件工程师的保释申请，该工程师被指控在公司办公室使用隐藏录音设备。此事件涉及OpenAI内部安全与地缘政治关联，对AI企业安全管理和员工背景审查有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots": {
+    "title_clean": "二手交易平台Vinted：法国暴乱后疑似赃物激增",
+    "summary": "法国二手电商平台Vinted在暴乱后出现大量疑似赃物 listings，法国是其最大市场。这反映了二手平台在特殊社会事件下面临的商品来源审核挑战，对元宝在内容审核和风险控制方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/market-stress-mostly-driven-by-technicals-kettner-video": {
+    "title_clean": "汇丰银行：市场压力主要来自技术因素",
+    "summary": "汇丰银行首席多元资产策略师Max Kettner表示，当前市场压力主要由技术因素驱动，而非基本面因素，除财报外未见其他能缓解市场情绪的基本面催化剂。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/nscale-faces-pushback-on-30-billion-ipo-valuation-video": {
+    "title_clean": "Nscale数据中心开发商面临300亿美元IPO估值争议",
+    "summary": "Nscale是一家由Nvidia支持的数据中心开发商，正寻求约300亿美元的IPO估值，但据知情人士透露，这一估值目标面临市场反对意见。这反映了数据中心行业估值泡沫和投资者对AI基础设施投资回报的审慎态度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/hf-torchneuron": {
+    "title_clean": "TorchNeuron：在AWS Trainium上运行HF模型工具",
+    "summary": "TorchNeuron简化了在AWS Trainium芯片上运行Hugging Face模型的流程，提高了AI模型在特定硬件上的部署效率，为元宝产品经理提供了云AI模型部署优化的参考方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/musk-says-he-will-gift-spacex-shares-to-every-kid-in-america": {
+    "title_clean": "马斯克宣布将向美国儿童赠送SpaceX股份",
+    "summary": "马斯克宣布将向美国每位儿童赠送SpaceX股份，此举是对竞争对手Anthropic PBC将部分股份用于公益的回应。这一举措可能影响AI企业的社会责任战略和公众关系，对产品经理思考企业社会责任与品牌建设有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

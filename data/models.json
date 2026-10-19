@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-10-19T09:31:30.751Z",
+  "generated_at": "2026-10-19T16:45:00.247Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "minimax/minimax-m3.1-flash:free",
+      "name": "MiniMax M3.1 Flash (free)",
+      "vendor": "MiniMax",
+      "vendor_slug": "minimax",
+      "url": "https://openrouter.ai/minimax/minimax-m3.1-flash-20261019",
+      "created_at": "2026-10-19T03:12:49Z",
+      "context_length": 1000000,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "MiniMax-M3.1-Flash is a multimodal model from MiniMax. Compared with M3, it delivers significant improvements across multiple benchmarks, particularly in complex agentic tasks, coding, and cybersecurity. It is built for complex,...",
+      "description_zh": "MiniMax-M3.1-Flash 是 MiniMax 的多模式型号。与 M3 相比，它在多个基准测试中提供了显着改进，特别是在复杂的代理任务、编码和网络安全方面。它是为复杂的、..."
+    },
     {
       "id": "deepseek/deepseek-v4.1-flash-1017",
       "name": "DeepSeek V4.1 Flash 1017",
@@ -19,8 +44,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
-      "price_out": 1.2,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1430,7 +1455,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.225,
+      "price_in": 0.131,
       "price_out": 8,
       "is_free": false,
       "supports_tools": true,
@@ -1454,36 +1479,13 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.05,
-      "price_out": 0.15,
+      "price_in": 0.041,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "This model always redirects to the latest model in the DeepSeek Flash family.",
       "description_zh": "此模型始终重定向到 DeepSeek Flash 系列中的最新模型。"
-    },
-    {
-      "id": "inference-net/schematron-v2-turbo",
-      "name": "Schematron V2 Turbo",
-      "vendor": "Inference Net",
-      "vendor_slug": "inference-net",
-      "url": "https://openrouter.ai/inference-net/schematron-v2-turbo-20260902",
-      "created_at": "2026-09-12T01:35:49Z",
-      "context_length": 128000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.03,
-      "price_out": 0.15,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": false,
-      "description": "Schematron V2 Turbo is a 3B-parameter HTML-to-JSON extraction model from Inference.net. It prioritizes throughput for high-volume extraction workloads. Extraction instructions must be supplied through a JSON schema in response format rather...",
-      "description_zh": "Schematron V2 Turbo 是来自 Inference.net 的 3B 参数 HTML 到 JSON 提取模型。它优先考虑大容量提取工作负载的吞吐量。提取指令必须通过 JSON 模式以响应格式提供，而不是......"
     }
   ]
 }

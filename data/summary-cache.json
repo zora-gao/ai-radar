@@ -135629,5 +135629,362 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/walkai-talkai": {
+    "title_clean": "walkai-talkai：AI编程对讲工具",
+    "summary": "walkai-talkai是一款允许用户通过无线电对讲机与AI编程助手进行语音交互的工具，为开发者提供了一种全新的AI协作方式，可能改变编程辅助工具的交互形态。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/beam-win": {
+    "title_clean": "Beam.win：跨设备AI Agent运行工具",
+    "summary": "Beam.win允许用户在一台Mac上运行AI代理，并在另一台设备上访问其界面。这种跨设备协作能力对AI Agent的多设备使用场景有参考价值，可能影响元宝的分布式执行和跨设备交互设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/buddylist-2": {
+    "title_clean": "buddylist：AI编程助手聊天工具",
+    "summary": "buddylist是一款让用户以类似2005年代聊天方式与AI编程助手交流的工具，提供更自然流畅的编程辅助体验。产品经理可关注其如何简化AI与开发者的交互方式，以及这种复古聊天界面在提升用户接受度方面的创新尝试。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/autochart-eu": {
+    "title_clean": "AutoChart.eu：AI音乐游戏谱图生成工具",
+    "summary": "AutoChart.eu是一款AI工具，可将任意歌曲自动转换为适用于YARG和Clone Hero音乐游戏的完整乐队谱图。这为音乐游戏玩家提供了更丰富的曲目选择，也为AI在游戏内容生成领域的应用提供了新思路，产品经理可关注AI在游戏内容生成和用户个性化体验方面的潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/musk-plans-give-spacex-share-every-kid-america": {
+    "title_clean": "马斯克计划向美国每位儿童赠送SpaceX股份",
+    "summary": "马斯克在X平台承诺明年将向美国每位儿童赠送一股SpaceX股份，并表示未来会有更多类似赠礼。这一举措可能影响青少年对科技和太空探索的兴趣，对元宝在青少年教育场景的AI服务设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro": {
+    "title_clean": "苹果宣布10月28日发布触控屏MacBook Pro",
+    "summary": "苹果确认将于10月28日举办产品发布会，首次推出触控屏MacBook Pro。这一产品更新可能影响AI助手在Mac平台的多模态交互能力，对元宝产品经理评估跨平台触控交互设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia": {
+    "title_clean": "DeepSeek助力华为设计AI芯片，挑战Nvidia市场地位",
+    "summary": "DeepSeek正与华为紧密合作，共同设计未来AI芯片，这一合作有助于中国构建前沿AI模型，对Nvidia构成市场挑战。对产品经理而言，这反映了AI芯片领域的新竞争格局，以及中国AI企业通过硬件合作提升模型能力的战略方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/biotech-firm-colossal-set-to-return-extinct-bird-s-egg-to-new-zealand": {
+    "title_clean": "Colossal Biosciences：复活灭绝物种的生物科技公司",
+    "summary": "生物技术公司Colossal Biosciences收购了一枚已灭绝鸟类恐鸟的稀有蛋，并将其归还至原生地新西兰。该公司专注于复活灭绝物种，这一行动展示了其在生物复活领域的实际进展，对元宝产品经理了解生物科技与AI结合的前沿应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/tech-earnings-spacex-meta-to-test-ai-monetization-video": {
+    "title_clean": "SpaceX与Meta将测试AI商业化模式",
+    "summary": "本周科技财报季，SpaceX与Meta将测试AI商业化模式，市场关注云业务波动与融资环境对AI变现的影响。这对元宝产品经理了解科技巨头AI商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs": {
+    "title_clean": "Nvidia：企业级与PC端开源AI模型发布",
+    "summary": "Nvidia推出新开源模型，支持企业在数据中心运行专属模型，同时推动在PC设备上部署私有AI代理。此举反映了企业对本地化、私有化AI解决方案的需求增长，对元宝产品经理在本地部署、企业级AI代理开发方向具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/coreweave-gets-stock-upgrade-cleveland-cliffs-earnings-video": {
+    "title_clean": "Coreweave获股票上调；克利夫兰-克利夫斯因业绩上涨",
+    "summary": "CoreWeave作为云计算提供商被高盛上调股票评级至买入，此前该公司在AI基础设施领域有所布局。此信息对关注AI基础设施投资和云计算服务的产品经理有一定参考价值，特别是CoreWeave与AI计算能力相关的业务发展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-readies-model-reads-users-intentions-better": {
+    "title_clean": "Anthropic 准备发布更精准理解用户意图的模型",
+    "summary": "Anthropic 正在开发一款能够更好理解用户意图的新模型，近期OpenAI、Anthropic和Google已发布十多个新模型，AI模型迭代速度持续加快，这对AI助手产品在理解用户需求方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/anthropic-may-put-some-shares-in-public-good-fund-video": {
+    "title_clean": "Anthropic计划将5%股份投入'公共利益'基金",
+    "summary": "Anthropic计划将5%的股份存入一个新的'公共利益'基金，这笔资金可能用于抵消AI对就业市场的影响。这是AI公司对社会责任的一种尝试，反映了行业对AI社会影响的关注，对元宝产品经理思考AI企业的社会责任定位有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts": {
+    "title_clean": "美国禁止联邦机构使用中国AI初创公司DeepSeek产品",
+    "summary": "特朗普政府禁止美国联邦机构使用中国AI初创公司DeepSeek的产品和服务，理由是可能对国家安全构成威胁。这一政策动向反映了AI领域地缘政治竞争加剧，对元宝产品经理了解国际AI市场准入限制和合规风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/jpmorgan-deploys-230-billion-to-begin-security-push-video": {
+    "title_clean": "摩根大通投入2300亿美元启动安全领域战略投资",
+    "summary": "摩根大通投入2300亿美元资本，通过股权和债务融资支持能源独立、国防和航空航天等领域，标志着大型金融机构对国家安全相关领域的战略布局，对AI服务场景中的政府与企业安全合作具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/amazon-and-aep-explore-960-megawatt-nuclear-project-in-indiana": {
+    "title_clean": "亚马逊与AEP合作探索印第安纳州960兆瓦核能项目",
+    "summary": "亚马逊与美国电力公司(AEP)合作评估在印第安纳州建设960兆瓦核电站的计划，该项目将采用新型反应堆设计，但依赖尚未验证的技术。这对元宝产品经理的参考价值在于了解大型科技公司在能源基础设施上的布局，可能影响未来AI服务的能源成本和可持续性策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/pentagons-emil-michael-vows-export-controls-ai-labs-cooperate-government": {
+    "title_clean": "五角大楼官员威胁对不配合政府的AI实验室实施出口管制",
+    "summary": "五角大楼高级官员Emil Michael表示，若AI实验室不与政府合作，将动用包括出口管制在内的一系列行政工具。这反映了政府对AI技术管控的加强趋势，对AI产品经理了解政策风险和政府合作策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-19/marc-andreessen-s-techno-optimism-leaves-some-supporters-shaking-their-heads": {
+    "title_clean": "Marc Andreessen的科技乐观主义引发支持者质疑",
+    "summary": "知名投资人Marc Andreessen关于阻碍科技发展的观点被认为言过其实，甚至引起部分支持者的不同意见。此资讯反映了科技行业内部对发展障碍认知的分歧，对产品经理了解行业领袖观点变化及市场情绪有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico": {
+    "title_clean": "拉丁美洲初创企业融资增长26%，风投重新关注该地区",
+    "summary": "Crunchbase数据显示，2026年第三季度拉丁美洲初创企业融资总额增长26%，后期和增长阶段融资持续繁荣，种子轮融资激增，风投开始重新发现该地区潜力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived": {
+    "title_clean": "The FDE Bubble：硅谷最昂贵的虚假游戏",
+    "summary": "这篇报道揭示了企业AI公司通过部署大量工程师团队，将劳动密集型服务伪装成可扩展软件，虚增经常性收入和估值，但实际表现却未达预期的现象。这对产品经理有警示价值，提醒在评估AI商业模式时需警惕表面繁荣下的真实可持续性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/musk-pledges-spacex-shares-to-every-kid-in-america-video": {
+    "title_clean": "马斯克承诺向美国每位儿童赠送SpaceX股份",
+    "summary": "马斯克在X平台宣布将向美国每位儿童赠送SpaceX股份，此举发生在AI竞争对手Anthropic PB之后。这一举措可能旨在扩大SpaceX品牌影响力，同时与AI领域的竞争形成关联，对元宝产品经理思考用户激励和品牌营销策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/don-wilson-on-the-gpu-market-s-trillion-dollar-question-video": {
+    "title_clean": "Don Wilson：探讨GPU市场万亿美元发展前景",
+    "summary": "DRW创始人兼CEO Don Wilson表示，他希望构建一个比石油市场更大的GPU市场，认为在AI时代，GPU市场将迎来爆发式增长。这一观点对AI产品经理了解算力市场趋势和资源战略布局具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/anti-ai-trade-drives-buyers-into-bonds-3-minutes-mliv-video": {
+    "title_clean": "Anti-AI Trade Drives Buyers Into Bonds: Market Analysis",
+    "summary": "彭博社分析显示，市场出现反AI投资趋势，投资者转向债券市场。这一市场动态反映了投资者对AI相关资产的风险规避行为，对元宝产品经理了解市场情绪变化和投资流向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/norway-data-center-firm-hunts-for-partner-on-canada-europe-fiber-link": {
+    "title_clean": "挪威数据中心公司寻求加拿大-欧洲光纤合作伙伴",
+    "summary": "挪威数据中心公司正寻求合作伙伴建设连接加拿大和欧洲的光纤网络，以解决加拿大数据流量依赖美国网络的安全风险问题。这一动态反映了地缘政治对数据基础设施的影响，对元宝产品经理了解全球网络布局和潜在服务区域扩展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-tells-suppliers-tap-tsmc-process-next-generation-memory-chips": {
+    "title_clean": "Nvidia要求供应商采用台积电3纳米工艺生产新一代内存芯片",
+    "summary": "Nvidia已要求其新一代定制高带宽内存芯片供应商使用台积电3纳米制造工艺。这一决策反映了Nvidia在AI硬件领域的技术路线选择，对元宝产品经理了解AI芯片供应链和硬件发展趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/go7vvpRyYFSvUp7BffmNTA": {
+    "title_clean": "EMNLP 2026：浙大&北大团队提出SPADER：基于step-wise GRP的文本处理方法",
+    "summary": "浙江大学与北京大学团队在EMNLP 2026上提出SPADER方法，采用step-wise GRP技术处理文本。这项研究可能对AI文本理解和生成技术有参考价值，特别是对自然语言处理模型的优化方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/_YAaKBXAJuwOjXcFovarLA": {
+    "title_clean": "双榜第一背后，他们想做的不是下一个世界模型",
+    "summary": "某团队在双榜排名第一，但其目标并非打造下一个世界模型。这反映了AI领域对技术路线的重新思考，可能启发产品经理关注差异化竞争策略和实际应用价值，而非盲目追求模型规模。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/the-case-for-buying-small-caps-now-video": {
+    "title_clean": "小盘股投资价值分析：AI热潮后的投资机会",
+    "summary": "该文章探讨了在美国大盘股和人工智能热潮多年主导市场后，小盘股可能迎来复苏的投资机会。文章引用了基金经理的观点，分析小盘股当前的投资价值和潜在增长空间，为投资者提供了市场趋势判断参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/DZaoGmO9YZ6-XeEQsGI4RA": {
+    "title_clean": "VAST世界模型：实时生成动漫版闪身步技术",
+    "summary": "VAST世界模型全面开源，能够实时将'闪身步'这一流行动作转化为动漫风格生成。这对产品经理评估AI实时视频生成技术、多模态交互能力以及动漫风格AI应用场景具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

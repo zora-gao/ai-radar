@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:04:57.723Z",
+  "generated_at": "2026-10-20T13:14:09.889Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -44,8 +44,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
-      "price_out": 1.2,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -144,7 +144,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Mercury 3 is a diffusion-based language model from Inception, and the lab's most capable model to date. It is suited for agentic workflows and real-time applications where latency compounds, such...",
-      "description_zh": null
+      "description_zh": "Mercury 3 是 Inception 推出的基于扩散的语言模型，也是该实验室迄今为止功能最强大的模型。它适用于延迟复杂的代理工作流程和实时应用程序，例如..."
     },
     {
       "id": "moondream/moondream3-preview",
@@ -1478,8 +1478,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.225,
-      "price_out": 8,
+      "price_in": 0.181,
+      "price_out": 0.543,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

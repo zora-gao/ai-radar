@@ -136798,5 +136798,253 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/stage-9": {
+    "title_clean": "Stage：原型与产品协作审核工具",
+    "summary": "Stage是一款协作工具，专注于帮助团队审核、修改和确认工作原型与产品。产品经理可参考其协作流程设计，优化原型评审环节，提升团队协作效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lugh-xtudio": {
+    "title_clean": "Lugh Xtudio：AI视频协作编辑工具",
+    "summary": "Lugh Xtudio是一个视频工作室平台，AI代理可以与用户共同进行视频编辑。这种AI协作编辑模式可能为元宝在多媒体内容创作领域提供新的交互思路，特别是AI辅助创作工具的设计方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rovalty-creator-program-ugc": {
+    "title_clean": "Rovalty：按观看付费的TikTok/Reels创作者平台",
+    "summary": "Rovalty是一个新型创作者经济平台，允许品牌按视频实际观看次数而非 upfront 付费方式向TikTok和Reels创作者支付报酬，为创作者提供更灵活的变现方式，同时帮助品牌降低广告风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/intel": {
+    "title_clean": "Intel® GPU D-series：内存丰富的AI推理芯片",
+    "summary": "Intel推出D系列GPU，专为AI推理设计，提供丰富的内存资源但不使用HBM(高带宽内存)，可能降低AI推理成本并提高性价比，对元宝产品经理评估AI硬件选择与成本结构有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/harness-104": {
+    "title_clean": "Harness²：AI Agent 自我改进工具",
+    "summary": "Harness² 是一款专注于 AI Agent 自我改进能力的工具，允许用户引导 AI Agent 并促进其自我优化。该产品对元宝产品经理在 Agent 能力提升和自我迭代机制设计方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/exa-ai": {
+    "title_clean": "Exa 3.0：AI智能搜索引擎",
+    "summary": "Exa 3.0是一款智能搜索引擎，旨在为AI代理提供更丰富的数据支持，同时降低数据获取成本。该产品通过优化搜索算法，提升AI代理的数据处理效率，对AI助手和AI Agent产品经理在数据获取和成本控制方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/snyvi": {
+    "title_clean": "snyvi：项目管理工作具",
+    "summary": "snyvi是一个项目管理工具，旨在帮助用户集中管理所有个人项目，提供简洁有序的工作环境。产品经理可参考其如何通过整合功能简化个人项目流程，为元宝的AI助手在项目管理场景提供思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/call4me": {
+    "title_clean": "call4me：AI电话代理工具",
+    "summary": "call4me是一款为AI代理提供电话功能的工具，使其能够拨打电话和接听电话。这项技术扩展了AI代理的能力边界，使其能够处理语音通信场景，为AI助手产品提供了新的交互方式和应用场景，对元宝产品经理探索AI语音通信能力具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sorcerer": {
+    "title_clean": "Sorcerer：AI社区模拟工具",
+    "summary": "Sorcerer是一款模拟AI社区对假设性场景反应的工具，能够帮助产品经理了解AI社区在特定情境下的行为模式和用户反应，为产品设计和用户需求分析提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/the-new-beings": {
+    "title_clean": "The New Beings：AI 主持人直播脱口秀",
+    "summary": "这是一个由 AI 代理人主持的直播脱口秀节目，展示了 AI 在娱乐表演场景中的应用。产品经理可参考这种将 AI 与娱乐内容结合的形式，探索元宝在互动娱乐、内容生成和用户互动方面的创新可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kling-4-0-4": {
+    "title_clean": "Kling 4.0：高频创作者AI视频生成工具",
+    "summary": "Kling 4.0是一款面向高频创作者的AI视频生成工具，强调快速且经济实惠的视频创作能力。该产品可能通过AI技术降低视频制作门槛，为内容创作者提供高效的视频生成解决方案，对元宝在多媒体内容生成方向的产品规划具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tiny-little-office": {
+    "title_clean": "Tiny Little Office：链接即文档的轻量办公套件",
+    "summary": "Tiny Little Office是一款轻量级办公套件，其核心理念是将链接作为文档本身，用户可以通过链接直接访问和编辑文档，无需传统文件下载和上传流程，这种模式可能为协作办公提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dev-null": {
+    "title_clean": "/dev/null：开发者社交网络",
+    "summary": "/dev/null是一个面向开发者的社交网络平台，旨在为开发者提供专业交流、技术分享和职业发展的社区空间。对于元宝产品经理而言，该平台展示了垂直领域社交网络的价值，可作为AI助手在开发者群体中应用场景的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/australia-to-sue-facebook-tiktok-for-alleged-breaches-of-ban": {
+    "title_clean": "澳大利亚将起诉Facebook和TikTok：违反16岁以下儿童社交媒体禁令",
+    "summary": "澳大利亚政府计划起诉Facebook、TikTok等主要数字平台，指控其违反全国16岁以下儿童社交媒体禁令。通信部长Anika Wells表示此举旨在加强儿童安全保护，对平台合规性提出严格要求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-yeam-ai": {
+    "title_clean": "Yeam.ai CEO访谈：市场定位与客户需求",
+    "summary": "Yeam.ai CEO Zarak Shah接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及公司定位。该访谈提供了AI创业公司市场策略的一手见解，对元宝产品经理了解AI创业公司的市场定位和客户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-20/citi-global-chief-economist-on-global-growth-video": {
+    "title_clean": "花旗首席经济学家谈全球经济增长",
+    "summary": "花旗集团首席经济学家Nathan Sheets讨论了在能源成本上升、持续通胀和AI干扰背景下，该行对全球增长的预测。这为AI对经济影响的宏观视角提供了参考，有助于产品经理理解AI技术可能带来的经济环境变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back": {
+    "title_clean": "Mamdani：联邦政府放弃AI监管责任，呼吁纽约人抵制AI接管",
+    "summary": "纽约市长Mamdani呼吁市民抵制AI接管不可避免的说法，要求制定保护公众利益的监管措施，将权力重新掌握在人民手中。这对产品经理了解AI监管政策走向和公众对AI的态度变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/anylanguagemodel-1-0": {
+    "title_clean": "AnyLanguageModel 1.0：苹果平台本地大模型运行工具",
+    "summary": "AnyLanguageModel 1.0 发布，专注于在苹果平台上运行本地语言模型，提供隐私保护和离线使用能力。这一工具对元宝产品经理有参考价值，特别是在移动端AI模型部署、本地化处理和隐私保护方面的技术实现。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal": {
+    "title_clean": "Nscale与Anthropic reportedly洽谈又一笔450亿美元算力交易",
+    "summary": "据报道，Nscale与Anthropic正在洽谈又一笔高达450亿美元的算力交易。如果达成，这将是Anthropic在过去一年中达成的又一笔大型算力交易，反映了AI大模型训练对算力的巨大需求以及行业巨头间的战略合作趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/mps-pytorch-2-15": {
+    "title_clean": "MPS in PyTorch 2.15：苹果M系列芯片优化支持",
+    "summary": "PyTorch 2.15版本新增对苹果M系列芯片(MPS)的优化支持，提升在Mac设备上的AI模型训练和推理性能。这对产品经理评估跨平台AI服务部署策略有参考价值，特别是面向苹果生态的用户体验优化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

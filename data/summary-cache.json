@@ -136587,5 +136587,216 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/cybersecurity-startup-blackwall-joins-unicorns-with-fundraising": {
+    "title_clean": "Blackwall：网络安全与网站基础设施公司",
+    "summary": "爱沙尼亚网络安全与网站基础设施公司Blackwall完成最新融资，成为该国最新加入独角兽行列的初创企业。这反映了网络安全领域投资活跃，对元宝产品经理了解AI安全服务市场格局和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/framefields": {
+    "title_clean": "Framefields：开源代码优先视频工具",
+    "summary": "Framefields是一款开源的视频工具，采用代码优先的方式处理视频内容，专为AGI时代设计。该工具可能通过编程接口实现视频编辑和处理功能，为AI系统提供更灵活的视频处理能力，对元宝在多模态交互和AI服务场景拓展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/fnz-directors-to-face-employee-shareholders-in-new-zealand-court": {
+    "title_clean": "FNZ集团员工股东将在新西兰法庭起诉公司董事",
+    "summary": "FNZ集团是一家数字财富管理平台，现面临新西兰员工股东的法庭诉讼。该事件反映了员工持股公司在治理结构上的潜在风险，对AI财富管理平台的公司治理和员工股权设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-pearl": {
+    "title_clean": "Executive Interview: Pearl：Pearl公司高管谈市场定位与客户需求",
+    "summary": "Pearl公司首席运营官Ben Plomion接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。这为元宝产品经理提供了AI服务领域企业战略视角，有助于理解行业领导者如何思考市场定位和客户价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-20/anthropic-in-talks-for-45b-nscale-cloud-computing-deal-video": {
+    "title_clean": "Anthropic拟与Nscale达成450亿美元云计算交易",
+    "summary": "AI云计算公司Nscale正与Anthropic洽谈一项价值约450亿美元的云计算交易，Anthropic将向Nscale购买大量计算资源。这笔交易反映了AI大模型公司对底层算力需求的急剧增长，对元宝产品经理评估AI服务成本结构和算力战略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/ai-tool-that-hacked-korea-banks-were-used-in-japan-gmo-says": {
+    "title_clean": "AI工具入侵韩国银行后用于日本攻击，GMO公司披露",
+    "summary": "据东京GMO公司披露，近期入侵日本多家大公司的黑客使用了源自中国的AI工具，该工具与上月韩国银行一系列安全漏洞有关联。这表明AI技术已被用于跨国网络攻击，对AI安全防护和金融科技风险管理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-20/us-to-bar-china-s-deepseek-from-federal-agency-systems-video": {
+    "title_clean": "美国禁止中国AI创业公司DeepSeek进入联邦政府系统",
+    "summary": "特朗普政府以国家安全为由，禁止美国联邦政府机构使用中国AI创业公司DeepSeek的产品和服务。这一决策反映了地缘政治对AI技术发展的影响，对元宝产品经理了解国际AI市场准入限制和合规风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/alibaba-backs-chinese-robovan-maker-in-400-million-fundraising": {
+    "title_clean": "阿里巴巴投资中国无人配送车制造商Neolix Technologies",
+    "summary": "中国无人配送车制造商Neolix Technologies完成4亿美元融资，由阿里巴巴支持，资金将用于全球扩张。这反映了物流自动化和无人配送领域的投资热度，对元宝在服务场景和商业化方向上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-zarvix-ai": {
+    "title_clean": "Zarvix AI CEO访谈：市场定位与客户需求",
+    "summary": "Zarvix AI CEO Akshay Bagade接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈为AI产品经理提供了新兴AI企业的市场策略和客户洞察参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/activist-starboard-value-builds-stake-in-solstice-ft-reports": {
+    "title_clean": "Activist Starboard Value Builds Stake in Solstice, FT Reports",
+    "summary": "对冲基金Starboard Value在Solstice Advanced Materials公司建立持股，该公司原为霍尼韦尔国际分拆企业，已取消145亿美元的收购计划。此信息对产品经理参考价值有限，属于金融投资动态，与AI产品或服务无直接关联。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/FCZOaRgfLE5SvV5vqPJ1kg": {
+    "title_clean": "LoopVL：百度联合清华人大高瓴开源的视觉语言模型",
+    "summary": "百度联合清华大学、中国人民大学和高瓴人工智能学院共同开源了LoopVL模型，这是基于Loop Transformer架构的视觉语言模型，为多模态AI领域提供了新的技术方案，对产品经理了解AI多模态技术发展路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/jdX3Q05v17EK9Dl4meIEHg": {
+    "title_clean": "通衍灵智：AI模型个性化定制服务",
+    "summary": "通衍灵智推出模型层个性化技术，从传统的一模万人模式升级为千人千面的定制化AI服务，能够为不同用户提供专属的AI模型体验，这可能改变AI产品个性化服务的实现方式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall": {
+    "title_clean": "Eric Schmidt的Anthropic股份将带来巨额回报",
+    "summary": "前谷歌CEO埃里克·施密特持有Anthropic约1%的股份，得益于早期投资，预计将获得巨额回报。这反映了Anthropic作为AI独角兽企业的估值增长，对元宝产品经理了解AI行业投资动态和头部企业估值有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/intel-asks-fcc-for-upgrades-to-banned-foreign-robot-technology": {
+    "title_clean": "Intel请求FCC允许升级被禁外国机器人",
+    "summary": "Intel向美国联邦通信委员会申请对近期禁止外国制造的先进机器人禁令豁免，称需要继续获取'小众'设备以维持业务运营。这反映了AI硬件供应链安全与商业需求之间的冲突，对元宝产品经理了解AI硬件政策风险和供应链管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/transferencias-rapidas-sacuden-el-negocio-global-de-remesas-mvffayeb": {
+    "title_clean": "快速转账业务冲击全球汇款市场",
+    "summary": "快速转账服务正在改变全球汇款行业格局，对传统汇款业务构成挑战。这一趋势对元宝产品经理有参考价值，可能影响跨境支付、金融服务场景及用户需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago": {
+    "title_clean": "Replika创始人推出Wabi：免费个人AI助手",
+    "summary": "Replika创始人Eugenia Kuyda推出新项目Wabi，这是一个免费可下载的个人AI助手，基于她12年前在Disrupt大会上提出的构想。这展示了AI助手产品从概念到实现的长期发展历程，对元宝产品经理在AI助手产品定位和商业模式上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/nasdaq-100-climbs-on-ai-trade-revival-after-rout-video": {
+    "title_clean": "纳斯达克100指数因AI交易复苏而上涨",
+    "summary": "大型芯片制造商的反弹带动了股市上涨，投资者押注人工智能投资热潮将继续支撑强劲的盈利表现。这反映了市场对AI产业持续发展的信心，对元宝产品经理了解AI行业投资趋势和市场情绪有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

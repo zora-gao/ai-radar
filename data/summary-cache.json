@@ -136353,5 +136353,239 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/55cbbtumbRhSGM92xWwALg": {
+    "title_clean": "GPT-6-Astra具身能力测试：传统基准满分，真实环境表现不佳",
+    "summary": "GPT-6-Astra在传统AI基准测试中获得满分，但在真实物理环境应用中表现不佳，暴露了AI具身能力在实验室与实际场景间的差距，对产品经理评估AI模型在真实世界应用中的局限性有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/09X8LBAwViQGdkEqS7eMDQ": {
+    "title_clean": "国内创业公司投入一亿元启动Fellows人才计划",
+    "summary": "国内某创业公司投入一亿元启动Fellows人才计划，旨在招募和培养高端人才。这一举措反映了AI行业对顶尖人才的激烈竞争，可能预示着该公司将有重大产品或技术突破，对元宝产品经理了解行业人才战略和竞争态势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/YSWU2zavSlulaR4ghSezXA": {
+    "title_clean": "浙大团队发布智能眼镜第一人称智能研究",
+    "summary": "浙江大学团队发布了关于智能眼镜第一人称智能的研究，探索如何从视觉感知到实际行动的智能转化。这项研究可能为AI眼镜在AR/VR、辅助导航和实时交互等场景的应用提供技术参考，对元宝在多模态交互和智能助手场景拓展有启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/WfgWRtus58AG1UQ4ZBCWnA": {
+    "title_clean": "Claude垫底，GPT表现不佳，PhAl Labs用DiscoveryRSI探索AI模型性能",
+    "summary": "PhAl Labs进行了一场AI模型性能对比直播，结果显示Claude垫底，GPT表现不佳。他们使用DiscoveryRSI技术探索AI模型性能差异，为产品经理提供竞品性能参考和优化方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo": {
+    "title_clean": "韩国数据中心公司Elice上市首日股价暴跌32%",
+    "summary": "韩国数据中心基础设施公司Elice在韩国科技股为主的Kosdaq市场上市首日股价暴跌32%，尽管此次IPO筹集了2010亿韩元（1.51亿美元），成为该交易所规模最大的首次公开募股之一。这一事件对AI基础设施领域具有重要参考价值，反映了市场对数据中心行业投资态度的变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/catl-s-valuation-gap-highlights-investor-divide-as-earnings-near": {
+    "title_clean": "宁德时代估值差异凸显投资者分歧",
+    "summary": "宁德时代香港上市股价较深圳交易股票保持显著溢价，反映投资者对公司前景的分歧。这一市场动态对AI产品经理评估企业级服务市场情绪和投资趋势有参考价值，特别是在能源科技领域的企业服务场景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/apple-pigs-fly": {
+    "title_clean": "苹果即将发布新品：营销总监暗示重大更新",
+    "summary": "苹果公司已发布新品发布会邀请函，营销总监在X平台暗示将有重大更新。虽然具体产品未透露，但此次发布会可能涉及苹果AI战略或硬件创新，对元宝产品经理了解科技巨头AI布局和产品发布策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus": {
+    "title_clean": "Altman描述AI发展的三种结局：包括单一企业'熔化其他企业GPU'的极端情况",
+    "summary": "OpenAI CEO Altman向员工介绍了业界讨论的AI安全发展三种方案，其中包括一种极端情况：单一企业可能'熔化其他企业的GPU'。这反映了AI行业对资源集中和竞争格局的担忧，对产品经理评估行业风险和战略方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says": {
+    "title_clean": "Hugging Face政策主管：嵌入式AI评估者并非易事",
+    "summary": "Hugging Face政策主管指出，AI实验室将声誉押注于模型基准测试上，这种旨在衡量AI产品优劣的评估系统并非简单易行的解决方案。这对产品经理评估AI模型性能和选择评估方法具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted": {
+    "title_clean": "微软称AI代理如同内部威胁，前沿模型不可信任",
+    "summary": "微软警告企业需密切监控员工使用的AI代理，特别是那些与OpenAI和Anthropic等AI实验室无关的系统。这反映了企业对AI代理安全性和可控性的担忧，对元宝产品经理在AI代理安全设计和企业级应用方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/alger-s-crawford-there-s-skittishness-in-the-market-video": {
+    "title_clean": "Alger的Crawford：市场对AI的担忧不反映实际采用强度",
+    "summary": "Alger投资组合经理兼前英特尔工程师Ankur Crawford表示，近期市场对AI的担忧（包括CoreWeave相关顾虑）并不反映底层AI采用的强劲势头，这对产品经理判断市场情绪与实际需求差异有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies": {
+    "title_clean": "Z.AI：中国AI公司创始人涉英国间谍机构合作研究",
+    "summary": "中国有前景的AI公司Z.AI的四位创始人曾与被英国政府指控与间谍有关的技术研究所合作研究项目。此事件涉及AI研究机构与政府背景机构的合作问题，对产品经理评估AI公司背景、研究合作风险及国际合规性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/big-take-coreweave-and-the-fragile-ai-economy": {
+    "title_clean": "CoreWeave与脆弱的AI经济",
+    "summary": "CoreWeave的债务问题引发投资者担忧，本文探讨了该公司财务困境如何反映AI泡沫现象，以及对云基础设施提供商未来发展的启示。对元宝产品经理了解AI经济周期和云服务选择有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/replit-acquisition-predictions": {
+    "title_clean": "Replit：AI应用开发平台招聘首位企业开发负责人",
+    "summary": "Replit作为估值高达90亿美元的AI应用开发平台，正在招聘首位企业开发负责人，计划通过收购(acqui-hire、tuck-in和大规模收购)来扩展业务。这对元宝产品经理有参考价值，因为Replit的收购动向可能反映AI开发工具市场的整合趋势和潜在合作机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/t-rowe-s-crypto-etf-outpaces-s-p-video": {
+    "title_clean": "T.Rowe's Crypto ETF：加密货币ETF表现超越标普指数",
+    "summary": "T.Rowe Price推出主动管理型加密货币ETF(TKNZ)，在近期表现超越标普500指数。该ETF由数字资产负责人Blue Macellari管理，讨论中强调了加密货币ETF的市场表现和投资价值，对AI产品经理了解金融科技产品趋势和用户投资需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-19/academy-s-tchir-fears-ai-debt-may-trigger-sharp-selloff-video": {
+    "title_clean": "Academy's Tchir：担忧AI债务可能引发市场抛售",
+    "summary": "Academy Securities宏观策略主管Peter Tchir对AI相关债务可能引发的市场抛售表示担忧，他认为市场存在\"虚假流动性\"。这一观点对产品经理了解AI金融领域的市场风险和投资情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/low-resource-programming-languages": {
+    "title_clean": "OpenAI提升ChatGPT在低资源编程语言中的代码能力",
+    "summary": "OpenAI正在改进ChatGPT对低资源编程语言的支持，新增了软件工程、SQLite和COBOL迁移等领域的评估能力，这有助于扩大AI编程助手的应用范围并支持更多传统编程场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/ai-chip-startup-tenstorrent-raises-funds-at-6-2-billion-value": {
+    "title_clean": "Tenstorrent：AI芯片初创公司获62亿美元估值",
+    "summary": "AI芯片初创公司Tenstorrent完成15亿美元融资，估值达62亿美元。该公司今年曾吸引收购兴趣，此轮融资将进一步推动其AI芯片业务发展，对元宝产品经理了解AI基础设施投资趋势和算力资源竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-19/indonesia-ends-radioactive-emergency-after-us-shrimp-scare": {
+    "title_clean": "印尼结束放射性紧急状态：美国虾类进口引发恐慌",
+    "summary": "印尼宣布结束持续一年的放射性紧急状态，该事件导致雅加达附近海域受污染，影响了虾类、丁香和运动鞋的出口，并引发美国食品召回和前所未有的进口限制。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

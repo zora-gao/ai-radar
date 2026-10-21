@@ -138447,5 +138447,485 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/tend-5": {
+    "title_clean": "Tend：企业级个人AI助手",
+    "summary": "Tend是一款面向企业和企业家的个人AI助手产品，提供商业决策支持、客户服务自动化和创业辅助等功能，帮助用户提升工作效率和业务增长。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hibi": {
+    "title_clean": "hibi：开源Obsidian替代工具",
+    "summary": "hibi是一款开源的笔记应用，定位为Obsidian的替代品。对于元宝产品经理而言，这代表知识管理领域存在对开源、可定制笔记工具的需求，可能影响AI助手在知识管理场景的产品策略。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lea-by-leanaios": {
+    "title_clean": "Lea by LeanAIOS：建筑管理AI团队工具",
+    "summary": "Lea是LeanAIOS开发的建筑管理AI团队工具，专注于施工前规划和项目管理，能够自主执行团队任务。该产品展示了AI在专业垂直领域的应用，为元宝在行业垂直AI助手方向提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/woven-video": {
+    "title_clean": "Woven Video：AI视频编辑聊天工具",
+    "summary": "Woven Video是一款AI视频编辑工具，允许用户通过聊天方式在Mac时间线上编辑视频。该产品将AI对话与专业视频编辑功能结合，为用户提供更直观的视频编辑体验，对元宝在AI辅助创意工具领域的产品设计具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/askdoozy": {
+    "title_clean": "AskDoozy：Slack中的AI工作助手",
+    "summary": "AskDoozy是一款集成在Slack中的AI助手，能够执行实际工作任务，帮助用户提高工作效率。这款产品展示了AI助手在办公场景中的实际应用，为元宝产品经理提供了在团队协作环境中实现AI助手功能落地的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flagsmith": {
+    "title_clean": "Flagsmith Experiments：基于功能标志的开源A/B测试工具",
+    "summary": "Flagsmith Experiments是一款开源A/B测试工具，基于功能标志构建，帮助产品经理进行功能实验和效果验证。这对元宝产品经理在功能迭代和用户行为分析方面有参考价值，特别是在如何通过实验数据驱动产品决策方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/iglass": {
+    "title_clean": "iglass：终端界面美化工具",
+    "summary": "iglass是一款为iTerm2和Ghostty终端提供玻璃态效果美化工具，通过模拟液体玻璃视觉效果提升终端界面美观度，为注重终端体验的用户提供个性化定制选项。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ilha": {
+    "title_clean": "ilha：Claude 代码使用量实时监控工具",
+    "summary": "ilha 是一款实时监控 Claude Code 和 Codex 使用量的工具，通过在设备刘海屏显示当前使用情况，帮助用户直观了解 API 调用限额，便于开发者管理 AI 编程资源使用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yarite": {
+    "title_clean": "Yarite：每日联系人管理工具",
+    "summary": "Yarite是一款每日联系人管理工具，帮助用户整理每日需要联系的人员列表，所有信息保存在本地设备上，不离开用户的手机。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery": {
+    "title_clean": "UseIt Studio：AI设计代理工具",
+    "summary": "UseIt Studio是一款AI设计代理工具，能够处理真实可编辑的项目文件，为设计师提供智能辅助。该工具可能帮助产品经理了解AI在设计工作流中的应用，以及如何通过AI代理提升设计效率和协作体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/james-robinson-on-what-a-failing-state-looks-like-video": {
+    "title_clean": "James Robinson：国家失败的经济学分析",
+    "summary": "芝加哥大学教授、2024年诺贝尔经济学奖得主James Robinson探讨国家失败的经济学特征，分析国家治理与经济发展的关系，为理解AI服务在公共领域的应用提供理论参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/qualcomm-s-effort-to-market-the-invisible-video": {
+    "title_clean": "Qualcomm：将AI基础设施转化为消费者品牌",
+    "summary": "高通首席营销官Don McGuire与Raja Rajamannar讨论如何将无形的基础设施转化为消费者品牌，特别是在AI进入日常设备的背景下。这对元宝产品经理了解AI硬件厂商如何定位自身产品并建立品牌认知有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/learnexcel": {
+    "title_clean": "LearnExcel：Excel公式在线练习工具",
+    "summary": "LearnExcel是一个在线Excel学习平台，用户通过输入真实公式并获得即时评分来学习Excel技能。该工具对元宝产品经理有参考价值，因为它展示了即时反馈式学习模式，可借鉴到AI助手的功能设计中，特别是技能培训和知识应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/lenovo-seeks-2-billion-loan-to-refinance-debt-at-lower-cost": {
+    "title_clean": "联想寻求20亿美元贷款以低成本再融资",
+    "summary": "联想集团正寻求20亿美元贷款，用于以更低成本再融资现有债务。亚洲银行对此需求保持积极态度，这反映了大型科技企业在当前经济环境下的融资策略调整，对元宝产品经理了解企业财务策略与AI服务商业合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/chinese-food-delivery-firm-meituan-considers-dim-sum-bond-sale": {
+    "title_clean": "美团考虑发行点心债券",
+    "summary": "中国外卖巨头美团正考虑在未来几周发行离岸人民币债券，这将是其第二次发行点心债券。这一融资动向对了解大型AI服务平台的资本运作和商业化策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/blackrock-s-fink-says-slow-data-center-buildout-is-inflationary": {
+    "title_clean": "BlackRock CEO：AI基础设施建设放缓将推高通胀",
+    "summary": "贝莱德CEO警告称，随着AI需求加速，数据中心建设延迟将推高计算成本，威胁经济增长。这反映了AI基础设施对经济的关键影响，对元宝产品经理评估AI服务成本与规模化部署有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/deutsche-bank-ceo-sees-ongoing-volatility-higher-rates-video": {
+    "title_clean": "德意志银行CEO：市场波动将持续，利率将上升",
+    "summary": "德意志银行CEO Christian Sewing在柏林全球对话期间表示，市场波动将持续，利率将上升，并讨论了德国经济改革和法国财政状况。这对产品经理了解宏观经济环境对AI金融服务产品的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/tsmc-suspends-some-construction-after-deadly-accident-kills-four": {
+    "title_clean": "台积电台湾工地事故致四人死亡后放缓建设",
+    "summary": "台积电在台湾南部一建筑工地发生事故导致四人死亡后，暂停部分建设工作。这一事件可能影响半导体供应链稳定性，对元宝产品经理评估供应链风险和业务连续性规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026": {
+    "title_clean": "东南亚数字经济预计达3680亿美元",
+    "summary": "AI广泛推动下，东南亚数字经济预计2026年将达到3680亿美元，2035年将突破1万亿美元。这一增长趋势为AI助手产品在东南亚市场的拓展提供了重要商业机会和用户基础参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/deepseek-open-sources-framework-behind-high-margin-ai-inference": {
+    "title_clean": "DeepSeek 开源其高利润AI推理框架DeepInfer",
+    "summary": "DeepSeek开源了其内部使用的DeepInfer推理框架，该框架支持其AI模型的高效运行。这一举措揭示了这家中国AI开发者实现高效率的技术秘密，对AI推理优化和成本控制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/ai-to-spur-se-asian-digital-economy-to-368-billion-study-shows": {
+    "title_clean": "AI推动东南亚数字经济达3680亿美元，研究显示",
+    "summary": "研究表明，人工智能正帮助东南亚数字经济在物价上涨和需求不稳的背景下实现稳健增长。这一数据为元宝产品经理提供了AI在新兴市场经济发展中的重要参考价值，特别是对东南亚地区AI应用场景和商业机会的洞察。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout": {
+    "title_clean": "DayOne：数据中心运营商考虑调整美国IPO计划",
+    "summary": "DayOne Data Centers正考虑调整其美国首次公开募股计划，可能包括推迟上市或缩减规模，原因是数据中心市场波动性增加。这一动态反映了数据中心行业面临的挑战，对元宝产品经理了解企业级服务市场变化和基础设施投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/elice-ceo-shrugs-off-choppy-ipo-eyes-revenue-boost-video": {
+    "title_clean": "Elice CEO：无视IPO波动，专注边缘数据中心硬件出口与主权AI合同",
+    "summary": "Elice Group CEO金在元(Jae Won Kim)表示将忽略IPO初期的市场波动，计划通过出口边缘数据中心硬件和获取主权AI合同，实现每年收入翻倍的增长目标。这对元宝产品经理了解AI基础设施商业化路径和主权AI市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/nvidia-in-talks-to-back-firmus-after-ipo-flop-information-says": {
+    "title_clean": "Nvidia拟投资AI云公司Firmus Grid",
+    "summary": "据报道，Nvidia正与澳大利亚AI云公司Firmus Grid进行谈判，计划在该公司IPO失败后投资数亿美元。这反映了Nvidia对AI基础设施领域的持续布局，对元宝产品经理了解AI巨头投资动向和云服务市场格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-20/musk-teases-spacex-tesla-merger-in-earnings-call-video": {
+    "title_clean": "马斯克暗示SpaceX与特斯拉合并可能",
+    "summary": "马斯克在财报电话会议中透露，SpaceX和特斯拉已成立特别委员会探索潜在合并可能性，这将创造史上最大规模的企业合并。这一动态对AI产品经理的参考价值在于，科技巨头整合可能影响AI技术布局与市场格局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/private-equity-firms-weighed-100-billion-plus-buyout-microsofts-xbox": {
+    "title_clean": "私募股权公司考虑以1000亿美元以上收购微软Xbox部门",
+    "summary": "据报道，多家私募股权公司近期曾考虑以1000亿至1500亿美元估值收购微软Xbox游戏部门。这一潜在交易反映了游戏业务的高价值，对元宝产品经理了解游戏行业资本动向和微软业务布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed": {
+    "title_clean": "Anthropic提出AI安全法案：可能阻止可造成50+人死亡的模型发布",
+    "summary": "Anthropic提出一项AI安全法案，旨在防止AI模型造成大规模伤害，但该法案同时禁止联邦机构在未获得法官许可的情况下阻止模型发布。这反映了AI安全与监管平衡的复杂考量，对AI产品经理理解监管趋势和产品设计边界有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/nextdc-cuts-outlook-as-public-backlash-delays-data-center-power": {
+    "title_clean": "Nextdc数据中心遭遇公众抵制后股价暴跌",
+    "summary": "Nextdc数据中心因社区反对导致电力供应延迟，考虑采取不可抗力措施并下调盈利预期超三分之一，股价随之大幅下跌。此事件反映数据中心项目面临的社会阻力风险，对元宝产品经理评估AI基础设施项目的社会接受度与风险管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/musk-says-spacex-tesla-formed-committees-explore-merger": {
+    "title_clean": "马斯克称SpaceX与特斯拉成立委员会探索合并可能",
+    "summary": "马斯克宣布SpaceX和特斯拉已成立特别委员会，探索两家公司潜在合并的可能性。这一动向对AI产品经理具有重要参考价值，可能影响两家公司在AI领域的战略布局和资源整合。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/bok-seen-taking-breather-to-assess-impact-of-back-to-back-hikes": {
+    "title_clean": "韩国央行暂停加息评估连续加息影响",
+    "summary": "韩国央行预计本周将维持利率不变，政策制定者正在评估罕见连续加息的影响，同时保留进一步加息的可能性，以应对半导体行业繁荣带来的经济影响。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/nvidia-backed-pigment-nabs-250-million-to-challenge-microsoft": {
+    "title_clean": "Pigment：AI财务与演示工具",
+    "summary": "法国AI公司Pigment获得2.5亿美元融资，开发挑战微软Excel和PowerPoint的AI工具，显示欧洲企业级AI应用正在崛起，对元宝在办公场景的AI产品布局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats": {
+    "title_clean": "ChatGPT：新增聊天锁定功能",
+    "summary": "ChatGPT推出聊天锁定功能，允许用户保护个人对话或惊喜计划等隐私内容，防止在设备共享时信息泄露。此功能针对用户隐私保护需求，为产品经理提供了AI助手隐私设计方向的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-identifee": {
+    "title_clean": "Identifee：身份验证服务CEO访谈",
+    "summary": "Identifee CEO Vram Ismailyan接受CB Insights采访，分享了公司对市场定位、客户需求的理解以及竞争策略。作为身份验证服务提供商，其观点对元宝在用户身份认证和安全验证场景的产品设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-20/eric-schmidt-s-early-anthropic-bet-to-pay-huge-windfall-video": {
+    "title_clean": "前谷歌CEO早期投资Anthropic将获巨额回报",
+    "summary": "前谷歌CEO埃里克·施密特因早期投资Anthropic持有约1%股份，随着该公司即将上市，他将获得个人最大一笔回报。这反映了大型AI公司的投资回报潜力，对元宝产品经理了解AI行业资本动态和估值趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-20/partners-group-cuts-fees-as-blue-owl-goes-all-in-on-ai-video": {
+    "title_clean": "Partners Group降低管理费，Blue Owl全面投入AI",
+    "summary": "Partners Group正降低其74亿美元全球价值基金的管理费，并寻求股东批准重组；同时，Blue Owl强调数字基础设施，持续加大对AI领域的投入，显示传统金融投资机构对AI技术的战略重视。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk": {
+    "title_clean": "Google Cloud 大规模故障影响欧洲多家服务",
+    "summary": "Google Cloud 在欧洲发生的大规模故障导致数字银行 Revolut 等多家在线服务中断数小时，现已基本恢复。此次事件凸显云服务稳定性对关键业务的重要性，对元宝产品经理评估云服务依赖风险和业务连续性规划有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era": {
+    "title_clean": "前英伟达风投Amulya Vishwanath：物理AI处于乐高时代",
+    "summary": "前英伟达高管、现任风投Amulya Vishwanath表示，物理AI正处于类似乐高积木的早期发展阶段，暗示机器人领域即将迎来类似ChatGPT的突破时刻。这一观点对元宝产品经理评估AI在物理世界应用的时机与方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/terminal-x": {
+    "title_clean": "Terminal X：AI投资评估工具",
+    "summary": "Terminal X的评估代理使用54项标准对投资输出进行评分，借助GPT-6.1 Sol版本，能够比传统方法多发现25%偏离基金投资准则的情况，准确率达到88.6%，为投资决策提供AI辅助评估。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/amazon-pledges-16-billion-in-germany-on-data-centers-prime": {
+    "title_clean": "Amazon承诺在德国投资160亿欧元建设数据中心和Prime服务",
+    "summary": "Amazon宣布将在德国投资超过160亿欧元，用于数据中心建设、卫星项目以及Prime视频媒体制作等业务。这笔投资反映了Amazon对欧洲市场的重视，特别是AI基础设施和内容服务的战略布局，对元宝产品经理评估国际AI服务扩张和基础设施投入有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

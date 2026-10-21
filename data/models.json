@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-10-21T19:56:02.641Z",
+  "generated_at": "2026-10-21T23:05:11.045Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "recursive/flint-v1.0:free",
+      "name": "Flint (free)",
+      "vendor": "Recursive",
+      "vendor_slug": "recursive",
+      "url": "https://openrouter.ai/recursive/flint-v1.0-20261021",
+      "created_at": "2026-10-21T22:46:05Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Flint is an open-weight mixture-of-experts model from Recursive, with about 2.5B active parameters out of 40B total, built by Recursive's autoresearch system Eureka Machine for coding agents. It is suited...",
+      "description_zh": null
+    },
     {
       "id": "minimax/minimax-m3.1-flash:free",
       "name": "MiniMax M3.1 Flash (free)",
@@ -1462,29 +1485,6 @@
       "supports_reasoning": true,
       "description": "GLM-5.3-FlashX is the high-speed variant of Z.ai's GLM-5.3-Flash, a native multimodal model delivering inference speeds of up to 200 tokens/s. Built on the same hybrid sparse and linear attention architecture...",
       "description_zh": "GLM-5.3-FlashX 是 Z.ai GLM-5.3-Flash 的高速变体，GLM-5.3-Flash 是一种原生多模态模型，推理速度高达 200 个令牌/秒。建立在相同的混合稀疏和线性注意力架构之上......"
-    },
-    {
-      "id": "~deepseek/deepseek-pro-latest",
-      "name": "DeepSeek Pro Latest",
-      "vendor": "DeepSeek",
-      "vendor_slug": "deepseek",
-      "url": "https://openrouter.ai/~deepseek/deepseek-pro-latest",
-      "created_at": "2026-09-14T15:19:34Z",
-      "context_length": 1048576,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.131,
-      "price_out": 8,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the DeepSeek Pro family.",
-      "description_zh": "此模型始终重定向到 DeepSeek Pro 系列中的最新模型。"
     }
   ]
 }

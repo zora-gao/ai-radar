@@ -139596,5 +139596,465 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/burrow-macos": {
+    "title_clean": "Burrow MacOS：Mac免费运行Windows与Linux工具",
+    "summary": "Burrow是一款Mac应用，允许用户在Mac设备上免费启动Windows和Linux系统，解决了Mac用户需要跨平台兼容性的问题，为产品经理提供了多操作系统融合的解决方案参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/supercmo-ai": {
+    "title_clean": "SuperCMO AI：开源AI营销总监工具",
+    "summary": "SuperCMO AI是一个开源工具，可将Claude转化为AI营销总监，提供营销策略、内容生成和数据分析等能力，帮助产品经理了解AI在营销自动化领域的应用场景和功能实现方式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/rYfjPpjrTMHRPkcxHhWwIw": {
+    "title_clean": "物理AI机器人：一句话指挥团队协作与自主学习",
+    "summary": "物理AI技术实现通过简单指令控制多个机器人协同工作，并具备学习能力不断优化任务执行效率。这一进展对AI助手在物理世界的应用拓展、多智能体协作场景设计及自动化服务场景落地具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/searchtok": {
+    "title_clean": "Searchtok：TikTok和Instagram内容搜索工具",
+    "summary": "Searchtok开发了一款工具，使AI助手能够搜索TikTok和Instagram上的内容，扩展了AI获取社交媒体信息的能力。这对元宝产品经理有参考价值，因为它展示了如何将AI与主流社交平台内容整合，可能启发元宝在多模态搜索和社交媒体内容理解方面的功能拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/GY7HQBNm9Hj8y1ySBm1Egg": {
+    "title_clean": "小红书：从种草到世界杯的技术实力展示",
+    "summary": "小红书展示了从内容种草到大型体育赛事世界杯的技术能力，表明其技术实力已覆盖内容推荐、大型活动支持等多个领域，对元宝产品经理在内容平台技术架构和大型活动支持方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/V62Ks3n3iVeZfY-2LvPeqw": {
+    "title_clean": "微软与UCSB新研究：AI Agent实现自我进化",
+    "summary": "微软与加州大学圣塔芭芭拉分校合作研究，使AI Agent能够自主阅读学术论文并修改自身代码，实现自我进化能力。这一突破性进展为AI Agent的自主学习和持续优化提供了新思路，对元宝产品经理在提升AI助手自主性和学习能力方面具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/LFCFIPOTSunpEKYmgvFvlw": {
+    "title_clean": "陈广宇离开Kimi加入Jeff Dean新公司",
+    "summary": "17岁的AI天才陈广宇离开Kimi后加入Jeff Dean新成立的公司。这一人才流动反映了AI领域顶尖人才的竞争态势，对元宝产品经理了解AI人才动向和行业格局变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/U8MnegqsIf8b5Q8JN3RvjA": {
+    "title_clean": "北大团队提出DragMesh：一次拖拽实现可交互动画",
+    "summary": "北大团队在IJCV2026上提出DragMesh技术，通过一次拖拽操作即可实现可交互动画，可能为AI多模态交互提供新的技术支持，对产品经理了解AI图形交互前沿技术有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/frank-baker-on-new-firm-october-capital-video": {
+    "title_clean": "Frank Baker谈新公司October Capital：专注AI服务支持的私募股权基金",
+    "summary": "October Capital由科技私募股权公司Siris创立，CEO Frank Baker介绍了新公司的成立情况。该基金将专注于支持AI服务领域，为AI相关企业提供资金和战略支持，这对元宝产品经理了解AI投资趋势和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/9-big-tech-engineers-building-the-next-wave-of-fintech": {
+    "title_clean": "9名科技巨头工程师投身金融科技新浪潮",
+    "summary": "2026年，9名来自大型科技公司的工程师转向金融科技领域，专注于投资研究、交易、应收账款和金融数据等工作流程。这些技术人才转向金融科技，反映了AI在金融服务场景中的应用趋势，对元宝产品经理在金融AI服务方向上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-nominates-stripe-co-founder-board-lowers-nadella-pay-6": {
+    "title_clean": "微软提名Stripe联合创始人加入董事会，纳德拉薪酬下调6%",
+    "summary": "微软提议股东批准CEO萨提亚·纳德拉906万美元的薪酬方案，较去年964万美元略有下降。同时，微软提名Stripe联合创始人加入董事会，此举可能反映微软在支付和金融科技领域的战略布局调整。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/broad-access-through-consistent-standards": {
+    "title_clean": "OpenAI：通过统一标准扩大AI访问范围",
+    "summary": "OpenAI与分销合作伙伴合作，维护一致的安全保障，支持负责任的访问，并明确使用政策中的期望。这反映了AI行业在扩大服务范围的同时，如何平衡安全与可访问性的重要趋势，对元宝的产品策略和合作伙伴关系有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/spacex-and-tesla-will-combine-steve-westly-predicts-video": {
+    "title_clean": "SpaceX与特斯拉或将合并，前特斯拉董事预测",
+    "summary": "Westly集团创始人兼前特斯拉董事Steve Westly预测SpaceX与特斯拉将合并。这一预测对元宝产品经理有参考价值，可能影响AI助手在航天、汽车领域的应用场景和竞品布局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/ai-is-tailwind-ibm-ceo-says-as-sales-rise-video": {
+    "title_clean": "IBM CEO称AI是Tailwind，销售额增长5%",
+    "summary": "IBM第三季度销售额增长5%至171亿美元，超出预期，软件部门销售也有所扩张。CEO Arvind Krishna将AI描述为公司增长的顺风(Tailwind)，表明AI已成为IBM业务增长的关键驱动力，这对AI产品经理了解大型企业如何将AI整合到业务中具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/meta-creates-new-share-class-pave-way-ai-related-fundraising": {
+    "title_clean": "Meta创建新股份类别为AI融资铺路",
+    "summary": "Meta宣布推出无投票权新股份类别，旨在为激进的AI投资筹集资金，同时保持CEO马克·扎克伯格的投票控制权。此举反映了大型科技公司对AI领域持续投入的战略布局，对产品经理了解科技巨头AI资金投入方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/ibm-posts-5-sales-growth-says-infrastructure-deals-came-back": {
+    "title_clean": "IBM销售增长5%，称基础设施交易已恢复",
+    "summary": "IBM公布销售额超出分析师预期，称今年早些时候延迟的基础设施交易已基本恢复，实现了5%的销售增长。这对元宝产品经理了解企业级AI服务市场需求和大型科技公司的业务恢复情况有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/texas-instruments-forecast-tops-estimates-after-demand-picks-up": {
+    "title_clean": "德州仪器：芯片销售预测超预期",
+    "summary": "德州仪器作为模拟和嵌入式处理芯片最大制造商，因汽车和工业客户需求强劲，上调了当前季度营收预期，显示工业领域芯片需求持续增长。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai": {
+    "title_clean": "Recursive：AI自主构建的笔记本电脑编程模型Flint发布",
+    "summary": "Recursive公司发布了Flint，这是一款免费且专为笔记本电脑环境设计的编程模型，其构建过程主要由AI研究系统自主完成，标志着AI自我改进能力的重要测试案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/bose-ceo-lila-snyder-on-skullcandy-acquisition-video": {
+    "title_clean": "Bose CEO谈收购Skullcandy：音频品牌如何触达年轻一代",
+    "summary": "Bose CEO Lila Snyder与彭博社讨论收购Skullcandy的交易意义，以及音频品牌如何吸引年轻消费者。这对元宝产品经理有参考价值，特别是在品牌年轻化策略和用户群体拓展方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/meta-faces-25-billion-new-mexico-penalty": {
+    "title_clean": "Meta因剑桥分析数据丑闻被判赔250亿美元",
+    "summary": "Meta因剑桥分析数据隐私丑闻在新墨西哥州法院被判处罚款250亿美元，这一判决与数据泄露事件直接相关，对科技公司的数据合规和隐私保护策略具有重要警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/meta-plans-to-issue-new-non-voting-stock-semafor-reports": {
+    "title_clean": "Meta计划发行无投票权股票为AI融资",
+    "summary": "Meta Platforms公司已设立一类新的无投票权股票，可能用于资助其在人工智能领域的大规模支出。这反映了Meta对AI技术的高度重视和持续投入，对产品经理了解科技巨头在AI领域的资金战略和长期规划有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/early-spacex-investor-backs-tesla-tie-up-video": {
+    "title_clean": "SpaceX早期投资者支持与特斯拉合作",
+    "summary": "Space Capital CEO Chad Anderson作为SpaceX早期投资者，认为SpaceX正在构建智能化的生产方式，并称其为现代版特斯拉。这一观点对AI产品经理有参考价值，表明AI与实体生产结合可能成为未来发展方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat": {
+    "title_clean": "Walmart：允许AI代理代为购物服务",
+    "summary": "Walmart推出新技术允许AI代理代表客户进行购物，与Amazon禁止AI代理在其网站购物的政策形成鲜明对比。这一变化可能重塑电商与AI代理的合作模式，为元宝在服务场景拓展和商业化方面提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/spacex-tesla-boards-study-possible-3-5-trillion-merger-video-mvibr4ut": {
+    "title_clean": "SpaceX与特斯拉探讨3.5万亿美元合并可能性",
+    "summary": "马斯克公开支持SpaceX与特斯拉的合并计划，这将是史上最大规模的企业合并，整合电动汽车、AI数据中心、火箭和卫星等资产。这一动向对AI产品经理具有重要参考价值，可能影响AI基础设施布局和跨行业AI应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.microsoft.com/source/emea/features/before-the-ambulance-arrives-how-ai-is-helping-the-nhs-rethink-patient-care": {
+    "title_clean": "AI助力NHS重新规划救护车到达前的患者护理",
+    "summary": "该文章探讨了AI技术如何帮助英国国家医疗服务体系(NHS)重新思考救护车到达前的患者护理流程，可能涉及AI辅助诊断、资源分配优化或远程医疗等应用场景，对元宝产品经理在医疗AI服务场景设计方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/governments-take-websites-offline-after-php-security-warnings": {
+    "title_clean": "美国敦促修复广泛使用的PHP软件关键漏洞",
+    "summary": "美国政府正着手解决PHP开源软件的关键安全问题，该漏洞可能影响联邦机构和美国关键基础设施。这提醒产品经理关注AI系统依赖的基础软件安全风险，特别是当AI服务集成或部署在开源环境中时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-expands-chatgpt-ads-26-countries-says-100-000-advertisers": {
+    "title_clean": "OpenAI扩展ChatGPT广告至26个国家，广告商超10万",
+    "summary": "OpenAI将ChatGPT广告服务扩展至26个新国家，广告商数量已超过10万家。这一扩张表明OpenAI正积极通过广告业务增加收入来源，以覆盖其AI研发成本，对元宝产品经理了解AI聊天机器人商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/openai-models-google-cloud": {
+    "title_clean": "OpenAI模型接入Google云平台",
+    "summary": "OpenAI与Google Cloud合作，将前沿模型和Codex工作流引入Gemini的Model Garden，并通过Google Cloud Marketplace提供。这一合作改变了云AI服务格局，为元宝产品经理提供了跨平台AI服务整合的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/kallum-pickering-warns-of-ai-boom-bust-risks-video": {
+    "title_clean": "Kallum Pickering：警告AI投资过热与经济泡沫风险",
+    "summary": "Peel Hunt分析师Kallum Pickering指出，高利率环境下的巨额AI投资正在集中资本，加剧经济泡沫风险。他讨论了美联储政策、美国债务问题以及中美AI竞赛的影响，对元宝产品经理评估AI投资环境与商业风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/at-t-beats-on-profit-expectations-raises-annual-guidance": {
+    "title_clean": "AT&T上调利润预期，但SpaceX进入消费者蜂窝市场威胁股价",
+    "summary": "AT&T第三季度互联网和手机客户增长强劲，但SpaceX即将进入消费者蜂窝市场的消息引发市场担忧，影响了公司股价表现。这对元宝产品经理了解电信行业竞争格局和潜在市场威胁有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/live-blog/2026-10-21/nvda-nvidia-ceo-jensen-huang-at-gtc-berlin": {
+    "title_clean": "Nvidia CEO黄仁勋在GTC Berlin发表演讲",
+    "summary": "Nvidia CEO黄仁勋在GTC Berlin大会上发表演讲，可能涉及AI芯片、GPU技术或AI应用发展，对了解AI硬件基础设施和行业趋势有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/firmus-fiasco-was-investors-doing-their-job-says-pension-cio": {
+    "title_clean": "Firmus Fiasco Was Investors 'Doing Their Job,' Says Pension CIO",
+    "summary": "Firmus Grid Ltd.上市失败表明投资者对人工智能热潮中的机会变得更加谨慎，一位养老金首席投资官认为这是投资者履行尽职责任的表现。这反映了AI投资市场正在经历理性调整，对产品经理评估AI商业化路径和投资者预期有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
+    "title_clean": "分布式AI代理在生物数据中发现新研究线索",
+    "summary": "OpenAI、PerturbAI和Scripps Research合作使用分布式AI代理分析数百万个脑细胞数据，成功发现潜在的研究线索。这一方法展示了AI代理在处理大规模复杂数据方面的能力，对元宝在生物医疗领域的AI应用开发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/VlyoP5BwPNXgWpQJDxBrHQ": {
+    "title_clean": "匹兹堡大学研究：VLM脑中可能存在3D地图",
+    "summary": "匹兹堡大学研究提供新证据，表明视觉语言模型(VLM)可能在大脑中构建了类似3D地图的空间表示机制。这一发现对理解AI模型如何处理和表示空间信息具有重要参考价值，可能启发元宝在空间理解和多模态交互方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-20/australia-seeks-global-alliance-to-fight-big-tech-on-child-harms": {
+    "title_clean": "澳大利亚寻求全球联盟应对科技巨头对儿童的在线伤害",
+    "summary": "澳大利亚通信部长正推动组建全球联盟，向Meta等科技巨头施压，要求减少对儿童的在线伤害。这可能开启新的监管框架，影响全球科技公司的内容政策与产品设计，对元宝等AI助手的内容安全策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations": {
+    "title_clean": "SpaceX：AI业务超预期表现",
+    "summary": "SpaceX第三季度实现盈利，净利润达44亿美元，AI业务成为主要驱动力。这一表现表明AI技术在航天领域已产生显著商业价值，为元宝产品经理提供了AI技术跨行业商业化应用的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-buys-drug-development-company-orchestra-bio": {
+    "title_clean": "OpenAI收购药物研发公司Orchestra Bio",
+    "summary": "OpenAI宣布收购Orchestra Bio，这是一家构建AI代理帮助生物技术和制药公司进行药物开发的初创公司。此次收购表明OpenAI正在拓展AI在专业垂直领域的应用，探索医疗健康领域的商业化机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

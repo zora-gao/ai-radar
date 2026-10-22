@@ -140328,5 +140328,392 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/resend": {
+    "title_clean": "Resend Inboxes：AI共享邮箱与工作流工具",
+    "summary": "Resend Inboxes提供共享邮箱创建功能，可连接AI代理并构建工作流，帮助团队统一管理邮件沟通与自动化处理，对元宝产品经理在AI代理协作与工作流自动化方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/teclo": {
+    "title_clean": "Teclo：Mac键盘音效与键帽宠物工具",
+    "summary": "Teclo是一款为Mac用户提供的工具，可模拟机械键盘敲击音效并提供键帽宠物功能，增强用户的键盘使用体验。产品经理可关注此类个性化交互设计对用户粘性的影响，以及如何将趣味性元素融入AI助手界面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sponkly": {
+    "title_clean": "Sponkly：实时语音翻译工具",
+    "summary": "Sponkly提供聊天、通话、会议及YouTube内容的实时语音翻译功能，支持多语言交流场景。该产品解决了跨语言沟通障碍，对元宝产品经理在多语言AI助手功能开发上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/radaric": {
+    "title_clean": "Radaric：AI个性化资讯阅读器",
+    "summary": "Radaric是一款AI驱动的资讯阅读工具，能够学习用户的编辑品味，提供个性化的内容推荐。这款产品对元宝产品经理有参考价值，因为它展示了AI在个性化内容消费场景的应用，可能启发元宝在用户偏好学习和内容推荐方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/elevenlabs-realtime-translation": {
+    "title_clean": "ElevenLabs Realtime Translation：实时语音翻译工具",
+    "summary": "ElevenLabs推出实时语音翻译功能，可将对话中的语音即时转换为翻译后的音频输出。这项技术对AI助手产品经理具有重要参考价值，特别是在多语言实时沟通场景下的应用可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/archivist": {
+    "title_clean": "Archivist：文件整理与分享工具",
+    "summary": "Archivist是一款帮助用户将杂乱的文件整理成可分享集合的工具，解决了文件管理混乱的问题，为元宝产品经理在文件组织与分享功能设计上提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mercury-412": {
+    "title_clean": "Mercury 3：扩散模型40倍扩展不降速",
+    "summary": "Mercury 3是一款扩散语言模型，实现了40倍扩展而不降低性能，这可能对AI产品经理在模型扩展和性能优化方面提供技术参考，特别是在处理大规模AI服务时的架构设计。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/voxelo-ai": {
+    "title_clean": "Voxelo 3.0：手机视频转3D模型工具",
+    "summary": "Voxelo 3.0可将手机视频在一小时内转换为逼真的3D模型和JSON-LD数据，为AI多模态处理和3D内容生成提供了新工具，对元宝在视频处理和3D生成场景拓展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dadan": {
+    "title_clean": "Dadan：AI视频协作工作空间",
+    "summary": "Dadan是一个集成AI功能的视频协作工作空间，支持录制、会议和指南创建，为团队提供一站式视频内容管理解决方案，产品经理可关注其在AI辅助视频协作场景的应用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/whiteboard-5": {
+    "title_clean": "Whiteboard：开源软件设计思维IDE",
+    "summary": "Whiteboard是一款开源的集成开发环境(IDE)，专注于支持深思熟虑的软件设计过程。它为产品经理提供了新的软件开发工具选择，可能影响AI辅助编程工具的竞争格局。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/nvidia-s-huang-urged-nscale-to-move-faster-after-early-setbacks": {
+    "title_clean": "Nvidia CEO敦促Nscale加快数据中心建设进度",
+    "summary": "Nvidia CEO黄仁勋敦促英国云计算公司Nscale克服早期困难，加快数据中心上线进度，要求其'夜以继日'工作。这反映了AI基础设施建设的紧迫性和Nvidia对合作伙伴的高期望。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/causo": {
+    "title_clean": "Causo：AI销售线索发现工具",
+    "summary": "Causo是一款AI驱动的销售线索发现工具，通过AI研究和MCP技术帮助用户突破传统数据库过滤限制，发现更多潜在客户。产品经理可关注其AI如何辅助销售线索挖掘的技术实现与应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-rebel-tech-labs": {
+    "title_clean": "Rebel Tech Labs CEO访谈：市场定位与客户需求",
+    "summary": "Rebel Tech Labs CEO Christie Tufts接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身定位。这为元宝产品经理提供了AI创业公司市场策略和客户洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/elbilassy-tech-selloff-healthy-after-nasdaq-record-high-video": {
+    "title_clean": "Elbilassy: 科技股抛售健康，纳指创新高后AI交易反弹未达预期",
+    "summary": "特斯拉削减支出展望后股价下跌，Meta则加大AI投资力度。大型科技股财报未能让投资者对AI交易反弹感到安心，导致科技股抛售。对元宝产品经理的参考价值在于了解AI投资趋势与市场反应，评估AI商业化进程中的市场预期与实际表现差距。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-force": {
+    "title_clean": "Executive Interview: Force：企业安全市场定位与客户需求访谈",
+    "summary": "Force公司首席营收官Randy Shain接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身定位。访谈内容对企业了解企业安全市场趋势和客户痛点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/sap-cfo-says-cloud-growth-at-25-is-very-strong-video": {
+    "title_clean": "SAP CFO称云业务25%增长'非常强劲'",
+    "summary": "SAP首席财务官Dominik Asam表示，德国公司的云产品增长超出预期，达到25%的增速，显示出企业云服务市场的强劲需求。这一数据对元宝产品经理评估企业级AI服务市场增长趋势和商业化潜力具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/huawei-gets-2-3-billion-offshore-loan-as-chip-spending-soars": {
+    "title_clean": "华为获得23亿美元离岸贷款，芯片支出激增",
+    "summary": "华为从中国银行获得150亿元人民币(22.5亿美元)离岸贷款，用于支持人工智能芯片研发。这笔融资反映了华为在AI芯片领域的持续投入，以及中国科技企业在AI硬件方面的战略布局，对元宝产品经理了解AI硬件投资趋势和供应链动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/japan-scrambles-to-patch-php-flaws-as-banks-airlines-go-offline": {
+    "title_clean": "日本紧急修复PHP漏洞，银行与航空服务被迫离线",
+    "summary": "日本多家企业包括银行和航空公司因PHP软件漏洞被迫关闭数字服务，这是软件安全漏洞导致大规模服务中断的典型案例。对产品经理的参考价值在于提醒软件安全风险对业务连续性的重大影响，以及企业应对安全漏洞的紧急措施。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/meta-gains-on-results-new-stock-class-to-fund-ai-video": {
+    "title_clean": "Meta：AI投资获成效并新增股票类别以筹措资金",
+    "summary": "Meta CEO扎克伯格向投资者表示，公司在AI领域的巨额投资已取得成效。公司上调了年度资本支出计划，并宣布新增一种非投票权股票类别，旨在为AI发展提供更多资金支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-relevant-search-2": {
+    "title_clean": "Relevant Search CEO访谈：AI搜索市场洞察",
+    "summary": "Relevant Search CEO接受CB Insights采访，分享公司对AI搜索市场的定义、客户需求理解及公司战略。内容包含市场定位分析和客户需求洞察，对元宝产品经理了解AI搜索领域竞争格局和用户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/uk-taxman-to-tackle-rogue-advice-from-artificial-intelligence": {
+    "title_clean": "英国税务部门将应对人工智能提供的错误税务建议",
+    "summary": "英国税务部门担忧人工智能系统向公众提供错误的税务建议，计划采取措施应对这一问题。这反映了AI在专业服务领域可能带来的风险，对元宝产品经理在构建AI助手时如何确保专业建议的准确性和责任边界具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/meta-s-25-billion-penalty-is-massive-win-for-ag-in-small-state": {
+    "title_clean": "Meta被罚250亿美元：新墨西哥州总检察长取得重大胜利",
+    "summary": "新墨西哥州总检察长Raúl Torrez本周对Meta提起的诉讼取得里程碑式胜利，Meta被罚款250亿美元，几乎相当于该州年度收入的两倍。这一案例展示了监管机构对科技巨头的法律挑战力度，对产品经理了解合规风险和监管环境变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/india-s-eternal-unveils-ai-assistant-built-for-privacy": {
+    "title_clean": "Eternal：印度隐私优先AI助手",
+    "summary": "印度食品配送先驱Eternal公司推出首款AI助手，专注于隐私保护，允许用户安全讨论敏感话题。该产品标志着Eternal向AI领域的首次拓展，为注重隐私的用户提供了新的对话选择。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/zuckerbergs-wealth-tax-concerns-shaped-metas-stock-overhaul": {
+    "title_clean": "扎克伯格财富税担忧推动Meta股票结构改革",
+    "summary": "Meta Platforms改革股票结构，部分原因是预期未来可能需要筹集数千亿美元资金，以及对财富税的担忧。这一决策反映了大型科技公司为应对潜在政策变化所做的战略调整，对产品经理了解企业财务策略与政策风险应对有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/comcast-planning-significant-jobs-cuts-as-part-of-reorganization": {
+    "title_clean": "康卡斯特计划大规模裁员并重组业务",
+    "summary": "康卡斯特公司计划对其有线电视、宽带和无线业务进行大规模重组，包括显著裁员。这一动向反映了传统电信媒体公司在面对数字化转型压力下的战略调整，对元宝产品经理了解传统行业AI转型挑战和人力资源优化策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know": {
+    "title_clean": "TechCrunch Founder Summit 2026：创业者与投资人交流峰会",
+    "summary": "TechCrunch将于2026年11月4日在波士顿举办创始人峰会，汇集各阶段创业公司与顶级风投及经验丰富的企业家，分享创业实战洞见。对产品经理而言，这是了解行业趋势、获取用户需求变化和商业机会的重要渠道。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/bank-hackers-got-claude-dirty-work": {
+    "title_clean": "银行黑客利用Claude进行网络攻击",
+    "summary": "Anthropic宣布其Mythos模型在网络安全方面表现优异后，安全专家预测黑客将很快利用类似模型进行攻击。这反映了AI工具在网络安全领域的双刃剑效应，提示产品经理需关注AI安全防护与滥用风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/google-stops-using-nondisclosure-agreements-data-centers": {
+    "title_clean": "Google停止数据中心保密协议",
+    "summary": "Google将不再要求地方官员签署保密协议以建设数据中心，此举与亚马逊和微软保持一致，此前活动人士批评这种做法不透明。这反映了科技公司在数据中心建设透明度方面的政策转变，对元宝产品经理了解科技巨头数据治理政策变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/ai-finds-flaw-popular-web-hosting-software-sparking-global-race-patch": {
+    "title_clean": "AI发现流行Web托管软件漏洞，引发全球修复竞赛",
+    "summary": "研究人员利用AI技术发现了PHP编程语言中的安全漏洞，PHP creators已紧急呼吁全球网站管理员安装更新。这一事件展示了AI在软件安全领域的应用价值，对元宝产品经理了解AI在安全检测方面的应用场景有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/cyberattack-hits-india-s-largest-bank-exposes-customer-records": {
+    "title_clean": "印度最大银行遭网络攻击，客户数据泄露至暗网",
+    "summary": "印度资产规模最大的国家银行(State Bank of India)遭遇疑似网络攻击，导致数千条包含个人信息的客户记录被泄露至暗网。该银行已启动调查，此次事件对金融行业数据安全与AI客服系统防护具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/cloudflare-cyber": {
+    "title_clean": "Cloudflare：利用OpenAI进行漏洞发现与防御",
+    "summary": "Cloudflare使用OpenAI的Daybreak工具调查漏洞并提出修复方案供审核，同时利用Codex帮助开发者更快构建代码并提升质量。这展示了AI在安全防护和开发效率方面的实际应用，对元宝产品经理在AI辅助安全防护和代码生成功能上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

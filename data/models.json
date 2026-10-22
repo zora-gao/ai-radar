@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:56:38.166Z",
+  "generated_at": "2026-10-22T09:12:13.790Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -24,7 +24,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Flint is an open-weight mixture-of-experts model from Recursive, with about 2.5B active parameters out of 40B total, built by Recursive's autoresearch system Eureka Machine for coding agents. It is suited...",
-      "description_zh": null
+      "description_zh": "Flint 是 Recursive 的开放权重专家混合模型，总共 40B 个活跃参数，其中约有 2.5B 个，由 Recursive 的自动研究系统 Eureka Machine 为编码代理构建。它适合..."
     },
     {
       "id": "minimax/minimax-m3.1-flash:free",

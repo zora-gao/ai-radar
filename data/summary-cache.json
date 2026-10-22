@@ -140056,5 +140056,277 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/catl-backed-noetix-robotics-is-said-to-file-for-hong-kong-ipo": {
+    "title_clean": "Noetix Robotics：宁德时代支持的机器人公司申请香港IPO",
+    "summary": "Noetix Robotics已秘密提交香港上市申请，可能融资数亿美元。该公司由宁德时代支持，专注于机器人领域，此次IPO反映了机器人行业的发展趋势和资本市场对AI硬件的关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-warns-chinese-state-linked-cyberattacks-powered-ai-agent": {
+    "title_clean": "Microsoft警告中国AI代理驱动的网络攻击",
+    "summary": "微软报告称，与中国有关联的Storm-0940组织使用名为Artex的AI代理自动化网络攻击，针对数百个组织实施攻击。这表明AI技术已被用于国家级网络攻击，对AI安全防护和伦理监管提出了新挑战。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/the-brains": {
+    "title_clean": "The Brains：创始人与投资者作为MCP服务器",
+    "summary": "The Brains是一个将创始人和投资者作为MCP(模型上下文协议)服务器的平台，每个回答都会附带引用来源。这为AI助手提供了专业领域的高质量知识来源，可能成为AI Agent获取专业信息的新渠道，对元宝的产品经理在知识来源整合和专业领域服务方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/closing-defenders-window-nigh": {
+    "title_clean": "AI 驱动的网络安全事件：'防御者窗口'关闭在即",
+    "summary": "本文讨论了最新AI驱动的网络安全事件，尽管最初标题看似严重，但深入分析后表明情况可能并不如表面所示。这对产品经理了解AI在网络安全领域的应用及潜在风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-asks-gov-newsom-strengthen-ai-regulations": {
+    "title_clean": "OpenAI呼吁加州加强AI监管：要求模型关闭控制和年度独立审计",
+    "summary": "OpenAI高级官员致信加州州长纽森，支持对AI公司实施模型关闭控制、强制年度独立审计和加强网络安全实践。这反映了行业自律与监管平衡的探索，对元宝产品经理思考AI安全与合规框架有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/the-close-10-21-2026-video": {
+    "title_clean": "特斯拉、IBM和Meta公布财报，AI成为焦点",
+    "summary": "特斯拉、IBM和Meta等科技巨头公布最新季度财报，AI业务表现成为市场关注焦点。这些公司的AI战略和业绩表现对元宝产品经理了解科技巨头AI商业化路径和市场预期具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/meta-offers-zuckerberg-new-shares-to-shield-him-from-wealth-tax": {
+    "title_clean": "Meta授予扎克伯格新股份以应对财富税",
+    "summary": "Meta与扎克伯格达成协议，授予其新股份以应对潜在财富税。此举旨在确保扎克伯格继续留在公司总部所在的司法管辖区，此前扎克伯格曾表示若加州通过财富税法案，他可能考虑离开该州。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/encouraged-by-meta-s-partnerships-says-first-founder-video": {
+    "title_clean": "Meta合作伙伴：扎克伯格扩张新业务的能力存疑",
+    "summary": "Meta合作伙伴Libby Leffler讨论Meta扩张新举措的历史表现，质疑扎克伯格成功推进新业务的能力，并提及Meta第四季度730亿美元的收入预期。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/meta-boosts-ai-bet-with-capex-outlook-new-stock-class-video": {
+    "title_clean": "Meta增加AI投资并推出新股票类别",
+    "summary": "Meta Platforms上调资本支出预期并计划推出无投票权新股票类别，进一步加大对人工智能领域的投入。此举表明Meta正加速推进AI战略，可能影响其产品开发方向和市场竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/new-4-2-billion-texas-gas-pipe-to-supply-fuel-for-data-center": {
+    "title_clean": "新建42亿美元德克萨斯天然气管道为数据中心供能",
+    "summary": "Kinder Morgan公司正式投资42亿美元建设一条横跨德克萨斯州西部和潘汉德尔的天然气管道，专门为数据中心园区提供燃料供应，反映数据中心能源基础设施建设的重大投资。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/tesla-s-future-is-robotaxis-says-ark-s-keeney-video": {
+    "title_clean": "Tesla的Robotaxi战略：自动驾驶出租车是未来方向",
+    "summary": "Ark投资公司分析总监Tasha Keeney表示，Robotaxi将是特斯拉的未来发展方向，认为特斯拉相比同行具有明显优势，且Cybercab自动驾驶出租车运营成本更低。这对AI助手产品经理了解自动驾驶技术在出行服务场景的应用价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/the-takeaways-from-meta-s-earnings-and-ai-spending-plans-video": {
+    "title_clean": "Meta财报与AI支出计划解读",
+    "summary": "Wedbush互联网股票研究董事Ygal Arounian解读Meta第三季度财报及上调的资本支出计划，分析Meta在AI领域的投入策略，对元宝产品经理了解科技巨头AI投资方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-21/sap-cloud-growth-beats-forecast-in-sign-of-software-s-resilience": {
+    "title_clean": "SAP云业务增长超预期，显示软件行业韧性",
+    "summary": "SAP报告其云产品增长超出预期，表明人工智能热潮并未削弱这家德国软件制造商的产品需求。这一数据反映了企业软件市场的稳定性和SAP在云服务领域的竞争力，对AI助手产品经理了解企业级AI服务市场趋势和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c": {
+    "title_clean": "Blacksmith：AI代码构建测试平台获10亿美元估值",
+    "summary": "Blacksmith是一家帮助企业更有效地构建和测试AI代码的平台，近日宣布完成6600万美元C轮融资，由红杉资本领投，公司估值达到10亿美元。这表明AI开发工具领域正获得资本市场高度认可，对元宝在AI代码辅助功能方向的产品规划具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/nasdaq-100-climbs-as-spacex-results-fuel-ai-trade-video": {
+    "title_clean": "SpaceX财报推动AI投资热潮，纳斯达克100指数上涨",
+    "summary": "SpaceX强劲财报提振科技股表现，缓解市场对AI投资可持续性的担忧，显示AI领域仍受资本青睐，对元宝产品经理判断AI投资趋势和市场信心有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/att-legal": {
+    "title_clean": "AT&T与OpenAI合作：重新思考内部法律工作流程",
+    "summary": "AT&T与OpenAI合作，通过LegalEdge团队重新设计法律知识获取方式，优化法律案件受理流程并提升法律判断的规模化能力，为AI在企业法律服务场景的应用提供实践案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig": {
+    "title_clean": "初创公司收购对员工股权计划的影响",
+    "summary": "本文探讨了初创公司被收购时，员工股权计划可能发生的变化及其对员工财务和职业的影响。文章分析了不同条件下员工可能面临的不同结果，为产品经理理解创业公司生态和人才激励机制提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-21/bernard-mensah-on-ai-bond-yields-and-global-markets-video": {
+    "title_clean": "Bernard Mensah：AI泡沫与全球市场投资趋势分析",
+    "summary": "美国银行高管Bernard Mensah讨论AI泡沫争议、主权债券收益率上升及全球投资机会变化，同时分析供应链和欧洲增长挑战，为AI市场趋势和投资策略提供宏观视角。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/empowering-cyber-defenders": {
+    "title_clean": "OpenAI：前沿AI赋能网络安全防御蓝图",
+    "summary": "OpenAI发布前沿AI赋能网络安全防御的蓝图，提出加强安全防护、现代化网络安全建设及增强公共机构韧性的措施，为AI安全治理提供新思路，对元宝产品经理在AI安全应用与防护方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo": {
+    "title_clean": "Nvidia投资GPU云服务商Firmus",
+    "summary": "Nvidia正洽谈向澳大利亚AI云服务提供商Firmus投资数亿美元，此前该公司突然撤回了本月初的IPO计划。这反映了Nvidia在AI基础设施领域的战略布局，对元宝产品经理了解AI云服务生态和巨头投资动向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-now-video": {
+    "title_clean": "Ken Griffin：AI投资正处于泡沫期",
+    "summary": "Citadel创始人兼CEO Ken Griffin在接受彭博社采访时表示，投资者几乎肯定正处于人工智能泡沫之中。这一观点来自Citadel年度Future活动上的访谈，对AI行业投资热潮提出警示，对产品经理评估AI商业化前景和投资风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate": {
+    "title_clean": "Hugging Face CEO：Netflix《AI Gone Rogue》纪录片不准确",
+    "summary": "Hugging Face联合创始人Clem Delangue表示，Netflix纪录片《AI Gone Rogue》呈现了'末日模式'，内容不准确。作为纪录片中的受访者，他警告观众在分享前应谨慎对待这部作品，反映了AI领域对媒体呈现的担忧。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
   }
 }

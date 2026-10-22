@@ -141688,5 +141688,347 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/deepcell": {
+    "title_clean": "DeepCell：办公工作紧急任务处理工具",
+    "summary": "DeepCell是一款面向办公场景的AI工具，专注于帮助用户处理紧急工作任务和截止日期压力。该工具可能提供任务管理、时间规划或自动化办公功能，旨在提高工作效率和减轻工作压力，对元宝产品经理在办公场景AI应用开发方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/uqxPd5XtNE9AORR5kc2-pw": {
+    "title_clean": "NeurIPS 2026：从Token到Span：重新思考大语言模型的不确定性估计",
+    "summary": "这篇论文探讨了在NeurIPS 2026会议上提出的关于大语言模型不确定性估计的新方法，从传统的Token级别扩展到Span级别，为提高AI模型输出可靠性提供了新思路，对元宝产品经理在模型评估和风险控制方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/sOi-8uNbHUDzlhNSOBWg2g": {
+    "title_clean": "田渊栋新公司首个模型亮相：AI全程参与、不到4个月从零造",
+    "summary": "田渊栋新公司发布了首个AI模型，该模型从零开始构建，全程由AI参与，仅用不到4个月时间完成。这一成果展示了AI在加速模型开发方面的潜力，对AI产品经理评估研发效率与AI辅助开发工具具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/7yWLwFnBUxiLrKH_TehcMg": {
+    "title_clean": "GPT、Claude、Gemini机器人能力对决：RoboColiseum平台评测",
+    "summary": "RoboColiseum平台组织了GPT、Claude、Gemini三大AI模型的机器人能力对决，展示了各模型在任务执行、问题解决等方面的表现差异。这一评测为产品经理提供了重要参考，有助于了解当前主流AI助手在自动化任务处理能力上的优劣势，为产品优化和竞争策略提供依据。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/sk-hynix-scraps-solidigm-us-ipo-after-shareholder-concerns": {
+    "title_clean": "SK海力士取消Solidigm美国IPO计划",
+    "summary": "SK海力士因面临股东强烈反对和监管审查，担心此举可能损害少数投资者利益，已取消其Solidigm部门的美国上市计划。这对AI存储领域的企业战略和资本运作有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/IREBxIiJmch_QiU4UKhYPw": {
+    "title_clean": "EinsiaAI发布Quant Arena：大模型投资亏损分析报告",
+    "summary": "EinsiaAI发布Quant Arena研究报告，显示半数大模型在投资中处于亏损状态，揭示了AI大模型商业化的财务挑战，为产品经理评估AI产品盈利能力和投资风险提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
+    "title_clean": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox：数据库评分强化学习训练代理工具",
+    "summary": "ThinkingBox将数据库评分转化为强化学习奖励，用于训练后训练AI代理。这项技术可能提升AI代理在数据处理和决策任务中的表现，为元宝产品经理提供了优化AI代理训练方法的参考价值，特别是在需要精确评估和反馈的场景中。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo": {
+    "title_clean": "OpenAI寻求300亿美元融资，估值达1250亿美元",
+    "summary": "OpenAI正寻求新一轮30亿美元融资，估值将达1250亿美元，若成功将成为史上估值最高的私营公司。这一融资动态反映了AI领域的资本热度，对元宝产品经理评估AI行业估值趋势和商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-fundraising-round-set-close-soon-uae-investors-coatue-leading-investment": {
+    "title_clean": "OpenAI完成新一轮融资，估值达1.25万亿美元",
+    "summary": "OpenAI即将完成300亿美元融资，由Coatue领投，阿联酋投资者参与。此次融资后公司估值将达1.25万亿美元。这反映了AI头部企业资本市场的强劲需求，对元宝产品经理了解AI行业资本动向和估值趋势有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/tiffany-mcghee-says-ai-trade-needs-revenue-results-video": {
+    "title_clean": "Tiffany McGhee：AI行业需要实际业绩支撑",
+    "summary": "Pivotal Advisors CEO兼CIO Tiffany McGhee表示，近期AI板块的下跌并不影响她对AI技术的信心，她强调科技公司业绩和财报表现强劲，AI行业需要用实际业绩来支撑日益增长的期望。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-access-80-000-cell-sites-for-wireless-network": {
+    "title_clean": "SpaceX：计划接入美国8万个通信基站建设新网络",
+    "summary": "SpaceX正与美国至少一家主要蜂窝基础设施公司洽谈，计划在美国获取至少8万个通信基站，以建设新的通信网络。这一举措将帮助SpaceX扩展其卫星通信服务覆盖范围，与地面网络形成互补，对产品经理评估卫星通信与地面网络融合的商业模式具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/western-digital-gives-solid-outlook-hikes-dividend-on-ai-demand": {
+    "title_clean": "Western Digital：AI存储需求担忧影响业绩预期",
+    "summary": "Western Digital发布超预期的财报和展望，但投资者担忧AI支出的持续性，导致股价下跌。这反映了AI硬件需求可能存在波动，对元宝产品经理评估AI服务基础设施合作和用户需求稳定性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/power-on-iphone-duo-review-with-andru-edwards-video": {
+    "title_clean": "Power On：iPhone Duo评测播客",
+    "summary": "这是一期名为Power On的播客节目，Gear Live的Andru Edwards与Bloomberg的Mark Gurman共同评测了iPhone Duo，详细分析了其设计、软件、相机、电池寿命及主要缺陷，为产品经理了解iPhone产品线最新动态和用户反馈提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/meta-slides-on-ai-spending-fears-closing-bell-video": {
+    "title_clean": "Meta股价下跌7%，AI支出引发信贷担忧",
+    "summary": "Meta股价下跌7%，市场担忧其AI支出可能导致信贷风险增加。这一动态反映了大型科技公司在AI投资方面面临的财务压力，对元宝产品经理评估AI商业化路径和成本控制具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-22/anthropic-openai-musk-pledge-donations-amid-ai-backlash": {
+    "title_clean": "Anthropic、OpenAI和马斯克承诺捐款应对AI反弹",
+    "summary": "顶级AI公司正提出不同方案向公共事业捐款，以应对公众对AI的负面反应。这反映了行业对社会责任的重视，以及通过慈善行动缓解公众担忧的策略，对元宝产品经理了解行业应对舆论压力的方式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/retail-traders-loaded-up-on-ai-spending-winners-before-selloff": {
+    "title_clean": "零售投资者追捧AI半导体股后遭遇抛售",
+    "summary": "零售投资者在过去一周大举买入人工智能相关的半导体股票，但在周四的市场暴跌中遭受重创。这反映了市场对AI投资热潮的波动性，对产品经理了解AI商业化进程中的市场情绪和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/ai-doubts-may-ease-as-usage-grows-gene-munster-says-video": {
+    "title_clean": "AI Trade Doubles May Ease With Usage Growth, Gene Munster Says",
+    "summary": "Deepwater Asset Management合伙人Gene Munster表示，随着AI使用量的增长，市场对AI投资的疑虑可能缓解。他指出当前存在AI支出审查与实际使用增长之间的分歧，这对AI产品经理了解市场信心变化和用户采用趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/datadog-offered-buy-security-startup-upwind-nearly-4-billion": {
+    "title_clean": "Datadog拟40亿美元收购云安全初创公司Upwind",
+    "summary": "企业软件公司Datadog拟以近40亿美元收购以色列云网络安全初创公司Upwind Security，这是近期企业软件领域的重要并购事件，反映了云安全市场的快速增长和大型企业对安全解决方案的重视。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo": {
+    "title_clean": "SB Energy考虑推迟OpenAI数据中心项目IPO至12月或更晚",
+    "summary": "SB Energy作为软银集团旗下公司，正在考虑将OpenAI在俄亥俄州的大型数据中心项目的IPO推迟至12月或更晚。这一决策可能影响OpenAI的基础设施建设进度和AI服务扩展计划，对元宝产品经理评估AI基础设施投资时机和合作伙伴选择有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/spacex-most-egregiously-overpriced-company-says-noble-video": {
+    "title_clean": "SpaceX被指为'规模最大定价过高公司'",
+    "summary": "George Noble称SpaceX是'规模最大定价过高公司'，同时油价上涨和AI市场前景担忧导致股市下跌，投资者转向债券寻求安全。此资讯反映了市场对高估值科技企业的质疑，对元宝产品经理评估AI商业化风险和定价策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/google-pay-homes-businesses-curb-energy-usage": {
+    "title_clean": "Google与Voltus合作：付费鼓励家庭和企业减少高峰时段用电",
+    "summary": "Google与能源公司Voltus合作，计划向家庭和企业支付费用，鼓励其在用电高峰期减少电力消耗，这是应对数据中心扩张对电力需求影响的新举措。该合作展示了科技巨头在能源管理领域的创新尝试，为AI服务提供商的可持续运营提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman": {
+    "title_clean": "Slingshot：嵌入式AI保险初创公司获2700万美元种子轮融资",
+    "summary": "Slingshot Insurance是一家明尼苏达州的AI原生嵌入式保险初创公司，刚刚完成2700万美元种子轮融资，由Rally Ventures和Skyward Group共同领投。该公司专注于为结账时销售的小额保单提供保险服务，采用AI技术构建嵌入式保险解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/spacex-works-with-apollo-nvidia-on-new-grok-partnership-program": {
+    "title_clean": "SpaceX与Apollo、Nvidia合作推出Grok AI伙伴计划",
+    "summary": "SpaceX与Apollo Global Management、Nvidia等公司合作推出新的伙伴计划，旨在部署和改进其Grok AI系统，以增强商业应用。这一合作表明AI技术正在向航天和商业领域深度融合，为元宝产品经理提供了AI跨行业应用和商业化的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-polittan": {
+    "title_clean": "POLITTAN CEO访谈：市场定位与客户需求分析",
+    "summary": "POLITTAN CEO接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。该访谈提供了企业对市场理解的第一手信息，对元宝产品经理了解企业级AI服务市场定位与客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidias-powerful-b300-chips-spotted-chinese-state-owned-network": {
+    "title_clean": "Nvidia B300芯片现身中国国有电信网络",
+    "summary": "以色列安全公司Lava在中国电信国有网络中发现32块Nvidia Blackwell Ultra B300芯片。这表明Nvidia最新AI芯片已进入中国市场，可能影响AI硬件供应链格局，对元宝产品经理了解AI芯片供应动态和潜在合作机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-accessux": {
+    "title_clean": "CEO访谈：AccessUX公司市场定位与客户需求",
+    "summary": "AccessUX公司CEO Gerry Neustatl接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在行业中的定位。这对元宝产品经理了解AI服务领域市场格局和客户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/forward-deployed-engineering-means": {
+    "title_clean": "What FDE means at OpenAI：OpenAI的前置部署工程解析",
+    "summary": "OpenAI的前置部署工程(FDE)团队负责将AI模型快速部署到生产环境，确保产品稳定性和性能。这一工程实践对元宝产品经理有参考价值，特别是在AI模型部署、工程优化和产品迭代方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock": {
+    "title_clean": "Meta推出新股票类别为AI扩张融资",
+    "summary": "Meta计划通过创建新类别股票为其AI模型和服务的大规模投资提供资金支持，这反映了科技巨头在AI领域的持续投入和融资策略创新，对产品经理了解大型科技公司AI商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

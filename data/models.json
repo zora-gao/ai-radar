@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:12:13.790Z",
+  "generated_at": "2026-10-22T14:54:58.341Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -27,8 +27,8 @@
       "description_zh": "Flint 是 Recursive 的开放权重专家混合模型，总共 40B 个活跃参数，其中约有 2.5B 个，由 Recursive 的自动研究系统 Eureka Machine 为编码代理构建。它适合..."
     },
     {
-      "id": "minimax/minimax-m3.1-flash:free",
-      "name": "MiniMax M3.1 Flash (free)",
+      "id": "minimax/minimax-m3.1-flash",
+      "name": "MiniMax M3.1 Flash",
       "vendor": "MiniMax",
       "vendor_slug": "minimax",
       "url": "https://openrouter.ai/minimax/minimax-m3.1-flash-20261019",
@@ -43,9 +43,9 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
+      "price_in": 0.15,
+      "price_out": 0.6,
+      "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "MiniMax-M3.1-Flash is a multimodal model from MiniMax. Compared with M3, it delivers significant improvements across multiple benchmarks, particularly in complex agentic tasks, coding, and cybersecurity. It is built for complex,...",
@@ -67,8 +67,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
-      "price_out": 1.2,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -138,7 +138,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
+      "price_in": 0.25,
       "price_out": 1,
       "is_free": false,
       "supports_tools": true,

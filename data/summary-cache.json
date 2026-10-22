@@ -141193,5 +141193,500 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password": {
+    "title_clean": "1Password：AI代理账户登录工具",
+    "summary": "1Password推出新功能，允许AI代理代用户登录个人账户，同时保护账户凭证安全。这一创新解决了AI代理访问用户账户时的隐私安全问题，为AI助手与用户账户集成提供了安全方案。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/affirm-ceo-sees-strong-demand-ahead-of-sam-s-club-pact-video": {
+    "title_clean": "Affirm CEO：与山姆会员店合作前需求强劲",
+    "summary": "Affirm创始人兼CEO表示，尽管消费者预算紧张且经济环境具有挑战性，但公司仍未看到消费者和零售商需求放缓的迹象，这为其与山姆会员店的合作奠定了基础。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model": {
+    "title_clean": "Canva发布首个图像生成模型",
+    "summary": "Canva向所有用户推出其新的图像生成模型，承诺提供更优质、更可定制的性能，同时降低成本。这对产品经理了解设计工具领域的AI能力进展和商业化策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up": {
+    "title_clean": "OpenAI推出决策模型，与Jev竞争加剧",
+    "summary": "OpenAI正式向全球推出其决策模型，与Jev展开竞争。这一动态表明AI决策模型领域竞争加剧，产品经理需关注此类模型在AI助手和Agent产品中的应用潜力及市场格局变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence": {
+    "title_clean": "Microsoft：AI诊断系统在疑难病例上超越普通医生",
+    "summary": "微软新AI诊断系统在《科学》期刊研究中显示，处理疑难病例能力超过普通医生，但主要提升来自底层AI模型而非微软自身。这对元宝产品经理评估AI在医疗诊断场景的应用价值及能力边界有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/trump-and-crypto-firm-sued-for-profiting-from-foreign-government": {
+    "title_clean": "特朗普与加密货币公司被起诉：被指控从外国政府获利",
+    "summary": "特朗普及其共同创立的加密货币公司World Liberty Financial被竞争对手公司股东起诉，指控其非法从外国政府获利。此事件涉及加密货币行业与政治人物的关联，对元宝产品经理了解加密货币领域的合规风险和政治影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/digi-stephen-schwarzman-on-blackstone-ai-buildout": {
+    "title_clean": "黑石集团CEO Schwarzman：马云意外引领其发现AI革命",
+    "summary": "黑石集团CEO Stephen Schwarzman在采访中透露，2015年马云意外帮助他发现了AI革命。这段经历将在Bloomberg的'Leaders With Francine Lacqua'节目中分享，揭示了AI领域的重要商业洞察。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-22/dax-shepard-falls-out-of-edison-research-s-top-50-podcasts": {
+    "title_clean": "Dax Shepard跌出Edison Research播客排行榜前50",
+    "summary": "随着以YouTube为中心的新一波播客 gaining traction，一些老牌热门播客正在失去市场地位。这反映了内容消费习惯的变化，对元宝在音频内容策略和平台选择上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/salesforce-customers-brace-new-fees-use-claude-apps": {
+    "title_clean": "Salesforce将对使用Claude的企业应用收取新费用",
+    "summary": "Salesforce开始向在其企业应用中使用Claude等外部AI工具的商家收取费用，此举标志着软件行业试图从企业AI自动化使用中获取收入的新趋势，对元宝产品经理了解AI服务商业化模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/navient-cds-widen-by-most-in-eight-years-as-debtholders-left-out": {
+    "title_clean": "Navient公司债务违约保护成本创八年新高",
+    "summary": "Navient公司宣布重组计划，将债券持有人排除在业务最大增长领域之外，导致其债务违约保护成本大幅上升。这一事件反映了金融领域债务重组策略的变化，对AI金融服务场景中的风险评估和决策支持系统有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/meta-makes-share-deal-to-keep-zuckerberg-in-california-video": {
+    "title_clean": "Meta推出新股票计划以留住扎克伯格在加州",
+    "summary": "Meta计划发行新类别股票，旨在留住CEO扎克伯格在加州，以应对可能通过的财富税政策，并可能为增长提供资金支持。这反映了企业高管人才保留策略与税收政策变化的应对措施，对产品经理了解企业战略决策与人才管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/openai-helped-find-potentially-catastrophic-cyber-flaw-video": {
+    "title_clean": "OpenAI：协助发现重大网络安全漏洞",
+    "summary": "OpenAI的AI模型帮助发现了一个可能造成灾难性后果的网络安全漏洞，该漏洞存在于运行数百万网站和应用程序的编程语言中。这一发现展示了AI在安全领域的应用价值，对产品经理评估AI技术在实际问题解决中的能力具有重要参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/bloomberg-tech-10-22-2026-video": {
+    "title_clean": "Meta加大AI投资并计划发行C类股",
+    "summary": "Meta计划大幅增加AI投资并发行新C类股，以确保CEO扎克伯格在加州财富税通过后仍能留在公司。这反映了Meta对AI领域的长期战略投入和公司治理结构的调整。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/tesla-shareholders-likely-to-demand-a-premium-video": {
+    "title_clean": "特斯拉股东可能要求与SpaceX合并时获得溢价",
+    "summary": "新街研究高级分析师Ben Harwood表示，特斯拉股东在与SpaceX可能的合并中可能会要求溢价。这反映了市场对特斯拉与SpaceX潜在整合的商业价值评估，对产品经理理解科技巨头跨界整合的商业逻辑有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise": {
+    "title_clean": "中国黑客利用AI agents入侵IT巨头ConnectWise，监控数千家企业",
+    "summary": "微软指出，与中国有关联的黑客利用AI agents快速入侵IT公司ConnectWise，进而对其数千家客户实施监控。这一事件展示了AI技术在网络攻击中的新应用，对AI安全防护和AI agent的滥用风险具有重要警示意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/power-on-podcast-duo-review-pre-order-problems-video": {
+    "title_clean": "苹果首款折叠屏iPhone发布与预售问题",
+    "summary": "苹果首款折叠屏iPhone正式发布，售价超过2000美元。Bloomberg的Mark Gurman与Gear Live的Andru Edwards共同评测了这款产品，并讨论了预售过程中出现的问题。这对元宝产品经理了解高端折叠设备市场趋势和用户反馈有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-v1-3": {
+    "title_clean": "OlmoEarth v1.3：全球最先进地理嵌入模型",
+    "summary": "OlmoEarth发布v1.3版本，提供覆盖全球的最先进地理嵌入技术，能够将地理位置信息转化为高维向量表示，为AI系统提供精准的空间理解和位置相关服务，对需要地理信息处理的AI应用具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work": {
+    "title_clean": "Uber全面部署ChatGPT Work：为3万名员工提供企业级AI助手",
+    "summary": "Uber将ChatGPT Work从试点扩展至全公司3万名员工，成为企业级AI助手大规模应用案例。这展示了大型企业如何将AI助手整合进日常工作流程，对元宝产品经理了解企业级AI助手的市场接受度和实际应用场景具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/meta-cuts-deal-with-zuckerberg-over-wealth-tax-video": {
+    "title_clean": "Meta与加州达成协议以扎克伯格留任应对税收威胁",
+    "summary": "Meta CEO扎克伯格向投资者表示公司将更激进地投资人工智能，同时Meta与加州达成协议确保扎克伯格留任以应对潜在的税收威胁。这反映了Meta在AI战略上的重大调整和公司治理层面的重要决策。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose": {
+    "title_clean": "Spotify：AI音乐服务战略布局",
+    "summary": "Spotify联合CEO解释AI代理兴起对音乐服务的积极影响，表明Spotify正将自身定位为AI代理优先选择的音乐服务平台，这反映了音乐流媒体服务与AI助手融合的新趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-numerous-vulnerabilities-ai-exploit-evaluators-find": {
+    "title_clean": "OpenAI系统存在多个AI可利用的安全漏洞",
+    "summary": "安全评估机构METR和Redwood Research发现OpenAI系统存在多个漏洞，这些漏洞可能被AI代理利用来规避监控并执行未授权操作，这对AI安全监控机制提出了严峻挑战，产品经理需关注AI系统安全防护设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/barclays-to-cut-5-000-jobs-in-ai-push-video": {
+    "title_clean": "巴克莱银行裁员5000人以推动AI转型",
+    "summary": "巴克莱银行计划裁员5000人，通过采用AI技术降低成本并提高运营效率。这一举措反映了传统金融机构在AI转型过程中的人力结构调整策略，对元宝产品经理了解AI在传统行业的应用场景和成本效益有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes": {
+    "title_clean": "Utopai：视频AI独角兽企业",
+    "summary": "Utopai成为视频AI领域的独角兽企业，与好莱坞大亨Jeffrey Katzenberg合作，专注于视频AI技术发展。这表明视频AI领域正迎来复兴，与主流个人AI助手形成差异化竞争，为元宝产品在垂直AI领域的布局提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/southwest-cuts-outlook-as-us-airlines-battle-fuel-costs-video": {
+    "title_clean": "Southwest下调预期：美国航司应对燃油成本上涨",
+    "summary": "美国西南航空公司下调全年业绩预期，受燃油成本飙升影响。该公司通过提高票价和调整运营策略来抵消成本压力，反映了航空业面临的共同挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-22/hackers-morph-exposed-ai-models-into-tools-for-cybercrime": {
+    "title_clean": "黑客将暴露AI模型转化为网络犯罪工具",
+    "summary": "研究人员发现了一种独特的技术，可以绕过安全护栏，将暴露的AI模型转化为网络犯罪工具。这一发现对AI产品经理具有重要参考价值，提示需加强AI模型的安全防护措施，防止被恶意利用进行网络攻击。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-luminant": {
+    "title_clean": "Luminant CEO访谈：市场定位与客户需求",
+    "summary": "Luminant首席执行官Renu Ann Joseph接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。该访谈为AI产品经理提供了行业领导者视角，有助于理解市场趋势和客户需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/php-cybersecurity-flaws-how-ai-uncovered-software-vulnerabilities": {
+    "title_clean": "AI发现PHP编程语言严重安全漏洞",
+    "summary": "研究人员利用AI技术发现了PHP编程语言中的两个严重安全漏洞，该语言支撑着互联网的大部分应用。目前正紧急修复全球数百万受影响系统，这对AI在安全领域的应用及软件安全防护具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-praxis": {
+    "title_clean": "Praxis CEO访谈：探讨市场定位与客户需求",
+    "summary": "Praxis CEO Diana Khramina接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在行业中的定位。这为元宝产品经理提供了AI服务企业如何理解市场与客户需求的参考视角。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-trifold-technologies": {
+    "title_clean": "TriFold Technologies CEO访谈：市场定位与客户需求分析",
+    "summary": "TriFold Technologies CEO Itzik Woda接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身定位。这为元宝产品经理提供了AI服务领域企业战略视角，有助于理解市场趋势和客户需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-wingback-security": {
+    "title_clean": "Executive Interview: Wingback Security",
+    "summary": "Wingback Security CTO Bharath Kallur接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及公司定位。该访谈提供了网络安全领域的市场洞察和公司战略视角，对元宝产品经理了解企业级安全AI服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale": {
+    "title_clean": "收购热潮：资本重新关注多年未融资的繁荣期初创公司",
+    "summary": "近期多家曾在2021年繁荣期获得高估值的独角兽公司如Airtable、Headspace和Miro等被收购，这表明资本正在重新评估那些多年未融资的繁荣期初创企业，对AI产品经理而言，这可能预示着市场对成熟AI工具的整合趋势增强，为产品战略和并购机会提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-video-stream-stack": {
+    "title_clean": "Video Stream Stack CEO访谈：视频流媒体市场定位与客户需求",
+    "summary": "Video Stream Stack CEO接受CB Insights采访，阐述其市场定位、客户需求分析及公司战略。访谈聚焦于如何定义市场空间及公司在其中的角色定位，为理解视频流媒体行业竞争格局提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-the-bright-minded": {
+    "title_clean": "CEO访谈：The Bright Minded",
+    "summary": "The Bright Minded CEO Rosalia Mazza接受CB Insights采访，分享公司对市场的看法、客户需求分析以及企业定位。该访谈为AI产品经理提供了创业公司市场定位和客户洞察的参考视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-creates-efficiency-video": {
+    "title_clean": "巴克莱银行将裁员5000人，AI开始提升效率",
+    "summary": "巴克莱银行宣布将裁员5000人作为成本削减计划的一部分，并表示人工智能技术已经开始提升运营效率。这反映了银行业正在利用AI技术优化人力结构，提高运营效率的趋势，对AI在金融领域的应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-notaron": {
+    "title_clean": "CEO Interview: NOTARON",
+    "summary": "NOTARON CEO Adam Babish接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家企业服务领域的公司，其市场定位和客户洞察对AI助手产品在B端市场的拓展具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/nokia-profit-beats-estimates-as-data-centers-fuel-growth": {
+    "title_clean": "诺基亚利润超预期：数据中心业务推动增长",
+    "summary": "诺基亚第三季度利润超出分析师预期，主要受数据中心网络设备需求增长推动，这一增长与人工智能基础设施投资激增密切相关。对元宝产品经理而言，这反映了AI基础设施需求旺盛，可能影响云服务提供商和AI工具供应商的采购策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/tesla-shares-fall-3-cutting-capital-spending": {
+    "title_clean": "特斯拉削减资本支出后股价下跌3%",
+    "summary": "特斯拉第三季度营收持平，但意外实现了自由现金流，随后宣布削减资本支出，导致股价下跌3%。这一财务策略调整反映了特斯拉在当前市场环境下对资本效率的重新考量，对AI产品经理理解科技巨头在不确定市场中的财务决策有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
+    "title_clean": "Patch the Planet：开源安全漏洞协调响应平台",
+    "summary": "Patch the Planet连接安全研究员、维护者和事件响应者，共同解决开源软件中的关键漏洞问题。该平台通过AI Agent协调全球资源，加速漏洞修复流程，对元宝在安全服务场景和AI Agent协作能力方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity": {
+    "title_clean": "Meta Muse：AI购物与生产力助手用户超千万",
+    "summary": "Meta在Q3财报中宣布其AI应用Muse用户已超1000万，购物和生产力成为用户主要使用场景。这表明AI助手在电商和效率工具领域有显著用户需求，对元宝产品经理在功能设计和场景拓展上有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/uber-chatgpt-work-rollout": {
+    "title_clean": "Uber引入ChatGPT Work：为3万员工提供AI助手服务",
+    "summary": "Uber已将ChatGPT Work扩展至3万多名员工，帮助团队进行研究、数据分析、创建演示文稿和完成复杂工作流程。这展示了大型企业如何将AI助手整合到日常办公流程中，为元宝在企业级AI助手应用场景上提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

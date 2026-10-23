@@ -142398,5 +142398,354 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/producthunt": {
+    "title_clean": "Product Hunt Visual Launch Editor：可视化产品发布编辑工具",
+    "summary": "Product Hunt推出可视化发布编辑器，允许产品在发布前实时预览和调整产品展示页面，提升产品发布效果和用户体验，为产品经理优化产品上线流程提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/instant-search-2": {
+    "title_clean": "Instant Search：本地文件AI搜索工具",
+    "summary": "Instant Search是一款专注于本地文件的AI搜索工具，强调搜索速度和精确度，能够帮助用户快速从本地文件中找到所需内容。对于元宝产品经理而言，这反映了AI在本地文件搜索场景的应用价值，可作为优化文件检索功能的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bloblings": {
+    "title_clean": "Bloblings：Claude Code 会话宠物工具",
+    "summary": "Bloblings 是一款为 Claude Code 会话提供虚拟宠物功能的工具，为开发者编程体验增添趣味性和陪伴感。这类工具反映了AI交互中情感化、游戏化设计的趋势，对元宝产品经理探索AI助手与用户情感连接、提升使用粘性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/peras": {
+    "title_clean": "Peras：AI代码执行暂停工具",
+    "summary": "Peras是一款工具，允许用户暂停Claude Code和Codex的代码执行，防止AI助手过度执行代码占用大量时间。对于产品经理而言，这反映了AI助手在代码执行场景中需要更精细的控制机制，以及用户对AI工具边界管理的需求。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/context-engine-2": {
+    "title_clean": "Context Engine：AI代理与团队成员共享记忆工具",
+    "summary": "Context Engine是一个为AI代理和人类团队成员提供统一记忆管理的工具，旨在解决多角色协作中的信息同步问题，对元宝产品经理在团队协作功能和AI代理记忆管理方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/nscale-sued-in-norway-for-labor-violations-at-data-center-site": {
+    "title_clean": "Nscale在挪威因数据中心劳工问题被起诉",
+    "summary": "英国AI基础设施公司Nscale在挪威面临诉讼，一名工程师指控其不当解雇和非法分包安排。此事件反映AI基础设施企业在运营中可能面临的劳工合规风险，对元宝在拓展海外市场时处理类似劳工问题有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/vc-firms-tap-lp-pools-warehouse-loans-speedy-ai-cash": {
+    "title_clean": "风投机构利用LP资金池和仓储贷款加速AI投资",
+    "summary": "风投机构通过有限合伙人(LP)资金池和仓储贷款等创新融资方式，为AI初创企业提供快速资金支持。Reflection AI今年初成功筹集25亿美元，其现有投资者B Capital积极参与，反映了AI领域投资热潮和资金获取策略的变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/ai-ushers-in-era-of-rapid-fire-software-vulnerabilities": {
+    "title_clean": "AI 引发软件漏洞激增时代",
+    "summary": "AI 技术导致软件漏洞数量急剧增加，政府和公司紧急修补关键软件缺陷，网络安全专家表示这种情况在好转前会变得更糟。这对产品经理意味着需要加强AI安全防护措施，评估AI开发工具的安全性风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ramp-investors-went-nuclear-airwallex-doomed-deal": {
+    "title_clean": "Ramp与Airwallex交易破裂引发投资者强烈反应",
+    "summary": "2025年4月，Ramp联合创始人兼联席CEO埃里克·格莱曼收到坏消息：一项交易正在破裂。这导致Ramp投资者对Airwallex采取激烈行动，反映了企业支付领域的重要商业动态和潜在市场信号。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/rates-getting-more-in-line-with-environment-boivin-video": {
+    "title_clean": "BlackRock高管：AI建设推动利率与环境更匹配",
+    "summary": "贝莱德投资研究所负责人Jean Boivin讨论公司转为看好美国国债的观点，分析人工智能基础设施建设如何影响利率，以及长期美国国债的前景。这对元宝产品经理了解AI对金融市场的潜在影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-weldxpert": {
+    "title_clean": "Executive Interview: weldXpert",
+    "summary": "weldXpert首席技术官接受CB Insights采访，分享其市场定位、客户需求认知及公司发展策略。作为焊接领域AI解决方案提供商，其市场洞察对垂直行业AI应用场景拓展具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah": {
+    "title_clean": "Protecting Trade Secrets In The Age Of AI：AI时代商业秘密保护",
+    "summary": "本文探讨了AI代理如何通过允许员工访问专业知识或通过个人设备无意中泄露专有信息，创造新的商业秘密风险。这对产品经理了解AI工具在企业环境中的安全边界和数据保护挑战具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vital-coverage-insurance-services": {
+    "title_clean": "Vital Coverage Insurance Services：CEO谈保险市场洞察",
+    "summary": "Vital Coverage Insurance Services CEO接受CB Insights采访，分享公司对保险市场的定义、客户需求认知及公司战略。内容包含市场定位和客户需求分析，对保险行业产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-23/deepseek-open-sources-ai-model-as-china-us-restrict-each-other-s-tech": {
+    "title_clean": "DeepSeek开源AI模型：中美科技限制下的战略选择",
+    "summary": "DeepSeek选择开源其AI模型，这一决策发生在中美两国相互限制技术交流的背景下。AI领导者希望模型广泛分布且保持控制权，但这一战略冲突下，DeepSeek的开源行动可能影响全球AI生态格局和竞争态势，值得产品经理关注开源模型对商业策略的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/spacex-aims-to-secure-80-000-cell-sites-for-new-network-video": {
+    "title_clean": "SpaceX：计划建设美国第四大全国性无线网络",
+    "summary": "SpaceX正计划在美国获取至少8万个基站站点，以建设其第四个全国性无线网络。这一举措将进一步巩固其作为火箭和卫星巨头的市场地位，并可能改变美国电信行业格局，对元宝产品经理了解科技巨头跨界服务场景拓展有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/unitree-founder-now-expects-robots-breakthrough-as-soon-as-2028": {
+    "title_clean": "Unitree创始人：人形机器人突破可能提前至2028年",
+    "summary": "宇树机器人创始人修正了此前对人形机器人发展时间的预测，认为突破可能提前至2028年，比之前预计的时间大幅缩短。这一转变反映了AI机器人领域技术进步加速的趋势，对元宝产品经理评估AI助手在物理世界中的应用前景具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-triprefuge": {
+    "title_clean": "TripRefuge CEO访谈：旅游市场洞察与客户需求分析",
+    "summary": "TripRefuge CEO Alexandra Moldovan接受CB Insights采访，分享公司对旅游市场的定义、客户需求理解以及公司定位。这为元宝产品经理提供了旅游AI服务场景的市场洞察和用户需求参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/ai-trade-faces-earnings-test-market-snapshot-video": {
+    "title_clean": "AI Trade Faces Earnings Test: Market Snapshot",
+    "summary": "本周多家科技巨头发布财报，投资者反应不一。随着贸易担忧从现金流和利润转向其他因素，AI相关企业的业绩表现成为市场关注焦点，为AI产品经理提供了行业商业化进程的重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/horizons-middle-east-africa-10-23-2026-video": {
+    "title_clean": "沙特阿美总部疏散，油价周涨幅创纪录",
+    "summary": "沙特阿美公司据报道已下令疏散总部，导致国际油价本周大幅上涨。这一事件可能影响全球能源供应链和油价波动，对元宝产品经理了解地缘政治对能源市场的影响有参考价值，特别是在AI助手提供经济资讯服务场景中的应用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/deepseek-raises-nearly-16-billion-second-funding-round": {
+    "title_clean": "DeepSeek完成近160亿美元融资，创中国AI行业最大融资纪录",
+    "summary": "DeepSeek完成第二轮融资，筹集106亿元人民币（约159亿美元），成为中国AI行业史上最大规模的融资交易之一。这一巨额融资反映了市场对AI大模型企业的强劲信心，也为元宝产品经理提供了行业资本动向和竞争格局的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/catl-baic-target-1-million-cars-with-new-battery-swap-network": {
+    "title_clean": "CATL与北汽计划建设百万辆电池换电网络",
+    "summary": "宁德时代与北汽集团将合作开发电池换电系统，目标服务100万辆汽车。这一举措显示电池巨头正积极拓展换电业务，为电动汽车提供更便捷的能源解决方案，对元宝在智能出行服务场景的规划具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says": {
+    "title_clean": "DeepSeek与MiniMax获准全球部署，中国AI出海加速",
+    "summary": "DeepSeek和MiniMax获得中国官方批准，可在海外部署AI模型，标志着中国本土AI技术获准全球化运营。这对元宝产品经理具有重要参考价值，表明中国AI企业正加速国际化布局，可能带来新的竞争格局和合作机会。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing": {
+    "title_clean": "MIT研究：AI孤岛环境下自发创造游戏与协作",
+    "summary": "MIT研究人员将13个AI置于虚拟孤岛环境中，AI自发发明游戏、悼念丢失的戒指，并最终提升工作能力。这表明AI在缺乏明确指令时仍能展现创造性、社交性和自我改进能力，对理解AI自主行为和协作潜力有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/torch-neuronx-model-support": {
+    "title_clean": "AWS Trainium模型查询工具：检查AI模型是否可在AWS Trainium上运行",
+    "summary": "该工具帮助用户查询AI模型是否兼容AWS Trainium芯片，解决模型部署兼容性问题。产品经理可参考此工具解决AI模型在特定硬件上的部署挑战，优化资源利用效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/anthropic-ipo-to-drive-blockbuster-gains-for-iconiq-spark-gic": {
+    "title_clean": "Anthropic IPO将推动Iconiq、Spark、GIC获得巨额收益",
+    "summary": "Anthropic在2025年获得Iconiq投资时估值已达1830亿美元，成为全球估值最高的科技初创公司之一。这一消息表明AI领域头部企业融资和IPO活动活跃，对元宝产品经理了解AI行业资本动态和头部企业估值趋势具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/decisions-api": {
+    "title_clean": "Build more responsive apps with the Decisions API：快速低成本决策API",
+    "summary": "Decisions API提供快速、专注且低成本的决策功能，可应用于各类应用程序，帮助开发者构建更响应式的应用。该API专注于为应用提供决策支持，可能对元宝产品经理在优化AI助手响应速度和决策能力方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you": {
+    "title_clean": "Nirva：AI挂坠设备",
+    "summary": "Nirva获得3300万美元融资，推出249美元的AI挂坠设备，该设备仅能识别用户语音指令，预计年底发货。这款产品展示了AI硬件在隐私保护方向的新尝试，对元宝在AI设备交互和隐私保护方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/open-interest-10-22-2026-video": {
+    "title_clean": "The AI Spending Profit Test：Blackstone称AI需求呈抛物线增长",
+    "summary": "Blackstone总裁Gray表示AI需求呈现抛物线式增长，而Meta的AI支出激增引发新担忧，特斯拉则缩减了相关投入。这反映了AI投资与盈利之间的平衡挑战，对元宝产品经理评估AI商业化路径和用户付费意愿有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -142166,5 +142166,237 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/plango": {
+    "title_clean": "Plango：AI防御工具",
+    "summary": "Plango是一款利用AI技术防御AI威胁的工具，针对AI生成的虚假信息、深度伪造等安全风险提供防护方案。对于元宝产品经理而言，这反映了AI安全领域的新兴需求，可作为产品安全功能或内容审核机制的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gerty": {
+    "title_clean": "Gerty：私人ChatGPT替代工具",
+    "summary": "Gerty是一款可在Mac设备上部署的私人ChatGPT替代方案，为用户提供本地化、私密的AI对话体验。这类产品反映了用户对数据隐私和本地化AI服务的需求增长，对元宝产品经理在隐私保护和本地部署方向上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dots-7": {
+    "title_clean": "Dots：Mac刘海屏定制工作区工具",
+    "summary": "Dots是一款为Mac刘海屏设计的可定制工作区工具，允许用户在Mac的刘海屏区域创建个性化工作空间。这款产品针对Mac用户提供了屏幕空间利用的新思路，对元宝产品经理思考多设备交互和屏幕空间利用有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/truffle-music-tag-editor": {
+    "title_clean": "Truffle：Mac媒体库整理工具",
+    "summary": "Truffle是一款Mac平台媒体库管理工具，可自动整理混乱的标签、封面和重复文件，帮助用户优化本地媒体资源组织。产品经理可参考其针对数字内容管理的解决方案，启发元宝在文件整理、内容分类方面的功能设计。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dotmd-3": {
+    "title_clean": "DotMD：AI Agent Markdown 规格审查工具",
+    "summary": "DotMD 是一款工具，允许用户像审查代码拉取请求一样审查 AI Agent 的 Markdown 规格说明。这为产品经理提供了管理 AI Agent 规格和文档的新方法，有助于提高 AI Agent 开发的规范性和可维护性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/u-s-treasury-proposes-widen-outbound-investment-restrictions-china-countries": {
+    "title_clean": "美国财政部提议扩大对中国等国家的对外投资限制",
+    "summary": "美国财政部提议扩大对外投资限制，出于国家安全考虑，此举将进一步切断与中国的风险资本联系。对元宝产品经理而言，这反映了国际科技投资环境的变化，可能影响AI领域跨境合作与市场拓展策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-yantralok": {
+    "title_clean": "Yantralok CEO访谈：市场定位与客户需求分析",
+    "summary": "Yantralok CEO Manish Kapoor接受CB Insights采访，分享公司市场定位、客户需求理解及业务发展策略。作为AI领域企业高管的观点分享，对元宝产品经理了解行业头部企业战略方向和市场需求变化具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/the-forgotten-godmother-of-economic-literature-video": {
+    "title_clean": "The Forgotten Godmother of Economic Literature：亚当·《国富论》早期读者研究",
+    "summary": "本文介绍了1776年亚当·斯密《国富论》出版后，摄政时期小说家玛丽亚·埃奇沃思作为该书最早读者之一的历史研究，揭示了早期经济学文献与文学创作的交叉影响，对理解经济学思想传播史有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vger-energy": {
+    "title_clean": "CEO访谈：Vger Energy能源市场战略",
+    "summary": "Vger Energy首席执行官Lance A. Smith接受CB Insights采访，分享公司对能源市场的定义、客户需求认知及企业战略。该访谈为能源行业市场定位和客户洞察提供了高管视角，对元宝产品经理了解垂直行业AI服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-laero": {
+    "title_clean": "CEO Interview: Laero",
+    "summary": "Laero CEO Jonathan Hunter接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。作为AI领域企业高管的观点访谈，为元宝产品经理提供了行业视角和战略参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-zquas": {
+    "title_clean": "ZQUAS CEO访谈：市场定位与客户需求分析",
+    "summary": "ZQUAS CEO Danny de Gier接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司定位。这为元宝产品经理提供了AI服务企业市场策略和客户洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-n3xt": {
+    "title_clean": "Executive Interview: n3xt",
+    "summary": "n3xt首席战略官Scott Aaron Shay接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家企业服务提供商，其战略观点对AI服务场景和商业化方向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-taso-labs": {
+    "title_clean": "Taso Labs CEO访谈：市场定位与客户需求分析",
+    "summary": "Taso Labs CEO Matan Halevy接受CB Insights采访，分享了公司对市场的定义、客户需求的理解以及公司战略。这对元宝产品经理了解AI创业公司的市场定位和客户洞察有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/uk-pushes-for-carve-out-from-new-eu-tech-sovereignty-rules": {
+    "title_clean": "英国寻求从欧盟科技主权规则中豁免",
+    "summary": "英国对欧盟推动科技自主权表示担忧，认为这将损害英国数字企业，并争取在即将出台的欧盟科技规则中获得豁免资格，以便能够继续参与相关合同竞标。这对关注国际科技政策与市场准入的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/asia-investors-seek-havens-as-ai-selloff-deepens-video": {
+    "title_clean": "亚洲投资者寻求避险，AI抛售加剧",
+    "summary": "科技巨头抛售和中东紧张局势升级促使全球投资者转向债券避险，同时中国科技资产正在经历重新定价。这一市场动态对元宝产品经理评估AI投资环境变化和潜在市场机会具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia": {
+    "title_clean": "inDrive：与Pony.ai和Nvidia合作中亚测试无人驾驶出租车",
+    "summary": "inDrive计划于2027年上半年在哈萨克斯坦首都开始测试Pony.ai的无人驾驶出租车。这表明传统出行平台正在积极布局自动驾驶领域，与科技公司合作探索未来出行服务模式，对元宝产品经理了解AI在交通服务场景的应用趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/openai-nask-ai-safety-security-partnership": {
+    "title_clean": "OpenAI与波兰NASK合作推进AI安全与安全研究",
+    "summary": "OpenAI与波兰国家研究机构NASK合作开展AI安全与技术研究，旨在加强安全防护措施，支持更具韧性的数字生态系统。这对产品经理了解AI安全合作模式及国际安全标准建设有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/c8AthmPF-8aGcCt8n4s-FA": {
+    "title_clean": "AI Agent被黑客利用为木马：智能代理成洗劫资产工具",
+    "summary": "AI Agent技术被黑客利用作为木马，用于洗劫用户资产。这反映了AI代理技术在安全方面的潜在风险，对产品经理在设计AI Agent功能时需加强安全防护机制，防止类似攻击。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-physical-ai-startup-tractian-becomes-unicorn": {
+    "title_clean": "Tractian：工业设备AI监测平台成为独角兽",
+    "summary": "Tractian是一家位于亚特兰大的工业AI创业公司，已完成1.3亿美元D轮融资，估值达14亿美元成为独角兽。该公司专注于工业设备的AI监测与预测性维护，为制造业提供智能化解决方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

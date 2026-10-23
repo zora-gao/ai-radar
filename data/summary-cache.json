@@ -142747,5 +142747,412 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/realtime-max-mini": {
+    "title_clean": "ElevenLabs Realtime：实时语音代理模型",
+    "summary": "ElevenLabs推出Realtime语音代理模型，实现570毫秒的首次音频响应时间，大幅提升实时语音交互的流畅度。这一技术突破对AI语音助手和实时交互场景具有重要参考价值，可优化用户体验和响应速度。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/monish": {
+    "title_clean": "Monish：iPhone锁屏AI助手工具",
+    "summary": "Monish是一款将AI助手直接集成到iPhone锁屏的应用，用户无需解锁手机即可与AI助手交互，提供便捷的AI服务访问方式，这种轻量级交互方式可能为元宝提供移动端AI服务的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/inspired-capital-closes-new-450-million-fund-video": {
+    "title_clean": "Inspired Capital：450亿美元新基金成立",
+    "summary": "Inspired Capital完成4.5亿美元新基金募集，专注于早期投资。该公司联合创始人表示，战略投资者对早期创业公司的兴趣日益增长，这可能影响AI领域的投资格局和初创公司融资环境，对产品经理了解行业资本动向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/moonshot-debuts-first-ai-upgrade-since-its-own-deepseek-moment": {
+    "title_clean": "Moonshot：中国AI公司发布重大模型升级",
+    "summary": "Moonshot AI在经历夏季DeepSeek时刻后，发布了其核心模型的首次重大升级，这家估值500亿美元的中国AI公司借此巩固了其在行业前沿的地位。此次升级对产品经理了解中国AI大模型竞争格局和技术迭代方向具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-23/why-final-fantasy-returned-to-2d": {
+    "title_clean": "《最终幻想》回归2D：经典系列新作《最终幻想：共鸣》采用复古2D风格",
+    "summary": "《最终幻想》系列新作《最终幻想：共鸣》采用复古2D风格，回归系列早期视觉表现。这一决策反映了经典IP在保持创新的同时，通过怀旧元素吸引老用户并拓展新市场的产品策略，对元宝在游戏化交互与怀旧功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/us-economy-dependent-on-ai-as-growth-engine-says-fukui-video": {
+    "title_clean": "美国经济高度依赖AI作为增长引擎",
+    "summary": "Tani Fukui指出美国经济已相当依赖AI作为增长引擎，近期AI相关股票的抛售引发市场担忧，这与油价上涨、通胀压力及美联储利率决策密切相关，反映了AI对美国经济的重要性和市场波动性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum": {
+    "title_clean": "Forum：社区管理员管理工具更新",
+    "summary": "Forum平台推出新工具，帮助社区管理员更轻松地管理Groups功能。此次更新针对社区运营场景，提供管理优化功能，对元宝产品经理在社区管理功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dots-phone": {
+    "title_clean": "Dots Phone：OpenAI 通话插件",
+    "summary": "Dots Phone 是一款为 OpenAI Dots 开发的电话通话插件，扩展了 AI 助手的语音交互能力，使其能够直接进行电话通话。这一产品展示了 AI 助手向实时语音通信场景扩展的可能性，对元宝产品经理在语音交互和电话服务场景方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/open-interest-10-23-2026-video": {
+    "title_clean": "OpenAI、SpaceX与AI市场波动：融资与无线业务探索",
+    "summary": "OpenAI寻求新一轮融资，投资者重新评估AI投资策略；SpaceX探索进入无线通信领域。这反映了AI巨头在市场波动中的战略调整，对元宝产品经理评估AI商业化路径和行业风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/ai-in-early-stages-of-a-bubble-gabelli-s-marangi-says-video": {
+    "title_clean": "AI市场泡沫初现，Gabelli总裁称仍处早期发展阶段",
+    "summary": "Gabelli Funds总裁Chris Marangi表示市场正经历AI相关泡沫，但认为AI仍处于发展早期阶段。他在彭博节目中称AI为高影响力技术，暗示当前市场可能过度炒作，但技术本身仍有长期发展潜力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/japan-labor-market-can-leverage-ai-says-masa-takeda-video": {
+    "title_clean": "日本政府官员称AI可用于改善劳动力市场",
+    "summary": "日本政府官员武田正表示，日本劳动力市场可以借助AI技术进行优化。这一观点反映了AI技术在人力资源领域的应用潜力，对元宝产品经理了解AI在劳动力市场的应用场景和政府态度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/apple-iphone-duo-debuts-with-long-lines-limited-supply-video": {
+    "title_clean": "苹果发布2000美元折叠屏iPhone Duo，引发排队抢购热潮",
+    "summary": "苹果正式推出售价2000美元及以上的折叠屏iPhone Duo，新机上市即出现排队抢购现象，显示市场对高端折叠iPhone的强劲需求。这对元宝产品经理了解高端手机市场趋势和用户对折叠设备的接受度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/why-ai-is-causing-a-global-panic-over-cybersecurity-video": {
+    "title_clean": "AI引发全球网络安全恐慌：研究人员发现编程语言漏洞",
+    "summary": "研究人员利用AI发现了广泛用于互联网的编程语言中的安全漏洞，导致银行、航空公司和政府网站被迫下线作为预防措施。这一事件凸显了AI在网络安全领域的双刃剑效应，对产品经理评估AI安全防护能力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/dudley-sees-fed-likely-to-hold-with-a-hike-in-december-video": {
+    "title_clean": "前纽约联储主席 Dudley：美联储可能维持利率不变，12月或加息",
+    "summary": "前纽约联储主席 Dudley 分析了美联储所谓'三巨头'的利率信息传递，并讨论了人工智能对经济的影响。作为前美联储高管的观点对理解央行政策走向有参考价值，特别是 AI 对经济的影响可能间接影响金融科技产品策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/the-pulse-10-232026-video": {
+    "title_clean": "OpenAI寻求新融资轮估值达1.25万亿美元",
+    "summary": "OpenAI在新一轮融资中寻求1.25万亿美元的估值，显示AI领域巨头持续获得资本市场高度认可。这一估值反映了AI助手市场的巨大潜力和投资者对AI商业化的强烈信心，对元宝产品经理评估AI助手赛道估值天花板和商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-23/apple-s-iphone-duo-ushers-in-new-era-for-smartphones": {
+    "title_clean": "Apple's iPhone Duo：智能手机新内存定价策略",
+    "summary": "苹果推出iPhone Duo系列，采用新型内存定价策略，将手机内存价格定位为奢侈品级别，标志着智能手机行业在存储定价方面的新趋势，对产品经理思考高端市场定价策略和用户价值感知有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-gaming-clean-tech": {
+    "title_clean": "5家值得关注的新创公司交易：机器人训练、太空激光与环保水泥",
+    "summary": "本月值得关注的新创公司交易涵盖多个科技领域，包括教授机器人完成日常家务、使用激光技术追踪卫星，以及开发更环保的水泥生产技术。这些交易展示了科技行业在AI应用、空间技术和可持续发展等领域的创新方向，为产品经理提供了跨行业技术融合的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/ai-chipmaker-cambricon-s-sales-miss-in-sign-of-output-constraint": {
+    "title_clean": "AI芯片公司寒武纪销售不及预期，反映产能限制问题",
+    "summary": "寒武纪科技报告收入增长不及预期，反映出其在制造限制和存储芯片短缺方面持续面临的挑战。这对AI芯片供应链和AI硬件发展具有重要参考价值，提示产品经理关注AI硬件供应瓶颈对AI服务部署的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/securing-our-frontier-model-training-environment": {
+    "title_clean": "OpenAI：强化前沿模型训练环境安全措施",
+    "summary": "OpenAI介绍了其如何加强前沿模型训练和评估的 containment 措施，包括离线环境和高计算红队测试。这对产品经理了解AI安全防护框架和风险控制方法有参考价值，特别是在模型训练环境安全方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-tego-marketing": {
+    "title_clean": "TEGO Marketing CEO访谈：市场定位与客户需求洞察",
+    "summary": "TEGO Marketing首席执行官Aidan Dawson Tooker接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。这对元宝产品经理了解营销科技公司的市场定位和客户洞察方法有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/infosys-lowers-sales-forecast-after-companies-curb-it-spending": {
+    "title_clean": "Infosys下调销售预测：企业削减IT支出",
+    "summary": "印度IT服务巨头Infosys下调年度销售预测，原因是客户持续缩减技术支出，表明IT预算的全面复苏短期内难以实现。这对元宝产品经理评估企业级AI服务市场环境和企业客户预算状况有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-wtmg-labs": {
+    "title_clean": "WTMG Labs CEO访谈：市场定位与客户需求洞察",
+    "summary": "WTMG Labs CEO Adetowo Ademiluyi接受CB Insights采访，分享公司对市场定位、客户需求的理解和公司发展策略。该访谈为AI产品经理提供了创业公司如何看待市场机会和用户需求的视角，有助于理解AI服务领域的竞争格局和客户痛点。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-gilver-ai": {
+    "title_clean": "Gilver.ai CEO访谈：AI市场定位与客户需求分析",
+    "summary": "Gilver.ai CEO Siraj Dahal接受CB Insights采访，分享了公司对市场的定义、客户需求的理解以及公司定位。这为元宝产品经理提供了AI初创企业市场策略和客户洞察的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-unseen": {
+    "title_clean": "Unseen CEO访谈：市场定位与客户需求分析",
+    "summary": "Unseen CEO Bogumił Grochowski接受CB Insights采访，分享了公司对市场定位、客户需求的看法。作为一家AI相关企业，其市场策略和客户洞察对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-zentinela": {
+    "title_clean": "Zentinela CEO访谈：市场定位与客户需求分析",
+    "summary": "Zentinela CEO Aldo Cardenas接受CB Insights采访，分享公司市场定位、客户需求认知及发展策略。作为AI领域企业高管访谈，为元宝产品经理提供行业视角和竞争参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-sapps-ai": {
+    "title_clean": "Executive Interview: SAPPS.ai",
+    "summary": "SAPPS.ai首席技术官Roel de Jong接受CB Insights采访，分享公司对市场的看法、客户需求以及公司定位。作为一家AI企业，其高管观点对了解企业级AI服务市场趋势和客户需求具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vivarium-study": {
+    "title_clean": "Vivarium Study CEO访谈：市场定位与客户需求分析",
+    "summary": "Vivarium Study CEO Hygor da Silva Batista接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司定位。该访谈提供了教育科技领域创业公司的市场洞察和战略思考，对元宝产品经理了解教育AI服务场景和用户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-goultra-systems": {
+    "title_clean": "CEO Interview: GoUltra Systems",
+    "summary": "GoUltra Systems CEO接受CB Insights访谈，分享其市场定位、客户需求认知及公司发展策略。作为企业服务领域高管访谈，提供了行业视角和客户需求洞察，对元宝产品经理了解企业级AI服务市场有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension": {
+    "title_clean": "Nvidia与TCV投资AI视频初创公司Higgsfield",
+    "summary": "Higgsfield是一家由前Snap高管创立的AI视频初创公司，近期获得Nvidia和TCV的投资，资金将用于全球基础设施建设和人才招聘，以捕捉增长机会。这笔投资反映了AI视频领域的重要资本动向，对元宝产品经理评估AI视频技术商业化路径和行业投资趋势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropics-elevator-problem-persuading-investors-share-ai-dream": {
+    "title_clean": "Anthropic面临电梯难题：如何说服投资者共享AI愿景",
+    "summary": "Anthropic投资者Jaan Tallinn提出观点：世界未来将由少数人决定。Anthropic面临如何向投资者传达其AI愿景并获取支持的挑战，这对AI初创公司的融资策略和愿景传达有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/blackstone-thinks-ai-bottlenecks-work-favor": {
+    "title_clean": "黑石集团：AI瓶颈可能成为其优势",
+    "summary": "黑石集团认为AI发展中的瓶颈问题可能为其创造投资机会。作为全球最大资产管理公司之一，黑石正关注AI基础设施、计算资源等领域的投资潜力，这反映了大型资本对AI产业链关键环节的战略布局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/openai-shifts-value-to-1-25-trillion-as-funding-talks-finalize": {
+    "title_clean": "OpenAI融资谈判完成，估值上调至1.25万亿美元",
+    "summary": "OpenAI正在完成新一轮约300亿美元的融资谈判，估值上调至1.25万亿美元。这一融资规模和估值反映了市场对AI助手领域的高度看好，对元宝产品经理评估行业资本动向和商业化潜力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/jpmorgan-s-mulvihill-on-ai-concentration-concerns-video": {
+    "title_clean": "摩根大通Mulvihill谈AI投资集中风险",
+    "summary": "摩根大通全球另类策略师Aaron Mulvihill指出，随着投资者重新评估AI和数据中心建设的融资风险，公开市场与私人市场正形成联动。这对产品经理了解AI投资环境变化和潜在风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

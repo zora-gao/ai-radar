@@ -142030,5 +142030,141 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/failsafe-president-on-ai-hacking-cybersecurity-video": {
+    "title_clean": "FailSafe总裁谈AI黑客与网络安全",
+    "summary": "FailSafe总裁兼联合创始人Wui Foo讨论机构应如何保护网站和服务免受漏洞和AI驱动网络攻击的威胁，提供网络安全防护策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/sk-data-center-arm-plans-to-fund-350b-ai-buildout-video": {
+    "title_clean": "SK数据中心部门计划融资3500亿美元建设AI基础设施",
+    "summary": "SK集团数据中心部门SK Hyper正与大型科技公司和金融投资者洽谈，计划为3500亿美元的AI基础设施建设筹集资金。这反映了AI基础设施投资规模巨大，对元宝等AI产品在算力资源获取和成本控制方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/startup-pursues-palmer-luckey-s-vision-of-enhanced-military-dogs": {
+    "title_clean": "Startup开发增强型军用犬：获2亿美元投资",
+    "summary": "一家初创公司致力于为美国军方和执法部门提供基因增强的工作犬，已获得2亿美元融资。该项目由Palmer Luckey（Anduril Industries联合创始人）构想，旨在提升军用犬的能力，可能对AI辅助军事装备领域有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/apple-s-iphone-duo-hits-stores-in-face-of-short-supply-and-high-demand": {
+    "title_clean": "苹果发布折叠屏iPhone Duo：面临供应短缺与高需求",
+    "summary": "苹果公司正式推出售价2000美元及以上的折叠屏iPhone Duo，市场反应热烈但面临供应短缺问题。这对元宝产品经理了解高端折叠设备市场趋势和用户对高价折叠屏的接受度有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout": {
+    "title_clean": "SK数据中心部门拟筹资3500亿美元建设AI基础设施",
+    "summary": "SK Hyper正与大型科技公司和金融投资者洽谈，为计划中的3500亿美元数据中心建设筹集资金，这反映了全球范围内AI基础设施建设的加速趋势。这一大规模投资表明AI基础设施已成为科技巨头竞争的关键领域，对元宝的产品经理了解行业资源投入方向和潜在合作机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/newsletter-october-22-2026": {
+    "title_clean": "2026年已有19家新晋独角兽公司：投资者关注点解析",
+    "summary": "AI助手初创公司Town在公开上市仅四个月后完成1.08亿美元B轮融资，估值达10亿美元。这表明投资者对AI助手领域仍保持高度关注，尤其是那些能够快速实现高增长的公司。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/0O6Z5PtwY5dJirDlfNsr3Q": {
+    "title_clean": "首发实测：鹅厂开放「元宝搜索」，为开发者提供减负服务",
+    "summary": "腾讯开放了名为「元宝搜索」的新服务，旨在减轻开发者的工作负担。该服务可能是针对开发者的AI辅助工具，提供代码搜索、技术文档查询等功能，帮助开发者提高工作效率。作为产品经理，这反映了腾讯在AI开发工具领域的布局，值得关注其功能特性和市场反馈。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/us-proposes-curbs-on-investment-in-chinese-biotech-firms": {
+    "title_clean": "美国提议限制对中国生物科技公司的投资",
+    "summary": "特朗普政府正寻求限制美国对中国生物科技公司的投资，这可能在美国制药商越来越多地寻求中国合作之际，使两国金融关系复杂化。这一政策动向可能影响元宝在医疗健康领域的AI服务布局和国际化战略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/investors-aren-t-wild-about-big-tech-s-ai-forecasts-video": {
+    "title_clean": "投资者对科技巨头AI预测持谨慎态度",
+    "summary": "美国科技巨头本周发布最新财报，其AI投资计划正受到投资者严格审视。Meta计划未来投入825亿美元发展AI，但投资者对大型科技公司的AI支出回报表示担忧，这可能影响元宝产品经理对AI商业化路径的判断。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-22/remain-bearish-on-long-term-treasuries-jeff-sherman-video": {
+    "title_clean": "DoubleLine Capital副首席投资官：长期国债看跌",
+    "summary": "DoubleLine Capital副首席投资官Jeff Sherman在彭博节目中表示，尽管近期国债因AI交易担忧而上涨，但长期国债仍应保持看跌态度。这反映了金融市场对AI投资热潮可能带来的风险担忧，对元宝产品经理了解AI投资情绪和金融科技服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-22/researchers-say-hackers-targeted-php-before-flaws-were-known": {
+    "title_clean": "全球企业紧急修复广泛存在的网络安全漏洞",
+    "summary": "全球政府和公司紧急修复广泛使用技术中的两个关键漏洞，为防止黑客利用这些漏洞，一些网站主动下线作为预防措施。这反映了网络安全对AI服务基础设施的重要性，产品经理需关注AI系统安全防护和应急响应机制。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -143955,5 +143955,55 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/river-writer": {
+    "title_clean": "River Writer：剧本与小说写作工具",
+    "summary": "River Writer是一款面向Mac的安静写作应用，专为剧本、舞台剧和小说创作设计。它为内容创作者提供了一个专注的写作环境，可能对元宝在创意写作场景下的产品设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/neoclouds-gathering-storm": {
+    "title_clean": "A Neocloud's Gathering Storm：云服务行业动态",
+    "summary": "这是一篇关于云服务行业动态的文章，标题暗示可能存在市场变化或竞争加剧的趋势。对于元宝产品经理而言，这可能反映了AI服务基础设施领域的潜在变化，值得关注云服务与AI产品结合的发展方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it": {
+    "title_clean": "AI坟场：失败项目与初创公司清单",
+    "summary": "本文汇总了已关闭或未达预期的AI项目，包括苹果多次延迟的Siri AI和OpenAI混乱的'超级应用'发布。对产品经理的参考价值在于了解AI产品失败的原因和教训，帮助规避类似风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-24/malaysia-may-widen-ban-on-israel-based-waze-traffic-app-pm-says": {
+    "title_clean": "马来西亚考虑扩大对以色列Waze导航应用的禁令",
+    "summary": "马来西亚总理表示，政府可能扩大对谷歌旗下Waze导航应用的禁令，原因是国家安全考量。该禁令与以色列有关，反映了地缘政治因素对科技产品的影响，对产品经理了解国际市场准入和合规风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

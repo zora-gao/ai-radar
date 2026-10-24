@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:00:06.537Z",
+  "generated_at": "2026-10-24T08:34:22.852Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -26,7 +26,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Kimi K3.1 Pro is Moonshot AI's flagship open-weight multimodal reasoning model and a post-trained successor to Kimi K3, with a 1M-token context window. It is built for long-horizon coding, 3D...",
-      "description_zh": null
+      "description_zh": "Kimi K3.1 Pro 是 Moonshot AI 的旗舰开放权重多模态推理模型，也是 Kimi K3 的后训练后继者，具有 1M 代币上下文窗口。它专为长视野编码、3D..."
     },
     {
       "id": "recursive/flint-v1.0:free",

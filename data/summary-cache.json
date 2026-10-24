@@ -143856,5 +143856,104 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-faces-a-growing-public-backlash-video": {
+    "title_clean": "AI热潮面临日益增长的公众抵制",
+    "summary": "The Atlantic CEO Nicholas Thompson指出，AI虽为企业提供强大工具，但对媒体构成显著风险，且其更广泛的经济影响持续滞后。这对产品经理评估AI产品社会接受度和潜在风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human": {
+    "title_clean": "Block：新型语音模型可在MacBook M4 Max本地运行",
+    "summary": "Block发布新型语音模型，可在MacBook M4 Max设备上本地运行，其语音表现接近人类水平。这一进展对AI语音交互产品的本地化部署和性能优化具有重要参考价值，特别是对移动端和边缘计算场景的语音助手设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats": {
+    "title_clean": "Grok与GPT AI模型政治倾向差异研究：前者倾向共和党，后者倾向民主党",
+    "summary": "一项研究发现，Grok AI模型在近500场选举中 overwhelmingly 推荐共和党候选人，而OpenAI的GPT则倾向于民主党，两种AI模型在超过90%的选举中意见相左。这一发现揭示了大型AI模型可能存在的政治偏见，对产品经理在AI内容中立性和价值观设计方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages": {
+    "title_clean": "短信中的顶级AI助手：多功能家庭旅行工作助手",
+    "summary": "本文列举了能在短信中运行的顶级AI助手，包括通用助手、家庭专用、旅行和工作场景的AI代理。这些AI助手可直接集成在短信应用中，为用户提供各类服务，对元宝产品经理在多场景AI助手集成和短信交互设计方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropics-margin-openais-opportunity": {
+    "title_clean": "Anthropic的利润空间成为OpenAI的竞争机会",
+    "summary": "OpenAI通过价格策略削弱Anthropic的竞争，表明价格战已成为AI大模型厂商的重要竞争手段。这对元宝产品经理有参考价值，提示在定价策略和市场竞争中需关注对手的价格变动，并思考如何在价格战中保持竞争力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says": {
+    "title_clean": "AWS服务器容量已售罄至2028年",
+    "summary": "亚马逊CEO安迪·贾西表示，亚马逊云服务(AWS)的容量已基本预订至2028年，反映出云计算需求持续强劲。这对元宝产品经理了解云服务市场趋势和AI基础设施供应紧张状况有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-24/technical-colleges-bet-on-ai-driven-demand-for-skilled-workers": {
+    "title_clean": "Technical Colleges Bet on AI-Driven Demand for Skilled Workers",
+    "summary": "技术学院正押注于AI驱动的技能人才需求增长，通过扩建校园和扩招学生来提升利润，但回报可能需要时间。这反映了AI时代对专业技能人才的市场需求变化，对元宝产品经理了解AI教育服务场景和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions": {
+    "title_clean": "以色列考虑使用加密货币规避潜在金融制裁",
+    "summary": "以色列总理内塔尼亚胡表示正在探索使用加密货币来规避可能对以色列实施的金融制裁，此举引发反对派批评。这一动向可能影响全球加密货币监管政策，对AI助手在金融合规和跨境支付场景的应用有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

@@ -143573,5 +143573,67 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks": {
+    "title_clean": "OpenAI停止使用实时互联网训练AI模型",
+    "summary": "OpenAI宣布将不再使用实时互联网训练其前沿AI模型，此前一位工程师曾表示这种方法不可行。这一转变可能影响AI模型的知识更新方式和实时信息获取能力，对AI助手产品的信息时效性和准确性有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell": {
+    "title_clean": "Nvidia CEO体验Microduck机器人：20,000台热销",
+    "summary": "Nvidia CEO展示了可语音控制的Microduck机器人，能执行跺脚、翻滚等动作，已售出20,000台。这反映了消费级AI机器人的市场热度，对元宝在家庭场景AI交互设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic": {
+    "title_clean": "英国承诺投入1亿英镑建立AI生物安全实验室，与OpenAI、Anthropic合作",
+    "summary": "英国宣布投入1亿英镑（1.34亿美元）建立AI生物安全实验室，该实验室将获得OpenAI、Anthropic和Google DeepMind的支持，这是政府一系列改进措施的一部分，旨在利用AI技术加强生物安全防护能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit": {
+    "title_clean": "Blackstone投资芯片引发债务热潮，重塑信贷市场",
+    "summary": "黑石集团向CoreWeave等芯片公司大量投资，引发债务市场热潮，正在改变传统信贷格局。黑石高管曾质疑GPU和AI的真实性，如今却大举押注芯片领域，反映了AI基础设施投资的快速升温。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/us-futures-slip-as-big-tech-wavers-oil-extends-gains": {
+    "title_clean": "美股期货下跌，科技股下滑，油价突破101美元",
+    "summary": "美股标普500指数连续两日下跌，因油价上涨和科技巨头在周四抛售后表现疲软。半导体指数提供了一些支撑，显示科技板块内部出现分化。对元宝产品经理而言，这反映了市场对科技股的谨慎态度，可能影响AI相关企业的估值和投资环境。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

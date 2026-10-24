@@ -143772,5 +143772,89 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-24/making-advanced-microchips-takes-a-global-ecosystem-video": {
+    "title_clean": "先进芯片制造依赖全球生态系统",
+    "summary": "Bloomberg报道揭示了先进芯片制造依赖于ASML、台积电等专业化公司组成的深度互联全球网络，半导体产业已形成高度协同的生态系统，这对AI硬件供应链和产品经理评估算力基础设施具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-brings-new-business-to-matchmakers-video": {
+    "title_clean": "AI繁荣催生高端婚恋匹配服务",
+    "summary": "AI创作者财富增长带动高端婚恋市场需求，忙碌专业人士正寻求替代传统约会应用的匹配服务。Linx Dating创始人表示，AI新贵们成为高端婚介服务的主要客户群体，这一趋势反映了AI从业者时间价值与社交需求的变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentvalley": {
+    "title_clean": "AgentValley：Claude Code 代理管理工具",
+    "summary": "AgentValley 是一款 Mac 应用，可在系统刘海屏区域展示所有 Claude Code 代理的状态，帮助用户一目了然地管理多个 AI 代理。这款工具解决了多代理管理可视化的痛点，为元宝产品经理在多代理界面设计和状态展示方面提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-24/secretive-ukrainian-unit-behind-rapid-expansion-of-deep-strike-campaign": {
+    "title_clean": "乌克兰秘密部队推动深度打击战役快速扩张",
+    "summary": "乌克兰一支秘密部队正在推动深度打击战役的快速扩张，使用中程打击无人机执行约100公里航程的任务，配备相当于保龄球重量的弹头。这展示了军事AI在战术打击中的应用，对AI在军事领域的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/the-close-10-23-2026-video": {
+    "title_clean": "AI Jitters, Oil & Big Tech：金融市场动态分析",
+    "summary": "BlackRock副CIO等嘉宾分析华尔街收盘前的市场动态，重点关注AI波动性、石油价格及大型科技股表现。对元宝产品经理了解AI投资情绪及科技股市场信号有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-23/instacart-rallies-on-report-of-sale-talks-with-uber-doordash": {
+    "title_clean": "Instacart考虑潜在出售，引发股价上涨",
+    "summary": "Instacart探索潜在出售，包括与Uber Technologies的讨论。作为主要杂货配送平台，其出售动向可能影响AI服务场景和商业化策略，对元宝产品经理评估AI服务商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-23/opinion-the-urgent-need-for-whistleblowers-video": {
+    "title_clean": "The Urgent Need for Whistleblowers：举报人角色重要性分析",
+    "summary": "Bloomberg Opinion专栏文章探讨了举报人在当今社会中的关键作用及其面临的复杂性和不透明性增加的挑战。这一分析对产品经理思考如何构建安全、透明的举报机制和内部监督系统具有参考价值，特别是在处理敏感信息和保护举报者方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
   }
 }

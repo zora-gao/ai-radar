@@ -144338,5 +144338,103 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/21Pf0S8GnBH33qeGsoo93w": {
+    "title_clean": "哈佛、伯克利、英伟达联合推出机器人Scaling Law探索",
+    "summary": "哈佛大学、伯克利分校与英伟达合作研究机器人领域的Scaling Law，探索机器人能力随规模增长的规律，这可能对AI机器人的发展路径和产品规划产生重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/5Z-KPVLvznC8EwsiAZGd9Q": {
+    "title_clean": "JointLight：AI视频后期人物光影重调工具",
+    "summary": "JointLight是一款AI工具，可在视频拍摄完成后重新调整人物光影效果，实现对人物光线的精准控制。这项技术为视频后期制作提供了全新解决方案，产品经理可关注其在视频编辑、虚拟拍摄等场景的应用潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Oa35qSs8a42NnMO-Yi2vmw": {
+    "title_clean": "PyTorch、JAX曝出Softmax隐藏Bug，Gemini协助发现",
+    "summary": "PyTorch和JAX框架中的Softmax函数被发现存在隐藏Bug，Google的Gemini AI模型在协助发现这一问题上发挥了关键作用。这一发现对AI框架开发者、研究人员以及依赖这些框架的AI产品团队具有重要参考价值，提醒关注基础算法的稳定性和可靠性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/bDRoS7jjeKmv3NGUnaIa9w": {
+    "title_clean": "清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力",
+    "summary": "清华团队推出HandsOn基准测试，包含66项任务用于全面评估机器人双手灵巧操作能力。这一基准为AI机器人领域提供了标准化的评测体系，有助于推动灵巧操作技术的发展，对元宝产品经理在AI助手物理交互能力规划方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds": {
+    "title_clean": "SpaceX完成400亿美元债务融资，用于支持AI芯片采购",
+    "summary": "SpaceX完成400亿美元债务融资，用于采购支持其人工智能发展所需的芯片。这表明大型科技公司正积极投入AI基础设施，对AI芯片供应链和大型科技公司的AI战略布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey": {
+    "title_clean": "Grok：AI生成电影《奥德赛》首段七分钟片段发布",
+    "summary": "Grok发布了其AI生成的电影《奥德赛》首段七分钟片段，该片段视觉效果一般，缺乏艺术性、灵感或人文关怀。这展示了AI在创意内容生成领域的最新尝试，对产品经理了解AI在创意产业的应用边界和局限性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/data-center-late-fees-hit-5-million-per-day-spawning-new-insurance": {
+    "title_clean": "数据中心延迟费用催生新型保险：单日罚款可达500万美元",
+    "summary": "数据中心延迟费用高达每日500万美元，催生了新型保险产品。保险经纪公司Marsh为数据中心开发商设计了单日100万美元延迟费用的保险政策，反映数据中心建设风险增加趋势，对AI基础设施风险管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/major-ukraine-retailer-says-russian-strikes-destroyed-its-chain": {
+    "title_clean": "乌克兰大型零售商称俄罗斯袭击摧毁其连锁店",
+    "summary": "乌克兰家居建材零售商Epicentr称其业务遭到俄罗斯空袭摧毁，袭击针对其多个配送中心。此事件反映了地缘政治冲突对商业运营的直接影响，对产品经理理解全球供应链风险和业务连续性规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
   }
 }

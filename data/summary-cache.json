@@ -144091,5 +144091,130 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/llama-windows": {
+    "title_clean": "Llama Windows：本地Windows应用AI服务器",
+    "summary": "Llama Windows是一款本地AI服务器，旨在为Windows应用提供统一的本地AI服务支持。该产品解决了Windows应用本地化AI部署的需求，为元宝产品经理提供了在Windows环境下本地AI服务部署的参考方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentgrid-io": {
+    "title_clean": "AgentGrid.io：人机协作共享工作空间",
+    "summary": "AgentGrid.io是一个专为人类与AI Agent设计的共享工作空间平台，旨在促进人机协作。该产品为AI Agent与人类用户提供共同工作环境，可能有助于元宝探索多Agent协作场景和混合工作流设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mrraudit": {
+    "title_clean": "MRRaudit：SaaS MRR差异分析工具",
+    "summary": "MRRaudit是一款帮助SaaS企业分析月度经常性收入(MRR)差异的工具，通过识别收入波动原因，提供可靠的数据分析，帮助产品经理更好地理解收入变化趋势和业务健康度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pawl": {
+    "title_clean": "pawl：Mac 专注计时工具",
+    "summary": "pawl 是一款专为 Mac 设计的微型专注计时器，用户通过拖拽爪形图标即可启动计时。这款工具简洁直观，适合需要时间管理的用户，为元宝在专注功能设计上提供了轻量级交互方式的参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yourcast": {
+    "title_clean": "Yourcast 2.0：AI播客摘要与跳转工具",
+    "summary": "Yourcast 2.0是一款在Telegram内运行的AI工具，能为播客内容提供带可点击时间戳的摘要功能，用户可直接跳转到感兴趣的部分。这为AI助手在内容消费场景中的应用提供了新思路，特别是如何通过AI处理长音频内容并提升用户获取信息的效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/how-it-spread": {
+    "title_clean": "How It Spread：内容传播路径分析工具",
+    "summary": "该工具帮助用户追踪和分析内容从首次发布到病毒式传播的完整路径，为产品经理提供内容传播机制和用户行为洞察，有助于优化内容策略和产品设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says": {
+    "title_clean": "软银孙正义计划在马来西亚投资500亿美元科技项目",
+    "summary": "软银集团创始人孙正义计划在马来西亚进行500亿美元的技术投资，这将加速其全球科技布局。这笔巨额投资可能涉及AI基础设施、数据中心等科技领域，对元宝产品经理了解科技巨头投资方向和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/specsight": {
+    "title_clean": "Specsight：AI产品可观测性工具",
+    "summary": "Specsight是一款专为快速交付AI产品的团队提供的产品可观测性工具，帮助团队监控和分析AI系统的性能与稳定性，确保AI产品在快速迭代过程中保持高质量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/uae-shuts-more-beaches-as-it-deals-with-oil-spill-in-gulf": {
+    "title_clean": "阿联酋因海湾漏油事件关闭更多海滩",
+    "summary": "阿联酋因波斯湾发生漏油事件，为应对环境和健康风险，关闭了更多海滩。这一事件提醒产品经理关注环境监测与应急响应类AI应用在公共服务领域的潜在价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/australia-police-chief-says-angry-debate-adds-risks-to-lawmakers": {
+    "title_clean": "澳大利亚警方高官：激烈政治辩论增加议员安全风险",
+    "summary": "澳大利亚高级警官表示，激烈的政治辩论正在增加议员面临的安全风险，此前一名议员在疑似袭击中受重伤。这一事件反映了政治极化可能带来的公共安全影响，对产品经理了解社会情绪管理、内容安全及AI在敏感话题处理上的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

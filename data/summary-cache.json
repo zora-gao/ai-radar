@@ -144436,5 +144436,41 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-25/inside-the-firings-and-leadership-changes-at-netflix": {
+    "title_clean": "Netflix内部裁员与领导层变动：编程低迷与人才反弹引发重大变革",
+    "summary": "Netflix因编程内容表现不佳和人才反弹而进行了重大领导层调整。这一变化反映了内容创作领域的挑战，对AI助手产品经理在内容生成与人才管理方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report": {
+    "title_clean": "SK海力克斯股价逆势上涨：受铠侠(Kioxia)分红支撑",
+    "summary": "SK海力克斯股价在AI相关股票普遍下跌的背景下逆势上涨，主要得益于其持有日本铠侠公司股份带来的大额分红预期。这一动态反映了存储芯片行业在AI热潮中的特殊表现，对产品经理了解AI硬件产业链投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropics-big-reveal": {
+    "title_clean": "Anthropic：AI公司IPO文件即将公开",
+    "summary": "Anthropic可能最早于周一公开其首次公开募股(IPO)文件，这将是科技行业的重要事件。文件将包含该AI公司的财务细节，对了解AI行业融资动态和估值具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

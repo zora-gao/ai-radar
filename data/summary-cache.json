@@ -144472,5 +144472,362 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/allmodels-io": {
+    "title_clean": "AllModels：AI模型探索工具",
+    "summary": "AllModels是一个AI模型探索平台，允许用户浏览和测试各种AI模型。该工具为产品经理提供了了解当前AI模型生态的窗口，有助于竞品分析和功能规划。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/whoiscooking": {
+    "title_clean": "WhoIsCooking：AI系统资源监控工具",
+    "summary": "WhoIsCooking是一款Mac系统工具，可识别并监控正在消耗系统资源的AI代理程序，帮助用户了解哪些AI应用导致设备发热，并提供资源管理功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/standfast": {
+    "title_clean": "Standfast：Mac GitHub Actions 运行状态监控工具",
+    "summary": "Standfast 是一款用于监控 Mac 设备上 GitHub Actions 运行状态的工具，帮助用户了解其 Mac 上的 GitHub Actions 运行器是否能正常接收和处理工作。对于使用 GitHub Actions 进行持续集成的开发团队，特别是依赖本地 Mac 运行器的场景，此工具提供了运行状态的可视化监控，有助于及时发现和解决运行器故障问题。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vibeide": {
+    "title_clean": "VibeiDE：并行任务队列代理工具",
+    "summary": "VibeiDE是一款能够并行处理代理任务队列并审查每个结果的工具，为AI Agent的并行执行能力提供技术支持，有助于提升多任务处理效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/desigma": {
+    "title_clean": "desigma：基于Rust的免费Figma替代工具",
+    "summary": "desigma是一款基于Rust开发的免费Figma替代工具，为用户提供设计软件选择。对于元宝产品经理而言，这代表在设计工具领域可能存在开源替代方案，值得关注其技术实现和用户体验，评估是否可作为元宝设计功能或协作场景的参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/manyagents": {
+    "title_clean": "ManyAgents：AI编程团队协作工具",
+    "summary": "ManyAgents是一款Mac应用，允许用户在单个窗口中运行一支AI编程团队，通过多智能体协作完成编程任务。这款工具对元宝产品经理有参考价值，展示了AI Agent在专业领域的协作模式，可启发多智能体协同工作场景的设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kiwi-7": {
+    "title_clean": "Kiwi：主动式AI助手",
+    "summary": "Kiwi是一款主动式AI助手，能够在用户提问前主动发送信息，提供前瞻性服务。这种主动交互模式可能为元宝产品经理提供新的交互思路，探索如何让AI助手更智能地预判用户需求，提升用户体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/2g": {
+    "title_clean": "2G：早期2000年代神经合成采样工具",
+    "summary": "2G是一款采样工具，专注于创建早期2000年代的神经合成效果。这款工具可能为AI音乐生成或复古音效处理提供参考，对元宝产品经理在AI音频处理和创意工具方向有一定启发价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/omerta": {
+    "title_clean": "omerta：环境变量泄露检测工具",
+    "summary": "omerta是一款专门用于检测.env文件中的敏感信息是否意外提交到git仓库的安全工具。它能帮助开发团队防止API密钥、密码等敏感数据泄露，对元宝产品经理在考虑AI应用安全防护和用户数据保护方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/knock-7": {
+    "title_clean": "Knock：Mac快捷键创建工具",
+    "summary": "Knock是一款Mac平台的应用，允许用户通过简单的点击操作创建自定义快捷键，提升工作效率。这款工具对产品经理有参考价值，因为它展示了如何通过简化复杂操作来优化用户体验，特别是在AI助手产品中实现快捷功能调用的设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/loqui-2": {
+    "title_clean": "Loqui：语音转文本输入工具",
+    "summary": "Loqui是一款Mac应用，可将用户语音实时转换为文本，支持在任何Mac应用中直接使用，提升文字输入效率，为AI助手产品提供语音输入功能参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pdf-accessibility-checker": {
+    "title_clean": "PDF Accessibility Checker by WebYes：PDF无障碍检测工具",
+    "summary": "WebYes推出免费的PDF无障碍性检测工具，可帮助用户发现PDF文档中的无障碍问题并提供修复指导。这对产品经理了解AI辅助文档无障碍检测场景有价值，可作为元宝在文档处理和辅助功能方面的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/minimax-4": {
+    "title_clean": "MiniMax M3.1 Flash：AI Agent 速度提升3倍成本降低70%",
+    "summary": "MiniMax发布M3.1 Flash模型，专为AI Agent设计，推理速度提升3倍，成本降低70%，这将显著降低Agent应用的开发和运营成本，提升响应速度，对AI Agent商业化具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tabsh": {
+    "title_clean": "tabsh：浏览器标签页中的AI Agent开发环境",
+    "summary": "tabsh是一款在浏览器标签页中运行的AI Agent开发环境，允许用户通过IDE界面与AI代理协作。产品经理可关注其轻量化AI工具集成方式，以及如何在浏览器环境中实现复杂AI功能交互。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/tata-commits-450-million-to-ai-superhighway-linking-hubs": {
+    "title_clean": "Tata Communications：投资4.5亿美元建设印度AI超级高速公路",
+    "summary": "Tata Communications宣布投资高达4.5亿美元，建设连接印度主要人工智能中心的长途光纤网络，旨在加强国家AI基础设施。这一举措将为印度AI产业提供更强大的网络支持，对关注AI基础设施建设的元宝产品经理具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-visby": {
+    "title_clean": "Visby CEO访谈：广告市场洞察与公司战略",
+    "summary": "Adsby B.V.首席执行官Berkay Yavuz接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略方向。这为元宝产品经理提供了广告行业视角和潜在合作机会参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-tekpro-ai": {
+    "title_clean": "Executive Interview: TekPro.Ai：AI企业服务市场洞察",
+    "summary": "TekPro.Ai首席技术官Fady E. Isshak接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。这为AI企业服务产品经理提供了行业视角和客户需求洞察，有助于理解企业级AI服务市场的竞争格局和发展方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-yourwell": {
+    "title_clean": "Yourwell：健康市场定位与客户需求访谈",
+    "summary": "Yourwell CEO David P. Ban接受CB Insights访谈，分享公司对健康市场的定义、客户需求的理解以及自身在市场中的定位。访谈内容对元宝产品经理了解健康领域AI服务的市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/ai-funding-angst-stands-in-way-of-return-to-highs-taking-stock": {
+    "title_clean": "AI融资忧虑阻碍市场重返高位：市场现状分析",
+    "summary": "人工智能融资成本引发的担忧情绪正成为市场重返新高的主要障碍。文章分析了当前市场对AI融资成本上升的担忧情绪，以及这种情绪如何影响市场表现，对产品经理了解AI行业资本环境与市场情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/palantir-s-fast-selling-170-windbreaker-shows-its-korea-appeal": {
+    "title_clean": "Palantir：数据分析公司推出热销风衣",
+    "summary": "Palantir Technologies在韩国市场推出170美元的风衣产品，该产品销量火爆。这表明这家以数据分析为主的公司正在探索多元化业务，拓展消费市场，为元宝产品经理提供了企业跨界消费品领域的参考案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/can-the-ai-boom-survive-a-margin-squeeze-video": {
+    "title_clean": "AI产业能否承受利润挤压？",
+    "summary": "本文探讨了AI产业面临的新经济问题：代币价格上升可能导致利润空间被压缩。专家分析了AI商业模式可持续性的挑战，对产品经理评估AI服务成本结构和盈利模式具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-swipe-left-ai": {
+    "title_clean": "CEO访谈：Swipe Left AI",
+    "summary": "Swipe Left AI CEO James Bockrath接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家AI企业，其市场策略和客户洞察对AI产品经理有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-test2deploy": {
+    "title_clean": "Test2Deploy CEO访谈：软件测试与部署市场洞察",
+    "summary": "Test2Deploy CEO Pankaj Kumar接受CB Insights采访，分享公司对市场定位、客户需求的理解以及业务策略。内容包含对软件测试与部署市场的定义和竞争格局分析，对产品经理了解企业级DevOps工具市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/food-delivery-firm-meituan-aims-1-billion-bond-sale-dim-sum-debt": {
+    "title_clean": "美团：计划通过离岸人民币债券融资10亿美元",
+    "summary": "中国外卖巨头美团计划通过离岸人民币债券融资约10亿美元，这是其最新融资举措。作为AI服务场景的重要参与者，美团的融资动向可能影响其在AI服务、多模态交互等领域的投入策略，对元宝产品经理了解AI服务场景商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-layerzero": {
+    "title_clean": "Executive Interview: LayerZero",
+    "summary": "LayerZero首席业务官Simon Baksy接受CB Insights采访，分享公司对市场的看法、客户需求定位以及公司战略方向。作为区块链跨链协议，其市场定位和客户洞察对元宝产品经理了解Web3领域企业级服务模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/africa-asia-infrastructure-fund-pidg-to-deploy-1-billion-yearly-pidg": {
+    "title_clean": "Africa-Asia Infrastructure Fund PIDG将每年部署10亿美元",
+    "summary": "Private Infrastructure Development Group计划在2023年至2030年间每年至少投资10亿美元，用于非洲和亚洲的基础设施项目，反映了投资者对基础设施领域配置的增加。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-typescope-2": {
+    "title_clean": "TypeScope CEO访谈：市场定位与客户需求分析",
+    "summary": "TypeScope CEO刘风云接受CB Insights采访，分享公司对市场的看法、客户需求分析以及企业定位。这为元宝产品经理提供了AI工具市场定位和客户需求洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/1OBDPj0giDYPoH55gXqvTA": {
+    "title_clean": "复旦NLP推出主动式助手A5：越用越懂你的AI助手",
+    "summary": "复旦大学自然语言处理实验室推出AI助手A5，主打解决AI失忆问题，能够通过持续交互学习用户偏好，提供越来越个性化的服务，并具备主动提供帮助的能力。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/eb8FGOK1GNDh8F5IibKKcg": {
+    "title_clean": "Muse：Meta的AI助手产品",
+    "summary": "Muse是Meta公司推出的AI助手产品，旨在帮助Meta在AI领域实现突破。该产品可能涉及AI助手或Agent功能，对Meta的产品战略和市场竞争具有重要意义，值得产品经理关注其功能定位和用户反馈。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

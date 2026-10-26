@@ -144829,5 +144829,452 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/mozy-walk-to-unlock-apps": {
+    "title_clean": "Mozy：手机应用拦截工具",
+    "summary": "Mozy是一款适用于Android和iOS平台的应用拦截工具，帮助用户管理手机应用使用情况，可能通过阻止特定应用访问来提升用户专注度或控制应用使用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ai-bridge": {
+    "title_clean": "AI Bridge：Mac端AI编程助手管理工具",
+    "summary": "AI Bridge是一款在Mac设备上管理各类AI编程助手的工具，帮助用户将不同的AI编程助手整合到各自适用的场景中，提升编程效率。产品经理可关注其AI工具整合与管理模式，为元宝的多场景AI助手部署提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/spacex-agrees-pay-40-billion-lease-chips-apollo": {
+    "title_clean": "SpaceX：向Apollo租赁AI芯片，价值400亿美元",
+    "summary": "SpaceX与Apollo Global Management关联企业达成协议，将支付400亿美元租赁AI芯片。这笔巨额交易反映了AI芯片在航天和AI领域的关键价值，对元宝产品经理了解AI基础设施成本与行业资源分配有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/microsoft-offers-buyouts-to-60-000-employees-video": {
+    "title_clean": "Microsoft将向6万名员工提供买断计划",
+    "summary": "微软正在为人工智能时代重组其劳动力，已向6万名员工提供买断计划，美国、加拿大、印度和英国的部分员工有资格参与。这反映了微软向AI业务转型的战略调整，对元宝产品经理了解科技巨头AI战略布局和人才结构调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jobmate-ai-3": {
+    "title_clean": "Jobmate AI：求职AI助手工具",
+    "summary": "Jobmate AI是一款求职AI助手，为用户提供全程求职过程的智能化支持，包括简历优化、面试准备和职位匹配等功能，旨在提升求职效率和成功率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-offers-buyouts-60-000-employees": {
+    "title_clean": "微软向6万名员工提供买断方案",
+    "summary": "微软宣布向约27%的员工提供自愿买断方案，旨在减少在AI开发与运营方面的投资支出。这一举措反映了微软在AI领域大规模投入下的成本结构调整策略，对AI产品经理了解科技巨头在AI商业化过程中的资源分配与战略调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-s-ipo-filing-what-investors-need-to-know": {
+    "title_clean": "Anthropic IPO文件要点：投资者需知的五件事",
+    "summary": "Anthropic提交IPO文件，揭示了公司财务状况、业务模式、风险因素等关键信息。这对元宝产品经理了解AI头部企业商业化路径、估值逻辑和行业趋势具有重要参考价值，特别是其订阅模式和AI服务商业化策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/avp": {
+    "title_clean": "AVP：AI编程代理的Git开源替代方案",
+    "summary": "AVP是一个开源项目，旨在为AI编程代理提供Git的替代方案。这可能改变AI代码管理的方式，对元宝在代码生成与版本管理方面的功能设计有参考价值，特别是对于AI Agent工具调用和代码管理场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-highlights-disruptions-to-tsmc-operations-as-a-risk": {
+    "title_clean": "Anthropic：台积电运营中断风险影响业务",
+    "summary": "Anthropic警告台积电运营中断可能影响其业务发展，成为多家强调芯片制造商重要性的科技公司之一。这反映了AI企业对供应链安全的关注，对元宝产品经理评估供应链风险和业务连续性规划有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/netflix-s-ouster-of-top-executives-capped-two-weeks-of-turmoil": {
+    "title_clean": "Netflix高管动荡：两周内多名高管被解雇",
+    "summary": "Netflix在两周内解雇了多名高管，包括内容主管Bela Bajaria等。这一系列人事变动反映了公司内部管理动荡，可能影响内容战略和业务方向，对了解大型科技公司高管变动对产品决策的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/tech-stock-rotation-healthy-jefferies-greenberg-says-video": {
+    "title_clean": "科技股轮动健康，Jefferies高管称AI基础设施支出正在分化",
+    "summary": "Jefferies科技、媒体和电信投资银行业务执行主席Jason Greenberg表示，随着AI基础设施支出的演变，市场正在区分赢家和输家，这种科技股轮动对行业健康发展是积极的信号。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-and-the-ai-spending-boom-video": {
+    "title_clean": "Anthropic与AI支出热潮",
+    "summary": "Jefferies科技投资银行主席Jason Greenberg表示，AI需求依然强劲，但市场正进入关键新阶段：投资者开始关注盈利能力而非仅关注增长。这对元宝产品经理了解AI行业投资趋势和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut": {
+    "title_clean": "Anthropic正式提交IPO申请",
+    "summary": "Anthropic正式提交IPO申请，显示收入快速增长但亏损扩大，企业采用率显著提升，并采用特殊治理结构以保持创始人控制权和AI安全承诺。这对元宝产品经理了解AI独角兽商业化路径和治理模式有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-flags-existential-risks-in-ipo-filing-video": {
+    "title_clean": "Anthropic：AI存在风险警告与IPO申请",
+    "summary": "Anthropic在IPO申请文件中警告其技术存在存在性风险，同时成为首家专注于开发最先进人工智能的公司。这对产品经理了解AI安全与商业化平衡的挑战，以及行业头部企业的战略方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/goldman-sachs-lead-anthropic-ipo": {
+    "title_clean": "高盛将主导Anthropic IPO",
+    "summary": "高盛银行已正式获得Anthropic首次公开募股(IPO)的主导承销商角色，这是继赢得SpaceX上市主导权后，高盛再次担任顶级科技公司IPO的主导银行。Anthropic作为OpenAI的主要竞争对手，其IPO动向对AI行业格局和估值具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/instagram-ramps-up-video-strategy-in-escalating-tiktok-youtube-rivalry": {
+    "title_clean": "Instagram加强视频战略应对TikTok和YouTube竞争",
+    "summary": "Instagram推出多种新的叙事格式，为进军电视领域做准备，同时加强在短视频领域与TikTok和YouTube的竞争。这对元宝产品经理在视频内容策略和平台竞争方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-publicly-files-s-1-planned-ipo": {
+    "title_clean": "Anthropic提交IPO申请文件",
+    "summary": "Anthropic公开提交了首次公开募股的初步招股说明书，首次披露了今年上半年的业务情况以及公司治理的新细节，为AI行业提供了重要商业参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-s-1-filing-offers-first-look-at-claude-maker-s-finances": {
+    "title_clean": "Anthropic提交IPO文件：Claude开发者的财务数据首次公开",
+    "summary": "Anthropic公司提交了备受期待的IPO文件，这是AI行业寻求资金支持发展的重要里程碑。文件首次公开了Claude开发者的财务状况，为行业提供了重要参考，对了解AI大模型公司的商业化和融资策略有重要价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/meta-plans-raise-95-billion-ai-equity-sales": {
+    "title_clean": "Meta计划通过股权融资筹集高达950亿美元用于AI发展",
+    "summary": "Meta宣布将通过股权销售寻求高达950亿美元的资金，以支持其AI发展计划，这是AI公司为数据中心扩张而进行的巨额融资的最新案例。这一融资规模反映了大型科技公司对AI基础设施的持续投入，对元宝产品经理了解行业资本动向和AI基础设施竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/stripes-ai-shopping-lead-puts-card-giants-edge": {
+    "title_clean": "Stripe引领AI购物支付：挑战信用卡巨头",
+    "summary": "Stripe在AI购物支付领域取得领先地位，其AI助手Instinct和Meta的Muse正在购物领域获得关注，这给传统信用卡巨头带来竞争压力，展示了AI支付场景的新商业机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/hsbc-s-kettner-turns-cautious-on-equities-for-now-video": {
+    "title_clean": "汇丰银行首席策略师建议暂时谨慎对待股票投资",
+    "summary": "汇丰银行首席多元资产策略师马克·凯特纳表示，当前债券和利率市场可能是更容易获利的投资选择，他解释了这一谨慎建议背后的因素。这对产品经理了解金融行业投资趋势和用户资产配置需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-sora-wealth": {
+    "title_clean": "Sora Wealth CEO访谈：财富管理市场洞察",
+    "summary": "Sora Wealth CEO Finn Hefferon接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及财富管理行业的最新趋势和策略，为AI在金融服务领域的应用提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/apple-launches-699-water-resistant-ipad-mini-with-oled-screen": {
+    "title_clean": "Apple 推出搭载 OLED 屏幕的防水 iPad Mini，售价 699 美元",
+    "summary": "Apple 发布新款 iPad Mini，配备 OLED 显示屏、防水设计和更快的芯片，售价 699 美元。这是苹果产品线的重要更新，对 AI 助手类产品在硬件适配和交互体验方面有参考价值，尤其是多模态交互场景下的设备支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/meta-seeks-up-to-95-billion-in-equity-to-fund-ai-spending": {
+    "title_clean": "Meta寻求950亿美元股权融资支持AI发展",
+    "summary": "Meta计划通过发行普通股和优先股筹集高达950亿美元资金，用于支持其人工智能发展，这可能是史上规模最大的股权融资之一。对产品经理而言，这反映了科技巨头在AI领域的巨额投入竞争态势，可能预示着AI基础设施和算力成本的市场变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/verizon-raises-2026-forecast-after-big-jump-in-phone-customers": {
+    "title_clean": "Verizon：电信客户增长强劲但竞争担忧持续",
+    "summary": "Verizon报告五年来最强劲的无线客户增长表现，第三季度新增客户数量超出分析师预期一倍以上，但同时面临竞争加剧的担忧。这对元宝产品经理了解电信行业客户获取策略和竞争格局变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic": {
+    "title_clean": "加州初创企业2026年融资额创历史新高",
+    "summary": "加州初创企业2026年已获得超过美国全年四分之三的创业融资，创下历史新高。这一数据表明硅谷在AI和科技领域的资本集中度持续提升，对元宝产品经理了解行业资本流向和区域竞争格局有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/startups/personal-exposure-securities-fraud-joonko-jeziorski-founder-shield": {
+    "title_clean": "Joonko创始人认罪事件：虚假宣传对创始人的法律风险",
+    "summary": "Joonko创始人因虚假宣传客户、收入和AI能力面临证券欺诈指控，这警示AI创业公司创始人需谨慎对待商业宣传，D&O保险对故意不当行为的保护有限，对AI产品经理有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/eqt-to-buy-range-resources-in-an-all-stock-transaction": {
+    "title_clean": "EQT收购Range Resources，创造美国最大天然气生产商",
+    "summary": "EQT公司以全股票方式约128亿美元收购页岩钻探公司Range Resources，合并后将创造美国最大的天然气生产商。这一行业整合可能影响能源市场格局，但对AI产品经理的直接参考价值有限。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-theia-sense": {
+    "title_clean": "Theia Sense：AI市场洞察与客户需求分析平台",
+    "summary": "Theia Sense CEO Alberto Rovera接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。这为元宝产品经理提供了AI市场定位和客户需求洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-tvarly": {
+    "title_clean": "Executive Interview: Tvarly",
+    "summary": "Tvarly首席增长官接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。作为一家AI工具公司，其高管观点对理解AI服务市场趋势和客户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-vvs-technologies": {
+    "title_clean": "Executive Interview: VVS Technologies",
+    "summary": "VVS Technologies首席技术官Dror Dunsky接受CB Insights采访，分享公司对市场的看法、客户需求以及公司定位。该访谈提供了企业级技术服务提供商的市场洞察和战略思考，对元宝产品经理了解企业服务市场趋势和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-sohaara": {
+    "title_clean": "sohaara CEO访谈：市场定位与客户需求分析",
+    "summary": "sohaara CEO Khadija Khartit接受CB Insights采访，分享公司市场定位、客户需求分析及业务发展策略。该访谈为AI服务领域的产品经理提供了关于市场洞察和客户需求的重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-the-present-company": {
+    "title_clean": "CEO访谈：The Present Company",
+    "summary": "The Present Company CEO Jeanette Ponder接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。这对元宝产品经理了解新兴AI服务公司的市场洞察和产品定位有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-papaya": {
+    "title_clean": "CEO Interview: Papaya",
+    "summary": "Papaya CEO Macy Nicole Berg Mody接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。作为AI产品领域的CEO访谈，为元宝产品经理提供了行业视角和竞争参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vector-foundry": {
+    "title_clean": "Vector Foundry CEO访谈：市场定位与客户需求分析",
+    "summary": "Vector Foundry CEO Houston Slatton接受CB Insights采访，分享了公司对市场的定义、客户需求的理解以及公司定位。作为AI领域企业，其市场观点和客户洞察对元宝产品经理了解行业趋势和用户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vecinapp": {
+    "title_clean": "Vecinapp：社区管理平台CEO访谈",
+    "summary": "Vecinapp CEO Sergio Ríos Giraldo接受CB Insights采访，分享了公司对市场定位、客户需求的看法。作为社区管理平台，其观点对理解本地化服务场景和社区类AI产品方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-wisebrent-technology": {
+    "title_clean": "Wisebrent Technology CEO访谈：市场定位与客户需求分析",
+    "summary": "Wisebrent Technology创始人兼CEO Javier Alexander Bremont Moreno接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。该访谈为元宝产品经理提供了AI行业新兴企业的市场视角和客户洞察，有助于了解行业新兴趋势和竞争格局。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
   }
 }

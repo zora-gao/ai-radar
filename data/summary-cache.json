@@ -146537,5 +146537,556 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-anthropic-claim-cryptography-breakthrough-day": {
+    "title_clean": "OpenAI与Anthropic同日宣布密码学突破",
+    "summary": "OpenAI声称其模型颠覆了密码学基础理论，同时宣布在物理和数学领域取得两项突破。这一进展可能对AI安全与加密技术产生深远影响，值得产品经理关注AI在安全领域的应用潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/ai-s-game-changing-ipo-video": {
+    "title_clean": "Anthropic提交IPO申请：AI公司首次公开财务数据",
+    "summary": "Anthropic向美国证券交易委员会提交IPO申请，首次公开其财务数据，包括收入情况和资金用途。这对元宝产品经理具有重要参考价值，可了解AI独角兽的商业模式、盈利能力和资本运作策略，为产品商业化路径提供借鉴。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation": {
+    "title_clean": "Robotics Lab Physical Intelligence：AI机器人软件开发商寻求200亿美元估值",
+    "summary": "Physical Intelligence是一家开发AI软件以驱动机器人执行现实世界任务的初创公司，正在寻求融资，估值将接近200亿美元。这反映了AI机器人领域的高速发展和资本对物理智能技术的看好，对元宝产品经理了解AI服务场景扩展和商业化趋势有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/commure-acquisition-predictions": {
+    "title_clean": "Commure：医疗操作系统构建商收购建议",
+    "summary": "Commure是一家致力于构建医疗操作系统的公司，其自主编码产品已获得Epic Toolbox认证，旗下AI语音记录工具也已获此认证。该公司现提出6家值得收购的企业建议，以加速其医疗操作系统的发展，为医疗系统提供更完善的文档记录和任务分配功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/anduril-s-luckey-sees-arms-spending-stable-even-with-blue-wave": {
+    "title_clean": "Anduril创始人Luckey：即使民主党赢得中期选举，美国国防支出也将保持稳定",
+    "summary": "Anduril Industries创始人Palmer Luckey表示，即使民主党在下周中期选举中赢得国会控制权，他预计美国国防支出将大体保持稳定。这对国防科技企业如Anduril的业务连续性提供了积极信号，对产品经理了解政府科技预算稳定性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/builders-data-center-boost-fails-to-offset-weak-housing-market": {
+    "title_clean": "欧洲建筑商数据中心业务增长未能抵消住房市场疲软",
+    "summary": "欧洲建筑商虽受益于数据中心市场的繁荣，但这一增长不足以抵消住宅和工业建筑领域的持续疲软。这反映了AI基础设施与传统建筑市场的分化趋势，对元宝产品经理评估AI服务场景与实体经济的关联性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/cheaper-models-win-openai-enterprise": {
+    "title_clean": "OpenAI 试图以更低价模型挑战 Anthropic 企业市场优势",
+    "summary": "OpenAI 正尝试通过提供更低价、更灵活的服务来削弱 Anthropic 在企业市场的领先地位。这一竞争动态反映了 AI 企业市场策略的变化，对元宝产品经理了解企业级 AI 服务定价策略和市场竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies": {
+    "title_clean": "Disruptive：AI芯片与语音生成领域投资机构",
+    "summary": "Disruptive机构筹集100亿美元基金，计划投资至少10家公司，此前已投资芯片初创企业Groq和AI语音生成公司ElevenLabs。该动向显示AI基础设施和生成式语音技术领域获得资本高度关注，对元宝产品经理了解AI产业链投资热点和技术商业化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/bloomberg-tech-10-27-2026-video": {
+    "title_clean": "Meta将股权融资增至980亿美元，加大AI投资",
+    "summary": "Meta计划将股权融资增至980亿美元，这是史上最大规模的股权融资之一，公司正加大在人工智能领域的投资。同时，Anthropic的IPO可能成为行业重要测试点，反映了AI领域资本竞争的加剧。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-to-build-us-laptop-video": {
+    "title_clean": "Anduril与高通合作打造美国制造笔记本电脑BlueChip",
+    "summary": "国防科技初创公司Anduril与芯片制造商高通合作推出美国制造的笔记本电脑BlueChip，创始人Palmer Luckey解释了该项目对军事和关键基础设施领域的意义。这一合作展示了国防科技与消费电子技术的跨界融合，可能为元宝在安全相关AI应用场景提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/neocloud-selloff-is-overblown-says-crusoe-ceo-video": {
+    "title_clean": "Crusoe CEO称Neocloud抛售'过度反应'",
+    "summary": "Crusoe首席执行官Chase Lochmiller表示近期所谓的Neocloud股票抛售'过度反应'，并称竞争对手CoreWeave Inc.已达成'一些非常好的交易'。这反映了AI基础设施领域的市场波动与竞争格局变化，对产品经理了解AI云服务市场动态和竞争态势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/folding-iphone-hit-by-complaints-of-screen-cracking-video": {
+    "title_clean": "苹果折叠屏iPhone遭遇早期屏幕开裂投诉",
+    "summary": "苹果新发布的折叠屏iPhone Duo上市仅几天就面临屏幕开裂的早期投诉，这反映了折叠屏手机在耐用性方面可能存在的质量问题，对元宝产品经理评估折叠屏交互设计和用户痛点有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm3": {
+    "title_clean": "Build specialized multimodal models with LFM3：多模态模型构建工具",
+    "summary": "LFM3 是一个用于构建专业多模态模型的工具，可能支持整合文本、图像等多种数据类型。对于元宝产品经理而言，这代表了多模态AI技术的前沿发展，可能启发产品在跨模态交互能力上的升级方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/asm-lifts-2027-outlook-as-ai-buildout-fuels-demand-for-its-tools": {
+    "title_clean": "ASM International：AI芯片设备需求推动业绩增长",
+    "summary": "ASM International上调2027年营收预期24%，预计将提前三年达成2030年目标，主要受益于AI相关芯片设备销售激增。这反映了AI基础设施建设对半导体设备行业的显著拉动作用，对元宝产品经理评估AI硬件生态与供应链机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean": {
+    "title_clean": "前沿AI实验室称其模型推翻指数时间假设",
+    "summary": "OpenAI等前沿AI实验室的研究声称其模型推翻了计算复杂性理论中的指数时间假设，这一发现可能对AI计算能力和效率产生深远影响，值得产品经理关注AI基础理论突破对产品性能的潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/spacex-and-tesla-turn-to-boards-cozy-with-musk-to-mull-a-merger": {
+    "title_clean": "SpaceX与特斯拉考虑合并：双方董事会成立特别委员会评估",
+    "summary": "埃隆·马斯克披露，SpaceX和特斯拉的董事会已成立特别委员会，评估两家公司潜在合并的可能性。马斯克本人表示不会参与讨论，强调由特别委员会独立评估这一重大商业决策。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/starlink-brinkmanship-is-driving-allies-to-rethink-us-reliance": {
+    "title_clean": "Starlink限制引发盟友重新评估对美国依赖",
+    "summary": "欧洲官员正就减少对美国及美国国防承包商的依赖展开深入讨论，此前围绕乌克兰Starlink限制的责任争议引发了这一趋势。这一动态可能影响地缘政治格局和国际技术合作，对元宝产品经理评估国际服务部署和地缘风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-aisleoptix": {
+    "title_clean": "CEO访谈：AisleOptix",
+    "summary": "AisleOptix CEO接受CB Insights采访，分享其市场定位、客户需求及公司战略。作为一家AI视觉分析企业，其观点对理解计算机视觉在零售等领域的应用价值及市场格局有参考意义。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/oracle-to-offer-cerebras-systems-computers-in-ai-cloud-service": {
+    "title_clean": "Oracle 将在云服务中提供 Cerebras 计算机",
+    "summary": "Oracle 将在其数据中心提供基于 Cerebras 系统计算机的云服务，这是这家新兴挑战者为对抗英伟达在 AI 硬件领域主导地位而获得的又一个大客户。这对元宝产品经理了解 AI 硬件供应链变化和云服务提供商的 AI 战略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/can-ai-help-ray-kurzweil-cheat-death": {
+    "title_clean": "AI能否帮助雷·库兹韦尔延缓衰老",
+    "summary": "雷·库兹韦尔作为知名未来学家，78岁的他正思考如何利用AI技术延缓衰老甚至实现永生。这反映了AI在健康长寿领域的应用潜力，对元宝产品经理探索AI在健康服务场景的应用方向具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/apple-launches-m6-imac-entry-macbook-pro-ahead-of-touch-laptop": {
+    "title_clean": "Apple推出M6 iMac和入门级MacBook Pro",
+    "summary": "Apple发布了24英寸M6 iMac和14英寸入门级MacBook Pro，标志着其电脑产品线的全面更新。这两款产品更新对元宝产品经理有一定参考价值，特别是关注AI硬件适配和性能优化的团队，可以了解最新苹果设备的计算能力变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-crediblex": {
+    "title_clean": "Executive Interview: CredibleX",
+    "summary": "CredibleX首席产品官Hassan Reda接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了AI产品在市场定位和客户需求理解方面的行业视角，对产品经理了解AI产品市场策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push": {
+    "title_clean": "Crunchbase数据显示：2026年Q3机器人初创企业融资激增185%，中美引领物理AI发展",
+    "summary": "Crunchbase数据显示，2026年第三季度机器人初创企业融资额同比增长185%，主要投资流向中国和美国企业。这反映了物理AI领域的快速发展，特别是机器人技术作为AI落地实体场景的重要方向，对元宝产品经理评估AI在物理世界的应用机会和投资趋势具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-ipo-filing-reveals-417-billion-in-future-ai-spending": {
+    "title_clean": "Anthropic提交IPO文件，计划未来AI支出达4170亿美元",
+    "summary": "Anthropic提交了历史性最大规模IPO之一，文件显示其计划未来在AI领域投入4170亿美元。这一巨额支出反映了AI基础设施竞争的激烈程度，对元宝产品经理评估行业资本动向和竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-tubanc": {
+    "title_clean": "CEO Interview: TuBanc",
+    "summary": "TuBanc CEO Maria Andrea Espinosa Montes接受CB Insights采访，分享了公司对市场的看法、客户需求理解以及公司定位。作为一家金融科技公司的CEO访谈，可能包含对AI在金融服务领域应用的市场洞察和产品策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-caplyzer": {
+    "title_clean": "CEO Interview: Caplyzer",
+    "summary": "Caplyzer CEO Rutvika Acharya Olofsson接受CB Insights采访，分享公司对市场的看法、客户需求分析及公司定位。作为AI领域企业高管的访谈，为元宝产品经理提供了行业视角和商业策略参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/memory-stocks-lost-their-mojo-and-strong-earnings-aren-t-helping": {
+    "title_clean": "存储芯片股失去市场吸引力，强劲业绩未能提振股价",
+    "summary": "存储芯片巨头如SanDisk、美光科技、西部数据等在上半年曾是股市赢家，但近期即使业绩表现强劲，股价仍持续下跌。这反映了存储芯片市场供需关系变化，对AI硬件供应链和成本结构有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vouch-2": {
+    "title_clean": "Vouch CEO访谈：市场定位与客户需求分析",
+    "summary": "Vouch CEO Travis Hedge接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。这对元宝产品经理了解AI服务类企业的市场策略和客户洞察有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-finanjo": {
+    "title_clean": "Finanjo CEO访谈：金融科技市场洞察",
+    "summary": "Finanjo CEO接受CB Insights采访，分享公司对市场定位、客户需求的理解。作为金融科技企业，其观点对元宝在金融服务场景的产品策略有参考价值，特别是AI助手如何切入金融咨询领域。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-trace-finance": {
+    "title_clean": "CEO访谈：Trace Finance",
+    "summary": "Trace Finance CEO Bernardo Brites接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身定位。该访谈提供了金融科技领域的市场洞察和公司战略视角，对元宝产品经理了解行业动态和商业模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-secondsight": {
+    "title_clean": "Executive Interview: SecondSight",
+    "summary": "SecondSight首席商业官Brack Coalson接受CB Insights采访，分享了公司对市场的看法、客户需求以及公司定位。作为一家AI视觉分析公司，其高管观点对理解企业级AI视觉解决方案市场趋势和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-kneu-health": {
+    "title_clean": "Executive Interview: Kneu Health",
+    "summary": "Kneu Health联合创始人兼首席医疗官Kinan Muhammed接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。这为AI医疗健康领域的产品经理提供了行业洞察和竞品参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/infineon-to-invest-1-1-billion-in-key-austrian-chip-factory": {
+    "title_clean": "英飞凌投资11亿欧元扩建奥地利芯片工厂",
+    "summary": "英飞凌宣布将在8年内投资11亿欧元扩建奥地利芯片工厂，押注于AI数据中心对节能半导体的不断增长需求。这一投资反映了AI硬件基础设施扩张趋势，对元宝产品经理了解AI产业链上游动态及算力需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-brings-mega-ipo-to-australia-s-ai-starved-retail-crowd": {
+    "title_clean": "Anthropic在澳大利亚直接面向散户投资者进行大规模IPO",
+    "summary": "Anthropic计划直接向澳大利亚散户投资者提供其大规模首次公开募股(IPO)的股份，为这个仍在经历高利率冲击的市场带来新的人工智能投资机会。此举反映了Anthropic对澳大利亚市场的重视，以及AI投资在全球范围内的扩展趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-gretchen-ai": {
+    "title_clean": "Gretchen AI：AI客服解决方案",
+    "summary": "Gretchen AI CEO Tim Polzehl接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及产品定位。该资讯提供了AI客服领域市场格局和产品策略的见解，对元宝产品经理了解AI客服解决方案的市场定位和客户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/oil-shock-ai-boom-asian-dollar-philippine-peso-korean-won-thai-baht-ringgit": {
+    "title_clean": "石油冲击与AI热潮加剧亚洲新兴货币分化",
+    "summary": "油价上涨与AI热潮正在扩大亚洲新兴货币市场的分化，导致大多数亚洲新兴货币贬值，而韩元等部分货币则获得支撑。这一经济现象对AI产业布局和区域市场策略具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/oracle-apps-in-chatgpt": {
+    "title_clean": "OpenAI与Oracle扩展合作：将商业应用和AI Agent引入ChatGPT",
+    "summary": "OpenAI与Oracle扩展合作，将商业应用和AI Agent集成到ChatGPT中，同时为Oracle的新产品提供支持。这一合作将增强ChatGPT的企业服务能力，并为Oracle的AI产品注入OpenAI的技术优势，对AI助手的企业应用场景拓展有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/iran-war-boosts-malaysian-data-center-appeal-sd-guthrie-says": {
+    "title_clean": "伊朗战争提升马来西亚数据中心吸引力",
+    "summary": "SD Guthrie公司表示，美伊战争爆发后，马来西亚预计将吸引更多数据中心投资兴趣，作为棕榈油巨头和马来西亚最大土地所有者，该公司看好马来西亚作为数据中心枢纽的前景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/w8eA5hM4E0Afynba_aO52g": {
+    "title_clean": "可可矩阵COCOMatrix：机器人边做边学模型",
+    "summary": "可可矩阵COCOMatrix发布CO01模型，采用言传身教的方式让机器人通过实践学习，这种边做边学的技术可能为AI Agent的自主学习能力提供新思路，对元宝产品在机器人交互和自主学习功能开发上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/H70r4m_1n5QDguXcd-l5Mg": {
+    "title_clean": "不用反向传播的Transformer预训练方法：Jeff Dean支持的新研究",
+    "summary": "该研究提出了一种不依赖反向传播的Transformer预训练方法，由Jeff Dean支持。这项技术突破可能改变AI模型训练的基础范式，为更高效的模型训练提供新思路，对产品经理评估未来AI技术发展方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/oG47-1IvLLzu0y4B8Q0rNA": {
+    "title_clean": "清华提出ParallelWorld：机器人平行世界预演系统",
+    "summary": "清华大学提出ParallelWorld系统，让机器人在虚拟平行世界中预先测试和优化行动方案，再在现实世界中执行。这一技术可提高机器人决策的安全性和效率，对AI助手和Agent的物理交互能力有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo": {
+    "title_clean": "SpaceX：获得40亿美元GPU融资支持AI扩张",
+    "summary": "SpaceX与Apollo达成40亿美元GPU融资协议，为其快速扩张的AI野心提供资金支持，减少对传统债务市场的依赖。这笔交易反映了AI基础设施投资热潮，对元宝产品经理评估AI硬件资源获取和融资策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft": {
+    "title_clean": "Anthropic 依赖谷歌、亚马逊和微软扩大AI技术销售",
+    "summary": "Anthropic PBC正日益依赖谷歌、亚马逊和微软三大科技巨头销售其人工智能技术，尽管这三家公司同时也是其竞争对手。这种依赖关系反映了AI行业生态的复杂性和合作竞争并存的市场格局，对元宝产品经理评估AI服务商业化路径和合作伙伴策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/chatgpt-expanding-world-of-work": {
+    "title_clean": "ChatGPT：职场应用数据分析报告",
+    "summary": "OpenAI发布Signal数据，分析了近100个国家165项工作活动中ChatGPT的使用情况及随时间变化趋势，揭示了AI助手在职场中的实际应用场景和用户行为模式，为产品经理了解用户需求提供数据支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/anima": {
+    "title_clean": "Anima：AI医疗呼叫等待减少75%工具",
+    "summary": "Anima利用OpenAI的GPT-6和GPT-Live模型，帮助医疗机构将患者呼叫等待时间减少75%，提升医护团队响应患者的能力。这展示了AI在医疗客服场景的应用价值，对元宝在服务场景拓展和AI能力应用有参考意义。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
   }
 }

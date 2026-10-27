@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:51:13.313Z",
+  "generated_at": "2026-10-27T20:32:10.842Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -293,6 +293,30 @@
       "supports_reasoning": true,
       "description": "Mercury 3 is a diffusion-based language model from Inception, and the lab's most capable model to date. It is suited for agentic workflows and real-time applications where latency compounds, such...",
       "description_zh": "Mercury 3 是 Inception 推出的基于扩散的语言模型，也是该实验室迄今为止功能最强大的模型。它适用于延迟复杂的代理工作流程和实时应用程序，例如..."
+    },
+    {
+      "id": "prism-ml/ternary-bonsai-2-9b",
+      "name": "Ternary Bonsai 2 9B",
+      "vendor": "Prism Ml",
+      "vendor_slug": "prism-ml",
+      "url": "https://openrouter.ai/prism-ml/ternary-bonsai-2-9b-20261015",
+      "created_at": "2026-10-16T06:09:55Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.08,
+      "price_out": 0.13,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ternary Bonsai 2 9B is PrismML’s compact, open-weight language model for conversational AI, reasoning, and tool use. Built on Qwen3.5, it uses ternary weights packed into 2 bits for efficient...",
+      "description_zh": null
     },
     {
       "id": "moondream/moondream3-preview",
@@ -1458,32 +1482,6 @@
       "supports_reasoning": true,
       "description": "MiMo-V2.6-Pro-UltraSpeed is the fast speed edition of Xiaomi's flagship foundation model, MiMo-V2.6-Pro. Built from the same 1T MiMo-V2.6-Pro checkpoint, it matches the original model in quality while delivering roughly 10x...",
       "description_zh": "MiMo-V2.6-Pro-UltraSpeed是小米旗舰基础机型MiMo-V2.6-Pro的极速版。它采用相同的 1T MiMo-V2.6-Pro 检查点构建，在质量上与原始型号相匹配，同时提供大约 10 倍的性能..."
-    },
-    {
-      "id": "xiaomi/mimo-v2.6-flash",
-      "name": "MiMo-V2.6-Flash",
-      "vendor": "Xiaomi",
-      "vendor_slug": "xiaomi",
-      "url": "https://openrouter.ai/xiaomi/mimo-v2.6-flash-20260921",
-      "created_at": "2026-09-21T20:07:44Z",
-      "context_length": 1050000,
-      "modality": "text+image+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.14,
-      "price_out": 0.28,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "MiMo-V2.6-Flash is an open-source foundation model developed by Xiaomi. Built on a Mixture-of-Experts architecture with 309B total parameters and 15B activated per token, it employs a hybrid attention mechanism for...",
-      "description_zh": "MiMo-V2.6-Flash是小米公司开发的开源基础模型。它建立在专家混合架构上，总参数为 309B，每个代币激活 15B，它采用混合注意力机制......"
     }
   ]
 }

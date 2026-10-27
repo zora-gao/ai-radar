@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-10-26T22:21:11.792Z",
+  "generated_at": "2026-10-27T03:26:46.022Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "openai/gpt-6.1-terra-pro",
+      "name": "GPT-6.1 Terra Pro",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.1-terra-pro-20261026",
+      "created_at": "2026-10-26T18:15:56Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.1 Terra Pro is the same underlying model as GPT-6.1 Terra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
+    },
+    {
+      "id": "openai/gpt-6.1-terra-pro:batch",
+      "name": "GPT-6.1 Terra Pro (batch)",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.1-terra-pro-20261026",
+      "created_at": "2026-10-26T18:15:56Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.5,
+      "price_out": 2.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.1 Terra Pro is the same underlying model as GPT-6.1 Terra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
+    },
     {
       "id": "openai/gpt-6.1-terra",
       "name": "GPT-6.1 Terra",
@@ -142,8 +192,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.3,
+      "price_out": 1.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1380,8 +1430,8 @@
       "is_free": false,
       "supports_tools": false,
       "supports_reasoning": false,
-      "description": "Switchyard is an open-source model router that switches between multiple models to optimize the cost of requests. By default it will use OpenRouter market data to select the most popular...",
-      "description_zh": "Switchyard 是一个开源模型路由器，可以在多个模型之间切换以优化请求的成本。默认情况下，它将使用 OpenRouter 市场数据来选择最流行的..."
+      "description": "Switchyard is an open-source model routing system that switches between multiple models to optimize the cost of requests. By default it will use OpenRouter market data to select the most...",
+      "description_zh": null
     },
     {
       "id": "xiaomi/mimo-v2.6-pro-ultraspeed",
@@ -1434,57 +1484,6 @@
       "supports_reasoning": true,
       "description": "MiMo-V2.6-Flash is an open-source foundation model developed by Xiaomi. Built on a Mixture-of-Experts architecture with 309B total parameters and 15B activated per token, it employs a hybrid attention mechanism for...",
       "description_zh": "MiMo-V2.6-Flash是小米公司开发的开源基础模型。它建立在专家混合架构上，总参数为 309B，每个代币激活 15B，它采用混合注意力机制......"
-    },
-    {
-      "id": "xiaomi/mimo-v2.6-pro",
-      "name": "MiMo-V2.6-Pro",
-      "vendor": "Xiaomi",
-      "vendor_slug": "xiaomi",
-      "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro-20260921",
-      "created_at": "2026-09-21T20:07:39Z",
-      "context_length": 1050000,
-      "modality": "text+image+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.435,
-      "price_out": 0.87,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "MiMo-V2.6-Pro is the flagship foundation model developed by Xiaomi. Built at a scale of over 1T parameters, it is designed to push the ceiling of capability for the most demanding...",
-      "description_zh": "MiMo-V2.6-Pro是小米自研的旗舰基础机型。它以超过 1T 参数的规模构建，旨在突破最苛刻的能力上限......"
-    },
-    {
-      "id": "x-ai/grok-4.7",
-      "name": "Grok 4.7",
-      "vendor": "xAI",
-      "vendor_slug": "x-ai",
-      "url": "https://openrouter.ai/x-ai/grok-4.7-20260916",
-      "created_at": "2026-09-21T16:19:01Z",
-      "context_length": 500000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Grok 4.7 is SpaceXAI's flagship model for coding, agentic tasks, and knowledge work, succeeding Grok 4.6. It is particularly strong at long-running software engineering tasks, verifying its own work, and...",
-      "description_zh": "Grok 4.7 是 SpaceXAI 继 Grok 4.6 后，用于编码、代理任务和知识工作的旗舰模型。它在长期运行的软件工程任务、验证自己的工作以及......"
     }
   ]
 }

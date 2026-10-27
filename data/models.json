@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T03:26:46.022Z",
+  "generated_at": "2026-10-27T09:32:38.103Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -26,7 +26,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.1 Terra Pro is the same underlying model as GPT-6.1 Terra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6.1 Terra Pro 与 GPT-6.1 Terra 的底层模型相同，将 Reasoning.mode 设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6.1-terra-pro:batch",
@@ -51,7 +51,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.1 Terra Pro is the same underlying model as GPT-6.1 Terra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6.1 Terra Pro 与 GPT-6.1 Terra 的底层模型相同，将 Reasoning.mode 设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6.1-terra",
@@ -1431,7 +1431,7 @@
       "supports_tools": false,
       "supports_reasoning": false,
       "description": "Switchyard is an open-source model routing system that switches between multiple models to optimize the cost of requests. By default it will use OpenRouter market data to select the most...",
-      "description_zh": null
+      "description_zh": "Switchyard 是一个开源模型路由系统，可以在多个模型之间切换以优化请求成本。默认情况下，它将使用 OpenRouter 市场数据来选择最..."
     },
     {
       "id": "xiaomi/mimo-v2.6-pro-ultraspeed",

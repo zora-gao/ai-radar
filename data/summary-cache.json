@@ -145796,5 +145796,486 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/pulsedev": {
+    "title_clean": "PulseDev：AI UI错误修复工具",
+    "summary": "PulseDev是一款AI工具，允许用户在本地开发环境中点击任何UI错误，AI代理会自动修复这些问题。这为产品经理提供了AI在开发辅助和自动化错误修复方面的应用思路，可能提升开发效率和用户体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fswitcher": {
+    "title_clean": "fswitcher：Mac系统任务切换工具",
+    "summary": "fswitcher是一款Mac应用，替代系统自带的Command-Tab功能，提供更高效的应用程序切换体验。对于元宝产品经理而言，这反映了桌面端任务切换场景的优化需求，可作为AI助手在多任务处理场景下的交互参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bluetooth-snes-controller": {
+    "title_clean": "Arcade Controller Pro：无摇杆带屏幕的格斗控制器",
+    "summary": "这是一款创新的格斗游戏控制器，没有传统摇杆设计，配备了独立屏幕，可能提供更直观的游戏控制体验。对游戏类AI助手或AI Agent产品经理有参考价值，特别是在创新交互方式和游戏场景应用方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openradview": {
+    "title_clean": "OpenRadView：开源医学影像查看工具",
+    "summary": "OpenRadView是一款免费开源的医学影像查看工具，支持用户查看自己的CT、MRI和X光等医学影像。这款工具对产品经理有参考价值，因为它展示了AI在医疗影像领域的应用场景，可能启发元宝在医疗健康领域的功能拓展或与医疗服务的整合可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/off-grid-ai": {
+    "title_clean": "Off Grid AI：本地隐私AI助手",
+    "summary": "Off Grid AI是一款可在手机和电脑上运行的本地隐私AI助手，强调数据本地处理，不依赖云端服务，为用户提供隐私保护的人工智能体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/revix-ai-2": {
+    "title_clean": "Revix AI：代码审查AI工具",
+    "summary": "Revix AI是一款代码审查工具，能够学习代码库的特定规则并提供智能审查。它可以帮助产品经理了解AI在代码质量保障领域的应用，特别是如何让AI适应特定项目的技术规范和编码标准，这对元宝在技术辅助类功能扩展上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/spacesheep": {
+    "title_clean": "Spacesheep：AI团队协作文档工具",
+    "summary": "Spacesheep是一款AI驱动的团队协作文档工具，由AI生成内容，供团队成员共同阅读和编辑。该产品解决了团队协作中内容创建和共享的需求，为产品经理提供了AI在文档协作领域的新应用场景参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/coachare": {
+    "title_clean": "Coachare：个人潜能开发工具",
+    "summary": "Coachare是一款专注于帮助用户解锁个人潜能的工具，通过AI技术提供个性化的成长指导。产品经理可关注其如何将潜能开发与AI助手结合，探索元宝在用户自我提升场景的应用可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/jpmorgan-private-bank-on-how-to-balance-ai-exposure-video": {
+    "title_clean": "摩根大通私人银行：如何平衡AI投资风险",
+    "summary": "摩根大通私人银行投资策略师Madison Faller在彭博电视节目中表示，投资者可以通过优质信贷和实物资产来平衡AI投资风险。这为AI投资风险管理提供了金融机构视角，对元宝产品经理了解AI投资策略和风险管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-wh-financial-services": {
+    "title_clean": "WH Financial Services CEO访谈：金融服务市场洞察",
+    "summary": "WH Financial Services首席执行官Andres Cruz Alvarez接受CB Insights采访，分享公司对市场定位、客户需求的理解以及业务策略。该访谈为金融科技领域的市场趋势和客户需求提供了高管视角，对元宝在金融服务场景的产品规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-invests-3-billion-meta-deeper-ai-partnership": {
+    "title_clean": "Nvidia投资30亿美元深化与Meta的AI合作",
+    "summary": "Nvidia将向Meta Platforms投资30亿美元，双方扩大技术合作以优化Meta的Muse个人代理应用性能并共同构建AI基础设施。这笔投资反映了AI巨头间战略联盟的重要性，对元宝产品经理评估AI Agent技术合作模式与基础设施布局有参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/how-xds-datacentres-cools-its-chips-in-saudi-arabia-video": {
+    "title_clean": "XDS Datacentres：沙特阿拉伯数据中心芯片冷却方案",
+    "summary": "XDS Datacentres首席战略官Ikaraam Ullah在BloombergNEF伦敦峰会上分享了如何在沙特阿拉伯高温环境下保持数据中心芯片冷却的技术方案，对元宝产品经理了解AI基础设施在极端环境下的运维挑战有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-dasi-simulations": {
+    "title_clean": "DASI Simulations CEO访谈：市场定位与客户需求分析",
+    "summary": "DASI Simulations CEO Teri Anderson-Sirset接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。内容涵盖市场定义和公司战略方向，对了解企业级模拟软件市场动态和客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-finology-software": {
+    "title_clean": "Finology Software CEO访谈：金融科技市场定位与客户需求",
+    "summary": "Finology Software CEO Alexander Jeffrey Bottom接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身定位。访谈内容对金融科技产品经理了解行业趋势和客户痛点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nuplay": {
+    "title_clean": "NuPlay：AI自我改进平台",
+    "summary": "NuPlay是一个AI转型平台，能够在一个自我改进的平台上运行。该平台可能专注于AI模型的持续学习和优化，为产品经理提供了关于AI系统自我迭代能力的参考价值，特别是在构建长期进化的AI助手产品方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-koxa": {
+    "title_clean": "CEO Interview: Koxa",
+    "summary": "Koxa CEO Conner T. Mulvee接受CB Insights采访，分享公司对市场的看法、客户需求分析及公司定位。作为AI领域企业高管的访谈，为元宝产品经理提供了行业视角和战略参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-lama-ai": {
+    "title_clean": "Lama AI CEO访谈：市场定位与客户需求",
+    "summary": "Lama AI CEO Omri Yacubovich接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。这对元宝产品经理了解新兴AI公司的市场策略和客户洞察有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/how-eskom-turned-south-africa-s-power-around-video": {
+    "title_clean": "南非电力公司Eskom扭转电力短缺局面",
+    "summary": "南非国家电力公司Eskom在经历多年严重停电后，实现运营盈余，维持3至5吉瓦的过剩发电容量。这一转变对AI助手产品经理有参考价值，展示了如何通过技术和管理创新解决能源危机，可能启发AI在能源管理、危机应对和公共服务优化方面的应用场景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/what-anthropic-s-ipo-means-for-the-ai-trade-video": {
+    "title_clean": "Anthropic IPO：AI创企史上最大规模上市",
+    "summary": "Anthropic计划在纳斯达克以ANT代码上市，预计将创下史上最大规模IPO融资纪录。这一事件可能对AI行业格局产生重大影响，为AI助手领域带来新的市场信号和商业化参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-cba-commonwealth-bank-of-australia-multi-billion-windfall": {
+    "title_clean": "Anthropic IPO：澳大利亚联邦银行或获数十亿美元收益",
+    "summary": "Anthropic的IPO可能使澳大利亚联邦银行兑现其在一年前投资这家AI初创公司时获得的股份，预计将获得数十亿美元的回报。这反映了AI领域投资的高回报潜力，以及大型金融机构对AI公司的战略布局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-27/ai-fund-a-fiscal-dam-says-south-korea-budget-minister-video": {
+    "title_clean": "韩国预算部长提议设立'财政缓冲基金'",
+    "summary": "韩国预算部长Park Hong Keun在与彭博社的独家采访中表示，将由半导体税收驱动的资金将作为'财政缓冲基金'，以应对经济波动。这一政策动向对AI芯片产业和政府AI投资策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-s-ipo-sets-up-defining-moment-for-wall-street-and-ai-boom": {
+    "title_clean": "Anthropic IPO：AI巨头上市揭示行业增长与需求不确定性",
+    "summary": "Anthropic公司上市展现了AI行业爆炸式增长与需求不确定性并存的现状，揭示了AI商业模式面临的挑战。这对产品经理评估AI商业化路径和用户付费意愿具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-spacex-meta-cash-grabs": {
+    "title_clean": "Anthropic、SpaceX和Meta大举布局AI领域",
+    "summary": "Anthropic、SpaceX和Meta三大科技巨头近期在AI领域密集布局，显示行业头部企业正加速抢占AI市场空间，这可能预示着AI领域将迎来新一轮竞争加剧和资源整合。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-s-1-highlights-rising-payment-costs": {
+    "title_clean": "Anthropic：支付处理费用大幅上升",
+    "summary": "Anthropic报告称，今年上半年支付处理费用同比增加2.22亿美元，凸显了AI相关交易处理成本的显著上升。这对AI服务提供商的成本结构和定价策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/spain-eases-data-center-energy-rules-in-win-for-big-tech": {
+    "title_clean": "西班牙放宽数据中心能源规定，科技巨头受益",
+    "summary": "西班牙政府放宽数据中心能源使用规定，并给予更多适应新框架的时间，此前的提案曾遭遇行业强烈反对。这一政策变化可能影响元宝等AI服务的成本结构和部署策略，值得关注欧洲地区AI基础设施政策动向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/airtrunk-secures-3-billion-green-loan-for-sydney-data-center": {
+    "title_clean": "AirTrunk：悉尼数据中心获得30亿美元绿色贷款",
+    "summary": "AirTrunk获得42.5亿澳元（30亿美元）绿色贷款，用于开发悉尼数据中心园区。这表明尽管近期数据中心行业面临多重挑战，但投资者对该领域仍保持信心，对AI基础设施发展具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/valueedge-s-minow-on-anthropic-s-share-class-structure-video": {
+    "title_clean": "ValueEdge的Minow谈Anthropic的股权结构",
+    "summary": "Anthropic的IPO文件披露了一种治理结构，七位联合创始人通过F类股份控制约50.1%的关键事项投票权。ValueEdge主席Nell Minow对此发表评论，这对了解Anthropic的公司治理和决策机制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/netflix-hires-former-apple-executive-to-oversee-podcasts": {
+    "title_clean": "Netflix 聘请前苹果高管负责视频播客业务",
+    "summary": "Netflix聘请前苹果高管Steve Wilson负责其新兴的视频播客业务，表明公司正积极拓展这一领域。这对元宝产品经理有参考价值，显示流媒体平台正在探索音频内容与视频结合的新服务场景，可能启发AI助手在多媒体内容整合方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/instacart-to-wind-down-smart-cart-business-amid-sale-talks": {
+    "title_clean": "Instacart：智能购物车业务将终止",
+    "summary": "Instacart将停止向杂货商提供高科技购物车服务，这是该公司传出出售自身消息后首次宣布的战略调整。这一变化反映了Instacart在业务方向上的重新评估，对AI服务场景和商业化策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropics-s-1-takeaways-giant-compute-commitments-complex-lock-ups": {
+    "title_clean": "Anthropic S-1文件解读：从大规模算力投入到复杂锁定机制",
+    "summary": "Anthropic提交了IPO初步招股说明书，首次公开了今年上半年的业务细节和公司治理结构，展示了其在AI大模型领域的巨额算力投入和独特的股权锁定机制，为AI行业商业化路径提供了重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-flags-risks-to-humanity-in-ipo-filing-video": {
+    "title_clean": "Anthropic在IPO文件中警告技术对人类构成风险",
+    "summary": "Anthropic在IPO文件中警告其AI技术可能对人类构成多种风险，Bloomberg对此进行了分析。这对元宝产品经理了解AI安全风险与监管趋势有参考价值，特别是在产品安全设计和风险管控方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/spacex-agrees-to-40-billion-chip-financing-deal-with-apollo": {
+    "title_clean": "SpaceX与Apollo达成400亿美元芯片融资协议",
+    "summary": "SpaceX与Apollo Global Management签署了约400亿美元的设备融资租赁协议，用于支付其人工智能发展所需的芯片。这笔巨额融资反映了AI硬件领域的高投入需求，对AI产品经理评估算力成本和资源规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-kalepa": {
+    "title_clean": "Kalepa CEO访谈：市场定位与客户需求分析",
+    "summary": "Kalepa CEO Paul Monasterio接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在市场中的定位。这对产品经理了解AI服务企业的市场策略和客户洞察有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-instride-health": {
+    "title_clean": "Executive Interview: InStride Health：医疗健康市场策略访谈",
+    "summary": "InStride Health首席临床官Kathryn Boger接受CB Insights访谈，分享公司对医疗健康市场的定义、客户需求认知及公司战略。内容包含市场定位分析和业务发展方向，对医疗AI服务场景拓展有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/fanatics-streamline-fan-experience": {
+    "title_clean": "Fanatics与OpenAI合作：AI购物助手提升球迷体验",
+    "summary": "Fanatics与OpenAI合作推出'Shop the Look'功能，帮助球迷搭配比赛日服装。在约3万件MLB产品测试中，用户参与度提升了10%，展示了AI在体育用品零售场景的应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/openai-cut-incident-investigation": {
+    "title_clean": "OpenAI使用Codex Ultrafast将事件调查时间从小时缩短至分钟",
+    "summary": "OpenAI工程师利用Codex Ultrafast工具将安全事件调查时间从小时级缩短至分钟级，同时加速代码重构和日常工作流程。该工具展示了AI在提升工程效率和响应速度方面的实际应用，对元宝产品经理在AI辅助工程和效率工具方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/japan-s-takaichi-to-hold-cybersecurity-meeting-as-attacks-grow": {
+    "title_clean": "日本将召开网络安全会议应对日益增长的网络攻击",
+    "summary": "日本政府宣布将召开部长级会议应对网络威胁，随着数据泄露事件增加暴露国家网络漏洞。这反映了网络安全威胁的全球性增长趋势，对元宝产品经理了解安全防护需求及AI在网络安全领域的应用场景有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/gharp-head-animation": {
+    "title_clean": "GHARP：基于大规模重建先验的实时头部高斯动画",
+    "summary": "GHARP是一种从少量输入图像和驱动表情实时生成3D头部动画的方法，利用大规模重建先验技术实现高效渲染，对AI助手多模态交互中的虚拟形象生成具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-26/sk-hynix-leveraged-funds-to-be-delisted-in-us-as-ai-rally-cools": {
+    "title_clean": "SK海力士杠杆基金在美国退市，AI热潮降温",
+    "summary": "SK海力士两只杠杆ETF基金在美国推出仅数月后即将清算，反映投资者对人工智能交易的热情正在降温。这一动向表明AI投资热潮可能正在降温，对AI硬件相关投资策略和产品经理评估AI市场热度具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
   }
 }

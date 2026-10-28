@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-10-28T15:07:14.143Z",
+  "generated_at": "2026-10-28T20:52:59.107Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "particle-ai/particle-1",
+      "name": "Particle-1",
+      "vendor": "Particle Ai",
+      "vendor_slug": "particle-ai",
+      "url": "https://openrouter.ai/particle-ai/particle-1-20261027",
+      "created_at": "2026-10-28T17:18:13Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.25,
+      "price_out": 1,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Particle-1 is a token-efficient agentic coding model from Particle AI, post-trained on DeepSeek V4.1 Flash. It is suited for software engineering work such as terminal workflows, codebase changes, and data...",
+      "description_zh": null
+    },
     {
       "id": "openai/gpt-6.1-terra-pro",
       "name": "GPT-6.1 Terra Pro",
@@ -316,7 +340,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Ternary Bonsai 2 9B is PrismML’s compact, open-weight language model for conversational AI, reasoning, and tool use. Built on Qwen3.5, it uses ternary weights packed into 2 bits for efficient...",
-      "description_zh": null
+      "description_zh": "Ternary Bonsai 2 9B 是 PrismML 的紧凑、开放权重语言模型，适用于对话式 AI、推理和工具使用。它基于 Qwen3.5 构建，使用打包成 2 位的三元权重来实现高效..."
     },
     {
       "id": "moondream/moondream3-preview",
@@ -1456,32 +1480,6 @@
       "supports_reasoning": false,
       "description": "Switchyard is an open-source model routing system that switches between multiple models to optimize the cost of requests. By default it will use OpenRouter market data to select the most...",
       "description_zh": "Switchyard 是一个开源模型路由系统，可以在多个模型之间切换以优化请求成本。默认情况下，它将使用 OpenRouter 市场数据来选择最..."
-    },
-    {
-      "id": "xiaomi/mimo-v2.6-pro-ultraspeed",
-      "name": "MiMo-V2.6-Pro-UltraSpeed",
-      "vendor": "Xiaomi",
-      "vendor_slug": "xiaomi",
-      "url": "https://openrouter.ai/xiaomi/mimo-v2.6-pro-ultraspeed-20260921",
-      "created_at": "2026-09-21T20:07:47Z",
-      "context_length": 1048576,
-      "modality": "text+image+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 4.35,
-      "price_out": 8.7,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "MiMo-V2.6-Pro-UltraSpeed is the fast speed edition of Xiaomi's flagship foundation model, MiMo-V2.6-Pro. Built from the same 1T MiMo-V2.6-Pro checkpoint, it matches the original model in quality while delivering roughly 10x...",
-      "description_zh": "MiMo-V2.6-Pro-UltraSpeed是小米旗舰基础机型MiMo-V2.6-Pro的极速版。它采用相同的 1T MiMo-V2.6-Pro 检查点构建，在质量上与原始型号相匹配，同时提供大约 10 倍的性能..."
     }
   ]
 }

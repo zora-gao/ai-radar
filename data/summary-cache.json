@@ -147773,5 +147773,502 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/our-silly-games": {
+    "title_clean": "Our Silly Games：Claude游戏开发工具",
+    "summary": "Our Silly Games提供基于Claude的游戏开发技能和免费多人游戏托管服务，帮助开发者快速构建多人游戏。这对元宝产品经理有参考价值，展示了AI在游戏开发领域的应用场景和工具化可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notikeep": {
+    "title_clean": "NotiKeep：iPhone通知历史记录工具",
+    "summary": "NotiKeep是一款iPhone应用，允许用户在设备上查看和管理通知历史记录。这款工具解决了iOS系统无法长期保存通知的问题，为需要追溯重要通知的用户提供了便利，对元宝产品经理在通知管理功能设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-1-5-pro": {
+    "title_clean": "Genie 4：AI 交互式世界生成工具",
+    "summary": "Genie 4 是一款能够将文本提示转化为可交互的虚拟世界的AI工具，用户可以在生成的世界中进行导航和互动。这种技术为AI助手提供了创造沉浸式体验的新思路，可能启发元宝在多模态交互和场景化服务方面的创新。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/boltbar": {
+    "title_clean": "Boltbar：Mac端Spotlight风格AI聊天工具",
+    "summary": "Boltbar是一款专为Mac设计的AI聊天工具，采用类似Spotlight的交互方式，为用户提供便捷的AI对话体验。这款产品可能对元宝产品经理在桌面端AI助手交互设计方面有参考价值，特别是如何将AI功能无缝集成到操作系统原生交互中。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/open-for-sales": {
+    "title_clean": "Open For sales：AI销售活动生成工具",
+    "summary": "这是一款AI销售活动生成工具，用户只需输入一个提示词即可创建完整的销售活动。该工具可能帮助产品经理了解AI在营销自动化领域的应用，为元宝在销售辅助功能方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yardlet-2": {
+    "title_clean": "Yardlet：Mac 端编程助手集成工具",
+    "summary": "Yardlet 是一款 Mac 应用程序，旨在集成用户已有的编程 AI 助手，提供统一的编程辅助体验。该工具可能帮助产品经理了解 AI 工具集成与多 Agent 协作的产品形态，对元宝在开发场景下的功能扩展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/airposture-2": {
+    "title_clean": "AirPosture：AirPods语音教练工具",
+    "summary": "AirPosture是一款在Mac上运行的应用，通过AirPods提供语音教练功能，帮助用户改善发音和口语表达。这款产品展示了AI语音技术在个人设备上的创新应用，为元宝产品经理在语音交互和个性化辅导方面提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dotverse": {
+    "title_clean": "Dotverse：AI助手协作工具",
+    "summary": "Dotverse推出团队协作功能，允许用户与AI助手组成团队共同完成任务。这一更新展示了AI助手从单一工具向协作伙伴的转变趋势，为元宝产品经理提供了AI助手协作模式的设计参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/trellis-4": {
+    "title_clean": "Trellis：macOS开发者工作区工具",
+    "summary": "Trellis是一款专为macOS开发者设计的原生工作区工具，超越了传统终端功能，为开发者提供更高效的工作环境。这款产品对元宝产品经理有参考价值，因为它展示了如何将AI能力与特定专业场景结合，可能启发元宝在垂直领域的工作区解决方案设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/throxy-yc-p25": {
+    "title_clean": "throxy：AI 销售线索语言转换工具",
+    "summary": "throxy 是一款YC P25孵化的AI工具，可将销售线索信息转化为目标客户偏好的语言风格，帮助销售团队提高转化率。该工具专注于销售场景的语言优化，为AI在商业服务中的应用提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tonko": {
+    "title_clean": "TONKO：儿童理财教育应用",
+    "summary": "TONKO是一款面向儿童的零花钱管理应用，旨在通过互动方式教导孩子理财知识。这款产品对元宝产品经理有参考价值，特别是在如何将AI技术应用于儿童教育场景，以及如何设计简单直观的财务教育工具方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/uk-links-data-center-grid-access-to-jobs-local-investment": {
+    "title_clean": "英国数据中心优先接入电网并获准自发电",
+    "summary": "英国新规为关键服务数据中心提供电网优先接入权，并允许其现场发电，旨在加速建设必要基础设施。这一政策变化可能影响AI服务提供商的能源获取和成本结构，对元宝在海外市场布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/foundry-raises-100-million-autonomous-factories": {
+    "title_clean": "Foundry：AI工厂自动化解决方案",
+    "summary": "Foundry获得1亿美元融资，专注于为大型企业提供AI工厂自动化解决方案。该公司强调企业需要重新思考流程而非简单自动化现有方式，以充分发挥AI代理的潜力。这对元宝产品经理了解AI在工业自动化领域的应用和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/amazon-lists-250-million-products-rival-sites-effort-battle-agents": {
+    "title_clean": "Amazon开放竞争对手商品数据以对抗AI购物助手",
+    "summary": "亚马逊开放2.5亿竞争对手商品数据，允许用户在其平台直接浏览和购买其他网站商品，此举旨在应对Meta等公司推出的AI购物助手竞争，反映电商巨头对AI购物助手的战略应对。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-s-tensions-with-trump-laid-bare-ahead-of-landmark-ipo": {
+    "title_clean": "Anthropic：AI安全倡导引发政治风险警告",
+    "summary": "Anthropic在IPO前警告投资者，其公开的AI安全倡导立场可能招致政府报复，凸显了AI公司面临的政治风险。这对元宝产品经理有参考价值，提示在产品安全策略与政治环境平衡上的考量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/drone-stocks-face-deeper-drop-as-midterm-blue-wave-risks-grow": {
+    "title_clean": "无人机股票面临进一步下跌风险",
+    "summary": "无人机制造商和供应商股票可能因美国中期选举可能出现蓝色浪潮而进一步下跌，投资者担忧这将挤压相关领域的资金支持。这一市场动向对元宝产品经理了解科技行业政策敏感性和投资风向变化具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/ai-capex-in-mid-cycle-boom-morgan-stanley-s-shalett-video": {
+    "title_clean": "摩根士丹利：AI资本支出处于中期增长周期",
+    "summary": "摩根士丹利首席投资官Lisa Shalett预计科技企业盈利增长将持续，但人工智能领域将出现瓶颈转移。这一观点对元宝产品经理了解AI行业投资趋势和资本流向有参考价值，有助于判断AI技术商业化进程和行业发展阶段。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/russia-adds-apple-and-microsoft-to-state-surveillance-registry": {
+    "title_clean": "俄罗斯将苹果和微软列入国家监控登记册",
+    "summary": "俄罗斯将苹果和微软列入国家监控登记册，要求这些公司保留用户通信数据并在安全部门请求时提供。这一政策变化可能影响国际科技公司在俄业务运营和数据合规策略，对元宝产品经理评估国际市场数据合规风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/moore-threads-sales-surge-nearly-1-800-on-ai-hardware-demand": {
+    "title_clean": "Moore Threads：AI芯片销售激增1774%",
+    "summary": "AI芯片制造商Moore Threads Technology报告称，截至9月的三个月内销售额增长1774%，主要受国内AI硬件需求加速推动。这一强劲增长反映了AI硬件市场的快速扩张，对元宝产品经理评估AI基础设施投资和算力资源获取具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/malaysian-authorities-seize-12-million-worth-ai-chips-smuggling-crackdown": {
+    "title_clean": "马来西亚当局破获价值1200万美元AI芯片走私案",
+    "summary": "马来西亚海关本月破获一起AI芯片走私案，查获价值约4950万林吉特（1211万美元）的高级AI芯片。该案件涉及一个犯罪团伙，涉嫌通过马来西亚主要国际机场转运这些芯片。此事件反映了AI芯片市场的旺盛需求和供应链安全风险，对元宝产品经理了解AI硬件供应链和合规风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/asm-i-s-ceo-to-hit-2030-target-3-years-early-video": {
+    "title_clean": "ASM International CEO 提前达成2030年目标",
+    "summary": "半导体设备制造商ASM International的CEO Hichem M'Saad在公司第三季度业绩后表示，公司将比原计划提前三年达成2030年目标。这一进展可能对AI芯片供应链和半导体行业产生重要影响，对元宝产品经理了解AI硬件基础设施发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/microsoft-and-alphabet-earnings-put-focus-on-ai-cash-flow-drain": {
+    "title_clean": "微软和Alphabet财报凸显AI现金消耗问题",
+    "summary": "微软和Alphabet财报显示，两家公司在AI领域的巨额投入正对现金流产生压力，导致华尔街对AI投资回报的担忧加剧。这对元宝产品经理评估AI商业化路径和成本控制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-mishipay": {
+    "title_clean": "Mishipay CEO访谈：零售支付解决方案市场洞察",
+    "summary": "Mishipay CEO Mustafa A. Khanwala接受CB Insights采访，分享公司对市场定位、客户需求的理解以及业务发展策略。作为零售支付解决方案提供商，其观点对元宝在服务场景拓展和商业化策略方面具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-bound": {
+    "title_clean": "Bound CEO访谈：市场定位与客户需求分析",
+    "summary": "Bound公司CEO Seth M. Phillips接受CB Insights采访，分享了公司对市场的看法、客户需求的理解以及自身定位。这对元宝产品经理了解AI服务企业的市场策略和客户洞察有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-kin-3": {
+    "title_clean": "Kin CEO访谈：市场定位与客户需求",
+    "summary": "Kin公司CEO Arpan Parikh接受CB Insights采访，阐述其市场定位、客户需求及公司战略。作为一家AI相关企业，其市场观点和客户洞察对元宝产品经理了解行业趋势和用户需求具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-mayflower-specialty": {
+    "title_clean": "Mayflower Specialty CEO访谈：市场定位与客户需求",
+    "summary": "Mayflower Specialty CEO Jeremy Epstein接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。访谈内容对了解企业级服务市场策略和客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/adyen-sales-beat-estimates-on-payments-growth-from-customers": {
+    "title_clean": "Adyen放弃2028年利润率目标，加大投资力度",
+    "summary": "荷兰支付公司Adyen取消了其中期利润率目标，尽管其第三季度收入增长超出预期。这一调整表明公司正在增加投资，可能影响其未来财务表现和战略方向，对支付行业和金融科技领域的竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/deutsche-bank-cfo-on-fixed-income-trading-ai-markets-video": {
+    "title_clean": "德意志银行CFO：固定收益交易业务表现稳健",
+    "summary": "德意志银行首席财务官Raja Akram在财报讨论中提到，尽管固定收益交易收入有所下降，但该业务整体表现稳健。他还谈及了AI热潮和市场前景，这对了解金融领域AI应用和银行交易业务趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-undermilli": {
+    "title_clean": "Undermilli CEO访谈：市场定位与客户需求",
+    "summary": "Undermilli CEO接受CB Insights采访，分享公司市场定位、客户需求分析及业务发展方向。作为AI产品领域的CEO访谈，提供了行业视角和产品策略思考，对元宝产品经理了解同类产品市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more": {
+    "title_clean": "Anthropic IPO：风投将获利数十亿，亚马逊收益将远超",
+    "summary": "Anthropic的IPO将使风投获利数十亿美元，但亚马逊作为最大股东将获得远超其他投资者的收益。大规模票据转换揭示了亚马逊在Anthropic中的实际所有权程度，这对AI行业投资格局和巨头竞争策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/nDUNXd7bJ63WgeP20ZQCQA": {
+    "title_clean": "ProactiveAl：多机构联合探索超级智能体路径",
+    "summary": "UIUC、谷歌、斯坦福、UC Berkeley等机构联合探讨ProactiveAl如何发展成超级智能体，涉及前沿AI研究方向，对产品经理了解AI智能体演进路径和未来发展方向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/nvidia-backed-firm-launches-3-1-billion-gpu-loan-into-market": {
+    "title_clean": "Nvidia支持的印尼AI平台Zankore推出31亿美元GPU贷款计划",
+    "summary": "印尼AI基础设施平台Zankore获得Nvidia支持，正在向市场提供31亿美元的GPU贷款，旨在扩大AI基础设施融资渠道。这一举措反映了AI算力需求激增背景下，硬件供应商与平台合作的新型商业模式，对元宝产品经理评估AI服务成本与算力获取策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone": {
+    "title_clean": "Muse：全球首个面向大众的个人AI助手在新加坡上线",
+    "summary": "Muse宣布在新加坡推出，这是全球首个面向大众设计的个人AI助手。该消息对产品经理有参考价值，表明AI助手市场正在向更广泛的用户群体扩展，特别是在亚洲市场的布局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/TvK0RqRsW5p6QriFk1K7Nw": {
+    "title_clean": "智源AREX-2：小模型长程反思技术突破",
+    "summary": "智源研究院推出AREX-2模型，仅用27B参数就实现了超越1.6T参数巨模型的长程推理能力，通过长程反思技术(RSI)开辟了新的推理路径，为AI模型效率优化提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast": {
+    "title_clean": "NXP半导体：汽车与工业芯片制造商营收预测不及预期",
+    "summary": "NXP半导体公司作为汽车和工业芯片制造商，发布了低于预期的营收预测，导致股价在盘后交易中下跌，引发市场对需求复苏的担忧。这一动态对元宝产品经理了解芯片行业需求变化及可能影响AI硬件供应链的信号具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo": {
+    "title_clean": "Anthropic IPO后的公司治理结构解析",
+    "summary": "Anthropic在IPO后拥有极其复杂的治理结构，该资讯详细解析了其内部权力分配机制。这对了解AI巨头Anthropic的决策流程、管理架构以及潜在的战略方向有重要参考价值，有助于评估其产品开发与商业化路径。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/google-upgrades-ai-world-model-that-rattled-video-game-stocks": {
+    "title_clean": "Google 升级 AI 世界模型：生成更逼真的实时虚拟环境",
+    "summary": "Google 发布了人工智能世界模型的新版本，能够生成更逼真、实时的虚拟环境，这项技术曾引发游戏行业股价波动。该升级对游戏开发、虚拟现实和元宇宙领域具有潜在影响，产品经理可关注AI在虚拟环境生成方面的技术进展与应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-27/dutch-plan-to-cut-25-000-jobs-will-show-whether-ai-can-shrink-government": {
+    "title_clean": "荷兰政府计划利用AI削减25,000个公务员职位",
+    "summary": "荷兰政府启动AI驱动的效率计划，拟削减25,000个公务员职位，这是迄今为止最雄心勃勃的政府使用技术削减薪资支出的尝试。这一举措将测试AI在政府大规模裁员中的实际效果，对AI在公共服务领域的应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-ventus-ai": {
+    "title_clean": "Ventus AI CEO访谈：市场定位与客户需求洞察",
+    "summary": "Ventus AI CEO Marco Ma接受CB Insights采访，分享了公司对市场的定义、客户需求的理解以及公司定位。这为元宝产品经理提供了AI创业公司市场策略和客户洞察的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-elfie": {
+    "title_clean": "Executive Interview: Elfie",
+    "summary": "Elfie首席战略官Grace McNamara接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身定位。这对元宝产品经理了解AI助手类企业的市场策略和客户洞察有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

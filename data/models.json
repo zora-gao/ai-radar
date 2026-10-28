@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:07:05.658Z",
+  "generated_at": "2026-10-28T15:07:14.143Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -192,8 +192,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
-      "price_out": 1.2,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

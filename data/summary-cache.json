@@ -148937,5 +148937,451 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ebcoQ-nClgWK4oT43B-QNw": {
+    "title_clean": "清华27岁助理教授推出35B自进化AI模型",
+    "summary": "清华大学27岁助理教授团队发布35B参数的自进化AI模型，标志着国内在AI自进化领域的重要进展。该模型具备自我迭代能力，对AI助手产品的技术演进和竞争格局具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hob-3": {
+    "title_clean": "Hob：开源本地化AI助手替代品",
+    "summary": "Hob是一款开源的本地化AI助手，可作为Claude和ChatGPT的替代方案。该产品强调在设备端运行，可能提供更好的隐私保护和离线能力，对关注数据安全和本地部署的产品经理具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/9ulrbPZTBs8wAO6PrFhwEQ": {
+    "title_clean": "NeurIPS 2026 Oral：NV-CoT让大模型精准理解图像",
+    "summary": "NeurIPS 2026 Oral论文提出NV-CoT方法，通过连续坐标技术提升大模型对图像的理解能力，使其能够更精准地分析图像内容。这项技术突破对提升AI助手的多模态交互能力具有重要参考价值，特别是在图像理解和视觉分析领域。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/lY-iiJ0K6bW32mr0prB2Jw": {
+    "title_clean": "向实·智行致远心2026年度榜单评选正式启动",
+    "summary": "向实·智行致远心2026年度榜单评选已正式启动，该榜单聚焦AI领域，旨在评选出具有创新性和实用价值的AI产品与服务。对元宝产品经理而言，此榜单可作为行业风向标，了解当前AI产品发展趋势与用户偏好，为产品定位与功能优化提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/PQ5Wi8PHlbBKS6_dmt4WeQ": {
+    "title_clean": "Anthropic负责人：彻底砍掉LeetCode面试",
+    "summary": "Anthropic负责人宣布彻底取消LeetCode面试环节，这反映了AI公司在人才招聘策略上的重大转变，从传统编程测试转向更注重实际AI能力和系统思维的评估方式，对AI行业招聘标准有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/aWFQ5IAgweM01dV976GEng": {
+    "title_clean": "StreamVibe：Google提出的AI Agent交互优化方案",
+    "summary": "Google等公司提出StreamVibe方案，针对Personal Agent在交互过程中的优化问题。该方案旨在提升AI Agent的交互体验和响应能力，为AI助手产品提供技术参考，有助于改善Agent在实际应用场景中的表现。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-29/samsung-chip-operating-profit-misses-estimates-video": {
+    "title_clean": "三星芯片第三季度净利润未达预期",
+    "summary": "三星第三季度净利润未达分析师平均预期，Bloomberg对此进行了详细分析。这一数据反映了半导体行业当前面临的挑战，对元宝产品经理了解AI硬件供应链和芯片市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/hacQH91NzExTUTdtk4G1Xg": {
+    "title_clean": "数十AI Agent协作完成数学工程并发现历史漏洞",
+    "summary": "多个AI Agent仅用24天完成数学界巨型工程项目，还成功发现了40年前的一个数学漏洞，展示了AI Agent在复杂问题解决和知识发现方面的能力，为AI协作解决专业领域问题提供了新思路。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope": {
+    "title_clean": "三星半导体利润不及预期，AI需求提振业绩",
+    "summary": "三星电子半导体部门利润飙升15倍但仍未达预期，反映出AI基础设施建设热潮带来的提振效果有限，提示AI芯片市场可能面临增长瓶颈，对元宝产品经理评估AI硬件供应链和商业化策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-10-29/nscale-s-unproven-ceo-braves-ai-turmoil-in-bid-for-30-billion-neocloud-ipo": {
+    "title_clean": "Nscale创始人：AI动荡期推动300亿美元Neocloud上市",
+    "summary": "32岁CEO Josh Payne在AI行业动荡时期推动其初创公司Neocloud进行300亿美元的IPO。前Facebook高管Sheryl Sandberg将其比作马克·扎克伯格，此举反映了AI企业在市场波动中的融资策略与估值挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/shopify-adopts-agentic-payment-tech-visa-mastercard": {
+    "title_clean": "Shopify采用Visa和Mastercard的智能支付技术",
+    "summary": "Shopify宣布在其Shop Pay结账功能中整合了Visa、Mastercard和美国运通共同开发的智能支付技术，这一举措与Stripe主要处理智能支付的方式形成对比，为电商支付领域带来了新的竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/marvell-talks-buy-lumentum": {
+    "title_clean": "Marvell拟收购数据中心光模块制造商Lumentum",
+    "summary": "芯片制造商Marvell Technologies正洽谈收购数据中心光模块制造商Lumentum。这一收购若完成将加强Marvell在数据中心光通信领域的布局，对AI基础设施供应链可能产生影响，值得元宝产品经理关注AI硬件基础设施领域的整合动态。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/alphabet-sold-12-4-billion-shares-atm-program": {
+    "title_clean": "Alphabet：通过ATM计划出售124亿美元股票",
+    "summary": "Alphabet在第三季度通过其今年早些时候宣布的ATM计划出售了价值124亿美元的股票，共发行1200万股。这反映了公司利用市场机会进行资本运作的策略，对元宝产品经理理解大型科技公司的资本运作和市值管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/japan-credit-risk-jumps-most-since-2022-pressuring-bond-market": {
+    "title_clean": "日本企业信用风险自2022年以来最大幅度上升，债券市场承压",
+    "summary": "日本企业信用风险自2022年9月以来最严重恶化，对已吸收创纪录发行量的债券市场形成压力，反映了全球信贷市场状况的恶化趋势。这一金融动态可能影响AI金融服务场景中的风险评估模型和投资决策支持工具。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion": {
+    "title_clean": "微软首次公布Azure季度收入达33.2亿美元",
+    "summary": "微软首次披露Azure季度具体收入数据为33.2亿美元，显示其正接近最大竞争对手AWS的市场地位。这一数据对元宝产品经理评估云服务市场竞争格局和AI基础设施业务发展具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/banks-shelve-bond-sale-for-anthropic-tied-texas-data-center": {
+    "title_clean": "银行推迟与Anthropic相关的德州数据中心债券销售",
+    "summary": "银行推迟了为Anthropic在德克萨斯州数据中心提供150亿美元贷款的部分债券销售计划，原因是该州正在评估新项目对电网的风险并暂停审批。这反映了AI基础设施扩张面临的能源挑战，对元宝规划数据中心选址和能源管理策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/charles-schwab-integrating-ai-with-financial-planning-video": {
+    "title_clean": "Charles Schwab：集成AI工具与财务规划",
+    "summary": "Charles Schwab正在扩大人工智能应用，将Anthropic的Claude直接整合到其顾问中心，成为首个将AI助手引入RIA托管平台的金融服务公司，为金融顾问提供AI辅助决策支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows": {
+    "title_clean": "Google扩大AI搜索广告全球布局，核心广告增长放缓",
+    "summary": "谷歌母公司Alphabet公布第三季度财报，营收同比增长25%达1276亿美元，同时宣布扩大AI搜索广告的全球布局。这一动向表明谷歌正加速AI技术在广告领域的应用，以应对核心广告业务增长放缓的挑战，对元宝产品经理了解AI商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row": {
+    "title_clean": "微软连续10个季度创收入纪录",
+    "summary": "微软公布最新季度收入达923亿美元，同比增长19%，创下连续10个季度收入纪录的佳绩。这一业绩表明微软当前业务状况良好，尤其是AI相关业务可能对其收入增长有显著贡献，对元宝产品经理评估AI商业化路径和企业客户接受度有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/breaking-down-alphabet-s-disappointing-earnings-report-video": {
+    "title_clean": "Alphabet财报不及预期：AI冲击搜索业务",
+    "summary": "Alphabet季度销售额和利润未达预期，投资者关注公司能否在AI改变信息获取方式的背景下保护其搜索业务。财报显示核心搜索业务面临AI技术变革带来的挑战，这对元宝产品经理评估AI搜索领域竞争格局和商业模式有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/our-model-flagged-these-companies-before-they-raised": {
+    "title_clean": "CB Insights Funding Window：AI预测企业融资时机工具",
+    "summary": "CB Insights推出Funding Window工具，通过AI模型预测企业融资时机，帮助投资者在融资公告前识别潜在投资机会，解决传统投资中时机判断难的问题，为AI在金融决策领域的应用提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/apple-launches-first-touchscreen-macbook": {
+    "title_clean": "Apple推出首款触控屏MacBook",
+    "summary": "苹果发布首款触控屏MacBook Pro，配备PROLED XDR显示屏，起售价2899美元。这标志着苹果向触控交互迈出重要一步，对AI助手产品在多模态交互和硬件适配方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/clarity-act-a-bipartisan-issue-calvert-video": {
+    "title_clean": "Clarity Act：加密货币监管法案讨论",
+    "summary": "Coinbase政策副总裁Kara Calvert在Bloomberg Crypto节目中讨论了Clarity Act法案的失败情况，以及新加密货币法案的潜在可能性。这反映了加密行业监管环境的变化趋势，对元宝产品经理了解区块链相关服务场景和合规边界有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/fifteen-minute-bets-scratch-the-bitcoin-itch-video": {
+    "title_clean": "Fifteen-Minute Bets：比特币短期投机工具",
+    "summary": "Bloomber报道了一种名为'Fifteen-Minute Bets'的新型比特币短期投机工具，针对比特币市场波动提供快速交易机会。这种产品反映了加密货币市场对短期高回报产品的持续需求，对元宝产品经理了解金融科技领域AI应用场景和用户风险偏好变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/ipo-pipeline-held-back-anthropic-listing-says-nyses-martin": {
+    "title_clean": "Anthropic上市推迟影响其他公司IPO进程",
+    "summary": "纽约证券交易所主席Lynn Martin表示，Anthropic备受期待的上市计划正在影响整个IPO市场，导致其他准备上市的公司推迟上市进程。这对AI行业融资动态和估值趋势有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/apple-unveils-touch-screen-macbook-pro-video": {
+    "title_clean": "Apple 推出触屏版 MacBook Pro",
+    "summary": "苹果公司推出了全新设计的 MacBook Pro，首次加入触屏功能，这是该公司二十年来首次在笔记本电脑上采用触屏设计。这一变化可能影响用户交互习惯，对元宝在多模态交互和设备适配方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/bloomberg-crypto-10-28-2026-video": {
+    "title_clean": "Ripple Swell, 永续期货争议与十五分钟押注",
+    "summary": "Bloomberg Crypto 报道去中心化金融领域的重要人物、交易和技术，包括 Ripple CEO Brad Garlinghouse、CME Group CEO Terry Duffy 和 BNY 高管的观点，涉及 Ripple 大会、永续期货争议和短期交易策略等热点话题。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amazon-expands-shop-direct-250-million-products-rivals": {
+    "title_clean": "Amazon扩展'Shop Direct'计划，引入竞争对手2.5亿商品",
+    "summary": "Amazon大幅扩展其'Shop Direct'计划，允许消费者在亚马逊平台上浏览和购买来自竞争对手零售商的超过2.5亿种商品。这一举措表明亚马逊正在调整其封闭的电商策略，可能影响其与第三方卖家的关系及整体电商竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps": {
+    "title_clean": "Google开放Gemini与搜索至更多应用，应对AI代理重塑网络",
+    "summary": "Google推出新开发者平台，允许企业将其服务接入Gemini和搜索体验，这可能改变用户发现和使用应用的方式。这对元宝产品经理具有重要参考价值，展示了AI助手与第三方服务整合的趋势，以及大型平台如何通过开放API构建AI生态系统。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/openai-servicenow-partnership-expansion": {
+    "title_clean": "OpenAI与ServiceNow扩展企业级合作",
+    "summary": "OpenAI与ServiceNow扩展合作，将OpenAI模型和代理集成到ServiceNow平台中，同时将ServiceNow工作流引入ChatGPT和Codex。这一合作将增强企业级AI助手在工作流程中的应用，为产品经理提供AI与企业服务集成的参考案例。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/causeway-ceo-on-ai-defense-stocks-and-french-banks-video": {
+    "title_clean": "Causeway CEO：看好AI、国防股和法国银行投资机会",
+    "summary": "Causeway Capital Management CEO Sarah Ketterer在Bloomberg节目中表示，她看好航空航天和国防领域的股票投资机会，同时认为AI、法国银行也具有投资价值。这反映了金融资本对AI相关国防科技领域的关注趋势，对元宝产品经理了解AI技术在国防领域的应用前景和投资方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-28/apple-iphone-duo-s-cracked-screen-takes-some-excitement-away-from-launch": {
+    "title_clean": "Apple iPhone Duo：折叠屏手机出现屏幕开裂问题",
+    "summary": "苹果首款折叠屏手机iPhone Duo在发布后出现屏幕开裂问题，影响了产品发布的热度。作为折叠屏设备的首代产品，这一缺陷可能影响消费者对折叠屏技术的信心，对元宝产品经理评估折叠屏设备可靠性和用户痛点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-paramus-transform": {
+    "title_clean": "CEO Interview: Paramus Transform 市场定位与客户需求访谈",
+    "summary": "Paramus Transform CEO Thorsten Gressling 接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。作为AI服务提供商，其市场定位和客户洞察对元宝产品经理了解企业级AI服务市场方向具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/tsinghua-uni-s-zhang-on-ai-innovation-outlook-video": {
+    "title_clean": "清华大学张亚勤谈AI创新展望",
+    "summary": "清华大学人工智能产业研究院院长、前百度总裁张亚勤分享对中国高校实验室AI创新前景的看法，探讨中国AI研发方向与产业结合的可能性，为元宝产品经理提供中国AI学术与产业融合的参考视角。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-launch10": {
+    "title_clean": "Launch10 CEO访谈：市场定位与客户需求分析",
+    "summary": "Launch10 CEO Greg Hockenbrocht接受CB Insights采访，分享公司市场定位、客户需求分析及业务发展策略。作为一家创业公司，其市场洞察对元宝产品经理了解创业公司如何定位AI服务市场、把握客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anduril-worth-120-billion": {
+    "title_clean": "Anduril：自主武器制造商寻求120亿美元估值融资",
+    "summary": "Anduril Industries作为自主武器制造商，计划在明年第一季度进行新一轮融资，并寻求120亿美元的估值。这一信息对产品经理了解AI在军事领域的应用及高估值AI公司的融资策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
   }
 }

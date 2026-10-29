@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T20:52:59.107Z",
+  "generated_at": "2026-10-29T01:29:51.168Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -25,7 +25,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Particle-1 is a token-efficient agentic coding model from Particle AI, post-trained on DeepSeek V4.1 Flash. It is suited for software engineering work such as terminal workflows, codebase changes, and data...",
-      "description_zh": null
+      "description_zh": "Particle-1 是来自 Particle AI 的令牌高效代理编码模型，在 DeepSeek V4.1 Flash 上进行了后训练。它适用于软件工程工作，例如终端工作流程、代码库更改和数据..."
     },
     {
       "id": "openai/gpt-6.1-terra-pro",
@@ -216,8 +216,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.3,
+      "price_out": 1.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

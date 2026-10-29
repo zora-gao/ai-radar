@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:01:12.912Z",
+  "generated_at": "2026-10-29T20:54:05.704Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -700,7 +700,7 @@
       "vendor_slug": "stepfun",
       "url": "https://openrouter.ai/stepfun/step-5-preview-20261008",
       "created_at": "2026-10-08T12:34:09Z",
-      "context_length": 1000000,
+      "context_length": 1048576,
       "modality": "text+image+video->text",
       "input_modalities": [
         "text",
@@ -809,8 +809,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 1.36,
-      "price_out": 4.18,
+      "price_in": 0.7,
+      "price_out": 2.1,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

@@ -149721,5 +149721,425 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/reset-alerts": {
+    "title_clean": "Reset Alerts：代码重置提醒工具",
+    "summary": "Reset Alerts 是一款通过文本消息提醒用户代码重置的工具，帮助用户在代码变更前及时收到通知，避免重要代码被意外覆盖或丢失。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/confetti-5": {
+    "title_clean": "Confetti：英文硬件开发工具",
+    "summary": "Confetti是一款允许用户使用纯英语构建硬件设备的工具，降低了硬件开发的门槛。对于元宝产品经理而言，这展示了AI在简化复杂技术流程方面的潜力，可能启发AI助手在技术辅助场景中的应用思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/voxel51": {
+    "title_clean": "Voxel51：多模态AI数据分析工具",
+    "summary": "Voxel51提供多模态数据分析解决方案，专注于提升机器人智能决策能力。该工具通过整合多种数据源，帮助机器人系统实现更高效的数据处理和智能行为，对AI助手在工业自动化领域的应用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-29/eli-lilly-ebay-climb-on-results-stock-movers-video": {
+    "title_clean": "Eli Lilly上调业绩预期，EBay股价上涨：股市动态",
+    "summary": "制药巨头Eli Lilly上调全年营收预期推动股价上涨，电商平台EBay也因业绩表现良好股价攀升。此资讯反映了医药和电商行业的市场表现，对元宝产品经理了解行业动态和投资趋势有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/musk-s-favorite-ticker-is-free-for-taking-in-a-spacex-tesla-deal": {
+    "title_clean": "Musk's Favorite Ticker Is Free for Taking in a SpaceX-Tesla Deal",
+    "summary": "马斯克对字母X有特殊偏爱，特斯拉首款车型为Model X，其公司名为SpaceX，收购推特后将其更名为X。这则资讯探讨了马斯克如何利用X品牌在SpaceX与特斯拉交易中的潜在价值，对产品经理理解品牌战略与商业整合有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-4-carbon": {
+    "title_clean": "Gemini 4 Carbon：Google新一代前沿模型",
+    "summary": "Google发布Gemini 4 Carbon模型，作为其前沿AI模型的最新迭代。这一产品更新对元宝产品经理具有重要参考价值，可帮助了解Google在AI模型发展方向上的战略布局，以及可能对AI助手领域产生的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-29/why-caterpillar-shares-are-plunging-video": {
+    "title_clean": "卡特彼勒股价暴跌：AI基础设施增长面临挑战",
+    "summary": "工程机械巨头卡特彼勒财报仅小幅超出预期后股价大幅下跌，反映投资者对AI基础设施增长面临挑战的担忧。这一信号表明AI硬件投资可能放缓，对AI基础设施相关产品经理评估市场需求和增长预期具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-seeks-raise-25-billion-bond-sale": {
+    "title_clean": "微软寻求通过债券融资250亿美元支持AI投资",
+    "summary": "微软计划通过债券融资筹集高达250亿美元，用于支持其AI领域的持续支出。这一融资举措反映了科技巨头在AI领域的巨额投资需求，以及通过资本市场为AI战略提供资金支持的策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/publishers-adding-invisible-ads-ai-agents": {
+    "title_clean": "出版商开始为AI代理添加隐形广告",
+    "summary": "随着AI代理在网络上的普及，广告商和出版商开始推出仅AI可见的隐形广告，这种新型广告模式专门针对AI代理而非人类用户，标志着广告策略从传统的人眼营销转向AI定向投放。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure": {
+    "title_clean": "Deepgram收购Pipecat开发商Daily，强化语音AI基础设施",
+    "summary": "Deepgram收购Pipecat开发商Daily，承诺保持Pipecat开源。此次收购将增强Deepgram在语音AI领域的基础设施能力，为AI助手和语音交互产品提供更强大的技术支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions": {
+    "title_clean": "Amazon更新Alexa：AI助手管理购物清单、订阅与配送",
+    "summary": "Amazon更新Alexa功能，用户可通过语音助手创建、查看、编辑购物清单，管理订阅服务，并更新配送说明。这一更新展示了AI助手在生活服务场景中的应用，为元宝产品在购物和订阅管理功能上提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-29/bridgewater-ceo-on-ai-investing-debt-leadership-video": {
+    "title_clean": "Bridgewater CEO谈AI投资、市场与领导力",
+    "summary": "桥水基金CEO Nir Bar Dea与David Rubenstein进行广泛对话，讨论美国经济、国债、美元等问题，并阐述了他如何看待AI重塑投资领域和市场格局，对AI在金融投资领域的应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/instacart-ended-doordashs-cart": {
+    "title_clean": "DoorDash收购Instacart：外卖平台进军生鲜配送领域",
+    "summary": "DoorDash宣布以约170亿美元现金收购生鲜配送应用Instacart，这是外卖平台向食品杂货配送领域扩张的重要战略举措。此次收购将加强DoorDash在本地生活服务市场的竞争力，并为元宝产品经理提供AI服务场景拓展与商业化策略的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-today-alphabet-caterpillar-instacart-microsoft": {
+    "title_clean": "美股期货动态：Alphabet、微软等AI相关公司股价波动",
+    "summary": "标普500指数期货下跌0.3%，Alphabet销售数据不佳引发市场对AI交易担忧。此资讯反映AI相关企业业绩波动对市场的影响，对元宝产品经理了解AI商业化进程中的市场反应有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vectorial-ai": {
+    "title_clean": "Vectorial AI CEO访谈：AI市场定位与客户需求分析",
+    "summary": "Vectorial AI CEO Rahul Garg接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了AI初创企业市场策略和客户洞察，对元宝产品经理了解AI行业竞争格局和用户需求变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/anthropic-ipo-may-spark-ai-rally-as-short-bets-on-tech-pile-up": {
+    "title_clean": "Anthropic IPO可能引发科技股反弹：空头押注堆积",
+    "summary": "Anthropic计划IPO可能重新点燃科技股热情，华尔街近期对股票的风险规避态度为科技股反弹创造了机会。这对元宝产品经理有参考价值，因为Anthropic作为AI领域重要玩家，其IPO动向可能反映市场对AI公司的估值变化和投资趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/doordash-to-buy-instacart-in-17-billion-deal": {
+    "title_clean": "DoorDash以170亿美元收购Instacart，瞄准沃尔玛和亚马逊",
+    "summary": "DoorDash以约170亿美元收购竞争对手Instacart，这是日益激烈的配送市场整合的最新迹象，主要针对沃尔玛和亚马逊等竞争对手。这一交易将重塑美国外卖和杂货配送市场格局，对元宝在本地生活服务场景的AI助手功能布局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-loto-punto": {
+    "title_clean": "CEO Interview: Loto Punto",
+    "summary": "Loto Punto CEO Victor Andrés Espinosa接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司战略方向。作为AI产品经理，可从中了解新兴AI企业的市场切入点和客户需求洞察。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus": {
+    "title_clean": "AI行业B轮融资额增长但交易量下降",
+    "summary": "Crunchbase数据显示今年AI行业B轮融资总额已达约480亿美元，创历史新高，但交易数量却低于去年同期水平。这一趋势表明投资者对AI领域的信心增强，但投资决策更加谨慎，可能影响AI初创公司的融资环境和产品发展节奏。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-tented": {
+    "title_clean": "Tented：CEO访谈",
+    "summary": "Tented公司CEO Justin Cooperman接受CB Insights采访，分享其市场定位、客户需求认知及公司发展策略。作为企业服务领域CEO访谈，提供了市场洞察和商业策略视角，对元宝产品经理了解企业服务市场趋势和CEO思维模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-open-energy-solutions": {
+    "title_clean": "CEO访谈：Open Energy Solutions",
+    "summary": "Open Energy Solutions CEO Wade Malcolm接受CB Insights采访，分享公司对市场的看法、客户需求分析及公司定位。该访谈提供了能源行业AI解决方案的市场洞察，对元宝产品经理了解垂直领域AI应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-29/big-tech-prepares-for-ai-regulation-fight-after-us-midterms": {
+    "title_clean": "科技巨头准备在中期选举后应对AI监管",
+    "summary": "科技巨头与特朗普立场一致，准备在美国中期选举后应对AI监管挑战。这一政治立场可能随选举结果变化而调整，对AI行业监管环境和企业战略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-jupiter-base": {
+    "title_clean": "Jupiter Base CEO访谈：市场定位与客户需求分析",
+    "summary": "Jupiter Base首席执行官Jaime Pesquera接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈为AI产品经理提供了行业头部企业战略思考的参考视角，有助于理解市场定位与客户需求的关系。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-juste": {
+    "title_clean": "CEO Interview: JUSTE",
+    "summary": "JUSTE CEO David Dehaeck接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。作为AI领域企业高管访谈，对了解行业趋势和商业策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/ai-assistant-startup-wabi-raises-55-million-at-1-25-billion-value": {
+    "title_clean": "Wabi获5500万美元融资，打造AI助手协作平台",
+    "summary": "AI助手创业公司Wabi完成5500万美元融资，估值达12.5亿美元，其产品支持多人通过AI代理协调活动，为团队协作场景提供AI解决方案，对产品经理了解AI助手商业化路径和团队协作场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-fairway-health-wellness": {
+    "title_clean": "CEO访谈：Fairway Health & Wellness健康服务公司",
+    "summary": "Fairway Health & Wellness CEO Robert Farrell接受CB Insights访谈，分享公司对市场的定义、客户需求的理解以及公司战略。这为元宝产品经理提供了健康服务领域市场洞察和用户需求分析的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-aynstyn-technologies": {
+    "title_clean": "Aynstyn Technologies CEO访谈：市场定位与客户需求分析",
+    "summary": "Aynstyn Technologies CEO Muzamil Syed接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。访谈内容可能包含对行业趋势的判断和业务发展方向，对元宝产品经理了解AI服务市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-kachi-ai": {
+    "title_clean": "Kachi AI CEO访谈：市场定位与客户需求分析",
+    "summary": "Kachi AI CEO Ruchi Abhijat Soparkar接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及公司定位。该访谈为AI产品经理提供了新兴AI公司的市场策略和客户洞察参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-nibrasec": {
+    "title_clean": "NibraSec CEO访谈：网络安全市场洞察",
+    "summary": "NibraSec CEO Majd Zahran接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。该访谈为元宝产品经理提供了网络安全领域的市场视角和客户需求洞察，有助于理解企业级安全服务市场的机会与挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/air-liquide-sales-grow-sustained-ai-related-demand-semiconductor-chip-making": {
+    "title_clean": "Air Liquide：AI相关业务推动销售增长",
+    "summary": "法国液化空气公司(Air Liquide)销售额达到近四年最高水平，其AI相关业务部门的需求增长是主要推动因素。这表明工业气体领域正受益于AI技术发展，为元宝产品经理提供了AI技术在传统工业领域应用的市场信号。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/stmicro-forecasts-growth-as-recovery-in-chip-demand-continues": {
+    "title_clean": "意法半导体：芯片需求持续复苏推动增长",
+    "summary": "意法半导体预测第四季度收入将增长，表明芯片市场在长期低迷后需求正在持续复苏。这对AI硬件供应商和芯片供应链管理有参考价值，可能影响AI硬件成本和供应稳定性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/gmo-bond-spread-jumps-as-cyberattack-hits-credit-market": {
+    "title_clean": "GMO网络公司遭网络攻击致债券利差扩大",
+    "summary": "GMO Internet Group旗下上市公司遭受网络攻击，事件蔓延至日本信贷市场，导致该公司债券利差扩大，投资者担忧其盈利能力受损。此事件展示了网络安全风险对金融市场的直接影响，对AI助手在金融风控和风险预警场景的应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/everyones-using-ai-divisions-growing-wtf-highlights": {
+    "title_clean": "AI普及加剧企业分歧：WTF峰会观点",
+    "summary": "AI已全面渗透商业和政治领域，但同时也开始在企业与投资者间制造分歧。这一观点来自The Information的WTF峰会领导者的总结，反映了AI应用带来的两极化趋势，对产品经理理解市场接受度与商业挑战有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/announcing-project-protostar": {
+    "title_clean": "Project ProtoStar：公共科研AI化项目",
+    "summary": "Project ProtoStar旨在将公共资助的科学研究成果转化为AI可用的格式，提高科研数据的可访问性和可用性。该项目对元宝产品经理有参考价值，因为它展示了AI在科研领域的应用场景，以及如何处理和结构化专业数据，这可能启发元宝在知识服务、学术支持等场景的产品设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

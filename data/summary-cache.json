@@ -149383,5 +149383,343 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/arco-4": {
+    "title_clean": "Arco：代码库与问题管理工具",
+    "summary": "Arco是一款将GitHub和Linear问题管理功能直接集成到代码编辑器Codex中的工具，帮助开发者在编码环境中无缝跟踪和管理任务，提升开发效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ifttt": {
+    "title_clean": "IFTTT.ai：自动化任务连接工具",
+    "summary": "IFTTT.ai是一个自动化任务连接平台，允许用户通过简单的规则设置实现不同应用和服务之间的自动化操作，无需编程知识即可创建工作流，为AI助手产品提供跨服务自动化能力参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool": {
+    "title_clean": "MAO：AI代码协作工具",
+    "summary": "MAO是一款AI代码协作工具，允许用户在同一画布上集成Claude Code、Codex和Grok三大AI代码助手，提供统一的代码编写和协作体验，有助于产品经理评估多AI模型协作场景下的产品形态。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/storelocale": {
+    "title_clean": "StoreLocale：应用商店截图翻译工具",
+    "summary": "StoreLocale是一款专门用于翻译App Store和Google Play应用截图的工具，帮助开发者将应用界面截图本地化为不同语言版本，提升海外应用商店的本地化展示效果。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/smart-jelly": {
+    "title_clean": "Smart Jelly：Mac端AI工具与记忆整合应用",
+    "summary": "Smart Jelly是一款Mac应用，将日常AI工具与记忆功能整合于一体，为用户提供一站式AI服务体验。这款产品对元宝产品经理具有参考价值，因为它展示了如何将多种AI能力集成到单一应用中，以及如何通过记忆功能提升用户粘性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notch-metrics": {
+    "title_clean": "Notch Metrics：收入与产品分析指标工具",
+    "summary": "Notch Metrics是一款专注于将收入和产品分析指标整合到单一平台的工具，帮助产品经理集中监控关键业务数据，简化决策流程，提升数据分析效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flatbread": {
+    "title_clean": "Flatbread：AI Agent运行分享工具",
+    "summary": "Flatbread是一款允许用户完整分享AI Agent运行过程而非仅截图的工具，解决了当前AI Agent执行过程难以完整展示和分享的问题，对产品经理设计Agent交互和分享功能有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/recall-for-mac": {
+    "title_clean": "Recall for Mac：Mac电脑活动记录工具",
+    "summary": "Recall是一款Mac应用，能够记录用户在电脑上的所有活动，帮助用户回顾和查找之前的工作内容。对于产品经理而言，这类工具展示了AI在个人知识管理和活动追踪方面的应用潜力，可作为元宝增强用户记忆和回溯功能的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kin-6": {
+    "title_clean": "Kin：AI账户规则管理工具",
+    "summary": "Kin是一个账户管理工具，允许用户一次性连接多个账户，并设置统一的AI规则，确保所有AI服务遵循用户设定的行为准则。这为元宝产品经理提供了AI服务统一管理和规则设置的参考价值，特别是在多账户集成和个性化AI行为控制方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/radar-7": {
+    "title_clean": "Radar：AI系统监控代理工具",
+    "summary": "Radar是一款AI系统监控代理工具，旨在替代传统的人工站点可靠性工程(SRE)，为AI系统提供自动化监控服务。产品经理可关注其如何将AI代理技术应用于系统运维场景，为元宝的Agent能力扩展提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/enclave-2": {
+    "title_clean": "Enclave：一站式信息聚合工具",
+    "summary": "Enclave是一款新型信息聚合工具，通过一次悬停操作即可获取用户所需的所有信息。该产品简化了信息获取流程，为用户提供高效的内容整合体验，对元宝产品经理在优化信息检索和内容聚合功能方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/empacer": {
+    "title_clean": "Empacer：面向小企业主的语音优先助手",
+    "summary": "Empacer是一款专为小企业主设计的语音优先助手，旨在帮助用户通过语音交互处理日常业务任务。这款产品对元宝产品经理有参考价值，因为它展示了AI助手在垂直商业场景中的应用潜力，可作为元宝拓展企业服务场景的竞品参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/intrascope-app": {
+    "title_clean": "Intrascope 2.0：AI智能体平台",
+    "summary": "Intrascope 2.0发布新一代AI智能体，支持1,650+应用集成，提供技能功能和智能模型路由能力，为AI助手跨平台操作提供新解决方案，对产品经理在AI Agent多应用集成和智能路由方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/jimmy": {
+    "title_clean": "JIMMY：PC端AI智能助手",
+    "summary": "JIMMY是一款运行在个人电脑上的AI智能助手，能够帮助用户完成各类任务。作为PC端AI助手，它可能为元宝产品经理提供桌面AI助手场景的参考价值，特别是在本地化AI服务与用户交互设计方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gologin": {
+    "title_clean": "Gologin Cloud Browser：AI代理专用云浏览器",
+    "summary": "Gologin Cloud Browser是一款专为AI代理和访问困难网站设计的云浏览器，可能解决了AI代理在复杂网站环境中的访问和操作问题，为AI助手产品提供了跨平台、绕过限制的技术方案，对元宝的产品经理在AI代理能力扩展方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-29/tech-rally-stalls-as-alphabet-samsung-disappoint-video": {
+    "title_clean": "科技股上涨停滞：Alphabet和Samsung业绩不及预期",
+    "summary": "科技股本周全球上涨趋势停滞，Alphabet和Samsung的业绩表现不佳，引发市场对AI数十亿美元投入能否带来足够回报的质疑。这对元宝产品经理评估AI商业化路径和投资者信心有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/doordash-moves-earnings-date-forward-amid-instacart-deal-reports": {
+    "title_clean": "DoorDash：外卖平台提前发布财报，或因收购Instacart交易",
+    "summary": "DoorDash作为外卖服务提供商，正在洽谈收购Instacart，并将财报发布日期提前近一周。这一动向表明两家公司可能即将达成交易，对AI助手在本地生活服务领域的竞争格局和商业整合有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/servicenow-shares-drop-19-earnings-saaspocalypse-fears-persist": {
+    "title_clean": "ServiceNow股价大跌19%，SaaSpocalypse担忧持续",
+    "summary": "IT服务管理软件提供商ServiceNow在第三季度财报后股价大跌19%，尽管其9季度收入增长率略超预期，但市场对SaaSpocalypse（SaaS行业衰退）的担忧持续存在，这对AI服务提供商的商业化策略有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/mRn3jiKXabHTFDUI6MbTKA": {
+    "title_clean": "SC26顶会论文：八卦炉2—让万卡集群学会临场应变",
+    "summary": "SC26顶会论文介绍八卦炉2系统，旨在让万卡级计算集群具备临场应变能力，可能通过AI技术优化大规模计算资源调度与故障处理，对元宝产品经理了解AI在复杂系统中的应用与优化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/google-cloud-closes-azure-microsoft-wins-day-investors": {
+    "title_clean": "Google Cloud逼近Azure，但微软赢得投资者青睐",
+    "summary": "微软和谷歌发布最新财报，作为云计算市场第二、三位玩家，Google Cloud正缩小与Azure的差距，但微软在投资者关系上取得胜利，反映了两家公司在云业务战略和市场信心上的差异。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/alphabet-shares-tank-on-sales-misses-across-businesses-video": {
+    "title_clean": "Alphabet核心业务销售不及预期，股价大跌",
+    "summary": "Alphabet第三季度核心业务销售表现不佳，引发投资者对公司数百亿美元人工智能支出的担忧。这一数据表明即使是科技巨头在AI投入方面也面临盈利压力，对元宝产品经理评估AI商业化路径和成本控制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/oracle-surges-10-caps-capex-projects-positive-cash-flow": {
+    "title_clean": "Oracle：削减数据中心资本支出并预计实现正向现金流",
+    "summary": "Oracle股价上涨超10%，公司宣布将放缓数据中心资本支出并开始重新产生正向现金流。这一财务策略调整对AI基础设施供应商的商业模式有参考价值，特别是对关注成本控制和现金流优化的AI服务提供商。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/the-close-10-28-2026-video": {
+    "title_clean": "美联储维持鹰派利率政策",
+    "summary": "美联储维持当前利率水平，但释放鹰派信号，可能影响金融市场和AI投资环境。对元宝产品经理而言，这反映了宏观经济环境对AI行业融资和投资策略的影响，需关注利率变化对AI产品商业化路径的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal": {
+    "title_clean": "Marvell接近收购Lumentum以加强AI数据中心业务",
+    "summary": "Marvell Technology正与数据中心光学器件制造商Lumentum进行深入收购谈判，这是一笔潜在的巨额交易，旨在加强其在AI领域的数据中心业务布局，对AI硬件供应链和芯片行业有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-28/ford-cfo-on-earnings-ai-gas-prices-going-off-road-video": {
+    "title_clean": "福特CFO谈业绩、AI与油价影响",
+    "summary": "福特首席财务官Sherry House表示，大宗商品成本上涨可能成为今年25亿美元的阻力。汽车制造商第三季度业绩超出预期并上调了低端指引，同时讨论了AI技术、油价和越野业务发展对公司的战略影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto": {
+    "title_clean": "Wiz CTO警告：互联网陈旧代码将面临'漏洞末日'",
+    "summary": "Wiz首席技术官警告称，互联网上大量陈旧代码的安全漏洞问题日益严重，近期PHP语言爆发的两个关键漏洞影响了约70%的网站，组织机构正在紧急修复。这对AI产品经理有参考价值，因为AI系统在处理和生成代码时需要考虑安全性问题，同时AI在代码安全审计和漏洞修复方面有潜在应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-clara-2": {
+    "title_clean": "Clara CEO访谈：市场定位与客户需求分析",
+    "summary": "Clara CEO Gerry Giacomán Colyer接受CB Insights采访，分享了公司对市场的定义、客户需求的理解以及公司战略。这为元宝产品经理提供了AI服务领域市场定位和客户洞察的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

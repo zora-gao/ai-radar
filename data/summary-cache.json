@@ -151342,5 +151342,374 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/norah-studio": {
+    "title_clean": "Norah Studio：音乐探索工具",
+    "summary": "Norah Studio是一个音乐探索平台，为用户提供发现和体验音乐的新空间。作为AI音乐产品，它可能通过个性化推荐或创新交互方式帮助用户发现新音乐，对元宝在音乐服务场景或AI内容推荐功能上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ilse": {
+    "title_clean": "ilse：AI 代码修改工具",
+    "summary": "ilse 是一款 AI 工具，允许用户通过指向应用程序界面来修改代码，实现直观的代码调整。这种交互方式可能为元宝在代码辅助和自动化操作方面提供新的交互思路，特别是对于非专业开发者用户。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nocto": {
+    "title_clean": "Nocto：MacBook刘海屏实用工具",
+    "summary": "Nocto是一款MacBook应用，将原本无用的刘海屏区域转化为实用功能区域，可能提供时间、通知等快捷信息显示，为产品经理提供AI助手界面设计新思路，特别是如何利用设备硬件特性提升用户体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sitesolide": {
+    "title_clean": "sitesolide：自托管 vibe-coded 应用部署工具",
+    "summary": "sitesolide 是一款允许用户在自己的服务器上部署 vibe-coded 应用的工具。它为开发者提供了应用自托管解决方案，有助于保持数据控制权和减少第三方依赖，对元宝产品经理评估自托管部署方案和用户数据隐私策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/faylee": {
+    "title_clean": "Faylee：代码错误报告修复工具",
+    "summary": "Faylee是一个代码错误报告修复工具，允许开发者通过一个链接将bug报告直接发送给AI编码助手进行修复。这种简化了错误报告流程的工具可能对元宝的产品经理有参考价值，特别是在如何简化用户反馈处理和自动化问题解决方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chopstick": {
+    "title_clean": "Chopstick：Mac 自动化活动与操作小工具",
+    "summary": "Chopstick 是一款 Mac 应用，能够自动生成活动与操作小工具，帮助用户简化日常任务和操作流程。这款产品对元宝产品经理有参考价值，因为它展示了如何通过自动化小工具提升用户体验，特别是在桌面环境下的任务执行效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fastbrowse": {
+    "title_clean": "fastbrowse：开源浏览器代理工具",
+    "summary": "fastbrowse是一款开源浏览器代理工具，专注于提供最快的网页浏览体验。作为AI Agent类产品，它可能通过优化浏览器操作流程或智能代理技术提升网页加载速度，对元宝产品经理在AI Agent性能优化和多模态交互方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vaani-developer-platfrom": {
+    "title_clean": "Vaani Developer Platform：语音AI开发平台",
+    "summary": "Vaani Developer Platform是一款语音AI开发平台，提供全面的语音AI工具集，开发者可利用其构建各类语音应用。该平台可能包含语音识别、合成、自然语言处理等功能，为元宝产品团队在语音交互和多模态AI服务方面提供技术参考和竞品分析价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs": {
+    "title_clean": "SparkBots AI：网页与PDF信息提取分析工具",
+    "summary": "SparkBots AI是一款能够快速提取网页和PDF文件关键信息并进行分析的工具，基于Jev技术构建。该工具可帮助用户高效处理文档内容，对元宝产品经理在文档理解和信息提取功能设计方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stereolift-live": {
+    "title_clean": "StereoLift Live：桌面实时3D投影工具",
+    "summary": "StereoLift Live是一款将桌面内容实时转换为3D投影并显示在Quest头显上的工具，为用户提供沉浸式桌面体验。这项技术可能为元宝在多模态交互和AR/VR场景应用方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/teable-4": {
+    "title_clean": "Teable Mobile：手机端团队协作系统",
+    "summary": "Teable推出移动端应用，允许用户从手机上构建团队运行所需的系统。这对产品经理有参考价值，展示了团队协作工具向移动端延伸的趋势，以及如何在移动设备上实现复杂系统构建功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-aniyor": {
+    "title_clean": "Aniyor CEO访谈：市场定位与客户需求分析",
+    "summary": "Aniyor CEO Vicky Chandramohan Dhanwani接受CB Insights采访，分享了公司对市场的定义、客户需求的理解以及公司战略。这为元宝产品经理提供了AI服务市场定位和客户洞察的参考视角。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-vaag": {
+    "title_clean": "CEO Interview: VAAG：AI助手公司CEO谈市场定位与客户需求",
+    "summary": "VAAG公司CEO Naveen Kumar接受CB Insights采访，分享了对市场定义、客户需求的理解以及公司定位。这为元宝产品经理提供了AI助手领域市场策略和客户洞察的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/binance-hack-not-end-of-world-says-crypto-pioneer-video": {
+    "title_clean": "Binance 遭黑客攻击：加密货币先驱称'不是世界末日'",
+    "summary": "加密货币先驱、Ballet公司创始人兼CEO鲍比·C·李就全球最大加密货币交易所币安(Binance)疑似黑客事件发表评论，为投资者提供背景解读和经验教训。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/envision-to-complete-massive-inner-mongolia-data-center-by-2028": {
+    "title_clean": "Envision：内蒙古3吉瓦数据中心建设计划",
+    "summary": "中国可再生能源公司远景集团计划于2028年前完成在内蒙古的银河园区数据中心建设，最终容量将达到3吉瓦。这反映了AI基础设施建设的加速趋势，对元宝产品经理评估算力资源布局和AI服务扩展具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now": {
+    "title_clean": "华尔街对AI交易的真实看法：Anthropic IPO与微软业绩后的市场反应",
+    "summary": "本周AI领域重大事件频发，包括Anthropic提交IPO申请和微软超出预期的财报表现。然而市场对AI热潮的反应呈现分歧，担忧情绪正在增长，这反映了投资者对AI商业价值的真实态度变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/chip-suppliers-lead-765-million-month-end-listing-rush-in-hk": {
+    "title_clean": "芯片供应商引领香港7.65亿美元月末上市热潮",
+    "summary": "苏州登林科技和好信电子等芯片供应商在香港最后一个交易日集中上市，为香港融资活动注入新活力，显示半导体行业融资需求旺盛，可能影响AI硬件供应链和成本结构。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Sb08FyqyRnMaf4cDXeubig": {
+    "title_clean": "蚂蚁集团：AI自动调参系统提升模型效果",
+    "summary": "蚂蚁集团开发AI系统自动优化模型参数，解决传统人工调参效率低、效果不稳定的问题。这一技术突破对AI产品经理有重要参考价值，展示了如何通过AI自身提升AI系统效能，可能成为行业新标准。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/private-equitys-fundraising-divide-pushing-newcomers-toward-ai": {
+    "title_clean": "私募股权融资分化推动新进入者转向AI",
+    "summary": "私募股权融资出现两极分化，由于投资组合公司出售放缓导致投资者现金减少，大型机构占据主导地位，这迫使新进入者转向AI领域寻求竞争优势和投资机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-in-talks-to-offer-credit-support-for-nscale-project": {
+    "title_clean": "Nvidia拟为Anthropic的Nscale数据中心项目提供信贷支持",
+    "summary": "Nvidia正与Anthropic洽谈，拟为后者计划使用的Nscale数据中心项目提供信贷担保。这反映了AI基础设施领域的合作模式，大型AI模型公司正通过战略合作获取算力支持，对元宝在AI基础设施合作与资源获取方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/doordash-thrive-go-shopping": {
+    "title_clean": "DoorDash与Thrive Go合作购物服务",
+    "summary": "DoorDash与Thrive Go合作推出购物服务，为用户提供优惠购物渠道。这一合作表明外卖平台正在拓展服务场景，将食品配送与日常购物结合，为用户提供一站式生活服务体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-29/tradeweb-ceo-this-is-a-seminal-moment-in-the-market-video": {
+    "title_clean": "Tradeweb CEO：称市场正迎来重要转折时刻",
+    "summary": "Tradeweb发布第三季度财报，收入符合预期，盈利超出预期。CEO Billy Hult在财报电话会议上表示市场正处于重要转折时刻，暗示金融市场可能面临结构性变化，这对金融科技和AI在金融领域的应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/coinbase-revenue-fell-35-partially-offset-prediction-market": {
+    "title_clean": "Coinbase收入下降35%，部分被预测市场抵消",
+    "summary": "Coinbase第三季度营收12亿美元，同比下降35%，环比基本持平，主要因加密市场交易活动降温。预测市场业务部分抵消了收入下滑，这对元宝产品经理了解加密货币市场波动对交易平台的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch": {
+    "title_clean": "Meta：AI时尚穿搭助手应用",
+    "summary": "Meta推出AI时尚应用Style Sketch，可连接Instagram从已分享照片构建虚拟衣橱，或通过拍照、录制视频、上传图片手动添加衣物。该应用展示了AI在个人时尚管理场景的应用，为元宝在个性化推荐和图像识别功能上提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round": {
+    "title_clean": "Wabi：AI个人助手迷你应用构建工具",
+    "summary": "Wabi完成5500万美元融资，估值达12.5亿美元，定位为AI个人助手，专注于构建迷你应用。这一融资动向表明AI助手与迷你应用结合的商业模式获得资本市场认可，对元宝探索轻量化AI应用生态具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
+    "title_clean": "Granite Switch 4.1.1：AI模型更新工具",
+    "summary": "Granite Switch 4.1.1推出了一种新型AI模型更新机制，允许用户像更新软件一样轻松更新AI模型。这种创新方法可能为AI产品经理提供模型迭代和部署的新思路，特别是在模型快速迭代的竞争环境中具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-getintel": {
+    "title_clean": "CEO Interview: GetIntel",
+    "summary": "GetIntel CEO Tarang Agarwal接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。作为一家企业情报服务提供商，其市场观点和客户洞察对元宝在B端AI服务场景规划具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/alphabet-s-ai-risk-extends-beyond-1-trillion-filing-shows": {
+    "title_clean": "Alphabet市值暴跌，AI相关投资超1万亿美元",
+    "summary": "Alphabet公司表示其云服务需求快速增长，未履行的云合同积压增加。然而，超过三分之一的云合同积压与AI相关，导致公司市值创下历史性暴跌，反映出市场对AI投资回报的担忧。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs": {
+    "title_clean": "OpenAI的Astra模型成为中国AI实验室蒸馏首选目标",
+    "summary": "OpenAI最新发布的GPT-6 Astra模型自9月初发布以来需求强劲，中国AI实验室正将其作为主要蒸馏目标，表明中国AI企业对先进模型的强烈需求和技术追赶趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv": {
+    "title_clean": "Jumbo Series A Rounds：AI大额融资掩盖种子轮市场萎缩",
+    "summary": "AI领域的大额A轮融资掩盖了A轮市场萎缩的现状，种子轮创业者面临更高的营收预期和更长的融资周期，尽管种子轮融资金额有所增加。这对元宝产品经理了解AI融资环境与创业生态变化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

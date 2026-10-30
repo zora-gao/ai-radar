@@ -151711,5 +151711,262 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/isurge": {
+    "title_clean": "iSurge：手机刘海屏活动监测工具",
+    "summary": "iSurge是一款在手机刘海屏区域显示活动监测数据的工具，可实时追踪用户活动状态。产品经理可参考其利用手机特殊硬件区域提供健康监测功能的设计思路，探索元宝在设备硬件资源利用上的创新可能。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/axonnic": {
+    "title_clean": "Axonnic：机器人训练肌电感知袖套",
+    "summary": "Axonnic推出肌电感知袖套，用于机器人训练。该产品通过捕捉肌肉信号来辅助机器人学习和优化动作，为机器人训练提供生物反馈数据，对元宝在AI助手与物理世界交互场景的探索有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kestrix": {
+    "title_clean": "Kestrix：基于DAG的CI控制平台",
+    "summary": "Kestrix是一个与代码仓库无关的CI控制平台，采用基于有向无环图(DAG)的触发机制，为持续集成流程提供更灵活的控制方式。产品经理可关注其工作流编排能力对元宝自动化任务处理的启发价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/speakon": {
+    "title_clean": "SpeakON Agent：语音转任务执行AI助手",
+    "summary": "SpeakON Agent是一款能将自然语音转化为实际工作任务的AI助手工具，用户可通过语音指令让AI代理完成具体工作，为语音交互与AI任务执行结合提供了新思路，对元宝在语音交互场景下的功能拓展有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/knocket-ai": {
+    "title_clean": "Knocket AI：网站访客聊天工具",
+    "summary": "Knocket AI是一款网站访客聊天工具，允许用户通过网站或链接与访客进行实时对话。这款产品为网站提供了即时沟通能力，可能帮助元宝产品经理了解网站集成式AI客服的场景与实现方式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/astrazeneca-cfo-on-ai-earnings-restructuring-plan-video": {
+    "title_clean": "阿斯利康CFO谈AI应用、业绩与重组计划",
+    "summary": "阿斯利康首席财务官表示，该公司在几乎所有工作环节都应用了AI技术。她讨论了业绩表现、药物研发管线以及公司如何评估AI价值，这对了解大型制药企业AI落地策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-30/why-electronic-arts-shut-down-bioware-and-cancelled-mass-effect": {
+    "title_clean": "艺电关闭BioWare工作室并取消《质量效应》项目",
+    "summary": "游戏发行商艺电因财务压力选择将资源转向《星球大战》IP，关闭BioWare工作室并取消《质量效应》系列新作。这一决策反映了大型游戏公司在资源分配上的战略调整，对元宝产品经理了解IP价值评估和资源取舍策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai": {
+    "title_clean": "旅游科技融资跌至多年低点，AI推动未能扭转趋势",
+    "summary": "尽管旅游需求保持稳定，但投资者对旅游科技初创公司的兴趣明显降温。即使有大量承诺用AI改善旅游体验的创业公司涌现，也未能扭转旅游科技融资额持续下滑的趋势，这可能预示着AI在旅游领域的商业化面临挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/us-stock-futures-today-amazon-intel-mondelez-reddit-stryker": {
+    "title_clean": "美股期货今日：亚马逊、英特尔、蒙德莱兹、Reddit、史赛克",
+    "summary": "标普500指数期货下跌1.1%，科技股业绩不佳加速资金从该板块流出。此资讯对元宝产品经理了解科技股市场动向和投资者情绪变化有参考价值，有助于把握AI相关企业的市场表现和投资趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/tech-stocks-poised-to-drop-after-amazon-adds-to-ai-spending-fear": {
+    "title_clean": "科技股下跌：亚马逊AI支出加剧市场担忧",
+    "summary": "科技股连续两日下跌，市场对AI支出的担忧与大型科技公司核心业务业绩不佳形成双重压力。这一动态对AI产品经理具有重要参考价值，提示AI商业化路径需平衡投入与实际业务收益。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-digitaljobs-com": {
+    "title_clean": "DigitalJobs.com CEO访谈：数字招聘市场洞察",
+    "summary": "DigitalJobs.com CEO Daniel George Barker接受CB Insights采访，分享公司对数字招聘市场的定义、客户需求理解及公司战略。该访谈提供了招聘行业数字化趋势和用户需求的一手信息，对元宝在职业服务场景的产品规划有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-quantloop-technologies": {
+    "title_clean": "Quantloop Technologies CEO访谈：市场定位与客户需求洞察",
+    "summary": "Quantloop Technologies CEO Vinish Kumar Lonhare接受CB Insights采访，分享公司对市场的定义、客户需求的理解以及公司战略。这对元宝产品经理了解企业级数据分析服务市场定位和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-arbycon": {
+    "title_clean": "CEO Interview: Arbycon",
+    "summary": "Arbycon CEO Imad Eddin Bazzari接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司发展策略。作为AI行业高管访谈，提供了企业视角的市场洞察和战略思考，对元宝产品经理了解行业趋势和竞争格局有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/murata-boosts-mlcc-output-investment-to-keep-pace-with-ai-demand": {
+    "title_clean": "村田投资64亿美元扩大MLCC产能以满足AI数据中心需求",
+    "summary": "村田制造计划五年内投资1万亿日元(64亿美元)，将电容器销量提高一倍以上，以巩固市场领先地位并满足AI数据中心前所未有的需求。这一投资反映了AI硬件基础设施的快速发展，对元宝产品经理了解AI产业链上游供应变化和硬件需求趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-adquiere-co": {
+    "title_clean": "CEO访谈：Adquiere.co",
+    "summary": "Adquiere.co的CEO Daniel Rodriguez接受CB Insights采访，分享了对市场定位、客户需求的理解以及公司发展策略。这为元宝产品经理提供了关于企业级服务市场洞察和客户需求理解的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/envision-s-zheng-on-china-s-ai-data-center-buildout-video": {
+    "title_clean": "Envision高管谈中国AI数据中心建设",
+    "summary": "远景集团AIDC总经理Ricky Zheng表示，公司计划在全球开发由可再生能源驱动的数据中心，重点布局拉丁美洲、南欧和非洲地区。这对元宝产品经理了解AI基础设施布局和可持续发展策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work": {
+    "title_clean": "职场AI使用宗教豁免案例：员工成功申请不使用AI工具",
+    "summary": "肯塔基大学行政人员David Durman成功获得宗教豁免，得以在工作场所不使用AI工具。这一案例反映了AI在工作场所普及过程中可能面临的伦理与宗教信仰冲突，对产品经理思考AI工具的强制使用边界与替代方案有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/stryker-cuts-outlook-as-cyberattack-impact-on-supply-lingers": {
+    "title_clean": "Stryker下调业绩预期：网络攻击持续影响医疗设备供应链",
+    "summary": "医疗设备公司Stryker因3月遭遇的网络攻击持续影响生产运营，下调了全年业绩预期。此次事件凸显了网络安全对医疗设备供应链的潜在威胁，对AI助手在关键基础设施保护场景的应用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada": {
+    "title_clean": "Meta与INCA合作：为加拿大视障人士提供AI辅助服务",
+    "summary": "Meta与加拿大非营利组织INCA合作，致力于为视障、听障及低视力人群提供支持。这一合作体现了AI技术在无障碍服务场景中的应用，为元宝产品在无障碍功能开发方面提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-28/equinix-says-data-project-barriers-could-boost-its-pricing-power": {
+    "title_clean": "Equinix：数据中心项目壁垒提升定价能力",
+    "summary": "全球最大数据中心公司Equinix表示，新项目上线壁垒增加将使现有容量更具价值，并可能加强其市场定价能力。这对元宝产品经理了解基础设施成本变化和AI服务部署成本趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls": {
+    "title_clean": "Binance遭黑客攻击暂停存取款：数字货币行业最大盗窃案",
+    "summary": "加密货币交易所Binance遭遇价值63亿美元的黑客攻击，成为数字资产行业史上最大规模盗窃案，交易所已暂停所有存取款操作。此次事件凸显了加密货币交易平台的安全风险，对元宝产品经理评估金融类AI助手的安全防护和风险提示功能具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -153378,5 +153378,141 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/JyMmABEgp_JR8oETiIhewA": {
+    "title_clean": "为什么别人家的芯片，能跑更大的模型?",
+    "summary": "本文探讨不同芯片架构在运行大型AI模型时的性能差异，分析影响模型规模的关键硬件因素，为AI产品经理在选择底层技术架构时提供参考依据。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/SuHla75ppkRi6uow-lnWFg": {
+    "title_clean": "DeepSeek公布下一代agentharness理念",
+    "summary": "DeepSeek发布了其下一代agentharness理念，这可能是其AI Agent架构或框架的重要更新，为构建更强大的AI助手提供了新思路。产品经理可关注这一理念如何影响AI Agent的能力边界和开发范式，为元宝的产品迭代提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/iFDavXu2LTzNqrcQXjhVzQ": {
+    "title_clean": "谷歌TPU在轨运行Gemma 4：AI模型首次太空部署",
+    "summary": "谷歌首次将TPU处理器部署在轨道上运行Gemma 4模型，标志着AI计算能力首次进入太空环境。这一突破为太空任务中的AI应用开辟新可能，对元宝产品经理了解AI边缘计算与特殊场景部署有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/28C3URVrOK4V4JSRlWNCgg": {
+    "title_clean": "清华联合清屿科技等团队推出自进化多物理场AI解析技术",
+    "summary": "清华大学联合清屿科技等团队推出自进化多物理场AI解析技术，旨在提升AI对物理世界的理解和解析能力。这项技术可能为AI助手在物理环境感知、多模态交互等方面提供新的技术路径，对元宝产品在物理世界理解和应用场景拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/dLOamv1p1VDPfLvkCgCfpg": {
+    "title_clean": "Claude取消200美元套餐的5小时使用限制",
+    "summary": "Anthropic宣布取消Claude Pro月付200美元套餐的5小时使用限制，用户现在可无限制使用该套餐。这一调整可能影响AI助手产品的定价策略和用户付费意愿，对元宝的产品经理具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack": {
+    "title_clean": "FBI指责朝鲜黑客窃取6亿美元加密货币",
+    "summary": "FBI确认朝鲜黑客对币安(Binance)发动大规模黑客攻击，窃取价值超过6亿美元的加密货币。这反映了加密货币交易所面临的安全威胁，以及国家支持的黑客组织在金融领域的攻击能力，对元宝产品经理评估安全防护和风险管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale": {
+    "title_clean": "TechCrunch 创始人峰会：助力科技创业者拓展人脉与业务规模",
+    "summary": "TechCrunch 创始人峰会将于11月4日在波士顿举办，提供全天候的深度交流机会、实用洞察和可能改变业务轨迹的人脉资源，对科技创业者拓展业务规模具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push": {
+    "title_clean": "Meta与中国创业公司合作开发人形机器人原型",
+    "summary": "Meta与中国机器人公司Fourier合作开发人形机器人原型，并已开始研发第二版，这显示社交媒体巨头正加速推进机器人开发，可能为AI助手提供物理交互能力，对元宝产品经理探索AI助手物理化应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake": {
+    "title_clean": "Apple CEO：不为AI而AI，谨慎推进AI战略",
+    "summary": "苹果新CEO公开阐述公司在AI领域的立场，强调不会为追求AI技术而盲目推出产品，表明苹果对AI应用持谨慎态度，注重实用价值而非技术噱头，这对AI产品经理思考技术落地与用户实际需求的平衡有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/u-s-stocks-dive-ai-spending-fears": {
+    "title_clean": "美股因AI支出担忧大幅下跌",
+    "summary": "亚马逊和英特尔季度业绩不佳引发科技股抛售，纳斯达克指数下跌近3%，标普500指数也受影响。这反映了市场对AI投资回报的担忧，对元宝产品经理评估AI商业化路径和投资者预期有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text": {
+    "title_clean": "Zest：AI餐厅预订助手",
+    "summary": "Zest推出AI智能助手，可整合多人口味偏好，提供餐厅选项供投票，并自动完成预订。该产品解决了群体用餐决策难题，通过AI代理简化餐厅预订流程，为元宝在服务场景和AI Agent能力方面提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

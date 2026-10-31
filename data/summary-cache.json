@@ -152891,5 +152891,279 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ac-bridge": {
+    "title_clean": "AC Bridge：智能灯光提示工具",
+    "summary": "AC Bridge是一款智能灯光提示工具，当Claude Code或Codex需要用户时，通过智能灯光进行提醒。这款产品解决了开发者在使用AI编程工具时可能错过重要通知的问题，通过视觉提示增强用户体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/awaitio": {
+    "title_clean": "AwaitIO：TypeScript 管理屏开发工具",
+    "summary": "AwaitIO 是一款 TypeScript 开发工具，专注于帮助开发者快速构建管理界面。该工具简化了管理屏幕的开发流程，为产品经理提供了提升后台管理系统开发效率的参考方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pluto-door": {
+    "title_clean": "Pluto Door：AI代理SSH客户端与服务器桌面",
+    "summary": "Pluto Door是一款结合AI代理功能的SSH客户端，为每个服务器提供桌面界面，简化远程服务器管理流程，提升运维效率。产品将传统命令行操作转化为图形化交互，适合需要频繁管理多台服务器的产品经理参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chainpoints": {
+    "title_clean": "ChainPoints：航班积分价值对比工具",
+    "summary": "ChainPoints是一款在Google Flights上展示航班积分价值的工具，帮助用户比较不同航空里程兑换同一航班的实际价值，为积分兑换决策提供数据支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hemmed": {
+    "title_clean": "Hemmed：Mac菜单栏整理工具",
+    "summary": "Hemmed是一款Mac应用，帮助用户隐藏杂乱的菜单栏项目并固定常用操作，提升桌面整洁度和操作效率。对元宝产品经理有参考价值，特别是在AI助手界面设计中的信息组织和用户交互优化方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/secret-key": {
+    "title_clean": "Secret Key：家庭密码共享工具",
+    "summary": "Secret Key是一款密码管理工具，允许用户在无法解锁密码时让家人访问。该产品解决了紧急情况下密码共享的安全问题，为产品经理提供了家庭场景下密码管理的新思路，可作为元宝安全功能或家庭共享场景的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/backenly-2": {
+    "title_clean": "Backenly：AI编程代理自主后端工具",
+    "summary": "Backenly是一款为AI编程代理提供自主后端支持的工具，能够简化AI代码生成过程中的后端管理，帮助开发者更高效地构建AI编程应用。产品经理可关注其如何解决AI编程代理的后端集成挑战，为元宝的代码生成功能提供技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mo-5": {
+    "title_clean": "Mo：Mac端AI任务助手",
+    "summary": "Mo是一款Mac平台的AI助手工具，能够执行232项任务，帮助用户自动化完成日常操作。产品经理可关注其任务执行能力与多场景应用，为元宝的Mac端功能扩展提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/knucklebop": {
+    "title_clean": "Knucklebop：Mac触控手势控制工具",
+    "summary": "Knucklebop是一款通过轻拍Mac笔记本掌托区域来控制电脑的工具，提供了一种新颖的交互方式，可能为AI助手在物理设备控制方面提供新的交互思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/seqora": {
+    "title_clean": "Seqora：可视化SQL设计工具",
+    "summary": "Seqora是一款可视化数据库设计工具，用户可在画布上设计数据结构，系统自动生成SQL代码。该工具能帮助产品经理简化数据库设计流程，提高开发效率，对需要处理数据结构的产品具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says": {
+    "title_clean": "OpenAI融资目标下调100亿美元，AI市场遇冷",
+    "summary": "据《金融时报》报道，OpenAI将融资目标下调100亿美元，受AI股票抛售和竞争对手Anthropic即将上市的影响，OpenAI在获取投资者承诺方面面临挑战。这一动态反映了AI市场近期降温趋势，对元宝产品经理评估AI行业投资环境和商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-lowers-fundraising-target-after-decreasing-possible-valuation": {
+    "title_clean": "OpenAI下调融资目标并降低估值预期",
+    "summary": "OpenAI在最新一轮融资中寻求的资金规模已从原计划下调100亿美元，据《金融时报》报道，此举反映了公司可能降低估值预期。这一变化对元宝产品经理具有重要参考价值，表明AI巨头融资环境趋紧，可能影响行业竞争格局和产品发展策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lumafold-screen-light": {
+    "title_clean": "LumaFold：iPhone化妆镜与色彩效果工具",
+    "summary": "LumaFold推出iPhone化妆镜与色彩效果应用，提供虚拟化妆镜功能和色彩特效，针对iPhone双摄像头设备优化。产品经理可参考此类AI视觉工具在美妆场景的应用，探索AR滤镜与实时图像处理在AI助手中的集成可能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/opay-shares-fail-to-trade-after-raising-304-million-in-us-ipo": {
+    "title_clean": "Opay：尼日利亚支付平台美国IPO后未成功交易",
+    "summary": "尼日利亚支付平台Opay在美国IPO中筹集了3040万美元，但股价未能在纽约如期开始交易。这一事件对产品经理了解新兴市场支付公司的融资挑战和上市风险有参考价值，特别是对于考虑拓展非洲市场的支付或金融科技产品。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/seventeen-ai-100-alumni-stealth": {
+    "title_clean": "Seventeen AI 100校友：17家处于隐秘模式的新创公司",
+    "summary": "本文分析了入选CB Insights AI 100榜单的17家校友公司目前处于隐秘模式，这些公司虽无公开产品或融资信息，但通过创始人背景可推测其可能正在构建的AI产品方向，为产品经理提供AI行业新兴创业趋势参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company": {
+    "title_clean": "苹果超越英伟达成为全球市值最高公司",
+    "summary": "苹果公司重新成为全球市值最高的公司，超越英伟达。投资者在人工智能相关担忧中寻求iPhone制造商的 perceived safety，反映了市场对科技巨头估值的变化趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake": {
+    "title_clean": "英特尔股价暴跌，政府持股缩水120亿美元",
+    "summary": "英特尔受PC销售下滑影响，同时AI行业大量消耗内存等组件导致PC价格上涨，造成英特尔股价大幅下跌，政府持有的英特尔股份价值缩水120亿美元。这对AI硬件供应链和PC市场格局变化有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people": {
+    "title_clean": "Theranos举报人警告AI热潮存在欺骗风险",
+    "summary": "Theranos公司前举报人Tyler Shultz警告AI热潮可能成为欺骗投资者的机会，指出当前许多从未盈利的公司正以万亿估值融资，提醒AI行业需警惕类似Theranos的欺诈风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/power-on-podcast-crackgate-touchscreen-mac-video": {
+    "title_clean": "Apple 终于推出触控屏 MacBook Pro：结束二十年的坚持",
+    "summary": "苹果公司终于推出触控屏 MacBook Pro，结束了长达二十年来对触控屏笔记本的抵制。这一转变可能预示着苹果产品交互方式的重大变化，对元宝产品经理在多模态交互设计上有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/chevron-keeps-microsoft-data-center-timeline-despite-texas-pause": {
+    "title_clean": "Chevron坚持推进微软德克萨斯数据中心项目",
+    "summary": "雪佛龙公司表示将按计划推进与微软合作的德克萨斯州西部数据中心项目，尽管州长已暂停数字基础设施许可。这表明大型企业对AI基础设施建设的持续投入，对元宝产品经理了解AI服务提供商的底层基础设施布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/helping-websites-express-ai-training-preferences": {
+    "title_clean": "OpenAI：支持通过robots.txt表达AI训练偏好",
+    "summary": "OpenAI宣布将遵循统一的robots.txt信号，帮助网站运营者向AI训练提供商传达其偏好。这一举措为网站提供了更便捷的方式来控制其内容是否被用于AI训练，对AI内容获取合规性和网站自主权有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/kioxia-s-profit-jumps-due-to-ballooning-ai-data-storage-needs": {
+    "title_clean": "Kioxia：存储芯片价格增长放缓",
+    "summary": "Kioxia Holdings发布利润预警，称AI推动的闪存芯片价格在经历数季度高速增长后正在放缓。这一信号对AI硬件供应链和成本结构有参考价值，可能影响AI服务提供商的硬件采购策略和成本规划。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

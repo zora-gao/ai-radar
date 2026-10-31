@@ -153165,5 +153165,130 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/godwit": {
+    "title_clean": "Godwit：开源原生邮件客户端",
+    "summary": "Godwit是一款开源的原生AI邮件客户端，专为AI交互设计。作为邮件工具类产品，它展示了AI如何重构传统应用界面与交互方式，对元宝在AI应用场景拓展和原生AI产品设计方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agnos": {
+    "title_clean": "Agnos：AI文档清理工具",
+    "summary": "Agnos是一款文档清理工具，专为AI使用而设计，能够清理文档内容并显示被移除的部分。这款工具对产品经理有参考价值，因为它解决了AI训练数据预处理中的实际问题，特别是在处理敏感信息或优化输入数据质量方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/github-copilot-fusion": {
+    "title_clean": "GitHub Copilot Fusion：AI编程模型融合工具",
+    "summary": "GitHub推出Copilot Fusion，这是一款AI编程助手，能够智能选择并组合多个AI模型来提供代码建议。这一创新可能改变AI编程工具的交互方式，为元宝产品团队在多模型协作和智能代码生成方面提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/binance-in-talks-for-malaysia-license-after-five-year-absence": {
+    "title_clean": "Binance：寻求重返马来西亚市场",
+    "summary": "加密货币交易所Binance正与马来西亚监管机构洽谈，寻求获得在该国运营的许可，以重返一个曾对其网站实施封锁的市场。这反映了Binance在合规化方面的努力，以及加密货币企业在不同市场寻求合法运营的挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-31/ai-spending-fears-hammer-big-tech-stocks-video": {
+    "title_clean": "AI投资担忧重压大型科技股",
+    "summary": "彭博科技与战略产业高级编辑Mike Shepard指出，大型科技公司业绩不佳加剧了投资者对大规模AI投资回报的担忧，导致科技股承压。这一市场信号对元宝产品经理评估AI商业化路径和投资者预期具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ObosAMNdVV20xF3y9dXcQQ": {
+    "title_clean": "ClaudeCode：优化Claude提示词的工具",
+    "summary": "ClaudeCode是一款专门针对Claude AI的提示词优化工具，旨在帮助用户减少不必要的提示词输入，提高交互效率。对于产品经理而言，这反映了AI助手使用中提示词优化的用户需求，可作为元宝提示词工程优化的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down": {
+    "title_clean": "Ollie：隐私优先AI助手宣布关闭",
+    "summary": "Ollie是一款注重用户隐私的AI助手，随着市场上AI助手数量激增，创始人宣布将在一周内关闭服务。这一事件反映了AI助手市场的竞争加剧，以及隐私定位在商业上的挑战，对元宝产品经理评估差异化定位和隐私策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-tech-10-30-2026-video": {
+    "title_clean": "英特尔PC业务下滑，AWS CEO谈AI支出与增长",
+    "summary": "英特尔股价下跌反映PC市场持续低迷及CPU需求困境，AWS CEO Matt Garman讨论AI支出与增长策略。资讯揭示传统芯片巨头在AI转型中的挑战，对元宝产品经理评估AI硬件依赖与云服务竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/p2rXJwJyITkyM0101fwpWw": {
+    "title_clean": "启元PrimeSim世界模型登顶两大机器人权威榜单",
+    "summary": "启元PrimeSim世界模型在两大机器人权威榜单上获得排名第一，展示了其在机器人模拟和世界模型领域的领先地位。这一成就对AI助手产品经理具有重要参考价值，表明世界模型技术在机器人领域的应用正在取得突破性进展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-the-catalyst-report": {
+    "title_clean": "CEO访谈：The Catalyst Report市场洞察",
+    "summary": "The Catalyst Report CEO Kevin McCreton接受CB Insights采访，分享公司对市场定义、客户需求的理解和公司定位。该访谈提供了行业领导者对市场趋势和客户需求的见解，对元宝产品经理了解行业视角和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
   }
 }

@@ -152549,5 +152549,347 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/sNOWSMdiOLDu8nvQAR1s-g": {
+    "title_clean": "DeepSearch：复杂互联网环境下的搜索准确率挑战",
+    "summary": "DeepSearch在复杂真实互联网环境下的测试显示，最强模型准确率仅为39%，揭示了AI搜索系统在处理复杂真实世界信息时的局限性，对产品经理评估AI搜索能力边界和优化方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/AXDhedrQtUu_VDdUGgPpvA": {
+    "title_clean": "机器人任务进度记忆技术：连续工作4小时成功率超95%",
+    "summary": "机器人技术取得突破，新增任务进度记忆功能，可连续工作4小时且任务成功率超过95%。这项技术显著提升了机器人在长时间复杂任务中的执行能力和可靠性，为AI助手和Agent的长期任务处理提供了技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/E51sqcVsTzvtXjGtB-xurw": {
+    "title_clean": "机器人同伴学习：96台真机探索具身智能规模化成长",
+    "summary": "研究展示了96台真实机器人通过同伴学习的方式探索具身智能的规模化发展路径，为AI助手在物理世界中的协作学习提供了新思路，对元宝产品经理思考AI助手在现实场景中的协作能力与规模化应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Fi4HlaJYgiVqZuWoX7jUEQ": {
+    "title_clean": "具身数据技术沙龙：探讨规模之外的发展方向",
+    "summary": "11月5日将在张江举办具身数据技术沙龙，聚焦具身智能领域在数据规模之外的发展方向与竞争要素，为AI产品经理提供行业前沿洞察与潜在技术合作机会。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/5vLUYBXxK2IxWjyGPZQq3A": {
+    "title_clean": "破壳机器人发布RoboAPI：具身模型开箱即用平台",
+    "summary": "破壳机器人发布RoboAPI平台，使具身模型能够实现开箱即用，降低了AI实体机器人的技术门槛，为AI助手在物理世界的应用提供了新思路，对元宝产品经理探索AI服务场景拓展具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/nyse-owner-plans-hyperliquid-perpetuals-market-in-us-video": {
+    "title_clean": "NYSE母公司计划在美国推出Hyperliquid永续合约市场",
+    "summary": "纽约证券交易所母公司Intercontinental Exchange与加密交易平台Hyperliquid合作，计划将永续期货产品引入美国受监管市场，这标志着传统金融巨头与加密平台的进一步融合，对元宝在金融场景下的AI服务布局具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/s-p-lowers-metas-credit-outlook-amid-soaring-ai-spending": {
+    "title_clean": "标普下调Meta信用展望：AI投资激增但变现能力有限",
+    "summary": "标普全球评级将Meta Platforms的信用评级展望从稳定下调至负面，指出公司快速增长的AI投资变现能力有限，这反映了大型科技公司在AI投入与商业化之间的挑战，对元宝产品经理评估AI商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding": {
+    "title_clean": "Baseten：AI模型训练平台获融资估值将达300亿美元",
+    "summary": "AI模型训练平台Baseten即将完成新一轮融资，估值将翻倍至约300亿美元。这表明AI基础设施领域正获得大量资本投入，对元宝产品经理评估AI工具链投资趋势和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p": {
+    "title_clean": "Meta信用评级展望被下调至负面，因AI支出压力",
+    "summary": "标普全球评级将Meta Platforms的信用评级展望下调至负面，预计未来两年内可能正式降级。这反映了Meta在AI领域的大规模支出对其资产负债表造成的持续压力，对AI公司的财务可持续性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/fuelcell-energy-ceo-ai-race-won-t-be-won-by-pausing-video": {
+    "title_clean": "FuelCell Energy CEO：需重新思考AI基础设施的能源供应方式",
+    "summary": "FuelCell Energy CEO Jason Few讨论公众对公用事业账单上涨、水资源使用和化石燃料基础设施的担忧，并提及宾夕法尼亚州纽波特镇的一个拟议项目，探讨AI基础设施的可持续能源解决方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says": {
+    "title_clean": "Anthropic预计IPO后将获高垃圾级信用评级",
+    "summary": "据金融时报报道，黑石集团预测Anthropic在IPO后将获得高垃圾级信用评级，这将增加其融资难度和成本，影响其持续大规模支出的能力。这对AI公司融资策略和财务健康有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/illumina-ceo-on-q3-results-and-business-outlook-video": {
+    "title_clean": "Illumina CEO谈第三季度业绩与业务展望",
+    "summary": "Illumina CEO Jacob Thaysen表示公司第三季度业绩强劲，超出预期并上调了第四季度展望。公司表现已从基本持平提升至中个位数增长，这对AI医疗健康领域的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds": {
+    "title_clean": "科技宅万圣节装扮：AI代理图标与PHP漏洞创意",
+    "summary": "万圣节装扮创意指南，为科技爱好者提供多种技术主题装扮方案，包括将AI代理图标转化为可爱装扮、模拟PHP漏洞或模仿Bryan Johnson的睡衣造型，为AI产品经理提供创意灵感与用户场景参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom": {
+    "title_clean": "AI投资热潮显现裂痕",
+    "summary": "科技巨头正投入数十亿美元建设AI基础设施，但日益增长的债务、负现金流和投资者质疑，引发了对AI投资热潮可持续性的担忧。这对产品经理评估AI商业化路径和投资者预期具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.ycombinator.com/blog/how-david-mount-became-employee-2-for-the-second-time-at-10x-science": {
+    "title_clean": "How David Mount became employee #2 (for the second time) at 10x Science",
+    "summary": "资深工程师David Mount第二次成为YC W26创业公司10x Science的二号员工，该公司致力于帮助科学家通过研究氨基酸来发现治疗方法。此资讯对产品经理了解AI+生物科技领域的创业动态和人才流动有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/indian-space-agency-s-gslv-rocket-launches-navigation-satellite": {
+    "title_clean": "印度空间局发射导航卫星",
+    "summary": "印度空间局成功发射一颗导航卫星，旨在增强该国的定位跟踪系统。这一事件展示了国家在空间技术领域的持续投入，对元宝产品经理了解全球导航服务的技术发展和应用场景有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/how-apple-is-deflecting-the-duo-s-cracked-display-issue-video": {
+    "title_clean": "苹果应对iPhone屏幕裂纹问题：供应限制导致维修困难",
+    "summary": "苹果面临iPhone屏幕裂纹问题，由于供应限制导致用户难以获得屏幕更换服务。这反映了高端设备维修服务的供应链挑战，对元宝产品经理思考设备维护服务模式和用户痛点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild": {
+    "title_clean": "本周十大融资轮次：物理AI与预测平台领跑",
+    "summary": "本周最大融资轮次集中在物理AI和预测领域，制造初创公司Re:Build获21亿美元融资，预测市场平台Kalshi再获10亿美元投资。这些动向表明物理AI和预测服务领域正获得资本高度关注，可能预示着AI在工业制造和金融预测等垂直场景的应用机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry": {
+    "title_clean": "Google首颗数据中心卫星上线并创作诗歌",
+    "summary": "Google首颗搭载TPU的数据中心卫星已投入使用，运行DeepMInd的Gemma 4模型并创作诗歌。这标志着AI计算向太空拓展，为元宝产品经理提供了边缘计算与AI结合的新思路，以及未来分布式AI服务的可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-windfall-await-state-pension-funds": {
+    "title_clean": "Anthropic可能迎来主权财富基金投资",
+    "summary": "Anthropic可能获得美国州养老基金的大规模投资，这反映了AI行业与公共资本的结合趋势。对产品经理而言，这预示着AI企业融资渠道多元化，以及公共部门对AI商业化价值的认可，可能影响行业竞争格局和估值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026": {
+    "title_clean": "TechCrunch创始人峰会2026：最后5天注册优惠",
+    "summary": "TechCrunch创始人峰会2026将于11月4日在波士顿举行，目前距离报名截止仅剩5天，可享受最高100美元优惠及二次免费入场机会。对产品经理而言，这是了解行业趋势、潜在合作伙伴及竞品动态的重要行业活动。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/binance-confirms-6-3-billion-hack-plans-cover-losses": {
+    "title_clean": "Binance确认遭63亿美元黑客攻击，计划承担损失",
+    "summary": "全球最大加密货币交易所Binance确认遭受复杂网络攻击，涉及约63亿美元资金，成为史上最大规模加密货币黑客事件。Binance计划承担用户损失，这对平台安全性和风险管理具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/chinese-chip-leader-cxmt-s-sales-rise-sevenfold-yet-growth-slows": {
+    "title_clean": "中国存储芯片巨头CXMT销售额激增但增速放缓",
+    "summary": "中国存储芯片企业CXMT季度收入增长七倍，但增速放缓，表明AI推动的中国存储芯片价格上涨势头可能减弱。这对元宝产品经理评估AI硬件供应链变化及成本趋势有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-growthful": {
+    "title_clean": "CEO访谈：Growthful",
+    "summary": "Growthful CEO Swati Rai接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。内容包含市场定义和公司战略方向，对了解AI服务领域的企业战略和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-quikfret": {
+    "title_clean": "CEO Interview: Quikfret",
+    "summary": "Quikfret CEO接受CB Insights采访，分享其市场定位、客户需求认知及公司发展策略。作为一家物流运输企业，其CEO观点对元宝产品经理了解B2B服务场景和客户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/how-jio-fueled-india-s-digital-boom-video": {
+    "title_clean": "Jio如何推动印度数字革命",
+    "summary": "Jio通过廉价数据策略引发印度电信市场价格战，推动该国互联网订阅量超过11亿，彻底改变了印度人民的数字生活方式。这一案例展示了低价策略如何快速普及数字服务，对元宝在新兴市场拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth": {
+    "title_clean": "科技巨头7500亿美元AI投资面临核心业务增长放缓",
+    "summary": "美国科技巨头今年计划投入7500亿美元用于人工智能，但其核心业务（广告、消费和零售）正面临增长放缓的挑战。这一情况可能影响AI投资的持续性和回报率，对元宝产品经理评估AI商业化路径和风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/fair-use-benefits-everyone": {
+    "title_clean": "OpenAI分享法庭简报：合理使用原则如何支持AI训练与创新",
+    "summary": "OpenAI展示了创作者、学者、无障碍倡导者和法律专家等各方在法庭简报中的观点，阐述合理使用原则如何促进AI训练和创新，这对AI产品经理了解法律边界和行业共识具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

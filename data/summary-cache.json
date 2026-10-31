@@ -153290,5 +153290,93 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.theinformation.com/articles/billionaire-tax-might-fail-for-now": {
+    "title_clean": "亿万富翁税收政策可能暂时失败",
+    "summary": "关于亿万富翁税收政策的讨论，指出该政策目前可能面临失败。这一政策动向可能影响高净值人群的财富管理策略，间接影响AI产品在财富管理领域的应用场景和用户需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round": {
+    "title_clean": "OpenAI reportedly lowers funding target for new round",
+    "summary": "OpenAI最新一轮融资未达预期，据报道已下调融资目标。这反映了投资者对AI公司估值趋于理性，对元宝产品经理评估AI商业化路径和融资策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/telemetry-dev": {
+    "title_clean": "telemetry.dev：AI Agent可观测性工具",
+    "summary": "telemetry.dev是一款专门为AI Agent设计的可观测性工具，帮助开发者监控和分析大型语言模型在AI Agent中的表现与行为，为优化AI Agent性能提供数据支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/basetab-ai": {
+    "title_clean": "BaseTab AI：AI 新标签页工作空间",
+    "summary": "BaseTab AI 将浏览器新标签页转换为 AI 驱动的工作空间，提供 AI 助手功能，帮助用户快速获取信息、完成任务，提升工作效率。这类产品反映了 AI 助手向浏览器场景延伸的趋势，为元宝拓展浏览器集成场景提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/softbank-backed-opay-halts-ipo-to-respond-to-regulatory-inquiry": {
+    "title_clean": "OPay：尼日利亚支付平台暂停纽约上市",
+    "summary": "尼日利亚支付平台OPay因监管问询而暂停原定于周五在纽约证券交易所的首次公开募股。该平台由软银支持，此次上市暂停反映了非洲金融科技市场面临监管挑战，对元宝拓展海外市场有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/the-betting-coup-that-rocked-london-s-bookmakers-goes-unsolved": {
+    "title_clean": "伦敦博彩业未解之谜：美国赛马主管收到英国监管机构紧急联系",
+    "summary": "美国赛马监管主管Lisa Lazarus收到英国监管机构紧急联系，涉及一起震惊伦敦博彩业但未解决的案件。此事件可能对博彩业AI监管和风险控制系统提供参考价值，特别是跨境监管和异常行为检测方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-30/binance-heist-shows-power-of-suspected-north-korean-hackers": {
+    "title_clean": "朝鲜黑客被指涉嫌参与币安史上最大黑客攻击",
+    "summary": "据报道，价值63亿美元的币安交易所史上最大黑客攻击事件被归咎于朝鲜黑客。朝鲜黑客组织近年来频繁针对数字资产进行攻击，这对AI安全防护和反欺诈系统提出了更高要求，产品经理需关注AI在金融安全领域的应用机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
   }
 }

@@ -153762,5 +153762,80 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/raah-dev": {
+    "title_clean": "Raah.dev：网站收入与性能分析工具",
+    "summary": "Raah.dev是一款网站性能监控工具，帮助用户追踪收入、分析数据和监控网站表现。产品经理可参考其功能设计，为元宝增加网站数据分析能力，特别是收入追踪和性能优化功能。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/usage-for-claude": {
+    "title_clean": "Claude + ChatGPT 4.0：跨平台使用限制指南",
+    "summary": "该资讯详细介绍了在Mac、iPhone、iPad和Apple Watch上使用Claude和ChatGPT 4.0的限制情况，为产品经理了解多平台AI助手的使用边界和兼容性问题提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/modelpeers": {
+    "title_clean": "Modelpeers：AI模型与关注社区平台",
+    "summary": "Modelpeers是一个社交平台，用户可以关注AI模型和智能体，类似于关注社交媒体上的个人。该平台为AI模型提供展示和互动空间，产品经理可参考其AI模型社区化运营模式，探索用户与AI建立情感连接的新方式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos": {
+    "title_clean": "Fluent 2：本地运行的AI助手",
+    "summary": "Fluent 2是一款在Mac本地运行的AI助手产品，能够作为用户的AI队友提供本地化服务。该产品强调本地运行特性，可能涉及隐私保护和离线功能，对元宝产品经理在AI助手本地化部署和隐私保护方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/candidates-backing-data-center-pauses-win-15-governors-races": {
+    "title_clean": "数据中心政策立场可能影响15个州长选举结果",
+    "summary": "随着数据中心从默默无闻成为选民关注焦点，中期选举候选人正在就这一问题表明立场。州长职位的竞争最为激烈，该职位已显示出对数据中心政策的关键影响力，这可能影响多达15个州长选举的结果。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up": {
+    "title_clean": "苹果触控屏MacBook Pro评测；软件部门游戏业务调整",
+    "summary": "苹果发布配备触控屏的MacBook Pro，同时软件部门进行游戏业务重组。这对元宝产品经理有参考价值，因为触控屏交互可能影响AI助手的多模态交互设计，而苹果软件业务调整可能反映其对AI游戏化服务的战略方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

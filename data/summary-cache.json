@@ -153837,5 +153837,101 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/3j5TRO5Y6UKHdVHAos94EA": {
+    "title_clean": "混合架构用线性注意力还是滑窗注意力？复旦创智OpenMOSS团队：…",
+    "summary": "复旦创智OpenMOSS团队探讨了混合架构中线性注意力与滑窗注意力的选择问题，分析了两种注意力机制在性能与效率上的差异，为AI模型架构设计提供了技术参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/pTFaY3P27Eq9R2uuIQ5EQg": {
+    "title_clean": "算力的尽头是电力？从第一性原理看AI基础设施",
+    "summary": "本文探讨AI基础设施与电力消耗的关系，从第一性原理分析算力发展的能源瓶颈，为产品经理提供AI基础设施可持续发展的思考方向，有助于评估长期产品策略与能源成本考量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/mci26p6jgAQqpj7IITgGiQ": {
+    "title_clean": "Fysiverse-UniWAM：机器人真机测试新方法",
+    "summary": "Fysiverse-UniWAM提出了一种不依赖大规模机器人预训练的新方法，在24项真机测试中表现出色。这项技术突破对机器人AI训练领域具有重要意义，为元宝产品经理提供了AI模型在物理世界应用的新思路，特别是在机器人自主学习和环境适应方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/RylvMN6koiXK4YbaHlFwmA": {
+    "title_clean": "具身RSI的真假之争：机器人是在自我进化，还是在反复刷题?",
+    "summary": "探讨具身RSI(机器人自我进化)技术的真实性与局限性，分析机器人是真正实现自我进化还是仅通过反复训练提升特定任务表现，这对AI助手和AI Agent的发展方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else": {
+    "title_clean": "AI能否让科技CEO的生活更轻松？",
+    "summary": "本文探讨科技CEO的言论为何显得与大众脱节，分析AI技术如何为高管提供便利，以及这种技术鸿沟对普通用户的影响。对产品经理有参考价值，提示在AI产品设计时需考虑不同用户群体的实际需求差异。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-01/inside-indonesia-s-wash-trade-scheme-video": {
+    "title_clean": "印尼洗盘交易 scheme：MSCI降级风险与监管应对",
+    "summary": "印尼股市洗盘交易行为导致面临MSCI指数降级风险，文章分析了这一现象的成因及监管机构的应对措施。对产品经理了解金融市场监管动态、合规风险及市场信号价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/cY2IU-SdtvXheEcjqkniQg": {
+    "title_clean": "英伟达开源PixelUMM：像素空间视频统一模型",
+    "summary": "英伟达开源PixelUMM模型，摒弃传统VAE和ViT架构，直接在像素空间实现视频统一处理。这一技术突破可能为AI视频生成和理解提供新思路，对元宝在多模态视频处理能力上的研发具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic": {
+    "title_clean": "DeepSeek：发布增强型编程代码助手",
+    "summary": "DeepSeek发布了更自主的编程代码助手原型，旨在挑战Anthropic的Claude Code。这一产品更新表明AI编程助手领域的竞争加剧，产品经理可关注其功能特性与市场定位，评估对元宝在代码辅助场景的竞争策略影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

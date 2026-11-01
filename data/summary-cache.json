@@ -153589,5 +153589,178 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ernd": {
+    "title_clean": "ernd：AI服务信用卡工具",
+    "summary": "ernd推出专为AI服务设计的信用卡产品，旨在简化企业获取和使用AI服务的支付流程。该产品可能为AI服务提供商提供了一种新的商业化渠道，也为企业用户提供了更便捷的AI服务采购方式，对元宝探索AI服务商业化模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chorin-ora-et-labora": {
+    "title_clean": "Chorin: 中世纪修道院建造模拟游戏",
+    "summary": "这是一款从1258年至今建造中世纪修道院的模拟游戏，玩家可以体验历史建筑的设计与建造过程。对元宝产品经理的参考价值在于了解历史教育类AI应用的交互设计可能性，以及如何将历史知识转化为沉浸式体验。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentmash": {
+    "title_clean": "agentmash：开源团队AI编程协作平台",
+    "summary": "agentmash是一款开源的多人AI协作平台，专为团队编程代理设计，支持多个AI代理协同工作。该产品为元宝产品经理提供了AI团队协作工具的参考案例，有助于探索多代理协作场景和开源AI产品的商业化路径。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hamdori": {
+    "title_clean": "Hamdori：桌面3D仓鼠助手",
+    "summary": "Hamdori是一款桌面3D仓鼠助手，可在用户桌面上显示并互动，为用户提供陪伴式体验。这种桌面宠物形式可能为AI助手产品提供情感化交互的新思路，特别是对于需要轻量级陪伴或减压场景的用户。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/termy-6ded6eb5-533c-4df5-a4f6-94b97ed8ca62": {
+    "title_clean": "Termy：AI编程助手",
+    "summary": "Termy是一款AI编程助手，集成在电脑屏幕凹槽区域，为开发者提供代码编写辅助功能。这类工具对元宝产品经理有参考价值，可作为AI Agent在特定场景（编程）下的应用案例，启发多模态交互和垂直领域AI服务的设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/screen-studio": {
+    "title_clean": "Screen Studio：屏幕录制与编辑工具",
+    "summary": "Screen Studio 4.0 更新新增了玻璃放大镜、摄像头抠图、转录编辑等功能，是一款专注于屏幕录制与视频编辑的工具，对元宝产品经理在多模态交互和屏幕理解功能开发上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ideogram": {
+    "title_clean": "Precise Edit by Ideogram：AI精确编辑工具",
+    "summary": "Ideogram推出Precise Edit功能，提供基于上下文窗口的精确编辑能力，允许用户对AI生成内容进行更精细的调整和修改，这对提升AI内容生成工具的编辑能力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/embage": {
+    "title_clean": "Embage：客户代理构建与工作流分析工具",
+    "summary": "Embage是一款帮助企业为客户构建AI代理的工具，支持工作流运行和数据分析功能。产品经理可关注其如何将AI代理技术应用于客户服务场景，以及工作流分析能力对提升自动化服务效率的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/beebranch": {
+    "title_clean": "BeeBranch：本地优先桌面Git客户端",
+    "summary": "BeeBranch是一款本地优先的桌面Git客户端，专注于为开发者提供本地代码版本管理工具。作为Git客户端的替代方案，它强调本地优先的工作流程，可能对元宝产品经理在理解开发者工具需求、本地优先软件设计理念方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yuzu-sync": {
+    "title_clean": "Yuzu Sync：Mac文件夹同步工具",
+    "summary": "Yuzu Sync是一款Mac平台文件夹同步工具，支持镜像、复制或双向同步文件夹功能。对于元宝产品经理而言，这类工具展示了文件管理场景下的用户需求，可作为AI助手文件操作功能的竞品参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/magpie-14": {
+    "title_clean": "magpie：视觉内容管理工具",
+    "summary": "magpie是一款视觉内容管理工具，能够将用户保存的所有内容整合到一个可视化库中，帮助用户更高效地管理和浏览图片、视频等视觉资源。对于元宝产品经理而言，这提供了AI助手在内容组织和视觉资产管理方面的产品思路参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/riverside-fm": {
+    "title_clean": "Riverside Agents：AI视频制作与发布代理团队",
+    "summary": "Riverside推出AI代理团队，可完成视频制作、编辑、剪辑和发布全流程，为内容创作者提供一站式自动化视频处理解决方案，大幅提升视频内容生产效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clawsgo-science": {
+    "title_clean": "ClawsGO Science：AI研究助手与云端实验室",
+    "summary": "ClawsGO Science是一款AI研究助手，配备专属云端实验室功能，能够帮助研究人员进行科学实验和数据分析。该产品将AI代理技术与实验室环境结合，为科研人员提供自动化实验支持，对元宝在科研服务场景的AI应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-26/anthropic-s-s-1-signals-growth-ahead-neuberger-s-flax-video": {
+    "title_clean": "Anthropic S-1文件预示显著增长前景",
+    "summary": "纽伯格高级研究分析师Daniel Flax表示，Anthropic提交的S-1文件显示其拥有'非凡的增长轨迹'。这一信号对元宝产品经理具有重要参考价值，表明Anthropic作为AI助手领域的竞品正经历快速增长，可能影响市场竞争格局和用户需求变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

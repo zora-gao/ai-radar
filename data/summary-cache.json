@@ -153514,5 +153514,80 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward": {
+    "title_clean": "NAACP起诉xAI数据中心污染案获法院批准推进",
+    "summary": "NAACP起诉SpaceX旗下的xAI公司违反《清洁空气法》，指控其数据中心造成环境污染。此案反映了AI基础设施建设面临的环保挑战，对元宝产品经理了解AI企业社会责任和可持续发展考量有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/I2lnEPmBEShAkcOdmqqT6Q": {
+    "title_clean": "谷歌团队探讨Coding Agent整仓迁移中的训练与推理行为对齐问题",
+    "summary": "谷歌团队研究将整仓代码迁移交给Coding Agent时，训练与推理行为能否保持对齐的技术挑战。这对AI Agent在实际开发环境中的可靠性和一致性具有重要参考价值，尤其涉及大规模代码迁移场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/fbi-says-north-korea-behind-6-3-billion-binance-hack": {
+    "title_clean": "FBI：朝鲜黑客造成币安6.3亿美元被盗案",
+    "summary": "FBI确认朝鲜黑客是史上最大加密货币交易所币安6.3亿美元盗窃案的幕后黑手。这一事件凸显了加密货币平台面临的安全威胁，对AI助手在金融安全领域的应用场景和风险防控能力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/wMJKK0dNp77jIKWiL3-vyA": {
+    "title_clean": "奥特曼：PC内存应优先用于AI数据中心",
+    "summary": "奥特曼提出PC内存配置过剩的观点，认为应将更多内存资源分配给AI数据中心，这可能影响未来PC硬件配置方向和AI基础设施发展策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens": {
+    "title_clean": "OpenAI与三星高层会面，深化芯片与AI基础设施合作",
+    "summary": "OpenAI首席执行官山姆·阿尔特曼在韩国与三星集团高层会面，就内存芯片和AI基础设施深化合作，以应对全球芯片短缺加剧的挑战。此次合作可能影响AI算力供应和成本结构，对元宝的产品基础设施规划有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia": {
+    "title_clean": "Nvidia：考虑为西弗吉尼亚Nscale AI数据中心提供贷款担保",
+    "summary": "Nvidia正考虑为西弗吉尼亚州的Nscale AI数据中心提供贷款担保，以缓解投资者对AI支出的担忧。此举显示Nvidia正通过金融支持方式推动AI基础设施建设，对AI芯片厂商与数据中心合作模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

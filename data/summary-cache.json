@@ -154335,5 +154335,422 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/widgeteer": {
+    "title_clean": "Widgeteer：AI网站组件生成工具",
+    "summary": "Widgeteer是一款AI工具，用户只需描述所需网站组件，即可自动生成可工作的代码并部署到网站上。这为产品经理提供了快速构建网站功能的新思路，可能简化网站开发流程并降低技术门槛。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/help-381": {
+    "title_clean": "Help：目标明确且透明的帮助应用",
+    "summary": "这是一款专注于提供有针对性且透明的帮助的应用程序。它可能旨在简化用户获取支持的过程，通过明确的方式连接需要帮助的人和能够提供帮助的资源，对于元宝产品经理在优化用户支持服务和提升帮助功能透明度方面具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agent-inbox": {
+    "title_clean": "Agent Inbox：AI助手多平台集成工具",
+    "summary": "Agent Inbox为AI助手提供电子邮件、Slack和Telegram的集成接口，使AI能够通过这些主流通信渠道接收信息并进行交互。这为元宝产品经理提供了AI助手跨平台接入的参考方案，有助于拓展AI助手的服务场景和用户触达渠道。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/mendler-s-northwood-reaches-2-billion-valuation-video": {
+    "title_clean": "Mendler's Northwood：航空航天基础设施公司获20亿美元估值",
+    "summary": "航空航天初创公司Northwood获得3.75亿美元融资，估值达20亿美元，用于扩展航天产业所需的地面基础设施生产和部署。CEO为Bridgit Mendler，这笔融资反映了航天基础设施领域的投资热度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/anthropic-to-spend-895-billion-in-the-years-ahead-video": {
+    "title_clean": "Anthropic计划未来投入895亿美元发展Claude聊天机器人",
+    "summary": "Anthropic在公开上市前宣布未来将投入超过895亿美元发展Claude聊天机器人，并披露其季度收入增长情况。这一巨额投资反映了Anthropic对AI聊天机器人市场的信心，以及对Claude产品线扩展的长期规划，对元宝产品经理了解行业巨头战略方向和资金投入规模有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/qatalyst-notches-its-biggest-deal-with-rare-buyside-m-a-role": {
+    "title_clean": "Qatalyst：科技行业投资银行最大交易",
+    "summary": "Qatalyst Partners这家专注于科技行业的精品投资银行完成了其历史上最大的一笔交易，打破了其通常专注于出售公司的常规业务模式，转而罕见地担任买方顾问角色。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/opinion-gta-vi-shows-why-gaming-needs-ai-video": {
+    "title_clean": "GTA VI：AI降低游戏开发成本案例",
+    "summary": "Bloomberg观点指出，随着开发成本飙升，游戏工作室面临财务风险和实验机会减少的问题。GTA VI案例表明AI技术可降低游戏开发成本，帮助游戏行业应对当前挑战，为元宝在游戏AI应用场景提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/supermarkets-across-europe-report-suspected-freezer-hack-video": {
+    "title_clean": "欧洲多地超市遭遇疑似冰箱黑客攻击",
+    "summary": "欧洲多家超市遭遇疑似网络攻击，导致冰箱和冷库温度异常变化，这是继法国类似事件后的又一次安全事件。这一事件对AI助手产品经理有参考价值，提示智能设备安全防护的重要性，尤其是涉及物联网设备控制的服务场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode": {
+    "title_clean": "DeepSeek：AI Agent 创作者模式上线",
+    "summary": "DeepSeek 推出新的创作者模式，允许用户快速创建自定义插件，帮助解决复杂任务。这是中国实验室加强其 AI Agent 产品线的最新举措，为元宝产品经理提供了 AI Agent 功能扩展和插件生态建设的参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior": {
+    "title_clean": "42AI：AI行为预测模型获6250万美元融资",
+    "summary": "42AI正式发布并完成6250万美元融资，推出能够预测人类行为的AI世界模型，即使在全新情境下也能预判用户行为，为AI助手预判用户需求提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/nyc-comptroller-steps-up-criticism-of-anthropic-after-ipo-filing": {
+    "title_clean": "纽约市审计长对Anthropic IPO提出批评",
+    "summary": "纽约市审计长公开批评Anthropic的IPO计划，认为该方案可能削弱股东权力，并阻碍普通民众对潜在危险技术的监管。这对AI公司治理和监管合规具有重要参考价值，特别是对考虑上市的AI企业而言。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026": {
+    "title_clean": "Google 2026年10月最新AI动态",
+    "summary": "Google发布了2026年10月的最新AI产品更新，涵盖AI助手、多模态交互和AI搜索等领域的进展。这些更新对元宝产品经理了解行业头部企业的技术方向和产品迭代策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/apple-s-valuation-premium-confronts-ai-jitters-video": {
+    "title_clean": "苹果估值溢价面临AI焦虑挑战",
+    "summary": "苹果近期股价上涨使其在财报报告中几乎没有容错空间，当前股价已处于高位。这反映了市场对苹果AI战略的担忧，以及投资者对科技巨头在AI领域表现的密切关注，对元宝产品经理评估AI商业化路径和用户期望有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-via-codos": {
+    "title_clean": "Executive Interview: Via Codos",
+    "summary": "Via Codos首席技术官Aabid Rizam接受CB Insights采访，分享公司对市场的看法、客户需求以及公司定位。作为一家AI相关企业的高管访谈，提供了行业视角和战略思考，对元宝产品经理了解行业趋势和竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/binance-boosts-market-maker-incentives-in-wake-of-record-hack": {
+    "title_clean": "Binance：加密交易所提高做市商激励",
+    "summary": "Binance在遭受6.3亿美元历史性黑客攻击后，提高部分做市商在其平台交易的激励措施，以增强平台交易活动。此举反映了加密交易所在安全事件后通过流动性支持来恢复市场信心的策略，对理解平台风险应对和流动性管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/meta-readies-cross-border-investment-bond-offering": {
+    "title_clean": "Meta计划通过债券融资至少200亿美元",
+    "summary": "Meta计划通过跨境投资级债券融资至少200亿美元，以评估投资者对其债务的兴趣，同时市场对科技巨头的融资能力存在质疑。这反映了大型科技公司正在积极寻求资金支持其AI等战略发展，对元宝产品经理了解科技巨头的资本动向和战略规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/anthropic-revenue-hits-nearly-17b-before-mega-ipo-video": {
+    "title_clean": "Anthropic营收达近170亿美元，大型IPO在即",
+    "summary": "Anthropic第三季度营收近170亿美元，同比增长12倍，这一强劲业绩将为其即将进行的首次公开募股(IPO)增添市场信心。作为OpenAI的主要竞争对手，Anthropic的快速增长反映了AI大模型商业化的巨大潜力，对元宝产品经理评估AI公司商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big": {
+    "title_clean": "TechCrunch 创始人峰会：波士顿创业者无需硅谷地址也能成就大事业",
+    "summary": "TechCrunch 创始人峰会将于11月4日在波士顿举办，聚焦创始人议程和有影响力的连接机会。提供团体票优惠，可节省高达100美元费用，为创业者提供交流平台。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/inside-apples-slog-create-first-robot": {
+    "title_clean": "Inside Apple's Slog to Create Its First Robot",
+    "summary": "苹果公司正努力开发其首款商用机器人，该设备配备九英寸可旋转屏幕。新任CEO John Ternus希望公司能认真对待机器人领域，但进展缓慢。这对AI产品经理有参考价值，显示科技巨头在机器人领域的探索与挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo": {
+    "title_clean": "Anthropic承诺投入8950亿美元支出，大型IPO临近",
+    "summary": "Anthropic宣布季度收入增长12倍，并计划未来投入超过8950亿美元，显示AI实验室在寻求投资支持的同时积极扩张业务规模，这对元宝产品经理了解AI巨头战略方向和市场竞争格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings": {
+    "title_clean": "Marvell以1150亿美元收购Lumentum，创科技史上最大并购案",
+    "summary": "Marvell Technology宣布以1150亿美元企业价值收购Lumentum，这是科技史上最大规模的并购交易之一。此次收购旨在抢占快速增长的数据中心市场，对AI芯片供应链和数据中心基础设施有重要影响，元宝产品经理需关注AI硬件领域整合趋势对AI服务性能的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-merlinic-ai": {
+    "title_clean": "Merlinic.ai：AI企业服务市场定位访谈",
+    "summary": "Merlinic.ai创始人Philip Edmundson接受CB Insights采访，分享其市场定位、客户需求理解及公司战略。作为一家AI企业服务提供商，该访谈揭示了其市场视角和产品方向，对元宝产品经理了解AI企业服务市场格局和竞争策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/apple-s-1-trillion-rally-leaves-no-room-for-error-on-earnings": {
+    "title_clean": "苹果市值突破万亿美元，财报表现不容有失",
+    "summary": "苹果公司股价近期大幅上涨，市值突破万亿美元，这使其在公布财报时几乎没有容错空间。作为iPhone制造商，苹果的业绩表现对投资者信心和市场预期具有重要影响，对科技行业尤其是AI相关产品线的战略规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack": {
+    "title_clean": "欧洲多国超市遭遇疑似黑客攻击致冷冻设备温度异常",
+    "summary": "比利时、爱尔兰、瑞典、芬兰等多国超市遭遇疑似网络攻击，导致冰箱和冷冻设备温度异常波动，此前法国也发生过类似事件。这反映了关键基础设施面临的网络安全风险，对AI助手在安全监控和应急响应场景的应用有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-fenrock": {
+    "title_clean": "Fenrock CEO访谈：市场定位与客户需求分析",
+    "summary": "Fenrock首席执行官Charu Sharma接受CB Insights采访，分享公司对市场的看法、客户需求的理解以及自身定位。这为元宝产品经理提供了AI服务领域企业战略视角，有助于理解市场格局和客户需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-bump": {
+    "title_clean": "Bump CEO访谈：市场定位与客户需求分析",
+    "summary": "Bump CEO James Jones Jr接受CB Insights采访，分享公司市场定位、客户需求理解及业务策略。该访谈提供了Bump对市场格局的洞察，有助于了解其产品方向和竞争策略，对元宝产品经理了解同类企业市场策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-chowbus": {
+    "title_clean": "Executive Interview: Chowbus外卖市场战略访谈",
+    "summary": "Chowbus营销副总裁Julie Gu接受CB Insights访谈，分享其市场定位、客户需求理解及公司战略。作为外卖平台，Chowbus的见解对元宝了解本地生活服务场景、用户需求及市场定位有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-wamo": {
+    "title_clean": "Wamo CEO访谈：市场定位与客户需求分析",
+    "summary": "Wamo集团CEO Yue Yuan接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在市场中的定位。这为元宝产品经理提供了AI服务市场定位和客户洞察的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/macquarie-executive-sees-ai-fast-tracking-junior-analyst-careers": {
+    "title_clean": "麦格理高管：AI加速初级分析师职业发展",
+    "summary": "澳大利亚麦格理资本高管表示，AI不会取代初级研究分析师的工作，反而会加速他们的职业发展。这一观点对AI在金融领域的应用及对初级岗位的影响提供了重要参考，有助于产品经理思考AI如何辅助而非替代专业人才。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-s-hackers-supercharge-crypto-heists-with-ai-skills": {
+    "title_clean": "朝鲜黑客利用AI技能加强加密货币盗窃",
+    "summary": "朝鲜黑客组织被指控实施史上最大规模加密货币盗窃，该组织由国家支持，成员从小接受精英黑客训练。他们现在利用人工智能技术增强攻击能力，这对AI安全防护和金融安全领域的产品经理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/ubs-asia-wealth-chair-hiring-selectively-amid-growth-video": {
+    "title_clean": "UBS亚洲财富管理主席：选择性招聘以支持增长",
+    "summary": "瑞银集团亚洲财富管理主席兼香港CEO Amy Lo表示，尽管亚太地区仍是强劲增长区域，但银行正采取选择性招聘策略。这一信息对元宝产品经理有价值，因为它反映了金融服务行业在AI辅助财富管理领域的专业人才需求变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/howard-marks-says-ai-stumbles-have-boosted-skepticism-video": {
+    "title_clean": "Howard Marks：AI市场挫折加剧行业质疑",
+    "summary": "橡树资本联合创始人Howard Marks指出，近期AI相关市场的挫折打破了该行业不可战胜的神话，反映出市场对AI技术的质疑情绪正在上升。这一观点对产品经理评估AI市场真实接受度和商业化挑战具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-10-30/ai-to-drive-40-growth-for-aws-ceo-garman-video": {
+    "title_clean": "AWS CEO：AI将驱动AWS增长40%",
+    "summary": "AWS CEO Matt Garman表示公司正通过'负责任地投资'AI基础设施建设来满足客户需求，这是AWS连续第六个季度实现收入增长的关键驱动因素。这一信息对元宝产品经理了解云服务商AI战略布局和市场需求变化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn": {
+    "title_clean": "数据中心成为中期选举议题，连布鲁克林也不例外",
+    "summary": "布鲁克林中期选举活动上，从市议员炉边谈话到民主党辩论，所有话题都围绕AI和数据中心展开，显示数据中心已成为政治关注焦点，对AI基础设施规划有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

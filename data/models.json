@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-11-02T08:47:59.333Z",
+  "generated_at": "2026-11-02T19:57:10.061Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "z-ai/glm-5.3-flashx-legal",
+      "name": "GLM 5.3 FlashX Legal",
+      "vendor": "Zhipu AI",
+      "vendor_slug": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.3-flashx-legal-20261102",
+      "created_at": "2026-11-02T13:29:14Z",
+      "context_length": 1048576,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.37,
+      "price_out": 1.25,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GLM-5.3-FlashX-Legal (GLM-Legal) is Z.ai's legal-domain variant of GLM-5.3-FlashX, a native multimodal model that accepts text, image, and video input and produces text. It adds legal-domain mid-training and post-training with reinforcement...",
+      "description_zh": "GLM-5.3-FlashX-Legal (GLM-Legal) 是 Z.ai 的 GLM-5.3-FlashX 的法律域变体，GLM-5.3-FlashX 是一种原生多模式模型，可接受文本、图像和视频输入并生成文本。它增加了法律领域的训练中期和训练后的强化......"
+    },
     {
       "id": "particle-ai/particle-1",
       "name": "Particle-1",
@@ -192,8 +217,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -216,8 +241,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
-      "price_out": 1.2,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1457,29 +1482,6 @@
       "supports_reasoning": true,
       "description": "Claude Opus 5.5 is Anthropic's flagship model for demanding reasoning, coding, and long-horizon agentic work, succeeding Claude Opus 5. It is particularly strong at multi-step changes in large codebases, code...",
       "description_zh": "Claude Opus 5.5 是 Anthropic 的旗舰模型，用于要求严格的推理、编码和长期代理工作，继承了 Claude Opus 5。它在大型代码库、代码……的多步骤更改方面尤其强大。"
-    },
-    {
-      "id": "nvidia/switchyard",
-      "name": "Switchyard",
-      "vendor": "NVIDIA",
-      "vendor_slug": "nvidia",
-      "url": "https://openrouter.ai/nvidia/switchyard",
-      "created_at": "2026-09-21T21:25:47Z",
-      "context_length": 1000000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": null,
-      "price_out": null,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": false,
-      "description": "Switchyard is an open-source model routing system that switches between multiple models to optimize the cost of requests. By default it will use OpenRouter market data to select the most...",
-      "description_zh": "Switchyard 是一个开源模型路由系统，可以在多个模型之间切换以优化请求成本。默认情况下，它将使用 OpenRouter 市场数据来选择最..."
     }
   ]
 }

@@ -154031,5 +154031,309 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/xmind": {
+    "title_clean": "Xmind 2027：AI思维导图助手",
+    "summary": "Xmind 2027版本将思维导图升级为AI思维伙伴，通过AI辅助用户进行思维拓展和内容创作，为产品经理提供AI工具与思维导图结合的创新案例参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/friday-work": {
+    "title_clean": "Friday Work：Claude任务溢出处理工具",
+    "summary": "Friday Work是一款工具，当Claude达到使用限制时，能够继续处理未完成的任务。这为AI助手在达到使用限制后的任务延续提供了解决方案，对产品经理思考如何处理AI服务边界情况有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hyperresearch": {
+    "title_clean": "Hyperresearch：AI代理搜索工具",
+    "summary": "Hyperresearch是一款提供持久化、可验证的AI代理搜索工具，专注于提升搜索结果的准确性和可靠性。该产品对元宝产品经理具有参考价值，特别是在AI搜索和Agent能力建设方面，可启发如何优化搜索结果的验证机制和持久化存储方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI搜索",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/diff-tour": {
+    "title_clean": "diff-tour：AI代码阅读学习工具",
+    "summary": "diff-tour是一款AI辅助工具，帮助用户理解代码变更，通过AI分析代码差异并以资深工程师的视角进行解读，提升代码审查和学习效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/display-dev": {
+    "title_clean": "Display 1.0：AI代理文档与应用创建工具",
+    "summary": "Display 1.0是一个工作空间平台，允许用户通过AI代理创建文档和应用程序。该产品整合了AI代理能力，为用户提供一站式的内容开发解决方案，对元宝产品经理在AI代理应用场景和文档处理功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hera-6": {
+    "title_clean": "Hera：AI创意画布工具",
+    "summary": "Hera是一款名为AI Creative Canvas的创意工具，可能提供AI辅助的创意设计功能。作为一款创意类AI工具，它可能为元宝产品团队在创意生成、多模态交互或用户创作场景方面提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cedric": {
+    "title_clean": "Cedric AI for Meetings：AI会议代理工具",
+    "summary": "Cedric AI是首个能够代替用户演示幻灯片并参加会议的AI代理工具，解决了用户无法亲自参加会议时的痛点，为AI代理在会议场景中的应用提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/ubs-fowler-sees-appetite-for-buying-back-into-ai-trade-video": {
+    "title_clean": "瑞银分析师：市场对AI交易仍有强烈需求",
+    "summary": "瑞银欧洲股票策略主管兼衍生品主管Gerry Fowler表示，AI交易'仍然相当强劲'，并指出内存制造商正在定价一个他认为过于短暂的AI周期。这对元宝产品经理了解市场对AI技术的投资热情和行业周期判断有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps": {
+    "title_clean": "乌克兰与俄罗斯报告紧急警报应用遭受网络攻击",
+    "summary": "乌克兰和俄罗斯均表示其紧急警报和空袭预警系统遭受了网络攻击。这表明在冲突背景下，关键基础设施的网络安全防护成为重要议题，对AI助手在紧急情况下的信息传递和系统安全防护功能有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-indrajaal": {
+    "title_clean": "Executive Interview: Indrajaal",
+    "summary": "Indrajaal首席营销官Jay Naduvath接受CB Insights采访，分享公司对市场的看法、客户需求定位以及自身在市场中的角色定位。该访谈为AI产品经理提供了行业视角和竞争格局参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-gateco": {
+    "title_clean": "Executive Interview: Gateco",
+    "summary": "Gateco首席技术官Rami Refaeli接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了企业级AI解决方案的市场洞察和战略思考，对元宝产品经理了解企业AI服务市场定位和客户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/major-russian-oil-hub-on-fire-after-strike-nasa-data-show": {
+    "title_clean": "俄罗斯重要石油设施遭袭起火，NASA卫星数据证实",
+    "summary": "NASA卫星图像显示，乌克兰恢复对莫斯科石油资产的打击后，伏尔加地区一处主要的俄罗斯原油泵站和储存设施可能起火。这一事件反映了地缘政治冲突对能源基础设施的直接影响，对产品经理了解全球供应链风险和能源安全相关AI应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-anomaly": {
+    "title_clean": "CEO Interview: Anomaly：AI市场定位与客户需求访谈",
+    "summary": "Anomaly公司CEO Mike Desjadon接受CB Insights访谈，分享其市场定位、客户需求认知及公司战略。访谈内容涵盖市场定义、公司定位等关键信息，对AI产品经理了解行业头部企业战略思考有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-two": {
+    "title_clean": "Executive Interview: Two - 企业高管访谈",
+    "summary": "Two公司首席财务官Stavros Tamvakakis接受CB Insights采访，分享公司对市场的看法、客户需求分析以及企业定位。访谈内容有助于了解企业服务领域的发展趋势和客户需求变化，对元宝产品经理了解企业级AI服务市场有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-wmcockpit": {
+    "title_clean": "Executive Interview: WMCockpit：企业级AI驾驶舱技术访谈",
+    "summary": "WMCockpit首席技术官Christopher Morris接受CB Insights访谈，分享其市场定位、客户需求及公司战略。作为企业级AI驾驶舱解决方案提供商，WMCockpit的见解对元宝产品经理了解企业AI应用场景和客户需求具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/deepseek-unveils-autonomous-coding-agent-prototype": {
+    "title_clean": "DeepSeek：自主编程代理原型",
+    "summary": "DeepSeek发布了自主编程代理原型，这是中国AI实验室为与Anthropic的Claude Code、OpenAI的Codex等流行编程工具竞争而推出的新工具。该产品对元宝产品经理具有参考价值，展示了AI在编程辅助领域的最新进展和竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/hong-kong-chip-ipos-tap-intertwined-investors-boss-s-networks": {
+    "title_clean": "香港芯片IPO揭示投资者网络与老板关系",
+    "summary": "香港上市申请者公开了其首次公开募股的内部运作情况，揭示了交叉投资和个人关系，恰逢监管机构加强对结构化交易的审查。这一信息对元宝产品经理了解科技行业融资生态和监管趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/ntt-s-matsubara-on-cyberattacks-in-japan-video": {
+    "title_clean": "NTT首席网络安全专家谈日本网络安全风险",
+    "summary": "NTT首席网络安全战略家Mihoko Matsubara近期就日本政府、银行等机构遭受的网络攻击浪潮，分析了日本面临的关键网络安全风险，为元宝产品经理提供了网络安全领域的重要参考信息。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism": {
+    "title_clean": "橡树资本霍华德·马克斯：AI挫折加剧市场质疑",
+    "summary": "橡树资本联席主席霍华德·马克斯表示，近期人工智能相关市场的挫折在一定程度上打破了该领域不可战胜的泡沫，加剧了市场对AI技术的质疑态度。这对产品经理评估AI市场情绪和用户期望有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/where-do-you-hide-from-an-ai-bubble-video": {
+    "title_clean": "AI泡沫经济脆弱性分析",
+    "summary": "CG资产管理公司联席首席投资官Chris Clothier与Merryn Somerset Webb讨论AI繁荣的脆弱经济基础，分析可能导致AI支出热潮结束的因素，为产品经理提供AI行业经济可持续性的重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/capital-group-will-open-mideast-office-in-november-video": {
+    "title_clean": "Capital Group：中东办公室开设计划",
+    "summary": "Capital Group副总裁Jody Jonsson宣布将于11月正式在中东开设办公室，此举旨在把握当地投资机会并服务客户财富来源。这一动向对元宝产品经理了解国际资产管理机构区域扩张策略具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/salesforce-buy-defense-tech-startup-extending-acquisition-streak": {
+    "title_clean": "Salesforce收购国防技术初创公司Rune Technologies",
+    "summary": "Salesforce宣布收购国防技术初创公司Rune Technologies，以扩展其面向军事的软件工具套件Missionforce。此次收购表明Salesforce正在积极拓展其企业软件在国防领域的应用，为产品经理提供了企业级AI解决方案在专业垂直领域扩展的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/singapore-s-sttgdc-eyes-2-4-billion-loan-adds-to-ai-debt-binge": {
+    "title_clean": "新加坡STTGDC寻求24亿美元贷款，加入AI债务热潮",
+    "summary": "新加坡数据中心运营商STT GDC正与银行洽谈31亿新加坡元(24亿美元)的银团贷款，这反映了AI热潮下数据中心行业的大规模投资趋势。对产品经理而言，这表明AI基础设施需求强劲，可能影响云服务成本和可用性，是评估AI服务扩展成本的重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/google-energy-chief-space-data-centers-cost-100-times-earth": {
+    "title_clean": "Google能源主管：太空数据中心成本是地球的100倍",
+    "summary": "Google数据中心能源主管指出，太空数据中心的建设成本可能比地球上的数据中心高出100倍。这一观点来自一家正在测试AI服务器芯片的公司，为AI基础设施规划提供了重要参考，提醒产品经理在评估AI服务扩展性时需考虑实际成本限制。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off": {
+    "title_clean": "Kioxia：存储芯片需求增长放缓",
+    "summary": "日本存储芯片厂商Kioxia股价周一暴跌15%，其谨慎的业绩展望引发投资者担忧，表明人工智能驱动的爆炸性增长可能正在放缓。这对元宝产品经理评估AI硬件供应链变化及AI应用增长持续性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

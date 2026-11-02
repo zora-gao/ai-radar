@@ -153933,5 +153933,103 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.theinformation.com/articles/apple-uber-elections-headline-week": {
+    "title_clean": "科技巨头与AI投资影响市场动态",
+    "summary": "苹果、优步和Palantir等科技公司的表现可能影响股市走向，此前谷歌因AI支出担忧导致股价下跌，纳斯达克指数创下多月来最差表现。资讯反映了AI投资对科技巨头市值的影响，以及市场对AI商业化前景的担忧。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework": {
+    "title_clean": "特朗普政府拒绝公开AI测试框架相关信息",
+    "summary": "特朗普政府拒绝提供其自愿AI测试框架的关键文件，尽管此前已与非营利组织Protect Democracy Project达成协议。这一决定可能影响AI监管透明度，对元宝产品经理了解政策环境变化和合规要求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-02/the-music-industry-s-20-billion-public-market-problem": {
+    "title_clean": "音乐行业200亿美元公开市场问题：两大唱片公司难以吸引投资者",
+    "summary": "音乐行业两大公开上市唱片公司面临投资者信心不足的问题，反映出音乐产业在公开市场的估值困境。这对元宝产品经理有参考价值，特别是在探索音乐内容AI服务商业化模式时，需考虑行业资本环境对音乐AI服务合作与定价的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/binance-allows-customers-resume-withdrawals-sees-5-8-billion-net-outflow": {
+    "title_clean": "Binance：加密交易所恢复提现并面临58亿美元净流出",
+    "summary": "全球最大加密交易所Binance在经历63亿美元历史性黑客攻击后，于周日早晨恢复用户提现服务，但随后面临58亿美元资产净流出。这一事件对元宝产品经理有参考价值，反映了安全事件对用户信任和资金流动的直接影响，以及平台在危机后的恢复能力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/rgg-K12JXxSR_MJtQYyfLg": {
+    "title_clean": "AI公司要进入盈利时代了吗？",
+    "summary": "探讨AI行业从烧钱转向盈利的可能性，分析当前AI公司的商业模式和盈利路径，为元宝产品经理提供行业商业化趋势参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/informations-wtf-summit-pictures-2": {
+    "title_clean": "The Information's WTF Summit：女性科技领袖年度峰会",
+    "summary": "The Information举办年度WTF峰会，Anthropic、Google、高盛等数十家科技与媒体公司的女性领导者与会，探讨行业变革力量。对产品经理了解AI行业女性领导力视角和行业趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses": {
+    "title_clean": "OpenAI拟将数据中心更名为'AI计算园区'",
+    "summary": "OpenAI考虑将其数据中心重新命名为'AI计算园区'，以改善公众对数据中心的负面印象。这一品牌重塑策略可能影响AI基础设施的公众认知和行业术语，对产品经理思考AI服务基础设施的命名和定位有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/FyRiYFiM6vyg3XcnoQCA3A": {
+    "title_clean": "OpenAI合并额度池，计费聊天模式启动",
+    "summary": "OpenAI在Tibo28连续更新后，合并了用户额度池并开始实施计费聊天模式。这一变化标志着OpenAI从免费向商业化服务的转变，对产品经理了解AI聊天产品的商业化路径和用户付费策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

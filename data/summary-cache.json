@@ -155155,5 +155155,228 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/nexupira": {
+    "title_clean": "NEXUPIRA：AI协作助手工具",
+    "summary": "NEXUPIRA是一款AI协作助手工具，能够帮助用户完成工作任务。它通过AI技术提供协作支持，可能适用于团队协作场景，为产品经理提供了AI辅助工作的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/one-roof": {
+    "title_clean": "One Roof：多代码代理任务控制中心",
+    "summary": "One Roof是一个多代码代理任务控制中心，旨在协调和管理多个AI编程代理的工作流程。产品经理可参考其如何整合多个AI代理协同工作，为元宝在复杂任务编排和多代理协作方面提供设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nana-2": {
+    "title_clean": "nana：Windows 编程代理终端工具",
+    "summary": "nana 是一款专为 Windows 系统设计的编程代理终端工具，旨在为各类编程代理提供统一的操作环境。该产品对元宝产品经理有一定参考价值，特别是在 AI Agent 工具调用和跨应用操作方面，可能启发元宝在编程辅助场景下的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/corvo-3": {
+    "title_clean": "Corvo：智能邮件整理工具",
+    "summary": "Corvo是一款自动整理邮件的工具，能够在邮件到达时自动分类和整理收件箱，帮助用户减少邮件管理时间，提高工作效率。对于元宝产品经理而言，这展示了AI在信息自动分类和组织方面的应用场景，可借鉴其自动化处理逻辑提升助手类产品的信息管理能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/remote-gaze": {
+    "title_clean": "Remote Gaze：Mac远程控制工具",
+    "summary": "Remote Gaze是一款允许用户直接在iPad和iPhone上远程控制Mac的应用，无需中间服务器支持。这种直接设备间的远程控制能力可能为元宝在跨设备协作和远程控制场景提供产品思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/infino-ai": {
+    "title_clean": "Infino AI：AI Agent的向量与SQL搜索工具",
+    "summary": "Infino AI提供基于Parquet文件的向量搜索和SQL查询功能，专为AI Agent设计，使智能助手能够高效检索和处理结构化数据。该工具解决了AI Agent在处理复杂数据时的检索效率问题，为元宝产品经理在构建智能助手数据检索能力方面提供了技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/powerships": {
+    "title_clean": "PowerShips：战舰策略对战游戏",
+    "summary": "PowerShips是一款结合战舰元素的策略对战游戏，玩家可以在游戏中操控战舰进行战斗。这款产品对元宝产品经理在游戏化AI交互和策略类AI应用场景设计上有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/holdtalk": {
+    "title_clean": "HoldTalk：Mac语音转文字输入工具",
+    "summary": "HoldTalk是一款Mac应用，用户通过按住功能键说话，可将语音实时转换为文字并输入到任何Mac应用中。这为元宝产品经理提供了语音输入交互方式的参考价值，特别是在多模态输入和跨应用文本处理方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/iq-code": {
+    "title_clean": "IQ：团队AI使用仪表板",
+    "summary": "IQ是一款团队AI使用管理工具，提供仪表板功能帮助团队监控和分析AI使用情况。产品经理可参考其团队AI使用管理方案，了解如何组织和管理团队AI工具使用，优化AI资源分配。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-commas": {
+    "title_clean": "Executive Interview: Commas",
+    "summary": "Commas COO/CPO首席助理Angelina Hansel接受CB Insights采访，分享公司对市场定位、客户需求的看法，以及公司发展策略。这对元宝产品经理了解AI助手类企业的市场定位和产品策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says": {
+    "title_clean": "Nvidia要求数据中心客户缩减中国业务",
+    "summary": "据《金融时报》报道，Nvidia已指示其云计算客户减少与中国公司的业务往来。这一动向可能影响AI基础设施供应链，对元宝产品经理评估全球AI服务部署和供应链风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-sebuda": {
+    "title_clean": "Sebuda CEO访谈：市场定位与客户需求分析",
+    "summary": "Sebuda CEO接受CB Insights访谈，分享公司市场定位、客户需求认知及发展策略。作为一家AI相关企业的高管访谈，提供了行业视角和客户洞察，对元宝产品经理了解市场趋势和用户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/oracle-is-said-to-near-10-billion-share-sale-at-11-discount": {
+    "title_clean": "Oracle以11%折扣完成近100亿美元股票发售",
+    "summary": "Oracle公司以11%的折扣价完成了99亿美元的股票发售，此前其股价在周初波动中下跌。这一大规模融资反映了公司可能面临的市场压力，对AI领域企业融资策略和估值判断有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist": {
+    "title_clean": "朝鲜否认参与价值63亿美元的币安加密货币盗窃案",
+    "summary": "朝鲜否认美国关于其参与价值63亿美元币安加密货币盗窃的指控，此前FBI将这起史上最大加密货币盗窃案归咎于平壤精英黑客团队。此事件对加密货币安全和国际网络安全合作有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-slow-down-china-revenue-misses-estimates-video": {
+    "title_clean": "苹果销售放缓，中国营收不及预期",
+    "summary": "苹果第四财季销售增速放缓但仍超预期，中国地区营收未达预期，这是CEO John Ternus上任后的首份财报。对产品经理而言，这反映了高端消费电子市场可能面临增长压力，以及中国市场对AI助手类产品的潜在需求变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai": {
+    "title_clean": "Anthropic警告AI即将达到自我改进临界点",
+    "summary": "Anthropic表示AI已接近RSI(自我改进)能力，即AI能够高效自我训练并引发能力急剧加速。这对产品经理意味着需关注AI自主性发展对产品安全和竞争格局的潜在影响，尤其是Agent类产品的自我迭代能力边界。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition": {
+    "title_clean": "Omen AI：数据中心水处理解决方案提供商",
+    "summary": "Omen AI以1600万美元收购Aquatic Labs，两家专注于数据中心水资源问题的初创公司合并，旨在解决数据中心水资源管理挑战，为AI基础设施提供可持续解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/grid-protectors-program": {
+    "title_clean": "OpenAI推出电网保护者计划",
+    "summary": "OpenAI启动电网保护者计划，将与公用事业公司合作，帮助未来的计算园区支持电网可靠性并保护消费者电费成本。该计划反映了AI基础设施与能源管理的结合，对元宝产品经理了解AI企业社会责任和能源管理场景有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

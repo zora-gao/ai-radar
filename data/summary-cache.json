@@ -155378,5 +155378,857 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/prism-40": {
+    "title_clean": "Prism：硬件工程AI助手",
+    "summary": "Prism是一款专为硬件工程领域设计的AI助手工具，类似于Cursor但针对硬件开发场景，可能提供代码生成、调试或硬件设计辅助功能，对元宝拓展垂直领域AI助手具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sun-ai": {
+    "title_clean": "SUN Web & API：文本与PDF转音频工具",
+    "summary": "SUN Web & API提供将提示词和PDF文件转换为音频的功能，可通过网页界面或API接口使用。这项服务为AI产品经理提供了新的内容处理思路，特别是在多模态交互和文档处理方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/oreja-de-van-gogh": {
+    "title_clean": "Oreja de Van Gogh：ChatGPT语音播放时暂停Apple Music工具",
+    "summary": "Oreja de Van Gogh是一款工具，可在ChatGPT语音播放时自动暂停Apple Music，解决语音助手与音乐播放冲突问题。产品经理可参考此类场景化解决方案，优化AI助手在多任务环境下的用户体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flockbay": {
+    "title_clean": "Flockbay：基于Godot的免费AI游戏制作工具",
+    "summary": "Flockbay是一款基于Godot引擎开发的免费AI游戏制作工具，允许用户通过人工智能技术轻松创建游戏。对于元宝产品经理而言，这代表AI在创意工具领域的应用拓展，特别是降低游戏开发门槛的AI工具方向值得关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/akema": {
+    "title_clean": "Akema：Kafka消息检查与分析工具",
+    "summary": "Akema是一款专注于Kafka消息的只读检查与分析工具，帮助用户监控和分析Kafka消息队列中的数据流。对于元宝产品经理而言，这提供了在数据处理和消息队列管理方面的参考价值，特别是在构建需要处理大量实时数据的产品时可能的技术选型方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/brink-2": {
+    "title_clean": "Brink：MacBook触控板边缘控制工具",
+    "summary": "Brink是一款将MacBook触控板边缘转化为控制区域的工具，允许用户通过触控板边缘执行特定操作，提升交互效率。对于元宝产品经理而言，这种边缘交互设计思路可借鉴到多模态交互场景中，探索触控板、触摸屏等设备的创新交互方式。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lidcommit": {
+    "title_clean": "LidCommit：笔记本合盖自动提交代码工具",
+    "summary": "LidCommit 是一款开发工具，当用户关闭笔记本电脑盖时会自动执行代码提交操作，帮助开发者防止因忘记提交而丢失代码更改。这款工具解决了开发者在离开工作台时可能遗漏代码提交的痛点，对元宝产品经理在考虑自动化任务执行和用户场景设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/testera-3": {
+    "title_clean": "Testera：AI API测试工具",
+    "summary": "Testera是一款AI驱动的API测试工具，能够自动化测试API接口的功能与性能，帮助开发者提高测试效率与准确性。对于元宝产品经理而言，这反映了AI在开发工具领域的应用拓展，可能启发元宝在技术集成或开发者服务方面的功能创新。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen": {
+    "title_clean": "Calendarly：iPhone锁屏日历任务工具",
+    "summary": "Calendarly是一款在iPhone锁屏界面直接显示日历和任务的应用，帮助用户快速查看日程安排，无需解锁手机即可获取重要信息，提升日常时间管理效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/scrawl-2": {
+    "title_clean": "Scrawl：AI Agent 视觉问题展示工具",
+    "summary": "Scrawl 是一款允许用户通过视觉画面向 AI Agent 展示问题的工具，帮助用户以直观方式描述问题，增强 AI 对复杂场景的理解能力，为多模态交互提供了新的解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/machinemail": {
+    "title_clean": "MachineMail：AI代理专用真实邮箱服务",
+    "summary": "MachineMail为AI代理提供真实的收件箱服务，内置信任机制。这解决了AI代理在邮件交互中的身份验证和信任问题，为元宝产品经理提供了AI代理服务场景的新思路，特别是在需要与用户进行邮件交互的场景中具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/asklog": {
+    "title_clean": "asklog：AI 编程助手管理工具",
+    "summary": "asklog 是一款允许用户通过手机管理 AI 编程助手的工具，为 AI 代码助手提供管理和指导功能。产品经理可关注此类 AI 工具管理工具的发展，了解如何优化 AI 助手的使用体验和管理效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wavefunction": {
+    "title_clean": "Wavefunction：Mac开源编程助手",
+    "summary": "Wavefunction是一款面向Mac系统的极简开源编程助手，能够帮助开发者自动完成编码任务。作为轻量级AI Agent工具，它展示了AI在专业开发场景中的应用价值，为元宝在编程辅助领域的功能设计提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/beaquaro-studio": {
+    "title_clean": "Beaquaro Studio：多平台内容发布工具",
+    "summary": "Beaquaro Studio是一款内容发布工具，允许用户一次创作即可在多个平台发布内容，包括个人简介链接。这种跨平台内容分发能力对元宝产品经理在考虑多渠道内容策略和用户触达方式时具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kwant": {
+    "title_clean": "kwant：AI 互检机器人工具",
+    "summary": "kwant 是一款 AI 工具，通过让多个 AI 机器人互相检查彼此的工作成果，确保输出质量后再完成任务。这种互检机制可能为元宝的产品设计提供新的质量控制思路，特别是在需要高准确度的任务处理场景中。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/beamfy": {
+    "title_clean": "Beamfy：视障人士AI视觉助手",
+    "summary": "Beamfy是一款为视障人士设计的AI视觉助手，支持74种语言实时使用，能够帮助视障用户通过AI技术理解周围环境，提供视觉辅助服务。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hookdeck": {
+    "title_clean": "Hookdeck Inspect：免费webhook测试工具",
+    "summary": "Hookdeck Inspect是一款免费的webhook测试工具，专为开发者和AI Agent设计，帮助用户测试和调试webhook连接。产品经理可关注此类工具如何提升AI Agent与外部服务的集成能力，为元宝的自动化功能提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/testifly-launch": {
+    "title_clean": "Testifly：AI自动化测试工具",
+    "summary": "Testifly是一款自动化AI测试工具，无需提示词和人工维护即可完成质量保证工作。该产品解决了传统测试流程中需要持续干预的问题，为AI产品经理提供了一种降低测试成本的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vinsage": {
+    "title_clean": "VinSage：二手车信息查询工具",
+    "summary": "VinSage是一款Chrome侧边栏工具，提供美国和加拿大地区的二手车免费查询服务。产品经理可关注其轻量级信息获取方式，思考如何将类似便捷查询功能整合到AI助手服务中，提升用户在汽车相关场景的信息获取效率。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/apple-narrowing-margins-overshadow-holiday-forecast-video": {
+    "title_clean": "苹果利润率下滑，假日销售预期乐观",
+    "summary": "苹果公司在CEO John Ternus的首份季度报告中向投资者呈现了喜忧参半的业绩展望，尽管假日销售预期乐观，但利润率下滑成为主要关注点。这对元宝产品经理评估高端消费电子市场趋势和定价策略具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/statebench": {
+    "title_clean": "StateBench：语言模型长文档状态变化测试基准",
+    "summary": "StateBench是一个新的测试基准，专门评估语言模型在处理长文档时跟踪状态变化的能力。这一工具对产品经理有重要参考价值，因为它直接关系到AI助手在处理长文本、复杂任务时的准确性和可靠性，是评估和改进AI模型性能的重要指标。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ibm-research/palette-deck-building": {
+    "title_clean": "Palette：小模型设计风格适配工具",
+    "summary": "Palette是一款工具，能够训练小型模型理解并应用特定设计风格，帮助用户快速生成符合个人设计语言的设计方案。这对元宝产品经理有参考价值，特别是在如何让AI助手理解并应用用户个性化设计风格方面提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openai-afraid-jensen-huang": {
+    "title_clean": "英伟达CEO黄仁勋是否让OpenAI感到担忧",
+    "summary": "硅谷许多业内人士对英伟达CEO黄仁勋表示担忧，这可能反映出AI行业对芯片供应商影响力增强的关注，对元宝产品经理评估AI基础设施依赖与供应链风险有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidia-uses-soft-power-influence-customers-shape-policy": {
+    "title_clean": "英伟达如何利用软实力影响客户与政策",
+    "summary": "文章探讨英伟达如何通过非直接手段影响客户决策和政策制定，特别是在AI芯片销售策略上的软实力运用。对元宝产品经理了解科技巨头如何通过影响力塑造行业环境有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search": {
+    "title_clean": "Google将允许学校禁用AI工具，但将失去搜索功能",
+    "summary": "Google宣布学校可选择完全禁用AI功能，但此举将导致无法访问Google搜索，因为AI功能已深度集成到搜索引擎中。这反映了AI与核心搜索服务的捆绑策略，对教育场景下的AI工具部署和用户选择权有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/quant-trader-s-criminal-trial-to-spotlight-secretive-industry": {
+    "title_clean": "量化交易员刑事审判将聚焦秘密行业",
+    "summary": "一名量化交易员因涉嫌窃取算法交易代码而面临刑事审判，此案将使公众关注到他所在的秘密行业。这一事件对产品经理了解金融科技领域的法律风险和算法保护有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-molavi-says-60-of-s-p-500-is-in-bear-market-territory": {
+    "title_clean": "高盛分析师称标普500指数中60%股票处于熊市",
+    "summary": "高盛分析师Molavi指出，尽管标普500指数距离历史高位仅差3%，但该指数中60%的股票已处于熊市区域，表明市场内部存在显著分化，投资者需关注不同板块表现差异。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/apple-iphone-duo-not-a-big-growth-driver-craig-moffett-video": {
+    "title_clean": "分析师称iPhone Duo并非主要增长驱动力",
+    "summary": "MoffettNathanson分析师Craig Moffett表示，iPhone Duo虽然开局强劲，但受供应限制和等待时间延长影响，可能不会成为苹果的主要增长驱动力。这对产品经理评估高端手机市场策略和供应链管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/binance-hackers-used-fake-job-interviews-in-6-3-billion-heist": {
+    "title_clean": "Binance黑客利用虚假面试实施史上最大盗窃案",
+    "summary": "Binance披露黑客通过虚假面试等社会工程学手段及恶意软件，实施了价值63亿美元的最大规模盗窃案。这揭示了企业安全防护中针对社交工程攻击的薄弱环节，对AI助手在身份验证和安全防护场景的应用有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4": {
+    "title_clean": "TechCrunch 创始人峰会：2026年11月于波士顿举办",
+    "summary": "TechCrunch 创始人峰会将于2026年11月4日在波士顿SoWa Power Station举办，汇聚创始人与风投人士，提供实践洞察与交流机会。产品经理可关注行业趋势与潜在合作机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase": {
+    "title_clean": "TechCrunch 创始人峰会：票价明日上涨前可享优惠",
+    "summary": "TechCrunch 创始人峰会将于明日9点ET起上调票价，当前可享高达100美元的折扣，并额外获赠一张免费门票。这是了解AI行业动态和潜在合作机会的重要行业活动。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/isomorphic-labs-on-ai-drug-discovery-video": {
+    "title_clean": "Isomorphic Labs：AI加速药物发现新方法",
+    "summary": "Isomorphic Labs总裁Max Jaderberg在Bloomberg Tech 2026会议上讨论了AI如何加速科学发现并开辟药物开发的新途径。这对元宝产品经理有参考价值，展示了AI在专业领域的应用潜力，特别是如何将复杂科学问题转化为可计算任务，启发AI助手在专业领域的垂直应用方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/midterms-threaten-financial-upstarts-basking-in-trump-sweet-spot": {
+    "title_clean": "美国中期选举可能颠覆特朗普时代的金融市场秩序",
+    "summary": "美国中期选举可能改变特朗普政府时期建立的金融市场秩序，影响新兴数字金融公司的发展。这一政治变化可能对金融科技行业格局产生重要影响，产品经理需关注政策变化对AI金融服务场景的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/salesforce-sponsor-spotlight-video": {
+    "title_clean": "Salesforce Sponsor Spotlight：Salesforce与Trustpilot高管对话",
+    "summary": "Salesforce英国及爱尔兰技术副总裁Paul O'Sullivan与Trustpilot首席数字官Dave Williams探讨企业数字化转型的关键要素，分享大型企业在客户信任与数字服务方面的实践经验，对元宝产品经理了解企业级AI服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/private-backers-step-back-from-turkey-s-flagship-ev-project-at-800-million-valuation": {
+    "title_clean": "土耳其主权基金收购电动汽车Toggo股份，估值达8亿美元",
+    "summary": "土耳其主权基金从原始投资者手中收购电动汽车制造商Toggo的股份，这笔交易将埃尔多总统的旗舰工业项目估值提升至9亿美元。这反映了电动汽车领域投资格局的变化，对AI助手产品经理了解科技产业投资趋势和电动汽车生态发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek": {
+    "title_clean": "中国最大创业交易推动全球风投十月达590亿美元",
+    "summary": "根据Crunchbase数据，十月全球风投总额达590亿美元，同比增长45%，主要得益于中国DeepSeek创纪录的159亿美元融资。这一交易成为史上最大创业交易，对全球风投市场有重要影响，对产品经理了解AI领域融资趋势和行业动态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/ai-evolution-stokes-fear-factor-stanchart-ceo-winters-says": {
+    "title_clean": "AI引发就业担忧，渣打CEO称历史重演",
+    "summary": "渣打银行CEO表示AI可能导致数十万人失业，但安抚员工称这种情况历史上曾出现过。该资讯反映了AI对就业市场的潜在影响，对产品经理了解AI技术的社会接受度和用户顾虑有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/heimstaden": {
+    "title_clean": "Heimstaden：AI房地产管理解决方案",
+    "summary": "Heimstaden采用OpenAI的ChatGPT Enterprise和Codex技术，在欧洲范围内变革房地产管理，降低运营成本并提升员工效率。这对AI助手在垂直行业应用场景的拓展具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-tells-cloud-clients-take-less-china-business": {
+    "title_clean": "Nvidia：建议云客户减少与中国企业的业务往来",
+    "summary": "Nvidia近期建议部分云计算客户减少与中国企业的业务往来，这可能影响中国获取AI芯片的关键渠道。对产品经理而言，这反映了地缘政治对AI供应链的影响，需评估元宝产品在国际化部署中可能面临的供应链风险和合规挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/apple-slides-after-earnings-video": {
+    "title_clean": "苹果公司财报后股价下跌",
+    "summary": "苹果公司向投资者提供了混合业绩展望，尽管假日季销售预测乐观，但利润率收窄问题引发担忧。公司预计假日季营收增长7%至10%，但警告利润率压力可能持续，这一信息对元宝产品经理评估AI硬件集成和高端用户市场策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses": {
+    "title_clean": "中国计划制定全面的AI安全标准",
+    "summary": "中国计划制定一套全面的AI安全标准，涵盖从开发到部署的全过程，这是全球最全面的AI安全指导方针之一，旨在防止AI系统失控风险。这对元宝产品经理了解全球AI监管趋势和合规要求具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/korea-s-krafton-bets-on-bangalore-for-next-global-gaming-hit": {
+    "title_clean": "Korea's Krafton：在印度班加罗尔开发全球游戏",
+    "summary": "韩国游戏公司Krafton计划在印度班加罗尔建立开发工作室，利用其重要市场优势打造下一款全球热门游戏，以定义公司下一阶段的增长战略。这反映了游戏公司全球化布局策略，对元宝产品经理了解企业如何利用区域优势拓展国际市场有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-claimqi": {
+    "title_clean": "ClaimQI CEO访谈：保险理赔市场洞察",
+    "summary": "ClaimQI CEO Chadwick J. Wells接受CB Insights采访，分享公司对保险理赔市场的定义、客户需求理解及公司定位。内容包含市场策略和客户洞察，对元宝产品经理了解垂直领域AI服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/wall-street-ceos-big-global-money-managers-debate-ai-risks": {
+    "title_clean": "华尔街CEO与大型资管机构对AI风险看法分歧",
+    "summary": "华尔街顶级CEO与大型资产管理机构对AI风险存在分歧，前者强调AI市场的潜在收益，后者则对AI热潮的风险发出警告。这反映了金融行业对AI商业化前景的评估存在显著差异，对元宝产品经理了解AI在金融领域的接受度与风险认知有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/morgan-stanley-ceo-sees-up-to-15t-ai-investment-wave-video": {
+    "title_clean": "摩根士丹利CEO预测未来十年AI投资或达15万亿美元",
+    "summary": "摩根士丹利CEO Ted Pick预测未来十年AI投资规模可能达到10万亿至15万亿美元，主要源于AI带来的生产力提升潜力。这一预测反映了大型金融机构对AI经济价值的认可，为元宝产品经理提供了AI市场潜力和商业化前景的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/blackstone-pimco-chiefs-debate-the-perils-of-ai-boom-video": {
+    "title_clean": "黑石、太平洋投资管理公司高管辩论AI热潮风险",
+    "summary": "黑石集团总裁Jon Gray和太平洋投资管理公司CEO Emmanuel Roman在香港金管局全球金融领袖峰会上辩论全球信贷市场能否吸收科技行业数万亿美元的AI支出热潮，探讨AI投资热潮对金融市场的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses": {
+    "title_clean": "Google推出Dreambeans：AI生成个人故事服务进入印度市场",
+    "summary": "Google的AI实验项目Dreambeans现已支持13种印度语言，旨在将AI生成的个人故事服务带给印度大众。这一举措展示了Google在AI内容生成领域的新尝试，特别是在多语言支持方面的努力，对元宝产品经理在多语言AI内容生成服务方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/state-street-ceo-says-it-s-hard-to-see-ai-as-a-bubble-yet": {
+    "title_clean": "State Street CEO：AI投资尚未显现泡沫迹象",
+    "summary": "State Street CEO Ron O'Hanley表示，目前难以将AI视为泡沫，因为需求正在支撑对这项技术的大规模投资。这反映了金融行业对AI商业化前景的积极态度，对元宝产品经理判断AI市场成熟度和商业化时机有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/apple-forecast-tops-estimates-disappoints-investors-video": {
+    "title_clean": "Apple业绩预测超预期但未达投资者预期",
+    "summary": "苹果公司发布的假日季业绩预测超出华尔街分析师预期，但未能满足近期推高股价的投资者期望，显示出市场对科技巨头的高标准与实际业绩之间的差距。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/PBX0vRCCna17qT1sshAAFg": {
+    "title_clean": "他们押注四年，给出了另一种答案",
+    "summary": "该资讯描述了一个团队经过四年研发后提出的创新解决方案，但具体内容和领域信息不足。作为产品经理，可能需要关注这类长期研发项目的结果，特别是可能与AI产品创新或差异化竞争相关的内容。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ai-models-getting-harder-monitor-says-u-k-governments-joseph-bloom": {
+    "title_clean": "AI模型监测难度增加，英国政府专家警告",
+    "summary": "英国政府专家Joseph Bloom指出，监测AI模型以检测其行为意图和原因的难度正在增加，这对确保AI安全运行至关重要。这一趋势对产品经理意味着需要加强AI系统的可解释性和透明度设计，特别是在开发AI助手和Agent产品时。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/l-g-am-ceo-on-apac-growth-outlook-video": {
+    "title_clean": "L&G AM CEO谈亚太地区增长前景",
+    "summary": "L&G资产管理公司CEO Eric Adler分享其在亚太地区的业务增长策略和前景展望，这是在亚洲资产管理领域的重要市场信号，对元宝了解金融行业AI服务场景和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps": {
+    "title_clean": "苹果探索通过第三方AI应用增加收入的策略",
+    "summary": "苹果在财报电话会议中暗示，将通过第三方AI应用创造收入机会。这表明苹果正在探索AI生态系统的商业化路径，对元宝产品经理了解科技巨头如何从AI应用中获利具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite": {
+    "title_clean": "苹果中国销售不及预期影响亚洲硬件供应商",
+    "summary": "苹果公司第三季度中国营收未达预期，反映出在经济面临消费疲软的背景下，美国公司在中国业务面临挑战。这一信息对元宝产品经理了解高端消费电子市场动态及潜在用户消费能力变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/apples-slowdown": {
+    "title_clean": "Apple's Slowdown：苹果公司增长放缓",
+    "summary": "苹果新CEO John Ternus在首次财报电话会议上充满营销言辞而缺乏实质信息，反映出苹果可能面临增长放缓的挑战。这对元宝产品经理有参考价值，因为科技巨头的发展趋势可能影响AI助手产品的市场策略和用户期望。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/franklin-templeton-ceo-on-investment-growth-outlook-video": {
+    "title_clean": "Franklin Templeton CEO：投资与增长展望",
+    "summary": "富兰克林邓普顿CEO珍妮·约翰逊分享了对亚太及全球市场的投资展望、投资策略和业务增长策略。作为资产管理行业高管的观点，对AI助手在金融投资场景的应用和商业化方向具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-salesforce-acquires-startup-cresta-2-7-billion": {
+    "title_clean": "Salesforce以27亿美元收购AI客服自动化公司Cresta",
+    "summary": "Salesforce宣布以27亿美元收购成立九年的AI客服自动化软件提供商Cresta，这是其近期一系列收购中的最新一笔。此次收购表明大型企业正积极布局AI客服领域，对元宝产品经理评估AI服务商业化路径和竞品动态具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens": {
+    "title_clean": "YC总裁Garry Tan年耗20万美元使用AI代理",
+    "summary": "Y Combinator总裁Garry Tan透露因过度使用AI代理导致睡眠不足，每年在AI tokens上花费高达20万美元。这反映了AI代理在提高工作效率方面的潜力，同时也提示了AI服务的高成本问题，对产品经理评估AI代理的商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/apple-looks-very-smart-in-modest-ai-spend-tom-forte-video": {
+    "title_clean": "苹果在AI投入上展现精明策略：Tom Forte分析",
+    "summary": "分析师Tom Forte认为苹果在AI领域的投入相对克制但策略明智，特别关注12月季度最新iPhone销售表现，认为初始需求可能超出预期，这反映了苹果在AI产品化上的谨慎与平衡。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/the-emerging-ai-50-in-nyc": {
+    "title_clean": "The Emerging AI 50 in NYC：纽约新兴AI企业50强",
+    "summary": "这份报告由埃森哲和Tech:NYC联合发布，分析了纽约市AI领域新兴企业的现状，展示了AI如何改变当地商业格局并催生新一代企业，为元宝产品经理了解AI产业聚集地和企业生态提供了参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/spacex-talks-boost-mobile-expand-wireless-coverage": {
+    "title_clean": "SpaceX与Boost Mobile洽谈扩展无线网络覆盖",
+    "summary": "SpaceX正与廉价运营商Boost Mobile洽谈合作，计划扩展其现有无线网络覆盖范围，超越卫星网络。这一合作可能为元宝产品经理提供AI服务与物理网络结合的参考案例，特别是在扩展服务覆盖范围方面的商业模式探索。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping": {
+    "title_clean": "纽约时报等起诉浏览器Brave涉嫌内容抓取",
+    "summary": "纽约时报等媒体起诉隐私浏览器Brave，指控其抓取版权内容并非法提供给Anthropic等客户。此案涉及AI训练数据来源合法性，对AI产品内容获取策略和版权合规有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": {
+    "title_clean": "OpenAI提高安全漏洞赏金奖励",
+    "summary": "OpenAI提高安全漏洞赏金奖励，并引入报告质量、忠诚度和优先活动奖金，以奖励独立安全研究人员。这一举措有助于提升AI系统的安全性，对产品经理在考虑AI助手安全策略和用户信任建设方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/scaling-git-at-openai": {
+    "title_clean": "OpenAI：大规模代码管理平台 Pando",
+    "summary": "OpenAI 开发了名为 Pando 的 Git 兼容后端系统，专为支持 Codex 模型带来的大规模开发需求而设计。这一系统解决了大规模代码仓库管理的挑战，对 AI 辅助开发工具的底层架构建设具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/exclusive-openai-sign-deals-magnite-pubmatic-fill-unused-chatgpt-ad-space": {
+    "title_clean": "OpenAI与Magnite、PubMatic合作填充ChatGPT闲置广告位",
+    "summary": "OpenAI与广告技术公司Magnite和PubMatic达成合作，将利用其软件在ChatGPT的闲置广告位投放广告。这一合作标志着OpenAI开始探索ChatGPT的商业化路径，通过广告变现方式增加收入来源。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-marble-health": {
+    "title_clean": "Executive Interview: Marble Health",
+    "summary": "Marble Health的COO Daniel Ross接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈为医疗健康AI领域的市场策略和产品方向提供了高管视角的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-re": {
+    "title_clean": "Executive Interview: Re：产品设计与营销副总裁谈市场定位与客户需求",
+    "summary": "Re公司联合创始人兼产品设计与营销副总裁Natalie Eva Gray接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及公司定位。这对元宝产品经理了解AI产品市场定位策略和客户需求洞察有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-robot-monks": {
+    "title_clean": "Robot Monks CEO访谈：AI机器人市场定位与客户需求",
+    "summary": "Robot Monks CEO刘敏接受CB Insights访谈，分享公司对AI机器人市场的定义、客户需求分析及公司定位。内容包含市场战略思考，对元宝产品经理了解AI机器人行业格局和客户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/lifeval": {
+    "title_clean": "LifeVal：AI日常任务完成度评估基准",
+    "summary": "LifeVal是一个新发布的评估基准，用于衡量AI助手在帮助用户完成日常任务方面的表现，包括寻找儿童保育、管理财务和政府文件处理等场景。这一基准为产品经理提供了衡量AI助手实际服务能力的客观标准，有助于评估产品在真实用户需求中的表现。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

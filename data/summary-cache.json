@@ -154752,5 +154752,408 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/2QATdZQ4h0g-EIdnJAPgoQ": {
+    "title_clean": "顶级AI研究员的下一个机会在哪?",
+    "summary": "探讨顶级AI研究员的职业发展方向和行业机会，分析AI领域人才流动趋势，对元宝产品经理了解行业人才动向和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/P94V9SbLXk4G7QhWGowP1A": {
+    "title_clean": "浙大联合TeleAI提出GR-BC：机器人试错图搜索方法",
+    "summary": "浙江大学与TeleAI合作提出GR-BC方法，利用图搜索技术优化机器人试错过程，提升机器人学习效率。这一研究对AI Agent在物理世界中的自主决策能力有重要参考价值，可能启发元宝在服务场景中处理复杂任务的能力提升。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/AfgxXSW13ihLEWJ166otcA": {
+    "title_clean": "LeCun证明：规模效应无效，下一token预测效率低下",
+    "summary": "LeCun提出规模效应在AI模型中并不起作用，下一token预测路线效率低下。这一观点对AI大模型发展方向具有重要参考价值，可能影响元宝产品在模型架构选择和效率优化上的决策。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/smugglers-get-expensive-memory-chips-china-south-korea": {
+    "title_clean": "美国AI芯片出口限制漏洞：走私者如何将高端存储芯片从韩国运往中国",
+    "summary": "报道揭示了美国对华AI芯片出口限制存在的漏洞，走私者采用特定技术将韩国的高端存储芯片运往中国。这反映了当前国际芯片贸易管制面临的挑战，对元宝产品经理了解AI硬件供应链限制及合规风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/hkma-chief-yue-on-hk-growth-video": {
+    "title_clean": "香港金管局总裁谈香港经济增长",
+    "summary": "香港金融管理局总裁余伟文讨论了香港第三季度增长前景以及对香港外汇基金表现的预期。作为金融监管机构负责人的观点，对了解香港经济政策方向和金融环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-hires-ex-army-secretary-senior-advisor": {
+    "title_clean": "OpenAI聘请前陆军部长担任高级顾问",
+    "summary": "OpenAI聘请美国前陆军部长Dan Driscoll担任高级顾问，旨在扩大其AI技术在国防和军事领域的应用。这表明OpenAI正积极拓展政府与军事合作，对AI助手在国家安全领域的商业化布局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/apple-sales-cool": {
+    "title_clean": "苹果销售增速放缓",
+    "summary": "苹果新任CEO John Ternus上任后的首个财季财报显示，第四季度销售增速放缓。这一市场信号对元宝产品经理评估高端用户消费趋势和AI产品在高端市场的接受度具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts": {
+    "title_clean": "Trajectory：AI模型训练平台",
+    "summary": "Trajectory是一家成立一年的初创公司，已完成4500万美元融资，估值达3亿美元。该平台致力于让非技术专家能够轻松进行AI模型训练，降低了AI技术门槛，对元宝产品经理在降低用户使用门槛方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-meet-estimates-china-is-a-weak-spot-video": {
+    "title_clean": "苹果季度营收超预期，中国市场表现疲软",
+    "summary": "苹果第三季度营收达1145亿美元，同比增长12%，略高于分析师预期，但关键市场中国的销售未达预期。这对元宝产品经理了解高端用户市场动态和潜在服务场景变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/not-surprised-apple-beat-q4-estimates-idc-sr-director-video": {
+    "title_clean": "IDC预测：2026年iPhone Duo销量将达700万台",
+    "summary": "IDC高级总监Nabila Popal预测苹果iPhone Duo产品线2026年销量将达到700万台。苹果iPhone表现超出分析师预期，IDC初步出货数据显示iPhone表现优于智能手机市场整体水平，这对元宝产品经理了解高端AI设备市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/grab-boosts-sales-earnings-forecasts-on-rising-ride-demand": {
+    "title_clean": "Grab上调销售与盈利预期：东南亚出行与外卖需求增长",
+    "summary": "Grab控股公司上调全年收入和盈利预期，季度业绩超出预估，表明东南亚地区网约车和外卖需求持续增长，为AI服务在出行与外卖场景的应用提供了市场信心。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-taps-macquarie-commsec-for-australia-ipo-retail-offer": {
+    "title_clean": "Anthropic：与澳洲多家金融机构合作准备零售IPO",
+    "summary": "Anthropic与麦格理集团和澳洲联邦银行旗下CommSec等八家澳洲金融机构合作，为其澳大利亚零售IPO做准备，这为其备受期待的纳斯达克上市铺路。这对元宝产品经理了解AI独角兽的资本动向和上市策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/isomorphic-labs-president-says-ai-will-design-all-drugs-one-day": {
+    "title_clean": "Isomorphic Labs总裁：AI将主导未来药物设计",
+    "summary": "Isomorphic Labs总裁Max Jaderberg预测人工智能将最终用于开发所有药物，关键在于这一转变何时实现。这对AI在医疗健康领域的应用前景提供了重要参考，特别是药物研发这一专业场景的AI化趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/apple-growth-decelerates-with-china-sales-missing-estimates": {
+    "title_clean": "苹果利润率下滑，假日销售预期乐观",
+    "summary": "苹果公司在新任CEO约翰·特纳斯的首份季度报告中向投资者呈现了喜忧参半的业绩展望，利润率下滑被假日销售预期乐观所掩盖。这对元宝产品经理了解科技巨头财务表现与市场预期变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/match-falls-after-quarterly-sales-profit-outlook-miss-estimates": {
+    "title_clean": "Match Group：约会平台季度销售与利润不及预期",
+    "summary": "Match Group发布季度财报显示收入低于预期，并预测调整后盈利未达华尔街预期，表明其在业务表现上仍有改进空间。这对元宝产品经理了解社交约会类平台的商业化挑战和用户付费意愿变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-tech-11-02-2026-video": {
+    "title_clean": "Oracle启动200亿美元融资：用于AI基础设施投资",
+    "summary": "Oracle启动200亿美元融资计划，主要用于支持其AI基础设施投资。这一大规模融资反映了科技巨头在AI领域的激烈竞争和巨额投入，对元宝产品经理了解行业资本动向和AI基础设施发展趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees": {
+    "title_clean": "网站构建平台 Squarespace 裁员 19%",
+    "summary": "网站构建平台 Squarespace 宣布裁员 19%，这是其组织结构重组的一部分。这一裁员动向反映了 AI 行业可能面临的结构调整压力，对产品经理评估 AI 服务的成本结构和组织架构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/oracle-launches-20-billion-stock-bond-sales": {
+    "title_clean": "Oracle：融资200亿美元投入AI基础设施",
+    "summary": "Oracle通过债务和股权融资筹集200亿美元，主要用于大力投资AI基础设施建设。作为云和软件公司，此次融资反映了传统科技巨头在AI领域的战略投入加大，对元宝产品经理了解AI基础设施投资趋势和行业竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/russia-allows-use-of-foreign-data-centers-in-wake-of-attacks": {
+    "title_clean": "俄罗斯允许使用境外数据中心应对攻击",
+    "summary": "俄罗斯在乌克兰多次攻击科技巨头Yandex设施后，临时允许使用境外数据中心。这一政策变化可能影响在俄运营的AI服务提供商的数据存储策略，对元宝等国际AI产品在俄业务的数据合规性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/marvell-to-buy-lumentum-in-115-billion-deal-video": {
+    "title_clean": "Marvell以1150亿美元收购Lumentum",
+    "summary": "Marvell Technology宣布以1150亿美元企业价值收购Lumentum Holdings，这是一家光通信和激光技术公司。此次收购将加强Marvell在数据中心和AI基础设施领域的光通信能力，对元宝产品经理了解AI硬件供应链整合趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/contract-renewal-season-customers-biting": {
+    "title_clean": "企业客户重新谈判AI模型年度合同",
+    "summary": "大型企业客户正在与AI模型开发商重新谈判年度合同，这可能反映出企业对AI服务价值评估的变化，对元宝产品经理了解企业客户付费意愿和合同策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs": {
+    "title_clean": "马斯克限制Grok Bot使用量因成本过高",
+    "summary": "马斯克称Grok Bot增长速度为其生平最快，但因成本'高到不可持续'而限制其使用量。这反映了AI聊天机器人快速增长背后的成本挑战，对产品经理评估AI服务扩张策略和成本控制有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropics-revenue-surged-17-billion-q3-swung-back-operating-loss": {
+    "title_clean": "Anthropic：Q3营收达170亿美元，重回运营亏损",
+    "summary": "Anthropic在第三季度实现近170亿美元营收，环比增长47%，但营收增速明显放缓，并重新陷入运营亏损。这反映了AI大模型公司商业化过程中的挑战，对元宝产品经理评估AI公司盈利模式和增长可持续性有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/marvell-buy-lumentum-115-billion-all-stock-deal": {
+    "title_clean": "Marvell将以1150亿美元全股票收购Lumentum",
+    "summary": "芯片制造商Marvell Technologies宣布将以全股票方式收购激光器制造商Lumentum，交易价值高达1150亿美元，成为半导体行业史上最大规模的并购之一。这一交易反映了半导体行业整合趋势，对AI硬件供应链可能产生重要影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs": {
+    "title_clean": "OpenAI合并ChatGPT聊天与工作标签页",
+    "summary": "OpenAI宣布将ChatGPT的聊天与工作标签页合并，并调整Codex的使用配额分配方式。这一变更将影响用户访问不同功能的资源分配，对产品经理了解OpenAI的产品架构调整和资源管理策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-longreach": {
+    "title_clean": "Longreach：AI企业服务市场定位访谈",
+    "summary": "Longreach CEO Steve Strassmann接受CB Insights访谈，分享公司对市场定位、客户需求的看法。作为企业服务提供商，其观点对元宝了解B端AI服务市场策略和客户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-trustelis": {
+    "title_clean": "Trustelis CEO访谈：企业安全市场定位与客户需求分析",
+    "summary": "Trustelis CEO Rafi Koffler接受CB Insights采访，阐述其公司对市场的理解、客户需求分析以及自身在安全领域的定位。该访谈提供了企业安全服务提供商的市场视角和产品策略，对元宝在B端安全服务场景拓展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-adoptai": {
+    "title_clean": "Executive Interview: AdoptAI",
+    "summary": "AdoptAI首席运营官Stefan Brepoels接受CB Insights采访，分享了公司对市场的看法、客户需求以及公司定位。这为元宝产品经理提供了AI服务领域企业视角的市场洞察和客户需求理解。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-guardify": {
+    "title_clean": "Guardify CEO访谈：企业安全市场洞察",
+    "summary": "Guardify CEO Cedric Kohof接受CB Insights采访，分享了对企业安全市场定义、客户需求认知以及公司定位的看法。作为企业安全领域的CEO访谈，提供了市场趋势和客户需求的一手信息，对元宝产品经理了解企业级AI安全服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/openai-s-altman-travels-to-uae-to-sign-energy-investment-deals": {
+    "title_clean": "OpenAI与阿联酋签署能源与投资合作协议",
+    "summary": "OpenAI与阿联酋能源公司、投资机构和政府部门签署合作协议，部署其技术，同时寻求数十亿美元融资。这反映了OpenAI积极拓展国际市场，特别是在能源和金融领域的应用拓展，以及其融资战略的多元化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-rally": {
+    "title_clean": "Executive Interview: Rally：CTO谈市场定位与客户需求",
+    "summary": "Rally公司CTO Thiago Peres接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在行业中的定位。这为元宝产品经理提供了企业级AI服务市场洞察和客户需求参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/qodo-codex-plugin": {
+    "title_clean": "Qodo：AI代码审查工具",
+    "summary": "Qodo将公司知识和编码标准整合到Codex中，帮助开发者在提交拉取请求前跨仓库捕获P0级问题，提升代码审查质量和效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/dan-driscoll-joins-openai": {
+    "title_clean": "OpenAI任命国家安全现代化高级顾问",
+    "summary": "OpenAI任命Dan Driscoll担任国家安全现代化高级顾问，负责就负责任AI、网络弹性及与盟友合作提供建议。这反映了OpenAI在国家安全领域的战略布局，对AI助手产品在政府和企业市场的合规应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

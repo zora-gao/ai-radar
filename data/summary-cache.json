@@ -156230,5 +156230,563 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/brcks": {
+    "title_clean": "BRCKS Chat：建筑工地聊天协作工具",
+    "summary": "BRCKS Chat是一款专为建筑工地设计的聊天应用，旨在确保工地信息不丢失，提供团队沟通协作功能。产品经理可参考其垂直场景应用，思考如何为特定行业打造定制化AI聊天工具，解决信息管理痛点。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/nEojWHUY-QlXFbs0KDZgWg": {
+    "title_clean": "网络安全的AlphaGo时刻，或从这466场Agent对局开始",
+    "summary": "该资讯报道了466场网络安全Agent对局，暗示AI Agent在网络安全领域可能迎来突破性进展，类似于AlphaGo在围棋领域的里程碑意义。这对元宝产品经理了解AI Agent在专业领域的应用潜力及安全场景拓展具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/b9V4WS-zg7pwHLcrVtOm0g": {
+    "title_clean": "ProteoCraft：可控蛋白质设计工具",
+    "summary": "ProteoCraft是一款专注于蛋白质设计的工具，提供从初始设计到局部精修的完整功能。该工具通过AI技术实现蛋白质结构的可控设计，为生物科技领域提供创新解决方案，对元宝在生物AI应用场景拓展方面具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/HyvoBYZLYUEmjwVSfyaThA": {
+    "title_clean": "商汤、港科MMLab等联合提出M...：AI模型研究",
+    "summary": "商汤科技与香港科技大学MMLab联合提出M...模型，这是一项AI领域的研究成果。该研究可能涉及计算机视觉或机器学习模型，对AI技术发展有一定参考价值，但具体内容和应用场景尚不明确。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/peji": {
+    "title_clean": "Peji：AI浏览器控制聊天工具",
+    "summary": "Peji是一款AI聊天工具，允许用户通过真实浏览器进行交互，用户可以完全控制浏览过程。这款产品将AI聊天与浏览器控制结合，为产品经理提供了AI助手与浏览器交互场景的新思路，可能启发元宝在网页操作、自动化任务执行方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amd-projects-rapid-revenue-acceleration-fourth-quarter": {
+    "title_clean": "AMD：第四季度营收将加速增长",
+    "summary": "AMD预计第四季度营收将同比增长约65%，增速比第三季度高出20个百分点。这表明AI服务器芯片需求强劲增长，对AI基础设施市场格局有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows": {
+    "title_clean": "数据中心转向旧喷气发动机应对电力短缺",
+    "summary": "由于接入电网和获取新涡轮机需要数年等待，数据中心建设者开始采用被淘汰的喷气发动机作为临时电力解决方案，尽管这种方案效率较低且对环境不友好。这一趋势反映了数据中心行业面临的严峻电力挑战，对元宝产品经理了解AI基础设施限制和可持续性考量有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom": {
+    "title_clean": "Ballistic Ventures寻求4.9亿美元新基金，押注AI驱动网络安全增长",
+    "summary": "网络安全投资公司Ballistic Ventures正筹集4.9亿美元新资金，其中3.6亿美元用于旗舰基金，1.3亿美元用于独立投资工具。这反映了AI驱动的网络安全领域正获得资本高度关注，对元宝产品经理而言，这是AI安全应用场景获得市场认可的重要信号。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/google-gives-schools-ai-control-requires-ai-search": {
+    "title_clean": "Google：学校AI管理新政策要求使用AI搜索",
+    "summary": "Google宣布调整面向学校的AI服务政策，赋予管理员更多技术控制权，但同时要求使用其搜索服务的学校必须采用AI功能。这一变化可能影响教育机构对AI工具的采用策略，对元宝在教育场景的AI服务部署有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/ai-industry-on-safety-and-control-video": {
+    "title_clean": "AI Industry on Safety and Control：前沿模型风险与问责机制探讨",
+    "summary": "Irregular联合创始人兼CEO Dan Lahav与Cohere首席AI官Joëlle Pineau与Bloomberg讨论前沿AI模型发展带来的新兴风险、可信护栏机制和问责问题，为AI安全治理提供行业视角。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/amd-sales-forecast-tops-estimates-on-soaring-ai-chip-demand": {
+    "title_clean": "AMD AI芯片需求激增，业绩预测超预期",
+    "summary": "AMD作为AI芯片领域英伟达的主要竞争对手，数据中心处理器需求激增，其收入预测超出分析师预期，表明AI芯片市场竞争加剧，对元宝产品经理评估AI基础设施供应商选择有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/britain-on-competing-in-the-ai-race-video": {
+    "title_clean": "英国人工智能部长谈AI竞争战略",
+    "summary": "英国人工智能部长Kanishka Narayan讨论如何将英国在AI研究方面的优势转化为全球公司、提高生产力和战略优势，为元宝产品经理提供国家AI战略层面的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/super-micro-gives-outlook-that-tops-estimates-on-server-demand": {
+    "title_clean": "Super Micro：AI服务器需求强劲",
+    "summary": "Super Micro Computer Inc.最新季度营收超出分析师预期，显示其搭载人工智能技术的服务器需求持续强劲。这对AI基础设施供应商和AI服务提供商的供应链管理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/shopify-stock-falls-7-6-company-discloses-profit-margin-drop-due-ai": {
+    "title_clean": "Shopify：AI投入导致利润率下降",
+    "summary": "Shopify报告称其订阅业务的毛利率下降，部分原因是AI支出增加，导致股价下跌7.6%。这表明AI投资可能短期内影响企业财务表现，对元宝产品经理评估AI商业化成本与收益平衡有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/ai-and-foldables-fail-to-spark-chinese-phone-market-bi-says": {
+    "title_clean": "AI与折叠屏手机未能刺激中国市场增长",
+    "summary": "据商业内幕报道，中国消费者因缺乏令人信服的新技术而推迟智能手机购买，导致全球最大手机市场进一步恶化。这对元宝产品经理了解AI技术在硬件市场的实际接受度和用户需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/some-overexuberance-in-ai-sadek-wahba-video": {
+    "title_clean": "Some 'Overexuberance' In AI: Sadek Wahba",
+    "summary": "I Squared Capital创始人兼董事长Sadek Wahba在彭博社访谈中表达了对AI领域可能存在过度乐观的看法，作为《Build: Investing in America's Infrastructure》一书的作者，他从投资角度分析了AI基础设施建设的现状与风险。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/uber-president-longtime-executive-hazelbaker-departs-for-openai": {
+    "title_clean": "OpenAI聘请前Uber高管Hazelbaker担任企业事务主管",
+    "summary": "OpenAI宣布聘请Uber前总裁Jill Hazelbaker担任企业事务主管，这是今年又一位离开Uber的高管。这一人事变动表明OpenAI正在加强企业管理和公关能力，可能与其商业化进程和业务扩张有关。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ai-agent-identity-acquisitions-targets": {
+    "title_clean": "AI代理身份安全：企业安全公司收购方向",
+    "summary": "AI代理在企业内部扩散速度超过安全团队追踪能力，一家财富500强公司在SailPoint概念验证中发现了超过10,000个未知的AI代理。这对元宝产品经理具有重要参考价值，提示AI代理身份管理和安全控制将成为企业级AI服务的关键需求点。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/google-lets-schools-turn-off-gemini-but-not-the-ai-in-search": {
+    "title_clean": "Google 允许学校关闭 Gemini 但保留搜索中的 AI 功能",
+    "summary": "Google 将调整其教育服务政策，允许 K-12 学校单独关闭 Gemini AI 助手，但无法关闭内置在搜索中的 AI 功能。这一变化表明 Google 正在强化搜索中的 AI 能力，同时为教育机构提供有限的选择权，这对元宝产品经理了解 AI 在教育场景的部署策略和用户控制需求有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges": {
+    "title_clean": "AI推理公司Fal估值翻倍至160亿美元，需求激增",
+    "summary": "AI推理初创公司Fal完成13亿美元融资，估值翻倍至160亿美元。这家成立五年的公司由Bessemer领投，反映了AI推理服务市场需求的快速增长，对元宝在AI推理服务商业化方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood": {
+    "title_clean": "Netflix：基于心情的AI内容推荐功能",
+    "summary": "Netflix推出新的AI Discover标签页，可根据用户当前心情提供个性化内容推荐。这是流媒体平台利用AI理解用户情绪、提升内容发现体验的尝试，对元宝在情绪感知推荐场景设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/shield-ai-on-autonomous-warfare-video-mw10y2l4": {
+    "title_clean": "European Defense Tech on Autonomous Systems：欧洲国防科技中的自主系统发展",
+    "summary": "STARK创始人兼CEO与红杉资本合伙人讨论自主系统和私人资本如何重塑欧洲国防科技行业，探讨AI技术在军事领域的应用趋势与投资机会，为元宝在国防安全场景的AI应用提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/binance-says-hackers-used-bogus-job-interview-ai-tool": {
+    "title_clean": "Binance：黑客利用虚假面试和AI工具实施攻击",
+    "summary": "Binance报告称，黑客通过伪造的求职面试任务，诱使一名软件工程师在工作电脑上下载恶意代码，这是自六月以来多步骤攻击的一部分。这一事件揭示了AI工具可能被用于新型社会工程攻击，对AI安全防护和员工培训有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute": {
+    "title_clean": "Anthropic：AI模型计算成本经济性问题",
+    "summary": "Anthropic面临计算成本经济性挑战，尽管本应改善，但其计算利润率却在恶化。这对AI产品经理有重要参考价值，提示在AI服务规模化过程中需高度关注计算成本控制与盈利模式设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/linkedin-swapped-openai-models-keep-server-costs-flat": {
+    "title_clean": "LinkedIn 替换部分 OpenAI 模型以控制服务器成本",
+    "summary": "LinkedIn 为控制服务器成本，替换了部分 OpenAI 模型。这反映了 AI 功能普及给企业带来的成本压力，产品经理需关注如何在提升用户体验与控制运营成本间取得平衡。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/security-firm-tied-to-openai-anthropic-ai-hacks-blames-error": {
+    "title_clean": "Irregular Security：AI安全公司称与OpenAI、Anthropic相关的黑客攻击系'失误'所致",
+    "summary": "以色列安全公司Irregular Security的CEO Dan Lahav表示，近期涉及OpenAI和Anthropic等顶级AI模型厂商AI代理的网络攻击事件，是由于公司内部'失误'和时间压力造成的。这一事件揭示了AI安全领域的新风险，对AI产品经理在安全合规和风险控制方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ai-agenda-live-ey-consulting-bringing-ai-roi-p-l": {
+    "title_clean": "AI Agenda Live：安永咨询谈AI投资回报率",
+    "summary": "安永咨询在AI Agenda Live活动中探讨企业如何将AI投资转化为实际收益，面对AI成本飙升的压力，CFO和董事会需要证明AI支出能够提升收入或利润，这对元宝产品经理思考AI商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/palantir-growth-slows-from-breakneck-pace-video": {
+    "title_clean": "Palantir增长放缓：营收超预期但增速下降",
+    "summary": "Palantir Technologies第四季度营收约26.5亿美元，超出分析师预期的24.6亿美元，但公司增长已从之前的迅猛速度放缓。这对AI产品经理参考价值在于，即使领先企业也会面临增长瓶颈，需关注商业化可持续性策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors": {
+    "title_clean": "Anthropic 展示 Claude 在芯片设计方面的能力以吸引 IPO 投资者",
+    "summary": "Anthropic 展示其 AI 模型在芯片设计领域的应用，强调 Claude 在发现网络安全漏洞和软件编程方面的能力，以此向 IPO 投资者展示技术优势和市场竞争力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/shopify-plunges-as-revenue-misses-for-first-time-since-2022": {
+    "title_clean": "Shopify季度收入首次不及预期，股价大跌",
+    "summary": "Shopify季度收入四年来首次未达分析师预期，导致股价大幅下跌。这一信号表明电商平台增长可能面临挑战，对元宝产品经理评估AI服务在电商场景的应用价值及商业化策略有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss": {
+    "title_clean": "BrainCo：电子GLP-1食欲抑制设备",
+    "summary": "中国神经技术公司BrainCo开发可穿戴设备，通过刺激大脑抑制食欲，定位为GLP-1药物的潜在非药物替代方案。这为元宝在健康服务场景下的AI助手功能提供了新思路，特别是健康管理领域。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing": {
+    "title_clean": "Apple Watch：AI对话回放与摘要功能开始测试",
+    "summary": "Apple Watch新增AI音频智能功能，可回放对话内容并生成摘要，帮助用户记忆对话要点。这一功能对AI助手产品在可穿戴设备上的应用场景有重要参考价值，特别是实时语音处理和内容提取方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-obviant": {
+    "title_clean": "CEO Interview: Obviant",
+    "summary": "Obviant CEO Brendan Karp接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为AI领域企业，其市场定位和客户洞察对元宝产品经理了解行业竞争格局和用户需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/the-china-show-11-03-2026-video": {
+    "title_clean": "华尔街高管：关注AI风险但保持乐观",
+    "summary": "华尔街高管们认识到AI存在风险，但仍对AI发展保持乐观态度。这一观点反映了金融行业对AI技术的复杂态度，既关注潜在风险又认可其商业价值，对元宝产品经理了解企业级AI应用的市场接受度有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-corvista-health": {
+    "title_clean": "CorVista Health CEO访谈：医疗市场洞察与客户需求分析",
+    "summary": "CorVista Health CEO Adrian Lam接受CB Insights采访，分享公司对医疗市场的定义、客户需求的理解以及公司战略。该访谈为医疗科技领域的市场定位和客户需求分析提供了高管视角，对元宝产品经理了解垂直行业AI应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals": {
+    "title_clean": "华尔街巨头看好大规模AI交易需求",
+    "summary": "华尔街顶级高管表示资本市场将继续支持全球人工智能基础设施建设，摩根士丹利预测相关累计支出可能达到新高。这反映了AI基础设施投资的强劲市场信号，对元宝产品经理判断AI商业化趋势和资本流向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/ubs-ceo-says-cyber-risk-controls-are-key-for-banks-video": {
+    "title_clean": "瑞银CEO：网络安全风险已成为银行主要威胁",
+    "summary": "瑞银CEO Sergio Ermotti警告称，网络威胁现在已与传统信用和市场风险相当甚至超过，呼吁银行增强对这些攻击的防御能力。这对AI助手产品在金融安全领域的应用具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/C_TiIuY7ufTQMA43iZZpTg": {
+    "title_clean": "MOSS-Live：全双工实时交互系统",
+    "summary": "MOSS-Live全双工实时交互系统发布，多项指标排名第一。该系统实现了实时双向交互能力，可能提升AI对话的响应速度和自然度，对元宝产品经理在交互设计和技术选型方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/disney-eyes-thousands-of-layoffs-with-managers-asked-to-cut-20": {
+    "title_clean": "迪士尼计划大规模裁员，目标实现20%成本节约",
+    "summary": "迪士尼正计划进行大规模裁员，要求部分管理层实现每年20%的成本节约目标。这一举措反映了大型娱乐公司在经济压力下的成本控制策略，对元宝产品经理了解企业服务场景中的成本敏感度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/openai-says-former-army-secretary-dan-driscoll-to-join-company": {
+    "title_clean": "OpenAI聘请前美国陆军部长加入公司",
+    "summary": "OpenAI聘请前美国陆军部长Dan Driscoll，旨在扩大人工智能在国家安全和网络安全领域的应用。这一人事变动表明OpenAI正积极拓展政府与国防领域的AI应用，对产品经理了解AI企业的战略方向和潜在合作机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/cwe-bench": {
+    "title_clean": "CWE-bench v2：AI安全评估基准",
+    "summary": "CWE-bench v2发布，提供更全面的AI安全评估覆盖、提升评估质量并增强透明度。该基准工具为AI产品经理提供了衡量AI系统安全性的重要参考，有助于在产品开发中识别和防范潜在安全风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/transformers-mic": {
+    "title_clean": "Transformers Model Integration Contracts：AI模型集成合约工具",
+    "summary": "该产品提供Transformers模型的集成合约服务，帮助企业简化AI模型接入流程，解决模型兼容性和部署难题。对元宝产品经理有参考价值，特别是在多模型集成和API对接方面，可借鉴其合约化解决方案提升产品扩展性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-02/ai-will-create-weird-economic-benefits-manidis-video": {
+    "title_clean": "AI将创造'特殊'经济效益：Manidis观点",
+    "summary": "一篇名为《制高点》的新文章指出，随着AI成本降低和普及度提高，最大的经济效益将最终流向最擅长利用AI的公司，探讨了AI经济收益分配的独特模式及其对商业战略的启示。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts": {
+    "title_clean": "风投创纪录融资年背后的资金分化：AI领域获巨额投资，早期投资减少",
+    "summary": "2026年风险投资创纪录增长，但资金高度集中于大型AI融资轮次，种子期和早期阶段的交易数量持续下降。Crunchbase数据显示，风投行业正经历明显的资金集中化趋势，这对AI创业生态和产品经理判断市场机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/ads/customers/evernote": {
+    "title_clean": "Evernote：AI驱动的笔记发现服务转为付费订阅",
+    "summary": "Evernote利用ChatGPT广告向AI工作者推广其笔记应用，并跟踪免费试用转化为付费订阅的情况。这展示了传统笔记应用如何通过AI功能实现商业化转型，对元宝产品经理在AI功能变现和用户转化方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

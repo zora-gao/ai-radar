@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-11-03T17:32:13.314Z",
+  "generated_at": "2026-11-03T22:53:28.778Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "stealth/crouton-alpha",
+      "name": "Crouton Alpha",
+      "vendor": "Stealth",
+      "vendor_slug": "stealth",
+      "url": "https://openrouter.ai/stealth/crouton-alpha",
+      "created_at": "2026-11-03T01:38:50Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video",
+        "file",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Crouton Alpha is a lightweight model built for scalable coding, agentic, and multimodal workflows. It's ideal for executing agentic sub-tasks, tool use, and document analysis in high-volume, repeated work. Developers...",
+      "description_zh": null
+    },
     {
       "id": "z-ai/glm-5.3-flashx-legal",
       "name": "GLM 5.3 FlashX Legal",
@@ -1452,31 +1479,6 @@
       ],
       "price_in": 4,
       "price_out": 20,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Opus 5.5 is Anthropic's flagship model for demanding reasoning, coding, and long-horizon agentic work, succeeding Claude Opus 5. It is particularly strong at multi-step changes in large codebases, code...",
-      "description_zh": "Claude Opus 5.5 是 Anthropic 的旗舰模型，用于要求严格的推理、编码和长期代理工作，继承了 Claude Opus 5。它在大型代码库、代码……的多步骤更改方面尤其强大。"
-    },
-    {
-      "id": "anthropic/claude-opus-5.5:batch",
-      "name": "Claude Opus 5.5 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-opus-5.5-20260921",
-      "created_at": "2026-09-22T16:32:12Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

@@ -157366,5 +157366,482 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/deployed-yet": {
+    "title_clean": "Deployed Yet：部署状态监控工具",
+    "summary": "一款监控Vercel、Cloudflare和GitHub部署状态的工具，帮助开发者实时了解应用部署情况，简化部署流程管理，对元宝产品经理在构建AI助手服务场景中的部署监控功能有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hashference": {
+    "title_clean": "Hashference：AI模型算力共享平台",
+    "summary": "Hashference是一个允许用户通过共享闲置CPU/GPU算力来支持45多种顶级AI模型运行的平台。该产品为AI模型提供分布式计算资源，可能对元宝产品经理了解AI算力共享模式及资源优化方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/freeport-markets": {
+    "title_clean": "Freeport Markets：AI加密货币钱包分析工具",
+    "summary": "Freeport Markets推出专有AI工具，通过分析链上钱包数据，帮助用户识别并复制表现最佳的加密货币钱包投资策略。该产品为加密货币投资者提供数据驱动的决策支持，对元宝产品经理在AI金融分析场景和个性化推荐功能上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fedora-linux-45": {
+    "title_clean": "Fedora Linux 45：GNOME 51 系统更新",
+    "summary": "Fedora Linux 45 发布，搭载 GNOME 51 桌面环境，修复了 Wayland 兼容性问题，优化了键盘快捷键，并引入了现代化工具链。此更新对 AI 助手产品经理的参考价值在于了解操作系统级技术演进，特别是多模态交互和系统稳定性方面的改进。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/datashake-hub": {
+    "title_clean": "Datashake MCP：AI助手数据接入工具",
+    "summary": "Datashake MCP允许将评论和社交媒体数据直接接入AI助手，为AI提供实时用户反馈和市场洞察，有助于元宝产品经理了解如何整合外部数据源增强AI助手的信息获取能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sonari": {
+    "title_clean": "Sonari：Mac手势MIDI控制器",
+    "summary": "Sonari是一款Mac平台的手势MIDI控制器，允许用户通过手势操作控制音乐制作软件。这款产品展示了手势交互在音乐创作场景的应用，为元宝在多模态交互和服务场景拓展方面提供了参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/resum": {
+    "title_clean": "Resum：实时对话API与SDK工具",
+    "summary": "Resum提供实时对话的API和SDK，使开发者能够轻松集成实时对话功能到应用中。这对元宝产品经理有参考价值，可作为构建AI对话能力的底层技术方案参考，或评估与类似服务的合作可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/virelo": {
+    "title_clean": "Virelo：视频文件夹私人流媒体库工具",
+    "summary": "Virelo是一款工具，可将用户的视频文件夹转换为私人流媒体库，方便用户管理和观看自己的视频内容。对于元宝产品经理而言，这提供了关于个人媒体内容管理场景的参考价值，特别是在视频内容组织和流媒体播放方面的解决方案。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/livereacting": {
+    "title_clean": "LiveReacting for ChatGPT：AI直播工具",
+    "summary": "LiveReacting for ChatGPT是一款允许ChatGPT进行24/7全天候直播和预录制直播的工具，扩展了AI助手的实时互动能力，为产品经理提供了AI直播场景的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/country-filter-for-x-2": {
+    "title_clean": "Country Filter for X：X平台国家内容过滤工具",
+    "summary": "这是一款为X(原Twitter)用户开发的浏览器扩展工具，允许用户在For You信息流中屏蔽来自特定国家的内容。产品经理可参考此类个性化过滤功能，了解用户对内容地域控制的需求，以及如何在社交平台中实现更精细的信息流管理。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/smaller-banks-giving-agents-access-accounts": {
+    "title_clean": "小型银行向AI Agent开放账户访问权限",
+    "summary": "小型银行开始允许AI Agent访问客户账户，这可能改变金融服务交互方式。这一趋势对元宝产品经理有参考价值，展示了AI Agent在金融服务场景的应用潜力，以及如何处理敏感数据访问的合规问题。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/prelulu": {
+    "title_clean": "Prelulu：AI角色扮演聊天与视频故事平台",
+    "summary": "Prelulu是一个AI角色扮演平台，用户可以通过聊天和视频形式参与任何故事，成为故事主角。该产品为元宝产品经理提供了AI交互式娱乐场景的参考价值，展示了AI在角色扮演和沉浸式体验方面的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/cerebras-lockups-hold-lesson-anthropic-employees": {
+    "title_clean": "Cerebras股价下跌对Anthropic员工的警示",
+    "summary": "Cerebras自上市六个月以来股价大幅下跌，即使在科技股选举抛售前就已开始。这一趋势对Anthropic等AI公司员工持股计划构成警示，提示AI硬件企业面临的市场风险和投资者信心问题。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/krev": {
+    "title_clean": "KREV AI：电商品牌AI运营团队",
+    "summary": "KREV AI是一个AI团队服务，专门为电商品牌提供运营支持。该产品通过AI技术帮助电商品牌自动化日常运营任务，可能包括客户服务、营销、库存管理等，为电商企业提供智能化解决方案，值得元宝产品经理关注AI在垂直领域的应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-04/data-center-buildout-could-help-energy-prices-video": {
+    "title_clean": "数据中心建设可能有助于能源价格",
+    "summary": "Luminary Strategies创始人兼CEO、前特斯拉能源市场政策负责人Arushi Sharma Frank指出，数据中心可以成为能源资源和电网的资产，讨论了数据中心建设如何影响能源价格和电网稳定性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-04/podcasters-election-night-streams-highlight-fractured-media-landscape": {
+    "title_clean": "播客主选举夜直播：凸显媒体格局碎片化",
+    "summary": "大选之夜，部分知名播客主选择不参与直播，反映出在竞争日益激烈的媒体环境中，播客领域正经历格局分化。这一现象对产品经理了解内容创作者在重大事件中的参与策略和媒体生态变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-04/cvs-plans-to-break-up-117b-healthcare-conglomerate-video": {
+    "title_clean": "CVS计划拆分1170亿美元医疗健康业务",
+    "summary": "CVS Health计划在2028年上半年将零售药店业务分拆为名为CVS Pharmacy的新公司，此举将药店业务与Aetna保险业务分离，可能影响医疗健康服务整合模式，对AI助手在医疗健康领域的服务场景布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/doj-seeks-documents-rippling-deel-spy-case": {
+    "title_clean": "美国司法部调查Rippling与Deel商业间谍案",
+    "summary": "美国司法部向薪资创业公司Rippling发出传票，要求提供其在针对竞争对手Deel的商业间谍诉讼中发现的所有文件。此案涉及企业间商业机密保护与竞争边界问题，对AI服务场景中的企业级服务提供商具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/kiwi-slide-haunts-new-zealand-s-main-parties-ahead-of-tight-vote": {
+    "title_clean": "新西兰大选临近：货币贬值加剧生活成本压力",
+    "summary": "新西兰货币疲软加剧了生活成本压力，导致选民对主要政党失去信心，下周大选竞争将异常激烈。这一经济形势变化可能影响政策方向，对关注国际政治经济动态的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
+    "title_clean": "Dharma Field Extractor：文档结构化提取工具",
+    "summary": "Dharma Field Extractor 是一款文档处理工具，能够将各类文档输入转换为结构化的 JSON 输出，帮助用户从非结构化文档中提取和组织关键信息。该工具对元宝产品经理有参考价值，特别是在文档理解、信息提取和结构化输出方面的技术实现和应用场景拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network": {
+    "title_clean": "Qualcomm将为SpaceX的美国移动网络建设设备",
+    "summary": "高通将为SpaceX计划的全美地面无线网络供应硬件组件，这表明埃隆·马斯克的火箭和卫星公司正致力于挑战传统电信行业。这一合作可能影响AI助手在移动网络基础设施方面的部署机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry": {
+    "title_clean": "非洲支付公司OPay：因中国监管调查叫停3亿美元美国IPO",
+    "summary": "尼日利亚支付公司OPay原计划在美国进行3亿美元IPO，但在定价后几小时因中国监管调查而暂停。这反映了跨境支付企业在国际扩张中面临的地缘政治风险，对元宝拓展海外市场有警示意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders": {
+    "title_clean": "Waymo终止与Uber独家合作：回应乘客反馈",
+    "summary": "Waymo联合CEO表示终止与Uber的自动驾驶出租车独家合作是基于乘客反馈。这一决策反映了自动驾驶服务提供商更注重直接服务用户，可能影响未来出行服务合作模式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-04/waymo-s-bet-on-a-driverless-future-video": {
+    "title_clean": "Waymo：自动驾驶技术公司CEO访谈",
+    "summary": "Waymo联合CEO Tekedra Mawakana接受采访，分享其技术转型经验及自动驾驶安全策略。作为自动驾驶领域领先企业，Waymo的发展动向对AI服务场景拓展和商业化路径具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day": {
+    "title_clean": "TechCrunch Founder Summit 2026：波士顿创业者峰会开幕",
+    "summary": "TechCrunch Founder Summit 2026今日在波士顿SoWa Power Station开幕，会议于美东时间上午9点开始，这是一场面向创业者的行业峰会，为产品经理提供了解行业趋势和创业生态的机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx": {
+    "title_clean": "2026年美国过半风投资金流向亿万富翁创办或领导的公司",
+    "summary": "2026年上半年美国种子期到成长期的风投资金中，超过一半流向了七家由亿万富翁创办或领导的公司。这反映了风投市场向已有成功企业家和知名品牌倾斜的趋势，对元宝产品经理评估市场资源分配和竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/vauban-eyes-more-deals-in-european-district-heating-fiber-grids-data-centers": {
+    "title_clean": "Vauban：欧洲区域能源与数字基础设施投资",
+    "summary": "Vauban Infrastructure Partners寻求在欧洲投资区域供热、光纤网络、数据中心和电池存储等基础设施，认为这些资产具有经济韧性。这反映了AI服务所需的基础设施投资趋势，对元宝在能源和数据中心服务场景布局有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/wayfair-growth-hits-post-pandemic-high-on-us-market-share-gains": {
+    "title_clean": "Wayfair：美国家居电商市场份额增长创疫情后新高",
+    "summary": "Wayfair作为家居零售商，在美国市场实现了自疫情电商热潮以来最快的收入增长，订单数量持续提升，这反映了消费者在家居电商领域的需求变化，对元宝在电商服务场景和用户需求分析方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-04/democrats-midterm-wins-threaten-to-slow-the-ai-data-center-boom": {
+    "title_clean": "民主党中期选举胜利威胁放缓AI数据中心扩张",
+    "summary": "民主党在中期选举中的胜利可能带来新的政治和财务限制，影响AI数据中心的扩张计划。这对元宝产品经理有参考价值，因为AI基础设施发展速度直接影响AI服务的可用性和成本，进而影响产品策略和商业化路径。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/daybreak-red-aws-govcloud": {
+    "title_clean": "Daybreak Red：GPT-5.6网络安全服务在AWS GovCloud上线",
+    "summary": "Daybreak Red通过Amazon Bedrock将GPT-5.6 Cyber网络安全服务引入AWS GovCloud(US-East)，为授权客户提供网络安全解决方案。这标志着AI技术在政府云环境中的专业安全应用拓展，对元宝在垂直领域AI服务部署有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/california-billionaire-tax-losing-polls-closed": {
+    "title_clean": "加州亿万富翁税收提案失败：5%一次性财富税未能通过",
+    "summary": "加州第40号提案拟对亿万富翁征收5%的一次性财富税，用于资助州内医疗和教育，但在周二晚间投票结果显示该提案未获通过。这一结果对AI产品经理了解政策环境对科技富豪财富的影响及潜在政策风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best": {
+    "title_clean": "腾讯发布最新AI模型，跻身中国顶级开源模型行列",
+    "summary": "腾讯发布最新基础模型，称其首次跻身中国顶级开源AI系统行列。这对元宝产品经理具有重要参考价值，表明中国科技巨头在AI模型领域的竞争加剧，可能影响国内AI助手产品的技术格局和竞争态势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto": {
+    "title_clean": "美国民主党中期选举后市场反应：股市逆转，黄金上涨",
+    "summary": "美国民主党赢得中期选举后，全球股市逆转此前因选举不确定性引发的抛售，黄金价格则上涨。这反映了市场对政治变化的即时反应，对元宝产品经理了解政治事件对金融市场的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/tech-awaits-next-leg-up-after-confronting-midterms-taking-stock": {
+    "title_clean": "科技股投资者关注中期选举后的基本面变化",
+    "summary": "美国中期选举尘埃落定，投资者获得政策清晰度，科技股迎来买入机会，市场焦点重新转向基本面分析。这一动态对元宝产品经理有参考价值，可关注科技股投资情绪变化如何影响AI产品商业化策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/synopsys-cadence-shares-drop-4-information-report": {
+    "title_clean": "Synopsys与Cadence股价下跌：Anthropic转用Claude模型进行工程开发",
+    "summary": "据The Information报道，Anthropic已告知投资者其正在使用自家的Claude模型进行工程开发，导致Synopsys和Cadence Design Systems股价周二最多下跌4%。这表明AI公司正减少对传统EDA工具的依赖，转向内部AI解决方案，对AI工具市场格局有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered": {
+    "title_clean": "Nvidia中国客户将获得70亿美元RTX芯片订单的1%",
+    "summary": "Nvidia中国客户未来数月只能获得所订购先进芯片的极小部分，因该公司难以提升产量以满足需求。这反映了AI芯片供应紧张局势，对元宝产品经理评估AI基础设施限制和替代方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/can-apple-defend-its-premium-video": {
+    "title_clean": "苹果能否捍卫其高端定位？",
+    "summary": "苹果当前36倍前瞻市盈率几乎没有容错空间，分析师指出其服务增长放缓、内存成本上升等问题，这可能影响苹果高端产品策略和估值，对元宝产品经理评估高端AI服务定价策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/particle-6-on-ai-generated-entertainment-video": {
+    "title_clean": "Particle 6：AI生成娱乐内容公司",
+    "summary": "Particle 6创始人兼CEO Eline Van der Velden讨论了AI生成演员Tilly Norwood的创建过程及其首秀引发的争议，并探讨AI对娱乐行业的潜在影响，这对元宝产品经理了解AI在创意内容领域的应用边界和用户接受度有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-s-huang-gave-blessing-to-marvell-lumentum-megadeal": {
+    "title_clean": "NVIDIA高管批准Marvell-Lumentum 1030亿美元并购案",
+    "summary": "NVIDIA CEO黄仁批准了Marvell与Lumentum的1030亿美元并购案。这反映了NVIDIA对AI芯片供应链整合的支持，对元宝产品经理了解AI硬件生态整合趋势和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

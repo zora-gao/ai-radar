@@ -156788,5 +156788,314 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/vietnamese-tech-firm-vng-is-said-to-consider-reviving-us-listing": {
+    "title_clean": "越南科技企业VNG考虑重启美国上市",
+    "summary": "越南科技公司VNG集团获得新加坡主权财富基金GIC支持，正考虑在美国重启上市计划。这反映了东南亚科技企业寻求国际资本市场的趋势，对元宝产品经理了解区域科技企业融资策略和国际化路径有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/semight-is-said-to-tap-citic-goldman-jpmorgan-for-hong-kong-listing": {
+    "title_clean": "Semight：中国半导体测试仪器公司拟香港上市",
+    "summary": "中国半导体测试仪器制造商Semight Instruments已选择中信、高盛和摩根大通等银行为其香港上市做准备。这反映了半导体测试设备领域的资本动向，对元宝产品经理了解AI硬件产业链相关企业的资本策略和行业动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/singapore-air-becomes-latest-carrier-affected-by-data-breach": {
+    "title_clean": "新加坡航空遭遇数据泄露：全球航空业预订系统安全危机",
+    "summary": "新加坡航空因主要软件供应商遭受黑客攻击而成为最新数据泄露受害者，此次事件导致全球航空业预订系统被攻破的预订数量大幅增加，凸显了AI服务在处理敏感数据时面临的安全挑战，对元宝在处理用户隐私和数据安全方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/salesforces-m-a-blitz-reflects-broader-deal-rush": {
+    "title_clean": "Salesforce的收购热潮反映更广泛的交易趋势",
+    "summary": "Salesforce近期进行了一系列收购活动，反映了科技行业整体并购趋势的加速。这一动态对元宝产品经理具有重要参考价值，表明AI领域可能面临整合与扩张，需要关注行业巨头通过并购获取AI能力、技术人才或市场份额的战略动向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/canva-lays-workers-ai-rollout-problems": {
+    "title_clean": "Canva因AI部署问题裁员",
+    "summary": "Canva自2013年成立以来首次进行裁员，22%的员工（共1,271人）需要转岗或调动。这反映了AI产品部署过程中可能面临的组织调整挑战，对AI产品经理在规划AI功能落地时的人力资源配置和风险管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/kCREl0mWwog78VrPLuIAaw": {
+    "title_clean": "奥特曼预告下一代GPT：1万个Agent攻下千禧难题",
+    "summary": "奥特曼预告下一代GPT将采用1万个Agent协同工作的架构，目标是解决数学领域的千禧难题。这一技术路线展示了AI Agent在复杂问题解决上的潜力，对元宝产品经理在AI Agent架构设计和能力边界拓展方面具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/JhpDYH4I18BPu8cnyF9G3A": {
+    "title_clean": "MIT让GPT-6Astra直接修改Qwen权重：数学成绩飙升",
+    "summary": "MIT研究团队让GPT-6Astra模型直接修改Qwen模型的权重参数，显著提升了Qwen在数学任务上的表现。这一方法展示了AI模型间直接权重调整的潜力，为提升特定领域模型性能提供了新思路，对AI产品经理思考模型优化和跨模型协作具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/amd-forecast-exceeds-estimates-as-ai-chip-demand-soars-video": {
+    "title_clean": "AMD AI芯片需求激增，业绩预测超预期",
+    "summary": "AMD作为AI芯片领域英伟达的主要竞争对手，数据中心处理器需求强劲增长，其营收预测超出分析师预期，表明AI芯片市场持续火热，对元宝产品经理评估AI硬件生态和算力服务场景有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/amd-earnings-met-the-bar-wedbush-s-bryson-says-video": {
+    "title_clean": "AMD业绩超预期，Wedbush分析师称'达到预期'",
+    "summary": "Wedbush证券硬件股票研究主管Matt Bryson对AMD营收预测超出分析师预期的业绩做出评价，认为AMD业绩'达到预期'。这对元宝产品经理了解AI硬件供应商的财务表现和市场预期有参考价值，特别是AMD作为AI芯片供应商的业绩可能影响AI硬件生态和成本结构。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce": {
+    "title_clean": "Canva宣布裁员22%，AI引发组织结构重组",
+    "summary": "Canva宣布裁员约22%并进行大规模组织调整，这是AI引发澳大利亚这家高估值公司结构性变革的信号。对产品经理的参考价值在于了解AI对设计工具行业的影响及企业应对策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/big-tech-on-workforce-culture-video": {
+    "title_clean": "Big Tech：科技巨头企业文化探讨",
+    "summary": "作者Kristi Coulter和Claire Stapleton讨论科技巨头的职场文化，聚焦于职业发展、管理问题以及从大科技公司离职的经历，为理解AI产品经理在科技企业的工作环境提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/super-micro-outlook-looks-strong-wedbush-s-bryson-says-video": {
+    "title_clean": "Super Micro：服务器硬件业务前景看好",
+    "summary": "Wedbush证券硬件股票研究主管Matt Bryson对Super Micro Computer最新财报及业绩指引表示看好，认为其服务器硬件业务表现强劲，这对AI基础设施领域的产品经理有参考价值，反映了AI硬件需求的持续增长。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal": {
+    "title_clean": "Palantir 商业收入首超政府收入",
+    "summary": "Palantir 美国商业收入首次超过政府收入，这一转变可能预示着企业级AI市场的结构性变化，对元宝产品经理评估B端AI服务商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/delivery-app-grab-sees-return-on-ai-says-cfo-video": {
+    "title_clean": "Grab：AI提升外卖平台用户消费",
+    "summary": "Grab CFO表示，通过在平台中应用AI工具，公司已观察到用户消费额的提升。这家集出行、外卖和金融服务于一体的应用提高了全年收入预期，证明AI投资已开始产生实际回报。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ubers-jill-hazelbaker-join-openai-chief-corporate-affairs-officer": {
+    "title_clean": "Uber高管Jill Hazelbaker将加入OpenAI担任首席企业事务官",
+    "summary": "Uber总裁Jill Hazelbaker将加入OpenAI担任首席企业事务官，填补今年年初以来一直空缺的职位。这一人事变动反映了OpenAI在扩展企业事务方面的战略布局，对元宝产品经理了解AI巨头组织架构调整和企业战略方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up": {
+    "title_clean": "Apple限制约会应用和AI伴侣仅限18岁以上用户使用",
+    "summary": "苹果更新App Store规则，要求提供性或浪漫内容的约会应用和AI伴侣应用必须获得18+评级。这一政策变化直接影响AI伴侣类产品的用户准入机制，对元宝产品经理在内容审核和年龄限制设计方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/ai-minister-says-the-uk-isn-t-ready-for-extremely-likely-cyber-attacks": {
+    "title_clean": "英国AI部长称国家尚未准备好应对极可能发生的大规模网络攻击",
+    "summary": "英国AI部长Kanishka Narayan表示，英国极有可能在近期遭遇严重网络安全攻击，但目前国家尚未做好充分准备。这反映了AI安全领域面临的严峻挑战，对元宝产品经理了解AI安全防护需求与政府合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+    "title_clean": "ChatGPT与Codex加速物理世界工程设计",
+    "summary": "ChatGPT和Codex正在帮助工程师加速CAD、PCB设计、仿真等物理世界工作流程，展示了AI在工程设计领域的实际应用价值，为元宝在专业领域AI应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-sapiens-health-performance-gmbh": {
+    "title_clean": "Sapiens Health & Performance GmbH：健康与绩效管理公司CEO访谈",
+    "summary": "Sapiens Health & Performance GmbH的CEO接受CB Insights采访，分享公司对市场的看法、客户需求的理解以及公司定位。访谈内容可能包含健康与绩效管理领域的市场趋势、客户痛点及解决方案，对元宝产品经理了解垂直领域AI应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/cisco-cyber": {
+    "title_clean": "思科：结合OpenAI模型构建企业自适应安全防御系统",
+    "summary": "思科将网络智能与OpenAI模型结合，构建能够以机器速度响应的企业安全防御系统，提升安全防护的自适应能力。这对AI助手在安全场景的应用和Agent技术落地具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/dbs-ceo-on-how-southeast-asia-s-biggest-bank-deploys-ai-video": {
+    "title_clean": "DBS CEO谈东南亚最大银行如何部署AI",
+    "summary": "DBS集团CEO Tan Su Shan分享了该银行积极采用AI的情况，以及Binance黑客事件如何凸显加强网络卫生的必要性，同时谈及新加坡和财富流动的增长情况。这对了解大型金融机构AI部署策略及网络安全考量有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/gjkfb5PJXZpiOrQ0YYqBig": {
+    "title_clean": "NeurlPS 2026|MemSkill：智能体记忆技能进化技术",
+    "summary": "NeurlPS 2026上展示的MemSkill技术，使AI智能体能够学习并持续进化记忆技能，提升长期记忆与任务执行能力，对AI Agent的长期记忆与任务连贯性开发有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+    "title_clean": "OpenAI任命Jill Hazelbaker为企业事务负责人",
+    "summary": "OpenAI任命Jill Hazelbaker担任首席企业事务官，负责领导公司的全球传播和企业定位。这一人事变动反映了OpenAI在组织架构上的重要调整，对了解OpenAI的战略方向和公关策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/binance-outflows-hit-4-7-billion-after-record-north-korea-hack": {
+    "title_clean": "Binance：交易所遭黑客攻击后大额资金流出",
+    "summary": "Binance在遭受历史性黑客攻击并恢复提现后，出现47亿美元净流出，虽然这一数字仍在总资产中占比较小，但反映了用户对交易所安全性的担忧，对加密货币平台风控和用户信任管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/palantir-boosts-2026-revenue-outlook-on-strong-commercial-sales": {
+    "title_clean": "Palantir：AI数据分析平台销售增长放缓",
+    "summary": "Palantir作为AI驱动的数据分析平台，主要客户包括美国军方，其最新季度业绩展望显示AI驱动的销售增长可能放缓。这一信号对AI产品经理具有重要参考价值，表明即使是大型AI企业也可能面临市场增长挑战，需关注AI商业化可持续性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

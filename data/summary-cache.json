@@ -159071,5 +159071,518 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/nock-2": {
+    "title_clean": "Nock：Windows系统增强工具",
+    "summary": "Nock是一款仅1MB大小的Windows系统增强工具，使用Rust语言开发，为Windows系统提供类似macOS的Notch功能，帮助用户优化屏幕显示区域。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sendu": {
+    "title_clean": "Sendu：本地网络文件传输工具",
+    "summary": "Sendu是一款本地网络文件传输工具，允许用户在本地网络中轻松传输文件。对于元宝产品经理而言，这提供了关于简化文件共享功能的参考价值，特别是在构建AI助手本地协作能力方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/foundermail-2": {
+    "title_clean": "FounderMail：基于Cloudflare域名的邮件服务",
+    "summary": "FounderMail是一款基于Cloudflare域名的邮件服务，支持用户及其AI代理使用。该产品为AI代理提供了专属邮箱功能，可能对元宝产品经理在AI代理通信和身份管理方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pinku": {
+    "title_clean": "Pinku：离线私人AI聊天工具",
+    "summary": "Pinku是一款可在iPhone和Mac设备上离线运行的私人AI聊天工具，强调隐私保护和本地计算能力，无需联网即可使用。对于关注AI助手隐私特性和本地化部署的产品经理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/KIa3_Ao71Peo_sieNcrevQ": {
+    "title_clean": "百度开源全新预训练基模Flash",
+    "summary": "百度开源了名为Flash的全新预训练基模，主打效率提升。这一技术进展可能影响AI模型的训练和应用效率，对元宝产品经理评估大模型技术路线和性能优化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/HrvAELy07G12mxxyg96Pbg": {
+    "title_clean": "多模态模型有了第三条路：非Token化非双系统方案",
+    "summary": "该资讯报道多模态模型发展出第三种技术路径，既不采用Token化处理，也不依赖双系统架构，为多模态AI处理提供了新思路。这对产品经理了解多模态技术演进方向和潜在产品创新点有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-05/metlife-seeing-volume-growth-across-the-board-ceo-says-video": {
+    "title_clean": "MetLife：保险业务全面增长，CEO称AI投资有限",
+    "summary": "MetLife CEO表示公司第三季度业绩良好，各业务线均实现增长。同时指出MetLife对AI的投资有限，这一信息对了解传统保险公司在AI领域的战略布局和投资态度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-05/ai-companies-brace-for-new-unknowns-after-democrats-win": {
+    "title_clean": "AI公司应对民主党胜选后的新监管挑战",
+    "summary": "民主党胜选后可能加速AI监管并限制数据中心发展，AI公司需应对政策环境变化。这对元宝产品经理了解政策走向对AI产品合规性和业务模式的影响具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars": {
+    "title_clean": "Muse：语音与表情化身交互功能",
+    "summary": "Muse应用新增语音和表情化身功能，为用户提供更自然的交互方式。这一更新展示了AI助手向多模态交互发展的趋势，对产品经理在语音交互和虚拟形象设计方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/can-cheaper-ai-outrun-data-center-backlash": {
+    "title_clean": "更便宜的AI能否应对数据中心扩张限制？",
+    "summary": "美国选民选举了限制数据中心扩张的官员，引发科技高管和投资者对计算能力建设延迟的担忧。文章探讨了AI成本降低与数据中心政策限制之间的博弈，对元宝产品经理评估AI服务部署成本和地域策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropics-r-d-speed-may-doubled-due-ai-researchers-find": {
+    "title_clean": "Anthropic：AI研发速度可能翻倍",
+    "summary": "研究机构METR报告显示，Anthropic内部使用AI可能使其AI研发速度翻倍。这一发现对AI公司如何利用AI加速自身研发具有重要参考价值，特别是对元宝等AI产品经理思考如何利用AI提升产品迭代效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough": {
+    "title_clean": "OpenAI发布网络安全模型：AI实验室面临数字基础设施保护审查",
+    "summary": "OpenAI发布了最新的网络安全模型，正值AI实验室面临对其保护数字基础设施工作的审查之际。这一模型可能为AI在网络安全领域的应用提供新方向，对元宝产品经理评估AI在安全防护场景的应用价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/oracle-data-center-developer-waives-key-air-permit-deadline": {
+    "title_clean": "Oracle数据中心开发商推迟关键空气许可证期限",
+    "summary": "Oracle新墨西哥州数据中心基础设施开发商同意推迟关键空气许可证的审批期限，为州环境监管机构提供更多审查时间。这反映了大型数据中心建设过程中的环境合规挑战，对元宝产品经理了解科技基础设施项目的监管风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/how-musk-s-starlink-can-challenge-at-t-verizon-and-t-mobile": {
+    "title_clean": "马斯克的Starlink计划挑战传统电信巨头",
+    "summary": "SpaceX正计划推出地面无线网络，直接与AT&T、Verizon和T-Mobile等传统电信巨头竞争。这一举措将利用Starlink的卫星互联网基础设施，为用户提供地面无线服务，可能重塑电信行业格局，对元宝产品经理了解AI服务的基础设施竞争环境有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/veteran-media-mogul-john-malone-gives-controlling-stake-liberty": {
+    "title_clean": "媒体大亨约翰·马龙放弃Liberty Media控股权",
+    "summary": "资深媒体大亨约翰·马龙通过交换超级投票股为普通股，将其在Liberty Media的投票权从48%降至3%，放弃了对公司的控制权。这一股权变动可能影响媒体行业格局，对元宝产品经理了解媒体巨头战略调整有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition": {
+    "title_clean": "Dropbox计划3.5亿美元收购Tigris Data，为其史上最大收购",
+    "summary": "Dropbox宣布计划以3.5亿美元收购Tigris Data，这是公司自2007年成立以来最大规模的收购交易。此次收购表明Dropbox正在积极布局AI基础设施领域，可能意在加强其AI能力或数据存储服务，对元宝产品经理了解云服务巨头在AI领域的战略布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure": {
+    "title_clean": "Dropbox以3.5亿美元收购Tigris Data以加强AI基础设施",
+    "summary": "Dropbox以3.5亿美元收购Tigris Data，旨在支持其DBX Agent Cloud新存储平台的开发，该平台面向构建AI模型和代理的开发者。此次收购将增强Dropbox在AI基础设施领域的能力，为其AI服务提供更强大的技术支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai": {
+    "title_clean": "Discovered Materials：AI芯片材料研发初创公司悬赏百万美元解决材料科学难题",
+    "summary": "Discovered Materials是一家YC孵化的AI芯片材料研发初创公司，悬赏100万美元，针对五个未解决的芯片材料科学问题，每个问题提供20万美元奖励。这反映了AI在材料科学领域的应用拓展，对元宝产品经理了解AI在专业垂直领域的应用场景和商业化机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/peloton-forecast-tops-estimates-in-sign-of-comeback-progress": {
+    "title_clean": "Peloton Forecast：健身器材公司业绩超预期显现复苏迹象",
+    "summary": "Peloton Interactive Inc.发布的假日季度收入预测略高于华尔街预期，尽管公司预计销售额将同比下降且利润收窄。这一业绩信号表明Peloton的复苏战略正在取得成效，对健身科技行业和智能健身设备市场具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/introducing-gpt-6-cyber": {
+    "title_clean": "GPT-6 Cyber：网络安全漏洞检测与修复AI模型",
+    "summary": "OpenAI推出GPT-6 Cyber，专注于发现可利用漏洞并开发修复方案的网络安全模型，该模型经过训练确保在授权范围内操作。这对元宝产品经理在AI安全应用和Agent能力边界设计方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/asia-s-richest-banker-uday-kotak-sees-ai-correction-boosting-flows-to-india": {
+    "title_clean": "亚洲首富银行家：AI投资热潮退潮或推动资金流入印度",
+    "summary": "印度首富银行家Uday Kotak表示，如果全球人工智能投资热潮退潮，投资者可能会寻求估值更具吸引力的市场，印度可能因此受益于外资流入。这一观点对产品经理了解AI投资趋势与新兴市场机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/valeo-looks-to-china-as-role-model-in-reshaping-auto-parts-maker": {
+    "title_clean": "Valeo：借鉴中国模式重塑汽车零部件制造商",
+    "summary": "法国汽车零部件供应商Valeo CEO表示正借鉴中国经验，对这家百年老牌企业进行转型，以拓展雷诺、通用等传统客户之外的新业务领域。这反映了全球汽车零部件行业对中国创新模式的重视，对元宝在汽车服务场景拓展方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage": {
+    "title_clean": "苹果削减内部AI预算",
+    "summary": "据报道，苹果公司正在削减内部AI使用预算，反映出企业对AI token成本控制的重视。这一趋势表明，随着AI应用成本上升，企业正从盲目追求AI能力转向更务实的资源分配策略，对元宝产品经理在AI商业化路径上有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/safaricom-grows-profit-36-as-ethiopia-business-losses-narrow": {
+    "title_clean": "Safaricom：埃塞俄比亚业务亏损收窄推动利润增长36%",
+    "summary": "Safaricom公司上半年利润增长36%，主要得益于其在埃塞俄比亚业务的亏损收窄。作为肯尼亚市值最大的公司，这一业绩表现反映了其海外市场扩张策略的有效性，对元宝产品经理评估国际市场拓展和业务多元化策略具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/lJjAnRHHIw5LNiEs3IEsDg": {
+    "title_clean": "英伟达、UT-Austin发布Realtime-Bench：实时互动任务评估基准",
+    "summary": "英伟达与德州大学奥斯汀分校联合发布Realtime-Bench基准测试，用于评估AI模型在实时互动任务上的表现，结果显示当前最先进的GPT-6模型在该基准上表现不佳，为AI实时交互能力评估提供了新标准。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": {
+    "title_clean": "OpenAI发布负责任AI基础设施新标准",
+    "summary": "OpenAI推出国家社区契约和计算园区政策蓝图，旨在保护本地资源、创造就业并指导负责任AI基础设施发展。这反映了AI巨头对基础设施可持续性和社会责任的重视，对元宝产品经理在AI服务部署和资源管理方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-04/arm-s-results-perfectly-fine-cfra-s-zino-says-video": {
+    "title_clean": "ARM业绩符合预期，CFRA分析师称结果'相当不错'",
+    "summary": "CFRA研究高级副总裁兼股票分析师Angelo Zino表示，ARM的收入预期基本符合市场预期，业绩表现良好，但投资者可能希望获得更明确的指导。这对元宝产品经理了解AI芯片供应商的财务表现和市场预期有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/voters-gift-big-tech": {
+    "title_clean": "Voters' Gift to Big Tech：选民投票助力科技巨头",
+    "summary": "选民投票否决了对科技巨头的税收提案，这可能为大型科技公司带来政策利好。这一政治动向反映了公众对科技行业监管态度的变化，对元宝产品经理评估政策环境与商业机会具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/six-ways-blue-wave-shake-ai-crypto-tech": {
+    "title_clean": "民主党选举胜利：AI与科技政策或将迎来变革",
+    "summary": "民主党在选举中获胜，部分原因是利用了选民对AI和科技的焦虑情绪。这一政治转向可能影响AI监管、加密货币和技术政策，对科技行业产生深远影响，产品经理需关注政策变化对AI产品合规性和发展方向的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month": {
+    "title_clean": "Nothing：AI优先型神秘设备即将发布",
+    "summary": "Nothing公司CEO宣布其神秘AI优先型设备将于下月发布，该产品旨在利用AI提升生产力。作为智能手机创业公司，Nothing此次推出的AI设备可能与其现有产品线形成差异化竞争，值得AI助手和AI Agent领域产品经理关注其产品定位和技术实现。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending": {
+    "title_clean": "苹果削减内部AI使用预算以降低支出",
+    "summary": "苹果公司正在削减员工使用人工智能的预算，作为削减成本措施的一部分，尽管该公司仍寻求将AI置于其运营的核心位置。这一决策反映了苹果在AI投入与成本控制之间的平衡考量，对AI产品经理具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits": {
+    "title_clean": "开源AI蓬勃发展：Hugging Face解析盈利模式",
+    "summary": "开源AI模型正成为企业、政府和初创公司的主流选择，因其成本低、控制力强和灵活性高。Hugging Face深入分析了开源AI生态的盈利模式，这对元宝产品经理了解开源AI的商业化路径和竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor": {
+    "title_clean": "Meta收购AI编程初创公司Conductor",
+    "summary": "Meta收购了AI编程初创公司Conductor，该公司允许软件工程师部署多个AI代理团队同时处理项目的不同方面。这反映了Meta在AI编程助手和团队协作工具领域的战略布局，对元宝产品经理在AI代理协作和编程场景方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates": {
+    "title_clean": "Snap：社交平台广告收入与用户增长不及预期",
+    "summary": "Snap第三季度广告收入和日活跃用户增长均未达市场预期，CEO埃文·斯皮格尔承认广告收入增长面临挑战。这对元宝产品经理有参考价值，可作为社交平台商业化策略和用户增长压力的警示案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/blue-wave-engulf-data-center-industry": {
+    "title_clean": "Blue Wave Could Engulf Data Center Industry",
+    "summary": "选举日的'蓝色浪潮'可能对数据中心行业产生重大影响。该资讯暗示政治环境变化可能带来数据中心行业政策或监管方向的转变，对元宝产品经理了解行业政策环境变化及潜在影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/coreweave-bonds-hit-new-lows-as-texas-data-centers-in-crosshairs": {
+    "title_clean": "CoreWeave债券下跌：德州数据中心建设放缓影响",
+    "summary": "CoreWeave债券价格周三下跌至新低，此前支持放缓数据中心建设的民主党候选人在多个州长选举中获胜，包括德州。这表明AI基础设施投资面临政策风险，对依赖数据中心服务的AI公司有警示意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-sees-risks-to-ai-boom-after-the-democratic-sweep": {
+    "title_clean": "华尔街担忧民主党全面执政后AI行业增长风险",
+    "summary": "民主党全面掌控国会后，市场普遍上涨，但AI行业面临增长风险。这一政治变化可能对AI产业政策、监管环境和投资方向产生重要影响，元宝产品经理需关注政策变化对AI产品商业化路径的潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/uber-plans-invest-build-self-driving-car-availability": {
+    "title_clean": "Uber：加大自动驾驶汽车投入",
+    "summary": "Uber宣布将在未来一年内将平台上的自动驾驶汽车数量增加一倍以上，这是其第三季度财报中公布的重要战略举措，表明公司正加速推进自动驾驶技术的商业化应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/openai-to-acquire-pierre": {
+    "title_clean": "OpenAI收购Pierre Computer Company，扩展Codex代码工具能力",
+    "summary": "OpenAI计划收购Pierre Computer Company，此举旨在扩展Codex平台在代码构建、理解和审查方面的工具能力。这一收购将增强OpenAI在AI辅助编程领域的竞争力，为产品经理提供AI代码助手发展方向的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/devrev-enterprise-self-service": {
+    "title_clean": "DevRev：基于GPT-6.1 Sol的企业自助服务系统",
+    "summary": "DevRev推出基于GPT-6.1 Sol的Computer和Operator系统，为企业提供自主自助服务，平衡推理能力、响应速度与成本，适用于企业服务场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/oWPhyARCHxUaNkgF60Os7w": {
+    "title_clean": "人大复旦提出CoworkOS：AI协作操作系统",
+    "summary": "中国人民大学与复旦大学联合推出CoworkOS，与DeepSeek Super Agent理念相呼应，构建AI协作操作系统。该系统旨在提升AI Agent之间的协同工作能力，为多智能体协作提供技术支持，对AI助手产品在团队协作场景下的功能设计具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/online-supermarket-unicorn-rohlik-weighs-prague-ipo-ceo-says": {
+    "title_clean": "Rohlik：捷克在线超市考虑在布拉格IPO",
+    "summary": "捷克在线超市独角兽Rohlik Group正考虑在布拉格进行首次公开募股(IPO)，作为其上市的一种选择。这反映了欧洲电商领域的发展动态，对元宝产品经理了解AI服务在电商场景的应用和商业化路径有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

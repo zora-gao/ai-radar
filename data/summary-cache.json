@@ -157843,5 +157843,56 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/hira": {
+    "title_clean": "Hira：求职智能助手工具",
+    "summary": "Hira是一款免费的求职智能助手，专门帮助用户在求职过程中提供支持。该产品针对求职场景设计，可能包含简历优化、职位匹配、面试准备等功能，对元宝产品经理在AI助手垂直场景拓展和求职服务功能开发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/xT82tnGoi4OpTixrRRa1bQ": {
+    "title_clean": "AI开始教AI开车！无人驾驶的下一场竞赛，在虚拟世界打响",
+    "summary": "AI技术开始用于训练无人驾驶系统，通过虚拟环境模拟驾驶场景，加速自动驾驶技术的研发与测试。这一方法可能大幅降低训练成本，提高安全性，为元宝在智能出行场景的AI应用提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/z81wZDUPrBDkFIRcPPTcpg": {
+    "title_clean": "决策模型何时需要思考？StartLux-Decision的按需推理与概率校准",
+    "summary": "本文探讨了决策模型中按需推理与概率校准的方法，介绍了StartLux-Decision技术如何优化决策过程，通过智能判断何时进行深度思考，提高决策效率与准确性。对AI助手产品经理在优化决策逻辑和资源分配方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/-fTNqnWtXgg1umeJDWsV_A": {
+    "title_clean": "全球公开做预训练RSI的仅两家：一家在40亿美元公司，一家在801教室",
+    "summary": "全球公开进行预训练RSI(可能是某种AI技术)的机构仅有两家，一家估值达40亿美元的公司，另一家位于801教室。这表明该技术领域高度集中，可能存在较高的技术门槛或专利壁垒，对AI产品经理了解技术竞争格局和潜在合作机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

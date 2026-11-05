@@ -157894,5 +157894,302 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/textkit-2": {
+    "title_clean": "TextKit：北美短信收发API服务",
+    "summary": "TextKit提供美国和加拿大的短信收发API服务，开发者可通过简单接口实现短信功能。这对元宝产品经理有参考价值，特别是在考虑扩展短信交互能力或北美市场服务时。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/scrollsnacks": {
+    "title_clean": "Scrollsnacks：视频逐秒分析工具",
+    "summary": "Scrollsnacks是一个视频分析工具，能够将视频内容逐秒分解展示，帮助用户精确分析视频的每一帧内容。对于产品经理而言，这可能是一个有价值的视频内容分析参考，特别是在需要精细分析视频内容或制作教程的场景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cc-auto-review": {
+    "title_clean": "CC Auto Review：Claude代码审查GitHub PR的macOS工具",
+    "summary": "这是一款macOS应用程序，能够使用本地的Claude Code自动审查GitHub上的拉取请求(PRs)。该工具将AI代码审查能力直接集成到开发工作流中，帮助产品经理了解AI如何提升开发效率，以及AI辅助代码审查的场景化应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chatgpt-images-2-6": {
+    "title_clean": "ChatGPT Images 2.6：支持GIF与参考图片，生成速度提升50%",
+    "summary": "ChatGPT Images 2.6版本新增GIF生成功能，支持可重复使用的参考图片，并将图像生成速度提升50%。这一更新显著提升了AI图像生成工具的实用性和效率，为产品经理提供了AI多模态能力迭代的重要参考方向。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/easy-peasy-ai": {
+    "title_clean": "AI Employees by Easy-Peasy.AI：AI团队协作工具",
+    "summary": "Easy-Peasy.AI推出AI Employees服务，可组建AI团队协作完成工作，AI员工会在发送前进行确认。这反映了AI代理在团队协作场景的应用趋势，为元宝产品经理提供了AI任务分配与协作机制的设计参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bambu-lab-h3c": {
+    "title_clean": "Bambu Lab H3C：多材料3D打印机",
+    "summary": "Bambu Lab推出H3C型号3D打印机，专注于提升多材料打印项目的速度和易用性。该产品可能针对专业用户和爱好者，提供更高效的多材料打印解决方案，对元宝产品经理了解硬件与AI结合的制造工具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/backlane-2": {
+    "title_clean": "backlane：ChatGPT与Claude市场管理工具",
+    "summary": "backlane是一款通过MCP协议在ChatGPT和Claude中管理市场的新工具，允许用户在AI助手内直接处理市场相关任务，为AI助手集成第三方服务场景提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dearcameo": {
+    "title_clean": "DearCameo：逝者社交网络平台",
+    "summary": "DearCameo是一个独特的社交网络平台，用户只能与已故人士的账户互动。这种创新模式为用户提供了一种与逝者建立连接的新方式，可能启发AI在情感陪伴、纪念服务等场景的应用，值得产品经理关注用户对数字永生的需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chatandbuild": {
+    "title_clean": "Living Brain：AI Agent 通用记忆层",
+    "summary": "Living Brain 是一个为 AI Agent 设计的互操作性高效记忆层，旨在解决 AI 系统间的数据共享与记忆问题，为元宝产品经理提供 AI Agent 架构设计的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clocknext": {
+    "title_clean": "Clocknext：AI Agent 计费与计费基础设施",
+    "summary": "Clocknext 是一家专注于为 AI Agent 提供定价和计费基础设施服务的公司。该产品解决了 AI Agent 商业化过程中的核心计费问题，为产品经理提供了构建可持续 AI Agent 商业模式的参考方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/seamcult": {
+    "title_clean": "Seamcult：LLM时代图案设计工具",
+    "summary": "Seamcult是一款专为大型语言模型时代设计的图案创作工具，可作为图案设计的'纸张'，帮助用户在AI辅助下进行创意图案设计。这款产品对元宝产品经理在AI辅助创意设计领域的产品方向探索具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pushary": {
+    "title_clean": "Pushary for Teams：团队AI助手协作管理工具",
+    "summary": "Pushary for Teams是一款团队协作工具，专门用于追踪和管理团队成员对AI助手的响应情况，帮助团队了解哪些AI助手得到了成员的认可和使用，从而优化团队AI工具的配置和效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/keel-7": {
+    "title_clean": "Keel：macOS Redis/Valkey/Dragonfly 客户端工具",
+    "summary": "Keel 是一款专为 macOS 平台设计的 Redis、Valkey 和 Dragonfly 数据库的本地客户端工具，为开发者提供了便捷的数据库管理界面，有助于提升开发效率，对需要处理数据库的 AI 产品开发团队有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mcpcore": {
+    "title_clean": "MCPCore：无代码MCP服务器构建工具",
+    "summary": "MCPCore是一款无代码工具，帮助用户构建和托管MCP服务器，简化了AI Agent后端服务的开发流程，对元宝产品经理在AI Agent服务架构和低代码化方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-partner-hon-hai-s-sales-rise-46-thanks-to-ai-demand": {
+    "title_clean": "英伟达合作伙伴鸿海销售额增长46%：受益于AI需求",
+    "summary": "鸿海精密工业公司10月份销售额增长46%，反映出对英伟达服务器的强劲需求，这些服务器是全球AI基础设施建设的关键组件。这一数据表明AI硬件市场持续增长，对元宝的产品经理来说，这是评估AI基础设施供应链和硬件合作伙伴关系的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit": {
+    "title_clean": "中国阻止软银54亿美元收购ABB机器人部门",
+    "summary": "中国已阻止ABB机器人部门出售给软银集团，这对日本投资公司拓展实体AI的计划造成打击。这一监管决策反映了国家对关键AI基础设施的控制加强，对AI硬件领域的投资格局产生影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup": {
+    "title_clean": "Palo Alto Networks拟5亿美元收购AI安全初创公司Clutch Security",
+    "summary": "Palo Alto Networks正以约5亿美元价格收购三年前成立的以色列AI安全初创公司Clutch Security。此次收购反映了网络安全巨头对AI安全领域的高度重视，为元宝产品经理提供了AI安全商业化路径和行业整合趋势的重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared": {
+    "title_clean": "AI政治行动委员会投入数百万美元影响国会选举",
+    "summary": "AI行业政治行动委员会在2026年中期选举中投入数百万美元试图影响政治走向，但效果参差不齐。这些政治团体已经开始着眼于下一个选举周期，表明AI在政治领域的影响力正在扩大。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-04/scottsmiracle-gro-ceo-on-earnings-beat-growth-outlook-video": {
+    "title_clean": "ScottsMiracle-Gro CEO：业绩超预期与增长展望",
+    "summary": "ScottsMiracle-Gro公司财报表现超出预期，股价上涨约10%，投资者关注其2026财年收入指引。CEO Nate Baxter分享了公司增长前景，这对了解传统企业如何通过业绩表现影响市场估值有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video": {
+    "title_clean": "John Chambers：AI发展速度符合预期，社会价值显著",
+    "summary": "思科前CEO、JC2 Ventures创始人John Chambers表示AI发展速度和资本形成速度符合预期，他早在九年前就已投资AI初创公司。他强调AI对社会具有积极价值，这对元宝产品经理理解行业大佬对AI的长期看好和投资方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/arm-forecast-meets-estimates-after-data-center-push-pays-off": {
+    "title_clean": "Arm AI数据中心销售预测未达投资者预期",
+    "summary": "Arm公司最新季度营收预测未达投资者预期，显示这家芯片设计商在进军AI数据中心市场的过程中尚未满足市场的高期望。这对元宝产品经理了解AI硬件基础设施供应商的市场表现和投资者预期有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-04/big-tech-rallies-on-ai-outlook-closing-bell-video": {
+    "title_clean": "美国大选结果重塑科技巨头AI支出展望",
+    "summary": "美国大选结果引发科技巨头AI支出策略调整，Bloomberg对此进行了全面报道。这一政治变化可能影响AI行业投资方向、产品开发重点和市场格局，对元宝产品经理了解AI行业资金流向和政策环境变化有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-03/focus-hope-ceo-on-detroit-s-economic-development-video": {
+    "title_clean": "Focus: HOPE CEO底特律经济发展观点",
+    "summary": "Focus: HOPE首席执行官Portia Roberson讨论人口增长和劳动力发展，指出优质公立学校和可负担住房是底特律经济发展的基础要素。该观点对元宝产品经理了解城市经济发展与公共服务需求的关系有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation": {
+    "title_clean": "Fal：AI推理模型托管平台获16亿美元估值",
+    "summary": "Fal是一家AI推理初创公司，为创作者和开发者托管图像、视频和音频模型，在新一轮融资中估值翻倍达到160亿美元。这反映了AI推理服务市场的快速增长和资本对AI基础设施的重视，对元宝的产品经理了解AI服务商业化路径和基础设施竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

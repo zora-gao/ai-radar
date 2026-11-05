@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-11-05T09:20:11.716Z",
+  "generated_at": "2026-11-05T18:17:52.269Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "google/gemini-omni-1.2-flash",
+      "name": "Gemini Omni 1.2 Flash",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-omni-1.2-flash-20261105",
+      "created_at": "2026-11-05T17:16:01Z",
+      "context_length": 131072,
+      "modality": "text+image+video->text+video",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text",
+        "video"
+      ],
+      "price_in": 1.5,
+      "price_out": 9,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Gemini Omni 1.2 Flash is Google's native multimodal video generation and editing model, the successor to Gemini Omni 1.1 Flash. It generates clips up to 15 seconds long with native...",
+      "description_zh": null
+    },
+    {
+      "id": "openrouter/auto",
+      "name": "Auto Router",
+      "vendor": "OpenRouter",
+      "vendor_slug": "openrouter",
+      "url": "https://openrouter.ai/openrouter/auto",
+      "created_at": "2026-11-05T13:38:09Z",
+      "context_length": 2000000,
+      "modality": "text+image+file+audio+video->text+image",
+      "input_modalities": [
+        "text",
+        "image",
+        "audio",
+        "file",
+        "video"
+      ],
+      "output_modalities": [
+        "text",
+        "image"
+      ],
+      "price_in": null,
+      "price_out": null,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Auto is OpenRouter’s flagship model router, built for general-purpose usage. It adapts to each request, choosing cost-optimal models and adjusting reasoning effort. It balances task difficulty, benchmark results, live prices,...",
+      "description_zh": null
+    },
+    {
+      "id": "openrouter/auto-code",
+      "name": "Auto Code",
+      "vendor": "OpenRouter",
+      "vendor_slug": "openrouter",
+      "url": "https://openrouter.ai/openrouter/auto-code",
+      "created_at": "2026-11-05T13:12:01Z",
+      "context_length": 2000000,
+      "modality": "text+image+file+audio+video->text+image",
+      "input_modalities": [
+        "text",
+        "image",
+        "audio",
+        "file",
+        "video"
+      ],
+      "output_modalities": [
+        "text",
+        "image"
+      ],
+      "price_in": null,
+      "price_out": null,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Auto Code is OpenRouter’s router built specifically for coding agents and harnesses. It uses the same routing engine as the Auto Router, with every request treated as part of an...",
+      "description_zh": null
+    },
+    {
+      "id": "google/gemini-omni-1.1-flash",
+      "name": "Gemini Omni 1.1 Flash",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-omni-1.1-flash-20260911",
+      "created_at": "2026-11-04T20:54:28Z",
+      "context_length": 131072,
+      "modality": "text+image+video->text+video",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text",
+        "video"
+      ],
+      "price_in": 1.5,
+      "price_out": 9,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Gemini Omni 1.1 Flash is Google's native multimodal video generation and editing model, the generally available successor to Gemini Omni Flash Preview. It is suited for text-to-video, image-to-video, first and...",
+      "description_zh": null
+    },
     {
       "id": "ricursiveai/ripple-65b-preview",
       "name": "ricursiveAI/Ripple-65B-Preview",
@@ -291,8 +399,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -315,8 +423,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
-      "price_out": 1.2,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1381,106 +1489,6 @@
       "supports_reasoning": true,
       "description": "GPT-6 Luna is the fast, cost-efficient model in OpenAI's GPT-6 series, positioned below GPT-6 Sol. It is suited for high-volume and latency-sensitive workloads such as chat, classification, and lightweight agentic...",
       "description_zh": "GPT-6 Luna 是 OpenAI GPT-6 系列中快速、经济高效的模型，定位低于 GPT-6 Sol。它适用于大容量和延迟敏感的工作负载，例如聊天、分类和轻量级代理..."
-    },
-    {
-      "id": "openai/gpt-6-luna:batch",
-      "name": "GPT-6 Luna (batch)",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6-luna-20260922",
-      "created_at": "2026-09-22T18:13:06Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.05,
-      "price_out": 0.25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6 Luna is the fast, cost-efficient model in OpenAI's GPT-6 series, positioned below GPT-6 Sol. It is suited for high-volume and latency-sensitive workloads such as chat, classification, and lightweight agentic...",
-      "description_zh": "GPT-6 Luna 是 OpenAI GPT-6 系列中快速、经济高效的模型，定位低于 GPT-6 Sol。它适用于大容量和延迟敏感的工作负载，例如聊天、分类和轻量级代理..."
-    },
-    {
-      "id": "openai/gpt-6-sol-pro",
-      "name": "GPT-6 Sol Pro",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6-sol-pro-20260922",
-      "created_at": "2026-09-22T18:13:01Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6 Sol Pro is the same underlying model as GPT-6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": "GPT-6 Sol Pro 与 GPT-6 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
-    },
-    {
-      "id": "openai/gpt-6-sol-pro:batch",
-      "name": "GPT-6 Sol Pro (batch)",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6-sol-pro-20260922",
-      "created_at": "2026-09-22T18:13:01Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1,
-      "price_out": 5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6 Sol Pro is the same underlying model as GPT-6 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": "GPT-6 Sol Pro 与 GPT-6 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
-    },
-    {
-      "id": "openai/gpt-6-sol",
-      "name": "GPT-6 Sol",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6-sol-20260922",
-      "created_at": "2026-09-22T18:12:55Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6 Sol is the cost-efficient high-end model in OpenAI's GPT-6 series, positioned below the flagship GPT-6 Astra and above the fast GPT-6 Luna tier. It is suited for demanding professional...",
-      "description_zh": "GPT-6 Sol 是 OpenAI GPT-6 系列中经济高效的高端型号，定位低于旗舰产品 GPT-6 Astra，高于快速 GPT-6 Luna 级别。它适合要求较高的专业..."
     }
   ]
 }

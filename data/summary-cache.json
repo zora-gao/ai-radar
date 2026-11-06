@@ -160298,5 +160298,659 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/refern": {
+    "title_clean": "refern：视觉素材管理工具",
+    "summary": "refern是一个视觉素材管理工具，帮助用户将工作中使用的所有视觉参考资料集中管理。产品经理可关注其如何解决创意工作者在多项目间管理视觉参考的痛点，为元宝的素材管理功能提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/crystl-multitasking-terminal": {
+    "title_clean": "crystl：AI编程代理多任务终端工具",
+    "summary": "crystl是一款专为macOS设计的多任务终端工具，专门服务于AI编程代理。该工具为AI编程代理提供了高效的多任务处理能力，可能帮助提升AI编程助手在复杂开发场景中的工作效率和任务管理能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tracex": {
+    "title_clean": "TraceX：AI生产问题排查工具",
+    "summary": "TraceX是一款面向工程师的AI工具，专门用于排查和解决生产环境中的技术问题。它通过AI技术帮助工程师快速定位系统故障、分析错误日志并提供解决方案，提高问题排查效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openvisio": {
+    "title_clean": "OpenVisio：团队AI编程代理协作工作空间",
+    "summary": "OpenVisio提供了一个团队与AI编程代理共享的工作空间，旨在提升团队协作效率。该产品将人类开发者与AI编程助手整合在同一界面，可能为元宝在团队协作AI工具方向提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pressure": {
+    "title_clean": "Pressure：AI 双代理辩论工具",
+    "summary": "Pressure 是一款 AI 工具，允许用户就特定话题让两个 AI 代理进行辩论，提供不同视角的见解。这种多代理交互方式可为产品经理提供启发，探索如何通过 AI 对话增强决策支持和多角度思考能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/orgsync-2": {
+    "title_clean": "OrgSync：AI团队协作知识管理工具",
+    "summary": "OrgSync是一款专为Claude、ChatGPT和Codex团队设计的公司级知识管理工具，旨在帮助AI团队集中管理、共享和检索专业知识，提升团队协作效率。产品经理可关注其如何解决AI团队知识分散问题，以及其与现有AI工作流集成的可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/datastripes": {
+    "title_clean": "Datastripes：数据故事生成工具",
+    "summary": "Datastripes是一款能将电子表格快速转化为数据故事的工具，帮助用户以更直观的方式呈现数据分析结果，对产品经理在数据可视化和报告生成方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/any-video-to-text": {
+    "title_clean": "Any Video to Text：视频转文本工具",
+    "summary": "该工具可通过粘贴视频链接快速生成视频文字转录，帮助用户快速获取视频内容文本。对于元宝产品经理而言，这展示了AI在视频内容处理方面的应用场景，可参考其技术实现和用户体验设计，为元宝增加视频内容理解功能提供思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/alysis-code": {
+    "title_clean": "Alysis Code：开源AI编程助手",
+    "summary": "Alysis Code是一款开源AI编程助手，能够帮助开发者自动完成代码编写任务。作为开源工具，它可能为元宝团队在AI编程辅助功能方面提供技术参考和实现思路，有助于评估开源方案与自研方案的可行性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/releasebeam": {
+    "title_clean": "Releasebeam：开发者发布基础设施工具",
+    "summary": "Releasebeam是一款面向开发者的发布基础设施工具，旨在简化软件发布流程。该产品为开发者提供了一套完整的发布解决方案，可能包括版本控制、自动化部署和发布管理等功能，对元宝产品经理在AI工具集成和开发者服务场景方面具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agenttm": {
+    "title_clean": "AgentTM：AI编程代理的时间旅行调试工具",
+    "summary": "AgentTM是一款专为AI编程代理设计的时间旅行调试工具，允许开发者回溯和检查AI编程代理的决策过程，帮助定位和修复代码生成中的错误，提升AI编程辅助工具的可靠性和调试效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wonder-dev-view": {
+    "title_clean": "Wonder Dev View：并行运行Claude Code与Codex代理工具",
+    "summary": "Wonder Dev View是一款开发工具，支持同时运行多个Claude Code和Codex代理，提升并行处理能力。这对元宝产品经理在AI Agent多任务处理和并行执行能力设计上有参考价值，特别是在开发场景中的应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-06/onsemi-scraps-plan-for-2-billion-expansion-in-czech-republic": {
+    "title_clean": "Onsemi 取消在捷克共和国20亿美元半导体扩建计划",
+    "summary": "半导体公司Onsemi取消了在捷克共和国价值高达20亿美元的扩建计划。这一决策反映了半导体行业投资环境的变化，对元宝产品经理了解全球供应链动态和行业投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline": {
+    "title_clean": "本周十大融资轮次：AI、国防和太空科技引领大额融资",
+    "summary": "本周多家初创企业和成长型企业获得大额融资，其中专注于自主技术和虚拟仿真的国防科技公司Shield AI获得最大一笔融资。这反映了AI在国防和太空科技领域的投资热度，对元宝产品经理了解AI技术在专业领域的应用趋势和商业化机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-tech-11-06-2026-video": {
+    "title_clean": "科技股反弹：AI交易吸引逢低买入者",
+    "summary": "科技股出现反弹，逢低买入者重新进入AI交易市场，支撑了此前受挫的AI板块。同时，Anthropic的IPO计划因大选后抛售而受到影响。这反映了市场对AI投资的信心波动，对产品经理了解AI行业资本动向和投资者情绪变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/tesla-will-discontinue-cybertruck-next-year": {
+    "title_clean": "特斯拉计划明年停产赛博皮卡，为机器人出租车让路",
+    "summary": "特斯拉CEO马斯克宣布，计划于明年年中停止赛博皮卡(Cybertruck)生产，以便为制造更多赛博出租车(Cybercab)机器人出租车腾出产能。这一决策反映了特斯拉将资源向自动驾驶出租车业务倾斜的战略调整。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web": {
+    "title_clean": "Artex AI渗透测试工具：数百台服务器意外暴露于互联网",
+    "summary": "安全研究人员发现，数百台托管Artex渗透测试工具的服务器意外暴露在互联网上，任何人都可以访问这款黑客工具。这提醒AI工具在部署安全方面的重要性，对产品经理在AI服务安全架构设计上有警示价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-investors-weigh-valuation-as-low-as-1-2t-video": {
+    "title_clean": "Anthropic IPO估值或降至1.2万亿美元",
+    "summary": "Anthropic的IPO计划因选举后市场抛售面临挑战，潜在投资者重新评估其估值，可能低至1.2万亿美元。这反映了AI独角兽融资环境变化，对元宝产品经理评估AI公司估值波动与市场信心有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/prediction-markets-will-pay-off-draftkings-ceo-says-video": {
+    "title_clean": "DraftKings CEO：预测市场投资将获得回报",
+    "summary": "DraftKings CEO Jason Robins表示，尽管公司大幅下调盈利预期导致股价暴跌29%，但仍将继续大力投资预测市场。这一决策表明预测市场可能成为公司未来增长的重要方向，对AI助手产品经理在探索预测功能和用户参与度方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry": {
+    "title_clean": "美国中期选举结果或重塑AI行业格局",
+    "summary": "美国中期选举民主党获胜可能改变科技行业，特别是涉及数据中心相关政策的41项投票中，除一项外均通过，这可能对AI基础设施建设和行业监管产生深远影响，对元宝产品经理了解政策环境变化对AI行业的影响有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity": {
+    "title_clean": "微软终止与甲骨文的AI云计算租赁合作",
+    "summary": "微软正在终止与甲骨文关于AI计算能力的租赁协议，这是对价值数十亿美元的云合作伙伴关系重新评估的一部分。这一变化反映了云服务提供商在AI基础设施策略上的调整，对元宝产品经理了解云服务合作模式及AI资源获取策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-buyers-see-valuation-as-low-as-1-1t-video": {
+    "title_clean": "Anthropic IPO：估值下调至1.1万亿美元",
+    "summary": "Anthropic在IPO计划中遭遇选举后抛售压力，潜在投资者重新评估公司预期估值，最低估值降至1.1万亿美元。这一动态反映了AI独角兽估值波动与市场环境变化，对元宝产品经理评估AI公司商业化路径与市场预期具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-06/apollo-s-brightspeed-in-creditor-talks-for-billions-in-new-money": {
+    "title_clean": "Brightspeed：宽带运营商寻求数十亿美元债务重组",
+    "summary": "Brightspeed作为宽带运营商正面临沉重债务负担，正与债权人就数十亿美元的新融资进行谈判，以支持其资本密集型的光纤互联网扩张计划。这对元宝产品经理了解电信行业资本运作和宽带服务市场动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-06/why-blizzard-made-world-of-warcraft-forever": {
+    "title_clean": "暴雪推出《魔兽世界：永恒》新版本",
+    "summary": "暴雪公司推出《魔兽世界：永恒》版本，这是一个平行现实版本的经典网游，为玩家提供全新游戏体验。这一决策反映了游戏行业对经典IP的持续创新尝试，对元宝产品经理在游戏化AI应用和长期用户留存策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/lyft-ceo-says-company-takes-up-to-30-of-fare-video": {
+    "title_clean": "Lyft CEO：网约车平台抽成上限为30%",
+    "summary": "Lyft CEO David Risher在最新财报中透露，公司对乘客支付的费率抽成上限为30%，并讨论了整合收购公司的进展。这一信息对了解网约车平台的商业模式和抽成策略有参考价值，可作为元宝在服务定价和商业化策略上的对比参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/shield-ai-shopping-list": {
+    "title_clean": "Shield AI以53亿美元收购雷达公司Echodyne",
+    "summary": "Shield AI以53亿美元收购雷达技术公司Echodyne，同时宣布获得25亿美元新融资，包括10亿美元H轮融资。此次收购表明Shield AI正从纯软件向硬件领域扩展，强化其AI防御系统实力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo": {
+    "title_clean": "Ramp数据：AI支出停滞之际Anthropic接近IPO",
+    "summary": "Ramp数据显示，尽管AI使用量持续增长，但企业支出已出现停滞。大型企业通过降价和更智能的成本控制措施，可能挑战投资者对AI超高速增长的假设，这对AI商业化路径和估值具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amazon-says-shoppers-can-now-text-ai-shopping-assistant-alexa-shopping": {
+    "title_clean": "Amazon：Alexa购物助手新增文本对话功能",
+    "summary": "Amazon为其Alexa购物服务引入文本对话功能，用户现在可以直接通过短信与AI购物助手交流。这表明文本消息正成为标准沟通工具，对电商AI助手交互方式具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/gpu-futures-hopes-hit-another-roadblock-cme-delays-launch-second-time": {
+    "title_clean": "GPU期货交易再次延迟：CME推迟Nvidia GPU租赁价格期货上市",
+    "summary": "芝加哥商品交易所(CME)再次推迟Nvidia GPU租赁价格期货上市，将审批时间延长至1月。这表明GPU相关金融产品面临监管和市场挑战，对元宝产品经理了解AI硬件市场波动和算力资源交易化趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/toyblocks": {
+    "title_clean": "ToyBlocks：机器人学习与评估控制平台",
+    "summary": "ToyBlocks是一个专为机器人学习与评估设计的控制平台，提供结构化环境让AI系统在安全条件下进行训练和测试。这对元宝产品经理在开发AI Agent物理交互能力时有参考价值，特别是如何构建可控测试环境来评估AI在现实世界任务中的表现。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-06/tsmc-mulls-making-advanced-ai-memory-chips-information-says": {
+    "title_clean": "台积电考虑生产先进AI存储芯片",
+    "summary": "台积电正考虑拓展业务至先进存储芯片制造领域，此举将使全球最大芯片制造商进入AI芯片市场，可能影响AI硬件供应链和成本结构，对元宝产品经理评估AI服务底层基础设施有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop": {
+    "title_clean": "Amazon开放Alexa短信购物功能",
+    "summary": "Amazon宣布将开放Alexa短信购物功能，允许用户通过短信与Alexa互动完成购物，该功能将在未来几周内向数百万用户推出。这标志着Amazon在AI助手服务场景和商业化方面的进一步探索，对元宝产品经理在AI助手服务场景拓展和商业化模式上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/there-was-no-big-trigger-for-the-selloff-page-says-video": {
+    "title_clean": "T. Rowe Price投资总监：市场大跌无明显触发因素",
+    "summary": "T. Rowe Price全球投资联席主管兼首席投资官Sebastien Page表示，此次市场大幅抛售没有明显触发因素，市场仍存在买入机会。这一观点对AI产品经理了解市场情绪和投资决策环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/hsbc-s-kettner-we-re-in-full-on-p-l-protection-video": {
+    "title_clean": "汇丰银行Kettner：AI交易不确定性加剧全球股市动荡",
+    "summary": "汇丰银行首席多元资产策略师Max Kettner讨论了全球股市下跌，指出围绕AI交易的不确定性是主要原因。他认为市场稳定可能取决于Anthropic的IPO表现，这对AI行业发展和市场情绪有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/jensen-huang-asked-brief-congress-alleged-chinese-spy-plot": {
+    "title_clean": "黄仁勋被要求就 alleged 中国间谍计划向国会简报",
+    "summary": "美国众议院三个委员会要求英伟达CEO黄仁勋本月就其与被指认为中国间谍的Alice Huang的关系进行闭门简报。此事涉及AI芯片巨头与中国企业的关联，对元宝产品经理了解地缘政治对AI供应链的影响及潜在风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m": {
+    "title_clean": "Palo Alto Networks拟5亿美元收购AI安全代理初创公司Clutch",
+    "summary": "网络安全巨头Palo Alto Networks正以5亿美元价格洽谈收购AI安全代理初创公司Clutch。Clutch由Lightspeed和SignalFire投资，最近估值8500万美元。此次收购反映企业对AI安全代理解决方案的重视，对元宝在AI安全领域的产品布局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup": {
+    "title_clean": "Airbnb创始人Chesky自资新AI创业公司",
+    "summary": "Airbnb披露创始人兼CEO Brian Chesky秘密控制的一家AI创业公司已达成协议，允许Airbnb投资并授权其技术。这对元宝产品经理有参考价值，因为展示了传统行业巨头创始人如何布局AI领域，可能预示着住宿行业与AI服务的融合机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/ionq-sees-revenue-quadrupling-on-quantum-computing-demand": {
+    "title_clean": "IonQ：量子计算需求推动收入增长",
+    "summary": "IonQ公司预计今年收入将增长近四倍，政府和私营企业正投入数十亿美元发展量子计算能力。这一趋势表明量子计算市场正在快速扩张，对元宝产品经理了解前沿技术商业化路径和长期市场潜力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amazon-strikes-uber-eats-partnership": {
+    "title_clean": "Amazon与Uber Eats合作推出餐饮配送服务",
+    "summary": "Amazon与Uber Eats合作推出餐饮配送服务，此举为Uber带来业务增长，同时对DoorDash构成竞争威胁。元宝产品经理可关注电商与外卖服务的跨界合作模式，以及AI助手在整合多服务场景中的应用机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/cultfit-builds-with-codex": {
+    "title_clean": "Cult.fit：利用Codex提升运营效率",
+    "summary": "Cult.fit正在使用Codex帮助跨职能团队构建工具、加速工作流程并改变工作方式。这展示了AI工具在提升企业运营效率方面的实际应用，对元宝产品经理了解AI如何赋能企业内部工具开发具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/unity-software-reports-strong-growth-ai-ad-business": {
+    "title_clean": "Unity Software：AI广告业务实现强劲增长",
+    "summary": "Unity Software报告其AI广告业务收入增长32%，推动公司整体股价上涨13%。该公司今年推出的AI广告解决方案表现强劲，为游戏行业广告技术提供了新的增长点，对元宝在AI广告商业化方向具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-launches-personal-finance-feature-claude": {
+    "title_clean": "Anthropic：为Claude推出个人财务功能",
+    "summary": "Anthropic宣布为Claude聊天机器人添加个人财务功能，这是用户最常寻求指导的领域之一，此举发生在公司计划IPO之前。该功能将帮助用户处理财务相关问题，为AI助手在金融服务场景中的应用提供了新方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool": {
+    "title_clean": "Claude：个人财务分析工具",
+    "summary": "Claude推出个人财务分析工具，用户可通过Plaid连接银行和信用卡账户，查询财务信息。这展示了AI助手向垂直领域扩展的趋势，为元宝在金融服务场景的集成提供了参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics": {
+    "title_clean": "Axiom Math：AI数学证明验证工具",
+    "summary": "Axiom Math开发AI验证工具，成功验证了数学领域最大的库之一Stacks Project，旨在解决AI生成数学证明的可靠性问题，为AI在严谨数学领域的应用提供质量控制方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash": {
+    "title_clean": "Gemini Omni 1.2 Flash：快速低成本视频生成编辑模型",
+    "summary": "谷歌发布Gemini Omni 1.2 Flash模型，支持原生15秒视频生成与编辑，一致性更强，价格降低30%。这对AI视频生成领域的产品经理有重要参考价值，展示了多模态AI模型的成本优化与能力提升方向。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy": {
+    "title_clean": "Siggy：AI心理健康服务初创公司获600万美元融资",
+    "summary": "Siggy是一家心理健康服务初创公司，已完成600万美元种子前轮融资，其服务利用AI收集患者病史并跟踪与认证临床医生之间的预约进展，为心理健康领域提供AI辅助服务。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs": {
+    "title_clean": "Microsoft对Neocloud服务商延迟和成本表示不满",
+    "summary": "Microsoft对新兴云服务提供商Neoclouds(包括IREN、Nebius、Nscale)的交付延迟和成本问题表示不满，尽管微软曾投入数十亿美元与这些新兴数据中心运营商合作，以满足其云和AI服务的巨大需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-05/nuveen-sees-attractive-opportunities-in-ai-credit-video": {
+    "title_clean": "Nuveen's Cooper：AI基础设施投资机会",
+    "summary": "Nuveen全球投资策略师Laura Cooper讨论了AI建设融资激增的情况，并认为投资超大规模计算基础设施具有吸引力。这对元宝产品经理了解AI行业资本流向和基础设施投资趋势有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry": {
+    "title_clean": "OpenAI调整数据中心处理方式以回应公众担忧",
+    "summary": "OpenAI宣布将改变数据中心协议的谈判方式，避免使用保密协议，并确保当地居民无需为数据中心项目支付电费。这是公司回应公众对数据中心环境影响担忧的新框架措施，对AI基础设施规划有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/franklin-templeton": {
+    "title_clean": "富兰克林邓普顿利用OpenAI支持投资研究",
+    "summary": "富兰克林邓普顿正在开发AI工作流程，从股票研究开始，帮助投资组合经理比较研究观点和检查投资风险，展示了大型金融机构将AI应用于专业投资决策领域的实践。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/lumentum-sell-off-marvell-offer-raises-chance-alternate-bid": {
+    "title_clean": "Lumentum：光网络元件制造商",
+    "summary": "Lumentum作为光网络元件制造商，被Marvell Technology提出收购。受选举影响，相关股票出现抛售，可能增加其他竞购方的收购机会。这对AI硬件供应链和光通信领域的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-04/cyberattacks-on-cryptocurrency-targets-supermarket-fridges-serve-geopolitical-purpose": {
+    "title_clean": "加密货币攻击与超市冰箱被用于地缘政治目的",
+    "summary": "报道显示针对加密货币的攻击和超市冰箱被黑客控制等事件背后存在地缘政治动机，反映了当前网络安全威胁与地缘政治的交织。这对产品经理了解网络安全风险如何影响关键基础设施和数字资产安全有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-04/thai-spyware-alerts-on-opposition-leaders-phones-prompt-demands-for-probe": {
+    "title_clean": "泰国反对派领导人手机间谍软件事件引发调查要求",
+    "summary": "泰国两名反对派领导人要求政府披露是否在国家机构针对政治领导人的间谍软件事件中使用了监控工具，此事发生在苹果公司发布安全警告之后，引发了对政府使用间谍软件的政治干预担忧。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

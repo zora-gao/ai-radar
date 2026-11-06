@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:18:43.165Z",
+  "generated_at": "2026-11-06T21:00:00.991Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -113,7 +113,7 @@
     },
     {
       "id": "ricursiveai/ripple-65b-preview",
-      "name": "ricursiveAI/Ripple-65B-Preview",
+      "name": "Ripple 65B Preview",
       "vendor": "Ricursiveai",
       "vendor_slug": "ricursiveai",
       "url": "https://openrouter.ai/ricursiveai/ripple-65b-preview-20261104",
@@ -399,8 +399,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

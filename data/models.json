@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-11-06T21:00:00.991Z",
+  "generated_at": "2026-11-07T02:17:30.574Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "liquid/lfm-3-1.7b",
+      "name": "LFM3-1.7B",
+      "vendor": "Liquid",
+      "vendor_slug": "liquid",
+      "url": "https://openrouter.ai/liquid/lfm-3-1.7b-20261106",
+      "created_at": "2026-11-06T23:57:57Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.08,
+      "price_out": 0.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "A compact 1.7B-parameter text model with a 256K-token context, post-trained for agents, tool calling, and structured outputs. It reasons before it answers. Prompts and outputs may be retained and used...",
+      "description_zh": null
+    },
+    {
+      "id": "liquid/lfm-3-1.7b:free",
+      "name": "LFM3-1.7B (free)",
+      "vendor": "Liquid",
+      "vendor_slug": "liquid",
+      "url": "https://openrouter.ai/liquid/lfm-3-1.7b-20261106",
+      "created_at": "2026-11-06T23:57:57Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "A compact 1.7B-parameter text model with a 256K-token context, post-trained for agents, tool calling, and structured outputs. It reasons before it answers. Prompts and outputs may be retained and used...",
+      "description_zh": null
+    },
     {
       "id": "google/gemini-omni-1.2-flash",
       "name": "Gemini Omni 1.2 Flash",
@@ -399,8 +445,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.3,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1039,8 +1085,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.225,
+      "price_in": 0.045,
+      "price_out": 0.135,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1439,56 +1485,6 @@
       "supports_reasoning": true,
       "description": "GPT-6 Luna Pro is the same underlying model as GPT-6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
       "description_zh": "GPT-6 Luna Pro 与 GPT-6 Luna 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
-    },
-    {
-      "id": "openai/gpt-6-luna-pro:batch",
-      "name": "GPT-6 Luna Pro (batch)",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6-luna-pro-20260922",
-      "created_at": "2026-09-22T18:13:11Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.05,
-      "price_out": 0.25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6 Luna Pro is the same underlying model as GPT-6 Luna, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": "GPT-6 Luna Pro 与 GPT-6 Luna 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
-    },
-    {
-      "id": "openai/gpt-6-luna",
-      "name": "GPT-6 Luna",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6-luna-20260922",
-      "created_at": "2026-09-22T18:13:06Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.1,
-      "price_out": 0.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6 Luna is the fast, cost-efficient model in OpenAI's GPT-6 series, positioned below GPT-6 Sol. It is suited for high-volume and latency-sensitive workloads such as chat, classification, and lightweight agentic...",
-      "description_zh": "GPT-6 Luna 是 OpenAI GPT-6 系列中快速、经济高效的模型，定位低于 GPT-6 Sol。它适用于大容量和延迟敏感的工作负载，例如聊天、分类和轻量级代理..."
     }
   ]
 }

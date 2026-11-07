@@ -161693,5 +161693,65 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/russia-s-rosstat-struggles-to-restore-systems-after-major-cyberattack": {
+    "title_clean": "俄罗斯统计局遭遇重大网络攻击后系统恢复困难",
+    "summary": "俄罗斯统计局(Rosstat)遭遇重大网络攻击，导致重要经济报告至少延迟至11月13日发布。此事件凸显了政府机构面临的网络安全挑战，对AI助手在数据安全、系统恢复和应急响应方面的能力建设具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/google-buys-548-million-qualcomm-shares": {
+    "title_clean": "Google通过收购Modular获得高通股份",
+    "summary": "Google Ventures通过高通收购芯片软件公司Modular的交易，获得了近300万股高通股份。这反映了Google在AI芯片和软件生态布局的战略意图，对元宝产品经理了解科技巨头在AI基础设施领域的投资方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending": {
+    "title_clean": "台积电考虑生产先进存储芯片以获取更多AI支出",
+    "summary": "台积正考虑扩展至先进存储芯片制造领域，此举将使这家全球最大芯片制造商在AI市场中占据更大份额。这一战略动向可能影响AI硬件供应链格局，对元宝产品经理评估AI基础设施成本和性能趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-06/crowded-hedge-fund-trades-are-unwinding-fast-after-ugly-october": {
+    "title_clean": "对冲基金十月交易快速平仓",
+    "summary": "AI交易策略在十月遭遇挫折，随后引发宏观冲击和信贷恐慌，导致对冲基金大规模平仓。这一市场波动反映了AI交易策略在极端市场环境下的脆弱性，对AI金融应用的风险管理具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/texas-satellite-maker-raises-730-million-to-launch-new-network": {
+    "title_clean": "CesiumAstro：卫星通信网络制造商获7.3亿美元融资",
+    "summary": "CesiumAstro完成7.3亿美元融资，将用于构建面向企业和政府的卫星通信网络。作为德州卫星制造商，这笔资金将加速其卫星网络部署，为元宝产品经理提供卫星通信领域商业机会和行业动态参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

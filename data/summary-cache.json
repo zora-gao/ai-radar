@@ -161753,5 +161753,178 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/sequence-tool": {
+    "title_clean": "Sequence Tool：长录音编辑转故事工具",
+    "summary": "Sequence Tool是一款将长录音编辑成精炼故事的产品，帮助用户将冗长的音频内容转化为结构化的叙事内容，对AI内容处理和多媒体编辑场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/capnot": {
+    "title_clean": "Capnot：屏幕演示静音清晰化工具",
+    "summary": "Capnot是一款屏幕演示工具，能够在静音状态下保持演示内容的清晰度，解决视频演示中声音缺失导致的信息传达问题，为产品经理提供优化演示体验的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/the-writer-s-quarter": {
+    "title_clean": "The Writer's Quarter：无AI写作与小说规划软件",
+    "summary": "The Writer's Quarter是一款专注于无AI辅助的写作和小说规划软件，为传统写作方式提供工具支持。这反映了AI写作工具兴起后，市场对非AI写作解决方案的需求，对元宝产品经理了解用户对AI辅助写作的接受度边界有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/instagram": {
+    "title_clean": "Instagram Edits for Desktop：AI视频编辑桌面工具",
+    "summary": "Instagram推出免费桌面视频编辑工具，集成AI代理功能，帮助用户在电脑端进行视频编辑。这对元宝产品经理有参考价值，展示了社交媒体平台向AI辅助编辑领域的拓展，可能启发元宝在多模态内容创作工具方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sendoff-2": {
+    "title_clean": "Sendoff：邮件自动发送工具",
+    "summary": "Sendoff是一款通过语音指令'send it'即可自动向邮件列表发送邮件的工具，简化了批量邮件发送流程，对需要高效管理邮件营销的产品经理有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fleeep": {
+    "title_clean": "Fleeep：创意工作者笔记工具",
+    "summary": "Fleeep是一款专为创意工作者设计的笔记应用，专注于帮助创作者记录和管理灵感、项目想法和创作过程。这款工具针对创意人群的特殊需求，提供更贴合创作工作流的笔记功能，对元宝产品经理在垂直领域AI助手设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Pcs-7Ey6Ev565qXV-GPqNg": {
+    "title_clean": "OpenAI开始大规模封号",
+    "summary": "OpenAI近期开始大规模封禁用户账号，具体原因和范围尚未明确。这一动态对元宝产品经理具有重要参考价值，需关注封号原因、影响范围及潜在风险，评估是否需要调整账号安全策略或用户协议。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/deal-pilot": {
+    "title_clean": "Deal Pilot：AI销售开发代表会议预约工具",
+    "summary": "Deal Pilot是一款AI销售开发代表工具，专门为日本、美国和东南亚地区的市场提供会议预约服务。该产品能够自动化销售流程，帮助企业在多个国际市场高效安排销售会议，对元宝产品经理在AI销售自动化和跨区域服务场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ozj_2BT5W-RHByX_Rdg9Wg": {
+    "title_clean": "Stateof AI 2026：AGI 2027预测报告",
+    "summary": "Stateof AI 2026报告探讨了人工智能发展现状，并对2027年实现AGI的可能性进行了分析。该报告对元宝产品经理了解AI发展时间线和AGI实现路径具有重要参考价值，有助于产品规划和技术路线制定。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/-6DPfMNS_zFAiMrnJznLSw": {
+    "title_clean": "陶大程教授技术文章：机器人错误经验共享机制研究",
+    "summary": "陶大程教授探讨机器人间错误经验共享机制，通过一台机器人的错误数据帮助另一台机器人避免重复犯错，提升学习效率。该研究对AI助手和Agent的自主学习与错误处理能力有重要参考价值，可启发元宝产品在错误反馈与知识共享方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/power-on-how-private-is-an-always-listening-apple-watch-video": {
+    "title_clean": "苹果手表持续监听功能引发隐私担忧",
+    "summary": "苹果将先进AI功能引入产品，特别是Apple Watch的持续监听功能引发隐私问题讨论。这反映了AI助手类设备在提供便利的同时，用户对数据隐私保护的关注度提升，对元宝产品经理在平衡功能与隐私方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/how-fast-money-systematic-funds-stoked-2-3t-tech-rout-video": {
+    "title_clean": "How Fast-Money Systematic Funds Stoked $2.3T Tech Rout：量化交易基金加剧科技股抛售",
+    "summary": "投资者周四大规模抛售美国科技股，趋势跟踪型量化策略的卖出行为进一步放大了纳斯达克100指数市值的历史性暴跌。这反映了算法交易对市场波动的放大效应，对AI交易助手和量化投资产品具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings": {
+    "title_clean": "Nvidia：利用旧电信设施加速数据中心芯片部署",
+    "summary": "Nvidia为应对数据中心建设延迟问题，正计划改造Apollo通信公司的旧建筑设施，以加速其芯片的部署和启用。这一策略反映了AI硬件厂商在快速扩张中面临的物理基础设施挑战，对元宝产品经理了解AI基础设施瓶颈与解决方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition": {
+    "title_clean": "Shield AI 以53亿美元收购雷达公司Echodyne，估值达288亿美元",
+    "summary": "国防科技初创公司Shield AI宣布以53亿美元收购雷达传感器公司Echodyne，后者主要为政府和商业客户提供雷达产品。此次收购将增强Shield AI在国防科技领域的实力，对AI在军事和安防领域的商业化应用具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

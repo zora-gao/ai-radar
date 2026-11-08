@@ -161926,5 +161926,106 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/dino-kids": {
+    "title_clean": "Dino Kids：儿童多语言学习应用",
+    "summary": "Dino Kids是一款面向3岁以上儿童的免费学习应用，无广告支持，提供五种语言的学习内容。该产品对元宝产品经理有参考价值，特别是在儿童教育AI助手的设计和语言学习功能方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers": {
+    "title_clean": "中期选举后马斯克与数据中心面临挑战",
+    "summary": "中期选举结果对科技行业产生重大影响，特别是对马斯克及其数据中心业务构成挑战。这一政治变化可能影响科技公司的政策环境和市场策略，对元宝产品经理了解科技政策与商业关系有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo": {
+    "title_clean": "中国招募科技高管刺探英伟达CEO",
+    "summary": "据美国情报备忘录显示，中国国家安全部今年招募了一名女性科技高管，目的是刺探英伟达CEO的信息。这一事件反映了中美科技竞争的紧张态势，对AI芯片企业的安全策略和国际业务布局具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/google-omni-1-2-flash": {
+    "title_clean": "Google Omni 1.2 Flash：低成本AI视频生成模型",
+    "summary": "Google发布Gemini Omni 1.2 Flash模型，能在15秒内生成AI视频，成本为每秒0.07美元。这标志着AI视频生成技术向低成本、高效率方向发展，对元宝产品经理评估多模态AI服务成本与能力边界有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/buildferry": {
+    "title_clean": "BuildFerry：iOS测试版本分发工具",
+    "summary": "BuildFerry提供了一键链接安装iOS测试版本的功能，允许开发者在任何iPhone上快速安装测试构建。这为产品经理提供了iOS应用测试分发的新思路，可能影响元宝在移动端测试和版本管理方面的策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/7OgEw-ScCuj9IDiPiy17_w": {
+    "title_clean": "GPT-6Astra：机器人能力专项训练被曝光",
+    "summary": "GPT-6Astra被曝光可能接受了专门的机器人能力训练，这表明OpenAI可能在强化AI的物理世界交互能力，对元宝产品经理评估AI助手多模态与物理世界交互方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/buhBJF85rFQtmuIT3_GeeA": {
+    "title_clean": "NeurlPS2026：重新思考Tool-Calling Agent的探索模式",
+    "summary": "NeurlPS2026会议探讨了从传统'先出题'到'先探索'的Tool-Calling Agent新范式转变，这可能改变AI助手的问题解决方式和工具调用策略，对元宝产品经理优化AI Agent的决策流程和工具使用效率有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/coreweave-asks-texas-governor-elect-for-data-center-cooperation": {
+    "title_clean": "CoreWeave请求与德州新州长合作数据中心项目",
+    "summary": "CoreWeave公司致信德州新任州长Gina Hinojosa，寻求与其政府合作推进德克萨斯州现有和未来的数据中心项目。这反映了AI基础设施提供商与地方政府合作拓展数据中心资源的趋势，对元宝产品经理了解AI算力基础设施布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }

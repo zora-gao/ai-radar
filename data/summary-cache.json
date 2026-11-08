@@ -162027,5 +162027,336 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/agent-clan": {
+    "title_clean": "Agent Clan：Claude与Codex代理手势控制工具",
+    "summary": "Agent Clan是一款允许用户通过手势命令控制Claude Code和Codex代理的工具，提供直观的交互方式，可能为AI Agent的手势控制交互提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zigzag-3": {
+    "title_clean": "Zigzag Browser：Mac原生浏览器",
+    "summary": "Zigzag Browser是一款专为Mac设计的原生浏览器，定位为Arc浏览器的替代选择。这款产品专注于提供流畅的Mac原生体验，对于关注浏览器产品竞争格局和用户体验设计的元宝产品经理具有一定参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notch-11": {
+    "title_clean": "NotchX：MacBook刘海屏音乐通话工具",
+    "summary": "NotchX是一款将MacBook刘海屏转化为音乐播放和通话控制中心的工具，用户可通过屏幕顶部区域直接管理音乐播放和接听电话，提升MacBook的交互体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/marble-by-world-labs": {
+    "title_clean": "Frameboy by World Labs：交互式世界探索工具",
+    "summary": "Frameboy是一款交互式世界探索工具，通过Atlas功能让用户能够以互动方式探索世界。这款产品可能为元宝在地理知识探索、多模态交互或教育场景方面提供参考价值，特别是如何将复杂信息转化为直观的交互体验。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tilde-for-mac": {
+    "title_clean": "Tilde：Mac文件管理工具",
+    "summary": "Tilde是一款Mac平台的文件管理工具，可作为Finder的替代方案，提供更高效的文件管理功能。对于元宝产品经理而言，这反映了桌面端文件管理场景的优化需求，可作为AI助手在文件操作场景的参考方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hacker-noon": {
+    "title_clean": "Deduplication：语义去重工具",
+    "summary": "Deduplication是一款语义去重工具，专注于解决词语多义性问题，帮助用户确定特定语境下词语的准确含义。该工具对AI助手在理解自然语言歧义、提升语义理解准确性方面具有参考价值，特别是在处理一词多义场景时。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notchisland-2": {
+    "title_clean": "NotchIsland：MacBook刘海屏开源动态岛工具",
+    "summary": "NotchIsland是一款免费开源工具，为MacBook刘海屏设备提供类似iPhone的动态岛功能，可显示实时通知和系统状态，帮助产品经理了解跨平台交互设计趋势和用户对屏幕空间利用的偏好。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up": {
+    "title_clean": "苹果探索将Siri转变为类ChatGPT的AI代理；iOS 28重大变革",
+    "summary": "苹果计划将Siri升级为真正的AI代理，可能采用类似ChatGPT的对话式交互方式，这标志着iOS 28系统将迎来重大变革。这一动向对AI助手产品经理具有重要参考价值，反映了传统语音助手向更智能、对话式AI代理的行业趋势。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-08/voters-put-the-ai-data-center-boom-on-notice-video": {
+    "title_clean": "选民对AI数据中心建设的抵制可能影响AI基础设施扩张",
+    "summary": "Bloomberg科技记者报道，选民对数据中心的抵制可能影响支撑AI热潮的基础设施快速扩张。这提示AI产品经理需关注AI发展面临的公共政策和社区阻力问题，评估数据中心选址与公众接受度对AI服务部署的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/archie-3": {
+    "title_clean": "Archie：Mac截图管理与凹槽工具栏",
+    "summary": "Archie是一款Mac平台的截图管理工具，提供凹槽功能栏设计，帮助用户高效管理截图。产品经理可参考其界面设计与功能整合方式，为元宝在多设备截图管理场景提供启发。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-08/asia-markets-brace-for-more-ai-volatility-video": {
+    "title_clean": "亚洲市场准备应对AI领域更多波动",
+    "summary": "彭博新闻报道称，亚洲投资者正在评估AI板块抛售的后续影响，对冲基金正在削减AI相关敞口，同时美国市场的不确定性也在增加。这对元宝产品经理了解AI投资情绪和市场波动对AI产品的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/2LBnPr1wAJZ6YppBbgvsgA": {
+    "title_clean": "NeurlPS 2026入选论文作者面对面，这次聊点真正的技术干货",
+    "summary": "NeurlPS 2026入选论文作者将进行面对面交流，分享前沿AI技术干货。这对产品经理了解AI领域最新研究方向和技术突破有参考价值，可能启发产品功能创新和竞品技术趋势判断。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says": {
+    "title_clean": "Anthropic斥资34亿美元购买AI数据中心电力设备",
+    "summary": "Anthropic以34亿美元购买了燃气发电设备用于其AI数据中心，这是目前已知AI公司最大规模的单一电力设备采购。这笔交易反映了AI大模型训练和运行对能源的巨大需求，以及AI公司在基础设施上的巨额投入，对元宝产品经理评估AI服务成本和能源策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/will-democrats-crush-data-centers": {
+    "title_clean": "民主党是否会真的打击数据中心？",
+    "summary": "本文探讨民主党可能对数据中心行业采取的政策立场，分析其对科技基础设施的影响。对于元宝产品经理而言，这有助于了解政策环境变化对AI服务基础设施的潜在影响，以及可能带来的市场机会或挑战。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight": {
+    "title_clean": "AI安全倡导者赢得1.1亿美元中期选举斗争后取得进展",
+    "summary": "支持人工智能严格监督的候选人在关键国会竞选中取得胜利，这一进展得到了部分由Anthropic PBC支持的政治资助组织的帮助。这反映了AI监管政策正在成为政治议题，对元宝产品经理了解AI监管环境变化和潜在政策影响具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/blue-wave-may-stop-musks-texas-data-center-ambitions": {
+    "title_clean": "马斯克德州数据中心计划面临政治阻力",
+    "summary": "马斯克已在田纳西州和密西西比州成功建设AI数据中心并获益，现正推进在德克萨斯州建立SpaceX数据中心的雄心计划，但可能面临政治阻力。这对产品经理了解科技巨头AI基础设施布局及政治因素影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google": {
+    "title_clean": "Crusoe将问题数据中心项目出售给Google",
+    "summary": "Crusoe公司将位于怀俄明州的有问题的数据中心项目出售给Google，这一交易突显了开发大规模AI数据中心面临的挑战。对产品经理而言，这反映了AI基础设施建设的现实困难，可能影响未来AI服务部署策略和成本结构。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video": {
+    "title_clean": "AI股票抛售暴露数据中心建设风险",
+    "summary": "AI股票抛售为美国大规模数据中心建设带来新的不确定性，AIB Data Centers CFO表示新项目融资可能变得更加困难，这对AI基础设施投资和规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/meloni-blames-pro-russian-hackers-for-attack-on-foreign-minister": {
+    "title_clean": "意大利总理指责亲俄黑客攻击外长",
+    "summary": "意大利总理梅洛尼指责亲俄黑客对其外长发动网络攻击，这是与普京政府有关联实体混合干扰活动增加的一部分。此事件反映了地缘政治冲突对网络安全的影响，对AI安全防护产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-secured-11-billion-targets-9-billion-fundraising": {
+    "title_clean": "OpenAI完成110亿美元融资后将向投资者简报三季度业绩",
+    "summary": "OpenAI计划下周与投资者举行电话会议，讨论其第三季度业绩。此次会议发生在OpenAI完成110亿美元融资的第一阶段之后，反映了公司财务状况和业务进展的重要信息，对了解AI行业头部企业的商业化进程和估值变化有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/longtime-spacex-board-member-resigns": {
+    "title_clean": "SpaceX长期董事会成员辞职",
+    "summary": "SpaceX前董事会成员唐纳德·哈里森已辞职，这一消息发生在CEO埃隆·马斯克倡导公司重大变革的背景下。这一人事变动可能影响公司战略决策方向，对关注科技巨头治理结构的元宝产品经理有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years": {
+    "title_clean": "美国中期选举后AI行业面临两年挑战期",
+    "summary": "美国中期选举民主党取得历史性胜利，公众对41个数据中心相关投票事项中几乎全部投出反对票，这可能对AI行业基础设施扩张构成挑战，影响未来两年行业发展方向与政策环境。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-s-teskey-calls-social-license-crucial-for-ai-growth": {
+    "title_clean": "Brookfield高管：AI发展需获得社会许可",
+    "summary": "Brookfield资产管理公司CEO Connor Teskey强调，在建设人工智能基础设施前必须获得当地社区的认可，认为这是AI增长的关键因素。这对AI产品经理提示了在AI部署中考虑社会接受度和社区关系的重要性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-06/ai-unwind-suddenly-makes-europe-the-go-to-trade-taking-stock": {
+    "title_clean": "AI投资热潮消退，欧洲股市成新热点",
+    "summary": "全球投资者正在减少人工智能相关投资，转而青睐欧洲多元化股票市场。这一趋势表明市场对AI投资热情降温，投资者寻求更广泛的投资机会，对元宝产品经理了解AI投资情绪变化和用户资产配置偏好有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/kospi-slides-after-us-rout-triggering-circuit-breaker-video": {
+    "title_clean": "亚洲股市因AI监管担忧暴跌触发熔断",
+    "summary": "美国芯片股大跌后亚洲股市随之下挫，市场担忧民主党将加强对AI行业的监管。这一市场波动反映了AI监管政策变化可能对科技行业产生的影响，对元宝产品经理评估政策风险和行业走向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/cloudflare-boosts-annual-profit-view-as-ai-spurs-network-demand": {
+    "title_clean": "Cloudflare上调年度盈利预期：AI推动网络需求增长",
+    "summary": "Cloudflare第三次上调年度盈利预期，指出AI技术的快速采用持续推动网络服务需求增长。这对元宝产品经理显示AI基础设施服务市场正在扩大，可能影响AI服务的部署成本和可用性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/lyft-growth-slows-8-q3": {
+    "title_clean": "Lyft第三季度增长放缓至8%",
+    "summary": "Lyft第三季度收入增长率大幅放缓至8%，预订总额增长率也从第二季度的23%降至17%，公司预计未来预订增长将进一步放缓。这反映了网约车市场竞争加剧和用户增长放缓的趋势，对元宝在出行服务场景的产品策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

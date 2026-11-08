@@ -162358,5 +162358,227 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/textly-capture-copy-paste": {
+    "title_clean": "Textly：Mac端文本表格捕获工具",
+    "summary": "Textly是一款Mac应用，允许用户从任何位置捕获文本和表格，可能解决了跨应用内容提取的痛点。对于元宝产品经理而言，这类工具展示了AI助手在信息获取和处理方面的应用场景，值得参考其交互设计和功能实现。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zigzag-browser": {
+    "title_clean": "Zigzag Browser：Mac原生浏览器",
+    "summary": "Zigzag Browser是一款专为Mac设计的原生浏览器，定位为Arc浏览器的替代品。作为新兴浏览器产品，其界面设计精致，可能提供独特的浏览体验和功能布局，值得元宝产品经理关注浏览器领域的新兴交互模式和用户习惯变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Lm7PdGkxK7I2q_SBnBbWbA": {
+    "title_clean": "OpenAI新模型GPT-6.2因安全疑云暂停发布",
+    "summary": "OpenAI因安全疑云暂停了GPT-6.2模型的发布，这反映了AI公司在模型迭代过程中对安全问题的重视程度。这对元宝产品经理有重要参考价值，提示在产品迭代中需平衡创新与安全，关注行业领先AI模型的安全策略调整。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/egXucIFpaME54uDjef3nhA": {
+    "title_clean": "北大提出MapFlow：跨模型注意力复用技术",
+    "summary": "北京大学提出MapFlow技术，解决跨模型上下文交接时需重新计算KV的问题，实现注意力机制的跨模型复用，可提升大模型推理效率，对优化多模型协作场景有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/HDrpuhAUYjxm8S9-Onbp8g": {
+    "title_clean": "NeurIPS 2026 OralLCVN：基于图像与语言指令的预测模型",
+    "summary": "NeurIPS 2026 OralLCVN研究探索了仅通过一张起始画面和一段语言指令进行预测的可能性，这可能对AI助手理解用户意图、生成内容预测以及多模态交互能力提供新的技术路径，对产品经理设计更直观的AI交互方式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Vv_QieaQkgKmx74lksdlPQ": {
+    "title_clean": "ICLR 2027首轮评审，槽点有点多",
+    "summary": "ICLR 2027首轮评审引发讨论，具体槽点未详述。作为AI领域顶级学术会议，评审标准变化可能影响研究方向，对产品经理了解AI研究前沿和模型训练趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/keypause": {
+    "title_clean": "Keypause：Mac键盘清洁暂停工具",
+    "summary": "Keypause是一款Mac工具，可在清洁键盘时临时禁用键盘输入，防止误触操作。产品经理可参考此类小众实用工具的设计思路，为元宝添加临时禁用输入的功能场景，提升用户在特定情境下的使用体验。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sagecraft": {
+    "title_clean": "Sage2 by Levanto Labs：实时对话转结构化数据工具",
+    "summary": "Sage2 是一款将实时对话转化为结构化数据并触发即时行动的工具，能够帮助用户从语音交流中提取有价值的信息并自动执行相关操作，对AI助手产品在语音交互和数据处理方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy": {
+    "title_clean": "NVIDIA将调查CEO黄仁勋与中国间谍可能的关系",
+    "summary": "NVIDIA CEO黄仁勋在内部备忘录中承认自己有婚外情，公司正调查其与中国间谍可能的关系。此事件可能影响公司高层管理稳定性及中美科技企业合规管理，对产品经理关注企业治理与风险控制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/read-the-memos-from-nvidia-s-board-and-ceo-jensen-huang": {
+    "title_clean": "Nvidia CEO黄仁勋被指与外国情报机构有关联",
+    "summary": "Nvidia董事会正在调查是否有外国情报机构针对其CEO黄仁勋，黄仁勋本人也承认存在婚外情事件。这一事件可能对Nvidia的公司治理和声誉产生影响，对AI行业高管风险管理和企业安全有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity": {
+    "title_clean": "Nvidia董事会调查CEO黄仁勋间谍案：承认婚外情后可能成为外国间谍目标",
+    "summary": "Nvidia董事会正在调查CEO黄仁勋承认婚外情后是否成为外国间谍目标的事件。这一事件可能对公司治理和高层安全构成风险，对AI企业高管安全防护和危机管理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests": {
+    "title_clean": "欧洲爆发数据中心抗议，AI发展面临阻力",
+    "summary": "欧洲多国爆发针对数据中心的抗议活动，市民走上街头表达对社会和环境影响的担忧。这反映了AI发展过程中面临的公共接受度挑战，对元宝产品经理评估AI服务部署的社会影响和用户接受度具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video": {
+    "title_clean": "AI Trade Faces a Post-Election Reality Check：AI投资面临大选后现实检验",
+    "summary": "该资讯探讨了美国大选后科技股的抛售现象，投资者正在评估政治因素对AI投资的影响。对元宝产品经理而言，这反映了AI领域投资环境的变化，可能影响商业化策略和用户需求方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent": {
+    "title_clean": "Meta：Muse Agent协作新功能Spaces",
+    "summary": "Meta为其Muse Agent推出Spaces功能，提供与AI助手协作的新方式。这一更新展示了Meta在AI Agent交互体验上的持续创新，为产品经理提供了AI助手协作模式的设计参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/T2LNcUGe5L4LR7duwVfNPg": {
+    "title_clean": "清华、米哈游开源GameScaling系列模型：通用游戏智能模型",
+    "summary": "清华大学与米哈游联合开源GameScaling系列模型，旨在推动通用游戏智能发展。该模型系列专注于游戏场景的AI能力，可能为游戏AI交互、NPC行为模拟等提供技术支持，对元宝在游戏场景下的AI应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation": {
+    "title_clean": "OpenAI完成110亿美元融资，估值达1.25万亿美元",
+    "summary": "OpenAI据报道已完成110亿美元额外融资，估值达1.25万亿美元。这笔融资尚未完全关闭，预计将在未来几周内完成。这一融资规模反映了市场对AI领域的持续看好，对元宝产品经理评估AI行业资本动向和竞争格局具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-05/markets-evaluating-ai-speed-limit-schwab-s-sonders-says-video": {
+    "title_clean": "Schwab's Sonders：市场重新评估AI发展速度限制",
+    "summary": "Charles Schwab首席投资策略师Liz Ann Sonders表示，投资者正在重新评估超大规模科技公司面临的财务负担，包括其使用信贷和股权融资的情况，以及是否需要放缓AI发展速度。这对AI产品经理了解资本投入与商业化平衡的挑战有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-05/airbnb-posts-19-revenue-jump-as-chesky-hails-growth-mode": {
+    "title_clean": "Airbnb营收增长19%，CEO宣布进入增长模式",
+    "summary": "Airbnb公布三年来最快营收增长，同比增长19%，并第三次上调全年业绩预期。CEO布赖恩·切斯基表示公司已重新进入'增长模式'，这对共享住宿平台的市场策略和业务扩张具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

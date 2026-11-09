@@ -162580,5 +162580,88 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/digital-realty-goodman-buy-9-9-of-nextdc-in-stock-market-raid": {
+    "title_clean": "Digital Realty与Goodman联合收购NEXTDC 9.9%股权",
+    "summary": "数据中心行业巨头Digital Realty与Goodman Group通过股市收购方式获得澳大利亚数据中心公司NEXTDC 9.9%的股份，此举可能预示着两家公司在亚太地区数据中心市场的潜在合作与扩张战略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/rba-s-hunter-says-ai-boom-will-put-near-term-pressure-on-prices": {
+    "title_clean": "澳大利亚央行官员：AI投资热潮将短期内推高CPI",
+    "summary": "澳大利亚央行高级官员表示，人工智能相关领域的激增投资将进一步刺激经济需求，而政策制定者已面临通胀压力。这一观点对产品经理了解AI投资对宏观经济的影响，特别是通胀方面的潜在风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/trump-backs-nvidia-ceo-after-he-admits-affair-video": {
+    "title_clean": "特朗普支持英伟达CEO黄仁勋留任",
+    "summary": "特朗普公开支持英伟达CEO黄仁勋留任，此前黄仁勋承认与一名涉嫌中国间谍的女性有染。此事对AI行业高管稳定性及企业治理有一定参考价值，但与AI产品开发、技术路线或市场策略无直接关联。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidia-inquiry-anthropic-coreweave-unity-news-promise-big-week": {
+    "title_clean": "Nvidia、Anthropic、CoreWeave和Unity本周重大动态",
+    "summary": "本周科技行业将迎来一系列重要动态，包括Nvidia的最新公告、Anthropic的相关消息、CoreWeave和Unity的重要更新。这些动态可能对AI硬件、大模型服务、云渲染和游戏开发等领域产生重要影响，值得产品经理关注行业巨头动向和潜在合作机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ai-stock-can-market-absorb": {
+    "title_clean": "AI股票市场吸收能力分析",
+    "summary": "近期AI相关股票的波动交易凸显了投资者对增发的需求及潜在定价。该分析探讨了市场对AI股票的容纳能力，为产品经理判断AI领域投资热度与商业化时机提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-06/time-to-move-forward-on-sensible-ai-regulation-liccardo-video": {
+    "title_clean": "美国议员Liccardo：推进'合理'AI监管",
+    "summary": "加州民主党议员Sam Liccardo表示，国会就技术问题发布了大量新闻稿，但未能推动有意义的AI监管立法。这反映了美国AI监管政策进展缓慢的现状，对元宝产品经理了解监管环境变化和合规方向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal": {
+    "title_clean": "软银与ABB考虑剥离中国业务以挽救机器人交易",
+    "summary": "软银集团与ABB正考虑将机器人交易中的中国业务剥离，以挽救被北京监管机构阻止的交易。这一举措反映了跨国科技公司在应对中国监管挑战时的策略调整，对元宝产品经理了解国际科技企业在华业务布局与合规风险有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -162970,5 +162970,362 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/github": {
+    "title_clean": "GitHub New PR Overview：PR阻塞问题预览工具",
+    "summary": "GitHub推出新功能，允许开发者在滚动查看PR前就能识别出可能阻塞合并的问题，提高代码审查效率。这对产品经理了解开发者工具优化方向有参考价值，特别是如何简化复杂工作流程。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clipspal": {
+    "title_clean": "ClipsPal：AI视频剪辑工具",
+    "summary": "ClipsPal是一款AI视频编辑工具，专注于处理人物出镜视频的剪辑工作。该产品能够自动识别并优化视频中的说话人画面，为内容创作者提供便捷的视频编辑解决方案，对元宝在视频处理和AI辅助编辑功能开发方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cue-voice-keyboard": {
+    "title_clean": "Cue：AI会议笔记与准备工具",
+    "summary": "Cue是一款AI会议辅助工具，专注于会议记录和准备工作。它能帮助用户自动生成会议笔记，提前准备会议内容，提高会议效率。对于元宝产品经理而言，这类工具展示了AI在办公场景下的应用价值，可作为产品功能扩展的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders": {
+    "title_clean": "Marvell拟115亿美元收购Lumentum：AI芯片交易面临投资疑虑",
+    "summary": "Marvell Technology计划以115亿美元收购Lumentum Holdings，以加强其在AI领域的布局。然而，投资专家对该交易持谨慎态度，认为交易成功的可能性接近50%。这一交易反映了AI芯片行业整合趋势，对元宝产品经理了解AI基础设施投资动态和行业整合方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/-fluid-story-with-ai-tech-names-cinthia-murphy-video": {
+    "title_clean": "Fluid Story：AI投资策略分析",
+    "summary": "Cinthia Murphy与Rob Arnott在Bloomberg ETF IQ节目中讨论AI投资策略，探讨AI在金融领域的应用与影响。这对元宝产品经理了解AI在专业服务场景的应用价值有参考意义。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/new-fireworks-hack-threatens-1-billion-business": {
+    "title_clean": "Fireworks：开源模型训练平台遭遇严重黑客攻击",
+    "summary": "Fireworks是一家帮助开发者运行和训练开源模型的初创公司，近期遭遇严重黑客攻击，已通知包括Harvey在内的大客户。此次事件可能威胁到其10亿美元估值业务，对AI基础设施安全性和企业级AI服务提供商的风险管理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/uk-must-back-startups-or-face-economic-ruin-ex-adviser-says": {
+    "title_clean": "英国前顾问警告：政府必须支持初创企业否则将面临经济崩溃",
+    "summary": "英国财政部前创业顾问警告政府需紧急支持高增长企业，否则国家将面临严重经济危机。这反映了政府对初创企业支持的重要性，对元宝产品经理了解政策环境与创业生态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
+    "title_clean": "ChatGPT Enterprise：企业版现已登陆AWS Marketplace",
+    "summary": "ChatGPT企业版现已通过AWS Marketplace提供，帮助企业通过现有的AWS采购和计费关系简化采购流程。这一合作将OpenAI的AI助手与AWS的企业级云服务整合，为企业客户提供更便捷的AI服务接入方式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/nominal-bets-on-ai-for-aerospace-and-defense-video": {
+    "title_clean": "Nominal：航空航天与国防领域AI工程平台",
+    "summary": "Nominal获新融资，估值达30亿美元，正在构建面向硬件工程的AI与数据平台。CEO表示公司收入已增长3.5倍以上，专注于航空航天与国防领域的AI应用，为产品经理提供垂直行业AI商业化案例参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/bloomberg-tech-11-09-2026-video": {
+    "title_clean": "Nvidia CEO事件引发华盛顿安全审查",
+    "summary": "英伟达CEO黄仁勋与涉嫌中国间谍的女子交往事件引发调查，该丑闻已升级为华盛顿国家安全问题，可能对公司业务和AI行业产生连锁影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-investor-governance-now-part-of-the-valuation-video": {
+    "title_clean": "Nvidia投资者：公司治理现已纳入估值考量",
+    "summary": "Wealth Enhancement CIO Doug Huber表示Nvidia的投资基本面未变，但围绕CEO黄仁勋的调查使公司领导层、继任计划和公司治理成为投资者关注的新因素，这可能影响Nvidia的长期估值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/meloni-backs-gas-price-cap-to-curb-bills-ahead-of-italy-election": {
+    "title_clean": "意大利推出天然气价格上限政策以控制能源账单",
+    "summary": "意大利总理梅洛尼推动实施天然气价格上限政策，计划对燃气发电厂的部分燃料成本进行补贴，以应对能源价格上涨对家庭和企业的影响，该政策将在意大利大选前实施。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/open-interest-11-9-2026-video": {
+    "title_clean": "Nvidia CEO面临国家安全审查",
+    "summary": "Nvidia CEO黄仁勋承认涉及一名涉嫌中国间谍的婚外情后，正面临新的国家安全审查。这一事件可能对Nvidia的业务运营和公司治理产生重大影响，对AI行业高管行为规范和国家安全审查机制具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution": {
+    "title_clean": "Meta releases Muse Ember：轻量级AI Agent执行模型",
+    "summary": "Meta发布Muse Ember轻量级模型，用于AI Agent执行，每百万输入token仅需10美分，显著低于Haiku和Luna等前沿竞品，大幅降低Agent部署成本，对元宝产品经理评估Agent商业化策略有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/ai-theme-intact-but-market-cycle-has-changed-thomas-video": {
+    "title_clean": "AI投资主题未变，但市场周期已转变：Thomas",
+    "summary": "SoFi首席市场策略师Liz Thomas表示，尽管近期市场抛售后投资者重新评估估值、收益和资本支出，但AI投资主题依然完整。她指出市场周期已发生变化，这对AI产品经理了解市场情绪和投资趋势有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines": {
+    "title_clean": "Anthropic：斥资34亿美元购买天然气涡轮机",
+    "summary": "Anthropic斥资34亿美元购买天然气涡轮机，此举可能引发购买后悔。该交易反映了AI公司为满足算力需求而大规模投资基础设施的趋势，对元宝产品经理了解AI行业能源需求和基础设施布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features": {
+    "title_clean": "欧盟计划打击社交媒体成瘾功能与AI聊天机器人",
+    "summary": "欧盟计划对社交媒体平台实施新限制，重点针对成瘾性功能和AI聊天机器人。这一监管动向可能影响元宝等AI助手在欧洲市场的产品设计、功能部署和合规策略，需关注监管趋势并提前调整产品方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": {
+    "title_clean": "Nemotron-Personas-Finance-Japan：日本人口与金融合成数据集",
+    "summary": "NVIDIA发布针对日本市场的人口与金融合成数据集，模拟日本人口统计特征和金融场景，可用于训练AI模型理解日本用户的财务行为和需求，对元宝拓展日本市场及本地化服务具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-shares-fall-6-6-broadcom-amd-rise": {
+    "title_clean": "Nvidia股价下跌6.6%，Broadcom和AMD股价上涨",
+    "summary": "Nvidia股价早盘下跌6.6%，原因是公司宣布对CEO黄仁勋成为外国情报目标指控展开调查。这一事件可能影响AI芯片市场竞争格局，对元宝产品经理了解AI硬件供应商动态及潜在供应链风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process": {
+    "title_clean": "Medium：AI写作辅助应用",
+    "summary": "Medium推出新的写作应用TK，将AI辅助功能直接整合到写作过程中，尽管AI技术在出版领域的争议日益增长。这反映了内容平台对AI写作工具的采纳趋势，为元宝在内容创作场景下的AI辅助功能提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/s-p-500-futures-rise-as-oil-falls-nvidia-sinks-on-huang-affair": {
+    "title_clean": "美股延续石油缓解上涨，英伟达股价下跌",
+    "summary": "美国总统特朗普表示不太可能对伊朗发动广泛攻击，导致油价下跌，投资者风险偏好上升推动美股上涨。英伟达股价下跌，但整体市场受石油价格缓解因素影响延续涨势。对产品经理了解市场情绪和宏观经济因素对科技股的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/google-announces-new-tpus-says-powerful-secure": {
+    "title_clean": "Google发布新一代TPU芯片：更强大且更安全",
+    "summary": "Google宣布推出新一代AI芯片TPU 8tx，声称比前代产品更安全且能处理更繁重的工作负载。这对元宝产品经理的参考价值在于了解底层硬件发展对AI性能和安全性的影响，可能影响未来AI服务架构和成本结构。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world": {
+    "title_clean": "Instagram：全球扩展青少年账户保护功能",
+    "summary": "Instagram宣布在全球范围内扩展AI年龄估算技术，为更多青少年启用Teen Account保护功能，旨在加强对未成年用户的安全防护。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract": {
+    "title_clean": "AI创业公司：构建十亿美元收入需多市场资本结构",
+    "summary": "文章探讨AI创业公司应如何通过持久性收入、全价续订和健康利润率来评估价值，强调在模型访问成本上升的背景下，嵌入客户工作流程能提供更强的防御性，这对元宝产品经理思考商业模式和竞争策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-s-probe-into-huang-affair-adds-to-ai-trade-risks-video": {
+    "title_clean": "NVIDIA调查黄仁勋事件：AI贸易风险加剧",
+    "summary": "NVIDIA正在调查CEO黄仁勋与一名被指为疑似中国间谍女性的关系事件，这一事件可能进一步加剧已经动荡的AI市场风险。作为AI芯片领域的领导者，NVIDIA面临的安全问题可能影响全球AI供应链和贸易政策，对产品经理评估地缘政治风险和供应链多元化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/kuken": {
+    "title_clean": "Kuken Industries：AI工程图纸检索工具",
+    "summary": "Kuken Industries利用OpenAI API实现了70年冷却塔图纸的快速检索，将工程师查找维修图纸的时间从近1小时缩短至4.5分钟。这一案例展示了AI在专业工程文档管理中的应用价值，为元宝在垂直领域知识检索和效率提升方面提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-s-affair-engulfs-ai-giant-in-spying-probe-video": {
+    "title_clean": "Nvidia CEO卷入间谍调查：承认与中国有关女性存在婚外情",
+    "summary": "Nvidia首席执行官黄仁承认与中国籍女性存在婚外情，该女性被怀疑为中国间谍，导致Nvidia董事会启动内部调查。此事件可能对Nvidia的商业运营和AI业务安全产生潜在影响，值得产品经理关注企业安全风险和供应链稳定性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/ubs-peirce-on-ai-buildout-dealmaking-landscape-video": {
+    "title_clean": "瑞银皮尔斯谈AI基础设施建设与并购格局",
+    "summary": "瑞银亚太区全球银行业联席主管兼澳大利亚联席国家主管Greg Peirce讨论了人工智能基础设施建设的展望以及并购格局，为AI行业投资趋势和银行业务转型提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech": {
+    "title_clean": "美国中期选举对科技巨头政策立场的影响",
+    "summary": "美国中期选举后，科技巨头突然调整政治立场，从亲近白宫转向积极接触民主党，这反映了科技公司在政治环境变化下的策略转变。对产品经理而言，这提示需关注政策环境变化对AI产品监管、数据合规和商业策略的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

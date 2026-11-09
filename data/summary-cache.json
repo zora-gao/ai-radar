@@ -162663,5 +162663,312 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/north-5": {
+    "title_clean": "Nörth：远程工作自然协作工具",
+    "summary": "Nörth是一款面向远程工作的点对点协作工具，强调自然流畅的协作体验。对于元宝产品经理而言，该产品关注远程协作场景下的自然交互方式，可能为AI助手在远程工作场景中的应用提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/egoist-ai-passport": {
+    "title_clean": "Egoist AI Passport：个人数据安全共享工具",
+    "summary": "Egoist AI Passport是一款帮助用户安全管理和与AI工具共享个人数据的解决方案。该产品解决了用户在使用AI服务时数据隐私和安全的痛点，为元宝产品经理在数据安全与用户隐私保护方面提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skuttr": {
+    "title_clean": "skuttr：一句话生成短视频工具",
+    "summary": "skuttr允许用户输入一句话，自动从相册中选取素材生成短视频Reels，简化了内容创作流程，为AI辅助短视频生成提供了新思路，对元宝在多媒体内容生成方向的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/if-you-read-this": {
+    "title_clean": "If You Read This：每日签到安全应用",
+    "summary": "这是一款每日签到应用，采用类似'死亡开关'机制，用户需定期确认状态，否则会触发预设的紧急联系人通知。产品经理可参考其安全验证机制设计AI助手的安全保障功能，特别是针对用户异常状态检测的场景应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/terse-durable-actors": {
+    "title_clean": "Terse：多人AI产品基础设施",
+    "summary": "Terse提供多人AI产品的基础设施，专注于构建支持多用户交互的AI系统。这对元宝产品经理有参考价值，特别是在探索多用户协作AI场景和实时交互功能时。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flic-cue": {
+    "title_clean": "Flic Cue：AI语音按钮工具",
+    "summary": "Flic Cue是一款AI语音按钮设备，用户可通过按住按钮进行语音交互，摇晃按钮可撤销操作，并提供开放SDK供开发者集成。这种物理交互方式为AI助手提供了新的输入渠道，可能启发元宝探索多模态交互和物理设备集成场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kikumap": {
+    "title_clean": "KIKUmap：AI聊天内容思维导图工具",
+    "summary": "KIKUmap是一款为Claude和ChatGPT聊天内容提供思维导图功能的工具，帮助用户将AI对话内容结构化整理，提升信息梳理效率，对元宝产品经理在AI对话内容组织与可视化方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/calmly-script": {
+    "title_clean": "Calmly Script：付费制屏幕编写软件",
+    "summary": "Calmly Script是一款付费一次、无需注册的屏幕编写软件，专注于提供简洁美观的剧本创作体验。对产品经理而言，这代表了一种轻量化、无订阅模式的创意工具设计思路，可作为AI辅助创作工具的竞品参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/panda-video": {
+    "title_clean": "Sign Language by Panda Video：视频手语翻译工具",
+    "summary": "Sign Language by Panda Video 为现有在线视频添加手语翻译功能，帮助听障人士理解视频内容。该工具可解决视频无障碍访问问题，为AI助手产品在无障碍服务场景下的应用提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cozyzip": {
+    "title_clean": "CozyZip：文件压缩解压工具",
+    "summary": "CozyZip是一款文件压缩解压工具，专注于提供简单直观的压缩和解压体验，避免传统压缩软件可能带来的复杂操作和意外问题。对于产品经理而言，这展示了在基础工具类产品中注重用户体验和简化操作的价值，可作为元宝在工具类AI功能设计上的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cardboard-3": {
+    "title_clean": "Cardboard AI：AI视频编辑工具",
+    "summary": "Cardboard AI是一款AI视频编辑工具，提供便捷的视频编辑功能。该产品专注于利用AI技术简化视频编辑流程，可能对元宝产品经理探索AI在多媒体内容创作领域的应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/ardian-raises-1-billion-europe-semiconductor-fund-with-middle-east-backing": {
+    "title_clean": "Ardian：中东资本支持的10亿欧元欧洲半导体基金",
+    "summary": "法国私募公司Ardian SAS成立首支半导体基金，募资10亿欧元，获得中东投资者大力支持。AI应用驱动需求增长，反映半导体行业投资趋势，对元宝产品经理了解AI基础设施投资动向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/the-emerging-markets-everyone-else-is-missing-video": {
+    "title_clean": "被忽视的新兴市场：AI相关股票推动增长",
+    "summary": "新兴市场今年表现强劲，但增长主要由少数AI相关股票驱动。Neuberger Berman投资经理Vera German分析了这一现象，为产品经理提供了AI技术在新兴市场应用的重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agent-powered-geo-by-dageno": {
+    "title_clean": "Dageno AI 2.0：AI竞争对手分析工具",
+    "summary": "Dageno AI 2.0是一款帮助用户理解AI为何推荐竞争对手而非自身产品的分析工具。该工具可揭示AI推荐系统的决策逻辑，帮助企业优化产品在AI搜索结果中的排名，对产品经理了解AI推荐机制和提升产品可见度有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-ceo-s-affair-admission-counters-past-statements-on-ties": {
+    "title_clean": "Nvidia CEO承认与中国企业关联关系",
+    "summary": "Nvidia CEO黄仁勋承认与中国游戏企业Megaspeed的关联关系及与一名女性的关系，此言论与公司过去一年来的公开声明相矛盾。这反映了跨国科技企业在地缘政治环境下的复杂关系管理问题，对产品经理理解企业合规与风险管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/futurum-s-newman-believes-ai-trade-isn-t-over-video": {
+    "title_clean": "Futurum's Newman：AI市场交易热潮未结束",
+    "summary": "Futurum Group CEO Daniel Newman认为市场正在将AI交易视为已结束，但他持不同观点。这一观点对产品经理评估AI市场热度与投资趋势有参考价值，有助于判断AI产品是否仍处于上升期。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/sessions/2026-11-08/live-q-amp-a-what-s-next-for-nvidia-ai-market-after-jensen-huang-admits-to-affair": {
+    "title_clean": "英伟达CEO黄仁勋承认婚外情后AI市场走向分析",
+    "summary": "Bloomberg将举办线上问答活动，探讨英伟达CEO黄仁勋承认婚外情事件后，英伟达及AI市场的未来走向。此事件可能影响公司治理和市场信心，对AI行业高管决策和企业风险管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-shares-dip-on-robinhood-as-huang-affair-spurs-board-probe": {
+    "title_clean": "Nvidia CEO婚外丑闻引发董事会调查，股价下跌",
+    "summary": "Nvidia首席执行官黄仁承认与一名女性存在婚外关系后，公司董事会启动调查，导致公司股价下跌。这一事件可能影响公司治理和投资者信心，对AI硬件供应商的稳定性构成警示。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/expert-nvidia-probe-could-weaken-china-leverage-video": {
+    "title_clean": "Nvidia调查可能削弱中国谈判筹码",
+    "summary": "创新地理学专家Mehran Gul表示，对Nvidia CEO黄仁勋的调查可能削弱其在美国政府对中国事务上的影响力。这一动态可能影响AI芯片供应链和中美科技竞争格局，对元宝产品经理了解AI硬件政策风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/jensen-huang-on-who-could-succeed-him-as-nvidia-ceo-video": {
+    "title_clean": "黄仁勋谈NVIDIA CEO继任人选",
+    "summary": "NVIDIA CEO黄仁勋在10月14日的采访中讨论了他的非传统领导风格、工作压力以及可能的继任者。黄仁勋随后承认了一段婚外情。这对了解NVIDIA领导层规划和公司治理结构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-jensen-huang-on-selling-chips-to-china-video": {
+    "title_clean": "Nvidia CEO黄仁勋：中国'不是我们的敌人'，美国芯片政策是'错误'",
+    "summary": "NVIDIA CEO黄仁勋在10月14日的采访中 defended 与中国的合作并批评美国芯片限制政策。他强调中国不是NVIDIA的敌人，认为美国芯片政策是错误之举。这对产品经理了解国际科技政策变化及全球市场策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/rwtNI3b-6RJTFSPWWwv-dA": {
+    "title_clean": "2026云程奖：AI领域科研成果与融资成就",
+    "summary": "该资讯报道了2026云程奖获奖情况，包括在Nature期刊发表的最佳论文、获得5.9万GitHub Stars的项目以及亿元级融资成就，展示了AI领域科研与商业化的最新成果。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users": {
+    "title_clean": "DeepSeek：AI Agent平台获154万日活用户",
+    "summary": "DeepSeek发布其AI agent基础设施的采用数据，日活跃用户达154万，通过构建一系列应用持续挑战Anthropic和OpenAI。这显示中国AI公司在AI Agent领域快速崛起，对元宝的产品经理具有重要参考价值，特别是在用户增长和产品生态建设方面。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/IrvsuOh7DZ1V1vg-1HacqQ": {
+    "title_clean": "GPT-6.1Sol：AI辅助活体大脑手术定位系统",
+    "summary": "GPT-6.1Sol参与活体大脑手术，通过三轮定位技术不断提高手术精度。这一AI系统展示了AI在医疗手术中的高精度应用潜力，为元宝产品经理提供了AI在专业领域应用的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-08/-godzilla-minus-zero-tops-box-office-in-win-for-japanese-film": {
+    "title_clean": "《哥斯拉零》登顶北美票房，创日本电影纪录",
+    "summary": "日本电影《哥斯拉零》本周末超越好莱坞动画电影，成为北美票房冠军，并创下日本真人电影在全球票房的新纪录。这一成功反映了日本文化内容在国际市场的吸引力增强，对元宝在内容推荐和文化服务场景拓展方面具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

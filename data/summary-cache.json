@@ -163668,5 +163668,205 @@
     "type": "news",
     "channels": null,
     "v": 4
+  },
+  "https://www.producthunt.com/products/clive": {
+    "title_clean": "Clive：AI助手iPhone闹钟设置工具",
+    "summary": "Clive是一款允许Claude等AI助手为用户设置iPhone闹钟的工具，通过AI自动化管理日常提醒功能，为用户提供更便捷的智能生活服务体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/seldon": {
+    "title_clean": "Seldon：客户行为模拟QA智能体",
+    "summary": "Seldon开发了一种行为型QA智能体，能够像真实客户一样使用产品进行交互测试。这种工具可以帮助产品经理通过模拟用户行为来发现产品使用中的问题和改进点，提升用户体验和产品质量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openring": {
+    "title_clean": "OpenRing：开源语音AI代理平台",
+    "summary": "OpenRing是一个开源的语音AI代理平台，不收取平台费用。该产品为开发者提供了构建语音AI代理的工具，可能对元宝在语音交互和AI代理功能开发方面具有参考价值，特别是在降低使用成本方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hitpay-agentic-discovery": {
+    "title_clean": "HitPay Agentic Discovery：AI商店发现与购买服务",
+    "summary": "HitPay推出Agentic Discovery服务，旨在让AI智能体能够发现并购买商店商品。这一服务为电商与AI助手结合提供了新思路，对元宝探索AI购物助手场景和商业化模式具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kumiko-2": {
+    "title_clean": "Kumiko：AI宽屏Mac窗口管理工具",
+    "summary": "Kumiko是一款专为宽屏和大屏Mac设计的AI窗口管理工具，能够智能优化多窗口布局，提升大屏幕显示效率。对于元宝产品经理而言，这反映了AI在桌面场景的应用潜力，特别是针对专业用户的多任务处理需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/moreframe": {
+    "title_clean": "MoreFrame：双屏录制编辑工具",
+    "summary": "MoreFrame是一款支持Mac和Windows系统的双屏录制与编辑工具，能够同时捕获和编辑两个屏幕的内容，适合需要多屏幕协作演示或内容创作的场景，为产品经理提供多模态交互和屏幕理解功能的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/willder-with-will-wield-the-wilder": {
+    "title_clean": "Willder：应用与团队同步协作平台",
+    "summary": "Willder是一款上下文同步工具，能够连接用户的应用程序、AI代理和团队，实现跨平台信息同步与协作。产品经理可关注其如何解决多应用间数据割裂问题，为元宝的跨应用协作功能提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cloakpane": {
+    "title_clean": "CloakPane：Mac屏幕共享隐私保护浏览器",
+    "summary": "CloakPane是一款专为Mac设计的浏览器，专注于保护用户隐私，防止屏幕共享过程中泄露敏感信息。产品经理可关注其在隐私保护方面的技术实现，为元宝的隐私功能设计提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gitmanual": {
+    "title_clean": "gitmanual：GitHub仓库操作系统兼容性检查工具",
+    "summary": "gitmanual是一款工具，可检查GitHub仓库是否能在用户的操作系统上运行，并提供相应的设置指南。产品经理可参考此类工具如何解决开发者在跨平台使用开源项目时的兼容性问题，为元宝的代码理解或开发辅助功能提供思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/coffee-9": {
+    "title_clean": "Coffee：Mac平台Markdown编辑器",
+    "summary": "Coffee是一款专为Mac设计的Markdown编辑器，核心特点是安静简洁的编辑体验，支持在笔记中进行数学计算功能。这款产品对元宝产品经理的参考价值在于了解轻量级文档工具的设计理念，特别是如何在基础功能上增加实用特性如数学计算，这可能启发元宝在笔记类功能上的创新方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/quillo-2": {
+    "title_clean": "Quillo：PDF语音朗读与AI问答工具",
+    "summary": "Quillo是一款可以将PDF文档转换为自然语音朗读的产品，并支持用户在听取内容后向AI提问。这一功能为元宝产品经理提供了在文档处理与语音交互结合方面的参考价值，特别是对于需要处理大量文本内容的用户场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/medium": {
+    "title_clean": "TK by Medium：AI智能笔记本工具",
+    "summary": "TK是Medium推出的AI智能笔记本，旨在帮助用户构建和整理思维。作为一款AI驱动的笔记工具，它可能具备智能整理、内容生成和思维辅助功能，对元宝产品经理在AI笔记类产品设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/figschema": {
+    "title_clean": "FigSchema：数据库设计协作工具",
+    "summary": "FigSchema是一款在FigJam平台上直接设计数据库模式的工具，帮助开发团队可视化地创建和协作数据库架构，为产品经理提供了在协作白板上进行数据库设计的解决方案，有助于提升团队协作效率。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rodeo-7": {
+    "title_clean": "Rodeo：AI会议笔记的Notion替代品",
+    "summary": "Rodeo是一款Notion替代产品，其免费版提供AI会议笔记功能。作为协作工具领域的竞争者，它通过AI功能吸引用户，对元宝产品经理在AI辅助办公场景和免费增值模式上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/veilcc": {
+    "title_clean": "VeilCC：AI代码保护工具",
+    "summary": "VeilCC是一款代码保护工具，专门防止AI模型逆向工程代码。它通过混淆和加密技术保护开发者代码，防止AI系统分析和复制源代码，为开发者提供知识产权保护。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nadhif": {
+    "title_clean": "Nadhif：服务器与网站安全监控工具",
+    "summary": "Nadhif是一款专注于Mac、服务器和网站安全检查的工具，帮助用户监控和发现潜在的安全漏洞。对于元宝产品经理而言，这反映了安全监控作为AI助手服务场景的潜在应用方向，可作为安全相关功能设计的参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

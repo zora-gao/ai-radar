@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T04:57:22.697Z",
+  "generated_at": "2026-11-10T12:36:21.266Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -49,7 +49,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Inkling 2 Small is a multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second Inkling...",
-      "description_zh": null
+      "description_zh": "Inkling 2 Small 是 Thinking Machines Lab 的多模态专家混合推理模型，共有 594B 个活动参数，其中有 17B 个。这是第二个 Inkling 中的第一个模型..."
     },
     {
       "id": "anthropic/claude-fable-5.2",
@@ -126,7 +126,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Muse Ember is the smallest and most efficient model from Meta that’s designed for complex reasoning execution and the work agents repeat all day: tool calls, coding agent subtasks, routing,...",
-      "description_zh": null
+      "description_zh": "Muse Ember 是 Meta 中最小、最高效的模型，专为复杂的推理执行而设计，工作代理整天重复：工具调用、编码代理子任务、路由……"
     },
     {
       "id": "liquid/lfm-3-1.7b",
@@ -172,7 +172,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "A compact 1.7B-parameter text model with a 256K-token context, post-trained for agents, tool calling, and structured outputs. It reasons before it answers. Prompts and outputs may be retained and used...",
-      "description_zh": null
+      "description_zh": "紧凑的 1.7B 参数文本模型，具有 256K 令牌上下文，针对代理、工具调用和结构化输出进行了后训练。它先推理再回答。提示和输出可以保留和使用......"
     },
     {
       "id": "google/gemini-omni-1.2-flash",
@@ -226,7 +226,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Auto is OpenRouter’s flagship model router, built for general-purpose usage. It adapts to each request, choosing cost-optimal models and adjusting reasoning effort. It balances task difficulty, benchmark results, live prices,...",
-      "description_zh": null
+      "description_zh": "Auto 是 OpenRouter 的旗舰型号路由器，专为通用用途而设计。它适应每个请求，选择成本最优的模型并调整推理工作。它平衡了任务难度、基准结果、实时价格……"
     },
     {
       "id": "openrouter/auto-code",
@@ -280,7 +280,7 @@
       "supports_tools": false,
       "supports_reasoning": true,
       "description": "Gemini Omni 1.1 Flash is Google's native multimodal video generation and editing model, the generally available successor to Gemini Omni Flash Preview. It is suited for text-to-video, image-to-video, first and...",
-      "description_zh": null
+      "description_zh": "Gemini Omni 1.1 Flash 是 Google 原生的多模式视频生成和编辑模型，是 Gemini Omni Flash Preview 的普遍可用的继任者。它适用于文本到视频、图像到视频、第一和..."
     },
     {
       "id": "ricursiveai/ripple-65b-preview",
@@ -327,7 +327,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "The official release of Hy4 delivers comprehensive and substantial improvements over Hy4 Preview, with particularly strong gains in agentic capabilities and performance across a wide range of long-horizon, real-world productivity...",
-      "description_zh": null
+      "description_zh": "Hy4 的正式版本比 Hy4 Preview 进行了全面而实质性的改进，在广泛的长期、现实世界生产力中的代理能力和性能方面取得了特别强劲的进步......"
     },
     {
       "id": "z-ai/glm-5.3-flashx-legal",

@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-11-10T12:36:21.266Z",
+  "generated_at": "2026-11-10T20:32:42.485Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "baidu/ernie-5.5-flash-preview",
+      "name": "ERNIE-5.5-Flash-Preview",
+      "vendor": "Baidu",
+      "vendor_slug": "baidu",
+      "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview-20261110",
+      "created_at": "2026-11-10T17:58:53Z",
+      "context_length": 1024000,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.28,
+      "price_out": 1.13,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "ERNIE 5.5 Flash Preview is the latest foundation model in the ERNIE family, with comprehensive improvements in coding, agentic capabilities, knowledge work, and deep research. It has 280 billion total...",
+      "description_zh": null
+    },
+    {
+      "id": "baidu/ernie-light-dt-1.0-intl",
+      "name": "ERNIE-Light-DT-1.0",
+      "vendor": "Baidu",
+      "vendor_slug": "baidu",
+      "url": "https://openrouter.ai/baidu/ernie-light-dt-1.0-intl-20261110",
+      "created_at": "2026-11-10T17:21:00Z",
+      "context_length": 1024000,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.13,
+      "price_out": 3.94,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "ERNIE-Light-DT-1.0 is based on open-source GLM models and includes research findings from Baidu Search's Lightning large model. It features Baidu Sparse Attention (BSA), a unique sparse attention mechanism developed by...",
+      "description_zh": null
+    },
+    {
+      "id": "google/gemini-4-carbon",
+      "name": "Gemini 4 Carbon",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-4-carbon-20261110",
+      "created_at": "2026-11-10T16:07:51Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "audio",
+        "file",
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 4 Carbon is a frontier Gemini 4 model from Google for coding, agentic and complex reasoning work. It takes text, image, audio, video and file input, supports long decode...",
+      "description_zh": null
+    },
+    {
+      "id": "google/gemini-4-carbon:batch",
+      "name": "Gemini 4 Carbon (batch)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-4-carbon-20261110",
+      "created_at": "2026-11-10T16:07:51Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "audio",
+        "file",
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 4 Carbon is a frontier Gemini 4 model from Google for coding, agentic and complex reasoning work. It takes text, image, audio, video and file input, supports long decode...",
+      "description_zh": null
+    },
     {
       "id": "nex-agi/nex-n2.6",
       "name": "Nex-N2.6",
@@ -149,7 +249,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "A compact 1.7B-parameter text model with a 256K-token context, post-trained for agents, tool calling, and structured outputs. It reasons before it answers. Prompts and outputs may be retained and used...",
-      "description_zh": null
+      "description_zh": "紧凑的 1.7B 参数文本模型，具有 256K 令牌上下文，针对代理、工具调用和结构化输出进行了后训练。它先推理再回答。提示和输出可以保留和使用......"
     },
     {
       "id": "liquid/lfm-3-1.7b:free",
@@ -543,8 +643,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1394,101 +1494,6 @@
       "supports_reasoning": true,
       "description": "Perceptron Mk1.5 is Perceptron's embodied reasoning model for physical agents. It accepts text, image, video, and audio input, and answers with text plus optional structured annotations: points, boxes, polygons, tracks,...",
       "description_zh": "Perceptron Mk1.5 是 Perceptron 的物理代理的具体推理模型。它接受文本、图像、视频和音频输入，并使用文本和可选的结构化注释进行回答：点、框、多边形、轨迹……"
-    },
-    {
-      "id": "fireworks/ember-1",
-      "name": "Ember-1",
-      "vendor": "Fireworks",
-      "vendor_slug": "fireworks",
-      "url": "https://openrouter.ai/fireworks/ember-1-20260923",
-      "created_at": "2026-09-24T00:07:41Z",
-      "context_length": 1048576,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 3,
-      "price_out": 15,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Ember-1 is a specialized reasoning model from Fireworks Research, built on Kimi K3. It is designed to make every token go further: it produces shorter reasoning traces, using roughly 40%...",
-      "description_zh": "Ember-1 是 Fireworks Research 的专门推理模型，基于 Kimi K3 构建。它的设计目的是让每个 token 走得更远：它产生更短的推理轨迹，使用大约 40%..."
-    },
-    {
-      "id": "z-ai/glm-5.3-prime",
-      "name": "GLM 5.3 Prime",
-      "vendor": "Zhipu AI",
-      "vendor_slug": "z-ai",
-      "url": "https://openrouter.ai/z-ai/glm-5.3-prime-20260921",
-      "created_at": "2026-09-23T21:40:51Z",
-      "context_length": 1000000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2.8,
-      "price_out": 8.8,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GLM-5.3-Prime is the high-speed variant of Z.ai's GLM-5.3, inheriting its full capabilities while delivering 1.5–2× the output throughput through inference acceleration. It supports text input and output with a 1M-token...",
-      "description_zh": "GLM-5.3-Prime 是再爱 GLM-5.3 的高速变体，继承了其全部功能，同时通过推理加速提供 1.5–2 倍的输出吞吐量。它支持带有 1M-token 的文本输入和输出..."
-    },
-    {
-      "id": "qwen/qwen3.8-max-prime",
-      "name": "Qwen3.8 Max Prime",
-      "vendor": "Qwen",
-      "vendor_slug": "qwen",
-      "url": "https://openrouter.ai/qwen/qwen3.8-max-prime-20260923",
-      "created_at": "2026-09-23T19:20:28Z",
-      "context_length": 1000000,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 4,
-      "price_out": 12,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Qwen3.8 Max Prime is a higher-throughput variant of Qwen3.8 Max from Alibaba's Qwen team, served as a separate SKU at a higher price point. It accepts text, image, and video...",
-      "description_zh": "Qwen3.8 Max Prime 是阿里巴巴 Qwen 团队推出的 Qwen3.8 Max 的更高吞吐量变体，作为独立的 SKU，价格更高。它接受文本、图像和视频..."
-    },
-    {
-      "id": "aion-labs/aion-3.5-mini",
-      "name": "Aion 3.5 Mini",
-      "vendor": "Aion Labs",
-      "vendor_slug": "aion-labs",
-      "url": "https://openrouter.ai/aion-labs/aion-3.5-mini-20260923",
-      "created_at": "2026-09-23T13:42:42Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.7,
-      "price_out": 1.4,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Aion 3.5 Mini is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It is the smaller, lower-cost sibling of Aion 3.5 and uses...",
-      "description_zh": "Aion 3.5 Mini 是 AionLabs 的多模型角色扮演和讲故事系统，基于 GLM 系列模型构建。它是 Aion 3.5 的较小、成本较低的兄弟产品，并使用..."
     }
   ]
 }

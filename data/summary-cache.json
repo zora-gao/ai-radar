@@ -163327,5 +163327,346 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/EgdjyeG3HQR-mqZqOv4IYA": {
+    "title_clean": "AI同事使用云电脑远程办公",
+    "summary": "AI同事已开始通过云电脑实现远程办公，这反映了AI助手向自主执行任务方向发展的趋势，为元宝产品在办公场景下的功能拓展提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/rebMz_jFGddYVspnhOjmkg": {
+    "title_clean": "SGLang：并行推测解码吞吐量创新高",
+    "summary": "SGLang通过将因果依赖刻入草稿网络深度，实现了并行推测解码技术的突破，吞吐量达到行业领先水平。这项技术优化了AI模型的推理效率，对提升大语言模型响应速度具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/jK44J32EhAJwjc0S7ia0uw": {
+    "title_clean": "端侧智能：两年内GPT-6级AI将落地手机",
+    "summary": "文章预测两年内GPT-6级别的AI能力将实现端侧部署，标志着手机智能即将迎来重大突破。这对元宝产品经理具有重要参考价值，提示需提前规划端侧AI能力布局，思考如何在移动设备上实现更强大的本地化AI服务体验。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/e02BlCmFGLlwtygmHKjsjw": {
+    "title_clean": "AIScientists：全球首个真实湿实验的Physical AI验证工具",
+    "summary": "AIScientists推出全球首个真实湿实验的Physical AI验证工具，标志着AI在物理世界实验验证领域的重大突破。这一工具能够验证AI在真实物理环境中的实验结果，为AI在科学研究中的应用提供了可靠的质量保证机制，对元宝产品经理探索AI在科研领域的应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/meet-nvidia-board-members-will-decide-jensen-huangs-fate": {
+    "title_clean": "英伟达董事会成员将决定黄仁勋命运",
+    "summary": "英伟达董事会成员将决定全球最有价值公司CEO黄仁勋的命运，其中包括早期投资者。这反映了公司治理结构对AI巨头领导层稳定性的关键影响，对产品经理理解科技企业权力架构和CEO决策机制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/likely-spies-ai-companies-says-security-executive-lisa-thiergart": {
+    "title_clean": "AI公司间谍威胁增加：安全专家警告外国势力正积极窃取AI模型",
+    "summary": "安全公司Security Level 5联合创始人兼CEO Lisa Thiergart表示，虽然目前尚未有外国成功窃取美国领先AI公司的模型，但这只是因为对方尚未尝试，而非缺乏动机。这一警告对AI产品经理评估安全风险和数据保护策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/australia-to-create-ai-safety-regulator-mandatory-safety-rules": {
+    "title_clean": "澳大利亚将创建AI安全监管机构并实施强制性规则",
+    "summary": "澳大利亚将设立新的AI安全监管机构，有权对违规企业实施重大处罚。这一举措表明政府正加强对AI安全的监管力度，对元宝等AI产品在合规性方面提出了新的要求和挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans": {
+    "title_clean": "Anthropic计划推进IPO：AI公司本周将设定估值范围",
+    "summary": "据华尔街日报报道，AI公司Anthropic预计本周将设定其IPO估值范围，这标志着该公司向资本市场迈出重要一步，对元宝产品经理而言，这反映了AI头部企业的商业化进程和资本动向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidias-next-headache-new-push-export-controls-wake-spy-scandal": {
+    "title_clean": "Nvidia：因间谍事件面临对华AI芯片出口管制新压力",
+    "summary": "美国可能重新考虑对华先进AI芯片出口管制，Nvidia面临新的政策压力。这一动态直接影响全球AI芯片供应链，对元宝的产品战略和供应链布局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns": {
+    "title_clean": "Nvidia CEO被指与间谍有染引发继任担忧",
+    "summary": "Nvidia董事会正在调查其CEO是否被外国特工针对，这引发了公司可能失去其核心领导人的风险。这一事件对元宝产品经理的参考价值在于，它反映了科技巨头领导层稳定性的重要性，以及AI行业核心人物变动可能带来的战略影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand": {
+    "title_clean": "中国芯片供应商新跃半导体香港上市大涨，登临科技股价下跌",
+    "summary": "中国两家芯片供应商新跃半导体和登临科技在香港上市首日表现迥异，新跃半导体股价大涨，而登临科技股价下跌。这反映了市场对中国半导体行业不同细分领域的差异化态度，对AI硬件供应链和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/comcast-job-cuts-to-begin-with-hundreds-let-go-in-pennsylvania": {
+    "title_clean": "康卡斯特：裁员千人以重组业务结构",
+    "summary": "康卡斯特计划在连接与平台部门裁员超过1000人，为将增长放缓的业务部门与快速发展的媒体娱乐业务分离做准备。此次裁员反映了传统电信企业在数字化转型过程中的业务调整策略，对AI产品经理理解企业服务场景变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/president-trump-says-fbi-probing-nvidia-ceos-relationship-chinese-national": {
+    "title_clean": "特朗普称FBI调查英伟达CEO与中国国民的关系",
+    "summary": "特朗普在新闻发布会上表示，联邦调查局正在调查英伟达CEO黄仁勋与中国商人Alice Huang的关系。这一事件可能影响英伟达在中国的业务运营和AI芯片供应链，对关注国际AI企业合规风险的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/ross-gerber-sees-75-chance-huang-remains-nvidia-ceo-video": {
+    "title_clean": "Ross Gerber：黄仁勋留任NVIDIA CEO概率达75%",
+    "summary": "投资公司Gerber Kawasaki创始人Ross Gerber表示，NVIDIA CEO黄仁勋留任概率达75%，此前黄仁勋被曝与涉嫌中国间谍有染。此消息对AI芯片行业高管稳定性及公司战略连续性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia": {
+    "title_clean": "Nvidia面临集体诉讼：CEO被指与中国间谍有关",
+    "summary": "Nvidia股价大跌4%后，公司董事会开始调查CEO黄仁勋与一名疑似中国间谍的关系，证券法律专家指出公司此前坚持否认相关指控。这一事件可能对AI芯片行业格局和Nvidia的商业策略产生重大影响，产品经理需关注地缘政治对AI供应链的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/skydance-growing-but-has-work-to-do-ross-gerber-says-video": {
+    "title_clean": "Skydance：流媒体平台整合计划",
+    "summary": "Skydance计划推出整合Paramount+和HBO Max的流媒体捆绑服务，Gerber Kawasaki投资管理公司CEO认为Skydance虽有增长但仍需大量工作。这对元宝产品经理了解流媒体行业整合趋势和可能的合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling": {
+    "title_clean": "Nvidia介入美国对Megaspeed芯片走私调查",
+    "summary": "Nvidia总法律师介入美国政府对Megaspeed International涉嫌走私AI芯片的调查，质疑特朗普政府在拘留事件中可能扮演的角色。这反映了AI芯片供应链的合规风险及地缘政治对AI产业的影响，对产品经理了解AI芯片供应链安全与政策风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-releases-new-frontier-models-ipo-nears": {
+    "title_clean": "Anthropic发布Claude Fable 5.2和Claude Mythos 5.2前沿模型",
+    "summary": "Anthropic在IPO前夕发布了其最先进模型线Claude的最新版本Fable 5.2和Mythos 5.2，这标志着其产品能力的重大更新，对元宝产品经理评估竞品动态和AI模型迭代方向具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/menlo-agents-now-drive-80-of-enterprise-ai-usage-video": {
+    "title_clean": "Menlo：企业AI使用中80%由AI Agent驱动",
+    "summary": "Menlo Ventures最新企业AI报告显示，企业AI支出从2025年的330亿美元增至1770亿美元，其中AI Agent已占企业AI使用量的80%，表明AI Agent在企业场景中已成为主流应用方式。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-probe-prompts-investor-questions-scrutiny-video": {
+    "title_clean": "Nvidia CEO调查引发投资者关注与审查",
+    "summary": "Nvidia CEO黄仁勋承认与被指为疑似中国间谍的Alice Huang有婚外情后，公司股价下跌。华尔街专家对此事作出反应，这可能对Nvidia的公司治理和投资者关系产生影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/berkshire-boosts-buybacks-as-operating-income-slips-video": {
+    "title_clean": "巴菲特伯克希尔哈撒韦增加股票回购，但运营收入下滑",
+    "summary": "伯克希尔哈撒韦第三季度斥资96亿美元回购自家股票，表明公司管理层认为股票被低估。然而保险承保业务下滑导致运营收入下降，这一财务动向对AI产品经理参考价值有限，主要反映传统投资策略而非AI行业趋势。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/binance-hackers-made-memecoins-to-launder-stolen-crypto": {
+    "title_clean": "Binance黑客利用迷因币清洗被盗加密货币",
+    "summary": "Binance史上最大规模加密货币盗窃案(价值63亿美元)的黑客，正使用迷因币来清洗部分被盗资金。这反映了加密货币安全风险和新型洗钱手段，对产品经理了解加密货币安全防护和反洗钱机制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/tengler-expects-nvidia-ceo-huang-to-stay-in-job-video": {
+    "title_clean": "Tengler：Nvidia CEO黄仁勋留任预期",
+    "summary": "投资公司CEO Nancy Tengler表示，在Nvidia CEO黄仁勋承认婚外情后，她惊讶于公司股价未大幅下跌，并预期黄仁勋将继续留任。此信息对元宝产品经理了解科技企业领导层稳定性与股价关系有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/meta-plans-sales-team-consulting-partnerships-win-big-companies": {
+    "title_clean": "Meta计划组建销售团队与咨询合作伙伴以赢得企业客户",
+    "summary": "Meta正计划组建销售团队并建立咨询合作伙伴关系，旨在将其AI产品销售给企业客户。这一举措表明Meta正在积极拓展B2B AI市场，与OpenAI等竞争对手争夺企业级AI服务市场份额。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/amazon/higher-order-pruning-experts": {
+    "title_clean": "Your Experts Have Partners：专家协作平台",
+    "summary": "Your Experts Have Partners推出HOPE平台，旨在帮助专家与合作伙伴保持紧密联系。该平台可能专注于专家网络管理、协作工具或资源整合，为产品经理提供专家协作模式参考，特别是在AI助手如何连接专业资源方面有启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidia-drama-explodes-startup-tricking-scammers-using-ai-agents": {
+    "title_clean": "Nvidia股价大跌；AI Agent初创公司欺骗诈骗者",
+    "summary": "Nvidia股价周一早间下跌5%，此前该公司宣布将调查一项指控。同时，一家初创公司正利用AI Agent技术欺骗诈骗者，展示了AI在安全防护领域的新应用。这对产品经理了解AI技术在反欺诈场景的应用及AI Agent能力边界有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/how-nvidia-ceo-s-affair-engulfed-ai-giant-in-spy-probe-video": {
+    "title_clean": "英伟达CEO婚外情引发间谍调查危机",
+    "summary": "英伟达CEO黄仁承认婚外情，相关女性被指涉嫌为中国间谍，导致这家AI芯片巨头陷入前所未有的危机。此事件可能影响英伟达的商业合作与全球业务布局，对AI供应链安全构成警示。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-09/taiwan-stocks-gain-as-authorities-move-to-stem-market-rout": {
+    "title_clean": "台湾股市反弹：当局采取措施应对全球AI股抛售",
+    "summary": "台湾股市在经历2022年以来最长连跌后反弹，当局采取措施恢复投资者信心，此举反映了全球AI股市场波动对区域市场的影响，对产品经理了解市场情绪和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
   }
 }

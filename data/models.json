@@ -1,8 +1,56 @@
 {
-  "generated_at": "2026-11-09T21:18:22.015Z",
+  "generated_at": "2026-11-10T04:57:22.697Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "nex-agi/nex-n2.6",
+      "name": "Nex-N2.6",
+      "vendor": "Nex Agi",
+      "vendor_slug": "nex-agi",
+      "url": "https://openrouter.ai/nex-agi/nex-n2.6-20261110",
+      "created_at": "2026-11-10T03:46:19Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.12,
+      "price_out": 0.4,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Nex-N2.6 is an agentic model from Nex AGI, built on GLM-5.3-Flash with about 321B parameters. It is suited for computer use, coding, and long-horizon tasks that involve tools. Compared with...",
+      "description_zh": null
+    },
+    {
+      "id": "thinkingmachines/inkling-2-small:free",
+      "name": "Inkling 2 Small (free)",
+      "vendor": "Thinkingmachines",
+      "vendor_slug": "thinkingmachines",
+      "url": "https://openrouter.ai/thinkingmachines/inkling-2-small-20261107",
+      "created_at": "2026-11-09T22:04:07Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Inkling 2 Small is a multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second Inkling...",
+      "description_zh": null
+    },
     {
       "id": "anthropic/claude-fable-5.2",
       "name": "Claude Fable 5.2",
@@ -282,33 +330,6 @@
       "description_zh": null
     },
     {
-      "id": "stealth/crouton-alpha",
-      "name": "Crouton Alpha",
-      "vendor": "Stealth",
-      "vendor_slug": "stealth",
-      "url": "https://openrouter.ai/stealth/crouton-alpha",
-      "created_at": "2026-11-03T01:38:50Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Crouton Alpha is a lightweight model built for scalable coding, agentic, and multimodal workflows. It's ideal for executing agentic sub-tasks, tool use, and document analysis in high-volume, repeated work. Developers...",
-      "description_zh": null
-    },
-    {
       "id": "z-ai/glm-5.3-flashx-legal",
       "name": "GLM 5.3 FlashX Legal",
       "vendor": "Zhipu AI",
@@ -522,8 +543,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.3,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1468,29 +1489,6 @@
       "supports_reasoning": true,
       "description": "Aion 3.5 Mini is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It is the smaller, lower-cost sibling of Aion 3.5 and uses...",
       "description_zh": "Aion 3.5 Mini 是 AionLabs 的多模型角色扮演和讲故事系统，基于 GLM 系列模型构建。它是 Aion 3.5 的较小、成本较低的兄弟产品，并使用..."
-    },
-    {
-      "id": "aion-labs/aion-3.5",
-      "name": "Aion 3.5",
-      "vendor": "Aion Labs",
-      "vendor_slug": "aion-labs",
-      "url": "https://openrouter.ai/aion-labs/aion-3.5-20260923",
-      "created_at": "2026-09-23T13:42:41Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 3,
-      "price_out": 6,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Aion 3.5 is a multi-model roleplaying and storytelling system from AionLabs, built on the GLM family of models. It uses a collaborative generation process in which multiple specialized models each...",
-      "description_zh": "Aion 3.5 是 AionLabs 的多模型角色扮演和讲故事系统，基于 GLM 系列模型构建。它使用协作生成过程，其中多个专用模型各自......"
     }
   ]
 }

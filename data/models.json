@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:32:42.485Z",
+  "generated_at": "2026-11-11T01:23:44.196Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -301,6 +301,29 @@
       "description_zh": null
     },
     {
+      "id": "kt/midm-k-3.0-pro",
+      "name": "Mi:dm K 3.0 Pro",
+      "vendor": "Kt",
+      "vendor_slug": "kt",
+      "url": "https://openrouter.ai/kt/midm-k-3.0-pro",
+      "created_at": "2026-11-05T16:55:01Z",
+      "context_length": 261795,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.2,
+      "price_out": 0.8,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Mi:dm K 3.0 Pro is a Mixture-of-Experts reasoning model from KT, with 120B total and 12B active parameters. It uses a hybrid architecture that mixes Mamba, MoE and attention layers.",
+      "description_zh": null
+    },
+    {
       "id": "openrouter/auto",
       "name": "Auto Router",
       "vendor": "OpenRouter",
@@ -428,6 +451,29 @@
       "supports_reasoning": true,
       "description": "The official release of Hy4 delivers comprehensive and substantial improvements over Hy4 Preview, with particularly strong gains in agentic capabilities and performance across a wide range of long-horizon, real-world productivity...",
       "description_zh": "Hy4 的正式版本比 Hy4 Preview 进行了全面而实质性的改进，在广泛的长期、现实世界生产力中的代理能力和性能方面取得了特别强劲的进步......"
+    },
+    {
+      "id": "motif-technologies/motif-3",
+      "name": "Motif 3",
+      "vendor": "Motif Technologies",
+      "vendor_slug": "motif-technologies",
+      "url": "https://openrouter.ai/motif-technologies/motif-3",
+      "created_at": "2026-11-02T21:35:34Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.3,
+      "price_out": 1.2,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Motif 3 is a Mixture-of-Experts language model from Motif Technologies, with 314B total and 13.2B active parameters. It is a general-purpose multilingual model for English and Korean, particularly strong at...",
+      "description_zh": null
     },
     {
       "id": "z-ai/glm-5.3-flashx-legal",
@@ -643,8 +689,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.3,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -723,29 +769,6 @@
       "supports_reasoning": true,
       "description": "Glimpse is a multimodal visual reasoning model from Elorian, built for visual understanding and complex visual reasoning in the physical world. It reasons directly over images and video rather than...",
       "description_zh": "Glimpse 是 Elorian 的多模态视觉推理模型，专为物理世界中的视觉理解和复杂视觉推理而构建。它直接通过图像和视频进行推理，而不是......"
-    },
-    {
-      "id": "xingchen-agi/xing4.0-29b-a4b:free",
-      "name": "Xing4.0 29B A4B (free)",
-      "vendor": "Xingchen Agi",
-      "vendor_slug": "xingchen-agi",
-      "url": "https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b-20261015",
-      "created_at": "2026-10-16T19:04:56Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Xing4.0-29B-A4B is an open-weight mixture-of-experts language model from China Telecom's AI team (TeleAI) and the successor to the TeleChat series. It has 29B total parameters with 4B active per token...",
-      "description_zh": "Xing4.0-29B-A4B是来自中国电信人工智能团队（TeleAI）的开放权重专家混合语言模型，是TeleChat系列的后继者。它总共有 29B 个参数，每个代币有 4B 个活跃参数......"
     },
     {
       "id": "reflection/beam-1.0-501b-a23b",
@@ -1468,32 +1491,6 @@
       "supports_reasoning": true,
       "description": "Jev Router picks the best model and reasoning effort for each request, balancing quality, speed, and cost. It runs on Jev, TypeSafe's first System One model, and adapts as your...",
       "description_zh": "Jev Router 为每个请求选择最佳模型和推理工作，平衡质量、速度和成本。它在 Jev（TypeSafe 的第一个 System One 模型）上运行，并根据您的需要进行调整..."
-    },
-    {
-      "id": "perceptron/perceptron-mk1.5",
-      "name": "Perceptron Mk1.5",
-      "vendor": "Perceptron",
-      "vendor_slug": "perceptron",
-      "url": "https://openrouter.ai/perceptron/perceptron-mk1.5-20260925",
-      "created_at": "2026-09-25T16:11:01Z",
-      "context_length": 36864,
-      "modality": "text+image+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.15,
-      "price_out": 1.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Perceptron Mk1.5 is Perceptron's embodied reasoning model for physical agents. It accepts text, image, video, and audio input, and answers with text plus optional structured annotations: points, boxes, polygons, tracks,...",
-      "description_zh": "Perceptron Mk1.5 是 Perceptron 的物理代理的具体推理模型。它接受文本、图像、视频和音频输入，并使用文本和可选的结构化注释进行回答：点、框、多边形、轨迹……"
     }
   ]
 }

@@ -164602,5 +164602,118 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/appubot": {
+    "title_clean": "AppuBot：免费AI助手替代工具",
+    "summary": "AppuBot是一款免费运行的AI助手工具，定位为Grok Bot的替代方案，强调完全免费使用，为用户提供AI助手服务。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lotusq": {
+    "title_clean": "LotusQ：跨应用语音输入工具",
+    "summary": "LotusQ是一款允许用户在任何应用中通过语音而非键盘输入的工具，旨在提升跨应用沟通效率。产品经理可关注其语音输入技术在多场景应用中的实现方式，以及如何解决用户在不同应用间切换时的输入痛点。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/booz-allen-switches-nvidias-nemotron": {
+    "title_clean": "Booz Allen Switches to Nvidia's Nemotron：企业AI模型迁移服务",
+    "summary": "博思艾伦咨询公司(Nvidia)将其AI系统迁移至Nemotron平台，此举发生在NVIDIA CEO黄仁勋被曝与中国间谍机构有关联的丑闻之后。这一迁移反映了企业对AI供应链安全性的重新评估，对元宝产品经理了解企业级AI服务迁移决策因素和供应链风险管理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder": {
+    "title_clean": "OpenAI收购Sonder创始人创立的旅行初创公司Odessia",
+    "summary": "OpenAI收购了由Sonder创始人Francis Davidson创立的旅行初创公司Odessia，但尚未公布对旅行业务的未来计划。Francis Davidson是旅行行业知名人士，此次收购可能表明OpenAI正在探索AI在旅行服务领域的应用机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video-mwayrbrl": {
+    "title_clean": "Anthropic寻求1.4万亿美元估值，计划成为首家公开上市的AI前沿实验室",
+    "summary": "Anthropic计划在IPO中寻求约1.4万亿美元的估值，有望成为首家公开上市的AI前沿实验室。这一估值反映了市场对AI基础设施提供商的高度认可，对元宝产品经理评估AI公司商业化路径和资本市场预期具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": {
+    "title_clean": "Nvidia CEO与中国间谍关系事件时间线",
+    "summary": "NVIDIA CEO黄仁勋被曝与中国间谍存在关系，此事可能影响中美两国在先进AI基础设施发展竞争中的国家安全。作为全球AI芯片领导者，NVIDIA的商业决策和地缘政治风险对AI行业格局有重要影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-sets-lower-expected-valuation-seeks-raise-64-billion-ipo": {
+    "title_clean": "Anthropic寻求IPO融资900亿美元，估值低于预期",
+    "summary": "Anthropic更新了证券文件，计划在IPO中寻求900亿美元融资，估值设定在1.26万亿至1.4万亿美元之间，略低于投资者初始预期。这一融资规模反映了AI领域巨头间的竞争态势，对元宝产品经理评估AI行业资本动向和竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-promedius": {
+    "title_clean": "CEO访谈：PROMEDIUS医疗影像AI公司",
+    "summary": "PROMEDIUS联合创始人兼CEO Hyun-Jin Bae接受CB Insights采访，分享公司对医疗影像市场的看法、客户需求分析及公司定位。该公司专注于胸部X-ray影像AI分析，全球市场规模约30亿张X光片，为医疗AI领域提供重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/the-china-show-11-09-2026-video": {
+    "title_clean": "黄仁勋事件引发中国间谍调查，英伟达卷入风波",
+    "summary": "英伟达CEO黄仁勋卷入中国间谍调查，引发公司面临审查。此事件可能影响英伟达在中国的业务运营和市场策略，对AI芯片供应链和国际AI企业合规管理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

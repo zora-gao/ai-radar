@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T01:23:44.196Z",
+  "generated_at": "2026-11-11T09:46:24.371Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
     {
-      "id": "baidu/ernie-5.5-flash-preview",
-      "name": "ERNIE-5.5-Flash-Preview",
+      "id": "baidu/ernie-5.5-flash-preview:free",
+      "name": "ERNIE-5.5-Flash-Preview (free)",
       "vendor": "Baidu",
       "vendor_slug": "baidu",
       "url": "https://openrouter.ai/baidu/ernie-5.5-flash-preview-20261110",
@@ -18,9 +18,9 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.28,
-      "price_out": 1.13,
-      "is_free": false,
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "ERNIE 5.5 Flash Preview is the latest foundation model in the ERNIE family, with comprehensive improvements in coding, agentic capabilities, knowledge work, and deep research. It has 280 billion total...",

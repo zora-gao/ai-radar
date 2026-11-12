@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T18:39:02.925Z",
+  "generated_at": "2026-11-12T00:56:25.516Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -1316,6 +1316,30 @@
       "description_zh": "Ling 3.1 Flash是inclusionAI的混合推理混合专家模型，总共560B个活动参数，其中有25B个。"
     },
     {
+      "id": "unbiased/pareto-26.10-preview",
+      "name": "Pareto 26.10 Preview",
+      "vendor": "Unbiased",
+      "vendor_slug": "unbiased",
+      "url": "https://openrouter.ai/unbiased/pareto-26.10-preview-20260929",
+      "created_at": "2026-10-01T14:07:03Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.8,
+      "price_out": 3.2,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": false,
+      "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. This is a preview of the...",
+      "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。这是...的预览"
+    },
+    {
       "id": "openai/gpt-6.1-sol-pro",
       "name": "GPT-6.1 Sol Pro",
       "vendor": "OpenAI",
@@ -1464,33 +1488,6 @@
       "supports_reasoning": true,
       "description": "Claude Sonnet 5.5 is Anthropic's Sonnet-class model for well-scoped everyday work, succeeding Claude Sonnet 5 as a direct upgrade. It is especially strong at building features, fixing bugs, and producing...",
       "description_zh": "Claude Sonnet 5.5 是 Anthropic 的 Sonnet 级模型，适用于范围广泛的日常工作，是 Claude Sonnet 5 的直接升级版。它在构建功能、修复错误和生成...方面尤其强大。"
-    },
-    {
-      "id": "typesafe/jev-router",
-      "name": "Jev Router",
-      "vendor": "Typesafe",
-      "vendor_slug": "typesafe",
-      "url": "https://openrouter.ai/typesafe/jev-router",
-      "created_at": "2026-09-25T19:12:40Z",
-      "context_length": 1000000,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "audio",
-        "file",
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": null,
-      "price_out": null,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Jev Router picks the best model and reasoning effort for each request, balancing quality, speed, and cost. It runs on Jev, TypeSafe's first System One model, and adapts as your...",
-      "description_zh": "Jev Router 为每个请求选择最佳模型和推理工作，平衡质量、速度和成本。它在 Jev（TypeSafe 的第一个 System One 模型）上运行，并根据您的需要进行调整..."
     }
   ]
 }

@@ -166053,5 +166053,500 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/pLWDaTjnnV-fgbZHorFgMg": {
+    "title_clean": "TheTrinity：能力驱动的多模态RSI新范式",
+    "summary": "TheTrinity提出了一种不再围绕任务进化，而是以能力驱动为核心的多模态RSI新范式。这一创新可能为AI助手和Agent的设计提供新思路，强调能力构建而非单一任务完成，对产品经理思考AI发展方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/a3a9GfFkCystpuGldDFxbg": {
+    "title_clean": "北大数院团队登顶RoboColiseum：AI模型性能竞赛夺冠",
+    "summary": "北大数院团队在RoboColiseum竞赛中击败全球顶尖模型，展示了其AI模型的卓越性能。这一成果表明中国AI研究团队在模型能力上已具备国际竞争力，对元宝产品经理评估技术路线和竞品能力具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/C3PfYyQM07XLwfE7xCGwAQ": {
+    "title_clean": "AI模型评测：旧版Claude超越Fable5.2排名第一",
+    "summary": "在AI模型评测中，旧版Claude模型采用独特方法超越了Fable5.2，既不使用VLA也不采用WAM技术。这一结果对AI产品经理有参考价值，表明模型性能不仅取决于最新版本，优化方法同样重要。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skillbox-5": {
+    "title_clean": "Skillbox：AI技能库管理工具",
+    "summary": "Skillbox是一个AI技能库管理平台，可将各类AI技能统一管理并同步到多个AI Agent中，帮助用户集中管理和复用AI能力，提升多Agent协作效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-board-meets-on-huang-s-fate-after-affair-with-alleged-spy": {
+    "title_clean": "NVIDIA董事会讨论黄仁勋与疑似间谍事件",
+    "summary": "NVIDIA董事会正在讨论CEO黄仁勋的命运，他承认与一名被美国官员认为是间谍的女性有染。此事件可能对公司领导层和业务运营产生重大影响，对产品经理了解企业治理风险和高层变动对产品战略的潜在影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/we-are-probably-overbuilding-data-centers-gary-marcus-video": {
+    "title_clean": "Gary Marcus：我们可能过度建设数据中心",
+    "summary": "AI专家Gary Marcus认为投资者应避免Anthropic的IPO，因其财务前景依赖于快速且持续的增长。这一观点对AI基础设施投资和数据中心建设策略有重要参考价值，提醒产品经理关注AI企业的可持续性而非盲目扩张。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/report-nvidia-board-reportedly-preparing-oust-nvidia-ceo": {
+    "title_clean": "Nvidia董事会准备罢免CEO黄仁勋",
+    "summary": "据华尔街日报报道，Nvidia董事会正在准备罢免CEO黄仁勋，原因是调查了黄仁勋与中国一家公司女性高管的恋爱关系。这一高管变动可能对AI芯片行业格局和Nvidia的战略方向产生影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built": {
+    "title_clean": "数据中心建设面临多重挑战",
+    "summary": "数据中心建设热潮遭遇现实阻碍，包括当地社区强烈反对、许可审批延迟以及电力供应紧张等问题。这些挑战在项目启动前就已显现，可能影响未来数据中心的建设规划与选址策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/metas-infrastructure-chief-leaving-amid-massive-ai-buildout": {
+    "title_clean": "Meta基础设施负责人离职：AI大规模建设期间的人事变动",
+    "summary": "Meta Platforms宣布其全球基础设施负责人Santosh Janardhan离职，正值公司大规模AI基础设施建设的关键时期。这一人事变动可能影响Meta的AI基础设施战略规划和执行，对了解科技巨头AI资源投入与组织架构调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/rubenstein-on-the-anthropic-ipo-nvidia-ceo-scandal-video": {
+    "title_clean": "Rubenstein谈Anthropic IPO与Nvidia CEO丑闻",
+    "summary": "Carlyle集团联席主席David Rubenstein讨论了Anthropic预期的首次公开募股以及Nvidia CEO黄仁勋的丑闻事件。这反映了AI行业头部公司的资本动态和领导层风险，对元宝产品经理了解AI巨头商业环境和潜在风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/oura-to-buy-ai-doctor-startup-video": {
+    "title_clean": "Oura收购AI医疗咨询公司Counsel Health",
+    "summary": "Oura以6.25亿美元收购AI和按需医生服务公司Counsel Health，这是其在放弃上市尝试后业务扩张的重要举措。此次收购将增强Oura在健康监测领域的AI医疗服务能力，为可穿戴设备用户提供更全面的健康咨询解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/how-adobe-is-helping-disney-with-custom-ai-tools-video": {
+    "title_clean": "Adobe与迪士尼合作开发定制AI工具",
+    "summary": "Adobe与迪士尼达成多年合作，共同开发定制AI模型和工具，助力迪士尼将其应用于主题公园、工作室和体育媒体业务。这一合作展示了大型娱乐企业如何利用AI技术提升运营效率和创新能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-china-scandal-demands-answers-says-congressman-video": {
+    "title_clean": "Nvidia中国丑闻引发国会质询",
+    "summary": "美国国会众议员Raja Krishnamoorthi要求Nvidia CEO黄仁勋就其与涉嫌与中国情报有关的女性的关系作出解释，并暗示议员们可能考虑采取进一步行动。此事件可能影响Nvidia在中国的业务运营和AI芯片供应链，对元宝产品经理了解国际AI企业合规风险和地缘政治影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-11/uk-s-healey-promises-to-avoid-us-style-data-center-free-for-all": {
+    "title_clean": "英国承诺避免美国式数据中心无序扩张",
+    "summary": "英国政府承诺将避免美国式数据中心无序发展引发的公众和政治反弹，这种无序扩张已威胁到人工智能投资。此举表明英国正寻求更规范的数据中心发展路径，为AI产业提供稳定环境，对元宝产品经理了解全球AI基础设施政策环境有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-scandal-raises-china-stakes-video": {
+    "title_clean": "Nvidia丑闻提升中国风险",
+    "summary": "Pangea Policy创始人Terry Haines在Bloomberg节目中表示，Nvidia丑闻可能产生远超公司本身的后果，涉及国会执法等多方面影响，对AI芯片企业国际业务策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-others-warn-ai-acceleration": {
+    "title_clean": "Anthropic等公司警告AI加速发展",
+    "summary": "Anthropic等AI公司警告AI技术加速发展，这可能带来潜在风险。这一信号表明行业领先企业正在关注AI发展速度与安全性的平衡，对元宝产品经理评估AI发展路径和安全策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-is-playing-out-like-a-greek-tragedy-goldberg-video": {
+    "title_clean": "Nvidia：CEO黄仁勋去留风险引发市场担忧",
+    "summary": "Seaport分析师Jay Goldberg表示，如果没有CEO黄仁勋，Nvidia将失去其核心身份，并认为黄仁勋被解雇的风险显著。这一言论反映了Nvidia对CEO的高度依赖，以及公司治理结构可能存在的风险，对评估企业领袖对AI硬件公司的重要性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/introducing-informations-50-promising-startups-2026": {
+    "title_clean": "The Information：2026年最具前景的50家AI安全初创公司",
+    "summary": "The Information发布2026年最具前景的50家初创公司榜单，特别关注人工智能如何改变企业安全领域，投资者正积极投资那些能够帮助防御者保持领先的安全初创企业。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-traded-movies-for-grand-theft-auto-games": {
+    "title_clean": "Take-Two高管Zelnick：从电影行业转向《侠盗猎车手》游戏业务",
+    "summary": "Take-Two互动公司董事长兼CEO斯特劳斯·泽尔尼克回顾其娱乐行业职业生涯，从20世纪福克斯总裁到离开电影电视行业，投身于新兴的《侠盗猎车手》游戏业务，展示了传统娱乐与游戏产业的跨界转型经验。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services": {
+    "title_clean": "Palomma：哥伦比亚房东租金融资服务平台",
+    "summary": "哥伦比亚金融科技初创公司Palomma完成1000万美元A轮融资，由墨西哥风投公司Cometa领投，旨在为房东、租户和物业管理公司提供金融服务，解决租金支付和房东融资问题。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-11/-grand-theft-auto-vi-is-latest-big-swing-for-take-two-ceo-s-video-game-empire": {
+    "title_clean": "《侠盗猎车手VI》：Take-Two CEO的视频游戏帝国最新力作",
+    "summary": "Take-Two Interactive CEO Strauss Zelnick的童年梦想是经营好莱坞工作室，如今他通过《侠盗猎车手VI》等大作构建视频游戏帝国。这款备受期待的游戏是Take-Two战略布局的重要一环，对游戏行业格局和元宝在游戏AI助手领域的产品策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-11/south-korean-battery-makers-face-greater-scrutiny-in-hungary": {
+    "title_clean": "韩国电池企业在匈牙利面临更严格监管",
+    "summary": "韩国主要电池制造商在匈牙利的运营面临更严格的监管审查，SK On和三星SDI等公司已在匈牙利这一欧洲枢纽投资数十亿美元。这一监管变化可能影响全球电池供应链布局，对元宝产品经理了解国际制造业监管环境变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-11/india-s-rich-pivot-to-real-estate-after-stock-returns-falter": {
+    "title_clean": "印度富人转向实物资产投资：股市回报低迷后寻求高收益",
+    "summary": "印度富人在股市连续两年表现不佳后，正转向房地产和物流等高收益实物资产，以优化投资组合。这一趋势反映了投资者在经济不确定性下对稳定回报的追求，对AI金融服务产品在资产配置建议和投资组合管理方面具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/UF1J6k4MnKbQ3sMtDSuNfQ": {
+    "title_clean": "ClaudeFable5.2：AI数学定理形式化工具",
+    "summary": "ClaudeFable5.2在30小时内完成了费马大定理的形式化证明，展示了AI在数学推理和形式化验证领域的突破性进展。这一成果对AI助手在复杂逻辑推理、数学问题解决和学术研究辅助方面具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-openai-valuation-gap": {
+    "title_clean": "Anthropic与OpenAI估值差距扩大",
+    "summary": "Anthropic与OpenAI的估值差距反映了公众投资者与私人投资者之间日益扩大的情绪分歧。这一现象对AI行业估值趋势和投资策略具有重要参考价值，产品经理可据此评估市场对AI独角兽企业的预期变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/sonos-plans-many-new-products-next-year-to-capitalize-on-ai-era": {
+    "title_clean": "Sonos计划明年推出多款新产品以把握AI时代机遇",
+    "summary": "Sonos公司报告收入增长并预告将推出多款新产品，旨在将其标志性音响系统打造为展示AI代理的开放平台，这反映了传统硬件厂商向AI服务生态转型的趋势，对元宝在硬件+AI服务融合方向的产品策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/why-nvidia-and-jensen-huang-matter-so-much-to-markets": {
+    "title_clean": "英伟达CEO黄仁勋对市场的重要性分析",
+    "summary": "本文分析了英伟达CEO黄仁勋对市场的重要影响，指出关于其关系的报道曾导致股市价值蒸发万亿美元。作为AI芯片领域的核心人物，黄仁勋的动向和英伟达的战略对AI行业发展和产品经理评估技术供应链具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-crypto-11-10-2026-video": {
+    "title_clean": "US Midterms Fallout, Biggest Heist in History：加密货币安全事件分析",
+    "summary": "Bloomberg Crypto 报道了美国中期选举后的加密货币市场动态，以及历史上最大规模的加密货币盗窃事件。采访了 Securitize 公司高管和区块链协会代表，内容涉及去中心化金融领域的人物、交易和技术发展，对元宝产品经理了解加密货币安全风险和监管环境变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-board-hires-wachtell-independent-investigation-ceo-relationship": {
+    "title_clean": "Nvidia董事会聘请Wachtell律所对CEO关系进行独立调查",
+    "summary": "Nvidia董事会宣布聘请Wachtell律所对CEO黄仁勋的行为进行独立调查。这一调查源于董事会此前对CEO关系的关注，可能对公司治理和领导层稳定性产生影响，对关注企业治理和AI行业领导力的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-launches-new-workplace-software-sending-microsoft-shares-tanking": {
+    "title_clean": "Anthropic推出新型办公软件，整合Claude AI与电子表格/演示文稿/会议笔记功能",
+    "summary": "Anthropic发布新型办公软件，将Claude AI与电子表格创建编辑、演示文稿制作及视频会议笔记功能整合，直接挑战微软Office产品线，导致微软股价下跌，显示AI助手在办公场景的竞争加剧。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google": {
+    "title_clean": "OpenAI推出商业资料功能，使ChatGPT更接近Google",
+    "summary": "OpenAI为ChatGPT新增商业资料功能，旨在将其打造成更强大的消费者发现引擎，帮助企业在平台上展示信息。这一变化表明OpenAI正尝试将ChatGPT从单纯的对话工具向商业信息服务平台转型，可能影响其商业模式和竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense": {
+    "title_clean": "Crunchbase独角兽榜单突破1900家，10月新增34家半数成立不足4年",
+    "summary": "Crunchbase独角兽榜单10月新增34家公司，总价值超960亿美元，融资总额148亿美元。榜单总数突破1900家，新增企业中半数成立不足4年，显示AI等领域创业公司快速成长趋势，对元宝产品经理了解行业融资动态和新兴竞争格局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-talon": {
+    "title_clean": "Executive Interview: TALON",
+    "summary": "TALON创始人兼高管Mark Galvin接受CB Insights采访，分享了公司对市场趋势的看法、客户需求分析以及公司战略。该访谈为AI产品经理提供了企业级AI服务市场的重要洞察和竞争格局参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/singapore-airlines-travel-work": {
+    "title_clean": "新加坡航空：利用OpenAI技术提升旅行体验与工作效率",
+    "summary": "新加坡航空采用OpenAI模型和API增强客户支持、旅行发现和员工生产力，其Kris聊天机器人客户满意度提升一倍。展示了AI在航空服务场景中的实际应用效果，对元宝在服务场景拓展和AI助手效能提升有参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china": {
+    "title_clean": "英伟达CEO与中国情报人员关系曝光：促成70亿美元芯片销售",
+    "summary": "报道揭示英伟达CEO黄仁勋与被美国政府认定为中国情报人员的Alice Huang之间存在长期关系，这一关系促成英伟达向中国销售超过70亿美元的芯片。对产品经理而言，这反映了AI芯片供应链的地缘政治风险，可能影响AI硬件供应和成本策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/hub-gcp-marketplace": {
+    "title_clean": "Hugging Face Hub：支持通过Google Cloud账户付费",
+    "summary": "Hugging Face宣布用户现在可以通过Google Cloud账户支付其Hub服务费用，这标志着AI模型托管平台与云服务商的深度整合，为企业和开发者提供了更便捷的付费渠道，有助于扩大Hugging Face在企业市场的应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/cogent-security": {
+    "title_clean": "Cogent与OpenAI合作构建企业网络安全防御工厂",
+    "summary": "Cogent结合OpenAI模型与企业上下文，通过AI代理帮助企业自动修复安全漏洞。这一合作展示了AI在企业安全防护领域的应用，为元宝产品经理提供了AI Agent在专业服务场景的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/weighted-state-souping": {
+    "title_clean": "Weighted State Souping：高效长上下文检索技术",
+    "summary": "该论文被NeurIPS 2026研讨会收录，提出了一种名为Weighted State Souping的技术，用于优化状态空间模型(SSMs)的长上下文检索能力，结合了快速推理和固定状态大小的优势，对AI系统处理长文本场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal": {
+    "title_clean": "空头机构提前六个月举报英伟达CEO与中国疑似间谍关系",
+    "summary": "空头机构Culper Research在英伟达间谍丑闻爆发前六个月，就已质疑CEO黄仁勋与中国一名高管异常密切的关系。这揭示了跨国科技公司高管与中国商业伙伴关系可能带来的安全风险，对元宝产品经理评估国际业务合作与风险管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-spying-probe-raises-thorny-questions-for-its-ceo-video": {
+    "title_clean": "Nvidia：CEO黄仁勋涉嫌与中国间谍关系调查",
+    "summary": "Nvidia正在调查其CEO黄仁勋与一名涉嫌中国间谍的关系，这一事件对硅谷最知名的高管之一构成重大挑战。调查结果可能影响Nvidia的企业治理、安全合规及全球业务布局，对AI芯片巨头的高管行为规范和供应链安全具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

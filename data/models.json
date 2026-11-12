@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-11-12T15:30:24.297Z",
+  "generated_at": "2026-11-12T23:04:50.981Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "google/gemini-4-hydrogen",
+      "name": "Gemini 4 Hydrogen",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-4-hydrogen-20261112",
+      "created_at": "2026-11-12T18:01:00Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "audio",
+        "file",
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.5,
+      "price_out": 7.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 4 Hydrogen is the high-efficiency workhorse model of the Gemini 4 family from Google, built for high-throughput agentic workflows, coding and multi-model routing at lower cost and latency than...",
+      "description_zh": null
+    },
+    {
+      "id": "google/gemini-4-hydrogen:batch",
+      "name": "Gemini 4 Hydrogen (batch)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-4-hydrogen-20261112",
+      "created_at": "2026-11-12T18:01:00Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "audio",
+        "file",
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.75,
+      "price_out": 3.75,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 4 Hydrogen is the high-efficiency workhorse model of the Gemini 4 family from Google, built for high-throughput agentic workflows, coding and multi-model routing at lower cost and latency than...",
+      "description_zh": null
+    },
     {
       "id": "baidu/ernie-5.5-flash-preview:free",
       "name": "ERNIE-5.5-Flash-Preview (free)",
@@ -128,6 +182,30 @@
       "description_zh": null
     },
     {
+      "id": "thinkingmachines/inkling-2-small",
+      "name": "Inkling 2 Small",
+      "vendor": "Thinkingmachines",
+      "vendor_slug": "thinkingmachines",
+      "url": "https://openrouter.ai/thinkingmachines/inkling-2-small-20261107",
+      "created_at": "2026-11-09T22:04:07Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.3,
+      "price_out": 1,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Inkling 2 Small is an open-weight multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second...",
+      "description_zh": null
+    },
+    {
       "id": "thinkingmachines/inkling-2-small:free",
       "name": "Inkling 2 Small (free)",
       "vendor": "Thinkingmachines",
@@ -148,8 +226,8 @@
       "is_free": true,
       "supports_tools": true,
       "supports_reasoning": true,
-      "description": "Inkling 2 Small is a multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second Inkling...",
-      "description_zh": "Inkling 2 Small 是 Thinking Machines Lab 的多模态专家混合推理模型，共有 594B 个活动参数，其中有 17B 个。这是第二个 Inkling 中的第一个模型..."
+      "description": "Inkling 2 Small is an open-weight multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second...",
+      "description_zh": null
     },
     {
       "id": "anthropic/claude-fable-5.2",
@@ -525,6 +603,30 @@
       "description_zh": "Particle-1 是来自 Particle AI 的令牌高效代理编码模型，在 DeepSeek V4.1 Flash 上进行了后训练。它适用于软件工程工作，例如终端工作流程、代码库更改和数据..."
     },
     {
+      "id": "particle-ai/particle-1:free",
+      "name": "Particle-1 (free)",
+      "vendor": "Particle Ai",
+      "vendor_slug": "particle-ai",
+      "url": "https://openrouter.ai/particle-ai/particle-1-20261027",
+      "created_at": "2026-10-28T17:18:13Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Particle-1 is a token-efficient agentic coding model from Particle AI, post-trained on DeepSeek V4.1 Flash. It is suited for software engineering work such as terminal workflows, codebase changes, and data...",
+      "description_zh": "Particle-1 是来自 Particle AI 的令牌高效代理编码模型，在 DeepSeek V4.1 Flash 上进行了后训练。它适用于软件工程工作，例如终端工作流程、代码库更改和数据..."
+    },
+    {
       "id": "openai/gpt-6.1-terra-pro",
       "name": "GPT-6.1 Terra Pro",
       "vendor": "OpenAI",
@@ -642,7 +744,7 @@
         "text"
       ],
       "price_in": 0.238,
-      "price_out": 8.786,
+      "price_out": 8.411,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1341,6 +1443,29 @@
       "description_zh": "Ling 3.1 Flash是inclusionAI的混合推理混合专家模型，总共560B个活动参数，其中有25B个。"
     },
     {
+      "id": "apodex/apodex-1.1-mini:free",
+      "name": "Apodex 1.1 Mini (free)",
+      "vendor": "Apodex",
+      "vendor_slug": "apodex",
+      "url": "https://openrouter.ai/apodex/apodex-1.1-mini-20261001",
+      "created_at": "2026-10-01T17:22:15Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Apodex 1.1 Mini is a reasoning-first model from Apodex, built for complex, long-horizon research and forecasting tasks. It works directly with files, data, code, and tools to produce verifiable results,...",
+      "description_zh": "Apodex 1.1 Mini 是 Apodex 的推理优先模型，专为复杂的长期研究和预测任务而构建。它直接与文件、数据、代码和工具一起工作以产生可验证的结果，..."
+    },
+    {
       "id": "unbiased/pareto-26.10-preview",
       "name": "Pareto 26.10 Preview",
       "vendor": "Unbiased",
@@ -1363,131 +1488,6 @@
       "supports_reasoning": false,
       "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. This is a preview of the...",
       "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。这是...的预览"
-    },
-    {
-      "id": "openai/gpt-6.1-sol-pro",
-      "name": "GPT-6.1 Sol Pro",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6.1-sol-pro-20260929",
-      "created_at": "2026-09-29T17:28:06Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6.1 Sol Pro is the same underlying model as GPT-6.1 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": "GPT-6.1 Sol Pro 与 GPT-6.1 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
-    },
-    {
-      "id": "openai/gpt-6.1-sol-pro:batch",
-      "name": "GPT-6.1 Sol Pro (batch)",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6.1-sol-pro-20260929",
-      "created_at": "2026-09-29T17:28:06Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1,
-      "price_out": 5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6.1 Sol Pro is the same underlying model as GPT-6.1 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": "GPT-6.1 Sol Pro 与 GPT-6.1 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
-    },
-    {
-      "id": "openai/gpt-6.1-sol",
-      "name": "GPT-6.1 Sol",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6.1-sol-20260929",
-      "created_at": "2026-09-29T17:28:02Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6.1 Sol is an upgrade to GPT-6 Sol from OpenAI, positioned below the flagship GPT-6 Astra in the GPT-6 series. It is suited for agentic coding, computer use, document-heavy professional...",
-      "description_zh": "GPT-6.1 Sol是OpenAI对GPT-6 Sol的升级版，定位低于GPT-6系列中的旗舰产品GPT-6 Astra。它适合代理编码、计算机使用、文档密集型专业......"
-    },
-    {
-      "id": "openai/gpt-6.1-sol:batch",
-      "name": "GPT-6.1 Sol (batch)",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6.1-sol-20260929",
-      "created_at": "2026-09-29T17:28:02Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1,
-      "price_out": 5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6.1 Sol is an upgrade to GPT-6 Sol from OpenAI, positioned below the flagship GPT-6 Astra in the GPT-6 series. It is suited for agentic coding, computer use, document-heavy professional...",
-      "description_zh": "GPT-6.1 Sol是OpenAI对GPT-6 Sol的升级版，定位低于GPT-6系列中的旗舰产品GPT-6 Astra。它适合代理编码、计算机使用、文档密集型专业......"
-    },
-    {
-      "id": "anthropic/claude-sonnet-5.5",
-      "name": "Claude Sonnet 5.5",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-sonnet-5.5-20260928",
-      "created_at": "2026-09-28T18:04:46Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Sonnet 5.5 is Anthropic's Sonnet-class model for well-scoped everyday work, succeeding Claude Sonnet 5 as a direct upgrade. It is especially strong at building features, fixing bugs, and producing...",
-      "description_zh": "Claude Sonnet 5.5 是 Anthropic 的 Sonnet 级模型，适用于范围广泛的日常工作，是 Claude Sonnet 5 的直接升级版。它在构建功能、修复错误和生成...方面尤其强大。"
     }
   ]
 }

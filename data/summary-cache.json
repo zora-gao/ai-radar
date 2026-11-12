@@ -166851,5 +166851,491 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/oxagen": {
+    "title_clean": "Oxagen：Agent上下文管理工具",
+    "summary": "Oxagen是一款为AI Agent提供上下文共享与维护管理的工具，帮助Agent之间有效传递和保持信息上下文，提升多Agent协作效率，对元宝产品经理设计多Agent协作场景具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hoy-for-mac": {
+    "title_clean": "Hoy for Mac：对讲式文件传输工具",
+    "summary": "Hoy是一款Mac应用，结合了对讲机功能、AirDrop文件传输和消息功能，提供了一种新型的即时通讯与文件共享方式。产品经理可关注其创新的交互模式，为元宝在移动端文件传输和实时通讯场景提供设计参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/blendra": {
+    "title_clean": "Blendra：自动化测试工具",
+    "summary": "Blendra是一款自动化测试工具，用户只需录制一次操作流程，即可获得专属的Playwright测试项目。这为产品经理提供了简化测试流程的解决方案，有助于提高产品质量和开发效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/offstage-cloud": {
+    "title_clean": "Offstage Cloud：AI代理的按需macOS沙盒服务",
+    "summary": "Offstage Cloud提供按需macOS沙盒环境，专为AI代理设计，使AI能够在隔离的macOS环境中安全执行任务。这为AI代理提供了在macOS系统上运行的安全解决方案，对需要macOS环境支持的AI产品开发具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nameshot-2": {
+    "title_clean": "Nameshot：自动命名截图工具",
+    "summary": "Nameshot是一款自动为截图命名的工具，能够根据截图内容自动生成合适的文件名，帮助用户更高效地管理和查找截图。对于元宝产品经理来说，这反映了用户对文件管理自动化的需求，可作为AI助手在办公场景下的功能参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/infinite-drive": {
+    "title_clean": "Infinite Drive：云端无限存储流媒体工具",
+    "summary": "Infinite Drive是一款云端存储服务，通过流媒体技术为用户提供近乎无限的笔记本电脑存储空间，解决本地存储容量限制问题，对产品经理了解云存储与本地设备协同方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/foxpit": {
+    "title_clean": "Foxpit：AI代码团队协作工具",
+    "summary": "Foxpit是一个AI代码协作平台，允许用户将Claude Code、Codex和OpenCode等多个AI代码工具整合为一个团队协同工作，提升代码开发效率和质量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/leasewire": {
+    "title_clean": "LeaseWire：租赁数据抽象工具",
+    "summary": "LeaseWire是一个租赁数据抽象工具，将租赁信息与AI模型连接，帮助用户处理和分析租赁相关数据。产品经理可关注其如何将结构化租赁数据与AI模型结合，为元宝在房产租赁或资产管理场景中提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sluice-2": {
+    "title_clean": "Sluice：Mac多Agent并行开发工具",
+    "summary": "Sluice是一款在Mac平台上运行的工具，支持同时运行20个AI Agent，为开发者提供并行任务处理能力。这反映了AI Agent在提升开发效率方面的应用趋势，对元宝产品经理了解多Agent协作场景和性能优化有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yogurt": {
+    "title_clean": "Yogurt：Granola 开源替代工具",
+    "summary": "Yogurt 是一款免费、私有的开源工具，作为 Granola 的替代方案。对于关注隐私保护和开源解决方案的产品经理来说，这代表了一个潜在的用户需求方向，特别是在数据隐私日益重要的背景下。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mang-sh": {
+    "title_clean": "mang.sh：自然语言转终端命令工具",
+    "summary": "mang.sh是一款将自然语言转换为终端命令的工具，帮助用户通过自然语言输入直接生成可执行的命令行操作，简化了技术人员的命令行操作流程，对元宝产品经理在AI助手自然语言处理能力扩展方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/three-dev": {
+    "title_clean": "three.dev：AI Agent缺陷检测工具",
+    "summary": "three.dev是一款帮助开发者提前发现AI Agent缺陷的工具，能够在用户发现问题前识别AI助手的功能漏洞和失败点，为产品经理提供提升AI助手稳定性和用户体验的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/adobe-ai-assistant": {
+    "title_clean": "Adobe AI Assistant：跨应用AI创作编辑助手",
+    "summary": "Adobe推出AI Assistant功能，可在Adobe应用中实现更快速的内容创建和编辑。这一工具将AI能力整合到Adobe全家桶产品中，为内容创作者提供智能化辅助，对元宝产品经理在AI助手与专业软件集成方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gnista": {
+    "title_clean": "Gnista：AI 编程代理管理工具",
+    "summary": "Gnista 是一款编程代理管理工具，允许用户同时运行多个 AI 编程代理，而无需实时监控每个代理的执行过程。该工具可能帮助开发者提高编程效率，减少多任务处理时的认知负担，对元宝在 AI 辅助编程场景的产品设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/airwave-2": {
+    "title_clean": "AirWave：苹果设备互联网电台工具",
+    "summary": "AirWave是一款专为苹果设备设计的互联网电台应用，可在所有苹果设备上使用。该产品为元宝产品经理提供了在多平台音频服务场景下的参考价值，特别是在苹果生态内的多设备协同服务方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/for-nvidia-ceo-huang-the-journey-is-the-destination-video": {
+    "title_clean": "英伟达CEO黄仁勋反思公司上市历程",
+    "summary": "英伟达CEO黄仁勋在Bloomberg采访中回顾公司上市历程、初始估值及担任CEO的经历。作为AI芯片领域的领导者，他的创业历程和战略思考对AI硬件产品经理具有重要参考价值，特别是在AI基础设施布局和长期战略规划方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-11-12/apple-homeview-review-it-s-a-latecomer-but-the-ecosystem-integration-is-a-plus": {
+    "title_clean": "Apple HomeView：智能显示设备评测",
+    "summary": "Apple推出智能显示设备HomeView，虽无突破性创新，但与Apple生态系统良好集成，操作体验熟悉流畅，适合Apple用户使用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/jensen-huang-face-of-the-ai-boom-ousted-by-nvidia-board-as-ceo": {
+    "title_clean": "黄仁勋被Nvidia董事会罢免CEO职务",
+    "summary": "Nvidia CEO黄仁勋，AI基础设施热潮的代表人物，因被曝出两起婚外情事件（其中一名女性涉嫌相关行为）被董事会罢免职务。这一高管变动可能影响Nvidia在AI芯片市场的战略方向和产品路线。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/huang-says-not-my-job-to-agree-or-disagree-with-trump-video": {
+    "title_clean": "Nvidia CEO黄仁勋回应与特朗普关系及超级智能定义",
+    "summary": "Nvidia CEO黄仁勋在接受彭博社采访时谈及与美国总统特朗普的关系，并就'超级智能'一词的定义发表看法。作为AI芯片行业领袖，他的观点可能影响AI技术发展方向和政策环境，对元宝产品经理了解行业领袖立场和AI监管趋势有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/hubspot-replaces-ceo-and-cfo-in-refounding-of-software-company": {
+    "title_clean": "HubSpot更换CEO和CFO：AI时代软件公司管理重组",
+    "summary": "HubSpot更换CEO和CFO，成为AI时代软件公司重大管理变革的最新案例。这一管理重组反映了传统软件公司在AI转型期的战略调整，对元宝产品经理了解AI行业管理变革趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-considers-huang-s-future-after-affair-video": {
+    "title_clean": "Nvidia 寻找黄仁宗继任者",
+    "summary": "Nvidia 正在为其传奇CEO黄仁宗寻找继任者，这是全球最有价值芯片制造商面临的艰巨挑战。这一人事变动可能对AI芯片行业格局产生重大影响，对元宝产品经理了解AI硬件生态变化和供应链稳定性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch": {
+    "title_clean": "创始人如何降低平台风险以避免威胁增长",
+    "summary": "文章指出创始人应将应用商店依赖视为基础设施风险，因为平台突然移除可能导致客户访问、订阅和收入中断，且缺乏可靠恢复路径。这对产品经理评估平台依赖风险和制定业务连续性计划有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains": {
+    "title_clean": "Meta：数据中心供应链引入清洁制造协议",
+    "summary": "Meta与低碳生产商签订长期采购协议，将清洁制造引入数据中心供应链，旨在为行业树立新标准。此举对产品经理有参考价值，展示了科技巨头在可持续发展方面的战略布局，可能影响未来数据中心建设和供应链管理的环保标准。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/customer-stories/holidays-extras-codex": {
+    "title_clean": "Holiday Extras：利用Codex提升客户体验与预订转化",
+    "summary": "Holiday Extras利用Codex技术将客户专业知识转化为更好的应用体验，提高预订转化率，并探索新的增长可能性。这对产品经理有参考价值，展示了如何将AI技术应用于提升客户体验和业务转化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/the-nvidia-board-members-who-will-decide-jensen-huang-s-fate": {
+    "title_clean": "英伟达董事会将决定黄仁勋命运",
+    "summary": "英伟达董事会正在开会讨论CEO黄仁勋的命运，此前有报道称他有多段婚外情，其中包括与一名被怀疑有不当行为的女性。这可能导致公司领导层变动，对AI芯片巨头的管理稳定性产生影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors": {
+    "title_clean": "英伟达CEO接班人猜想：无继任计划下的潜在人选",
+    "summary": "英伟达缺乏明确的CEO继任计划，且现任CEO黄仁勋面临争议，文章列出了可能的接班人名单。对元宝产品经理的参考价值在于了解AI硬件巨头领导层变动可能带来的战略方向变化，以及这对AI芯片和计算生态的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-to-decide-on-jensen-huang-s-fate-video": {
+    "title_clean": "Nvidia CEO黄仁勋去留问题将决定",
+    "summary": "Nvidia董事会正与外部公司合作，寻找CEO黄仁勋的潜在继任者，此前有报道称黄仁勋涉及多起婚外情事件。这一高管变动可能影响Nvidia的战略方向和AI芯片业务，对关注AI行业高管变动和公司治理的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing": {
+    "title_clean": "涉嫌中国间谍事件：Nvidia CEO面临调查风暴",
+    "summary": "涉嫌中国间谍事件的核心人物已返回中国，该事件威胁到Nvidia CEO黄仁勋的职位。这一事件可能对Nvidia的商业运营和AI芯片供应链产生重大影响，对产品经理了解地缘政治对AI硬件企业的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidia-ceos-exit-looms": {
+    "title_clean": "Nvidia CEO或将离职：黄仁勋任期或结束",
+    "summary": "据多方报道，英伟达董事会正在开会讨论CEO黄仁勋的未来，其担任CEO的任期可能即将结束。这一人事变动可能对AI芯片行业格局及英伟达在AI领域的领导地位产生影响，值得产品经理关注行业领导层变化带来的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/3d-lora-finetuning": {
+    "title_clean": "3D生成模型微调指南",
+    "summary": "该指南详细介绍了如何对3D生成模型进行微调，涵盖了技术方法和最佳实践。对于元宝产品经理而言，这有助于了解AI在3D内容生成领域的前沿技术进展，可能启发产品在多模态交互或创意工具方向的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/pHbxUJn7v85edr8BtBErcw": {
+    "title_clean": "具身出海，菜鸟先飞",
+    "summary": "该资讯标题简短，仅提及'具身出海，菜鸟先飞'，未提供具体产品信息或详细描述。由于信息不足，无法判断其与元宝产品经理的业务相关性，也无法评估其对产品方向的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec": {
+    "title_clean": "英伟达CEO黄仁勋被曝与公司高管存在不正当关系",
+    "summary": "英伟达CEO黄仁勋此前因承认与中国情报人员有关联的女性存在婚外情而受到批评，现又被曝出与公司一名下属存在不正当关系。此事件可能对英伟达的企业形象和内部管理带来负面影响，值得企业高管和公关团队关注。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/stocks-slide-as-ai-trade-roars-back-closing-bell-video": {
+    "title_clean": "AI交易热潮推动股市波动 | 收盘综述",
+    "summary": "Bloomberg报道美国股市收盘情况，分析AI交易热潮如何影响市场表现。节目涵盖多平台内容，由多位财经主持人共同解读AI相关交易活动对股市的近期影响，为产品经理提供AI投资行为与市场波动的关联参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/most-valuable-vertical-ai-research-lab-model-ownership": {
+    "title_clean": "垂直AI公司自研模型趋势：30家高估值企业中14家已训练自有模型",
+    "summary": "研究显示，30家高估值垂直AI公司中近半数(14家)已公开披露训练自有模型，表明垂直AI领域正向研究实验室模式转变，这对元宝产品经理评估技术路线和竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/observing-distortions-in-ai-market-sixth-street-s-ceo-video": {
+    "title_clean": "Sixth Street创始人谈AI市场扭曲现象",
+    "summary": "Sixth Street联合创始人兼CEO Alan Waxman在彭博社访谈中讨论了AI投资周期、信贷市场和体育投资，揭示了当前AI市场可能存在的扭曲现象，为产品经理提供了投资视角的市场洞察。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth": {
+    "title_clean": "Databricks：AI助手向CEO提供真实反馈",
+    "summary": "Databricks推出AI助手，帮助CEO了解公司内部真实情况。该工具可收集员工反馈，解决大型组织中信息传递不畅的问题，为企业管理层提供决策支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/h1sWVA9j9L7auQvjpX3H8w": {
+    "title_clean": "Einsia AI：WorkflowArena多智能体工作流评估平台",
+    "summary": "Einsia AI发布WorkflowArena，这是行业首个多智能体工作流评估平台，用于测试和评估AI Agent在复杂任务中的协作能力。该平台为产品经理提供了评估AI Agent系统性能的新工具，有助于提升多智能体协作场景的产品设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m": {
+    "title_clean": "Oura：以6.25亿美元收购AI原生初级医疗初创公司Counsel Health",
+    "summary": "Oura以6.25亿美元收购AI原生初级医疗公司Counsel Health，此次交易发生在Oara推迟高达22亿美元IPO几周后。这反映了健康科技领域AI原生医疗服务的价值增长，以及公司在资本市场不确定性下的战略调整。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/gating-memorization-in-context": {
+    "title_clean": "状态空间模型中的记忆与上下文学习重要性研究",
+    "summary": "该研究探讨了状态空间模型(SSMs)作为Transformer替代方案的性能特点，分析了记忆与上下文学习在SSMs中的权衡关系，对AI模型架构选择具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-10/former-fed-s-evans-ai-boom-adds-to-inflation-risks-video": {
+    "title_clean": "前美联储主席埃文斯：AI热潮加剧通胀风险",
+    "summary": "前芝加哥联储主席查尔斯·埃文斯表示，AI基础设施热潮正在增加需求，可能使通胀更难回到目标水平。他认为美联储已为12月利率调整做好准备，这一观点对AI行业经济环境评估有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

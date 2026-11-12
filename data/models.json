@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T06:16:36.085Z",
+  "generated_at": "2026-11-12T15:30:24.297Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -642,7 +642,7 @@
         "text"
       ],
       "price_in": 0.238,
-      "price_out": 8.409,
+      "price_out": 8.786,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -714,8 +714,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -738,8 +738,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
-      "price_out": 1.2,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -762,10 +762,10 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.011,
-      "price_out": 0.2,
+      "price_in": 0.05,
+      "price_out": 0.15,
       "is_free": false,
-      "supports_tools": true,
+      "supports_tools": false,
       "supports_reasoning": true,
       "description": "DeepSeek V4.1 Flash 1017 is the October 17, 2026 snapshot of DeepSeek V4.1 Flash, served by DeepSeek under the deepseek-flash API model name. V4.1 Flash is a sparse mixture-of-experts model...",
       "description_zh": "DeepSeek V4.1 Flash 1017 是 DeepSeek V4.1 Flash 于 2026 年 10 月 17 日发布的快照，由 DeepSeek 以 deepseek-flash API 模型名称提供服务。 V4.1 Flash 是一个稀疏的专家混合模型......"

@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-13T12:57:40.317Z",
+  "generated_at": "2026-11-13T20:14:00.395Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "inclusionai/ling-3.2-flash:free",
+      "name": "Ling 3.2 Flash (free)",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/ling-3.2-flash-20261113",
+      "created_at": "2026-11-13T17:45:58Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Ling 3.2 Flash is a hybrid reasoning model from inclusionAI that accepts text and image input, with a 1M-token context window and up to 200 images per request. Thinking can...",
+      "description_zh": null
+    },
     {
       "id": "google/gemini-4-hydrogen",
       "name": "Gemini 4 Hydrogen",
@@ -816,8 +840,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1465,31 +1489,6 @@
       "supports_reasoning": false,
       "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. This is a preview of the...",
       "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。这是...的预览"
-    },
-    {
-      "id": "openai/gpt-6.1-sol-pro",
-      "name": "GPT-6.1 Sol Pro",
-      "vendor": "OpenAI",
-      "vendor_slug": "openai",
-      "url": "https://openrouter.ai/openai/gpt-6.1-sol-pro-20260929",
-      "created_at": "2026-09-29T17:28:06Z",
-      "context_length": 1050000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "file",
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "GPT-6.1 Sol Pro is the same underlying model as GPT-6.1 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": "GPT-6.1 Sol Pro 与 GPT-6.1 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     }
   ]
 }

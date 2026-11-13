@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T03:35:37.326Z",
+  "generated_at": "2026-11-13T12:57:40.317Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -396,7 +396,7 @@
       "price_in": 0.2,
       "price_out": 0.8,
       "is_free": false,
-      "supports_tools": false,
+      "supports_tools": true,
       "supports_reasoning": true,
       "description": "Mi:dm K 3.0 Pro is a Mixture-of-Experts reasoning model from KT, with 120B total and 12B active parameters. It uses a hybrid architecture that mixes Mamba, MoE and attention layers.",
       "description_zh": null
@@ -498,8 +498,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.2,
-      "price_out": 0.6,
+      "price_in": 0.1,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -548,7 +548,7 @@
       "price_in": 0.3,
       "price_out": 1.2,
       "is_free": false,
-      "supports_tools": false,
+      "supports_tools": true,
       "supports_reasoning": true,
       "description": "Motif 3 is a Mixture-of-Experts language model from Motif Technologies, with 314B total and 13.2B active parameters. It is a general-purpose multilingual model for English and Korean, particularly strong at...",
       "description_zh": null
@@ -743,8 +743,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.238,
-      "price_out": 8.411,
+      "price_in": 2,
+      "price_out": 10,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -840,8 +840,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
-      "price_out": 1.2,
+      "price_in": 0.038,
+      "price_out": 0.5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1443,29 +1443,6 @@
       "description_zh": "Ling 3.1 Flash是inclusionAI的混合推理混合专家模型，总共560B个活动参数，其中有25B个。"
     },
     {
-      "id": "apodex/apodex-1.1-mini:free",
-      "name": "Apodex 1.1 Mini (free)",
-      "vendor": "Apodex",
-      "vendor_slug": "apodex",
-      "url": "https://openrouter.ai/apodex/apodex-1.1-mini-20261001",
-      "created_at": "2026-10-01T17:22:15Z",
-      "context_length": 262144,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Apodex 1.1 Mini is a reasoning-first model from Apodex, built for complex, long-horizon research and forecasting tasks. It works directly with files, data, code, and tools to produce verifiable results,...",
-      "description_zh": "Apodex 1.1 Mini 是 Apodex 的推理优先模型，专为复杂的长期研究和预测任务而构建。它直接与文件、数据、代码和工具一起工作以产生可验证的结果，..."
-    },
-    {
       "id": "unbiased/pareto-26.10-preview",
       "name": "Pareto 26.10 Preview",
       "vendor": "Unbiased",
@@ -1488,6 +1465,31 @@
       "supports_reasoning": false,
       "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. This is a preview of the...",
       "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。这是...的预览"
+    },
+    {
+      "id": "openai/gpt-6.1-sol-pro",
+      "name": "GPT-6.1 Sol Pro",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.1-sol-pro-20260929",
+      "created_at": "2026-09-29T17:28:06Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.1 Sol Pro is the same underlying model as GPT-6.1 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": "GPT-6.1 Sol Pro 与 GPT-6.1 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     }
   ]
 }

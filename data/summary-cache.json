@@ -168535,5 +168535,578 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/stockrip": {
+    "title_clean": "StockRip：股票代币化数字卡片交易平台",
+    "summary": "StockRip是一个创新平台，将股票代币化为数字收藏卡片，用户可以交易这些代表实际股票的数字卡片。这种形式结合了股票投资与数字收藏概念，为产品经理提供了将金融产品游戏化、年轻化的新思路，可能启发元宝在金融知识普及或投资教育场景的创新设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pocket-studio-for-supabase": {
+    "title_clean": "Pocket Studio for Supabase：Android端Supabase仪表盘与SQL编辑器",
+    "summary": "这是一款专为Android设备设计的Supabase管理工具，提供仪表盘界面和SQL编辑功能，方便开发者在移动端直接操作Supabase数据库。对于元宝产品经理而言，这反映了AI服务在移动端数据库管理场景的应用可能性，以及开发者对轻量化、跨平台工具的需求。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/replicate-10": {
+    "title_clean": "Replicate：Webflow/Framer转Claude/Codex项目工具",
+    "summary": "Replicate提供免费服务，可将Webflow和Framer应用转换为Claude或Codex项目，帮助开发者在不同平台间迁移工作流，为AI工具集成和跨平台协作提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hoverine": {
+    "title_clean": "Hoverine：Rive动画模板工具",
+    "summary": "Hoverine提供Rive动画模板，开发者可直接将其集成到应用中，简化动画开发流程。这为元宝产品经理提供了在AI助手界面中引入动态交互元素的参考方案，可能提升用户体验的丰富度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gatrends": {
+    "title_clean": "GAtrends：关键词趋势监控工具",
+    "summary": "GAtrends是一款关键词趋势监控工具，可在Telegram、Claude和ChatGPT中提供关键词的Spike警报，帮助用户实时追踪特定话题的热度变化，对产品经理了解用户关注点和市场趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/paxper": {
+    "title_clean": "Paxper：云基础设施可视化创建工具",
+    "summary": "Paxper是一款云基础设施可视化创建工具，允许用户通过图形界面创建和管理云基础设施，并能审查每一次变更。对于元宝产品经理而言，这展示了AI在简化复杂技术操作方面的应用场景，可能启发AI助手在技术管理领域的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-6": {
+    "title_clean": "Gemini 4 Hydrogen：AI编程助手开发工具",
+    "summary": "Gemini 4 Hydrogen是一款面向开发者的AI编程助手开发工具，专注于加速智能代理(Agent)的开发流程。该工具可能提供代码生成、调试和自动化功能，帮助开发者快速构建AI驱动的编程助手，对元宝产品经理在AI Agent开发领域具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/burnstate": {
+    "title_clean": "Burnstate：AI 编程工具菜单栏限制监控工具",
+    "summary": "Burnstate 是一款菜单栏工具，用于监控 Claude Code、Codex 和 Cursor 等 AI 编程工具的使用限制情况，帮助开发者实时了解各工具的配额状态，避免因超出限制而中断工作流程。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/willo-2": {
+    "title_clean": "Willo：游戏语音聊天AI助手",
+    "summary": "Willo是一款专为《魔兽世界》玩家设计的AI语音聊天助手，可在游戏过程中提供对话陪伴功能。这款产品针对游戏社交场景，通过AI语音交互增强玩家体验，对元宝在游戏垂直领域AI助手开发具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/trainn": {
+    "title_clean": "Trainn MCP：AI聊天内容生成产品视频与课程工具",
+    "summary": "Trainn MCP是一款能将AI聊天对话转化为产品视频和课程的工具，帮助用户快速将交互式对话内容转化为结构化教学材料，对元宝产品经理在内容生成和知识服务场景开发方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aven-app-agent": {
+    "title_clean": "Aven App Agent：应用内AI引导助手",
+    "summary": "Aven是一款AI应用内引导助手，能够帮助用户更好地理解和使用应用程序的功能。对于元宝产品经理而言，这类工具可参考如何优化AI助手在特定应用场景下的引导能力，提升用户对复杂功能的理解和使用效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-france-pledges-remain-intact-varza-video": {
+    "title_clean": "Nvidia法国承诺保持不变：Varza",
+    "summary": "Station F负责人Roxanne Varza表示，在黄仁勋离开后，法国创始人仍普遍感到安心，没有迹象表明Nvidia最近的投资承诺正在被撤回。这对关注Nvidia在欧洲战略布局的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/paytm-wins-india-central-bank-s-conditional-nod-to-revive-wallet": {
+    "title_clean": "Paytm获印度央行条件性批准重启数字钱包业务",
+    "summary": "印度数字支付公司Paytm获得印度央行条件性批准，可重新运营其数字钱包业务，这将帮助这家支付公司重启高利润收入引擎。这对元宝产品经理了解支付行业监管动态和商业模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/uk-retailers-are-hiring-for-ai-and-pulling-back-on-other-roles": {
+    "title_clean": "英国零售业增加AI岗位招聘，减少其他职位",
+    "summary": "英国大型零售商正在增加人工智能和技术岗位的招聘，同时因成本上升减少其他领域职位的招聘，包括店内员工。这一趋势表明零售业正在加速AI技术应用，可能影响未来服务模式和就业结构，对元宝在零售场景的AI应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-ai-chip-share-set-to-shrink-akarca-video": {
+    "title_clean": "Nvidia的AI芯片市场份额将下降：Akarca",
+    "summary": "Callosum联合创始人Dan Akarca表示，Nvidia将在短期内保持主导地位，但随着更多专业化AI芯片的出现，其市场份额可能下降。他提到Callosum的软件可以引导AI芯片选择，这对产品经理了解AI芯片市场格局变化和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-clearquote": {
+    "title_clean": "CEO Interview: ClearQuote",
+    "summary": "ClearQuote CEO Venkat Sreeram接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家专注于保险报价服务的公司，其CEO的市场洞察对元宝在服务场景拓展和商业化策略方面具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/goldman-sees-s-p-500-rising-14-on-cheap-hyperscaler-valuations": {
+    "title_clean": "高盛预测标普500指数将上涨14%，超大规模科技公司估值低迷",
+    "summary": "高盛集团策略师看好美国股市2027年前景，预计在大型科技公司股价下跌后，标普500指数将在未来一年上涨14%。这一预测基于超大规模科技公司估值低迷的市场状况，对AI产品经理了解科技行业投资趋势和市场估值变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/alice-huang-firm-procured-banned-nvidia-chips-in-china-video": {
+    "title_clean": "Alice Huang公司在中国采购禁售英伟达芯片",
+    "summary": "一家由Alice Huang创立的中国公司通过走私渠道获取了被禁售的英伟达AI芯片，并安装在上海与Megaspee有关联的数据中心。这反映了英伟达芯片禁令执行中的漏洞，以及中国AI企业对高端芯片的迫切需求，对元宝产品经理了解全球AI供应链限制和市场应对策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/microsoft-struggles-to-restore-access-to-software-video": {
+    "title_clean": "Microsoft软件服务大规模中断事件",
+    "summary": "Microsoft旗舰软件服务出现严重中断，导致用户无法访问邮件和聊天服务，公司正紧急修复此次大规模故障。此次事件对AI服务提供商的系统稳定性和灾备能力具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-revellion-marketing": {
+    "title_clean": "Revellion Marketing CEO访谈：市场定位与客户需求分析",
+    "summary": "Revellion Marketing首席执行官Glenn Donaldson接受CB Insights采访，分享公司对市场的看法、客户需求分析及公司定位。内容包含市场定义和战略方向，对了解营销行业趋势和企业决策有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/talks-on-spacex-tesla-deal-said-to-advance-video": {
+    "title_clean": "SpaceX与特斯拉合并谈判进展：可能重塑全球商业格局",
+    "summary": "SpaceX与特斯拉正在推进合并谈判，这可能成为重塑全球商业格局的交易。埃隆·马斯克旗下两大公司的潜在合并将对科技行业产生重大影响，值得产品经理关注跨界整合趋势与商业模式的创新可能性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-outage-gums-up-markets-forces-traders-to-use-phones": {
+    "title_clean": "Microsoft全球服务中断：交易员被迫回归传统通讯方式",
+    "summary": "Microsoft全球性服务中断导致交易员被迫使用电话、WhatsApp甚至传真机进行业务往来，这一事件凸显了企业对云服务的过度依赖风险，对元宝产品经理思考服务可靠性和备用方案具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/articles/abrupt-end-nvidias-jensen-drama-leaves-unanswered-questions": {
+    "title_clean": "英伟达CEO黄仁勋突然辞职事件：行业震动与未来不确定性",
+    "summary": "英伟达CEO黄仁勋突然辞职引发行业震动，这一重大人事变动将影响AI芯片市场格局和英伟达战略方向，对AI硬件供应链和AI服务提供商的产品规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/abrupt-end-nvidias-jensen-drama-leaves-unanswered-questions": {
+    "title_clean": "英伟达CEO黄仁勋突然离职事件：行业震动与未来不确定性",
+    "summary": "英伟达CEO黄仁勋突然宣布离职，这一消息震惊科技行业。作为AI芯片领域的关键人物，他的离职可能对AI硬件供应链和英伟达的产品战略产生重大影响，值得产品经理关注AI基础设施领域的潜在变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/can-huang-s-exit-create-chip-competition-video": {
+    "title_clean": "黄仁勋离职能否引发芯片竞争",
+    "summary": "英伟达CEO黄仁勋离职引发业界关注，竞争对手能否借此削弱英伟达在AI半导体市场的主导地位。这一动向可能影响AI芯片市场格局，对AI硬件供应商和依赖AI芯片的AI产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump": {
+    "title_clean": "民主党启动英伟达调查，就黄仁勋与特朗普'计划'致严厉信函",
+    "summary": "美国民主党对英伟达向中国销售及其与特朗普交易展开第二次国会调查，此前 alleged 间谍事件引发关注。此次调查可能影响英伟达在华业务及AI芯片供应链，对AI硬件供应商政策风险和全球化战略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/what-jensen-huang-s-exit-means-for-nvidia-video": {
+    "title_clean": "黄仁勋离职对英伟达的影响",
+    "summary": "英伟达CEO黄仁勋因婚外情及涉嫌与中国间谍关系而突然辞职，这一事件可能对英伟达的AI战略和领导层稳定性产生影响，对AI行业格局和供应链关系值得关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/briefings/spacex-tesla-announce-merger-soon-december": {
+    "title_clean": "SpaceX与特斯拉或于12月宣布合并",
+    "summary": "据彭博社报道，埃隆·马斯克旗下的SpaceX和特斯拉可能最早于下个月宣布合并。这一合并将把市值1.9万亿美元的火箭和卫星制造商与市值1.5万亿美元的汽车制造商结合，可能对AI助手和自动驾驶领域产生重大影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/briefings/nvidia-will-continue-investigation-former-ceo-alleged-chinese-spy": {
+    "title_clean": "Nvidia将调查前CEO与疑似中国间谍事件",
+    "summary": "Nvidia计划继续调查前CEO黄仁勋是否成为外国情报行动的目标，该调查与黄仁勋和一名涉嫌为中国间谍的人员有关。此事件可能影响公司高层安全策略及AI行业国际关系，对产品经理评估企业安全风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports": {
+    "title_clean": "英伟达CEO黄仁勋被曝第三段婚外情",
+    "summary": "路透社报道称英伟达CEO黄仁勋存在第三段婚外情，但未透露相关女员工姓名。此消息可能影响英伟达企业形象和高层管理稳定性，对产品经理评估企业领导力风险有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/bill-simmons-canceled-chatgpt-partnership-after-fan-backlash": {
+    "title_clean": "Bill Simmons取消与ChatGPT合作：因粉丝抵制",
+    "summary": "知名播客主持人Bill Simmons因粉丝强烈反对而终止了与ChatGPT的合作计划。这反映了部分用户对AI技术推广的抵触情绪，提示产品经理在AI商业化过程中需重视用户接受度与品牌合作风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-ai-industry-face-future-without-jensen-huang-video": {
+    "title_clean": "Nvidia：AI行业面临黄仁勋时代结束的挑战",
+    "summary": "彭博社指出，尽管Nvidia能在CEO黄仁勋离任后继续生存，但公司能否保持同样的繁荣水平存疑，特别是黄仁勋与全球客户和合作伙伴的深厚关系难以替代。这对AI硬件行业格局和元宝等AI产品供应链可能产生深远影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-10b-anthropic-ipo-pledge-in-focus-as-ceo-exits-video": {
+    "title_clean": "NVIDIA向Anthropic承诺100亿美元投资，CEO离职引发关注",
+    "summary": "NVIDIA承诺向Anthropic提供100亿美元投资支持其IPO计划，Anthropic CEO的离职使这一备受瞩目的上市计划受到重新审视。这对AI行业格局和大型模型公司融资动向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/briefings/ex-nvidia-ceo-huang-hires-lawyers": {
+    "title_clean": "前英伟达CEO黄仁勋聘请律师应对丑闻",
+    "summary": "英伟达前CEO黄仁勋因涉嫌与多名女性有染的丑闻辞职后，已聘请知名律师事务所Paul Weiss应对相关法律问题。这一高管变动事件可能对英伟达的公司治理和AI行业领导力产生影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands": {
+    "title_clean": "Nectar：AI创作者发现与营销自动化工具",
+    "summary": "Nectar推出AI代理工具，帮助品牌自动发现创作者、管理合作推广并追踪营销效果，简化品牌与内容创作者的对接流程，为AI在营销自动化领域的应用提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": {
+    "title_clean": "LLMON：LLM原生标记语言，现已集成于Granite 4.1 3B和8B模型",
+    "summary": "LLMON是一种专为大型语言模型设计的原生标记语言，现已集成到IBM的Granite 4.1 3B和8B模型中。这一技术可能提升AI模型的结构化处理能力，为元宝产品在结构化数据处理和模型交互方面提供新的技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/-dark-day-silicon-valley-mourns-nvidia-s-decision-to-oust-ceo": {
+    "title_clean": "英伟达CEO黄仁勋被罢免引发硅谷震动",
+    "summary": "英伟达CEO黄仁勋被罢免的消息在硅谷引发强烈反响，多位风险投资家和创始人对此决定提出批评。这一高管变动可能对AI芯片行业格局和英伟达的产品战略产生重大影响，值得AI硬件和芯片相关产品经理高度关注。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/articles/free-chinese-ai-can-hack-companies-frontier-developers-face-diminishing-returns": {
+    "title_clean": "免费中国AI工具可入侵企业网络",
+    "summary": "以色列初创公司Tenzai联合创始人表示，可免费下载的中国AI工具已具备足够强大的能力，能够入侵企业网络。这反映了AI安全威胁的新趋势，对元宝产品经理评估AI安全防护能力和风险防控具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/articles/interim-nvidia-ceo-colette-kress-tried-tame-nvidias-riskiest-bets": {
+    "title_clean": "英伟达任命CFO科莱特·克雷斯为临时CEO",
+    "summary": "英伟达任命长期担任首席财务官的科莱特·克雷斯为临时CEO，她将引导公司度过由风险投资和不确定性带来的困境。这一人事变动对AI芯片行业和英伟达的产品战略具有重要参考价值，反映了公司在AI领域风险管控的调整方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/articles/run-process-improvement-analysis-google-gemini": {
+    "title_clean": "Run a Process Improvement Analysis with Google Gemini：企业流程优化分析工具",
+    "summary": "Google Gemini推出企业流程优化分析功能，帮助识别复杂业务流程中的瓶颈和低效环节。该工具可协助企业梳理随规模扩张而变得臃肿的流程，提升运营效率，对元宝产品经理了解AI在企业服务场景的应用价值具有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/briefings/alice-huang-barred-re-entering-singapore-lying-authorities": {
+    "title_clean": "Alice Huang因向当局撒谎被禁止再次进入新加坡",
+    "summary": "黄爱丽（Alice Huang）是英伟达丑闻中被指认的中国间谍，因在调查中向新加坡当局提供不实信息而被禁止再次入境。此事件涉及科技企业安全与地缘政治风险，对产品经理了解跨国科技公司的合规风险与安全管控有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/articles/nvidia-ceo-jensen-huang-resigns-creating-uncertainty-ai-sector": {
+    "title_clean": "Nvidia CEO黄仁勋辞职，引发AI行业不确定性",
+    "summary": "Nvidia CEO兼创始人黄仁勋突然辞职，这一事件动摇了全球第二大公司及AI经济基础。作为AI芯片领域的核心人物，他的离职可能对AI产业链产生重大影响，元宝产品经理需关注这一变化对AI硬件供应链和行业格局的潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule": {
+    "title_clean": "美国商务部拟出台AI远程访问新规",
+    "summary": "美国商务部正制定一项期待已久的新规，旨在阻止中国AI企业通过海外数据中心远程访问先进AI芯片。这一政策将直接影响全球AI芯片供应链和AI企业的国际业务布局，对元宝产品经理评估国际市场准入策略和合规风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/children-first-declaration": {
+    "title_clean": "OpenAI投入200万美元研究AI与儿童安全",
+    "summary": "OpenAI承诺投入200万美元用于研究AI与儿童安全，支持开发共享工具以评估AI对青少年的风险与机遇。这反映了AI企业在儿童保护方面的责任担当，对元宝在安全机制设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect": {
+    "title_clean": "纽约AI安全法生效：OpenAI和Anthropic面临新监管要求",
+    "summary": "纽约州开始实施全面的AI安全法，要求OpenAI和Anthropic等主要开发者进行注册、披露安全实践并报告关键事件，否则将面临罚款。这标志着AI监管进入新阶段，对产品经理了解合规要求和行业监管趋势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/thailand-sets-70-decibel-noise-heat-limits-for-data-centers": {
+    "title_clean": "泰国为数据中心设定70分贝噪音和热量限制",
+    "summary": "泰国对数据中心实施新的噪音、热量和水资源规定，为快速扩张的人工智能投资行业设定具体环境限制。这一政策反映了AI基础设施扩张带来的环境挑战，对元宝产品经理评估AI服务部署的物理环境合规性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

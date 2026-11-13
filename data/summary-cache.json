@@ -168155,5 +168155,385 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/china-chipmaker-sigmastar-said-to-plan-300-million-hk-listing": {
+    "title_clean": "中国AI芯片厂商SigmaStar计划在香港上市融资3亿美元",
+    "summary": "中国AI芯片制造商SigmaStar Technology计划今年在香港上市，最多融资3亿美元。这反映了AI芯片领域的资本活跃度，对元宝产品经理了解AI硬件供应链和芯片技术商业化趋势有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skysoon": {
+    "title_clean": "Skysoon：天气时间线与倒计时工具",
+    "summary": "Skysoon是一款天气应用，提供美观的时间线展示和未来天气事件的倒计时功能，帮助用户直观了解天气变化趋势和重要天气事件的时间节点，对元宝在天气服务场景的交互设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/microsoft-labors-fix-long-outage-office-outlook-copilot": {
+    "title_clean": "Microsoft修复Office、Outlook和Copilot长时间服务中断",
+    "summary": "Microsoft经历了一次长达六小时的服务中断，影响了Office、Outlook和Copilot等核心服务。此次事件突显了企业级AI服务稳定性的重要性，对元宝产品经理在服务可靠性和故障恢复机制设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/berkshire-pays-more-to-borrow-in-japan-on-182-billion-deal": {
+    "title_clean": "巴菲特公司日本债券融资成本上升",
+    "summary": "巴菲特旗下伯克希尔哈撒韦公司在日本发行1823亿日元债券，融资成本较4月份上升，多个期限债券利差扩大。这反映了当前国际金融市场环境变化，对元宝产品经理评估全球金融信息处理和投资决策支持场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/spacefast-by-automattic": {
+    "title_clean": "Spacefast by Automattic：AI Agent 开发部署平台",
+    "summary": "Automattic 推出 Spacefast 平台，为 AI Agent 提供构建、运行和部署的一站式解决方案。这为元宝产品经理提供了 AI Agent 开发基础设施的参考，可能影响元宝 Agent 产品的部署策略和开发流程设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia": {
+    "title_clean": "Inside Jensen Huang's Final Hours as the CEO of Nvidia：英伟达CEO黄仁勋卸任前最后时刻",
+    "summary": "这篇报道讲述了英伟达CEO黄仁勋卸任前的最后时刻，描述了他面对指控时的状态和情绪变化。作为AI芯片行业的关键人物，他的离职可能对AI硬件供应链和AI助手产品的发展方向产生影响，值得产品经理关注行业领导层变动带来的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/uber-shopping-list": {
+    "title_clean": "Uber收购潮：4家值得收购的潜在目标公司",
+    "summary": "Uber近期收购活跃，上月以23亿美元收购餐饮平台ezCater，今年已完成9笔收购。文章分析了Uber的收购策略及4家值得关注的潜在收购目标，对理解Uber业务扩张方向和出行平台生态构建有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-worth": {
+    "title_clean": "Anthropic估值分析：投资者评估AI巨头价值",
+    "summary": "投资者在分析英伟达CEO黄仁勋离职对AI建设的影响的同时，也在评估Anthropic的真实估值。这一分析对元宝产品经理了解AI行业估值动态和潜在投资机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/F1euPsqRRP1FxAJZ7pPdJA": {
+    "title_clean": "SLA登顶RoboDojo真机榜！港科广联合欧拉万象，让机器人更懂三维空间",
+    "summary": "SLA在RoboDojo真机评测中排名第一，由港科广与欧拉万象合作开发，专注于提升机器人对三维空间的理解能力，这一技术突破可能为AI机器人在物理世界中的应用提供新方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/rErr-ehJli4DTfuwP29znA": {
+    "title_clean": "EM²Mem：AI记忆连接工具",
+    "summary": "EM²Mem是EMNLP2026上展示的AI记忆连接工具，旨在帮助人们记住和连接个人经历。该技术可能通过AI方式增强人类记忆能力，为AI助手产品在个人记忆管理、情感连接等场景提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/cisco-raises-sales-guidance-in-sign-of-ai-fueled-momentum": {
+    "title_clean": "思科上调销售预期：AI推动网络设备需求增长",
+    "summary": "思科系统公司上调当前季度销售预期并提高全年业绩展望，显示AI持续推动网络设备需求增长。这一信号表明AI热潮正在为企业级网络基础设施带来实质性商业机会，对元宝产品经理了解AI技术如何转化为实际商业价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline": {
+    "title_clean": "黄仁勋丑闻事件时间线：Nvidia CEO辞职与AI安全影响",
+    "summary": "Nvidia CEO黄仁勋因婚外恋事件辞职，这一事件可能对美国和中国在先进AI基础设施竞赛中的国家安全产生重大影响。对产品经理而言，这反映了AI行业领导层变动可能带来的战略调整和供应链风险。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/wall-street-whistles-past-nvidia-risk-to-bet-on-wobbly-ai-trade": {
+    "title_clean": "华尔街忽视Nvidia风险继续押注AI交易",
+    "summary": "华尔街对Nvidia首席执行官黄仁勋被解职引发的AI交易风险不以为然，仍继续投资波动性AI交易。这一市场信号表明投资者对AI领域长期前景的信心，对元宝产品经理评估AI市场情绪和投资趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/kalshi-in-talks-for-new-funding-round-at-65-billion-valuation": {
+    "title_clean": "Kalshi：预测市场平台寻求新一轮融资",
+    "summary": "预测市场平台Kalshi在以40亿美元估值完成融资后，正与投资者洽谈新一轮融资，估值可能高达65亿美元。这反映了预测市场领域的高增长潜力，对元宝产品经理了解AI预测类产品的商业化路径和估值逻辑有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/opinion-how-huang-s-resignation-could-hurt-us-ai-video": {
+    "title_clean": "黄仁勋辞职可能对美国AI发展造成影响",
+    "summary": "前英伟达CEO黄仁勋曾直接接触特朗普总统，对美国AI政策的影响力超过其他硅谷高管。Bloomberg观点专栏作者Dave Lee分析了黄仁勋离职可能对美国AI战略和产业格局带来的潜在影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/ai-supply-shock-pushes-bond-market-to-limit-o-connor-video": {
+    "title_clean": "AI推动债券市场供应冲击：奥康纳观点",
+    "summary": "富国银行高级债务 syndicate 全球主管 Maureen O'Connor 在彭博节目中表示，今年美国高级债券市场发行量创纪录，AI技术正推动债券市场面临供应冲击，这一趋势可能影响金融市场的流动性和定价机制。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/free-chinese-ai-can-hack-companies-frontier-developers-face-diminishing-returns": {
+    "title_clean": "免费中国AI工具可入侵企业网络",
+    "summary": "以色列初创公司Tenzai联合创始人表示，可免费下载的中国AI工具已具备足够强大的能力，能够入侵企业网络。这反映了AI安全威胁的新趋势，对AI产品经理在安全防护和伦理设计方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit": {
+    "title_clean": "Hugging Face CEO承诺继续推动开源AI，回应黄仁勋退出",
+    "summary": "Hugging Face CEO在NVIDIA以129亿美元收购交易后承诺继续推动开源AI发展，引发对NVIDIA收购意图的质疑。这对元宝产品经理了解开源AI生态变化和商业策略调整有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry": {
+    "title_clean": "英伟达CEO黄仁勋被解雇可能对AI行业造成的五种影响",
+    "summary": "英伟达前CEO黄仁勋被解雇事件可能对AI行业产生深远影响，因其曾利用个人影响力推动AI行业朝特定方向发展。这一高管变动可能影响英伟达的战略方向和AI行业格局，值得产品经理关注行业领导层变动对产品生态的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/jensen-huang-out-inference-providers-screwed": {
+    "title_clean": "黄仁勋辞职：AI推理服务提供商面临挑战",
+    "summary": "英伟达CEO黄仁勋因婚外情传闻宣布辞职，这一突发消息可能对AI推理服务提供商产生重大影响。作为全球第二大市值公司的创始人，他的离职可能引发英伟达战略调整，进而影响AI基础设施和推理服务市场格局，值得产品经理关注AI基础设施领域的潜在变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/alice-huang-barred-re-entering-singapore-lying-authorities": {
+    "title_clean": "Alice Huang因向当局撒谎被禁止再次进入新加坡",
+    "summary": "黄爱丽（Alice Huang）因涉嫌向新加坡当局提供虚假信息被禁止再次入境。她是英伟达（Nvidia）丑闻中被指认的中国间谍，此事件可能对跨国企业在新加坡的业务合规管理产生警示作用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/kushner-s-affinity-salesforce-back-quantum-startup-q-ctrl-in-290-million-round": {
+    "title_clean": "Salesforce领投量子计算公司Q-Ctrl 2.9亿美元融资",
+    "summary": "Salesforce Ventures领投澳大利亚量子软件公司Q-Ctrl 2.9亿美元融资，公司估值超10亿美元。这表明传统科技巨头正在布局量子计算领域，可能为AI助手提供更强大的计算能力支持。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-12/congress-pressures-jensen-huang-to-talk-about-spy-scandal": {
+    "title_clean": "美国国会施压黄仁勋要求就间谍丑闻作证",
+    "summary": "美国国会两党议员誓言调查芯片走私至中国的潜在问题，并施压英伟达CEO黄仁勋就此丑闻作证。这反映了美国对AI芯片出口管制的加强，可能影响元宝获取先进AI芯片的渠道和成本，对产品经理评估供应链风险和合规策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-ceo-change-won-t-derail-ai-trade-pepperstone-video": {
+    "title_clean": "NVIDIA CEO变更不会影响AI业务发展：Pepperstone分析师观点",
+    "summary": "Pepperstone研究主管Chris Weston表示，NVIDIA领导层变更不会对公司前景产生重大影响，新任CEO很可能具备深厚的AI行业知识。这一观点对元宝产品经理评估AI芯片供应商稳定性及AI行业发展趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/alphabet-kicks-off-asia-bond-sale-as-ai-firms-face-scrutiny": {
+    "title_clean": "Alphabet通过亚洲债券发行筹集近40亿美元",
+    "summary": "Alphabet通过首次港元和新加坡元债券发行在亚洲筹集近40亿美元资金，测试公司在波动增加时期的市场投资者需求。这反映了大型科技公司持续融资能力，对元宝产品经理评估AI巨头财务状况和潜在市场策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/c5P05UHp_DWyilun0EuVtg": {
+    "title_clean": "Fable5.2：一句话生成3D短片工具",
+    "summary": "Fable5.2是一款AI视频生成工具，用户只需输入一句话即可自动完成3D短片的建模、运镜和渲染全流程。这项技术展示了AI在创意内容生成领域的突破，为元宝产品在多模态交互和创意生成功能方面提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace": {
+    "title_clean": "中国机器人平台Amicro香港上市首日大涨83%",
+    "summary": "中国机器人平台Amicro Technology在港交所上市首日股价大涨83%，通过首次公开募股筹集了7.097亿港元（约合9000万美元）。这一表现反映了投资者对机器人技术领域的信心，对元宝产品经理了解AI硬件与软件结合的市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/chatgpt-plus-for-veterans": {
+    "title_clean": "ChatGPT Plus：为退伍军人提供免费服务",
+    "summary": "OpenAI为超过2万名退伍军人及军人提供免费ChatGPT Plus一年订阅，帮助他们准备平民职业。这展示了AI助手在职业转型场景中的应用价值，对产品经理了解特定用户群体的AI使用模式有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads": {
+    "title_clean": "Plurai：提升AI代理环境适应性的技术方案",
+    "summary": "Plurai借鉴自动驾驶汽车的全端到端模型训练方法，旨在提升AI代理在不可预测环境中的适应能力。该技术通过概率系统优化AI代理的决策能力，为解决AI代理在复杂环境中的稳定性问题提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-11/sph-media-is-latest-singapore-firm-impacted-by-data-breach-cna": {
+    "title_clean": "新加坡媒体集团SPH Media遭遇数据泄露",
+    "summary": "新加坡媒体集团SPH Media遭遇网络攻击，这是继新加坡航空公司数据泄露事件后，新加坡又一家大型企业遭受安全威胁。这一事件反映了企业数据安全风险上升的趋势，对AI助手处理敏感数据的安全设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing": {
+    "title_clean": "阿里巴巴芯片设计部门T-Head申请香港IPO",
+    "summary": "阿里巴巴旗下芯片设计部门T-Head已提交香港上市申请，推进其数据中心处理器业务的分拆计划。该业务主要为中国市场供应数据中心处理器，此次IPO将有助于公司获取更多资金支持AI芯片研发，对元宝产品经理了解AI基础设施供应商动态具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -169626,5 +169626,568 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/pHoZbXy_oExyN6x5esoA9A": {
+    "title_clean": "Visics-Agent：云端具身智能体",
+    "summary": "Visics-Agent是行业首款云端具身智能体，具备自然语言理解、教学能力和持续进化功能。这款产品代表了AI向具身智能方向的发展趋势，对元宝产品经理在AI助手交互设计和能力拓展方面具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/dYcFxxMFb59zYxOeOGDHTg": {
+    "title_clean": "Ropedia发布Xperience 2：具身数据处理解决方案",
+    "summary": "Ropedia发布Xperience 2，针对后GPT-6时代的具身数据处理需求提供解决方案。该产品可能涉及AI模型如何处理和理解物理世界数据，对元宝产品经理在AI多模态交互和物理世界理解方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/TSs9UEiNvD6BMfN_f0i1Uw": {
+    "title_clean": "Real2Sim2Real走向人形机器人：仿真训练还缺哪两块拼图?",
+    "summary": "探讨人形机器人仿真训练中的Real2Sim2Real技术路径，分析当前仿真训练系统面临的两大关键挑战，为AI助手在物理世界交互能力提升提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/OFmewZpvPmrelatUVm0wqg": {
+    "title_clean": "时序预测综述：十年进展与TPAMI-26",
+    "summary": "这是一篇关于时序预测领域的全面综述文章，总结了过去十年的研究进展，发表在TPAMI-26期刊上。对AI产品经理而言，该综述可能提供时间序列预测技术在AI应用中的理论基础和发展方向，有助于理解预测类AI产品的技术演进和潜在应用场景。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/spacex-starship-launches-on-flight-test-video": {
+    "title_clean": "SpaceX Starship：可重复使用火箭飞行测试",
+    "summary": "SpaceX从德克萨斯州Starbase发射场发射Starship火箭，测试火箭两部分能否安全返回地球，这是其可重复使用技术的重要验证，对航天领域技术发展具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions": {
+    "title_clean": "美联储副主席：通胀将决定利率决策",
+    "summary": "美联储副主席菲利普·杰斐逊表示，通胀已成为政策制定者考虑进一步加息措施时最重要的衡量指标。这一言论对AI助手产品经理有参考价值，因为通胀和利率变化可能影响用户消费行为和金融服务场景，进而影响AI助手在金融咨询、理财规划等场景的应用需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/modine-shares-gain-most-in-six-years-after-samsung-buyout-talks": {
+    "title_clean": "Modine：数据中心冷却系统制造商",
+    "summary": "Modine Manufacturing因与三星电子的收购谈判而创下六年来最大单日涨幅。该公司为数据中心生产冷却系统，此次潜在收购反映了科技巨头对数据中心基础设施的重视，对AI硬件供应链相关产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say": {
+    "title_clean": "黄仁勋离职冲击AI初创企业融资",
+    "summary": "NVIDIA创始人黄仁勋离职后，AI初创企业面临融资环境恶化风险。此前NVIDIA通过黄仁勋向AI初创企业投入了数十亿美元，其离开可能导致投资规模缩小和估值下降，对AI创业生态产生重大影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage": {
+    "title_clean": "FBI调查软件更新是否导致FAA大规模系统故障",
+    "summary": "FBI正在调查美国联邦航空管理局(FAA)大规模系统故障是否由软件更新引起，初步排除了网络攻击或犯罪行为的可能性。这一事件对AI系统可靠性及关键基础设施自动化管理具有重要警示价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/morgan-stanley-s-shalett-incredibly-bullish-despite-ai-turmoil": {
+    "title_clean": "摩根士丹利：AI市场动荡不改牛市前景",
+    "summary": "摩根士丹利分析师Shalett表示，尽管Nvidia领导层变动和民主党中期选举胜利引发AI市场担忧，但这些因素不会改变牛市的主要驱动因素。对AI行业长期发展持乐观态度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/fed-sees-risks-tied-to-elevated-asset-prices-partly-driven-by-ai": {
+    "title_clean": "美联储报告：AI推高资产价格带来金融风险",
+    "summary": "美联储在半年度金融稳定报告中指出，人工智能推高资产估值，可能带来金融系统脆弱性。这一风险提示对AI产品经理有参考价值，需关注AI应用对金融市场稳定性的潜在影响，以及监管政策可能的变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video": {
+    "title_clean": "Match Group：禁止AI代理代替用户约会",
+    "summary": "Match Group公司CEO表示，尽管公司正在业务中广泛应用人工智能，但不会允许AI代理在Tinder、Hinge等约会应用上代替用户进行约会。这一决策反映了约会行业对AI替代人类互动的谨慎态度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-launches-chatgpt-wallet": {
+    "title_clean": "OpenAI：推出ChatGPT数字钱包",
+    "summary": "OpenAI宣布推出ChatGPT数字钱包，为其'dot'助手提供在线购物功能，无需直接访问用户信用卡信息。这一功能将增强AI助手的电商服务能力，为用户提供更安全的支付体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-13/huang-s-exit-leaves-silicon-valley-unsure-about-ai-boom-s-future": {
+    "title_clean": "黄仁勋离职引发硅谷对AI繁荣未来的担忧",
+    "summary": "英伟达CEO黄仁勋的离职引发了对AI产业关键支持体系的新疑问。这一高管变动可能影响AI投资环境和技术发展路径，对产品经理评估AI产业稳定性和未来趋势具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/people-have-no-idea-how-much-nvidia-impacts-life-brown-video": {
+    "title_clean": "Nvidia创始人：公众对AI芯片影响认知不足",
+    "summary": "Lumbra创始人兼CEO Aaron Brown指出，普通民众对Nvidia技术对日常生活的影响认知不足，认为这是整个AI行业需要解决的信息传达问题。这对产品经理思考如何向用户传达AI价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/everybody-s-business-china-is-writing-its-own-ai-story-video": {
+    "title_clean": "Everybody's Business：中国制定自己的AI发展路线",
+    "summary": "中国AI发展呈现积极态势，政府主导推动农村和内陆地区AI应用，与美国AI公司面临公众形象问题形成对比。这为中国AI产品提供了本土化发展思路和政策环境参考，对元宝产品经理了解中国AI市场差异化策略有重要价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/ackman-on-huang-s-exit-anthropic-ipo-roadshow-video": {
+    "title_clean": "Ackman评论黄仁勋离职及Anthropic IPO路演",
+    "summary": "对冲基金CEO Ackman评价黄仁勋离开Nvidia是损失，认为他将创造伟大成就；同时提及对Anthropic IPO路演印象深刻。此资讯反映AI行业高管流动与头部AI公司融资动态，对元宝产品经理了解行业人才流动趋势和AI公司商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-s-amodei-doesn-t-want-ai-agents-to-run-wild-video": {
+    "title_clean": "Anthropic CEO：不希望AI Agent'失控'",
+    "summary": "Anthropic CEO Dario Amodei强调公司持续投入AI安全、安全性和对齐研究，明确表示不希望AI Agent'失控'。这反映了头部AI公司对AI自主系统风险管控的重视，对元宝产品经理设计Agent安全边界具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma": {
+    "title_clean": "Anthropic CEO称算力是公司最深层的商业困境",
+    "summary": "Anthropic CEO Dario Amodei表示，获取计算能力是人工智能公司面临的最大挑战之一，这反映了AI公司在基础设施成本方面的普遍困境，对产品经理评估AI服务成本与扩展性具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": {
+    "title_clean": "Build a Robot Pick-and-Place Simulation with SimReady Assets：机器人拾取放置模拟工具",
+    "summary": "该工具提供SimReady资产，帮助用户构建机器人拾取和放置的物理模拟。对于元宝产品经理而言，这展示了AI在物理模拟和机器人控制领域的应用潜力，可能启发多模态AI在现实世界操作场景中的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/coons-says-secretary-lutnick-let-america-down-video": {
+    "title_clean": "民主党议员指责商务部长卢特尼克辜负美国并涉及英伟达争议",
+    "summary": "特拉华州民主党议员克里斯·库恩指责商务部长霍华德·卢特尼克'辜负美国'，并卷入与英伟达相关的争议。库恩希望了解卢特尼克是否做出了不当行为，这反映了美国政府对科技企业监管的政治态度变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/jensen-create-ai-boom-created-him": {
+    "title_clean": "黄仁勋并非AI浪潮的缔造者，而是被AI浪潮所塑造",
+    "summary": "本文探讨英伟达CEO黄仁勋与AI行业发展的关系，指出外界过度将AI繁荣归功于黄仁勋个人，实际上AI行业的发展趋势塑造了黄仁勋的地位和影响力。对产品经理的参考价值在于理解行业领袖与行业发展的真实关系，避免将技术进步简单归因于个人因素。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/companies-place-ai-bets": {
+    "title_clean": "企业AI投资策略：从全面转向ROI导向",
+    "summary": "文章探讨企业AI投资策略的转变，从早期的全面推广转向注重投资回报率。随着AI实施成本显现，企业领导者开始重新评估AI投资方向，这对元宝产品经理了解企业级AI服务市场趋势和客户决策逻辑有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team": {
+    "title_clean": "马斯克AI团队解散Grok视频生成团队",
+    "summary": "SpaceX的人工智能部门已解散Grok Imagine团队的大部分成员，该团队负责开发AI视频和图像生成工具。这一变动反映了马斯克在AI视频生成领域的战略调整，对产品经理评估AI工具资源分配和市场策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/lutnick-under-pressure-as-nvidia-crisis-unfolds-video": {
+    "title_clean": "美国商务部长卢特尼克面临Nvidia芯片出口危机压力",
+    "summary": "美国商务部长卢特尼克正面临指责，被指未能有效阻止Nvidia的人工智能芯片流入中国。这一事件反映了AI芯片出口管制政策的执行挑战，对元宝产品经理了解AI硬件供应链风险和国际政策影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-13/jensen-huang-s-nvidia-nvda-scandal-fuels-push-for-tighter-china-chip-curbs": {
+    "title_clean": "黄仁勋丑闻推动中国芯片管制收紧",
+    "summary": "英伟达CEO黄仁勋在美中AI超级大国之间扮演调解角色，但其丑闻事件促使美国考虑对中国实施更严格的芯片出口管制，这可能影响AI芯片供应链和全球AI竞争格局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-sage-geosystems": {
+    "title_clean": "CEO访谈：Sage Geosystems",
+    "summary": "Sage Geosystems CEO Cindy D. Taff接受CB Insights采访，分享了公司对市场趋势、客户需求的看法，以及公司的市场定位和战略方向。这对了解垂直行业AI应用的市场洞察和企业服务模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-astrofinance": {
+    "title_clean": "AstroFinance：金融科技CEO访谈",
+    "summary": "AstroFinance CEO Alexis Grabar接受CB Insights采访，分享公司对市场看法、客户需求理解以及业务成功因素。访谈内容对金融科技领域的产品策略和竞争分析有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/companies-linked-alice-huang-invested-deepseek": {
+    "title_clean": "与Alice Huang关联公司投资DeepSeek",
+    "summary": "据报道，与涉嫌中国间谍的Alice Huang有关联的一批公司近期投资了中国AI初创企业DeepSeek。这一投资动向可能涉及地缘政治因素，对AI行业格局和中美科技竞争态势具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/articles/sex-lies-ai-chips-jensen-huangs-last-days-nvidia-ceo": {
+    "title_clean": "英伟达CEO黄仁勋涉嫌与中国间谍关系事件",
+    "summary": "英伟达CEO黄仁勋被曝与中国间谍存在亲密关系，引发公司内部动荡。此事件可能影响英伟达的AI芯片业务战略及中美科技关系，对AI芯片行业高管风险管理和企业合规具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/briefings/microsoft-labors-fix-long-outage-office-outlook-copilot": {
+    "title_clean": "Microsoft：Office、Outlook和Copilot服务中断超六小时",
+    "summary": "Microsoft Office、Outlook邮件服务及Copilot AI助手出现全球性服务中断，持续时间超过六小时。此次事件对依赖Microsoft生产力工具的企业用户造成严重影响，也反映出AI辅助服务在关键业务场景中的稳定性风险，对产品经理评估AI服务可靠性和应急方案具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/bytedance-buy-back-shares-400-billion-valuation": {
+    "title_clean": "字节跳动计划以400亿美元估值回购股票",
+    "summary": "字节跳动(TikTok母公司)计划以约400亿美元的估值回购高达60亿美元的股票，较此前估值增长20%。这一高估值回购反映了投资者对字节跳动AI业务和短视频平台价值的持续看好，对元宝产品经理评估AI公司估值逻辑和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay": {
+    "title_clean": "Muse：AI商务电话呼叫服务",
+    "summary": "Muse的AI助手新增了向美国企业拨打电话的功能，但这项服务需要付费。这展示了AI助手在商务沟通场景中的应用拓展，为产品经理提供了AI服务商业化及B端场景的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/trump-says-huang-told-him-he-regrets-scandal-s-toll-on-family": {
+    "title_clean": "特朗普称黄仁勋对其丑闻对家庭的影响表示遗憾",
+    "summary": "特朗普表示英伟达前CEO黄仁勋致电他，对其丑闻给家庭带来的影响表示遗憾。这反映了企业高管在面临丑闻时的公关应对策略，对AI企业危机管理有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/samsung-is-in-talks-to-acquire-data-center-cooling-firm-modine": {
+    "title_clean": "三星拟收购数据中心冷却企业Modine",
+    "summary": "三星电子正洽谈收购Modine Manufacturing公司，这是一家专门生产数据中心冷却系统的制造商。此次收购若完成，将加强三星在数据中心基础设施领域的布局，对元宝产品经理了解科技巨头在AI基础设施领域的战略布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/former-apple-chief-chip-architect-on-working-with-srouji-video": {
+    "title_clean": "苹果前首席芯片架构师谈与Srouji共事经历",
+    "summary": "Nuvacore联合创始人Gerard Williams III在Power On播客中分享了他担任苹果首席CPU架构师期间的经历，以及与首席硬件工程师Johny Srouji共事的体验。这对了解苹果芯片开发团队文化和决策过程有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/why-gta-6-took-13-years-and-1-billion-to-make": {
+    "title_clean": "GTA 6 开发耗时13年耗资10亿美元的原因分析",
+    "summary": "GTA 6预计将成为史上最昂贵的娱乐产品之一，开发耗时长达13年，投资高达10亿美元。该分析探讨了为何这款游戏承载如此高的期望和商业价值，为大型娱乐产品的开发周期和投资策略提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidias-dealmaking-binge-faces-reckoning-jensen-huangs-exit": {
+    "title_clean": "Nvidia持续投资AI初创企业，Nscale和Firmus交易取决于其投资策略延续",
+    "summary": "Nvidia近三年已成为AI初创企业、小型云服务和前沿AI实验室最活跃的投资者之一，这主要得益于CEO黄仁勋的持续关注。这一投资动向对元宝产品经理评估AI芯片厂商生态布局和潜在合作机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund": {
+    "title_clean": "Norwest设立40亿美元AI专项基金",
+    "summary": "Norwest创投公司设立其史上最大规模的40亿美元AI专项基金，显示资本对AI领域的持续看好。这反映了AI行业融资热度，对产品经理判断AI市场投资趋势和商业化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/articles/alice-huangs-companies-invested-deepseek-promising-nvidia-chips": {
+    "title_clean": "Alice Huang关联公司投资DeepSeek并承诺提供Nvidia芯片",
+    "summary": "Alice Huang关联公司近期投资了中国AI明星企业DeepSeek，并承诺为其提供Nvidia芯片。这一投资关系涉及Nvidia前CEO黄仁勋的私人关系，可能影响AI芯片供应链格局，对产品经理关注AI硬件资源获取和供应链风险具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/customer-stories/gondola": {
+    "title_clean": "Gondola：创意人才招聘与信用平台",
+    "summary": "Gondola帮助创意人才获得信用和就业机会，其Codex工具使首席工程师产出提升50%，ChatGPT简化日常工作。该平台展示了AI在创意人才服务场景中的应用价值，对元宝在垂直领域AI服务场景拓展有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-remepy": {
+    "title_clean": "CEO Interview: Remepy",
+    "summary": "Remepy CEO Or Shoval接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。该访谈提供了AI创业公司对市场机会和客户需求的洞察，对元宝产品经理了解AI创业公司的市场策略和产品定位有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/indonesia-s-ex-police-chief-alleged-to-be-end-user-of-wiretaps": {
+    "title_clean": "印尼前警察局长被指为电话窃听最终接收者",
+    "summary": "印尼前国家警察局长被指控下令进行电话窃听并选择监控目标，同时也是窃听结果的最终接收者。此事件揭示了政府监控的潜在滥用问题，对AI助手在隐私保护方面的设计具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-11/microsoft-vows-to-pay-its-own-way-to-power-data-centers": {
+    "title_clean": "Microsoft：自建数据中心能源解决方案",
+    "summary": "Microsoft承诺寻找不依赖政府补贴且不增加其他电力消费者成本的方式为其数据中心供电，这反映了大型AI企业在能源可持续性和成本控制方面的战略考量，对元宝产品经理了解AI基础设施的长期发展路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/lumentum-slips-on-deal-fossil-group-rallies-on-outlook-video": {
+    "title_clean": "Lumentum股价下跌，Fossil Group因展望上涨：股市动态",
+    "summary": "股市动态：Lumentum因交易反应股价下跌，Fossil Group因乐观展望股价上涨。CoreWeave在季度报告中缓解了对其债务业务的担忧，股价在盘前交易中上涨。这些股市波动反映了投资者对不同公司前景的评估。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/alts-need-better-communication-clearlake-s-feliciano-video": {
+    "title_clean": "Clearlake创始人Feliciano谈财富管理服务升级",
+    "summary": "Clearlake Capital联合创始人José E. Feliciano在彭博社访谈中介绍了公司为高净值客户推出的新服务，并讨论了对体育团队的投资，预测至少将有一个新的财富管理解决方案面市。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

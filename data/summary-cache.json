@@ -170189,5 +170189,276 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/de-volt": {
+    "title_clean": "de:volt：浏览器端物理电路模拟器",
+    "summary": "de:volt是一款基于浏览器的电路模拟器，提供真实物理模拟功能，允许用户在虚拟面包板上进行电路实验和测试。产品经理可关注其物理引擎技术如何应用于教育工具，以及这种交互方式是否可借鉴到AI辅助学习场景中。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tacie": {
+    "title_clean": "Tacie：Mac端会议笔记工具",
+    "summary": "Tacie是一款专为Mac设计的会议笔记工具，其特点是在会议过程中无需机器人参与通话即可记录会议内容。这款产品可能对元宝产品经理在会议记录和AI助手服务场景设计方面提供参考价值，特别是探索非侵入式会议记录解决方案的可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/blender": {
+    "title_clean": "Blender 5.3：3D高斯飞溅原生支持",
+    "summary": "Blender 5.3版本原生支持3D高斯飞溅技术，这是一种先进的3D渲染技术，能更高效地创建和渲染复杂3D场景。对产品经理而言，这反映了3D内容创作工具的技术演进趋势，可能影响AI助手在3D内容生成和编辑领域的应用方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/thunder-3": {
+    "title_clean": "Thunder：AI工作键值数据库",
+    "summary": "Thunder是一款高性能持久化键值数据库，专为AI工作负载设计。它通过优化数据存储和检索速度，为AI应用提供快速、可靠的数据支持，对需要高效数据处理的AI系统架构有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/codemesh-2": {
+    "title_clean": "CodeMesh：AI代码成本降低工具",
+    "summary": "CodeMesh是一款AI工具，声称能将AI编码成本降低90%。该产品针对AI开发中的成本问题提供解决方案，对于元宝产品经理评估AI服务商业化策略和成本控制具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dex-by-exmergo": {
+    "title_clean": "Dex Semantics：AI Agent数据分析工具",
+    "summary": "Dex Semantics是一款AI Agent工具，可帮助构建数据分析功能，并声称能减少25%的错误率。该产品对元宝产品经理在AI Agent能力提升和数据分析场景应用方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-robotics-2-5": {
+    "title_clean": "Gemini Robotics 2.5：Google最新机器人模型",
+    "summary": "Google发布Gemini Robotics 2.5，这是其最新且能力最强的机器人模型。该模型代表了Google在机器人技术领域的最新进展，可能为AI助手和Agent提供更强大的物理世界交互能力，对元宝产品经理在多模态交互和AI服务场景拓展方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/anyonehiring-today": {
+    "title_clean": "AnyoneHiring.today：全球远程工作地图平台",
+    "summary": "AnyoneHiring.today是一个展示全球远程工作机会的地图平台，用户可以通过可视化地图查找世界各地的远程职位，实现'Anywhere'的工作计划，为元宝产品经理了解远程工作服务场景和用户需求变化提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/freeflow-dictation": {
+    "title_clean": "FreeFlow Dictation：Mac端语音转文字工具",
+    "summary": "FreeFlow Dictation是一款在Mac设备上运行的语音转文字工具，通过集成Claude Code语音钩子实现本地化语音输入功能。该产品为AI助手在本地设备上的语音交互提供了新思路，对元宝产品经理在本地化语音处理和AI模型集成方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/l7VU-SnFFSTPGAUAi9DZBQ": {
+    "title_clean": "带进产业一线",
+    "summary": "该资讯标题和描述过于简略，无法确定具体内容。可能是关于AI技术如何应用于产业一线的报道，但缺乏具体产品、公司或技术细节，无法评估其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/screengo": {
+    "title_clean": "ScreenGo：Mac屏幕录制与虚拟摄像头工具",
+    "summary": "ScreenGo是一款Mac平台的屏幕录制工具，支持自动缩放功能和虚拟摄像头，可帮助用户创建更专业的屏幕内容。产品经理可关注其自动缩放技术如何提升录制体验，以及虚拟摄像头功能在远程协作和内容创作中的应用价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/blackstone-s-qts-is-cutting-ai-debt-sale-by-more-than-half": {
+    "title_clean": "Blackstone旗下QTS数据中心缩减AI债务融资规模",
+    "summary": "Blackstone旗下数据中心运营商QTS因投资者需求不足，将原计划的私人债务融资规模削减约60%，并拒绝支付更高溢价。这反映了AI基础设施建设融资市场的降温趋势，对元宝产品经理评估AI服务基础设施成本与投资环境有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-crisis-spurs-scrutiny-of-agency-that-oversees-chip-curbs": {
+    "title_clean": "Nvidia危机引发对芯片限制监管机构的审查",
+    "summary": "美国出口控制机构负责人寻求知名企业参加年度会议时，意外将Nvidia公司列入名单，引发对芯片限制政策的审视。这一事件反映了AI芯片行业监管与商业利益之间的张力，对元宝产品经理了解AI硬件供应链政策风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/bessent-blames-commerce-for-nvidia-crisis-video": {
+    "title_clean": "Lutnick面临批评：Bessent将Nvidia危机归咎于商务部",
+    "summary": "RIIG Technology CEO Denver Riggleman对Jensen Huang的行为表示难以理解，称其面临个人、政治和法律后果。此事件涉及Nvidia高管丑闻，可能影响公司声誉和商业决策，对AI行业高管行为规范有警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/inside-anthropics-lavish-roadshow-event-j-p-morgans-headquarters": {
+    "title_clean": "Inside Anthropic's Lavish Roadshow Event at J.P. Morgan's Headquarters",
+    "summary": "Anthropic CEO Dario Amodei与摩根大通CEO Jamie Dimon在总部举行投资者交流会，展示了Anthropic周边产品及定制笔记本套件。这反映了AI初创公司正在积极寻求与大型金融机构建立合作关系，可能影响AI企业融资策略和商业合作模式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/huang-and-the-myth-of-the-irreplaceable-ceo-video": {
+    "title_clean": "黄仁勋与'不可替代CEO'的神话",
+    "summary": "英伟达CEO黄仁勋因与公司副总裁存在婚外关系违反公司道德准则而辞职。这一事件打破了CEO不可替代的神话，对科技公司治理和高管继任计划具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/best-thing-to-happen-for-china-is-jensen-out-says-ives-video": {
+    "title_clean": "英伟达CEO黄仁勋下台或影响美国芯片对华政策",
+    "summary": "英伟达CEO黄仁勋离职被视为美国芯片政策转折点，作为芯片控制政策的主要反对者，其下台可能加速新的对华芯片限制措施，这对中国AI硬件供应链和AI产品发展策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation": {
+    "title_clean": "LangChain：AI Agent管理工具获30亿美元估值",
+    "summary": "LangChain宣布其模型和平台无关的Agent管理工具LangSmith拥有7,000名客户，公司估值达到30亿美元。这表明AI Agent管理工具市场正在快速增长，为企业提供了构建和管理AI Agent的解决方案，对元宝产品经理评估AI Agent商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/anthropic-ipo-ai-s-1-4t-test-video": {
+    "title_clean": "Anthropic IPO：AI公司估值1.4万亿美元",
+    "summary": "Anthropic计划进行IPO，目标估值高达1.4万亿美元，引发投资者极大兴趣。这一事件反映了AI领域的资本热度，对元宝产品经理评估AI行业商业化路径和估值标准具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/customer-stories/shield": {
+    "title_clean": "Shield：基于OpenAI的IT技术门户工作交接工具",
+    "summary": "Shield利用OpenAI技术帮助IT技术人员在传统系统中交接工作，其Forge代理能够导航系统界面，使技术人员专注于需要人工判断的问题解决。这为元宝在自动化处理复杂系统交互方面提供了参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/deepx-bets-100-million-on-new-ai-chip-using-samsung-technology": {
+    "title_clean": "DeepX投资1亿美元开发基于三星技术的AI芯片",
+    "summary": "韩国初创公司DeepX计划投资超过1亿美元，采用三星电子先进的2纳米制造工艺开发下一代人工智能芯片。这反映了AI硬件领域的技术竞争态势，对关注AI基础设施和芯片性能的产品经理具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots": {
+    "title_clean": "Phota Labs：AI照片自动美化工具",
+    "summary": "Phota Labs利用AI技术自动化照片编辑过程，帮助用户将日常照片转化为专业级作品。该产品专注于简化编辑流程，降低专业摄影门槛，对元宝在图像处理和AI自动化服务场景方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

@@ -170460,5 +170460,259 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/drops-4": {
+    "title_clean": "Drops：音乐发现社交平台",
+    "summary": "Drops是一个音乐发现平台，通过用户朋友喜爱的音乐时刻来推荐新歌曲，将社交关系与音乐推荐结合，为用户提供个性化的音乐发现体验。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/antelog": {
+    "title_clean": "Antelog：AI代码代理数据防护工具",
+    "summary": "Antelog是一款专门保护数据安全的工具，旨在阻止AI代码代理泄露或破坏用户数据。对于元宝产品经理而言，这反映了AI代理应用中数据安全的重要性，可作为产品安全功能设计的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/horef-rings": {
+    "title_clean": "Horef Rings：Apple Watch 指标环自定义工具",
+    "summary": "Horef Rings 允许用户在 Apple Watch 表盘上添加任意指标环，并提供每日评分功能。这款工具扩展了 Apple Watch 的健康数据展示方式，为产品经理提供了可穿戴设备个性化界面设计的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video": {
+    "title_clean": "Anthropic IPO测试投资者对AI的胃口",
+    "summary": "Anthropic即将进行IPO，此次发行严重超额认购，将成为测试投资者对AI领域投资热情的重要指标。这对元宝产品经理评估AI商业化前景和资本市场对AI企业的认可度有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/everything-led-nvidia-ceo-jensen-huangs-fall": {
+    "title_clean": "英伟达CEO黄仁勋离职事件回顾",
+    "summary": "回顾英伟达创始人兼CEO黄仁勋离职事件的起因，追溯至2010年代，涉及个人关系问题。作为AI芯片行业领军人物的人事变动，对AI硬件供应链和行业格局可能产生影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video": {
+    "title_clean": "Nvidia 寻求黄仁勋时代后的新方向",
+    "summary": "彭博社采访黄仁勋，探讨其突然离职后Nvidia的继任挑战。这反映了AI硬件巨头在关键领导层变动时期的战略调整，对AI基础设施供应商的产品规划和人才战略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep": {
+    "title_clean": "科技巨头面临民主党执政下的电网成本压力",
+    "summary": "随着AI技术发展，科技巨头正面临日益增长的电网成本压力。民主党若全面执政将加剧这一挑战，这对AI企业的能源消耗和运营成本构成直接影响，产品经理需关注AI服务部署的能源成本因素。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-14/-bigger-than-a-business-story-nvidia-shakeup-video": {
+    "title_clean": "Nvidia高层震荡：CEO黄仁勋被曝与员工有染及涉嫌间谍事件",
+    "summary": "Nvidia CEO黄仁勋被曝与员工有染及涉嫌与中国间谍有关，引发公司高层震荡。Centerview Partners高级顾问Richard Haass称此事超越商业故事范畴，可能对Nvidia的企业治理和战略方向产生深远影响，对AI行业领导力稳定性构成警示。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/tesla-announces-cybercab-personal-use": {
+    "title_clean": "Tesla推出Cybercab：无方向盘全自动驾驶电动车",
+    "summary": "Tesla向部分客户推出Cybercab，这是一款完全自动驾驶的两座电动车，没有方向盘和踏板。这标志着特斯拉向完全自动驾驶个人出行迈出重要一步，对AI自动驾驶技术商业化有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure": {
+    "title_clean": "白宫呼吁放宽AI披露责任以促进AI发展",
+    "summary": "白宫人工智能工作组建议放宽网络安全责任政策，以激励AI企业主动披露信息。这一政策动向可能影响AI行业的监管环境，对元宝产品经理了解政策变化对AI产品合规性和披露要求的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video": {
+    "title_clean": "Colette Kress将面临Nvidia的审视",
+    "summary": "Nvidia临时CEO Colette Kress将更加公开地谈论公司财务、业绩和计划，接受媒体和市场的审视。这对元宝产品经理了解科技巨头领导层变动可能带来的战略方向变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature": {
+    "title_clean": "NVIDIA：新任CEO人选猜测为时过早",
+    "summary": "NVIDIA公司否认已开始接洽潜在CEO候选人，表示仍处于选择猎头公司的阶段，以寻找现任CEO的继任者。这一信息对关注AI行业领导层变化的产品经理有参考价值，可能影响公司战略方向和市场预期。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026": {
+    "title_clean": "Crunchbase数据：英伟达创纪录的初创企业投资交易",
+    "summary": "英伟达在陷入危机前持续保持最活跃的初创投资者之一地位，参与了2026年多项最大风险投资交易。该数据反映了AI芯片巨头在初创生态中的战略布局，对元宝产品经理了解AI行业资本流向和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video": {
+    "title_clean": "英伟达CEO黄仁勋最后时刻：因婚外情及与所谓中国间谍关系引退",
+    "summary": "彭博社报道，英伟达CEO黄仁勋因涉及多起婚外情，包括与一名所谓中国间谍的关系，导致其陷入无法继续担任CEO的境地，最终选择引退。这一事件可能对英伟达的公司治理和领导层稳定性产生影响，值得科技行业高管和公司治理关注。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://info-reader-production.herokuapp.com/articles/bytedance-buy-back-shares-400-billion-valuation": {
+    "title_clean": "字节跳动计划以400亿美元估值回购股票",
+    "summary": "字节跳动(TikTok母公司)计划以约400亿美元的估值回购高达60亿美元的股票，较此前估值增长20%。这一高估值回购反映了投资者对字节跳动AI业务和TikTok全球扩张的信心，对产品经理评估AI巨头估值逻辑和商业化潜力有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/VmOpmMwINSKB8ACK2fwLbg": {
+    "title_clean": "FireFlash：AI模型训练效率突破",
+    "summary": "FireFlash使用64张B300显卡在不到5天内完成训练，性能比肩Fable 5与GPT-6Sol，展示了AI模型训练效率的重大突破。这对产品经理评估AI能力边界和训练成本具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-ceo-who-are-the-candidates-for-permanent-role-video": {
+    "title_clean": "NVIDIA CEO候选人搜索：寻找黄仁永的永久继任者",
+    "summary": "NVIDIA正在为其CEO黄仁永寻找永久性继任者，这是全球最有价值芯片制造商面临的重大挑战。公司已聘请外部顾问协助筛选候选人，这一人事变动可能对AI芯片行业格局产生深远影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-12/us-probing-if-alice-huang-helped-smuggle-super-micro-products": {
+    "title_clean": "美国调查黄姓女子是否帮助走私超微产品",
+    "summary": "美国司法部正调查黄姓女子是否与涉嫌针对英伟达前高管的间谍活动有关，并调查其关联实体是否参与了超微产品的走私行为。此事件涉及科技供应链安全与间谍活动，对产品经理了解国际科技企业面临的供应链风险与安全挑战有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-welltheory": {
+    "title_clean": "Executive Interview: WellTheory",
+    "summary": "WellTheory营销负责人Carly Quaglio接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。内容包含健康管理市场的定义和公司战略定位，对元宝在健康服务场景的产品规划有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/_CWa2_CbkfSKD9jSe7l11A": {
+    "title_clean": "清华、伯克利开源统一RUA框架：具身智能进入Agentic Robotics时代",
+    "summary": "清华大学与伯克利大学联合开源了统一RUA框架，标志着具身智能进入Agentic Robotics时代。该框架为智能体提供了统一的操作接口，有望推动AI机器人在物理世界中的自主执行能力发展，对元宝产品经理在AI Agent能力拓展方面具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth": {
+    "title_clean": "CoreWeave转向客户预付款和短期合作为AI增长融资",
+    "summary": "CoreWeave正要求客户提前支付款项，利用特定合同进行融资，并寻求可能导致更高价格的短期合作协议，以支持其AI业务增长。这对产品经理了解AI基础设施供应商的商业模式变化和资金策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

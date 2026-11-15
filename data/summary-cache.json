@@ -171021,5 +171021,167 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/privacyboard": {
+    "title_clean": "Privacyboard：隐私合规自动化工具",
+    "summary": "Privacyboard是一款自动化隐私合规工具，能够帮助企业自动处理隐私合规事务，减轻人工负担。对于元宝产品经理而言，这类工具展示了AI在自动化合规领域的应用潜力，可作为产品中隐私保护功能或企业服务场景的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/huntmonitor": {
+    "title_clean": "HuntMonitor：实时狩猎活动追踪工具",
+    "summary": "HuntMonitor是一款实时追踪狩猎活动的工具，提供积分、速度和排名变化等关键数据。产品经理可参考其实时数据监控和排名展示功能，为元宝的实时活动追踪和用户竞争激励系统提供设计思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/remindly-6": {
+    "title_clean": "Remindly：跨平台智能提醒笔记工具",
+    "summary": "Remindly是一款支持iPhone、iPad、Mac和Web端的笔记提醒应用，帮助用户管理任务和重要事项。作为一款轻量级生产力工具，它展示了简单有效的任务管理场景，对元宝在多平台任务提醒功能设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/byteask-cloud-agents": {
+    "title_clean": "ByteAsk Cloud Agents：代码库问题解决工具",
+    "summary": "ByteAsk Cloud Agents是一款代码问题解决工具，能在大型代码库中快速定位问题并提供修复方案，并允许用户直接通过Slack部署修复。这为AI助手在代码审查和问题解决场景中的应用提供了新思路，对元宝在技术支持领域的功能拓展具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/emayler": {
+    "title_clean": "Emayler：自定义域名邮件服务",
+    "summary": "Emayler提供自定义域名邮件服务，简化企业邮件管理流程，帮助用户在自有域名下创建专业邮箱地址，同时避免传统邮件服务器配置的复杂性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pixel-office-3": {
+    "title_clean": "Pixel Office：像素风格AI团队协作工具",
+    "summary": "Pixel Office是一款以像素艺术风格为界面的AI团队协作工具，用户可以在其中管理并运行多个AI代理。该产品通过游戏化的界面设计，为AI团队协作提供了新颖的交互方式，对元宝产品经理在AI Agent团队协作和交互设计方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/frevana-2": {
+    "title_clean": "Frevana Multiplayer：AI团队协作业务增长工具",
+    "summary": "Frevana Multiplayer是一款AI工具，旨在与团队协作共同促进业务增长。该产品通过AI技术辅助团队工作，可能提供业务分析、团队协作优化或增长策略建议等功能，为产品经理提供了AI在团队协作场景下的应用参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rakazo": {
+    "title_clean": "Rakazo：开源Grok机器人替代品",
+    "summary": "Rakazo是一款开源的Grok机器人替代产品，用户拥有完全所有权。这为元宝产品经理提供了开源AI助手替代方案的参考，特别是在数据所有权和可定制性方面可能带来的差异化机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/talyn": {
+    "title_clean": "Talyn：Claude与Codex并行云沙箱工具",
+    "summary": "Talyn是一款云沙箱工具，可同时运行Claude Code和Codex，为开发者提供并行代码执行环境。这有助于AI产品经理评估多模型协作能力，以及云沙箱技术在AI代码辅助工具中的应用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team": {
+    "title_clean": "Nvidia安全团队负责人离职事件",
+    "summary": "Nvidia安全负责人于8月悄然离职，随后CEO黄仁勋因与涉嫌向中国输送芯片公司高管的个人关系而辞职。这一高管变动可能影响Nvidia的AI芯片安全策略与合规管理，对AI硬件厂商的治理结构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/MKdFGf9pNj_JUR6iQhz9-g": {
+    "title_clean": "斯坦福让GPT-6Astra直接修改机器人参数：仅调整65行词嵌入修复问题",
+    "summary": "斯坦福大学研究团队让GPT-6Astra模型直接修改机器人参数，通过仅调整65行词嵌入代码，成功修复了机器人执行任务中的问题。这一方法展示了AI模型直接控制物理设备的可能性，为AI与机器人结合提供了新思路，对元宝产品经理在AI控制物理设备方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-13/from-cfo-to-interim-ceo-kress-takes-charge-at-nvidia-video": {
+    "title_clean": "英伟达CFO接任临时CEO：领导层变动应对公司危机",
+    "summary": "英伟达宣布长期担任CFO的Colette Kress接任临时CEO，接替黄仁勋离职后的领导职位，这是公司历史上最大的领导层危机之一。这一变动对AI芯片行业格局和英伟达产品战略可能产生重要影响，值得产品经理关注公司领导层变动对产品路线和市场竞争的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/sex-lies-ai-chips-jensen-huangs-last-days-nvidia-ceo": {
+    "title_clean": "Nvidia CEO黄仁勋被曝与中国间谍有染，引发公司内部动荡",
+    "summary": "Nvidia CEO黄仁勋被曝与中国间谍存在亲密关系，公司总法律顾问Tim Teter随后辞职，引发公司内部动荡。这一事件可能对Nvidia的AI芯片业务和公司治理产生重大影响，对AI行业高管风险管理和企业安全具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

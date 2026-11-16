@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-16T05:25:32.196Z",
+  "generated_at": "2026-11-16T15:45:53.461Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "tencent/hy4-flash",
+      "name": "Hy4 flash",
+      "vendor": "Tencent",
+      "vendor_slug": "tencent",
+      "url": "https://openrouter.ai/tencent/hy4-flash-20261116",
+      "created_at": "2026-11-16T14:18:26Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.044,
+      "price_out": 0.176,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Hy4 flash is a cost-efficient variant of Hy4 from Tencent, served with roughly a quarter of the flagship's parameter count for lower latency and cost. It targets code assistance, agent...",
+      "description_zh": null
+    },
     {
       "id": "qwen/qwen4-max",
       "name": "Qwen4 Max",
@@ -865,8 +889,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -914,7 +938,7 @@
         "text"
       ],
       "price_in": 0.037,
-      "price_out": 0.325,
+      "price_out": 0.326,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1467,29 +1491,6 @@
       "supports_reasoning": true,
       "description": "Mistral Large 4 is a frontier multimodal (text and image input) model from Mistral AI built for reasoning, coding, and agentic workloads. It offers a 1M-token context window with up...",
       "description_zh": "Mistral Large 4 是 Mistral AI 的前沿多模式（文本和图像输入）模型，专为推理、编码和代理工作负载而构建。它提供了一个 1M 令牌上下文窗口，最多..."
-    },
-    {
-      "id": "inclusionai/ling-3.1-flash",
-      "name": "Ling 3.1 Flash",
-      "vendor": "Inclusionai",
-      "vendor_slug": "inclusionai",
-      "url": "https://openrouter.ai/inclusionai/ling-3.1-flash-20261002",
-      "created_at": "2026-10-02T14:07:04Z",
-      "context_length": 1000000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.045,
-      "price_out": 0.135,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Ling 3.1 Flash is a hybrid reasoning mixture-of-experts model from inclusionAI, with 25B active parameters out of 560B total.",
-      "description_zh": "Ling 3.1 Flash是inclusionAI的混合推理混合专家模型，总共560B个活动参数，其中有25B个。"
     }
   ]
 }

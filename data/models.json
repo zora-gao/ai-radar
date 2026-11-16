@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-11-15T23:34:25.378Z",
+  "generated_at": "2026-11-16T05:25:32.196Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "qwen/qwen4-max",
+      "name": "Qwen4 Max",
+      "vendor": "Qwen",
+      "vendor_slug": "qwen",
+      "url": "https://openrouter.ai/qwen/qwen4-max-20261115",
+      "created_at": "2026-11-16T02:18:46Z",
+      "context_length": 1000000,
+      "modality": "text+image+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.5,
+      "price_out": 4.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Qwen4 Max is the flagship model in Alibaba's Qwen4 series. It accepts text, image, and video input and returns text, with a 1M-token context window and reasoning enabled by default....",
+      "description_zh": null
+    },
     {
       "id": "inclusionai/ling-3.2-flash:free",
       "name": "Ling 3.2 Flash (free)",
@@ -767,8 +792,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 2,
-      "price_out": 10,
+      "price_in": 0.24,
+      "price_out": 8.402,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -840,8 +865,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.3,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -864,8 +889,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.02,
-      "price_out": 0.108,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -888,8 +913,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.029,
-      "price_out": 0.253,
+      "price_in": 0.037,
+      "price_out": 0.325,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1465,30 +1490,6 @@
       "supports_reasoning": true,
       "description": "Ling 3.1 Flash is a hybrid reasoning mixture-of-experts model from inclusionAI, with 25B active parameters out of 560B total.",
       "description_zh": "Ling 3.1 Flash是inclusionAI的混合推理混合专家模型，总共560B个活动参数，其中有25B个。"
-    },
-    {
-      "id": "unbiased/pareto-26.10-preview",
-      "name": "Pareto 26.10 Preview",
-      "vendor": "Unbiased",
-      "vendor_slug": "unbiased",
-      "url": "https://openrouter.ai/unbiased/pareto-26.10-preview-20260929",
-      "created_at": "2026-10-01T14:07:03Z",
-      "context_length": 1048576,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.8,
-      "price_out": 3.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks. This is a preview of the...",
-      "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。这是...的预览"
     }
   ]
 }

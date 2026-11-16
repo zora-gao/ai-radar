@@ -171437,5 +171437,114 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals": {
+    "title_clean": "阿里巴巴发布旗舰AI模型，对标美国竞争对手",
+    "summary": "阿里巴巴集团推出新款旗舰AI模型，宣称其性能可与美国Anthropic和OpenAI的产品相媲美，这是中国科技企业对美国AI领导者发起的最新挑战。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health": {
+    "title_clean": "Apple推出新应用研究AI在健康领域的使用",
+    "summary": "Apple发布了一款新应用，旨在研究人们如何使用AI解决日常医疗问题。该应用将收集用户与AI健康助手交互的数据，为AI在医疗健康场景中的应用提供真实世界洞察，对元宝产品经理了解AI健康服务场景有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market": {
+    "title_clean": "印度芯片初创公司Bharat Semi获2400万美元种子轮融资，瞄准全球AI传感器市场",
+    "summary": "印度芯片初创公司Bharat Semi完成2400万美元种子轮融资，其AI传感器技术已获得通用原子能公司等企业的设计订单，正瞄准全球AI传感器市场，这对元宝产品经理了解AI硬件与传感器技术商业化机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amazon-loses-40-leo-satellites-ula-rocket-failure": {
+    "title_clean": "Amazon 40颗Leo卫星因火箭发射失败而损毁",
+    "summary": "ULA的Vulcan火箭在发射约10分钟后发生故障，导致Amazon的40颗Leo互联网网络卫星损毁。这一事件对Amazon的卫星互联网计划造成重大挫折，可能影响其与SpaceX等竞争对手的竞争态势，对元宝产品经理了解大型科技公司的太空互联网项目风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/our-new-blog-for-science": {
+    "title_clean": "OpenAI科学博客：AI助力科学发现",
+    "summary": "OpenAI推出科学博客，分享研究人员使用AI推进科学发现的新发现、实用方法和第一手经验。这为元宝产品经理提供了AI在科研领域应用的重要参考，展示了AI如何辅助专业领域的知识探索与创新。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/step-toward-defining-the-standard-model": {
+    "title_clean": "A step toward defining the Standard Model on a lattice：GPT-6 Astra协助完成标准模型格点定义",
+    "summary": "该研究探索了标准模型的一种非微扰格点定义方法，并利用GPT-6 Astra将这一想法转化为详细证明。这展示了AI在理论物理研究中的辅助作用，可能为AI在复杂科学问题解决中的应用提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-15/ai-investors-brace-for-data-center-restrictions-video": {
+    "title_clean": "AI投资者应对数据中心限制",
+    "summary": "PIMCO市场策略师Tony Crescenzi在Bloomberg节目中评估了政治阻力对数据中心增长的影响，指出新的限制措施可能影响AI投资热潮。这对产品经理了解AI基础设施政策风险和投资环境变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/huang-weighs-nvidia-comeback-bessent-pushes-board-look-outside": {
+    "title_clean": "黄仁勋考虑重返NVIDIA CEO职位，Bessent推动董事会寻找外部人选",
+    "summary": "据金融时报报道，NVIDIA创始人黄仁勋已与亲信讨论重返CEO职位的可能性，此前他因与疑似中国间谍和下属的恋情传闻而辞职。同时，公司CEO Bessent正推动董事会考虑外部人选接任，这可能对NVIDIA的AI战略和领导层稳定性产生影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/spacex-catches-starships-upper-stage-first-time": {
+    "title_clean": "SpaceX首次成功捕获星舰上级段",
+    "summary": "SpaceX首次使用发射塔机械臂成功捕获星舰上级段，此前仅捕获过助推器。这一技术突破对可重复使用火箭系统发展具有重要意义，为未来更频繁、更低成本的太空任务奠定基础。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }

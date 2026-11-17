@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-11-17T07:33:38.207Z",
+  "generated_at": "2026-11-17T18:31:48.314Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "openai/gpt-6.2-astra-pro",
+      "name": "GPT-6.2 Astra Pro",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.2-astra-pro-20261117",
+      "created_at": "2026-11-17T18:00:32Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 8,
+      "price_out": 40,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.2 Astra Pro is the same underlying model as GPT-6.2 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
+    },
+    {
+      "id": "openai/gpt-6.2-astra",
+      "name": "GPT-6.2 Astra",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.2-astra-20261117",
+      "created_at": "2026-11-17T18:00:23Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 8,
+      "price_out": 40,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.2 Astra is the flagship model in the GPT-6.2 series from OpenAI, built for the hardest projects. It is suited for real-world engineering, professional work and scientific research, with stronger...",
+      "description_zh": null
+    },
+    {
+      "id": "openai/gpt-6.2-sol-pro",
+      "name": "GPT-6.2 Sol Pro",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.2-sol-pro-20261117",
+      "created_at": "2026-11-17T18:00:09Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.2 Sol Pro is the same underlying model as GPT-6.2 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
+    },
+    {
+      "id": "openai/gpt-6.2-sol",
+      "name": "GPT-6.2 Sol",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.2-sol-20261117",
+      "created_at": "2026-11-17T17:59:31Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.2 Sol is an upgrade to GPT-6.1 Sol from OpenAI, positioned below the flagship GPT-6.2 Astra in the GPT-6.2 series. It is an efficient, versatile model for everyday work, suited...",
+      "description_zh": null
+    },
     {
       "id": "tencent/hy4-flash",
       "name": "Hy4 flash",
@@ -889,8 +989,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1392,105 +1492,6 @@
       "supports_reasoning": true,
       "description": "Step 5 Preview is StepFun's flagship model for agentic work, built on a sparse Mixture-of-Experts architecture (27B active / 600B total parameters). It performs strongly in software engineering and professional...",
       "description_zh": "Step 5 Preview 是 StepFun 用于代理工作的旗舰模型，建立在稀疏的 Mixture-of-Experts 架构（27B 活动/600B 总参数）之上。 It performs strongly in software engineering and professional..."
-    },
-    {
-      "id": "anthropic/claude-haiku-5.5",
-      "name": "Claude Haiku 5.5",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-haiku-5.5-20261007",
-      "created_at": "2026-10-07T18:31:23Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.1,
-      "price_out": 0.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Haiku 5.5 is Anthropic's small, fast model for high-volume, cost-sensitive work such as summarization, subagents, and browser use. It succeeds Claude Haiku 4.5 with stronger coding, computer use, and...",
-      "description_zh": "Claude Haiku 5.5 是 Anthropic 的小型、快速模型，适用于大批量、成本敏感的工作，例如摘要、子代理和浏览器使用。它继承了克劳德俳句 4.5，具有更强的编码、计算机使用和..."
-    },
-    {
-      "id": "anthropic/claude-haiku-5.5:batch",
-      "name": "Claude Haiku 5.5 (batch)",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-haiku-5.5-20261007",
-      "created_at": "2026-10-07T18:31:23Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.05,
-      "price_out": 0.25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Claude Haiku 5.5 is Anthropic's small, fast model for high-volume, cost-sensitive work such as summarization, subagents, and browser use. It succeeds Claude Haiku 4.5 with stronger coding, computer use, and...",
-      "description_zh": "Claude Haiku 5.5 是 Anthropic 的小型、快速模型，适用于大批量、成本敏感的工作，例如摘要、子代理和浏览器使用。它继承了克劳德俳句 4.5，具有更强的编码、计算机使用和..."
-    },
-    {
-      "id": "google/gemini-nano-banana-2.1",
-      "name": "Nano Banana 2.1",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-nano-banana-2.1-20261006",
-      "created_at": "2026-10-06T15:33:45Z",
-      "context_length": 65536,
-      "modality": "text+image->text+image",
-      "input_modalities": [
-        "image",
-        "text"
-      ],
-      "output_modalities": [
-        "image",
-        "text"
-      ],
-      "price_in": 1.5,
-      "price_out": 7.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Nano Banana 2.1 (Gemini Nano Banana 2.1) is Google's image generation and editing model on the Flash tier, succeeding Nano Banana 2 and Nano Banana Pro. It improves product recontextualization,...",
-      "description_zh": "Nano Banana 2.1（Gemini Nano Banana 2.1）是Google在Flash层上的图像生成和编辑模型，继承了Nano Banana 2和Nano Banana Pro。它提高了产品的重新上下文化，..."
-    },
-    {
-      "id": "mistralai/mistral-large-4-0",
-      "name": "Mistral Large 4",
-      "vendor": "Mistral AI",
-      "vendor_slug": "mistralai",
-      "url": "https://openrouter.ai/mistralai/mistral-large-4-0-20261006",
-      "created_at": "2026-10-06T13:42:02Z",
-      "context_length": 1048576,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.7,
-      "price_out": 2.1,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Mistral Large 4 is a frontier multimodal (text and image input) model from Mistral AI built for reasoning, coding, and agentic workloads. It offers a 1M-token context window with up...",
-      "description_zh": "Mistral Large 4 是 Mistral AI 的前沿多模式（文本和图像输入）模型，专为推理、编码和代理工作负载而构建。它提供了一个 1M 令牌上下文窗口，最多..."
     }
   ]
 }

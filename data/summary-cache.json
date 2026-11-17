@@ -172739,5 +172739,496 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/gatherhq-agent-research": {
+    "title_clean": "GatherHQ Agent Research：AI代填调研工具",
+    "summary": "GatherHQ推出AI代理调研工具，可让AI助手代替用户完成问卷调查和调研任务，帮助用户节省时间并自动化收集市场反馈。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pushr": {
+    "title_clean": "pushr：iPhone推送通知服务工具",
+    "summary": "pushr是一个允许从任何脚本、服务器或AI代理向iPhone发送推送通知的服务工具。对于元宝产品经理而言，这提供了AI助手与用户设备交互的新思路，特别是在需要实时通知和提醒的场景中。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aws": {
+    "title_clean": "AWS Emulator：本地AWS应用开发测试工具",
+    "summary": "AWS Emulator是一款允许开发者在本地环境中构建和测试AWS应用程序的工具，无需实际部署到云端。这为元宝产品经理提供了关于本地化AI服务开发与测试的参考思路，可能启发类似本地环境模拟功能的开发。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/extradock": {
+    "title_clean": "ExtraDock 5：Mac多屏幕Dock工具",
+    "summary": "ExtraDock 5是一款Mac系统扩展工具，允许用户将Mac的Dock栏扩展到多个显示器上，提升多屏幕工作体验。产品经理可参考其多屏幕交互设计思路，为元宝的多设备协作功能提供启发。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lampa-camera": {
+    "title_clean": "Lampa Camera：iPhone自然感相机应用",
+    "summary": "Lampa Camera是一款iPhone相机应用，提供自然图像处理和模拟胶片风格，为用户提供具有复古美感的摄影体验。产品经理可参考其如何通过特定风格定位在相机应用市场中差异化竞争，以及如何将AI技术与传统摄影美学结合。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/infaiw": {
+    "title_clean": "infaiw：AI任务代理审批工具",
+    "summary": "infaiw是一款允许用户将工作任务委托给辅助代理(sidecar agents)的工具，这些代理会通过审批脚本传递工作内容。该产品专注于AI代理的任务管理和审批流程，为AI助手产品提供了任务 delegation 和审批机制的设计参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wispos": {
+    "title_clean": "WispOS：免费AI游戏制作平台",
+    "summary": "WispOS是一款免费的AI游戏制作工具，附带应用商店功能，允许用户创建并分享自己的游戏。该平台通过AI技术降低游戏开发门槛，为元宝产品经理提供了AI辅助内容创作和用户生成内容(UGC)生态的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/base-studio": {
+    "title_clean": "BASE Studio：产品照片转3D与AR工具",
+    "summary": "BASE Studio是一款自动化工具，可将产品照片转换为3D模型和AR体验，为电商和营销领域提供沉浸式产品展示方案，有助于元宝探索多模态交互在商品展示场景的应用可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/skiss": {
+    "title_clean": "Skiss：网页样式保存工具",
+    "summary": "Skiss是一款能够完整保存网页字体、颜色和真实CSS的工具，帮助用户精确捕获网页设计元素。对于元宝产品经理而言，这提供了在AI助手服务中实现网页内容样式保存功能的参考价值，特别是在处理用户保存网页内容时保持原始设计完整性的场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clamor-2": {
+    "title_clean": "Clamor：社交信号洞察工具",
+    "summary": "Clamor是一款将社交媒体信号转化为可操作洞察的工具，帮助用户从社交数据中提取有价值的信息，可能用于市场分析、用户行为研究或品牌监测，为产品经理提供社交数据洞察的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/glisstouch": {
+    "title_clean": "GlissTouch：Mac自定义触控板手势工具",
+    "summary": "GlissTouch是一款Mac应用，允许用户自定义触控板手势，提升操作效率。产品经理可参考其交互设计思路，为元宝增加类似自定义手势功能，优化用户在多场景下的操作体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lexicad": {
+    "title_clean": "LexiCAD：AI CAD设计生成工具",
+    "summary": "LexiCAD是一款AI工具，用户可通过自然语言描述零件需求，自动生成CAD设计。该工具简化了工程设计流程，对元宝产品经理探索AI在专业设计领域的应用场景具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/papyras": {
+    "title_clean": "Papyras：阅读进度追踪工具",
+    "summary": "Papyras是一款专为读者设计的阅读进度追踪工具，帮助用户记录和管理阅读进度，特别适合那些喜欢追踪阅读完成情况的人群。该产品解决了读者在阅读长篇内容时难以掌握进度的问题，为产品经理提供了阅读类应用的功能设计参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-17/consumer-strain-meets-ai-s-reality-check-video": {
+    "title_clean": "消费者压力与AI现实检验",
+    "summary": "消费者面临住房与食品成本高企、贷款收紧的困境，Meredith Whitney Advisory Group CEO指出这是AI应用的现实检验，提醒产品经理关注经济环境对AI产品采用的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-tennr": {
+    "title_clean": "CEO Interview: Tennr",
+    "summary": "Tennr联合创始人兼CEO Trey Holterman接受CB Insights采访，分享公司对市场的看法、客户需求分析以及公司定位。作为一家AI相关企业，其市场定位和客户洞察对元宝产品经理了解行业趋势和用户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-growth-guidance-is-pivotal-point-to-watch-luria-video": {
+    "title_clean": "Nvidia增长指引成为关键关注点",
+    "summary": "DA Davidson科技研究主管Gil Luria指出，Nvidia周二财报后的增长指引是主要关注点，若指引低于预期将更为令人担忧。这对AI芯片市场趋势和元宝底层技术供应链有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant": {
+    "title_clean": "Voyage Labs：AI旅行助手获1200万美元融资",
+    "summary": "Voyage Labs推出旗舰产品Atlas，作为个人旅行规划助手，目前处于私人测试阶段。公司已完成1200万美元融资，专注于AI在旅行场景的应用，为元宝在服务场景拓展和商业化方面提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/banks-pause-480-million-chip-loan-tied-to-china-s-bytedance": {
+    "title_clean": "美国暂停向字节跳动提供4.8亿美元AI芯片贷款",
+    "summary": "美国最新AI芯片出口限制措施导致向字节跳动提供4.8亿美元用于购买英伟达先进芯片的贷款被冻结，这可能影响字节跳动AI基础设施建设和模型训练能力，对AI企业海外供应链布局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/democrats-urge-halt-to-router-upgrades-after-us-flight-chaos": {
+    "title_clean": "民主党呼吁暂停路由器升级：美国航班混乱事件后",
+    "summary": "美国参议院民主党议员要求暂停部署与上周美国航班停飞事件相关的路由器升级，指出目前尚不清楚故障原因，此举可能影响航空系统稳定性，对AI系统在关键基础设施中的应用提供警示。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding": {
+    "title_clean": "Science Corporation：抗失明技术公司获3.5亿美元估值",
+    "summary": "Science Corporation完成4亿美元D轮融资，估值达35亿美元，专注于抗失明技术的商业化。这反映了AI在医疗健康领域的应用价值，特别是针对视力障碍的解决方案，为元宝在健康服务场景的AI应用提供了参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-video": {
+    "title_clean": "Anthropic拟将IPO定价定在价格区间上限",
+    "summary": "Anthropic计划将其首次公开募股(IPO)的股票定价定在价格区间的上限或更高，这一信息对产品经理具有重要参考价值，反映了AI独角兽企业的市场估值和商业化进程，可能影响行业竞争格局和投资者对AI赛道的信心。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/investor-interview-aexodus-capital": {
+    "title_clean": "Aexodus Capital：人形机器人市场投资观点",
+    "summary": "Aexodus Capital普通合伙人Chjango Unchained接受CB Insights采访，分享了对人形机器人市场的看法，探讨了人形机器人实际应用的场景和影响。这对元宝产品经理了解AI硬件投资方向和机器人服务场景拓展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-backed-genesis-ai-raises-funds-at-3-5-billion-valuation": {
+    "title_clean": "Genesis AI：法国AI机器人公司获35亿美元估值融资",
+    "summary": "法国AI机器人公司Genesis AI获得融资，估值达35亿美元，由Nvidia支持。这反映了投资者对AI机器人领域的持续关注和资金投入，对元宝产品经理了解AI硬件结合与机器人交互方向的市场趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-is-said-to-guide-ipo-price-to-top-of-range-or-above": {
+    "title_clean": "Anthropic：AI公司IPO定价超预期",
+    "summary": "Anthropic在IPO指导中将股价定在价格区间上限或更高，显示市场对其AI业务前景看好。这对元宝产品经理评估AI创业公司估值逻辑和商业化路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists": {
+    "title_clean": "Spotify推出新工具防止深度伪造歌曲被归咎于真实艺人",
+    "summary": "Spotify推出新工具用于防止深度伪造歌曲被错误归咎于真实艺人。此举源于索尼音乐上月要求平台下架超过26万首深度伪造歌曲，数量较此前披露几乎翻倍，反映了音乐行业对AI生成内容版权问题的重视。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/startups/founder-venture-funding-pressure-meerbott-you-loud-clear": {
+    "title_clean": "融资后创始人决策风险：如何避免重大决策失误",
+    "summary": "本文探讨了融资后90天内创始人面临的决策风险，执行教练Kelly Meerbott建议创始人在做出重大承诺前暂停思考，以保护决策质量。这对元宝产品经理有参考价值，特别是在产品融资后如何平衡快速扩张与稳健决策。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-sets-national-security-export-control-oversight-committee": {
+    "title_clean": "Nvidia设立国家安全与出口管制监督委员会",
+    "summary": "Nvidia董事会宣布成立新委员会，负责监督公司国家安全政策及出口管制合规事宜。此举反映AI芯片企业应对地缘政治风险的战略调整，对元宝产品经理理解AI硬件供应链安全与合规挑战有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-short-sellers-reap-24-billion-as-stock-extends-slide": {
+    "title_clean": "英伟达股价暴跌：空头获利240亿美元",
+    "summary": "英伟达CEO黄仁勋丑闻导致公司股价持续下跌，空头投资者借此获利240亿美元。这一事件反映了市场对AI芯片巨头信心动摇，对元宝产品经理评估AI行业风险和投资者情绪变化具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial": {
+    "title_clean": "MIT兄弟被洗清2500万美元加密货币盗窃指控",
+    "summary": "麻省理工学院毕业的两名兄弟被洗清了价值2500万美元的加密货币盗窃指控，此前陪审团未能达成一致意见，避免了重新审判。此案涉及加密货币安全与法律边界，对AI产品经理了解加密货币服务风险与合规挑战有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-16/flagship-s-afeyan-sees-uk-bet-creating-next-moderna-video": {
+    "title_clean": "Flagship创始人Afeyan看好英国投资，打造下一个Moderna",
+    "summary": "Flagship Pioneering创始人兼CEO Noubar Afeyan表示，该生物科技风投公司计划在英国投资高达6000万英镑，希望借此打造下一个Moderna级别的生物科技巨头。这对AI产品经理的参考价值在于了解大型科技投资趋势，特别是AI与生物科技交叉领域的投资动向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-sees-risk-of-ai-slowdown-impacting-us-growth-video": {
+    "title_clean": "BlackRock：AI建设放缓可能影响美国经济增长",
+    "summary": "BlackRock投资研究所负责人表示，随着AI建设的推进，关于AI采用及其财务回报的不确定性日益凸显，AI建设放缓可能对美国经济增长产生负面影响。这对产品经理评估AI商业化节奏和投资回报有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/canada-s-carney-faces-meta-google-apple-backlash-over-lawful-access-bill-c-22": {
+    "title_clean": "加拿大拟立法要求科技巨头保留并移交用户数据",
+    "summary": "加拿大政府提出C-22法案，要求Meta、谷歌、苹果等科技公司保留并移交用户数据给执法机构，引发科技巨头强烈反对。这一立法动向可能影响全球数据隐私法规趋势，对AI产品在数据合规方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/lvmh-media-division-partnership": {
+    "title_clean": "LVMH媒体部门与OpenAI达成战略合作：用AI支持新闻传播",
+    "summary": "LVMH媒体部门与OpenAI合作，利用AI技术支持新闻传播，并通过ChatGPT提升其出版物的可访问性。这一合作展示了奢侈品集团如何将AI技术应用于内容传播领域，为元宝在内容服务与AI结合方面提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/plural-closes-billion-euro-fund-european-ai-robotics-defense-startup-investment": {
+    "title_clean": "Plural风投完成11亿美元融资，专注投资具有GDP级影响力的欧洲初创企业",
+    "summary": "伦敦风投公司Plural完成11亿美元募资，将投资能源、计算、国防、机器人、健康和软件等领域具有GDP级影响力的欧洲初创企业。这笔资金将帮助识别和培育可能重塑欧洲经济格局的颠覆性技术公司，对元宝产品经理了解欧洲AI投资趋势和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-counsel": {
+    "title_clean": "Executive Interview: Counsel",
+    "summary": "Counsel首席医疗官Rishi Khakhkhar接受CB Insights采访，分享了公司对市场的看法、客户需求以及公司定位。作为医疗AI领域的专业访谈，为元宝产品经理了解医疗AI服务场景和用户需求提供了行业视角。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/kakao-prepares-for-historic-split-of-internet-empire-in-ai-chase": {
+    "title_clean": "Kakao：韩国互联网巨头拆分以应对AI变革",
+    "summary": "韩国互联网巨头Kakao宣布将拆分其庞大的数字帝国，以应对人工智能带来的行业变革。这一历史性拆分标志着Kakao从过去十年整合韩国人数字生活的战略转向，反映了AI时代企业组织架构调整的新趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/UJuZiYn9UNAbIHFSASKXJA": {
+    "title_clean": "么?:未知用途工具",
+    "summary": "该资讯标题和描述均为'么?'，信息严重不足，无法判断其具体内容或价值。作为产品经理，无法评估其对元宝产品的参考意义，建议寻找更明确的信息源。",
+    "score": 20,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed": {
+    "title_clean": "新加坡94%小企业主呼吁更多AI指导",
+    "summary": "新加坡180多家小企业和创作者企业家参加了Meta的技能提升日活动，94%的受访者表示需要更多AI指导，这反映了中小企业在AI应用方面的迫切需求，对元宝产品经理了解用户痛点和服务场景有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry": {
+    "title_clean": "英伟达CEO黄仁勋负面消息对AI行业的影响",
+    "summary": "探讨英伟达CEO黄仁勋的负面消息是否会对AI行业产生连锁反应，分析英伟达在AI经济中的核心地位及其对整个行业的影响，为产品经理提供行业风向标参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-on-success-of-the-gta-franchise-video": {
+    "title_clean": "Take-Two CEO谈GTA系列成功",
+    "summary": "Take-Two Interactive CEO Strauss Zelnick讨论了备受期待的《侠盗猎车手6》即将发布的情况，称GTA系列'可能是最有价值的知识产权之一'。这反映了顶级游戏IP的商业价值和长期运营策略，对元宝产品经理了解内容IP化运营和长期用户价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

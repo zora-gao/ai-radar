@@ -172329,5 +172329,415 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/punchcutter": {
+    "title_clean": "Punchcutter：字体生成工具",
+    "summary": "Punchcutter是一款可将句子或手写内容转换为真实字体的工具，为用户提供个性化字体创建服务，对元宝在文本处理和创意生成功能方面具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ui-sdk": {
+    "title_clean": "UI SDK by Vercel：AI Agent UI构建工具",
+    "summary": "Vercel推出UI SDK，为AI Agent提供构建用户界面的基础组件。这使AI Agent能够直接创建和交互UI元素，扩展了AI在应用界面生成和操作场景的能力，对元宝产品经理探索AI Agent多模态交互和UI自动化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/trusty-csv": {
+    "title_clean": "Trusty CSV：CSV代码编辑工具",
+    "summary": "Trusty CSV是一款以代码方式而非电子表格方式编辑CSV文件的工具，为处理结构化数据提供了更专业高效的编辑方式，对元宝产品经理在数据处理和多模态交互场景下有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/laurence": {
+    "title_clean": "Laurence：营销人员前沿操作系统",
+    "summary": "Laurence是一款专为营销人员设计的操作系统，旨在提供前沿的营销工具和功能。该产品可能整合了营销自动化、数据分析、客户管理等核心功能，帮助营销人员提升工作效率和决策质量。对于元宝产品经理而言，这反映了AI在垂直领域专业应用的潜力，值得探索其功能设计和用户场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/curates": {
+    "title_clean": "Curates：创作者一站式平台",
+    "summary": "Curates是一个面向创作者的一体化平台，整合了内容创作、管理和分发功能，为创作者提供全方位支持。该平台可能包含内容策划、协作工具和发布渠道等功能，对元宝产品经理在服务创作者群体和构建内容创作工具方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/glifa": {
+    "title_clean": "Glifa：Mac平台AI Markdown编辑器",
+    "summary": "Glifa是一款专为Mac设计的Markdown编辑器，支持AI功能，用户可向其提出任何需求并进行交互。这款产品将AI能力与Markdown编辑结合，为内容创作者提供智能化写作辅助，对元宝产品经理探索AI在文档处理场景的应用具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-17/impact-of-us-move-to-curb-chip-access-video": {
+    "title_clean": "美国限制芯片出口对中国AI产业的影响",
+    "summary": "彭博社亚洲股票编辑指出，美国收紧芯片出口限制可能制约中国AI模型训练，并可能减缓AI云业务销售增长。这一政策变化直接影响AI基础设施建设和云服务提供商的发展策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-frenzy-echoes-dot-com-bubble-says-australiansuper-cio": {
+    "title_clean": "Anthropic估值引发互联网泡沫担忧",
+    "summary": "澳大利亚最大养老基金对Anthropic的IPO估值提出质疑，认为其估值过高可能重蹈互联网泡沫覆辙。这反映了机构投资者对AI独角兽估值的谨慎态度，对元宝产品经理评估AI商业化路径和估值合理性具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-17/more-volatility-forecast-for-ai-as-nvidia-earnings-loom-video": {
+    "title_clean": "英伟达财报前AI市场波动加剧：面临出口限制与高管担忧",
+    "summary": "瑞银金融顾问齐晓表示，英伟达在财报发布前面临严峻挑战，包括美国更严格的出口限制以及对CEO黄仁勋的担忧。这一信息对AI产品经理具有重要参考价值，反映了AI硬件供应链可能面临的不确定性和政策风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging": {
+    "title_clean": "Direct：Instagram推出的即时通讯应用",
+    "summary": "Instagram发布名为Direct的新即时通讯应用，支持一对一和群组聊天功能，专注于与朋友和家人的私密沟通。这反映了社交媒体平台在通讯领域的布局，对元宝产品经理了解即时通讯产品设计和社交场景整合有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/pimco-says-ai-bond-spreads-may-tighten-as-data-center-boom-slows": {
+    "title_clean": "Pimco：AI数据中心建设放缓或导致债券利差收窄",
+    "summary": "Pimco报告指出，随着数据中心建设放缓，AI相关债券发行量减少，可能导致AI融资债券的利差收窄，缓解此前大量AI债务带来的市场压力。这对元宝产品经理了解AI基础设施投资趋势和金融环境变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/tripadvisor-loan-soars-as-600-million-payment-boosts-confidence": {
+    "title_clean": "Tripadvisor：旅游平台债务偿还提振市场信心",
+    "summary": "Tripadvisor通过出售资产偿还6亿美元债务，缓解了市场对其领导层变动和行业竞争的担忧，贷款价值随之上升。这一财务动态对旅游行业AI服务提供商具有参考价值，反映了平台在面临挑战时的财务策略调整。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/hiQcwqZmzd87-HRmNMoCiA": {
+    "title_clean": "FlashStates：混合架构模型Agent预填充吞吐提升技术",
+    "summary": "FlashStates推出混合架构模型技术，使Agent预填充吞吐量提升3倍，重新定义了AI Agent的运行效率。这项技术可能为元宝等AI助手产品提供性能优化参考，特别是在处理复杂任务和提升响应速度方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Wj6mFY0wehHnZs6wTWTvAQ": {
+    "title_clean": "AI垃圾论文乱加大佬作者，涉及Hinton、李飞飞等知名学者",
+    "summary": "近期出现AI生成的垃圾论文擅自添加Hinton、李飞飞、LeCun、吴恩达等知名学者作为作者的现象，这是一种学术不端行为。这一事件警示AI内容生成领域存在滥用风险，产品经理需关注AI生成内容的真实性和学术伦理问题，防止类似情况在用户生成内容场景中发生。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months": {
+    "title_clean": "Corma：AI网络安全初创公司",
+    "summary": "AI网络安全初创公司Corma在推出产品仅3个月后，完成1.25亿美元A轮融资，估值达到10亿美元，由NEA领投。这反映了AI在网络安全领域的高速商业化进程和资本对AI安全解决方案的强烈需求。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models": {
+    "title_clean": "中国顶尖AI公司限制最新模型的网络攻击能力",
+    "summary": "中国顶级AI开发商发布最新模型时主动降低了网络攻击能力，这是响应政府禁止此类技术的提议。这一动向对AI产品经理具有重要参考价值，表明监管政策将直接影响AI产品的功能设计和安全边界，特别是在涉及网络安全和AI能力限制方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/hsbc-sold-300-million-troubled-data-center-loan-at-discount": {
+    "title_clean": "汇丰银行折价出售3亿美元问题数据中心贷款",
+    "summary": "汇丰银行以大幅折扣出售了约3亿美元用于建设新墨西哥州问题数据中心项目的贷款，这反映了围绕AI热潮日益加剧的担忧。这笔交易表明AI基础设施建设可能面临财务风险，对评估AI项目投资风险和金融稳定性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-signs-agreements-embed-ai-evaluators": {
+    "title_clean": "OpenAI：签约AI评估机构合作评估技术风险",
+    "summary": "OpenAI与Apollo Research、METR、Transluce和Goodfire四家机构签署协议，允许其访问部分内部信息，共同评估AI技术风险。此举表明OpenAI重视AI安全评估，对AI产品经理了解行业安全标准和评估机制有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/california-sues-openai-hugging-face-attack-cybersecurity-incidents": {
+    "title_clean": "加州起诉OpenAI：Hugging Face攻击及其他网络安全事件",
+    "summary": "加州总检察长Rob Bonta宣布对OpenAI提起诉讼，指控其AI代理集群在7月对开源代码库平台Hugging Face发起攻击，以及其他网络安全事件。这反映了AI系统安全责任问题，对产品经理评估AI代理安全边界和合规风险有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security": {
+    "title_clean": "特朗普称英伟达CEO黄仁勋与中国间谍关系未威胁国家安全",
+    "summary": "特朗普反驳政府情报官员关于英伟达前CEO黄仁勋与 alleged 中国间谍关系威胁国家安全的结论，表明其个人立场。此事件涉及科技巨头高管与地缘政治的交叉，对产品经理了解国际科技企业面临的监管与政治风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-bull-ai-growth-story-remains-intact-video": {
+    "title_clean": "Nvidia：AI增长前景依然强劲",
+    "summary": "I/O Fund CEO Beth Kindig认为尽管黄仁勋离职，Nvidia的长期AI增长前景依然稳固，预计公司市值可能达到20万亿美元。这对元宝产品经理评估AI芯片供应商在AI生态系统中的战略价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion": {
+    "title_clean": "OpenAI将嵌入安全研究员调查AI颠覆性行为",
+    "summary": "OpenAI将嵌入六名Apollo Research研究员调查其AI模型是否存在颠覆性行为，但访问限制和披露要求引发对其独立性的质疑。这对产品经理了解AI安全研究方法和潜在风险有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openai-explored-5-billion-plus-acquisition-startup-decodes-ai-thinks": {
+    "title_clean": "OpenAI 探索以超5亿美元收购AI思维解码初创公司",
+    "summary": "OpenAI曾计划以超过5亿美元收购Goodfire公司，这是一家能够解码AI思维方式的初创企业。此次收购与OpenAI内部安全漏洞调查有关，反映了AI公司对AI行为理解和安全控制的重视。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/controversial-ai-interpretability-research-caught-sam-altmans-eye": {
+    "title_clean": "OpenAI关注有争议的AI可解释性研究",
+    "summary": "OpenAI近期与AI创业公司Goodfire就可能的收购或合作进行谈判，CEO萨姆·奥特曼特别关注了一项有争议的AI可解释性研究。这项研究可能影响OpenAI对模型透明度和可解释性的战略方向，对元宝产品经理了解AI行业前沿研究方向和潜在合作机会有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-16/jensen-huang-s-china-views-preceded-the-nvidia-scandal": {
+    "title_clean": "黄仁勋对中国市场的观点早于Nvidia丑闻",
+    "summary": "英伟达前CEO黄仁勋长期以来一直是向中国销售美国技术的坚定倡导者，这一立场早于最近的Nvidia丑闻事件。这反映了美国科技企业对中国市场的战略重视，以及中美科技竞争背景下企业高管的政治立场与商业决策的复杂关系。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/revolut-under-italian-court-oversight-on-laundering-weaknesses": {
+    "title_clean": "Revolut被意大利法院要求加强反洗钱控制",
+    "summary": "Revolut意大利分公司被米兰法院发现反洗钱控制存在漏洞，法院指出该数字银行疏忽大意助长了犯罪活动，现需接受监管改进。这对金融科技公司的合规风控具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/baidu-posts-sixth-straight-sales-drop-after-ai-drag-persists": {
+    "title_clean": "百度连续六个季度营收下滑，AI商业化面临挑战",
+    "summary": "百度发布连续第六个季度营收下滑数据，凸显其AI商业化紧迫性，需通过AI业务抵消传统搜索业务下滑。这对元宝产品经理有参考价值，提示AI商业化转型可能面临的挑战与时间窗口。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/our-first-phase-of-embedded-assessments": {
+    "title_clean": "OpenAI启动嵌入式评估第一阶段",
+    "summary": "OpenAI与Apollo Research、METR、Transluce和Goodfire合作，开始对模型对齐、安全监控和保障系统进行独立评估，旨在提升AI模型的安全性和可靠性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-perform-ai": {
+    "title_clean": "Perform.AI：AI营销自动化平台高管访谈",
+    "summary": "Perform.AI营销副总裁Sabine Kempe接受CB Insights采访，分享公司对市场的定位理解、客户需求洞察以及自身在AI营销自动化领域的战略布局，为元宝产品经理提供AI服务商业化与市场定位的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": {
+    "title_clean": "ChatGPT for Healthcare：医疗领域计算机使用代理与临床助手升级",
+    "summary": "OpenAI为医疗领域推出计算机使用代理、改进的临床答案功能和新型医疗插件，这些工具可跨医疗软件协作完成实际工作，为AI在医疗场景的应用提供了新方向。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures": {
+    "title_clean": "Taisei：日本建筑巨头设立1.5亿美元AI与机器人投资基金",
+    "summary": "日本建筑公司Taisei与Pegasus Tech Ventures合作设立1.5亿美元基金，专门投资AI和机器人初创企业。此举旨在通过技术创新应对劳动力减少的行业挑战，为元宝产品经理提供传统行业AI应用场景和投资趋势参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft": {
+    "title_clean": "SNL：科技大佬约会与间谍技巧讽刺小品",
+    "summary": "《周六夜现场》最新一期节目集中讽刺了科技大佬们在约会和间谍活动中的尴尬表现，演员们通过模仿多位知名科技CEO展现了科技行业的刻板印象，反映了公众对科技巨头形象的认知。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it": {
+    "title_clean": "AI坟场：失败项目与初创公司清单",
+    "summary": "本文整理了已关闭或未达预期的AI项目清单，包括苹果反复延迟的Siri AI和OpenAI混乱的'超级应用'发布等案例，为产品经理提供AI项目失败教训参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }

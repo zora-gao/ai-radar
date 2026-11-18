@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:31:48.314Z",
+  "generated_at": "2026-11-18T01:34:20.496Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -22,6 +22,31 @@
       ],
       "price_in": 8,
       "price_out": 40,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.2 Astra Pro is the same underlying model as GPT-6.2 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
+    },
+    {
+      "id": "openai/gpt-6.2-astra-pro:batch",
+      "name": "GPT-6.2 Astra Pro (batch)",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.2-astra-pro-20261117",
+      "created_at": "2026-11-17T18:00:32Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 4,
+      "price_out": 20,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -54,6 +79,31 @@
       "description_zh": null
     },
     {
+      "id": "openai/gpt-6.2-astra:batch",
+      "name": "GPT-6.2 Astra (batch)",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.2-astra-20261117",
+      "created_at": "2026-11-17T18:00:23Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 4,
+      "price_out": 20,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.2 Astra is the flagship model in the GPT-6.2 series from OpenAI, built for the hardest projects. It is suited for real-world engineering, professional work and scientific research, with stronger...",
+      "description_zh": null
+    },
+    {
       "id": "openai/gpt-6.2-sol-pro",
       "name": "GPT-6.2 Sol Pro",
       "vendor": "OpenAI",
@@ -79,6 +129,31 @@
       "description_zh": null
     },
     {
+      "id": "openai/gpt-6.2-sol-pro:batch",
+      "name": "GPT-6.2 Sol Pro (batch)",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.2-sol-pro-20261117",
+      "created_at": "2026-11-17T18:00:09Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.2 Sol Pro is the same underlying model as GPT-6.2 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
+      "description_zh": null
+    },
+    {
       "id": "openai/gpt-6.2-sol",
       "name": "GPT-6.2 Sol",
       "vendor": "OpenAI",
@@ -97,6 +172,31 @@
       ],
       "price_in": 2,
       "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GPT-6.2 Sol is an upgrade to GPT-6.1 Sol from OpenAI, positioned below the flagship GPT-6.2 Astra in the GPT-6.2 series. It is an efficient, versatile model for everyday work, suited...",
+      "description_zh": null
+    },
+    {
+      "id": "openai/gpt-6.2-sol:batch",
+      "name": "GPT-6.2 Sol (batch)",
+      "vendor": "OpenAI",
+      "vendor_slug": "openai",
+      "url": "https://openrouter.ai/openai/gpt-6.2-sol-20261117",
+      "created_at": "2026-11-17T17:59:31Z",
+      "context_length": 1050000,
+      "modality": "text+image+file->text",
+      "input_modalities": [
+        "file",
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1,
+      "price_out": 5,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -989,8 +1089,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.3,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1390,108 +1490,6 @@
       "supports_reasoning": true,
       "description": "Gemini 4 Argon is Google's flagship reasoning model, built for complex software engineering, deep mathematical and scientific problem solving, and autonomous multi-step agents. Google trained it to keep context across...",
       "description_zh": "Gemini 4 Argon 是 Google 的旗舰推理模型，专为复杂的软件工程、深入的数学和科学问题解决以及自主多步骤代理而构建。谷歌训练它保持上下文......"
-    },
-    {
-      "id": "scaledown/summarize",
-      "name": "Summarize",
-      "vendor": "Scaledown",
-      "vendor_slug": "scaledown",
-      "url": "https://openrouter.ai/scaledown/summarize-20260928",
-      "created_at": "2026-10-13T12:09:20Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.04,
-      "price_out": 0,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": false,
-      "description": "Summarize is an abstractive summarization model from ScaleDown. It condenses long text and documents into a fluent, faithful rewrite rather than lifting sentences from the source, and is suited for...",
-      "description_zh": "Summarize 是来自 ScaleDown 的抽象摘要模型。它将长文本和文档压缩为流畅、忠实的重写，而不是从源中提取句子，并且适合..."
-    },
-    {
-      "id": "scaledown/extract",
-      "name": "Extract",
-      "vendor": "Scaledown",
-      "vendor_slug": "scaledown",
-      "url": "https://openrouter.ai/scaledown/extract-20260928",
-      "created_at": "2026-10-13T12:09:11Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.04,
-      "price_out": 0,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": false,
-      "description": "Extract is a description-driven entity extraction model from ScaleDown. Instead of a fixed set of entity types, callers describe the fields they want in plain English through provider.options.scaledown.entities , and the...",
-      "description_zh": "Extract是来自ScaleDown的描述驱动的实体提取模型。调用者不是通过一组固定的实体类型，而是通过provider.options.scaledown.entities以简单的英语描述他们想要的字段，并且..."
-    },
-    {
-      "id": "meta/muse-wonder",
-      "name": "Muse Wonder",
-      "vendor": "Meta",
-      "vendor_slug": "meta",
-      "url": "https://openrouter.ai/meta/muse-wonder-20261012",
-      "created_at": "2026-10-12T12:25:45Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video",
-        "file",
-        "audio"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 4,
-      "price_out": 20,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Muse Wonder is a frontier reasoning model from Meta, designed for complex personal and professional agentic tasks. It accepts text, images, video, audio, and PDF documents and returns text, with...",
-      "description_zh": "Muse Wonder 是 Meta 的前沿推理模型，专为复杂的个人和专业代理任务而设计。它接受文本、图像、视频、音频和 PDF 文档并返回文本，..."
-    },
-    {
-      "id": "stepfun/step-5-preview",
-      "name": "Step 5 Preview",
-      "vendor": "Stepfun",
-      "vendor_slug": "stepfun",
-      "url": "https://openrouter.ai/stepfun/step-5-preview-20261008",
-      "created_at": "2026-10-08T12:34:09Z",
-      "context_length": 1000000,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1,
-      "price_out": 2.7,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Step 5 Preview is StepFun's flagship model for agentic work, built on a sparse Mixture-of-Experts architecture (27B active / 600B total parameters). It performs strongly in software engineering and professional...",
-      "description_zh": "Step 5 Preview 是 StepFun 用于代理工作的旗舰模型，建立在稀疏的 Mixture-of-Experts 架构（27B 活动/600B 总参数）之上。 It performs strongly in software engineering and professional..."
     }
   ]
 }

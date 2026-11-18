@@ -173767,5 +173767,520 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ui-verify": {
+    "title_clean": "UI Verify：AI 编码助手视觉测试工具",
+    "summary": "UI Verify 是一款专为AI编码助手设计的视觉测试工具，帮助开发者验证AI生成的用户界面代码是否符合设计规范。该工具对元宝产品经理有参考价值，因为随着AI编码助手的发展，UI生成和验证将成为重要功能，这提示元宝可考虑增加类似能力或与相关工具集成。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/worldinmotion": {
+    "title_clean": "worldinmotion：跨厂商AI代理加密消息工具",
+    "summary": "worldinmotion是一款实现不同厂商AI代理之间加密消息传递的工具，解决了AI代理跨平台通信的安全问题。对于元宝产品经理而言，这为构建开放AI生态系统和确保跨服务数据安全提供了重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/confidential-cloud": {
+    "title_clean": "Confidential Cloud：隐私保护AI云服务",
+    "summary": "Confidential Cloud是一款私有AI云服务，承诺无法查看用户数据，专注于解决AI服务中的隐私安全问题。这对元宝产品经理有参考价值，特别是在处理用户数据隐私和构建可信AI服务方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/microsoft-365": {
+    "title_clean": "Microsoft IQ：企业业务AI代理共享理解工具",
+    "summary": "Microsoft IQ是一款为企业AI代理提供业务共享理解能力的工具，帮助AI系统更好地理解企业业务上下文，提升AI代理在企业环境中的协作效率与决策准确性，对元宝产品经理在构建企业级AI代理服务场景具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/introzy": {
+    "title_clean": "Introzy：推荐追踪与佣金管理工具",
+    "summary": "Introzy是一个专门用于追踪从推荐到佣金全流程的工具，帮助用户管理推荐关系并自动计算佣金分配。对于元宝产品经理而言，这类工具展示了如何将AI应用于商业推荐场景，可能启发在AI助手中集成类似功能，帮助用户管理社交推荐和收益分配。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lepoly": {
+    "title_clean": "lepoly：3D资产统一管理工具",
+    "summary": "lepoly是一个3D资产统一管理平台，帮助用户集中存储和管理所有3D模型资源。对于元宝产品经理而言，这反映了AI助手在创意工作流中管理专业资产的需求，可作为多模态AI服务场景的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ai-canvas-2": {
+    "title_clean": "AI Canvas：AI界面设计系统",
+    "summary": "AI Canvas是一个专为AI代理设计界面系统的工具，帮助开发者创建高效的用户界面。该工具对元宝产品经理具有参考价值，特别是在AI助手界面设计和用户体验优化方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kwatch": {
+    "title_clean": "kwatch：Kubernetes 根因告警工具",
+    "summary": "kwatch 是一款 Kubernetes 监控工具，能够直接识别并命名告警的根本原因，帮助 DevOps 团队快速定位和解决集群问题。对于元宝产品经理而言，此工具展示了如何将复杂系统监控简化为可理解的根因分析，对 AI 助手在技术故障诊断场景下的产品设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/afterall-photo": {
+    "title_clean": "Afterall Photo：前后对比照片对齐工具",
+    "summary": "Afterall Photo是一款照片对比工具，能够精确对齐用户拍摄的前后对比照片，帮助用户直观展示变化或效果。这类工具在美容、健身、装修等领域有明确应用场景，可为元宝在图像处理和场景化服务方面提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vanira": {
+    "title_clean": "Vanira：多模态AI代理基础设施",
+    "summary": "Vanira提供语音、视频和多模态AI代理的基础设施服务，支持开发者构建能够处理多种输入输出的智能代理系统。这对元宝产品经理在多模态交互和AI代理能力建设方面具有参考价值，特别是在跨应用操作和服务场景拓展方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ody-ai-business-phone": {
+    "title_clean": "Ody Ai Business Phone：共享工作空间与可管理AI助手",
+    "summary": "Ody Ai Business Phone是一款结合共享工作空间与可管理AI助手的企业通讯工具，为企业提供协作与AI辅助服务，产品经理可关注其AI助手与企业通讯场景的结合方式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/yetly": {
+    "title_clean": "Yetly：本地挑战任务地图工具",
+    "summary": "Yetly是一款基于地理位置的挑战任务平台，用户可以在自己的地图上发现附近的小型现实世界挑战任务，通过完成这些任务获得成就感和互动体验。这款产品为元宝产品经理提供了AI结合地理位置服务的新思路，探索如何将AI助手与线下场景结合，创造用户参与感和粘性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bluedot-2": {
+    "title_clean": "Bluedot Phone Calls：AI电话笔记工具",
+    "summary": "Bluedot Phone Calls是一款AI电话笔记工具，能够自动记录并整理电话通话内容，为用户提供通话摘要和关键信息提取。这类工具对元宝产品经理有参考价值，特别是在AI语音交互和通话内容处理方面的功能设计上。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rankspot": {
+    "title_clean": "RankSpot：AI搜索执行层SEO工具",
+    "summary": "RankSpot是一款按使用付费的SEO和AI搜索执行层工具，专为AI Agent设计，提供搜索引擎优化和搜索执行能力，帮助产品经理了解AI Agent在搜索和SEO领域的技术实现方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI搜索",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/urun": {
+    "title_clean": "uRun：语音与视频代理实时决策工具",
+    "summary": "uRun是一款专注于为语音和视频AI代理提供实时决策能力的工具，能够帮助AI助手在语音和视频交互中快速做出判断和响应，提升多模态交互的实时性和准确性，对元宝在语音视频场景下的AI决策能力开发有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/saas-toolkit-mcp": {
+    "title_clean": "SaaS Toolkit MCP：网站销售与营销自动化工具",
+    "summary": "SaaS Toolkit MCP提供通过JavaScript代码片段在网站上部署24/7销售开发代表(SDR)和营销官(CMO)功能，实现自动化销售与营销服务，帮助网站提升转化率和用户互动。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/portugal-to-redirect-golden-visa-investments-to-local-companies": {
+    "title_clean": "葡萄牙调整黄金签证投资政策：要求资金转向本地企业",
+    "summary": "葡萄牙计划调整黄金签证政策，要求申请人将50万欧元投资更多地转向本地企业，而非房地产等传统投资渠道。这一政策变化可能影响国际投资者对葡萄牙的投资流向，对元宝产品经理了解全球投资移民政策变化及潜在服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/review-box": {
+    "title_clean": "Review Box：GitHub PR快速审查工具",
+    "summary": "Review Box是一款桌面应用程序，专门用于快速审查GitHub的拉取请求。它通过简化代码审查流程，帮助开发者提高协作效率，对元宝产品经理在AI辅助代码审查和开发者工具场景方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push": {
+    "title_clean": "腾讯AI投入挤压利润，收入不及预期",
+    "summary": "腾讯在人工智能领域的激进投入开始抑制利润增长，作为中国最具价值的公司，腾讯面临重组业务以实现人工智能商业化的压力。这对元宝产品经理了解大型科技公司AI投入与商业化平衡策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/carney-says-he-ll-meet-with-trump-later-today-in-shenzhen": {
+    "title_clean": "加拿大总理特鲁多与特朗普会晤，此前与中国达成关税协议",
+    "summary": "加拿大总理特鲁多将在深圳亚太经合组织峰会期间与美国总统特朗普会面，此前特鲁多已与中国达成关税协议。这一外交动态可能影响全球贸易格局，对元宝产品经理了解国际政治经济环境变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/goldman-backs-fintech-startup-payhawk-at-2-billion-value": {
+    "title_clean": "Goldman 背书金融科技初创公司 Payhawk，估值达 20 亿美元",
+    "summary": "Payhawk 是一家帮助企业管理支出的金融科技初创公司，获得高盛增长股权部门领投的新融资，公司估值达到 20 亿美元。这反映了企业支出管理领域的投资热度，对元宝在 B 端服务场景和商业化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/google-removes-19-000-indonesia-pro-government-youtube-channels": {
+    "title_clean": "Google移除1.9万个支持印尼政府的YouTube频道",
+    "summary": "谷歌在第三季度移除了超过1.9万个传播支持印尼政府内容的YouTube频道，凸显了协调性在线宣传活动的规模。这一行动对内容审核机制和平台政策制定具有重要参考价值，尤其对AI助手在内容监管方面的策略制定有启示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-18/asics-coo-business-growth-outlook-video": {
+    "title_clean": "Asics COO商业与增长展望",
+    "summary": "Asics总裁兼首席运营官Mitsuyuki Tominaga在Bloomberg访谈中分享了对运动服饰品牌业务前景和增长机会的看法，为元宝产品经理提供传统行业数字化转型和业务增长策略的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/singapore-to-deploy-ai-to-fight-scams-boost-business-lending": {
+    "title_clean": "新加坡将部署AI打击诈骗并促进商业贷款",
+    "summary": "新加坡计划推出三项人工智能任务，涵盖金融犯罪、商业贷款和AI代理交易，以扩大AI在金融领域的应用。这一举措展示了AI在金融风控和普惠金融方面的实际应用场景，对元宝产品经理在AI安全应用和金融服务场景拓展方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/the-bank-of-nvidia-is-becoming-more-disciplined-and-selective": {
+    "title_clean": "英伟达银行：AI投资变得更加谨慎和选择性",
+    "summary": "英伟达作为全球AI初创企业、计算提供商和模型开发者的主要资金来源，正在变得更加谨慎和有选择性。这一变化可能影响AI行业的融资环境和资金流向，对产品经理了解AI行业资本动态和潜在合作伙伴策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/jensen-huangs-right-hand-man-oversaw-chip-customers-including-alice-huang": {
+    "title_clean": "Jensen Huang的得力助手负责芯片客户关系管理",
+    "summary": "英伟达前销售主管Jay Puri长期负责管理包括Alice Huang在内的主要芯片客户关系，这一信息对了解英伟达客户管理策略和高管团队结构有参考价值，有助于分析AI芯片行业的客户服务模式。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/28fbbBkVnOzHQSQBW-5sxw": {
+    "title_clean": "Agent直接上手缩KV缓存：解决长上下文问题",
+    "summary": "该资讯介绍了Agent技术通过直接操作KV缓存来解决长上下文问题，这可能为AI助手处理大量上下文信息提供新思路，对产品经理在优化AI助手性能和降低计算成本方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier": {
+    "title_clean": "决策模型定制化：Sqwish Labs 推出个性化训练方案",
+    "summary": "Sqwish Labs 推出新型决策模型，允许用户使用自有数据进行训练，以最大化模型能力。这一创新反映了AI决策模型向个性化定制发展的趋势，为产品经理提供了在AI助手和Agent领域实现差异化功能的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain": {
+    "title_clean": "Pedestal AI：供应链AI代理工具",
+    "summary": "Pedestal AI获470万美元融资，利用代理AI技术提升供应链效率与可靠性。该产品专注于将AI代理技术应用于供应链管理领域，为产品经理提供了AI在垂直行业应用的新思路，特别是在自动化流程和可靠性提升方面的实践参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game": {
+    "title_clean": "AI模型可被诱导将平民识别为军事目标",
+    "summary": "旧金山AI评估公司Vals测试发现，主流AI模型可被操纵参与自主军事决策，导致错误将平民识别为军事目标。这一发现揭示了AI系统在军事应用中的安全风险，对AI伦理和安全设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-latent-health": {
+    "title_clean": "Executive Interview: Latent",
+    "summary": "Latent联合创始人Sri Somasundarum接受CB Insights采访，分享其市场定位、客户需求认知及公司战略。作为AI领域企业，其观点对理解行业趋势和产品方向有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-17/ai-buildout-creates-enormous-financing-need-video": {
+    "title_clean": "Robin Wigglesworth：2026年AI热潮转向债务融资",
+    "summary": "《金融时报》专栏作家Robin Wigglesworth在其新书《A Fabulous Debt》中分析了2026年AI行业从热潮转向债务融资的趋势，探讨了债券市场的演变及其对AI产业融资模式的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-nitra": {
+    "title_clean": "Executive Interview: Nitra：健康AI产品负责人访谈",
+    "summary": "Nitra健康AI产品负责人John Kim接受CB Insights采访，分享公司对市场的看法、客户需求以及产品定位。访谈内容涵盖市场竞争格局定义和客户需求分析，对AI健康领域产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/introducing-chatgpt-for-sales": {
+    "title_clean": "ChatGPT for Sales：销售助手插件与合作伙伴扩展",
+    "summary": "ChatGPT推出销售插件及30+扩展合作伙伴插件，可帮助用户研究潜在客户、准备销售提案、更新CRM系统并推进交易流程，为AI助手在销售场景的应用提供新思路。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin": {
+    "title_clean": "普华永道IPO负责人谈AI估值与2027市场展望",
+    "summary": "普华永道美国IPO服务负责人Mike Bellin在访谈中讨论了IPO市场放缓趋势，分析投资者如何评估AI公司价值，并展望2027年市场前景。这对元宝产品经理了解AI行业资本动向和估值逻辑有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-16/opinion-jensen-huang-cannot-return-to-nvidia-video": {
+    "title_clean": "Jensen Huang Cannot Return to Nvidia：科技行业任人唯亲问题引关注",
+    "summary": "Bloomberg文章指出科技行业长期存在的任人唯亲问题，认为不应恢复黄仁勋在Nvidia的职位。文章暗示Nvidia可能存在治理问题，这对了解科技巨头内部治理和领导层决策的产品经理有参考价值，尤其是关注企业文化和风险管理的视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/blackstone-data-center-trust-strikes-5-billion-deal-aws": {
+    "title_clean": "Blackstone数据中心信托与AWS达成50亿美元交易",
+    "summary": "Blackstone数字基础设施信托宣布收购与亚马逊AWS合资企业75%的股份，启动其长期租赁数据中心战略。这笔50亿美元交易将增强AWS的云基础设施能力，同时为Blackstone提供稳定收入来源，对AI服务提供商的底层基础设施布局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/customer-stories/revolut": {
+    "title_clean": "Revolut：利用OpenAI模型提升金融科技效率",
+    "summary": "Revolut通过应用OpenAI模型和Codex技术，将编程时间缩短30-60%，扩展金融犯罪调查能力，在创新的同时保持安全标准。这对AI在金融科技领域的实际应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont": {
+    "title_clean": "Nvidia财报前瞻：周二可能未解答的关键问题",
+    "summary": "Nvidia即将公布第三季度财报，其临时CEO兼CFOColette Kress将面临职业生涯重要时刻。鉴于Nvidia当前面临的动荡，市场关注其财报中可能未充分解答的关键问题，这对AI芯片行业动态和AI产品经理判断市场趋势具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/split-scale-latent-3d": {
+    "title_clean": "Split-and-Scale Latent 3D Representations：3D形状建模新方法",
+    "summary": "该研究提出了一种名为Split-and-Scale的潜在3D表示方法，能够更紧凑地编码3D场景，支持强大的3D生成模型，为现代形状建模能力带来显著提升。对元宝产品经理而言，这代表了AI在3D内容生成领域的前沿进展，可能启发多模态AI助手在3D场景理解和生成方面的应用潜力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-12/ai-transformation-bigger-than-any-company-blackrock-video": {
+    "title_clean": "BlackRock高管：AI变革规模超越任何公司或个人",
+    "summary": "BlackRock投资组合管理集团副主管Mike Pyle认为，人工智能市场正进入一个'双向'阶段，赢家与输家分化明显，市场选择性增强。这一观点对元宝产品经理了解AI行业格局变化和资本对AI赛道的判断具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

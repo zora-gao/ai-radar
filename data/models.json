@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-11-18T19:51:42.679Z",
+  "generated_at": "2026-11-19T02:52:17.196Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "google/gemini-4-neon",
+      "name": "Gemini 4 Neon",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-4-neon-20261118",
+      "created_at": "2026-11-18T13:02:57Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "audio",
+        "file",
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 3,
+      "price_out": 15,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 4 Neon is a fast, mid-priced model in the Gemini 4 family from Google, built for coding and agentic work. It is suited for repository and terminal coding, web...",
+      "description_zh": null
+    },
+    {
+      "id": "google/gemini-4-neon:batch",
+      "name": "Gemini 4 Neon (batch)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-4-neon-20261118",
+      "created_at": "2026-11-18T13:02:57Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "audio",
+        "file",
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.5,
+      "price_out": 7.5,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 4 Neon is a fast, mid-priced model in the Gemini 4 family from Google, built for coding and agentic work. It is suited for repository and terminal coding, web...",
+      "description_zh": null
+    },
     {
       "id": "openai/gpt-6.2-astra-pro",
       "name": "GPT-6.2 Astra Pro",
@@ -1016,8 +1070,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.24,
-      "price_out": 8.402,
+      "price_in": 0.253,
+      "price_out": 8.8,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1089,8 +1143,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.3,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1113,8 +1167,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.036,
-      "price_out": 0.5,
+      "price_in": 0.3,
+      "price_out": 1.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1185,7 +1239,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.3,
+      "price_in": 0.25,
       "price_out": 1,
       "is_free": false,
       "supports_tools": true,
@@ -1436,60 +1490,6 @@
       "supports_reasoning": true,
       "description": "LFM2.5-24B-A2B is a mixture-of-experts reasoning model from Liquid AI with 24B total and 2.45B active parameters. It always reasons before answering and is built for agents that call tools. Liquid...",
       "description_zh": "LFM2.5-24B-A2B 是来自 Liquid AI 的专家混合推理模型，共有 24B 个总参数和 2.45B 个活动参数。它总是在回答之前进行推理，并且是为调用工具的代理而构建的。液体..."
-    },
-    {
-      "id": "google/gemini-4-argon",
-      "name": "Gemini 4 Argon",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-4-argon-20261013",
-      "created_at": "2026-10-13T16:04:37Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "audio",
-        "file",
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemini 4 Argon is Google's flagship reasoning model, built for complex software engineering, deep mathematical and scientific problem solving, and autonomous multi-step agents. Google trained it to keep context across...",
-      "description_zh": "Gemini 4 Argon 是 Google 的旗舰推理模型，专为复杂的软件工程、深入的数学和科学问题解决以及自主多步骤代理而构建。谷歌训练它保持上下文......"
-    },
-    {
-      "id": "google/gemini-4-argon:batch",
-      "name": "Gemini 4 Argon (batch)",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-4-argon-20261013",
-      "created_at": "2026-10-13T16:04:37Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "audio",
-        "file",
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 1,
-      "price_out": 5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemini 4 Argon is Google's flagship reasoning model, built for complex software engineering, deep mathematical and scientific problem solving, and autonomous multi-step agents. Google trained it to keep context across...",
-      "description_zh": "Gemini 4 Argon 是 Google 的旗舰推理模型，专为复杂的软件工程、深入的数学和科学问题解决以及自主多步骤代理而构建。谷歌训练它保持上下文......"
     }
   ]
 }

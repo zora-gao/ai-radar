@@ -175476,5 +175476,656 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ox212": {
+    "title_clean": "OX212：交易员行为预测工具",
+    "summary": "OX212是一款专注于预测交易者行为而非市场走势的金融分析工具，通过分析交易员决策模式提供市场洞察，为金融产品经理在AI驱动的交易辅助领域提供新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/1GiRgTaeNx5pQSG4UBJn9g": {
+    "title_clean": "Agent多人共用为何会失控？来自Ankole的 Business Agent架构设计",
+    "summary": "Ankole提出Business Agent架构设计，探讨多人共用AI Agent时可能出现的失控问题及解决方案。这对元宝产品经理在开发多用户协作Agent功能时具有重要参考价值，可帮助设计更安全、可控的共享Agent机制。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/4AI00fr-K79f26bkdxbz7A": {
+    "title_clean": "Anthropic收购一人药企：AI医疗领域布局",
+    "summary": "Anthropic收购了一家由微软亚洲研究院医学博士创立的'一人药企'，表明AI巨头正加速布局医疗健康领域。此次收购可能旨在整合AI技术与医学专业知识，开发面向个人用户的医疗健康解决方案，对元宝探索AI在医疗场景的应用具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/beacon-26": {
+    "title_clean": "Beacon：AI浏览器代理工具",
+    "summary": "Beacon是一款允许AI代理访问用户已登录浏览器的工具，解决了AI代理无法直接使用用户现有账号和登录状态的问题。这为AI助手提供了更便捷的跨应用操作能力，对元宝产品经理在实现AI代理自动化操作和用户身份集成方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-turmoil-spurs-valuation-rethink-of-japan-s-ai-shares": {
+    "title_clean": "Nvidia动荡引发日本AI股票估值重新评估",
+    "summary": "Nvidia CEO黄仁勋突然离职引发市场动荡，导致日本AI相关股票面临估值重估。这些股票曾因AI概念获得溢价，但现在被认为风险过高，反映了AI投资情绪的变化和对供应链稳定性的担忧。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team": {
+    "title_clean": "马斯克称罢免黄仁勋如同让迈克尔乔丹离队",
+    "summary": "马斯克公开表示，罢免英伟达CEO黄仁勋就像让迈克尔乔丹离开球队一样不合理，并强调黄仁勋对美国忠诚。这反映了科技领袖间的关系动态，对理解行业格局和潜在合作/竞争关系有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit": {
+    "title_clean": "微软CEO对英伟达新任CEO表示信心",
+    "summary": "微软CEO萨提亚·纳德拉对英伟达临时CEO科莱特·克雷斯表示信心，这表明微软对英伟达领导层过渡的支持态度，对AI芯片供应链和AI服务提供商的战略合作关系有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/hands-nvidia-interim-ceo-tried-reassure-employees-prevent-talent-loss": {
+    "title_clean": "Nvidia 全体会议：临时CEO安抚员工，防止人才流失",
+    "summary": "Nvidia在全体会议上，临时CEO Colette Kress试图安抚员工情绪，防止潜在的人才流失风险。这一事件反映了AI行业领军企业面临的人才竞争压力，对元宝产品经理了解AI行业人才动态和企业稳定性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-18/opinion-how-anthropic-can-capture-30-trillion-video": {
+    "title_clean": "Anthropic：瞄准30万亿美元市场潜力",
+    "summary": "Anthropic计划通过深入医疗、法律、金融和网络安全等行业来实现其宣称的30万亿美元潜在收入。这反映了AI巨头向高价值垂直领域扩张的战略方向，对元宝产品经理思考行业应用场景和商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/meta-pauses-new-stock-plan-amid-legal-challenge": {
+    "title_clean": "Meta 暂停新股票计划应对法律挑战",
+    "summary": "Meta 暂停了发行新股的计划，该计划旨在为AI支出筹集更多资金，目前正面临股东诉讼。这反映了大型科技公司为AI发展筹集资金时面临的股东法律挑战，对元宝产品经理了解AI商业化过程中的资本策略风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-18/how-young-workers-are-building-careers-in-an-ai-world-video": {
+    "title_clean": "New Work Foundation CEO：探讨AI对年轻就业者的影响",
+    "summary": "New Work Foundation创始人兼CEO Clara Shih在Anthropic IPO后讨论AI可能取代工人的风险，探讨AI时代如何帮助年轻工作者适应就业市场变化，对元宝产品经理了解AI对就业市场的影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range": {
+    "title_clean": "Anthropic：AI公司Claude母公司IPO定价83美元",
+    "summary": "Anthropic将其IPO股票定价为83美元，高于预期范围，作为Claude的创造者，该公司在投资者中获得了远超融资目标的认购需求，这标志着AI领域的重要市场事件。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range": {
+    "title_clean": "Anthropic IPO定价高于预期，估值达1.5万亿美元",
+    "summary": "Anthropic公司IPO定价为每股83美元，高于预期范围，完全稀释后估值达1.5万亿美元。这反映了市场对AI助手领域头部企业的强劲信心，对元宝产品经理评估AI助手商业化路径和竞品估值具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/kpmg-canada-clients-tax-data-accessed-amid-spate-of-hacks": {
+    "title_clean": "KPMG加拿大客户税务数据遭黑客访问",
+    "summary": "KPMG加拿大遭遇网络安全入侵，导致部分客户税务文件被访问。此事件反映了企业级数据安全风险，对AI助手处理敏感财务信息的安全设计有警示意义，产品经理需考虑如何增强数据保护机制。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report": {
+    "title_clean": "Nvidia推迟提交季度财报文件",
+    "summary": "Nvidia宣布将推迟提交常规的季度财报文件10-Q，这一异常举动引起华尔街分析师关注。作为AI芯片领域的领导者，Nvidia的财务报告延迟可能对AI行业投资方向和市场预期产生重要影响，值得产品经理关注行业巨头动向及其对AI生态的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-18/citi-ceo-expects-more-tech-outages-video": {
+    "title_clean": "花旗CEO预计更多技术故障",
+    "summary": "花旗集团CEO Jane Fraser表示对美国近期频发的技术故障并不意外，称大量技术补丁正在推出。这反映了金融机构在快速技术更新下面临的系统稳定性挑战，对AI服务提供商的系统可靠性管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running": {
+    "title_clean": "Palmer Luckey警告AI网络攻击防御滞后：'是时候开始奔跑了'",
+    "summary": "Anduril联合创始人Palmer Luckey指出，过时的技术使系统易受新型AI攻击的威胁，AI网络攻击能力已超过防御能力，产品经理需关注AI安全威胁对AI助手产品安全架构的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-18/anthropic-is-positive-for-ipo-market-fraser-says-video": {
+    "title_clean": "Anthropic IPO获花旗CEO正面评价：利好市场",
+    "summary": "花旗集团CEO Jane Fraser在彭博社活动中表示，Anthropic的IPO对市场是积极信号。这表明大型AI初创企业的资本市场环境正在改善，为元宝等AI产品提供了融资和估值参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/palo-alto-networks-acquire-ai-firm-applied-compute-4-5-billion": {
+    "title_clean": "Palo Alto Networks收购AI公司Applied Compute",
+    "summary": "Palo Alto Networks宣布以45亿美元股票收购由三位前OpenAI研究人员创立的AI初创公司Applied Compute。此次收购反映了网络安全巨头对AI技术的战略布局，对元宝产品经理了解AI领域大型并购趋势和企业级AI应用方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/us-charges-russian-as-foreign-agent-targeting-palantir-workers": {
+    "title_clean": "美国指控俄罗斯特工骚扰Palantir员工",
+    "summary": "美国检察官指控一名俄罗斯公民作为外国代理人，涉嫌秘密收集Palantir Technologies公司员工信息，针对乌克兰战争期间该公司被使用的情况。这反映了地缘政治对AI公司安全与数据保护的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie": {
+    "title_clean": "Sam Altman：对电影中扮演自己的角色表示无感",
+    "summary": "OpenAI CEO Sam Altman表示，Andrew Garfield将在新电影中扮演自己这一事件，并非他生活中最奇怪的事情之一。这反映了Altman对其个人形象被娱乐化的态度，对AI行业领袖公众形象管理有一定参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor": {
+    "title_clean": "Snapchat：AI助手辅助开发AR滤镜工具",
+    "summary": "Snapchat推出新功能，允许开发者通过自然语言描述需求，由AI助手(如Claude Code和Cursor)全程辅助完成AR滤镜的开发工作，大幅降低了AR内容创作的技术门槛。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-birches-health-2": {
+    "title_clean": "Birches Health：赌博成瘾治疗平台CEO访谈",
+    "summary": "Birches Health创始人兼CEO Elliot Rappaport接受CB Insights访谈，分享了公司对市场的看法、客户需求以及治疗赌博成瘾的经验。这对元宝产品经理了解垂直领域AI健康服务的商业模式和用户痛点有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation": {
+    "title_clean": "Bret Taylor的Sierra：AI客服创业公司寻求300亿美元估值融资",
+    "summary": "由前Salesforce联合CEO Bret Taylor创立的AI客服创业公司Sierra正寻求新一轮融资，估值约300亿美元。这反映了AI客服领域的快速增长和资本对AI服务场景的高度关注，对元宝产品经理评估AI客服赛道竞争格局和商业化潜力具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/diagnose-recurring-technical-problem-google-gemini": {
+    "title_clean": "How to Diagnose a Recurring Technical Problem with Google Gemini：使用Gemini解决IT技术问题",
+    "summary": "本文介绍如何利用Google Gemini诊断反复出现的技术问题，帮助提高员工生产力并减轻IT支持团队压力。对于产品经理而言，这展示了AI助手在解决企业技术支持场景中的应用价值，可作为元宝产品在类似场景下的功能参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time": {
+    "title_clean": "微调耗时与计算量不符的原因分析",
+    "summary": "该文章探讨了AI模型微调过程中实际耗时与理论计算量(FLOPs)不匹配的原因，可能涉及硬件瓶颈、软件优化不足或算法效率问题，对产品经理评估AI训练成本和性能优化方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-bardin-ai": {
+    "title_clean": "Bardin AI CEO访谈：探讨市场洞察与客户需求",
+    "summary": "Bardin AI联合创始人兼CEO Fay Goldstein接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及业务发展策略。访谈内容揭示了当前潜在客户关注点的变化，为AI产品经理提供了市场趋势和客户需求变化的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked": {
+    "title_clean": "多家银行表示客户使用AI代理需自行负责，即使遭遇黑客攻击",
+    "summary": "花旗银行等大型金融机构开始限制个人财务AI代理的使用，明确表示客户在使用AI工具时需自行承担风险，即使遭遇黑客攻击也不提供保护。这反映了金融机构对AI代理安全性和责任划分的担忧，对AI助手在金融场景的应用具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/thoma-bravo-s-proofpoint-cuts-costs-on-2-billion-debt-deal": {
+    "title_clean": "Thoma Bravo's Proofpoint削减20亿美元债务成本",
+    "summary": "Thoma Bravo支持的Proofpoint公司正在削减其近20亿美元债务的借贷成本，并取消对投资者的折扣，这表明贷款人积极涌入该交易。这一财务调整反映了企业安全软件领域的融资环境变化，对元宝产品经理了解企业级AI服务的商业融资模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-low-profile-cfo-guides-firm-through-cone-of-uncertainty": {
+    "title_clean": "Anthropic CFO助力公司成长为AI巨头，推进IPO计划",
+    "summary": "Anthropic公司首席财务官Krishna Rao正带领公司从初创企业成长为AI领域的强大力量，同时公司正推进IPO计划。此前，美国国防部曾推动Anthropic放宽AI安全限制，显示其技术已获得政府层面的关注与潜在应用需求。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/startups/arr-measure-ai-venture-growth-capital-zayani-rtp": {
+    "title_clean": "AI公司ARR之外的衡量指标",
+    "summary": "探讨AI公司采用混合订阅、使用量和结果导向的定价模式后，传统ARR指标已无法可靠预测收入，常掩盖客户承诺和支出的真实差异，为产品经理提供定价策略和收入评估的新视角。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-18/asian-stocks-waver-after-nvidia-results-video": {
+    "title_clean": "亚洲股市在英伟达财报后波动",
+    "summary": "亚洲股市在英伟达业绩超预期后仍表现犹豫，投资者对AI行业前景保持谨慎态度。这反映了市场对AI板块的信心波动，对元宝产品经理评估AI商业化进程和市场接受度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers": {
+    "title_clean": "Humyn Labs：印度机器人数据服务商获4700万美元融资",
+    "summary": "印度Humyn Labs公司成立仅4个月即获4700万美元融资，主要为美国机器人公司提供数据服务，90%收入来自美国市场，与Mecka AI和XDOF等初创公司竞争。此轮融资反映AI机器人领域对高质量数据服务的需求增长，对元宝产品经理了解AI服务商业化路径和机器人行业数据供应链有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/advancing-chip-design-with-our-models": {
+    "title_clean": "OpenAI模型助力芯片设计优化",
+    "summary": "OpenAI模型优化了Jalapeño硅芯片中使用的电路并改进了RISC-V核心设计，展示了GPT-6 Astra在AI辅助芯片设计领域的进展，为AI辅助硬件开发提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo": {
+    "title_clean": "Anthropic：AI大模型公司获现有投资方追加IPO投资",
+    "summary": "Anthropic的现有风投投资者包括红杉资本和光速创投计划在其IPO中追加投资，这表明投资者对AI大模型公司的持续看好。这对元宝产品经理了解AI领域头部公司的融资动态和市场信心有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-salvo-health-2": {
+    "title_clean": "Salvo Health CEO访谈：健康服务市场洞察",
+    "summary": "Salvo Health联合创始人兼CEO Jeffrey Glueck接受CB Insights采访，分享公司对健康服务市场的看法、客户需求分析及业务实践。内容包含市场定位、客户洞察和公司战略，对AI健康服务产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/coatue-thrive-in-talks-to-lead-ramp-round-at-70-billion-value": {
+    "title_clean": "Ramp：企业支出管理平台获75亿美元估值融资",
+    "summary": "企业支出管理平台Ramp正与Coatue和Thrive Capital等投资者洽谈新一轮融资，估值可能高达750亿美元。这表明企业支出管理赛道受到资本高度关注，对元宝在B端服务场景和商业化路径上有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-manifest-os": {
+    "title_clean": "Manifest OS CEO访谈：操作系统市场定位与客户需求",
+    "summary": "Manifest OS创始人兼CEO Daniel Mishin接受CB Insights采访，分享了公司对市场的看法、客户需求分析以及自身在操作系统领域的定位。这为元宝产品经理提供了操作系统厂商的市场策略和客户洞察视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/googles-new-ai-chip-software-helps-battle-nvidia": {
+    "title_clean": "谷歌发布新AI芯片软件，挑战Nvidia市场地位",
+    "summary": "谷歌上月低调发布了一款AI芯片软件，尽管外界关注不多，但可能对其新兴的AI芯片业务产生重大影响。这款软件旨在增强谷歌AI芯片的竞争力，直接挑战Nvidia在AI芯片市场的主导地位，对AI硬件领域竞争格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work": {
+    "title_clean": "Model ML：AI投资银行自动化工具",
+    "summary": "Model ML获2.5亿美元融资，其AI代理能理解银行家与顾问正在处理的交易全貌，并在新情况出现时自动更新财务模型和演示文稿，旨在自动化投资银行的繁琐工作。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too": {
+    "title_clean": "Daydream：AI购物造型师助手",
+    "summary": "Daydream推出AI购物助手，能记住用户风格、虚拟试穿、搭配服装、追踪促销并完成购买。该产品结合了个性化造型推荐与自动化购物功能，为AI助手在时尚消费场景的应用提供了新思路。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/jensen-huang-would-honored-return-ceo-board-asks": {
+    "title_clean": "黄仁勋：若董事会要求，将荣幸地重返NVIDIA CEO职位",
+    "summary": "NVIDIA CEO黄仁勋表示，若董事会认为其回归符合公司股东、员工、公司及美国的最佳利益，他愿意重返CEO职位。这反映了NVIDIA领导层稳定性的重要信号，对关注AI芯片行业动态的产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/huang-is-willing-to-return-as-nvidia-ceo-if-board-allows-it": {
+    "title_clean": "NVIDIA前CEO黄仁勋愿意在董事会决定后重新担任CEO",
+    "summary": "NVIDIA前CEO黄仁勋在被解雇一周后表示收到了大量支持，并愿意重新执掌公司。这一高管变动可能影响AI芯片行业格局和NVIDIA的战略方向，对关注AI硬件和芯片市场的产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/pjm-proposes-grid-overhaul-to-speed-up-data-center-connections": {
+    "title_clean": "PJM提议电网改革以加速数据中心连接",
+    "summary": "美国最大电网运营商PJM Interconnection提出'快速通电'计划，旨在加速数据中心和发电站的连接，以回应监管机构对其处理速度缓慢的批评。这一改革可能影响AI数据中心的基础设施布局和能源供应策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes": {
+    "title_clean": "Anthropic：AI公司IPO面临较长时间等待",
+    "summary": "Anthropic计划进行首次公开募股，可能为指数追踪基金带来数十亿美元需求，但这家AI初创公司可能需要比SpaceX更长的时间才能加入指数。这对元宝产品经理了解AI行业融资动态和上市时间表有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/openais-astra-boon-robotics-says-nvidia-robotics-chief-deepu-talla": {
+    "title_clean": "OpenAI Astra：物理世界理解型AI模型",
+    "summary": "OpenAI于9月发布的Astra模型在理解物理世界任务上表现出色，Nvidia机器人部门主管Deepu Talla称其为机器人领域的重大突破。该模型对元宝产品经理的参考价值在于探索AI在物理世界交互和机器人应用场景的可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely": {
+    "title_clean": "美国收紧AI芯片出口管制，限制中国企业远程访问算力",
+    "summary": "美国发布临时规则，要求企业向中国等受限国家出口AI芯片必须获得许可证，旨在阻止中国企业通过远程方式获取先进计算能力。这一政策变化可能影响全球AI供应链格局，对元宝等AI产品在算力获取和国际化布局策略上需重新评估。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/catl-baidu-unitree-to-attend-apec-ceo-summit-in-shenzhen": {
+    "title_clean": "CATL、百度、宇通将参加深圳APEC CEO峰会",
+    "summary": "中国科技巨头CATL、百度和宇通的高管将齐聚深圳参加APEC CEO峰会，这是一场高规格的外交和商业活动，美国总统也将出席。此次峰会可能涉及AI技术合作与商业机会，对元宝产品经理了解中国科技企业动向和国际合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-barr-says-ai-agents-could-fuel-future-bank-runs": {
+    "title_clean": "美联储官员警告：AI代理可能引发银行挤兑",
+    "summary": "美联储官员Michael Barr警告称，自主AI代理可能通过自动转移客户存款加速银行挤兑等不稳定现象，这对金融稳定构成潜在风险。产品经理需关注AI代理在金融领域的应用风险，以及如何设计安全机制防止自动化行为引发系统性风险。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/global-banks-back-ai-linked-asia-currencies-to-lead-next-year": {
+    "title_clean": "全球银行支持AI相关亚洲货币引领明年走势",
+    "summary": "高盛和ING等全球银行预测亚洲科技相关货币将进一步升值，押注于人工智能领域的持续投资和美元走软。这一趋势对元宝产品经理具有重要参考价值，反映了AI投资与区域经济、货币市场的关联性，可能影响跨境支付、汇率服务等金融场景的产品策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/kazakh-fintech-tycoon-atop-world-chess-seeks-to-outplay-revolut": {
+    "title_clean": "国际象棋协会主席进军金融科技领域，挑战Revolut",
+    "summary": "国际象棋协会主席计划扩展其应用程序，挑战全球银行业格局。这位俄罗斯出生的金融科技大亨正利用其行业影响力，在金融科技领域打造新的竞争者，意图颠覆传统银行服务。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/sk-hynix-plans-chip-testing-hub-to-boost-smaller-korean-players": {
+    "title_clean": "SK海力士计划建设芯片测试中心以提升韩国小型芯片企业竞争力",
+    "summary": "SK海力士计划与韩国政府合作，明年开设半导体测试设施，旨在提升韩国小型芯片设备制造商的全球竞争力。这一举措可能影响AI芯片供应链和成本结构，对元宝的产品经理评估硬件合作伙伴关系和AI服务成本具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/krrLNW8B6-s2o35BVzDq2A": {
+    "title_clean": "韩松团队让Qwen3.8-27B在5090上操作机械臂",
+    "summary": "韩松团队成功让Qwen3.8-27B模型在5090显卡上运行并操作机械臂，性能接近GPT-6Astra水平。这展示了大模型在物理操作领域的突破，为AI助手实现物理世界交互提供了技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
   }
 }

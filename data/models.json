@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:03:05.307Z",
+  "generated_at": "2026-11-19T20:02:43.889Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -527,30 +527,6 @@
       "price_in": 0.3,
       "price_out": 1,
       "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Inkling 2 Small is an open-weight multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second...",
-      "description_zh": null
-    },
-    {
-      "id": "thinkingmachines/inkling-2-small:free",
-      "name": "Inkling 2 Small (free)",
-      "vendor": "Thinkingmachines",
-      "vendor_slug": "thinkingmachines",
-      "url": "https://openrouter.ai/thinkingmachines/inkling-2-small-20261107",
-      "created_at": "2026-11-09T22:04:07Z",
-      "context_length": 1048576,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Inkling 2 Small is an open-weight multimodal mixture-of-experts reasoning model from Thinking Machines Lab, with 17B active parameters out of 594B total. It is the first model in the second...",
@@ -1143,8 +1119,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1490,6 +1466,33 @@
       "supports_reasoning": true,
       "description": "LFM2.5-24B-A2B is a mixture-of-experts reasoning model from Liquid AI with 24B total and 2.45B active parameters. It always reasons before answering and is built for agents that call tools. Liquid...",
       "description_zh": "LFM2.5-24B-A2B 是来自 Liquid AI 的专家混合推理模型，共有 24B 个总参数和 2.45B 个活动参数。它总是在回答之前进行推理，并且是为调用工具的代理而构建的。液体..."
+    },
+    {
+      "id": "google/gemini-4-argon",
+      "name": "Gemini 4 Argon",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-4-argon-20261013",
+      "created_at": "2026-10-13T16:04:37Z",
+      "context_length": 1048576,
+      "modality": "text+image+file+audio+video->text",
+      "input_modalities": [
+        "audio",
+        "file",
+        "image",
+        "text",
+        "video"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 10,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Gemini 4 Argon is Google's flagship reasoning model, built for complex software engineering, deep mathematical and scientific problem solving, and autonomous multi-step agents. Google trained it to keep context across...",
+      "description_zh": "Gemini 4 Argon 是 Google 的旗舰推理模型，专为复杂的软件工程、深入的数学和科学问题解决以及自主多步骤代理而构建。谷歌训练它保持上下文......"
     }
   ]
 }

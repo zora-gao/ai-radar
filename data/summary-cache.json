@@ -176127,5 +176127,499 @@
       "多模态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/play-that-back": {
+    "title_clean": "Play That Back：iPhone双摄像头专业相机工具",
+    "summary": "Play That Back是一款专为iPhone双摄像头设计的专业相机应用，提供增强的摄影功能和拍摄体验。这款产品对元宝产品经理有参考价值，因为它展示了移动设备专业摄影工具的创新方向，可能启发AI在手机摄影场景中的应用思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tecla-3": {
+    "title_clean": "Tecla：AI主动代理任务管理工具",
+    "summary": "Tecla是一款以TODO列表为界面的主动式AI代理工具，能够预测用户需求并提前完成任务，为AI助手产品提供了任务主动管理的新思路，对元宝产品经理在AI代理功能设计上有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mio-click": {
+    "title_clean": "mio click：减压陪伴小工具",
+    "summary": "mio click是一款结合减压功能的陪伴小工具，通过互动缓解焦虑情绪。这类产品对AI助手在心理健康领域的应用有参考价值，特别是如何通过简单交互提供情感陪伴。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nuko": {
+    "title_clean": "Nuko：浏览器内动态设计工具",
+    "summary": "Nuko是一款在浏览器中运行的动态设计工具，让用户无需安装软件即可创建动画和动态效果。对于产品经理而言，这反映了轻量化、跨平台设计工具的发展趋势，可能启发元宝在多模态交互或创意辅助功能方面的产品方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/adside": {
+    "title_clean": "Adside：AI广告代理管理工具",
+    "summary": "Adside是一支专业AI代理团队，能够自动管理用户的付费广告投放。该产品通过AI代理技术简化广告管理流程，为元宝产品经理提供了AI在广告自动化服务场景的应用参考，有助于探索AI助手在商业服务领域的拓展可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cleared-quit-nicotine": {
+    "title_clean": "Cleared：戒烟计划管理工具",
+    "summary": "Cleared是一款帮助用户制定并执行戒烟计划的应用，支持针对电子烟、烟草袋和香烟等多种成瘾产品的戒断方案。产品经理可参考其健康干预类AI助手的设计思路，了解如何通过个性化计划和行为追踪提升用户坚持度。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/room-ai-2": {
+    "title_clean": "Room AI：AI室内设计助手",
+    "summary": "Room AI是一款AI室内设计工具，用户可通过对话方式获取室内设计建议，每次提供一项改进方案。该产品展示了AI在专业服务场景中的应用，为元宝在垂直领域AI助手开发提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fieldwork-code": {
+    "title_clean": "Fieldwork Code：云端与手机端AI编程工具",
+    "summary": "Fieldwork Code是一款支持在笔记本电脑或云端进行AI编程的工具，可通过手机操作。该产品实现了跨设备的编程能力，为移动场景下的代码开发提供了新思路，对元宝拓展移动端AI编程服务场景具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ofintech-desk": {
+    "title_clean": "OfinTech Desk：金融数据溯源AI工具",
+    "summary": "OfinTech Desk是一款金融AI工具，专注于确保每个数据都能追溯到其来源，为金融专业人士提供可验证的数据分析支持，有助于提升金融决策的准确性和透明度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/the-calm-creator-mastermind": {
+    "title_clean": "The Calm Creator Mastermind：独立创作者社群",
+    "summary": "The Calm Creator Mastermind是一个面向独立创作者的社群平台，旨在帮助那些感到孤独的创业者建立联系、分享经验并获取支持。这类社群对元宝产品经理有参考价值，因为它们反映了独立工作者对社交连接和互助的需求，这可能启发AI助手在支持独立创作者方面的功能设计。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/every-signal": {
+    "title_clean": "Every Signal：企业尽职调查工具",
+    "summary": "Every Signal是一款企业尽职调查工具，可在一小时内完成对任何公司的全面调查，所有数据均有明确来源。产品经理可关注其如何快速整合企业数据并呈现关键信息，这对元宝的企业信息查询和商业分析功能有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/testsprite": {
+    "title_clean": "TestSprite 4.0：AI测试代理工具",
+    "summary": "TestSprite 4.0是一款AI测试代理工具，能够自动检查软件修复是否引入新问题，解决'修复一个问题又引发另一个问题'的测试困境，为产品经理提供自动化测试解决方案参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-19/amundi-s-mortier-shifts-2027-strategy-away-from-big-tech-video": {
+    "title_clean": "Amundi CIO调整2027投资策略：减少对大型科技公司的依赖",
+    "summary": "Amundi首席投资官Vincent Mortier表示，公司正在重塑2027年的风险敞口，将不再采用市值加权基准，增加商品和黄金配置，并分散投资。这一策略转变反映了大型科技公司投资风险的重新评估，对AI产品经理了解企业级客户投资行为变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/european-stocks-rebound-as-anthropic-ipo-revives-the-ai-trade": {
+    "title_clean": "Anthropic IPO提振欧洲股市，AI交易信心恢复",
+    "summary": "欧洲股市结束三连跌，Anthropic的IPO成功提振了科技股抛售后的人工智能交易信心。这一事件表明AI领域仍具投资吸引力，对元宝产品经理评估AI市场情绪和商业化潜力有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-raises-107-3-billion-in-watershed-ai-debut-video": {
+    "title_clean": "Anthropic融资107.3亿美元：AI前沿实验室首次公开募资",
+    "summary": "Anthropic及其七位联合创始人通过IPO和私募融资创纪录地筹集107.3亿美元，成为首家通过公开市场融资开发思维AI的前沿实验室。这一融资规模标志着AI行业资本格局的重大变化，对元宝产品经理评估AI公司估值模型和商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-19/bitgo-sees-institutional-crypto-adoption-accelerating-video": {
+    "title_clean": "BitGo：机构加密货币托管服务加速扩展",
+    "summary": "BitGo亚太区董事总经理表示，监管清晰度提升正推动机构对数字资产兴趣增加，该公司正在亚太地区扩展业务。这反映了加密货币机构化趋势加速，对元宝在金融合规与资产托管场景的AI服务设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/meta-looks-to-hire-new-india-policy-chief-to-repair-frayed-ties": {
+    "title_clean": "Meta将任命印度政策负责人以修复与政府关系",
+    "summary": "Meta正在印度寻找高级公共政策负责人，旨在修复与这个最大增长市场政府之间的紧张关系。此举表明Meta重视印度市场，并试图通过政策沟通改善商业环境，对元宝在海外市场拓展和政府关系维护有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure": {
+    "title_clean": "韩国金融监管机构要求金融机构报告AI投资情况",
+    "summary": "韩国金融监管机构要求国内主要金融机构披露其在人工智能行业的投资情况，随着AI领域引发大量投资，监管机构对相关风险表示担忧。这一动态反映了AI在金融领域的影响力和监管趋势，对元宝产品经理了解AI在金融服务的应用和监管环境有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-19/alphabet-s-ruth-porat-on-the-ai-investment-frenzy-video": {
+    "title_clean": "Inside Google's AI Race with Ruth Porat",
+    "summary": "谷歌首席财务官Ruth Porat在Bloomberg访谈中分享了从华尔街救助到指导Alphabet AI投资的经历，特别是在谷歌搜索面临新时代挑战下的AI战略布局。这对元宝产品经理了解科技巨头AI投资决策和搜索领域竞争格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI搜索",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/india-startup-sells-deepseek-access-while-pursuing-sovereign-ai": {
+    "title_clean": "印度创业公司销售中国DeepSeek AI模型引发争议",
+    "summary": "印度创业公司Sarvam开始销售中国DeepSeek等AI模型的访问权限，此举引发网络反弹，因为该公司是印度AI独立性的主要倡导者之一。这一事件反映了AI模型国际流通与国家AI自主战略之间的矛盾，对元宝产品经理了解AI服务全球化与本地化平衡有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/R-sJR81nG6ZvJXk60faa7A": {
+    "title_clean": "openJiuwen：AgentOS「Harnessless」开发框架",
+    "summary": "openJiuwen发布AgentOS「Harnessless」开发框架，这是一种无需Harness的AI Agent开发范式，可能简化Agent构建流程，对AI Agent开发工具链有参考价值，值得关注其技术实现与产品定位。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropics-public-debut-looms": {
+    "title_clean": "Anthropic：Claude母公司即将公开上市",
+    "summary": "Anthropic作为Claude大模型背后的公司，正准备公开上市。这标志着AI领域又一家重要企业进入资本市场，对元宝产品经理了解AI行业格局变化和竞争对手动态具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round": {
+    "title_clean": "中国AI生物技术公司获2亿美元阿曼主权基金投资",
+    "summary": "中国生物技术初创企业MegaRobo Technologies获得近2亿美元融资，投资方包括阿曼主权财富基金。这反映了投资者对AI与生物技术结合领域的持续关注，对元宝产品经理评估AI在垂直领域的商业化路径有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/the-biggest-winners-in-anthropic-s-landmark-public-offering": {
+    "title_clean": "Anthropic 公开募股最大赢家：Claude 聊天机器人制造商创纪录上市",
+    "summary": "Anthropic 公开募股创下纪录，为押注 Claude 聊天机器人制造商的几家金融公司带来数十亿美元回报。这反映了 AI 助手领域的商业化进程加速，对元宝产品经理评估 AI 公司估值模型和商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/coreweave-s-mcbee-favors-data-center-spending-over-repaying-debt": {
+    "title_clean": "CoreWeave创始人：技术投资优于债务回购",
+    "summary": "CoreWeave联合创始人Brannin McBee表示，将现金投资于计算能力比回购部分高收益债务能带来更好回报，这些债务此前已受到市场关注。这反映了AI基础设施公司对技术投入的优先考量，对元宝产品经理评估AI服务底层资源策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web": {
+    "title_clean": "微软CEO预测AI代理将重塑网络经济格局",
+    "summary": "微软CEO萨提亚·纳德拉表示，AI代理可能颠覆当前以广告为主导的商业模式，迫使亚马逊等企业重新思考如何竞争客户资源。这对元宝产品经理具有重要参考价值，提示AI代理可能改变互联网商业生态，影响产品竞争策略和商业模式设计。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-prices-ipo-83-share": {
+    "title_clean": "Anthropic完成810亿美元超规模IPO",
+    "summary": "Anthropic宣布完成810亿美元规模的IPO，发行价定为每股83美元，高于此前70-78美元的营销区间。这一融资规模远超预期，反映了市场对AI基础模型公司的高度认可，对元宝产品经理评估AI行业资本动向和竞争格局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share": {
+    "title_clean": "Anthropic完成1073亿美元融资，创史上最大IPO",
+    "summary": "Anthropic通过IPO和私募融资共筹集1073亿美元，成为首家通过公开市场融资的前沿AI实验室，这笔资金将用于其AI模型开发。这一创纪录的融资反映了资本市场对AI基础设施的强烈信心，也为元宝等AI产品提供了行业资金动向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis": {
+    "title_clean": "Anthropic IPO关键数据：三年零收入到年收入17亿美元",
+    "summary": "Anthropic在成立三年零收入后，IPO文件显示其年收入达17亿美元，拥有11,900名年消费至少10万美元的客户。这些数据反映了AI初创企业的快速增长轨迹和商业化潜力，对元宝产品经理评估AI公司商业化路径具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin": {
+    "title_clean": "DaisyRose-27B：提升后训练效率的前沿模型",
+    "summary": "DaisyRose-27B是一款专注于提升后训练效率的大语言模型，通过优化训练流程和资源利用，显著提高了模型性能和训练效率。这一技术进展对元宝产品经理在模型选型、性能优化和成本控制方面具有重要参考价值，特别是在追求高效能AI服务的竞争环境中。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-18/nvidia-argues-to-investors-it-can-thrive-without-huang-video": {
+    "title_clean": "Nvidia：向投资者证明公司无需黄仁勋也能持续发展",
+    "summary": "Nvidia在黄仁勋离职后的首次财报更新中向投资者传达明确信息：黄仁勋不会回归，公司无需依赖他也能保持良好发展。这对AI硬件领域的企业治理和领导力传承具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-18/insight-with-haslinda-amin-11-18-2026-video": {
+    "title_clean": "普京与习近平在特朗普峰会前加强合作",
+    "summary": "普京与习近平在重要特朗普峰会前加强合作，这一政治动态可能影响全球地缘政治格局。作为AI产品经理，需关注此类国际政治事件对全球市场稳定性和用户情绪的潜在影响，间接影响AI助手在国际新闻和趋势分析场景的应用价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/customer-stories/sumitomo-life": {
+    "title_clean": "How Sumitomo Life's leaders helped teams adopt ChatGPT Enterprise：日本保险公司高管推动ChatGPT企业版应用",
+    "summary": "日本住友生命保险公司采用ChatGPT企业版进行保险商研究、提案准备和投资分析代码编写。高管率先使用并推动团队采纳，展示了企业级AI助手在保险行业的实际应用场景和领导层推动AI落地的策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership": {
+    "title_clean": "Le Groupe Figaro与OpenAI合作：将新闻内容引入ChatGPT",
+    "summary": "法国媒体集团Le Groupe Figaro与OpenAI达成合作，通过摘要和摘录形式将新闻内容引入ChatGPT，并提供原文链接。这一合作展示了传统媒体与AI平台的融合模式，为元宝产品经理提供了内容合作与AI信息整合的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-crypto-11-17-2026-video": {
+    "title_clean": "加密货币交易所OKXICE与Anthropic永续期货争议",
+    "summary": "Bloomberg Crypto报道了去中心化金融领域的重要人物、交易和技术，包括True Markets创始人兼CEO Vishal Gupta和DTCC数字资产负责人等嘉宾，探讨了OKXICE和Anthropic永续期货相关争议及'问题赌徒'话题，为金融科技产品经理提供加密货币市场动态参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/moe-expert-streaming": {
+    "title_clean": "180B参数，32GB内存：推动Transformer MoE推理极限",
+    "summary": "该研究探讨了如何通过优化技术使180B参数的混合专家模型在32GB内存设备上高效运行，展示了大型模型推理的突破性进展，对元宝产品经理在模型性能优化和资源管理方面具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-17/take-two-s-firaxis-maker-of-civilization-cuts-a-third-of-its-staff": {
+    "title_clean": "文明游戏开发商Firaxis裁员三分之一",
+    "summary": "《文明》系列游戏开发商Firaxis于周二裁员约60人，占员工总数的三分之一。这反映了游戏行业面临的挑战，对元宝产品经理了解游戏行业AI应用场景和团队规模管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-17/ferragu-sees-strong-case-to-buy-nvidia-shares-video": {
+    "title_clean": "New Street分析师建议买入英伟达股票：财报前存在强劲买入理由",
+    "summary": "New Street Research分析师Pierre Ferragu维持对英伟达股票的买入评级，认为近期股价下跌增强了买入理由。他指出CEO黄仁勋的辞职不会影响短期业绩，暗示英伟达在AI芯片市场仍具投资价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video": {
+    "title_clean": "Nvidia：芯片巨头CEO更迭与财报周",
+    "summary": "Nvidia正经历关键一周，包括CEO人选搜索和财报发布。同时，特朗普计划在中国与习主席和普京会面，涉及AI芯片贸易等议题。这对AI硬件供应链和中美科技竞争格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-16/hadrian-targets-critical-bottleneck-in-us-shipbuilding-video": {
+    "title_clean": "Hadrian：美国海军船舶关键部件制造商",
+    "summary": "国防制造商Hadrian投资3亿美元收购并改造宾夕法尼亚州一家历史悠久的铸造厂，该厂生产美国海军舰艇和潜艇的关键部件。这反映了AI在国防工业供应链中的潜在应用机会，特别是对高可靠性、高精度制造场景的参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

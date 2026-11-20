@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-19T20:02:43.889Z",
+  "generated_at": "2026-11-20T02:49:29.904Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "mistralai/pixtral-large-2502",
+      "name": "Pixtral Large 2502",
+      "vendor": "Mistral AI",
+      "vendor_slug": "mistralai",
+      "url": "https://openrouter.ai/mistralai/pixtral-large-2502",
+      "created_at": "2026-11-20T00:51:05Z",
+      "context_length": 128000,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 6,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": false,
+      "description": "Pixtral Large 2502 is the February 2025 version of Mistral AI's large multimodal model, following Pixtral Large 2411. It accepts text and image input, including documents, charts, and natural images,...",
+      "description_zh": null
+    },
     {
       "id": "google/gemini-4-neon",
       "name": "Gemini 4 Neon",
@@ -1074,7 +1098,7 @@
       "price_in": 0.372,
       "price_out": 5.583,
       "is_free": false,
-      "supports_tools": false,
+      "supports_tools": true,
       "supports_reasoning": true,
       "description": "Kimi K3.1 Pro is Moonshot AI's flagship open-weight multimodal reasoning model and a post-trained successor to Kimi K3, with a 1M-token context window. It is built for long-horizon coding, 3D...",
       "description_zh": "Kimi K3.1 Pro 是 Moonshot AI 的旗舰开放权重多模态推理模型，也是 Kimi K3 的后训练后继者，具有 1M 代币上下文窗口。它专为长视野编码、3D..."
@@ -1119,8 +1143,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.3,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1143,8 +1167,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.3,
+      "price_out": 1.2,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1466,33 +1490,6 @@
       "supports_reasoning": true,
       "description": "LFM2.5-24B-A2B is a mixture-of-experts reasoning model from Liquid AI with 24B total and 2.45B active parameters. It always reasons before answering and is built for agents that call tools. Liquid...",
       "description_zh": "LFM2.5-24B-A2B 是来自 Liquid AI 的专家混合推理模型，共有 24B 个总参数和 2.45B 个活动参数。它总是在回答之前进行推理，并且是为调用工具的代理而构建的。液体..."
-    },
-    {
-      "id": "google/gemini-4-argon",
-      "name": "Gemini 4 Argon",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemini-4-argon-20261013",
-      "created_at": "2026-10-13T16:04:37Z",
-      "context_length": 1048576,
-      "modality": "text+image+file+audio+video->text",
-      "input_modalities": [
-        "audio",
-        "file",
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2,
-      "price_out": 10,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemini 4 Argon is Google's flagship reasoning model, built for complex software engineering, deep mathematical and scientific problem solving, and autonomous multi-step agents. Google trained it to keep context across...",
-      "description_zh": "Gemini 4 Argon 是 Google 的旗舰推理模型，专为复杂的软件工程、深入的数学和科学问题解决以及自主多步骤代理而构建。谷歌训练它保持上下文......"
     }
   ]
 }

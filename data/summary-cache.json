@@ -179636,5 +179636,383 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/publicit": {
+    "title_clean": "Publicit：全渠道广告基础设施",
+    "summary": "Publicit为营销人员和AI代理提供全渠道广告基础设施，支持跨平台广告投放与管理。该产品可能帮助元宝团队了解AI代理在广告领域的应用场景，以及如何构建支持多渠道营销的AI服务能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/doddle-3": {
+    "title_clean": "Doddle：视频转3D效果工具",
+    "summary": "Doddle是一款视频处理工具，可将普通视频转换为3D效果，为视频创作者提供快速添加立体视觉元素的能力。该工具可能简化了传统复杂的3D视频制作流程，对元宝在多媒体内容生成和视频编辑功能方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/greatai-review": {
+    "title_clean": "greatai：开源与非营利组织免费AI+人工代码审查服务",
+    "summary": "greatai为开源项目和非营利组织提供免费的AI辅助人工代码审查服务，结合AI技术与人工审核，帮助提升代码质量。这对元宝产品经理有参考价值，可作为AI辅助专业服务场景的案例，探索如何将AI技术应用于特定领域的专业服务中。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/prompt-puncher": {
+    "title_clean": "Prompt Puncher：AI CEO格斗游戏",
+    "summary": "Prompt Puncher是一款以AI CEO角色为主题的格斗游戏，玩家可以操控不同领域的AI CEO角色进行对战。这款产品展示了AI技术在游戏娱乐领域的创新应用，为元宝产品经理提供了AI游戏化交互的参考案例，有助于探索AI与娱乐结合的新场景。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/alter-contacts-ai-client-relationships": {
+    "title_clean": "Alter Contacts：AI客户关系管理助手",
+    "summary": "Alter Contacts是一款AI客户关系管理助手，能够主动思考和执行任务，帮助用户管理客户关系。这款产品展示了AI在客户服务领域的应用潜力，为元宝产品经理提供了AI助手在客户关系管理场景下的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openvorld": {
+    "title_clean": "OpenWorld：AI Agent 可视化平台",
+    "summary": "OpenWorld是一个为AI Agent提供可视化界面的平台，让用户能够直观地看到和管理AI Agent的工作空间。这一产品对元宝产品经理有参考价值，因为它解决了AI Agent交互可视化的痛点，有助于提升用户对AI Agent的理解和信任度。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/beat-watcher": {
+    "title_clean": "Beat Watcher：Apple Watch心率监测与家庭共享工具",
+    "summary": "Beat Watcher是一款针对Apple Watch的应用，可快速监测心率并允许用户将心率数据分享给家人，提供健康监测与家庭关怀功能，对元宝在健康监测场景下的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/backspin": {
+    "title_clean": "Backspin：浏览器虚拟DJ打碟工具",
+    "summary": "Backspin是一款浏览器内的虚拟DJ打碟工具，用户可以在真实黑胶唱盘界面上学习DJ技巧。该产品为音乐爱好者提供了无需专业设备即可体验DJ操作的场景，对元宝探索音乐教育、虚拟乐器交互等AI服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/shipyard": {
+    "title_clean": "Shipyard：AI工具集成自动化平台",
+    "summary": "Shipyard推出MCP协议支持，为Claude、Cursor和Codex等AI工具提供自动化集成功能，帮助开发者简化跨工具工作流程，提升AI开发效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/glassmail": {
+    "title_clean": "Glassmail：Mac端AI邮件助手",
+    "summary": "Glassmail是一款专为Mac平台设计的快速邮件应用，集成AI功能且完全在本地运行，不离开Mac设备。这款产品对元宝产品经理有参考价值，因为它展示了AI在邮件处理场景的本地化应用方案，可能启发元宝在隐私保护和本地AI能力方面的产品思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hollr-3": {
+    "title_clean": "Hollr：家庭对讲工具",
+    "summary": "Hollr是一款针对家庭用户的对讲应用，支持iPhone和Apple Watch设备，提供一键对讲功能，方便家庭成员间即时语音沟通。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets": {
+    "title_clean": "台湾禁止股票卖空以稳定市场",
+    "summary": "台湾金融监管委员会禁止本地股票卖空活动，这是其帮助稳定市场的最新举措。这一政策变化可能影响AI投资助手和金融类AI产品的市场环境与用户需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-sk-hynix": {
+    "title_clean": "软银孙正义探索万亿级收购SK海力士",
+    "summary": "软银CEO孙正义正与华尔街金融机构接洽，探讨以1万亿美元收购存储芯片巨头SK海力士的可能性。这一潜在收购若成功，将重塑全球芯片行业格局，对AI硬件供应链产生重大影响，值得元宝产品经理关注AI基础设施领域的资本动向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/WgJNWHiUImUiQmKu-mYevQ": {
+    "title_clean": "NeurIPS 2026|如何让LLM在推理中不断进化",
+    "summary": "这篇资讯介绍了NeurIPS 2026会议上关于大语言模型(LLM)推理能力持续进化的研究内容。对于元宝产品经理而言，这有助于了解AI模型推理能力的最新研究方向，可能启发产品在智能推理、问题解决能力方面的功能优化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/wonder-explores-sale-of-delivery-service-grubhub-wsj-reports": {
+    "title_clean": "Wonder 探索出售外卖服务 Grubhub",
+    "summary": "Wonder 正在考虑出售其旗下的外卖服务 Grubhub，这反映了外卖行业近期的一系列并购活动。对于元宝产品经理而言，这表明外卖服务领域可能存在整合机会，以及 AI 助手在服务场景中的潜在价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video": {
+    "title_clean": "华尔街周报：游戏大作、医疗成本与AI网络安全",
+    "summary": "本期华尔街周报讨论美国债务危机应对策略，并探讨GTA6等游戏大作影响，同时关注AI在网络安全领域的应用。内容涵盖金融政策、游戏产业和AI技术交叉领域，为产品经理提供行业趋势和潜在商业机会参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/anyprofile": {
+    "title_clean": "AnyProfile：跨平台反检测浏览器",
+    "summary": "AnyProfile是一款免费开源的反检测浏览器，支持Mac和Windows系统。这类工具通常用于管理多个在线身份，对理解用户隐私需求及平台反欺诈机制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/hindlian-advisory-ceo-on-ai-anthropic-market-sell-off-video": {
+    "title_clean": "Hindlian Advisory CEO：评Anthropic市场抛售与IPO前景",
+    "summary": "纽交所前全球资本市场主管、Hindlian Advisory创始人兼CEO Amanda Hindlian表示，Anthropic的IPO应与近期市场波动性周分开评判，这对AI公司估值和资本市场态度具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-ceo-vacations-at-italian-resort-after-public-listing": {
+    "title_clean": "Anthropic CEO：意大利度假庆祝上市成功",
+    "summary": "Anthropic CEO Dario Amodei在完成大规模IPO后，正在意大利南部豪华度假。这反映了Anthropic作为AI领域重要玩家已成功上市，对产品经理而言是AI行业商业化进程的重要信号，可能影响竞品策略和投资者对AI公司的估值预期。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-staff-complained-about-huang-s-behavior-years-ago-video": {
+    "title_clean": "Nvidia员工投诉黄仁勋行为：前员工诉讼揭示成功代价",
+    "summary": "彭博社报道，两名前Nvidia员工提起诉讼，揭示了公司前CEO黄仁勋在带领公司取得显著成功过程中，员工所付出的代价。这对了解科技企业文化与领导力问题有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too": {
+    "title_clean": "AI与数学家分别提出167年黎曼猜想解法",
+    "summary": "AI与数学家各自提出了黎曼猜想的解决方案，这一167年未解决的数学难题同时出现两种解法。这一进展展示了AI在复杂数学问题解决上的潜力，对元宝产品经理评估AI在专业领域推理能力有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/cloud-infrastructure-firm-cloudferro-is-said-to-weigh-warsaw-ipo": {
+    "title_clean": "CloudFerro：波兰云基础设施公司考虑华沙IPO",
+    "summary": "波兰云基础设施提供商CloudFerro SA正考虑在明年于华沙进行首次公开募股。这反映了云服务市场的持续增长和投资热度，对元宝产品经理了解云基础设施服务提供商的资本动向和市场定位有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/bessent-says-an-anthropic-founder-to-donate-will-trump-accounts": {
+    "title_clean": "Anthropic联合创始人计划在IPO后向特朗普账户捐款",
+    "summary": "Anthropic联合创始人兼首席计算官Tom Brown计划在公司IPO后向特朗普相关账户捐款，此举反映了Anthropic高管的政治立场，可能影响公司形象与商业环境，对产品经理评估企业政治风险与公关策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/musk-ally-akis-joins-board-of-doge-alumni-firm-after-new-round": {
+    "title_clean": "Musk盟友加入DOGE校友公司董事会",
+    "summary": "埃隆·马斯克盟友Baris Akis加入Special公司董事会，该公司由DOGE(政府效率部)的两名前员工领导。这反映了马斯克政府效率项目相关人才向商业领域的流动，可能影响AI在政府服务场景的应用方向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/inkling2mini": {
+    "title_clean": "Inkling 2 Mini：本地高性能AI模型",
+    "summary": "Inkling 2 Mini是一款面向本地部署的高性能AI模型，强调在本地环境中提供先进的计算能力。对于元宝产品经理而言，这反映了本地化AI部署的趋势，可能影响产品架构设计和用户隐私策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech": {
+    "title_clean": "5家值得关注的新创公司：太空反射镜太阳能、呼吸改善技术、智能垃圾车",
+    "summary": "本文介绍了5家值得关注的新创公司，包括利用地球轨道镜子延长太阳能发电时间的太空反射镜技术、改善呼吸健康的创新方案以及智能垃圾车解决方案。这些创新展示了科技在能源、健康和环境领域的应用潜力，为产品经理提供了跨行业创新思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/retail-investors-dive-into-both-sides-of-the-anthropic-trade": {
+    "title_clean": "零售投资者涌入Anthropic股票交易",
+    "summary": "Anthropic PBC股票在周四创下最繁忙的市场上市记录之一，零售投资者积极买入和卖出股票。这反映了AI领域投资热度，对元宝产品经理了解AI公司市场表现和投资者情绪有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity": {
+    "title_clean": "Anthropic IPO将向慈善捐赠156亿美元",
+    "summary": "Anthropic若以95美元股价上市，其公共福利基金会、员工捐赠及公司匹配资金总计将达156亿美元。这反映了AI公司独特的慈善承诺模式，对产品经理思考企业社会责任与商业平衡有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://machinelearning.apple.com/research/depth-pro-2-monocular": {
+    "title_clean": "Depth Pro 2：单目深度估计算法",
+    "summary": "Depth Pro 2是一种全分辨率图像和视频密集度量深度估计算法，通过分析现有单目深度估计方法的局限性，实现了更精确的深度预测，对AI视觉理解和多模态交互产品有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/learn/pr-scans-demo": {
+    "title_clean": "PR scans：代码审查扫描工具演示",
+    "summary": "该视频展示了PR扫描工具的实际操作流程，演示了如何在拉取请求工作流中审查扫描结果。对于元宝产品经理而言，这提供了AI辅助代码审查场景的参考价值，有助于理解开发者工具中AI应用的交互方式和用户需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness": {
+    "title_clean": "Meta与印度政府合作推出防诈骗微剧系列",
+    "summary": "Meta与印度信息广播部、Prasar Bharati、印度证券交易委员会及印度网络犯罪协调中心合作，推出印度首个政府主导的防诈骗微剧系列，旨在提高公众对各类诈骗的防范意识。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

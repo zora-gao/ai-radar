@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-21T02:16:13.702Z",
+  "generated_at": "2026-11-21T09:11:45.552Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "thinkingmachines/inkling-2-mini",
+      "name": "Inkling 2 Mini",
+      "vendor": "Thinkingmachines",
+      "vendor_slug": "thinkingmachines",
+      "url": "https://openrouter.ai/thinkingmachines/inkling-2-mini-20261120",
+      "created_at": "2026-11-21T02:19:45Z",
+      "context_length": 1048576,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.1,
+      "price_out": 0.4,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Inkling 2 Mini is an open-weight multimodal looped transformer from Thinking Machines Lab, with 3.4B active parameters out of 26.4B total (MoE). Its middle layers run three times with shared...",
+      "description_zh": null
+    },
     {
       "id": "radixark/daisyrose-27b",
       "name": "DaisyRose 27B",
@@ -25,7 +49,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "DaisyRose 27B is an open-weight multimodal reasoning model from RadixArk, trained from Qwen3.8 27B using reinforcement learning only on long-horizon agent tasks, with no supervised fine-tuning or distillation. It is...",
-      "description_zh": null
+      "description_zh": "DaisyRose 27B 是 RadixArk 的开放权重多模态推理模型，仅在长视野代理任务上使用强化学习从 Qwen3.8 27B 进行训练，没有监督微调或蒸馏。这是..."
     },
     {
       "id": "mistralai/pixtral-large-2502",
@@ -103,7 +127,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Gemini 4 Neon is a fast, mid-priced model in the Gemini 4 family from Google, built for coding and agentic work. It is suited for repository and terminal coding, web...",
-      "description_zh": null
+      "description_zh": "Gemini 4 Neon 是 Google Gemini 4 系列中一款快速、中等价格的型号，专为编码和代理工作而构建。它适用于存储库和终端编码、Web..."
     },
     {
       "id": "openai/gpt-6.2-astra-pro",
@@ -153,7 +177,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.2 Astra Pro is the same underlying model as GPT-6.2 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6.2 Astra Pro 与 GPT-6.2 Astra 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6.2-astra",
@@ -203,7 +227,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.2 Astra is the flagship model in the GPT-6.2 series from OpenAI, built for the hardest projects. It is suited for real-world engineering, professional work and scientific research, with stronger...",
-      "description_zh": null
+      "description_zh": "GPT-6.2 Astra 是 OpenAI GPT-6.2 系列中的旗舰型号，专为最困难的项目而打造。它适合现实世界的工程、专业工作和科学研究，具有更强的..."
     },
     {
       "id": "openai/gpt-6.2-sol-pro",
@@ -253,7 +277,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.2 Sol Pro is the same underlying model as GPT-6.2 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6.2 Sol Pro 与 GPT-6.2 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6.2-sol",
@@ -303,7 +327,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.2 Sol is an upgrade to GPT-6.1 Sol from OpenAI, positioned below the flagship GPT-6.2 Astra in the GPT-6.2 series. It is an efficient, versatile model for everyday work, suited...",
-      "description_zh": null
+      "description_zh": "GPT-6.2 Sol是OpenAI对GPT-6.1 Sol的升级版，定位低于GPT-6.2系列中的旗舰产品GPT-6.2 Astra。它是适合日常工作的高效、多功能模型，适合..."
     },
     {
       "id": "tencent/hy4-flash",
@@ -352,7 +376,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Qwen4 Max is the flagship model in Alibaba's Qwen4 series. It accepts text, image, and video input and returns text, with a 1M-token context window and reasoning enabled by default....",
-      "description_zh": null
+      "description_zh": "Qwen4 Max是阿里巴巴Qwen4系列的旗舰机型。它接受文本、图像和视频输入并返回文本，默认情况下启用 1M 令牌上下文窗口和推理......"
     },
     {
       "id": "inclusionai/ling-3.2-flash:free",
@@ -403,7 +427,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Gemini 4 Hydrogen is the high-efficiency workhorse model of the Gemini 4 family from Google, built for high-throughput agentic workflows, coding and multi-model routing at lower cost and latency than...",
-      "description_zh": null
+      "description_zh": "Gemini 4 Hydrogen 是 Google Gemini 4 系列的高效主力模型，专为高吞吐量代理工作流程、编码和多模型路由而构建，成本和延迟比..."
     },
     {
       "id": "google/gemini-4-hydrogen:batch",
@@ -430,7 +454,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Gemini 4 Hydrogen is the high-efficiency workhorse model of the Gemini 4 family from Google, built for high-throughput agentic workflows, coding and multi-model routing at lower cost and latency than...",
-      "description_zh": null
+      "description_zh": "Gemini 4 Hydrogen 是 Google Gemini 4 系列的高效主力模型，专为高吞吐量代理工作流程、编码和多模型路由而构建，成本和延迟比..."
     },
     {
       "id": "baidu/ernie-5.5-flash-preview:free",
@@ -476,7 +500,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "ERNIE-Light-DT-1.0 is based on open-source GLM models and includes research findings from Baidu Search's Lightning large model. It features Baidu Sparse Attention (BSA), a unique sparse attention mechanism developed by...",
-      "description_zh": null
+      "description_zh": "ERNIE-Light-DT-1.0基于开源GLM模型，包含百度搜索Lightning大模型的研究成果。它具有百度稀疏注意力（BSA），这是一种由...开发的独特稀疏注意力机制。"
     },
     {
       "id": "google/gemini-4-carbon",
@@ -530,7 +554,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Gemini 4 Carbon is a frontier Gemini 4 model from Google for coding, agentic and complex reasoning work. It takes text, image, audio, video and file input, supports long decode...",
-      "description_zh": null
+      "description_zh": "Gemini 4 Carbon 是 Google 的前沿 Gemini 4 模型，用于编码、代理和复杂推理工作。它接受文本、图像、音频、视频和文件输入，支持长解码..."
     },
     {
       "id": "nex-agi/nex-n2.6",
@@ -1467,30 +1491,6 @@
       "supports_reasoning": false,
       "description": "This model always redirects to the latest model in the Pareto family.",
       "description_zh": "此模型始终重定向到 Pareto 系列中的最新模型。"
-    },
-    {
-      "id": "unbiased/pareto-26.9",
-      "name": "Pareto 26.9",
-      "vendor": "Unbiased",
-      "vendor_slug": "unbiased",
-      "url": "https://openrouter.ai/unbiased/pareto-26.9-20260917",
-      "created_at": "2026-10-13T22:28:57Z",
-      "context_length": 262144,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 2.5,
-      "price_out": 7.5,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
-      "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。"
     }
   ]
 }

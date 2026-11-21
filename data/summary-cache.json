@@ -179189,5 +179189,452 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/saparo": {
+    "title_clean": "Saparo：购物优惠聚合助手",
+    "summary": "Saparo是一款购物优惠聚合助手，能够帮助用户整理和发现各类购物优惠信息，通过智能筛选和分类，让用户更便捷地找到最佳购物优惠，提升购物体验和节省开支。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/telo-2": {
+    "title_clean": "Telo：健康数据跨平台同步工具",
+    "summary": "Telo是一款工具，允许用户将Apple健康数据同步到ChatGPT和Claude等AI平台，突破地域限制，使AI助手能够访问用户的健康信息，为健康管理和AI助手结合提供新场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zethos": {
+    "title_clean": "Zethos：AI协作账本工具",
+    "summary": "Zethos是一款AI协作账本工具，旨在为用户和AI提供共同工作的基础平台。该产品可能解决了AI与人类协作时的信息同步和记录问题，为AI助手类产品提供了新的协作模式参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/inkrail": {
+    "title_clean": "Inkrail：复古打字机式深度工作工具",
+    "summary": "Inkrail是一款提供舒适怀旧打字机体验的应用，专为深度工作场景设计。它通过模拟传统打字机的触感和氛围，帮助用户在数字环境中获得专注的写作体验，对元宝产品经理在专注型AI助手设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/BBXJ_Cqo55n3ehguwDVsiA": {
+    "title_clean": "AI Native：蛋白质设计AI工具",
+    "summary": "AI Native推出蛋白质设计AI工具，类似ClaudeCode在编程领域的应用，专注于生物科技领域的蛋白质设计。该工具可能利用AI技术辅助蛋白质结构预测与设计，为生物科技研发提供新工具，对元宝在垂直领域AI应用拓展有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/nxr34ClHbxqVW3aULfyYVQ": {
+    "title_clean": "RoboScience：全球首个原生3D动力学预测世界模型",
+    "summary": "RoboScience推出全球首个原生3D动力学预测世界模型，专注于机器人操作领域。该模型能够预测物理世界中的3D动态变化，为机器人提供更精准的环境理解和操作能力，对AI助手在物理世界的应用拓展具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/bh1gq0ut2HemgUYvLe5hOA": {
+    "title_clean": "AI音乐团队登顶全球第一：18个月超越Suno",
+    "summary": "报道了一支AI音乐团队在18个月内超越行业领先者Suno，登顶全球第一。这对元宝产品经理了解AI音乐领域竞争格局、产品迭代速度和市场突破点有重要参考价值，特别是关于如何快速构建差异化竞争优势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/B06RecHvUZxemB3SjC-DIA": {
+    "title_clean": "DeepMind思考超越AGI的ASI未来",
+    "summary": "DeepMind开始思考超越人工通用智能(AGI)的人工超级智能(ASI)的未来发展方向，探讨AI发展的下一阶段可能性和挑战，为AI产品经理提供长期技术演进视角。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/tony-wang-on-crowdstrike-zscaler-deal-ai-trade-video": {
+    "title_clean": "Tony Wang谈CrowdStrike-Zscaler交易与AI投资趋势",
+    "summary": "T. Rowe Price科技股票投资组合经理Tony Wang分析AI周期变化及近期下跌是否创造买入机会，同时探讨CrowdStrike与Zscaler的交易影响，为AI行业投资策略提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude": {
+    "title_clean": "Anthropic研究员声称用Claude解决黎曼猜想问题",
+    "summary": "Anthropic研究员声称使用其AI软件Claude解决了著名的数论问题黎曼猜想。这一消息发生在Anthropic完成创纪录的首次公开募股之后，若被证实将是AI在数学领域重大突破，对AI解决复杂问题的能力验证具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-mathematician-says-proved-riemann-hypothesis": {
+    "title_clean": "Anthropic数学家称利用AI模型证明黎曼猜想",
+    "summary": "Anthropic数学家Levent Alpöge在其个人网站上发布文档，声称在Anthropic AI模型的帮助下解决了数学界最著名的未解问题——黎曼猜想。这一成果展示了AI在复杂数学问题解决上的潜力，对AI助手在专业领域推理能力的发展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/crowdstrike-talks-buy-zscaler": {
+    "title_clean": "CrowdStrike拟收购网络安全公司Zscaler",
+    "summary": "CrowdStrike正洽谈以320亿美元收购网络安全公司Zscaler，这表明网络安全领域正在加速整合，大型企业通过并购扩大市场份额，对AI安全产品经理而言，这可能预示着安全AI服务市场的整合趋势和竞争格局变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/scribe-ceo-jennifer-smith-on-ai-usage-in-the-workplace-video": {
+    "title_clean": "Scribe CEO谈AI在工作场所的应用",
+    "summary": "Scribe联合创始人兼CEO Jennifer Smith（前麦肯锡顾问）讨论了AI在工作场所的应用情况，指出研究显示用于工作任务的AI使用率不足4%。这反映了AI在企业实际应用中的低渗透率，对产品经理了解AI工具在企业市场的实际采用障碍有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/victor-peng-sees-ai-quantum-as-long-term-opportunities-video": {
+    "title_clean": "Victor Peng：量子计算与AI是长期发展机遇",
+    "summary": "PsiQuantum CEO兼前AMD总裁Victor Peng在彭博电视节目中表示，量子计算和光交换技术有望降低计算成本，这为AI和量子计算领域的长期发展提供了重要信号，对元宝产品经理评估未来技术方向具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/anthropic-shares-slide-banks-exercise-greenshoe": {
+    "title_clean": "Anthropic股价因银行行使'绿鞋机制'后下跌",
+    "summary": "Anthropic上市首日后股价下跌10%，此前收盘价较IPO价格高出17%。银行行使'绿鞋机制'（超额配售选择权）导致股价回调，这是新股上市后的常见现象，反映了市场对AI独角兽企业估值波动的关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/jpmorgan-gets-lowballed-below-80-cents-for-qualtrics-hung-debt": {
+    "title_clean": "摩根大通拟出售Qualtrics相关债务，投资者出价低于80美分",
+    "summary": "摩根大通正在考虑出售与Qualtrics收购相关的债务，但投资者出价低于面值的80美分，显示市场对该债务资产估值较低。这反映了企业并购后债务市场的波动性，对评估AI服务提供商的财务风险和投资价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building": {
+    "title_clean": "Spotify创始人投资AI研究员的核聚变能源初创公司",
+    "summary": "Spotify创始人Daniel Ek投资了由AI研究员创立的核聚变能源初创公司Europa Fusion。该初创公司专注于开发核聚变技术，探索清洁能源解决方案。对产品经理的参考价值在于了解AI技术在能源领域的跨界应用及投资趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics": {
+    "title_clean": "本周十大融资轮次：神经科技获4亿美元领衔，AI、金融科技和生物科技紧随其后",
+    "summary": "美国初创企业继续获得大额融资，其中脑机接口公司Science获得4亿美元新融资，AI、金融科技和生物科技等领域也有重大交易。这反映了神经科技和AI领域的投资热度，对元宝产品经理了解行业资本流向和技术发展重点有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/minerva-co-founder-on-the-risks-of-abliterated-models-video": {
+    "title_clean": "Odd Lots：Minerva联合创始人探讨模型混合使用的风险",
+    "summary": "Minerva联合创始人Daniel Saedi在Odd Lots播客中分享如何针对特定用例混合匹配AI模型，并讨论这种做法可能带来的风险。这对产品经理了解AI模型组合策略的潜在影响和风险管理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/spacex-closes-32-billion-debt-deal-steep-yields": {
+    "title_clean": "SpaceX完成320亿美元高息债务融资，主要用于采购英伟达芯片",
+    "summary": "SpaceX完成了一笔320亿美元的债务融资交易，主要用于采购英伟达芯片，融资成本高达8%以上。这反映了AI芯片需求激增背景下，科技巨头为获取算力资源不惜承担高融资成本的行业趋势。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/altruist-s-wenk-on-ai-next-era-of-financial-advice-video": {
+    "title_clean": "Altruist CEO谈AI与金融咨询新时代",
+    "summary": "Altruist CEO Jason Wenk与彭博社讨论加入Vanguard的影响，以及如何利用AI技术使金融咨询服务更加普惠化，探讨AI在金融咨询领域的应用前景与变革方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit": {
+    "title_clean": "开源AI科学峰会：加速科学发现的开源AI应用",
+    "summary": "开源AI科学峰会汇集了大学、医院和行业的研究人员，围绕使用开源AI加速科学发现展开讨论。这一活动展示了开源AI在科学研究领域的应用潜力，对元宝产品经理了解AI在专业领域的应用场景和合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing": {
+    "title_clean": "太空芯片融资困境：数据中心面临资金挑战",
+    "summary": "探讨太空芯片技术虽能适应太空环境，但融资却面临困境。贷款方不愿将抵押品送入轨道，这对太空数据中心的发展构成挑战，反映了航天科技商业化过程中的特殊融资难题。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion": {
+    "title_clean": "KKR拟以至少80亿美元估值收购EdgeCore数据中心业务",
+    "summary": "KKR旗下Helix Digital Infrastructure正在谈判收购EdgeCore Digital Infrastructure多数股权，估值至少80亿美元。这显示大型投资机构对数据中心和AI基础设施领域的持续看好，对元宝产品经理评估AI服务底层基础设施投资趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds": {
+    "title_clean": "AI nonprofit发现最新AI模型可完成一周工作量任务",
+    "summary": "AI研究机构METR发现，包括OpenAI的GPT-6 Astra在内的最新AI模型能够完成通常需要人类一整周工作时间的任务，这标志着AI在长时间复杂任务处理能力上已超越人类，对AI助手和Agent的产品设计具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/ing-s-500-million-data-center-loan-auction-stalls-on-low-bids": {
+    "title_clean": "ING数据中心贷款拍卖因出价过低而停滞",
+    "summary": "荷兰银行ING对约5亿美元的数据中心贷款拍卖需求低迷，导致贷款方寻求单独出售债务而非整体拍卖。这反映了数据中心金融市场的当前状况，对元宝产品经理评估AI基础设施投资环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropic-upstaged-openai-road-blockbuster-ipo": {
+    "title_clean": "Anthropic超越OpenAI，加速推进重磅IPO",
+    "summary": "Anthropic高管在旧金山总部向主要投资者简报最新财务状况，显示该公司在IPO道路上超越OpenAI的进展。这对元宝产品经理有参考价值，可了解AI行业头部企业融资动态和竞争格局变化，为产品战略和商业化路径提供市场信号。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets": {
+    "title_clean": "AI科技股抛售引发信用风险指标恶化",
+    "summary": "AI科技股抛售导致全球市场波动，部分超大规模云计算企业和芯片制造商的信用风险指标上升，债券价格下跌。这反映了AI投资热潮背后的市场风险，对元宝产品经理评估AI商业化风险和用户投资决策场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/combatting-adversarial-distillation": {
+    "title_clean": "OpenAI：对抗性蒸馏防御策略",
+    "summary": "OpenAI采用分层防御方法对抗对抗性蒸馏，结合模型训练、安全措施、检测和执行机制，保护模型能力不被提取。这对AI产品经理在模型安全防护和知识产权保护方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropics-vc-investors-letting-go": {
+    "title_clean": "Anthropic投资者为何不愿出售股份",
+    "summary": "Anthropic上市首日股价上涨17%，至少四家风投机构可能获得至少10倍投资回报。这反映了市场对AI基础模型商业价值的看好，以及投资者对Anthropic长期发展潜力的信心，对AI创业公司估值和退出策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-begins-trading-on-nasdaq-at-111-50-video": {
+    "title_clean": "Anthropic在纳斯达克上市，开盘价111.50美元",
+    "summary": "Anthropic在纳斯达克上市，股价较IPO价格上涨21%。这是AI领域头部公司的重要资本事件，对了解AI大模型公司的估值趋势和资本市场态度有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-19/lyft-airport-pickups-saw-double-digit-gain-during-us-ground-stop": {
+    "title_clean": "Lyft：美国航班停飞期间机场接送服务需求激增",
+    "summary": "美国航班停飞事件导致Lyft机场接送服务需求出现两位数增长，乘客转向地面交通，包括长途接送服务。这一突发需求变化为AI助手在交通场景中的应急服务提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development": {
+    "title_clean": "Anthropic CEO重申坚持AI发展节奏",
+    "summary": "Anthropic CEO在纳斯达克开盘仪式上重申，无论商业或政治压力如何，公司将继续坚持按自身节奏发展AI技术，这反映了Anthropic对AI安全与负责任发展的坚定立场。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-19/apple-has-a-software-problem-nvidia-s-ceo-crisis-with-joanna-stern": {
+    "title_clean": "苹果软件问题与英伟达CEO危机：Bloomberg科技评论",
+    "summary": "Bloomberg科技评论节目《Power On》深入探讨苹果软件领导力问题及英伟达CEO面临的挑战，由知名科技记者Joanna Stern参与分析。内容涉及科技巨头当前面临的核心挑战，对产品经理了解行业领导力问题和潜在市场信号有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/learn/deploying-daybreak-red": {
+    "title_clean": "Daybreak Red：安全调查参考架构",
+    "summary": "Daybreak Red发布了一个用于监督安全调查的参考架构，包含安全控制、设置和监控功能。这为AI安全工具提供了企业级部署方案，对元宝产品经理了解AI在安全领域的应用架构有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-18/moody-s-lowers-nvidia-s-ratings-outlook-to-stable-from-positive": {
+    "title_clean": "Nvidia信用评级展望下调至稳定：因治理担忧",
+    "summary": "穆迪将英伟达信用评级展望从正面下调至稳定，理由是公司治理问题，特别是长期首席执行官黄仁勋被解职后引发的担忧。这一变化反映了公司治理结构变动可能对业务稳定性的影响，对评估AI硬件供应商风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-20T19:28:03.392Z",
+  "generated_at": "2026-11-21T02:16:13.702Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "radixark/daisyrose-27b",
+      "name": "DaisyRose 27B",
+      "vendor": "Radixark",
+      "vendor_slug": "radixark",
+      "url": "https://openrouter.ai/radixark/daisyrose-27b-20261120",
+      "created_at": "2026-11-21T00:49:48Z",
+      "context_length": 262144,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.15,
+      "price_out": 1.875,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "DaisyRose 27B is an open-weight multimodal reasoning model from RadixArk, trained from Qwen3.8 27B using reinforcement learning only on long-horizon agent tasks, with no supervised fine-tuning or distillation. It is...",
+      "description_zh": null
+    },
     {
       "id": "mistralai/pixtral-large-2502",
       "name": "Pixtral Large 2502",
@@ -1143,8 +1167,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.3,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1167,8 +1191,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.036,
-      "price_out": 0.5,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1364,7 +1388,7 @@
         "text"
       ],
       "price_in": 0.15,
-      "price_out": 0.5,
+      "price_out": 0.47,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1467,29 +1491,6 @@
       "supports_reasoning": false,
       "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
       "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。"
-    },
-    {
-      "id": "liquid/lfm-2.5-24b-a2b",
-      "name": "LFM2.5-24B-A2B",
-      "vendor": "Liquid",
-      "vendor_slug": "liquid",
-      "url": "https://openrouter.ai/liquid/lfm-2.5-24b-a2b-20261012",
-      "created_at": "2026-10-13T17:20:25Z",
-      "context_length": 128000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.05,
-      "price_out": 0.7,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "LFM2.5-24B-A2B is a mixture-of-experts reasoning model from Liquid AI with 24B total and 2.45B active parameters. It always reasons before answering and is built for agents that call tools. Liquid...",
-      "description_zh": "LFM2.5-24B-A2B 是来自 Liquid AI 的专家混合推理模型，共有 24B 个总参数和 2.45B 个活动参数。它总是在回答之前进行推理，并且是为调用工具的代理而构建的。液体..."
     }
   ]
 }

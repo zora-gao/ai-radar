@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:11:45.552Z",
+  "generated_at": "2026-11-21T18:09:08.483Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -19,8 +19,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.1,
-      "price_out": 0.4,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -100,7 +100,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Gemini 4 Neon is a fast, mid-priced model in the Gemini 4 family from Google, built for coding and agentic work. It is suited for repository and terminal coding, web...",
-      "description_zh": null
+      "description_zh": "Gemini 4 Neon 是 Google Gemini 4 系列中一款快速、中等价格的型号，专为编码和代理工作而构建。它适用于存储库和终端编码、Web..."
     },
     {
       "id": "google/gemini-4-neon:batch",
@@ -152,7 +152,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.2 Astra Pro is the same underlying model as GPT-6.2 Astra, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6.2 Astra Pro 与 GPT-6.2 Astra 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6.2-astra-pro:batch",
@@ -202,7 +202,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.2 Astra is the flagship model in the GPT-6.2 series from OpenAI, built for the hardest projects. It is suited for real-world engineering, professional work and scientific research, with stronger...",
-      "description_zh": null
+      "description_zh": "GPT-6.2 Astra 是 OpenAI GPT-6.2 系列中的旗舰型号，专为最困难的项目而打造。它适合现实世界的工程、专业工作和科学研究，具有更强的..."
     },
     {
       "id": "openai/gpt-6.2-astra:batch",
@@ -252,7 +252,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.2 Sol Pro is the same underlying model as GPT-6.2 Sol, served with reasoning.mode set to pro for higher-quality responses on complex tasks. Cost note: pro mode spends far more...",
-      "description_zh": null
+      "description_zh": "GPT-6.2 Sol Pro 与 GPT-6.2 Sol 的底层模型相同，推理模式设置为 pro，以便对复杂任务做出更高质量的响应。成本说明：专业模式花费更多......"
     },
     {
       "id": "openai/gpt-6.2-sol-pro:batch",
@@ -302,7 +302,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "GPT-6.2 Sol is an upgrade to GPT-6.1 Sol from OpenAI, positioned below the flagship GPT-6.2 Astra in the GPT-6.2 series. It is an efficient, versatile model for everyday work, suited...",
-      "description_zh": null
+      "description_zh": "GPT-6.2 Sol是OpenAI对GPT-6.1 Sol的升级版，定位低于GPT-6.2系列中的旗舰产品GPT-6.2 Astra。它是适合日常工作的高效、多功能模型，适合..."
     },
     {
       "id": "openai/gpt-6.2-sol:batch",
@@ -527,7 +527,7 @@
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Gemini 4 Carbon is a frontier Gemini 4 model from Google for coding, agentic and complex reasoning work. It takes text, image, audio, video and file input, supports long decode...",
-      "description_zh": null
+      "description_zh": "Gemini 4 Carbon 是 Google 的前沿 Gemini 4 模型，用于编码、代理和复杂推理工作。它接受文本、图像、音频、视频和文件输入，支持长解码..."
     },
     {
       "id": "google/gemini-4-carbon:batch",
@@ -1191,8 +1191,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,

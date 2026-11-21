@@ -180014,5 +180014,216 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/waitfeed-2": {
+    "title_clean": "WaitFeed：AI助手等待时间内的信息流工具",
+    "summary": "WaitFeed是一款在AI助手处理请求的等待时间内向用户提供技术信息流的产品，旨在优化用户等待体验，减少等待焦虑，提高用户满意度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stitch-loop": {
+    "title_clean": "Stitch Loop：Google AI 代理修复工具",
+    "summary": "Google 推出 AI 代理 Stitch Loop，能够自动修复代码问题并监控指标表现。该工具展示了 AI 在软件开发运维领域的应用潜力，为元宝产品经理提供了 AI 自动化任务处理和系统监控的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/croon": {
+    "title_clean": "CROON：iPhone实时配音工具",
+    "summary": "CROON是一款为iPhone应用提供实时配音功能的工具，能够为正在播放的内容即时添加配音效果。这款产品对元宝产品经理有参考价值，因为它展示了AI在实时音频处理和交互场景中的应用，可能启发语音交互、内容创作或娱乐类AI功能的设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal": {
+    "title_clean": "Oracle完成OpenAI交易融资",
+    "summary": "Oracle宣布已筹集200亿美元股权和债务资金，完成与OpenAI的交易承诺。这笔巨额融资表明大型科技企业正积极布局AI领域，对元宝产品经理了解AI行业资本动向和合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/can-jensen-return": {
+    "title_clean": "Can Jensen Really Return?: 英伟达CEO黄仁勋回归可能性分析",
+    "summary": "本文探讨英伟达CEO黄仁勋是否可能回归公司领导岗位，分析其离职传闻的真实性及对英伟达未来战略的影响。对于关注AI芯片行业动态和英伟达产品策略的产品经理，此信息有助于理解行业领导层变动可能带来的产品方向调整。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gitroots": {
+    "title_clean": "gitroots：GitHub路径级访问工具",
+    "summary": "gitroots为开发者和AI代理提供GitHub的路径级访问功能，使AI能够直接操作和管理GitHub仓库中的特定文件和目录，为AI Agent与代码仓库的深度集成提供技术支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-21/gta-6-the-blockbuster-that-is-changing-gaming-forever-video": {
+    "title_clean": "GTA 6：改变游戏行业的重磅大作",
+    "summary": "GTA 6作为近期娱乐史上最重要的发布之一，探讨这款重磅游戏能否在行业面临裁员、整合和消费者支出放缓的背景下振兴整个游戏行业。对产品经理的参考价值在于了解顶级娱乐产品的市场影响力和行业复苏可能性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/smorza": {
+    "title_clean": "Smorza：Mac应用音量独立控制工具",
+    "summary": "Smorza是一款Mac应用，允许每个应用程序拥有独立的音量和输出控制功能。这款工具解决了多应用同时运行时音频管理的痛点，为产品经理提供了音频交互设计的参考价值，特别是在多任务处理场景下的用户体验优化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-11-21/apple-tv-4k-review-new-299-streaming-box-is-excellent-but-too-expensive": {
+    "title_clean": "Apple TV 4K评测：新299美元流媒体盒体验出色但价格过高",
+    "summary": "Apple发布新款299美元的Apple TV 4K流媒体盒，评测认为其性能和体验优秀，但高昂的价格使其难以获得广泛推荐。这对智能硬件和流媒体服务产品经理有参考价值，特别是在高端消费电子产品的定价策略上。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push": {
+    "title_clean": "中国计划加强AI令牌标准以推动计算发展",
+    "summary": "中国国家数据管理局将改进AI令牌的计量、计费和质量评估标准，以引导日益增长的AI计算产业发展。这一政策动向可能影响AI服务定价模式和成本结构，对元宝的产品定价策略和成本控制具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-21/china-deploys-5g-across-manufacturing-base-as-6g-testing-advances-cctv-reports": {
+    "title_clean": "中国制造业5G部署扩大，6G测试推进",
+    "summary": "中国正在制造业领域扩大5G应用，全国已建成超过26,000个私有工业5G网络，同时6G测试也在推进。这一趋势对元宝产品经理了解AI技术在工业场景的应用机会和基础设施发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/TZdcXjnuTyieM_S_XfFGPg": {
+    "title_clean": "alphaXiv：AI Agent专属预印本服务器",
+    "summary": "alphaXiv推出专为AI Agent设计的预印本服务器，为AI Agent研究提供专门的论文发布平台。这反映了AI Agent领域正在形成独立的研究生态，对元宝产品经理了解AI Agent研究前沿和学术资源获取渠道有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding": {
+    "title_clean": "Cognition AI：AI编程初创公司寻求750亿美元估值融资",
+    "summary": "AI编程初创公司Cognition AI正在以750亿美元的估值进行新一轮融资谈判，这距离其最近一轮融资仅过去两个月。这一高估值反映了市场对AI编程工具的强烈需求，对元宝产品经理评估AI编程赛道竞争格局和资本动向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-falls-after-blockbuster-debut-as-tech-sell-off-video": {
+    "title_clean": "Anthropic上市后股价回落，科技股抛售压力显现",
+    "summary": "Anthropic在创下破纪录的上市首日涨幅后，股价大幅回落，面临公众投资者的首次检验。这一动态反映了市场对AI公司估值的态度变化，对元宝产品经理评估AI企业上市表现及市场预期具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues": {
+    "title_clean": "Nvidia CEO Jensen Huang丑闻后续影响持续",
+    "summary": "Nvidia在处理CEO黄仁勋被解雇事件的后续影响的同时发布了最新财报，显示健康增长并承诺良好态势将持续。这对AI硬件供应商的产品经理了解行业领导层变动对业务的影响及公司应对策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/customer-stories/hebbia": {
+    "title_clean": "Hebbia：GPT-6 Astra提升金融研究能力",
+    "summary": "Hebbia测试了GPT-6 Astra在金融研究领域的应用，发现其在信息源覆盖、引用相关性和展示质量方面均有提升。这为AI助手在专业领域的应用提供了参考价值，特别是金融知识处理和报告生成能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/introducing-medchembench": {
+    "title_clean": "MedChemBench：AI药物发现评估工具",
+    "summary": "MedChemBench评估AI模型在药物早期发现中解读分子结构、基于实验证据推理和选择化合物的能力。该工具为AI在药物研发领域的应用提供了评估基准，对元宝产品经理了解AI在专业科学场景中的应用价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

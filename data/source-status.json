@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T22:39:36.132Z",
+  "generated_at": "2026-11-22T04:30:25.407Z",
   "sites": [
     {
       "site_id": "jiqizhixin",
       "site_name": "机器之心",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 573,
+      "duration_ms": 692,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "AI News",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 129,
-      "error": "Invalid character in entity name\nLine: 0\nColumn: 120\nChar: ="
+      "duration_ms": 211,
+      "error": "socket hang up"
     },
     {
       "site_id": "techcrunch-ai",
       "site_name": "TechCrunch AI",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 54,
+      "duration_ms": 271,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "The Information",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 65,
+      "duration_ms": 285,
       "error": null
     },
     {
       "site_id": "bloomberg-tech",
       "site_name": "Bloomberg Tech",
       "ok": true,
-      "item_count": 15,
-      "duration_ms": 430,
+      "item_count": 10,
+      "duration_ms": 630,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 118,
+      "duration_ms": 108,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
       "site_name": "There's An AI For That",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 122,
-      "error": "Status code 403"
+      "duration_ms": 993,
+      "error": "Invalid character in tag name\nLine: 31\nColumn: 169\nChar: ?"
     },
     {
       "site_id": "ycombinator",
       "site_name": "YC Companies",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 199,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Hugging Face Trending",
       "ok": true,
       "item_count": 915,
-      "duration_ms": 134,
+      "duration_ms": 185,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "Crunchbase",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 69,
+      "duration_ms": 191,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "CB Insights",
       "ok": true,
       "item_count": 25,
-      "duration_ms": 188,
+      "duration_ms": 179,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "OpenAI",
       "ok": true,
       "item_count": 1421,
-      "duration_ms": 120,
+      "duration_ms": 190,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "Google AI",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 171,
+      "duration_ms": 315,
       "error": null
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "Anthropic",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 211,
+      "duration_ms": 248,
       "error": "Status code 404"
     },
     {
@@ -118,7 +118,7 @@
       "site_name": "Meta",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1128,
+      "duration_ms": 1213,
       "error": null
     },
     {
@@ -126,7 +126,7 @@
       "site_name": "Microsoft AI",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 143,
+      "duration_ms": 146,
       "error": null
     },
     {
@@ -134,7 +134,7 @@
       "site_name": "Apple Intelligence",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 44,
+      "duration_ms": 165,
       "error": null
     },
     {
@@ -142,7 +142,7 @@
       "site_name": "Perplexity",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 100,
+      "duration_ms": 280,
       "error": "Status code 404"
     }
   ],
@@ -154,9 +154,9 @@
     "perplexity"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 2548,
-  "items_before_topic_filter": 779,
-  "items_in_24h": 38,
+  "fetched_raw_items": 2543,
+  "items_before_topic_filter": 776,
+  "items_in_24h": 26,
   "rss_opml": {
     "enabled": false,
     "path": null,

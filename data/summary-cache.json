@@ -180374,5 +180374,78 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/L1uJr_0iFFGn2jZ3qNRRow": {
+    "title_clean": "TML：开源循环Transformer模型",
+    "summary": "TML团队发布了一款开源的循环Transformer架构模型，特点是可以在普通笔记本上运行，降低了AI模型的硬件门槛，对产品经理评估轻量化AI部署方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/Pqzvc1Qke24lMPfq7HJ1hw": {
+    "title_clean": "Muse负责人如何理解普通人对AI助理的需求？",
+    "summary": "Muse负责人分享了对普通用户AI助理需求的见解，可能包含用户痛点、使用场景和产品方向思考，对元宝产品经理了解用户需求变化和竞品策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-22/china-objects-to-us-curbs-on-telecoms-access-to-phone-numbers": {
+    "title_clean": "中国反对美国限制电信公司获取电话号码",
+    "summary": "中国敦促美国撤销限制其三大电信公司直接获取美国电话号码的措施，称此举违反非歧视和公平竞争原则。这一政策可能影响中美电信合作及跨境通信服务，对元宝产品经理了解国际通信政策变化及潜在市场限制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias": {
+    "title_clean": "NVIDIA：财报表现与高管返任呼声的两面性",
+    "summary": "NVIDIA近期呈现两种截然不同的形象：一份亮眼的财报报告与高管们公开呼吁黄仁勋回归的呼声。这种分歧反映了公司内部可能存在的战略方向分歧，对AI芯片巨头的发展动向值得关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations": {
+    "title_clean": "加州调查Nvidia涉嫌向中国销售先进芯片并误导投资者",
+    "summary": "加州正在调查Nvidia公司是否非法向中国销售先进芯片并误导投资者，同时审查其可能违反州刑事法律的行为。此调查对产品经理了解AI芯片供应链风险、地缘政治对AI硬件供应的影响以及合规要求具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/-grand-theft-auto-vi-sells-3-79-billion-making-it-biggest-entertainment-launch-ever": {
+    "title_clean": "《侠盗猎车手VI》销售额达37.9亿美元，创娱乐产品首发纪录",
+    "summary": "《侠盗猎车手VI》成为史上评价最高的游戏，同时也是销售速度最快的娱乐产品，首发销售额达37.9亿美元，打破所有娱乐产品首发纪录。这一数据反映了顶级IP在游戏市场的巨大商业价值，对元宝产品经理评估游戏化元素和IP合作策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

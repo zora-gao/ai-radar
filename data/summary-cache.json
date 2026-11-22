@@ -180447,5 +180447,153 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/verge-corner-controls": {
+    "title_clean": "Verge：屏幕角落控制工具",
+    "summary": "Verge是一款通过滑动屏幕角落来快速调节亮度、音量等设备设置的工具，为用户提供便捷的设备控制方式，可作为元宝多模态交互场景的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/omi-cli": {
+    "title_clean": "Omi CLI：终端AI编程助手",
+    "summary": "Omi CLI是一款在终端中运行的AI编程助手，支持13种大语言模型，能够帮助开发者直接在命令行环境中完成代码编写和调试任务，为元宝在AI编程辅助场景的产品设计提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/oovi": {
+    "title_clean": "oovi：桌面AI团队助手",
+    "summary": "oovi是一款桌面AI团队助手工具，允许用户在本地设备上拥有专属AI团队，可能提供多AI协作、任务分配和本地化处理能力，对元宝产品经理在本地化AI团队协作和多Agent系统设计方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pushback-flight-tracker": {
+    "title_clean": "Pushback：航班 lounge 使用信息追踪工具",
+    "summary": "Pushback 是一款航班追踪工具，能够显示用户可以使用哪些机场 lounge，帮助旅客优化机场等待体验。这类服务场景工具对元宝拓展旅行服务场景有参考价值，可考虑整合航班信息与 lounge 权益查询功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mockreel": {
+    "title_clean": "Mockreel：3D手机屏幕录制工具",
+    "summary": "Mockreel是一款免费无需注册的屏幕录制工具，可将屏幕内容以3D手机模型形式呈现，为产品展示和演示提供新颖的视觉效果。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/denotch": {
+    "title_clean": "DeNotch：MacBook刘海屏隐藏工具",
+    "summary": "DeNotch是一款MacBook系统工具，能够隐藏MacBook的刘海屏区域并优化菜单栏显示，帮助用户获得更完整的屏幕显示体验。对于关注多模态交互和界面优化的产品经理，此工具提供了用户对屏幕显示需求的实际解决方案参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/teaserkit": {
+    "title_clean": "TeaserKit：AI代码生成视频预览工具",
+    "summary": "TeaserKit是一款AI工具，能够根据代码自动生成产品预览视频，帮助开发者快速展示软件界面和功能。对于元宝产品经理而言，这类工具展示了AI在代码可视化方面的应用潜力，可能启发元宝在代码解释、界面预览或产品演示功能上的创新方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/leapdeck": {
+    "title_clean": "Leapdeck：Mac空间快速切换工具",
+    "summary": "Leapdeck是一款Mac系统工具，允许用户通过快捷键或iPhone快速在不同桌面空间间切换，提升多任务处理效率。对产品经理参考价值在于探索跨设备交互与桌面空间管理场景的可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ulika": {
+    "title_clean": "Ulika：网站可视化编辑工具",
+    "summary": "Ulika是一款专为基于Claude、Cursor或Codex构建的网站提供可视化编辑功能的工具，帮助开发者更直观地编辑和调整网站界面，提升开发效率和用户体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports": {
+    "title_clean": "澳大利亚情报主管警告数据中心与AI安全风险",
+    "summary": "澳大利亚情报主管在《时代报》采访中表示，数据中心和人工智能技术可能使国家面临外国干预和恶意国家行为体的风险，这对AI基础设施安全与数据保护具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood": {
+    "title_clean": "AI面部授权：演员面部许可给微短剧初创公司",
+    "summary": "演员将其面部形象授权给微短剧初创公司使用，这一模式已在中国流行。专家担忧若此趋势在好莱坞蔓延，可能带来长期影响。这对AI内容生成和数字身份授权的商业化模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/90N0g9BM-N0EzPYqwBYKbQ": {
+    "title_clean": "NeurlPS 2026 Spotlight|西工大提出ROSE：多模态终身知识编辑新范式",
+    "summary": "西北工业大学在NeurlPS 2026上提出ROSE，这是一种多模态终身知识编辑的新范式。该技术可能为AI助手提供更高效的知识更新能力，对产品经理了解前沿AI知识编辑技术有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }

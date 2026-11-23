@@ -180767,5 +180767,104 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s/ScqQNP3YmUJfsKf7YhLxKQ": {
+    "title_clean": "AI服务商焦虑算力时，手里的GPU用好了吗？",
+    "summary": "探讨AI服务商在算力紧张背景下如何优化GPU资源利用效率的问题，关注算力资源分配与成本控制策略，对元宝产品经理在资源规划与成本优化方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/3XuUte07kiJKSopCo7pDJg": {
+    "title_clean": "Claude参与证明黎曼猜想，通过独立验证",
+    "summary": "Claude AI模型参与了数学界重大难题黎曼猜想的证明，并完成了独立验证。这一事件展示了AI在复杂数学推理领域的突破性进展，对AI助手在专业领域应用能力具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/seFOHQrSafNw3E9tKPEOpQ": {
+    "title_clean": "Mind2ActWorld：AI通用基准测试工具",
+    "summary": "Mind2ActWorld提出了一种新的AI通用基准测试方法，可能取代现有的VLA/WAM基准。这一基准测试关注AI的'知'的能力，为评估AI系统提供了新的标准，对产品经理了解AI评估体系演进有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/emerging-market-stocks-set-to-erase-2026-gains-on-ai-selloff": {
+    "title_clean": "新兴市场股票因AI抛售面临2026年涨幅归零",
+    "summary": "新兴市场股票可能因AI交易可持续性担忧而抹去2026年全部涨幅，这场从美国到亚洲的全球性抛售反映了市场对AI投资热潮的信心动摇，对元宝产品经理评估AI商业化风险和用户投资情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-calls-leading-ai-firms-agree-ai-development-limits": {
+    "title_clean": "OpenAI呼吁AI公司就开发限制达成共识",
+    "summary": "OpenAI首席科学家呼吁领先AI模型开发企业就开发限制达成共识，表示在AI行为理解和监控能力达到特定里程碑前不应突破这些限制。这反映了行业对AI安全监管的重视，对元宝产品经理了解行业自律方向和安全边界设定有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/perplexity-and-intelligence": {
+    "title_clean": "Perplexity：AI模型评估指标与开发者评估方法",
+    "summary": "探讨Perplexity如何衡量AI模型进展，以及它如何帮助开发者建立评估新兴能力的共享方法。对产品经理了解AI评估标准和技术指标有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race": {
+    "title_clean": "蚂蚁集团投资Simplexity Robotics：押注中国人形机器人赛道",
+    "summary": "蚂蚁集团领投中国物理AI初创公司Simplexity Robotics 1亿美元，看好其在人形机器人领域挑战现有竞争者。这笔投资反映了中国科技巨头对实体AI和人形机器人技术的战略布局，对元宝产品经理了解AI实体化应用和资本动向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes": {
+    "title_clean": "AI股遭遇抛售：Anthropic IPO引发AI板块大幅下跌",
+    "summary": "Anthropic的IPO成为AI板块大规模抛售的催化剂，台湾股市遭遇35年来最糟糕的一周。这一市场动态反映了投资者对AI股估值调整的担忧，对元宝产品经理评估AI商业化路径和投资者情绪具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

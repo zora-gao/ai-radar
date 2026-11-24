@@ -181122,5 +181122,567 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/replit": {
+    "title_clean": "Replit Missions：AI团队协作预算管理工具",
+    "summary": "Replit推出Missions功能，允许用户设置预算并协调AI团队协作。这一工具为AI项目管理提供了新的协作模式，产品经理可关注其在团队协作场景下的应用价值及商业化潜力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/branchery": {
+    "title_clean": "Branchery：Mac平台Git客户端工具",
+    "summary": "Branchery是一款专为Mac系统设计的Git客户端工具，为开发者提供图形化的代码版本管理界面，简化Git操作流程。对于元宝产品经理而言，这反映了开发者工具类产品的交互设计思路，可作为AI助手集成开发环境功能的参考案例。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/figmamcp": {
+    "title_clean": "FigmaMCP：Figma文件AI编辑工具",
+    "summary": "FigmaMCP允许Claude或Codex直接编辑打开的Figma文件，实现AI助手与设计工具的无缝集成，为产品经理提供AI辅助设计工作流的新思路，可能提升设计协作效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/omi-work": {
+    "title_clean": "Omi Work：AI客户获取工具",
+    "summary": "Omi Work是一款AI工具，能够帮助企业寻找潜在客户，专注于客户获取和业务拓展。产品经理可关注其AI驱动的客户发现机制，这对元宝在商业化方向和用户增长策略上具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/leantake": {
+    "title_clean": "LeanTake：Mac屏幕录制工具",
+    "summary": "LeanTake是一款仅4.1MB的Mac原生屏幕录制工具，特点是无需等待导出时间，提供即时的屏幕录制体验。对于元宝产品经理而言，这反映了轻量级工具在提升用户体验方面的价值，可能启发AI助手在处理多媒体内容时的效率优化方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kopyo": {
+    "title_clean": "Kopyo：Mac剪贴板管理工具",
+    "summary": "Kopyo是一款Mac平台的剪贴板管理工具，能够记录并管理用户复制的历史内容，帮助用户快速查找和重复使用之前复制过的文本、图片等数据。对于元宝产品经理而言，这类工具展示了如何通过AI增强剪贴板功能，可能启发元宝在跨应用数据流转和用户操作效率方面的产品创新。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/othor-ai": {
+    "title_clean": "Othor AI：企业数据智能分析工具",
+    "summary": "Othor AI是一款企业数据分析工具，专注于从数据中提取隐藏的洞察和价值，帮助企业更好地理解和利用其数据资产。产品经理可参考其如何将复杂数据转化为可行动的商业智能，以及AI在企业数据分析场景中的应用方式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chat-with-work": {
+    "title_clean": "Chat with Work：欧洲AI助手工作场景应用",
+    "summary": "这是一款在欧洲市场推出的AI助手产品，专注于工作场景应用。该产品强调实用性，让用户自主决定如何在工作流程中应用AI助手，可能针对欧洲企业的特定工作需求提供定制化解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/strict": {
+    "title_clean": "Strict：GitHub Actions 执行工具",
+    "summary": "Strict 是一款允许在任何闲置的 Mac 或 Linux 机器上运行 GitHub Actions 的工具，为开发者提供了更灵活的 CI/CD 执行环境，可能对元宝的自动化部署和任务执行场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mobile-agent-testers": {
+    "title_clean": "Mobile Agent Testers：手机应用AI测试工具",
+    "summary": "Mobile Agent Testers是一款开源AI工具，能够在手机上自动测试应用程序。它通过AI代理模拟用户操作，帮助开发者在真实移动环境中发现应用问题，为元宝产品经理提供了AI自动化测试的新思路，可借鉴其AI代理在移动设备上的执行能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/uh-WMe_btZcI2qzNl7WOww": {
+    "title_clean": "微信开源端侧模型：面向移动设备的AI工具集",
+    "summary": "微信团队发布开源模型，专注于端侧应用场景，旨在为移动设备提供轻量化、高效的AI能力，类似瑞士军刀般多功能集成，可能对元宝在移动端部署和轻量化AI应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/vWGTNdlOo976ZZoZ5vLECQ": {
+    "title_clean": "GLM-5.4上线：全新LoopTransformer架构亮相",
+    "summary": "智谱AI发布GLM-5.4大模型，引入全新LoopTransformer架构，提升模型处理复杂任务的能力。这一更新对AI产品经理具有重要参考价值，展示了大模型架构创新方向，可能影响竞品技术路线和产品能力边界。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/stunning-reversal-jensen-s-second-act-video": {
+    "title_clean": "Stunning Reversal: Jensen's Second Act",
+    "summary": "英伟达董事会做出惊人决定，让黄仁勋重新担任公司CEO。这一决策引发市场积极反应，反映了公司在AI芯片领域的重要领导地位变化，对AI硬件行业格局有重要影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/singapore-raises-gdp-growth-outlook-to-around-6-on-ai-boom": {
+    "title_clean": "新加坡AI热潮推动五年最快GDP增长",
+    "summary": "新加坡上调今年经济增长预期，人工智能热潮为经济带来超预期提振，抵消了油价上涨和投资者信心不足带来的拖累。这一趋势表明AI技术正成为区域经济增长的重要驱动力，对AI产品经理评估市场潜力和商业价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-23/rbc-has-ideas-for-canada-to-unlock-tech-gdp-gains-as-nvidia-rallies": {
+    "title_clean": "RBC提出加拿大释放科技GDP增长潜力的建议",
+    "summary": "加拿大皇家银行提出政策建议，旨在帮助加拿大释放科技GDP增长潜力，同时提及NVIDIA股价上涨及COP气候谈判失败的原因。对产品经理了解科技政策环境与市场动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/expect-more-bearishness-after-nvidia-ceo-return-marcus-video": {
+    "title_clean": "Gary Marcus警告：黄仁勋回归后循环融资将受严格审查",
+    "summary": "Gary Marcus讨论黄仁勋回归Nvidia以及特朗普和白宫的介入是否重新推高了AI泡沫。Nvidia股价单日上涨31%，引发市场对循环融资模式的关注，这对AI行业估值和投资策略有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/katy-kaminsky-reacts-to-nvda-surge-after-huang-returns-video": {
+    "title_clean": "Katy Kaminsky：英伟达股价暴涨反映AI交易集中化",
+    "summary": "AlphaSimplex Group首席研究策略师Katy Kaminsky分析英伟达股价大幅上涨，指出这反映了AI交易的高度集中性和普遍性。这一市场信号对AI行业投资趋势和芯片需求具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/emily-kilcrease-on-jensen-huang-s-return-to-nvidia-video": {
+    "title_clean": "Emily Kilcrease批评英伟达重新任命黄仁勋为CEO",
+    "summary": "Emily Kilcrease批评英伟达重新任命黄仁勋为CEO的决定，指出围绕芯片转移和中国影响的指控是严重的，应进行彻底调查。这对AI芯片行业高管变动和公司治理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/peterson-expect-a-lot-of-damage-from-keeping-huang-video": {
+    "title_clean": "Peterson：关于保留黄仁勋的市场影响分析",
+    "summary": "伦敦商学院领导力研究所创始主任Randall Peterson教授讨论了市场对保留黄仁勋的强烈反应，分析了这一决策可能带来的市场影响和商业后果，为企业高管决策提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes": {
+    "title_clean": "Anthropic推出Claude Ship：AI代码审查与自动批准工具",
+    "summary": "Anthropic发布Claude Ship，允许AI代理审查、修复和批准代码变更，旨在解决AI生成代码堆积带来的审批瓶颈，提高开发效率。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/why-nvidia-ceo-jensen-huang-matters-so-much-to-the-stock-market": {
+    "title_clean": "英伟达CEO黄仁勋对股市影响重大",
+    "summary": "英伟达董事会在美国总统特朗普施压下于11月23日恢复黄仁勋CEO职位，凸显了黄仁勋对英伟达及股市的巨大影响力。这一人事变动反映了市场对黄仁勋领导能力的极高认可，对AI芯片行业和科技股走势有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/us-blacklists-megaspeed-targeting-a-key-player-in-nvidia-crisis": {
+    "title_clean": "美国将Megaspeed列入贸易黑名单，限制其购买AI芯片",
+    "summary": "特朗普政府将新加坡公司Megaspeed International列入美国贸易黑名单，禁止其购买先进人工智能芯片，此举直指Nvidia芯片危机中的关键参与者。这一政策动向可能影响全球AI芯片供应链，对元宝产品经理了解AI硬件贸易限制及供应链风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal": {
+    "title_clean": "黄仁勋重返Nvidia：马斯克等业界人士表示欢迎",
+    "summary": "Nvidia CEO黄仁勋在丑闻风波后重返公司，埃隆·马斯克等业界人士对此表示欢迎。这一高管变动可能影响AI芯片行业的领导力和战略方向，对元宝产品经理了解科技行业高管变动及其潜在影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/tech-stocks-rally-across-board": {
+    "title_clean": "科技股全面上涨：英伟达CEO回归提振AI市场信心",
+    "summary": "科技股周一普遍大涨，英伟达重新任命黄仁勋为CEO，增强了市场对AI行业的信心。纳斯达克100指数上涨6.8%，反映AI相关企业获得投资者青睐。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal": {
+    "title_clean": "美国将Megaspeed列入贸易黑名单，限制其购买AI芯片",
+    "summary": "特朗普政府将新加坡公司Megaspeed International列入美国贸易黑名单，禁止其购买先进人工智能芯片，该公司处于Nvidia芯片危机的核心位置。这一举措反映了美国对AI芯片出口管制的加强，对AI供应链和全球AI产业发展有重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq": {
+    "title_clean": "Nvidia CEO黄仁勋重返总部获英雄般欢迎",
+    "summary": "Nvidia CEO黄仁勋重返公司总部，受到员工英雄般的欢迎。他表示自己将在第二次担任CEO期间表现得更好。这对AI产品经理关注行业领袖动态和企业文化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/trump-put-jensen-huang-back-charge-nvidia": {
+    "title_clean": "特朗普促使黄仁勋重返Nvidia领导岗位",
+    "summary": "Nvidia股东、员工及硅谷众多名流多日来呼吁黄仁勋重返公司领导岗位，最终在特朗普的影响下实现。这一人事变动对AI芯片行业格局及Nvidia战略方向具有重要参考价值，反映了科技巨头领导层变动对市场的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs": {
+    "title_clean": "研究人员利用Meta开源AI模型推动医学变革",
+    "summary": "研究人员在开源AI科学峰会上分享了如何利用AI加速科学发现，特别是使用Meta的开源AI模型在医学领域的应用。这对元宝产品经理了解AI在专业领域的应用场景和模型开源生态有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips": {
+    "title_clean": "Amazon收购Decart AI优化技术，为销售Trainium芯片做准备",
+    "summary": "Amazon以75亿美元收购Decart的AI优化技术及研究团队，此举旨在加强其在AI硬件和软件领域的布局，为Trainium芯片的销售提供技术支持，对AI芯片市场格局和云服务竞争有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/everything-led-nvidia-ceo-jensen-huangs-return": {
+    "title_clean": "Nvidia CEO黄仁勋短暂离职后重新担任CEO",
+    "summary": "Nvidia CEO黄仁勋在短暂离职11天后重新担任CEO，此前他因承认婚外情而辞职。这一高管变动可能影响公司战略方向和AI芯片业务，对关注AI硬件和芯片市场的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet": {
+    "title_clean": "Jensen Huang：英伟达CEO面临挑战",
+    "summary": "英伟达CEO黄仁勋重新上任后仍面临诸多挑战，科技行业领导者需对其回归可能带来的问题保持清醒认识。这对AI硬件领域的产品经理具有重要参考价值，反映了行业领袖变动对AI基础设施供应商的影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/amazon-acquires-chip-software-business-ai-startup-decart": {
+    "title_clean": "Amazon收购AI初创公司Decart的芯片软件业务",
+    "summary": "Amazon宣布收购以色列AI初创公司Decart的核心技术和顶尖人才，旨在提升AI计算效率，特别是支持其自研的Trainium AI芯片。这一收购反映了亚马逊在AI基础设施领域的战略布局，对元宝产品经理了解科技巨头在AI硬件与软件协同方面的战略参考价值较高。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/nvidia-reinstates-jensen-huang": {
+    "title_clean": "Nvidia：CEO黄仁勋复职",
+    "summary": "Nvidia宣布黄仁勋重新担任CEO，此前美国政府高级官员向公司董事会保证其复职不会构成国家安全风险。这一人事变动对AI芯片行业高管稳定性及公司战略方向有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/anthropics-math-breakthrough-matters-palo-alto-networks-bought-applied-compute": {
+    "title_clean": "Anthropic数学突破与Palo Alto Networks收购Applied Compute分析",
+    "summary": "本文分析了Anthropic在数学领域的突破性进展以及Palo Alto Networks收购Applied Compute的战略意义。这两项事件分别代表了AI模型能力提升和网络安全领域的技术整合趋势，对AI产品经理评估技术发展方向和商业机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/crowdstrike-agrees-buy-zscaler-44-billion-all-stock-deal": {
+    "title_clean": "CrowdStrike收购Zscaler：440亿美元网络安全行业最大并购案",
+    "summary": "CrowdStrike宣布以全股票方式收购Zscaler，交易价值达439亿美元，这是网络安全行业史上最大规模的并购案。此次收购将整合两家公司的网络安全能力，可能重塑云安全市场格局，对AI安全服务领域产生重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo": {
+    "title_clean": "Nvidia：黄仁勋重新担任CEO",
+    "summary": "Nvidia宣布创始人黄仁勋重新担任CEO，这一决定得到美国政府高级官员支持。这一高管变动可能对公司AI战略和产品方向产生影响，值得AI行业和芯片领域关注。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase": {
+    "title_clean": "Crunchbase报告：多数独角兽企业实际价值高于最新融资估值",
+    "summary": "Crunchbase最新估值模型显示，全球1900多家独角兽企业合计估值约9万亿美元，多数企业实际价值高于其最新融资轮次的估值。这一数据对AI产品经理评估市场估值泡沫和商业化时机具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/the-pulse-with-francine-lacqua-11-23-2026-video": {
+    "title_clean": "AI股票反弹：标普500进入技术性修正后回升",
+    "summary": "AI相关股票在标普500进入技术性修正后出现反弹，美国期货市场从AI交易暴跌中恢复。Anthropic在美国盘前交易中上涨，表明AI投资情绪有所回暖，对AI行业投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/us-market-in-for-pretty-painful-ride-pickering-says-video": {
+    "title_clean": "经济学家预测美国市场将经历'相当痛苦'的时期",
+    "summary": "Peel Hunt首席经济学家Kallum Pickering预测美国市场将经历'相当痛苦'的时期，美联储需要降低加息预期。这一市场动态可能影响AI产品的投资环境和商业化策略，对产品经理评估市场风险和资金规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/what-a-town-of-vibecoders-says-about-the-chinese-economy-video": {
+    "title_clean": "斯坦福AI报告：中国民众对AI乐观度远超美国",
+    "summary": "斯坦福AI指数报告显示，84%的中国受访者对AI持乐观态度，而美国这一比例仅为38%，反映出两国在AI接受度上的显著差异，这对元宝产品在全球化策略和本地化运营具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/customer-stories/richpanel-ai-customer-support": {
+    "title_clean": "Richpanel：AI客服自动化工具",
+    "summary": "Richpanel利用GPT-6系列模型(Astra、Sol和Luna)构建AI支持代理，帮助企业30天内自动化50%的客服工作，通过工具、程序和对话功能提升客服效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/china-s-next-ai-deals-clouded-by-selloff-after-anthropic-ipo": {
+    "title_clean": "中国AI企业融资前景受Anthropic上市后抛售影响",
+    "summary": "Anthropic上市后全球股市抛售加速，影响中国人工智能企业下一波股票发行前景。这一市场动态对中国AI企业的融资环境和估值产生直接影响，对元宝产品经理评估AI行业资本流动性和企业融资策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/ai-investment-adding-to-inflation-jain-video": {
+    "title_clean": "AI投资加剧通胀：经济学家Jain观点",
+    "summary": "西太平洋银行国际经济学家Illiana Jain表示，美联储可能进一步加息以控制通胀，她认为AI领域的投资反映了经济中的薄弱环节，这可能对货币政策产生影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-22/chinese-dramas-are-starting-to-take-over-the-world": {
+    "title_clean": "中国电视剧开始在全球市场扩张",
+    "summary": "中国电视剧正与美日剧竞争亚洲观众市场，表明中国文化内容正在国际化扩张，这对元宝产品经理思考AI助手如何整合多语言文化内容、服务跨文化用户需求有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development": {
+    "title_clean": "OpenAI首席科学家：如何限制AI发展",
+    "summary": "OpenAI首席科学家提出限制AI发展的方法，强调需要就如何衡量发展速度达成共识。这对元宝产品经理有参考价值，特别是在制定AI发展策略和安全框架方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia": {
+    "title_clean": "美国对中国AI芯片出口限制扩大至东南亚",
+    "summary": "美国出台新规限制向中国出口AI芯片，影响东南亚地区价值数十亿美元的云计算业务，该地区数据中心发展面临挑战。这一政策变化可能影响全球AI芯片供应链和云服务市场格局，对元宝产品经理评估国际市场风险和供应链多元化策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

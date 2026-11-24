@@ -182277,5 +182277,402 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/drift-aef4d3de-e971-402b-b62f-613b9c79b4cd": {
+    "title_clean": "Drift：动态壁纸应用",
+    "summary": "Drift是一款动态壁纸应用，能够根据用户周围环境实时变化壁纸内容，为用户提供个性化的桌面体验。这类产品对元宝产品经理在AI个性化服务和多模态交互场景设计上有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wellbreak": {
+    "title_clean": "Wellbreak：Mac刘海屏健康助手工具",
+    "summary": "Wellbreak是一款专为Mac刘海屏设计的健康助手应用，通过在屏幕刘海区域提供健康提醒和功能，帮助用户在工作间隙进行简单的健康活动，如眼部休息、姿势提醒等，提升Mac用户的日常健康管理体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/finseo-ai": {
+    "title_clean": "Finseo：AI品牌提及营销工具",
+    "summary": "Finseo提供企业级AI品牌提及营销服务，通过智能分析和外联策略，帮助品牌获得AI系统的提及和推荐。产品经理可关注其AI营销策略和品牌曝光机制，为元宝的AI服务商业化提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/infield-translate-and-refine": {
+    "title_clean": "InField：跨平台文本翻译与润色工具",
+    "summary": "InField是一款可在Mac和Chrome上使用的文本翻译与润色工具，能够实时优化用户输入的文本内容。产品经理可关注其跨平台文本处理能力，为元宝的多语言支持和文本优化功能提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/valley-3": {
+    "title_clean": "Valley：客户筛选与销售转化系统",
+    "summary": "Valley是一个外向型系统，帮助企业识别最有可能购买其产品或服务的潜在客户。该系统通过数据分析精准定位高意向客户，提升销售转化效率，对元宝产品经理在客户获取和销售策略方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/fleetify": {
+    "title_clean": "Fleetify：AI编程代理开源指挥中心",
+    "summary": "Fleetify是一个开源的AI编程代理指挥中心，帮助用户管理和协调多个AI编程代理。产品经理可参考其多代理协作架构，为元宝设计类似的多AI协同工作流功能，提升复杂任务处理能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/k-stra": {
+    "title_clean": "K-Stra：澳大利亚AI地理营销工具",
+    "summary": "K-Stra是一款针对澳大利亚市场的地理营销工具，利用AI进行数学计算和地理数据分析，帮助企业优化营销策略和定位目标客户。产品经理可参考其AI在地理营销场景中的应用方式和数据驱动决策模式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/prates": {
+    "title_clean": "Prates：个性化写作风格模仿工具",
+    "summary": "Prates是一款能够学习用户写作风格并模仿其表达方式的AI工具，帮助用户保持一致的写作风格，适用于内容创作者、营销人员等需要保持品牌声音一致性的场景，为元宝在个性化写作助手方向提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy": {
+    "title_clean": "英伟达CEO黄仁勋在全员会议上感谢白宫并透露接受心理治疗",
+    "summary": "英伟达创始人黄仁勋在全员会议上向员工道歉，并表示感谢白宫给予的第二次领导公司的机会，同时透露自己正在接受心理治疗。这一信息反映了AI行业领军人物的个人状态及与政府的关系，对了解企业领导力管理及AI公司与政府互动有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life": {
+    "title_clean": "Even the best AI agents struggle with everyday life：AI助手日常任务可靠性挑战",
+    "summary": "新基准测试显示，即使最先进的AI模型在完成日常任务时也难以保持可靠性和安全性，可能引入新问题。这对产品经理评估AI助手实际应用能力、识别用户真实需求与产品改进方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/astor": {
+    "title_clean": "Astor：AI论文投资助手",
+    "summary": "Astor是一款AI驱动的论文投资工具，通过分析学术论文来辅助投资决策。该产品将学术研究与投资分析结合，为投资者提供基于研究发现的洞察，可能对元宝在知识型AI服务场景拓展方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ohhai": {
+    "title_clean": "Ohhai：AI iPhone 键盘工具",
+    "summary": "Ohhai 是一款专为 iPhone 设计的 AI 键盘应用，能够将用户输入的混乱文本自动整理为清晰内容。这款产品直接解决了移动端输入效率问题，为元宝产品经理提供了 AI 辅助输入场景的参考案例，特别是在移动端键盘集成 AI 功能方面的产品设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/hp-gives-profit-forecast-signaling-better-handle-on-memory-costs": {
+    "title_clean": "HP上调利润预期，显示内存成本控制能力提升",
+    "summary": "惠普上调年度利润预期，超出分析师预估，表明这家电脑和打印机制造商正提升对内存成本上升的管理能力。这对AI硬件供应商的成本控制策略有参考价值，特别是当AI应用增加对内存需求时。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself": {
+    "title_clean": "Maple：AI数据隐私保护工具",
+    "summary": "Maple获得530万美元融资，开发加密AI架构，确保用户数据隐私安全，即使公司自身也无法访问用户私人数据。这对元宝产品经理在数据安全与隐私保护方面具有重要参考价值，特别是在处理敏感用户信息时的技术实现思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-seesai": {
+    "title_clean": "Executive Interview: Seesai",
+    "summary": "Seesai的财务与业务运营副总裁Steve Oldroyd接受CB Insights采访，分享了公司对市场看法、客户需求以及核心产品的见解。作为一家AI企业，Seesai专注于为企业提供智能解决方案，其产品可能涉及财务或业务运营领域的AI应用。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/expect-fundraising-to-be-off-significantly-harris-video": {
+    "title_clean": "Bain's Harris：风险投资显著下降",
+    "summary": "Bain Capital Ventures合伙人Matt Harris在Bloomberg Crypto节目中表示，与数字资产相关的风险投资预计将大幅下降。这对AI产品经理了解当前投资环境变化和潜在市场调整具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/kalshi-eyes-under-21-ban-to-avoid-ny-shutdown-video": {
+    "title_clean": "Kalshi：考虑限制纽约州21岁以下用户以避免关停",
+    "summary": "加密货币衍生品交易平台Kalshi为避免在纽约州被强制关停，向法官表示愿意考虑排除21岁以下的纽约用户。这一决策反映了监管合规压力对产品策略的直接影响，对元宝产品经理了解监管如何影响AI服务年龄限制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms": {
+    "title_clean": "Meta：将Muse AI助手直接集成到Instagram私信",
+    "summary": "Meta将Muse AI助手直接集成到Instagram私信功能中，用户无需在Instagram和Muse应用之间切换即可与AI助手交互。这一整合简化了用户体验，展示了Meta将AI助手深度融入社交平台的策略，对产品经理思考AI助手与社交场景融合有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return": {
+    "title_clean": "黄仁勋向Nvidia员工道歉并接受每日治疗",
+    "summary": "黄仁勋在重新担任Nvidia首席执行官后召开全员会议，向员工道歉并透露自己正在接受每日治疗。这一事件反映了高管个人状况对企业稳定性的影响，对产品经理理解企业领导层变更可能带来的战略调整有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers": {
+    "title_clean": "Crusoe投资者押注太阳能和电池为未来AI数据中心供电",
+    "summary": "Crusoe投资者认为下一代数据中心每年需要数十吉瓦电力，太阳能和储能是理想选择。这对元宝产品经理了解AI基础设施的能源需求和可持续发展策略有参考价值，特别是在评估AI服务扩展时的能源成本和环保考量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming": {
+    "title_clean": "Tidal：禁止完全AI生成音乐内容",
+    "summary": "音乐流媒体平台Tidal宣布将禁止并移除数百万完全由AI生成的音乐内容，但仍接受AI辅助创作的歌曲。此举反映了音乐行业对AI生成内容泛滥的担忧，对AI内容平台的内容审核策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race": {
+    "title_clean": "Amazon收购Decart：提升Trainium芯片效率以追赶Nvidia",
+    "summary": "Amazon以75亿美元收购Decart，旨在提高其Trainium芯片的效率，缩小与Nvidia在芯片技术上的差距。这一收购反映了科技巨头在AI硬件领域的竞争加剧，对元宝产品经理了解AI基础设施竞争格局和芯片优化策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": {
+    "title_clean": "GPT-6：蛋白质设计模型",
+    "summary": "GPT-6模型能够通过推理和代码设计蛋白质结构与序列，实验室测试显示其在五个靶点上具有结合能力。这展示了AI在生物分子设计领域的应用潜力，为元宝在专业领域AI应用提供参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/startups/startup-name-trends-2026-ai": {
+    "title_clean": "初创公司选择能适应业务模式变化的品牌名称",
+    "summary": "初创公司命名呈现周期性变化，从热衷于无意义词汇、创意拼写转向选择更具适应性的名称，即使原始商业模式失败，品牌名称仍可用于其他业务方向。这对产品经理思考品牌战略和业务灵活性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/horizons-middle-east-africa-11-24-2026-video": {
+    "title_clean": "NVIDIA：黄仁勋重新担任CEO，美国制裁伊朗影子银行网络",
+    "summary": "NVIDIA宣布创始人黄仁勋重新担任CEO，同时美国对伊朗影子银行网络实施制裁。这一人事变动与地缘政治事件可能影响全球芯片供应链和AI产业格局，对元宝产品经理关注AI硬件供应链风险和地缘政治对AI产业的影响具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/what-s-next-for-huang-nvidia-and-the-ai-trade-video": {
+    "title_clean": "黄仁勋重返NVIDIA CEO职位，AI行业高管变动引关注",
+    "summary": "NVIDIA在黄仁勋短暂离职11天后宣布其重新担任CEO职位，此前其离职与一名前Megaspeed高管及疑似中国间谍有关。黄仁勋将出席相关听证会，这一高管变动可能对AI行业格局和NVIDIA战略方向产生影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/2h3_FMnBI1rxqmmRYTCeSQ": {
+    "title_clean": "DeepSeek与FlashAttention实现多个生产级AI应用",
+    "summary": "DeepSeek与FlashAttention合作实现了多个生产级AI应用，这是全球首次此类合作。这一进展对AI产品经理具有重要参考价值，展示了大模型在实际生产环境中的应用可能性，可能影响AI产品的性能优化和落地策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/vd-B5XOk2JT1W50jn0zTwA": {
+    "title_clean": "清华、无问芯穹开源智算系统级模拟实验室",
+    "summary": "清华大学与无问芯穹合作开源了面向下一代智算系统的开放模拟实验室，提供系统级仿真环境，有助于AI基础设施研发和测试，为元宝产品经理提供智算系统底层技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/opinion-nvidia-cannot-rely-on-jensen-huang-video": {
+    "title_clean": "Nvidia CEO 黄仁勋需推动公司去中心化",
+    "summary": "彭博观点文章指出，Nvidia CEO 黄仁勋回归后应着手重组公司，使其能够在没有他的情况下持续发展。这反映了企业对领导层依赖风险的担忧，对元宝产品经理思考团队架构和知识管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/stocks-take-off-after-nvidia-reinstates-jensen-huang-video": {
+    "title_clean": "英伟达CEO黄仁勋回归推动美股大涨",
+    "summary": "英伟达CEO黄仁勋意外回归领导岗位后，周一美股市场出现强劲反弹，结束了上周科技股的暴跌行情。这一事件对AI芯片行业和科技股市场具有重要影响，对产品经理评估AI硬件供应链和科技股波动风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-reinstates-jensen-huang-ceo": {
+    "title_clean": "NVIDIA CEO黄仁勋重新上任",
+    "summary": "NVIDIA创始人黄仁勋在因婚外丑闻辞职11天后重新担任公司CEO兼董事长。这一人事变动可能影响公司战略方向和AI芯片业务发展，对关注AI硬件生态的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/crowdstrike-to-acquire-zscaler-in-44-billion-deal-video": {
+    "title_clean": "CrowdStrike以440亿美元收购Zscaler网络安全业务",
+    "summary": "CrowdStrike宣布以全股票交易方式收购网络安全公司Zscaler，交易价值约439亿美元。这一重大并购反映了网络安全领域整合趋势，对AI安全产品经理有参考价值，可能影响AI安全服务整合方向和市场竞争格局。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

@@ -181684,5 +181684,598 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/hourly-journal": {
+    "title_clean": "Hourly Journal：时间记录与分析工具",
+    "summary": "Hourly Journal是一款时间管理应用，帮助用户记录每日活动时长并分析时间分配情况，为用户提供时间使用洞察，帮助优化日常工作效率和时间管理策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/finer-screenshot": {
+    "title_clean": "Finer Screenshot：智能截图文字识别工具",
+    "summary": "Finer Screenshot是一款截图工具，能够自动识别并添加在任何背景上都保持可读性的文字。这款产品解决了截图时文字难以辨认的问题，为产品经理提供了优化用户界面设计和信息展示的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kodak-slidetag": {
+    "title_clean": "Kodak SlideTag：胶片幻灯片智能追踪器",
+    "summary": "Kodak推出一款1935年胶片幻灯片电子墨水框架，具备类似AirTag的追踪功能，将传统胶片幻灯片与现代追踪技术结合，为怀旧影像产品提供数字化管理解决方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pinned": {
+    "title_clean": "Pinned：城市社交活动推荐工具",
+    "summary": "Pinned是一款城市社交活动推荐工具，帮助用户和朋友在城市中寻找合适的夜间活动场所。产品经理可参考其基于社交场景的本地服务推荐模式，为元宝增加基于社交关系的位置服务功能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sotto-11": {
+    "title_clean": "Sotto：Linux语音输入工具",
+    "summary": "Sotto是一款Linux平台上的语音输入工具，用户按住按键说话，转换后的文本会直接出现在光标位置。这为元宝产品经理提供了在Linux环境下实现语音输入功能的参考案例，有助于拓展跨平台语音交互能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/claude-code": {
+    "title_clean": "Claude Ship：AI代码快速编写工具",
+    "summary": "Claude Ship是一款AI辅助编程工具，旨在帮助开发者以接近手写代码的速度编写和部署代码。该工具可能通过AI技术简化代码生成、测试和部署流程，对元宝产品经理在AI辅助编程场景和代码生成功能方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mystonie": {
+    "title_clean": "Mystonie：娱乐内容记录与艺术生成工具",
+    "summary": "Mystonie 是一款记录电影、电视剧、书籍和游戏内容的工具，能将用户的观看/阅读记录转化为艺术作品。产品经理可参考其将用户消费行为与创意生成结合的模式，探索元宝在内容记录与艺术化呈现方面的可能性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/almma-s-pii-guard": {
+    "title_clean": "Almma's PII Guard：AI聊天个人信息保护工具",
+    "summary": "Almma's PII Guard是一款专门用于保护AI聊天中个人隐私信息的工具，能够在用户数据发送给AI聊天前识别并拦截个人身份信息(PII)，有效防止敏感数据泄露，为AI聊天服务提供隐私安全保障。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/even-g2": {
+    "title_clean": "Even G2：企业级智能眼镜SDK开发工具",
+    "summary": "Even G2发布企业级SDK，允许开发者为其智能眼镜构建定制化商业应用。这对元宝产品经理有参考价值，展示了AR眼镜在商业场景的应用潜力，以及如何通过SDK扩展智能硬件的功能边界。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/umami-manager": {
+    "title_clean": "Umami Manager：网站分析工具",
+    "summary": "Umami Manager是一款专为iPhone和iPad设计的网站分析工具，提供报告、小部件和链接功能，帮助用户在移动设备上便捷地监控网站数据表现。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/layauto-for-mac": {
+    "title_clean": "LayAuto 4：Mac窗口与标签页管理工具",
+    "summary": "LayAuto 4是一款Mac应用，帮助用户快速查找和管理系统中的窗口、标签页和会话。这款工具对产品经理有参考价值，因为它展示了如何通过AI技术优化多任务管理场景，可能启发元宝在桌面环境下的多应用交互与任务组织功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/astrolabio": {
+    "title_clean": "Astrolabio：AI助手跨设备续接工具",
+    "summary": "Astrolabio是一款Mac平台AI助手工具，能够在不同设备间无缝衔接用户之前的对话和任务状态，提供连续的AI交互体验。产品经理可关注其跨设备状态同步机制，这对提升AI助手连续性和用户体验具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clam-ai": {
+    "title_clean": "Clam AI：安全邮箱共享AI助手",
+    "summary": "Clam AI是一款允许用户安全地将邮箱内容与AI代理共享的工具，旨在解决用户在AI处理邮件时的隐私安全问题。产品经理可关注其隐私保护机制与AI代理访问邮箱的场景设计，为元宝的邮箱集成功能提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/frwrd-to": {
+    "title_clean": "frwrd.to：AI链接整理工具",
+    "summary": "frwrd.to是一个AI驱动的链接管理工具，能将用户多个链接整合为一条消息，通过AI排序后分享。产品经理可参考其AI内容聚合与简化分享的交互设计，思考元宝在信息整理与分享场景的应用可能。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/doola-mcp": {
+    "title_clean": "doola MCP：AI助手管理美国公司工具",
+    "summary": "doola MCP是一款通过AI助手帮助用户在美国创立和运营公司的工具，整合了公司注册、合规管理等商业服务功能，为AI助手在商业服务场景中的应用提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tesla": {
+    "title_clean": "Tesla Self-Driving V15：端到端驾驶网络全面升级",
+    "summary": "特斯拉发布自动驾驶系统V15版本，对端到端驾驶网络的各个组件进行全面升级。此次更新可能涉及算法优化、传感器融合或计算架构改进，对AI自动驾驶领域的产品经理具有参考价值，特别是在自动驾驶技术演进和系统架构设计方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/extrabar": {
+    "title_clean": "ExtraBar：Mac自定义菜单栏工具",
+    "summary": "ExtraBar是一款Mac应用，允许用户构建自定义菜单栏，提供更灵活的系统界面控制方式。对于元宝产品经理而言，这反映了用户对个性化界面和高效工具访问的需求，可能启发AI助手在桌面环境中的集成方式和交互设计。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tendor": {
+    "title_clean": "Tendor：Windows 全局写作与问答助手",
+    "summary": "Tendor是一款Windows平台的全局写作与问答工具，允许用户在任何位置快速获取AI辅助写作或回答问题。该产品解决了跨应用内容创作的痛点，为元宝产品经理提供了AI助手在操作系统级集成的新思路参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/deskmagic": {
+    "title_clean": "DeskMagic：屏幕内容AI问答工具",
+    "summary": "DeskMagic是一款通过摇动鼠标即可对屏幕上任何内容进行AI问答的工具，能够实时分析屏幕显示的信息并提供即时回答，为用户提供便捷的屏幕内容交互体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/30yr-uptime": {
+    "title_clean": "30yr-uptime：Claude Code 身体健康管理插件",
+    "summary": "这是一款为 Claude Code 设计的插件，专注于用户身体健康管理，通过 AI 技术帮助用户维护长期健康状态。产品经理可关注 AI 助手如何从纯文本交互扩展到健康管理领域，探索服务场景拓展的可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/granular-build": {
+    "title_clean": "Granular.Build：AI代理可视化工作平台",
+    "summary": "Granular.Build是一个可视化工作平台，允许用户将AI代理集成并部署在可视化环境中，通过直观界面管理和执行AI代理任务，为AI代理的协作与执行提供了新的交互方式，对元宝产品经理在AI代理工作流设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bento-terminal": {
+    "title_clean": "Bento terminal：多面板终端工作区工具",
+    "summary": "Bento是一款专为单一项目设计的多面板终端工作区工具，允许用户在一个界面中同时管理多个终端窗口，提高开发效率。对于元宝产品经理而言，这种多任务界面设计理念可借鉴到AI助手的多窗口交互场景中，提升用户在复杂任务处理时的操作流畅度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/adanotch": {
+    "title_clean": "Adanotch：MacBook刘海屏动态岛工具",
+    "summary": "Adanotch为MacBook刘海屏提供动态岛功能，将屏幕顶部刘海区域转变为交互式信息显示区，类似于iPhone的动态岛，可显示通知、提醒等实时信息，增强MacBook的交互体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-24/jensen-huang-s-return-exposes-nvidia-s-unresolved-fragilities": {
+    "title_clean": "Jensen Huang回归暴露英伟达 unresolved 脆弱性",
+    "summary": "英伟达CEO黄仁勋回归公司，解决了领导层问题，但股东和合作伙伴仍对英伟达存在的脆弱性感到担忧。这对AI芯片行业和依赖英伟达技术的AI产品经理具有重要参考价值，反映了供应链风险和公司治理问题。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-bets-on-crispy-chicken-and-ai-drive-thrus": {
+    "title_clean": "麦当劳：押注脆皮鸡与AI点餐车道",
+    "summary": "麦当劳正通过AI点餐车道、手工裹粉鸡和开放式厨房策略复兴其经营模式，以应对新兴竞争对手。这一举措展示了传统快餐巨头如何利用AI技术提升服务效率和用户体验，对AI服务场景落地有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/ex-musk-adviser-says-nvidia-intertwined-with-washington-video": {
+    "title_clean": "前马斯克顾问：Nvidia与华盛顿政府关系日益紧密",
+    "summary": "Nvidia董事会因缺乏监管AI芯片巨头的权威性而受到批评，此前特朗普总统选择兼任董事。这反映了AI芯片行业与政府关系的日益紧密，对元宝产品经理了解AI基础设施政策环境和企业合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/drw-plans-asset-management-foray-with-compute-crypto-focus": {
+    "title_clean": "DRW：加密货币与算力资产管理新业务",
+    "summary": "交易巨头DRW Holdings首次计划对外资产管理业务，将重点投资于新兴的算力市场，标志着传统交易公司向加密货币与算力资产管理领域扩张的战略转变。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/goldman-stay-overweight-stocks-add-bonds-as-buffer-video": {
+    "title_clean": "高盛策略师：超配股票并增加债券作为缓冲",
+    "summary": "高盛欧洲股票策略师Sharon Bell在黄仁勋回归英伟达后股市上涨的背景下，讨论AI交易前景，建议维持股票超配并增加债券作为风险缓冲。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/xiaomi-s-sales-slip-after-memory-shortages-weigh-on-smartphones": {
+    "title_clean": "小米因内存短缺导致智能手机销量下滑",
+    "summary": "小米连续第三个季度收入下滑，正面临全球内存短缺问题，这一问题影响了全球主要智能手机制造商。这对产品经理了解供应链因素对AI设备销量的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/zurrer-huang-s-credibility-in-industry-too-important-video": {
+    "title_clean": "Zurrer: 黄仁勋重返英伟达CEO职位",
+    "summary": "英伟达创始人黄仁勋在短暂离职后重返CEO职位，此前他因丑闻离开公司。这一人事变动对AI芯片行业具有重要影响，反映了英伟达对黄仁勋行业信誉的高度重视，可能影响公司战略方向和市场表现。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/ai-bulls-in-asia-get-huang-back-but-the-harder-questions-remain": {
+    "title_clean": "AI行业：黄仁勋重返Nvidia，亚洲AI贸易获提振但核心问题未解",
+    "summary": "美国总统特朗普游说后，黄仁勋重返Nvidia公司，提振了受挫的亚洲AI贸易，但投资者表示此举并未解决悬而未决的核心问题。这对元宝产品经理了解AI行业政策影响及供应链变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/ai-chipmaker-axelera-in-talks-to-raise-additional-400-million": {
+    "title_clean": "AI芯片商Axelera拟融资4亿美元扩大AI芯片研发",
+    "summary": "荷兰AI芯片公司Axelera AI正与投资者洽谈新一轮4亿美元融资，由贝莱德和三星Catalyst支持，旨在扩大其先进AI半导体产品的研发规模，反映AI芯片领域持续的高投资热度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/japan-s-fujitsu-woos-demand-for-alternatives-to-us-china-chips": {
+    "title_clean": "日本富士 Monaka 服务器芯片：美中芯片替代方案",
+    "summary": "富士itsu 的 Monaka 服务器芯片初始需求超出预期，客户正积极寻求美国和中国供应商的替代方案。这反映了全球供应链多元化趋势，对元宝产品经理评估地缘政治对 AI 硬件供应链的影响及潜在市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/the-china-show-11-24-2026-video": {
+    "title_clean": "英伟达CEO黄仁勋重返岗位提振亚洲市场",
+    "summary": "英伟达CEO黄仁勋重返工作岗位的消息提振了亚洲市场情绪，这反映了市场对AI芯片行业领导者的信心。对于元宝产品经理而言，这一动态可能预示着AI硬件与软件生态的进一步整合机会，以及全球AI市场对高性能计算需求的持续增长。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions": {
+    "title_clean": "美国将阿里巴巴旗下公司列入Megaspeed打击名单",
+    "summary": "特朗普政府将阿里巴巴集团在新加坡的子公司列入黑名单，此举涉及对Megaspeed International公司的打击行动，作为中国最大的科技公司之一，阿里巴巴被卷入此次国际制裁事件。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control": {
+    "title_clean": "Muse：Meta个人AI助手正式登陆英国",
+    "summary": "Meta的个人AI助手Muse现已向英国成年人开放，可帮助用户处理日常任务如追讨退款、续保车险等，强调用户保持控制权的同时减轻工作负担。这对元宝产品经理有参考价值，展示了AI助手在生活服务场景的应用方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/4aUp_m0a0tPyetnW47QHsA": {
+    "title_clean": "新国立提出PEEK：扩散模型生成采样优化技术",
+    "summary": "新加坡国立大学在NeurIPS 2026上提出PEEK技术，通过扩散模型生成采样中的'偷看'一步实现相同步数下的生成质量提升。这项技术对AI生成内容产品有参考价值，可能影响图像生成、文本生成等领域的效率优化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/_pCm4j5-MRnvZW0yhErffw": {
+    "title_clean": "美团LongCat开源dNaViT：离散视觉表示模型",
+    "summary": "美团团队开源dNaViT模型，探索离散code作为通用视觉表示的可能性。该研究聚焦于如何将视觉信息转化为离散编码，为视觉理解与生成提供新思路，对AI多模态处理能力提升有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-role-in-huang-s-return-video": {
+    "title_clean": "特朗普在黄仁勋重返NVIDIA事件中的角色",
+    "summary": "彭博社报道称，唐纳德·特朗普在黄仁勋因婚外情丑闻被迫辞职后重返NVIDIA的过程中发挥了关键作用。这一高管变动事件可能对AI芯片行业领导力格局产生影响，值得产品经理关注企业高管变动对战略方向的潜在影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ai-probably-not-conscious-soon-says-philosopher-rob-long": {
+    "title_clean": "哲学家Rob Long：AI目前可能没有意识，但几年内可能具备",
+    "summary": "哲学家Rob Long表示，当前AI模型可能没有意识，但未来几年内它们具备意识的可能性相当大。这一观点对AI产品经理思考AI伦理边界和未来发展方向具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/the-chinese-ai-aspirants-drawing-big-bets-to-take-on-deepseek": {
+    "title_clean": "中国AI创业公司：挑战DeepSeek的新兴力量",
+    "summary": "中国AI领域涌现一批新创公司，由阿里巴巴前AI架构师和字节跳动前实习生等研究人员创立，这些专业实验室正吸引巨额投资，旨在挑战DeepSeek在AI领域的地位，反映中国AI创业生态的活跃与竞争加剧。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist": {
+    "title_clean": "Megaspeed：涉黄仁勋丑闻公司或被列入美国黑名单",
+    "summary": "Megaspeed公司因涉及黄仁勋丑闻，可能被美国政府列入黑名单，禁止与美国企业进行商业往来，除非获得特别许可。这一事件对AI行业合规和商业合作环境有警示意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses": {
+    "title_clean": "Google Search：AI模式整合Drive与Wallet提供个性化响应",
+    "summary": "Google在AI模式中整合了Drive和Wallet数据，通过Gemini应用提供更个性化的搜索响应。这一举措利用了谷歌生态系统中的用户数据，展示了AI助手如何深度整合用户个人数据以提升服务相关性，对元宝产品经理在数据整合与个性化服务方面有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return": {
+    "title_clean": "特朗普 reportedly 推动黄仁勋重返英伟达董事会",
+    "summary": "据报道，特朗普总统致电英伟达董事会会议，推动黄仁勋重返董事会。特朗普向CNBC表示他已与英伟达方面沟通并成功说服他们。这一政治干预可能影响英伟达公司治理和AI芯片行业格局，对关注AI硬件和公司治理的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/amds-valuation-getting-ahead-fundamentals": {
+    "title_clean": "AMD估值已超越基本面",
+    "summary": "AMD今年成为大型半导体投资者宠儿，股价上涨98%，尽管Nvidia近期出现动荡，但AMD估值已超越其基本面表现，这对AI芯片市场格局和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing": {
+    "title_clean": "特朗普支持黄仁勋重返Nvidia：美国无不当行为证据",
+    "summary": "特朗普总统引用美国司法部长言论支持黄仁勋重返Nvidia，同时敦促Nvidia继续出口管制调查。此政治表态对Nvidia高管变动及中美科技关系有参考价值，可能影响AI芯片行业政策环境。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-23/jensen-huang-affair-aftermath-could-push-china-further-behind-us-in-ai-race": {
+    "title_clean": "黄仁勋事件后中美AI竞争差距可能扩大",
+    "summary": "黄仁勋事件后，中国可能更难缩小与美国的AI技术差距。这一事件可能影响中美在AI领域的竞争格局，对元宝产品经理了解国际AI竞争态势和潜在市场变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/arm-ceo-extends-contract-through-2033-after-nvidia-approach": {
+    "title_clean": "Arm CEO拒绝NVIDIA挖角，延长合同至2033年",
+    "summary": "Arm CEO Rene Haas宣布将留任至2033年，拒绝了NVIDIA试图挖角的举动。这反映了Arm对自身战略方向的坚定，以及与NVIDIA关系的微妙变化，对AI芯片市场竞争格局有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

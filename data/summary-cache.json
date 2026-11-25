@@ -182674,5 +182674,240 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/agenda-hero-magic": {
+    "title_clean": "Agenda Hero：智能日程规划工具",
+    "summary": "Agenda Hero是一款灵活的日程管理工具，支持任意日程安排、布局和风格定制，为用户提供高度个性化的日程规划体验。产品经理可关注其在日程管理领域的AI应用和个性化服务模式，启发元宝在智能日程规划方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tday": {
+    "title_clean": "tday.com：AI屏幕录制演示编辑工具",
+    "summary": "tday.com提供AI录制的屏幕演示编辑功能，用户可创建可编辑的屏幕演示内容。该工具针对产品经理可能需要的屏幕录制和演示编辑场景，提供了一种高效的内容制作方案，有助于提升产品演示和用户引导材料的制作效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mindyone": {
+    "title_clean": "mindyOne：Instagram AI客服助手",
+    "summary": "mindyOne是一款为Instagram私信提供AI客服助手的服务，能够自动处理和回复用户消息，帮助商家管理社交媒体互动，提升客户服务效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cullman": {
+    "title_clean": "Cullman：语音代理评估工具",
+    "summary": "Cullman是一款专注于语音代理评估的工具，能够从模拟环境到生产环境提供更快速的评估服务。对于元宝产品经理而言，该工具可能有助于优化语音交互系统的性能测试和迭代流程，提升AI语音助手的产品质量。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rotara": {
+    "title_clean": "Rotara：Mac工作区快速切换工具",
+    "summary": "Rotara是一款Mac应用，允许用户通过简单的操作快速切换工作区，提升多任务处理效率。对于元宝产品经理而言，这提供了关于桌面应用多任务管理交互设计的参考价值，特别是在简化用户界面和提升操作流畅度方面。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-25/huawei-found-guilty-of-us-charges-in-landmark-case-video": {
+    "title_clean": "华为被美国判定多项罪名成立",
+    "summary": "华为技术有限公司被美国法庭判定多项罪名成立，包括洗钱、合谋窃取商业机密以及在伊朗和朝鲜业务上欺骗银行。这一标志性案件可能对华为的国际业务和全球AI供应链产生重大影响，对产品经理评估地缘政治风险和供应链多元化有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion": {
+    "title_clean": "Yale教授Sonnenfeld：Nvidia对美国工业实力造成损害而非助力",
+    "summary": "耶鲁大学教授Jeffrey Sonnenfeld警告，Nvidia CEO黄仁勋重返白宫支持的董事会可能是一个巨大错误，认为Nvidia对美国工业发展造成损害而非助力，这一观点对评估AI芯片巨头与政府关系及产业政策有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/ai-pullback-raises-the-cost-of-data-center-financing-video": {
+    "title_clean": "AI市场回调推高数据中心融资成本",
+    "summary": "AI股票近期下跌正蔓延至信贷市场，导致数据中心融资成本上升，尽管计算需求依然强劲。这一趋势可能影响AI基础设施投资，对元宝的产品经理评估AI服务成本与扩展策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/j-p-morgan-asset-mgmt-s-rosenbaum-on-2027-ai-spend-video": {
+    "title_clean": "J.P. Morgan高管预测2027年AI支出趋势",
+    "summary": "摩根大通美国高级信贷策略主管Nathaniel Rosenbaum预计AI相关借贷活动将持续活跃，但发行增长可能在2027年达到顶峰。高等级债券供应量激增，反映了企业对AI技术投资的持续增长。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/economy-shouldn-t-depend-on-nvidia-s-huang-krugman-says-video": {
+    "title_clean": "诺贝尔经济学奖质疑英伟达CEO连任可能影响经济",
+    "summary": "诺贝尔经济学奖得主保罗·克鲁曼质疑特朗普干预英伟达CEO黄仁勋连任可能对经济产生不当影响，担忧科技巨头权力过大。这一观点对产品经理思考AI行业集中度与监管风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond": {
+    "title_clean": "OpenAI员工因在会议室安装设备被起诉后获释",
+    "summary": "OpenAI一名员工因在公司会议室安装监听设备被联邦检察官起诉，法官以检方证据不足为由，批准其以100万美元保释。此事件反映AI公司内部安全风险与员工管理问题，对元宝产品经理在团队安全规范建设方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/nvidia-hosts-first-all-hands-jensen-huangs-return": {
+    "title_clean": "英伟达CEO黄仁勋向员工致歉并接受治疗",
+    "summary": "英伟达CEO黄仁勋在公司全员会议上向员工致歉，并表示正在接受治疗。这是他周一回归后的首次全员会议，反映了高管健康问题对企业运营的影响，对了解科技企业领导力管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": {
+    "title_clean": "Microduck Obstacle Avoidance：基于Isaac Lab和Newton的仿真到现实工作流",
+    "summary": "Microduck Obstacle Avoidance介绍了一种结合Isaac Lab和Newton的仿真到现实工作流，用于实现机器人的障碍物避障功能。该技术通过仿真环境训练模型，再迁移到现实世界，对AI机器人的物理交互能力开发具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/gerko-s-xtx-opens-finnish-data-center-warns-on-permit-delays": {
+    "title_clean": "Gerko的XTX在芬兰开设数据中心，警告许可延迟",
+    "summary": "量化交易公司XTX Markets在芬兰开设首个数据中心，同时警告许可审批延迟可能威胁公司进一步投资。这反映了AI基础设施扩张面临的现实挑战，对元宝产品经理了解AI服务部署的物理基础设施考量有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/customer-stories/ifood": {
+    "title_clean": "How iFood scales coding agents across 15,000 repositories",
+    "summary": "iFood分享了如何在其15,000个代码仓库中扩展编码代理的经验，展示了大型企业规模化应用AI代码助手的技术实践和挑战，对元宝产品经理在AI代码助手规模化部署方面有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-23/belton-this-volatility-isn-t-healthy-for-the-market-video": {
+    "title_clean": "John Belton：市场波动性分析",
+    "summary": "Gabelli Funds投资组合经理John Belton分析市场近期剧烈波动，指出Nvidia市值单周增加约9500亿美元，创下历史最大涨幅，这种波动性对市场健康性构成挑战，为产品经理提供市场情绪与AI相关股票表现参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/ais-power-crunch-reviving-long-stalled-energy-source": {
+    "title_clean": "AI算力危机重启停滞已久的能源技术",
+    "summary": "AI的巨大能耗需求正推动能源技术创新，这一趋势自2021年开始显现并持续增强。对元宝产品经理而言，这提示AI服务需关注能效优化，同时可能带来与能源技术合作的新机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off": {
+    "title_clean": "Sierra：企业AI客户体验平台估值翻倍至300亿美元",
+    "summary": "企业客户体验平台Sierra完成17.5亿美元F轮融资，估值在六个月内翻倍至300亿美元。该公司由前Salesforce联合CEO创立，专注于AI在客户体验领域的应用，反映了企业对AI客服解决方案的强劲需求。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/agentic-evals": {
+    "title_clean": "How to build and maintain an agentic evaluation：AI Agent 评估体系构建指南",
+    "summary": "本文介绍了如何构建和维护AI Agent的评估体系，涵盖了评估指标、测试方法和持续优化策略，为产品经理提供了衡量AI Agent性能和改进方向的专业参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

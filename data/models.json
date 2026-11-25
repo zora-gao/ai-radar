@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-11-24T22:33:59.512Z",
+  "generated_at": "2026-11-25T05:26:55.488Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "upstage/solar-mini-4-5",
+      "name": "Solar Mini 4.5 (Preview)",
+      "vendor": "Upstage",
+      "vendor_slug": "upstage",
+      "url": "https://openrouter.ai/upstage/solar-mini-4-5-20261125",
+      "created_at": "2026-11-24T23:18:24Z",
+      "context_length": 524288,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.01,
+      "price_out": 0.04,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Solar Mini 4.5 is Upstage's compact language model, built on a proprietary mixture-of-experts architecture with 35B total and 3B active parameters and a 524K context window. It is a step...",
+      "description_zh": null
+    },
+    {
+      "id": "upstage/solar-pro-4-contributor",
+      "name": "Solar Pro 4 Contributor",
+      "vendor": "Upstage",
+      "vendor_slug": "upstage",
+      "url": "https://openrouter.ai/upstage/solar-pro-4-contributor-20261125",
+      "created_at": "2026-11-24T23:18:24Z",
+      "context_length": 524288,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.09,
+      "price_out": 0.36,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Solar Pro 4 Contributor is the same Solar Pro 4 model from Upstage, offered at a lower rate in exchange for allowing Upstage to use interaction data to improve its...",
+      "description_zh": null
+    },
+    {
+      "id": "xiaomi/mimo-v2.6-flash-mopd",
+      "name": "MiMo-V2.6-Flash-MOPD",
+      "vendor": "Xiaomi",
+      "vendor_slug": "xiaomi",
+      "url": "https://openrouter.ai/xiaomi/mimo-v2.6-flash-mopd-20260927",
+      "created_at": "2026-11-23T17:57:14Z",
+      "context_length": 1048576,
+      "modality": "text+image+audio+video->text",
+      "input_modalities": [
+        "text",
+        "image",
+        "video",
+        "audio"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.15,
+      "price_out": 0.42,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "MiMo-V2.6-Flash-MOPD is an updated checkpoint of Xiaomi's MiMo-V2.6-Flash, a Mixture-of-Experts model with 309B total and 15B active parameters, a 1M-token context window, and native multimodal input. It adds a multi-teacher...",
+      "description_zh": null
+    },
     {
       "id": "thinkingmachines/inkling-2-mini",
       "name": "Inkling 2 Mini",
@@ -1191,8 +1263,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.3,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1215,8 +1287,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.03,
-      "price_out": 0.2,
+      "price_in": 0.15,
+      "price_out": 0.6,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1418,79 +1490,6 @@
       "supports_reasoning": true,
       "description": "NVIDIA Nemotron 3.5 Super VL is an open multimodal mixture-of-experts model from NVIDIA, with 12B active parameters out of 120B total. It takes text, images, documents, GUI screenshots, and video...",
       "description_zh": "NVIDIA Nemotron 3.5 Super VL 是 NVIDIA 的开放式多模式混合专家模型，共有 120B 个活动参数，其中有 12B 个。它需要文本、图像、文档、GUI 屏幕截图和视频......"
-    },
-    {
-      "id": "nvidia/nemotron-3.5-super-vl:free",
-      "name": "Nemotron 3.5 Super VL (free)",
-      "vendor": "NVIDIA",
-      "vendor_slug": "nvidia",
-      "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl-20261015",
-      "created_at": "2026-10-15T15:04:22Z",
-      "context_length": 1000000,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "NVIDIA Nemotron 3.5 Super VL is an open multimodal mixture-of-experts model from NVIDIA, with 12B active parameters out of 120B total. It takes text, images, documents, GUI screenshots, and video...",
-      "description_zh": "NVIDIA Nemotron 3.5 Super VL 是 NVIDIA 的开放式多模式混合专家模型，共有 120B 个活动参数，其中有 12B 个。它需要文本、图像、文档、GUI 屏幕截图和视频......"
-    },
-    {
-      "id": "unbiased/pareto-26.10",
-      "name": "Pareto 26.10",
-      "vendor": "Unbiased",
-      "vendor_slug": "unbiased",
-      "url": "https://openrouter.ai/unbiased/pareto-26.10-20261015",
-      "created_at": "2026-10-15T14:13:40Z",
-      "context_length": 1048576,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.8,
-      "price_out": 3.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "Pareto is a multimodal composite model built for research, coding, and agentic workflows, while delivering frontier-level performance across a broad range of general-purpose tasks.",
-      "description_zh": "Pareto 是一种多模态复合模型，专为研究、编码和代理工作流程而构建，同时在广泛的通用任务中提供前沿水平的性能。"
-    },
-    {
-      "id": "~unbiased/pareto-latest",
-      "name": "Pareto Latest",
-      "vendor": "Unbiased",
-      "vendor_slug": "unbiased",
-      "url": "https://openrouter.ai/~unbiased/pareto-latest",
-      "created_at": "2026-10-13T23:10:50Z",
-      "context_length": 1048576,
-      "modality": "text+image->text",
-      "input_modalities": [
-        "text",
-        "image"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.8,
-      "price_out": 3.2,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": false,
-      "description": "This model always redirects to the latest model in the Pareto family.",
-      "description_zh": "此模型始终重定向到 Pareto 系列中的最新模型。"
     }
   ]
 }

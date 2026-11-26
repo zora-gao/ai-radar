@@ -184421,5 +184421,552 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/fairwind": {
+    "title_clean": "Fairwind：活动清单确认工具",
+    "summary": "Fairwind是一款让教师或教练确认活动清单的工具，主要用于教育或培训场景中对学生或学员活动完成情况的验证与管理，为元宝在服务场景拓展和用户需求验证方面提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/claude-mem": {
+    "title_clean": "Claude-Mem Cloud Sync：AI助手记忆云端同步工具",
+    "summary": "Claude-Mem Cloud Sync允许用户在不同设备间切换时保持AI助手的记忆功能，解决了多设备使用时AI助手记忆不连续的问题，对提升AI助手跨设备用户体验具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pydantic": {
+    "title_clean": "Pax by Pydantic：AI编程代理工具",
+    "summary": "Pax是一款由Pydantic开发的AI编程代理工具，其特点是将编程本身也设计为可插拔的插件功能，允许用户通过插件扩展编程能力，为AI辅助编程提供了新的架构思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentde": {
+    "title_clean": "AgentDE：Mac原生多代码代理管理工具",
+    "summary": "AgentDE是一款Mac原生应用，允许用户在单一窗口中集中管理多个代码代理工具，提升开发效率。对于元宝产品经理而言，这反映了AI代理工具整合与多窗口管理场景的产品趋势，值得参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/doodle-5": {
+    "title_clean": "Doodle：任务栏问答助手",
+    "summary": "Doodle是一款位于任务栏的问答助手工具，以简笔画人物形象呈现，能够回答用户问题。这款产品展示了将AI助手集成到操作系统任务栏的创新交互方式，为元宝产品经理提供了轻量化AI助手界面设计的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/superloupe": {
+    "title_clean": "SuperLoupe：Mac系统内全局搜索工具",
+    "summary": "SuperLoupe是一款Mac系统内的全局搜索工具，允许用户在电脑内的任何内容中进行搜索。这款产品对元宝产品经理有参考价值，因为它展示了桌面环境下的全局搜索实现方式，可能启发元宝在本地文件系统或跨应用搜索方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ground-2": {
+    "title_clean": "Ground：高质量合成数据生成工具",
+    "summary": "Ground是一款专注于生成高质量合成数据的工具，可用于测试或训练目的。对于产品经理而言，这代表了AI训练数据生成领域的新解决方案，可能影响元宝在数据获取和模型训练方面的策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/remora-6": {
+    "title_clean": "Remora：AI代理长期记忆层",
+    "summary": "Remora是一款为AI代理提供长期记忆层的工具，能够帮助AI系统更好地记住和利用历史交互信息，提升AI代理的连续性和上下文理解能力，对元宝产品经理在AI代理功能设计上有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/openchat-5": {
+    "title_clean": "OpenChat：开源聊天工具",
+    "summary": "OpenChat是一款开源聊天工具，允许用户在自己的Cloudflare账户中部署实时聊天功能。这款产品为元宝产品经理提供了在云平台上构建聊天服务的参考方案，有助于了解开源聊天工具的部署方式和功能实现。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/deskfleet": {
+    "title_clean": "DeskFleet：团队协作式编程代理工具",
+    "summary": "DeskFleet是一款团队协作工具，允许多个编程代理在团队成员的机器上协同工作，实现代码执行和开发任务的分布式处理。这为元宝产品经理提供了AI Agent团队协作场景的参考价值，特别是在多设备协同执行任务方面的应用可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/transept-ai": {
+    "title_clean": "Transept AI：个人声音书籍翻译工具",
+    "summary": "Transept AI是一款书籍翻译工具，能够保留原作者的声音风格进行翻译，同时确保作者身份认证。这为AI翻译领域提供了新的个性化解决方案，对元宝在多语言服务和个性化语音交互方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hub-20": {
+    "title_clean": "Hub：Claude Code/Codex 批量执行工具",
+    "summary": "Hub是一款工具，允许用户同时运行100个Claude Code或Codex会话，大幅提升AI代码处理效率。对于元宝产品经理而言，这反映了AI多任务并行处理的需求增长，可作为提升AI助手处理复杂任务能力的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/kagi": {
+    "title_clean": "Kagi Mail：以人为先的私人邮箱服务",
+    "summary": "Kagi Mail是一款注重用户体验的私人邮箱服务，强调将用户需求放在首位。作为Kagi搜索引擎团队的新产品，它可能延续了Kagi对简洁、高效和用户隐私的重视，为产品经理提供了在AI时代重新思考邮箱服务设计的机会，特别是如何将AI技术与用户优先理念结合。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/watch-reader": {
+    "title_clean": "Watch Reader：Apple Watch有声阅读工具",
+    "summary": "Watch Reader是一款在Apple Watch上提供书籍和文章朗读功能的应用，用户可以通过手表收听文本内容。这款产品拓展了AI语音服务在可穿戴设备上的应用场景，为元宝产品经理提供了移动端语音交互的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-26/investec-sees-opportunities-in-three-key-ai-buckets-video": {
+    "title_clean": "Investec：三大AI领域投资机会分析",
+    "summary": "Investec分析师Jimmy Muchechetere认为AI投资热潮尚未结束，在多个领域仍存在价值机会。该分析为AI产品经理提供了行业投资趋势和潜在市场方向的参考，有助于判断AI产品商业化路径和投资热点。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics-video": {
+    "title_clean": "Marc Levinson on How UPS Created Modern Logistics",
+    "summary": "本文探讨UPS如何从西雅图一家地下酒吧起步，发展成为现代物流体系的核心企业。文章分析了UPS的百年发展历程及其对全球物流体系的塑造，对理解物流行业演变和大型企业成长模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meboki": {
+    "title_clean": "Meboki：离线语法检查工具",
+    "summary": "Meboki是一款开源的离线语法检查工具，可在任何Mac应用程序中使用。对于元宝产品经理而言，这展示了AI辅助写作工具在本地化部署和隐私保护方面的应用可能性，可作为多模态交互和AI服务场景的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/philippine-investors-explore-stablecoins-to-buy-retail-bonds": {
+    "title_clean": "菲律宾投资者探索使用稳定币购买零售债券",
+    "summary": "约1200名菲律宾投资者使用数字代币资助了约100万美元的零售美元债券购买，这是东南亚国家为政府债务投资开辟新渠道后的创新实践。这一趋势展示了数字货币在传统金融产品中的应用潜力，为元宝在跨境金融服务和数字资产整合方面提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/malaysia-removes-about-40-000-bullying-posts-in-online-crackdown": {
+    "title_clean": "马来西亚打击网络欺凌：要求平台删除4万条霸凌内容",
+    "summary": "马来西亚政府要求在线平台删除了超过4万条与欺凌相关的内容，以加强对儿童的网络保护。这一举措反映了政府对网络内容监管的加强，对AI内容审核和安全功能的产品开发具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/apple-to-expand-india-retail-network-with-new-store-in-hyderabad": {
+    "title_clean": "Apple将在印度海得拉巴开设新零售店",
+    "summary": "Apple计划在下个月于印度南部城市海得拉巴开设新零售店，继续扩大其在印度这一增长最快海外市场之一的零售网络布局。这反映了Apple对印度市场的重视，以及当地消费能力的提升，对元宝产品经理了解国际科技品牌在新兴市场的扩张策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge": {
+    "title_clean": "马斯克承诺向美国每位儿童赠送两份SpaceX股票",
+    "summary": "马斯克和SpaceX将向美国每位儿童赠送两份太空探索公司股票，这是马斯克上个月承诺数量的两倍。这一举措可能影响青少年对科技和太空探索的兴趣，对教育类AI产品有潜在启发价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/viettel-singtel-building-subsea-cable-for-data-hungry-vietnam": {
+    "title_clean": "Viettel与Singtel合作建设越南海底光缆",
+    "summary": "越南电信集团与新加坡电信联合建设连接胡志明市的海底光缆系统，以满足越南快速增长的网络带宽需求。这一基础设施升级将直接影响越南互联网服务质量和AI应用发展环境，对元宝在东南亚市场的网络服务策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev": {
+    "title_clean": "小鹏：人形机器人售价将与电动车相当",
+    "summary": "小鹏宣布其人形机器人将在第二季度向公众销售，价格将与电动汽车相当。这标志着AI机器人向消费级市场迈出重要一步，对元宝产品经理了解AI硬件定价策略和消费级机器人市场趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/microdramas-rake-in-20-billion-as-world-gloms-on-to-quick-hits": {
+    "title_clean": "微短剧全球收入达200亿美元",
+    "summary": "全球微短剧市场预计今年将实现200亿美元收入，观众偏好快速、简洁的内容形式。这一趋势对AI助手产品在内容消费场景下的功能设计和用户交互模式具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/kG4c_sRrBZ0Tka-1yLgfHA": {
+    "title_clean": "北大唐浩团队提出PanDWM：六相机全景驾驶模拟系统",
+    "summary": "北大唐浩团队研发PanDWM技术，通过整合六个相机视角生成全景驾驶模拟环境，为自动驾驶和驾驶模拟提供更真实的场景数据。这项技术可能为元宝在多模态交互和场景理解方面提供技术参考，特别是在驾驶相关AI服务场景的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/gFm5UB9DLfTv6TMry7NmJA": {
+    "title_clean": "General LoopedModel：向计算深度要智能的AI模型",
+    "summary": "General LoopedModel采用新思路，不再单纯增加模型参数，而是通过提升计算深度来增强AI智能。这一技术路线转变对AI产品经理有重要参考价值，可能影响未来大模型架构设计和性能优化方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-25/balsam-hill-ceo-on-christmas-tree-shopping-outlook-video": {
+    "title_clean": "Balsam Hill CEO谈圣诞树购物前景",
+    "summary": "Balsam Hill CEO表示公司季节初期需求强劲，但部分消费者可能推迟购买至本周末。这反映了节日消费行为模式，对AI助手在购物场景中的时效性提醒和决策支持功能有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/xp4SPPAukjP7x0mTM8lRYQ": {
+    "title_clean": "Infrathon：首个LongHorizon AI基础设施优化基准测试",
+    "summary": "Infrathon推出了首个针对长期AI基础设施优化的基准测试(RSI)，旨在评估AI系统在长时间运行中的性能表现。这一基准测试为AI基础设施优化提供了标准化评估工具，对元宝产品经理了解AI系统长期运行性能评估方法具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-25/pro-shop-s-chad-mumm-on-skins-game-return-to-prime-video-video": {
+    "title_clean": "Pro Shop's Chad Mumm：高尔夫Skins Game赛事重返Prime Video",
+    "summary": "农夫保险Skins高尔夫赛事连续第二年登陆Prime Video，PGA巡回赛老将和新秀将竞争400万美元奖金。此信息对元宝产品经理的参考价值在于了解体育赛事流媒体合作模式及内容变现机会。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-stock-sparks-rare-divide-inside-one-wall-street-firm": {
+    "title_clean": "华尔街分析师对Anthropic股票前景出现罕见分歧",
+    "summary": "华尔街一家研究公司的两位股票分析师罕见地就Anthropic PBC新上市股票的前景发表了截然不同的观点，反映出市场对这家热门AI公司估值存在分歧，这对元宝产品经理了解AI行业投资动态和竞品估值参考价值较高。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-25/megadeals-defy-selloff-head-toward-record-video": {
+    "title_clean": "大型并购交易逆势增长，有望创历史新高",
+    "summary": "尽管全球科技股遭遇抛售，但华尔街的大型并购交易仍逆势增长，多家大型公司积极进行重大收购，并购活动有望创历史新高。这对产品经理了解市场资本动向和企业战略方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries": {
+    "title_clean": "S&P：考虑因治理担忧下调英伟达信用评级",
+    "summary": "S&P Global Ratings正考虑将英伟达的信用评级下调一个等级，理由是该公司管理层和治理存在问题，特别是在CEO离职后又回归的变动后。这对产品经理了解AI硬件供应商的治理风险和稳定性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-25/franklin-templeton-s-araghi-sees-ai-selloff-as-market-reset": {
+    "title_clean": "Franklin Templeton's Araghi：AI市场回调为正常调整",
+    "summary": "富兰克林邓普顿投资组合经理Sara Araghi表示，科技股的抛售反映了前期AI热潮的退却，而非需求基本面恶化。她分析了AI基础设施投资前景，认为当前市场调整是健康的技术估值重置过程，对AI长期发展持乐观态度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-sway-mobility": {
+    "title_clean": "CEO访谈：Sway Mobility",
+    "summary": "Sway Mobility CEO Michael Peters接受CB Insights采访，分享公司对市场趋势、客户需求的看法，以及公司战略方向。内容包含对行业变化速度的分析，对产品经理了解出行领域创业公司市场定位和客户洞察有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.ycombinator.com/blog/how-daniel-zeltser-cold-emailed-his-way-to-employee-2-at-beacon-health": {
+    "title_clean": "Daniel Zeltser：通过冷邮件成为Beacon Health首位工程师，构建AI医疗助手",
+    "summary": "Daniel Zeltser通过冷邮件策略成功加入Beacon Health成为公司第二位员工和首位工程师，负责构建AI助手以防止患者护理出现疏漏。这展示了AI医疗领域的人才获取策略和产品构建路径，对AI助手产品经理在医疗场景下的团队组建和产品定位有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/paul-krugman-weighs-in-on-ai-boom-and-nvidia-s-huang-video": {
+    "title_clean": "Paul Krugman谈AI热潮与英伟达：股市表现不代表经济健康",
+    "summary": "诺贝尔经济学奖得主保罗·克鲁格曼就AI热潮和英伟达CEO黄仁勋发表观点，指出股市表现不应与整体经济健康状况混淆。这一观点对AI产品经理有参考价值，提醒在关注AI投资热潮时需理性评估市场信号与实际经济影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/grubhub-track-lose-100-million-2026": {
+    "title_clean": "Grubhub：美国外卖平台面临2026年亏损1亿美元风险",
+    "summary": "Grubhub在初步与亚马逊和沃尔玛的销售谈判后，决定不寻求出售。美国外卖市场竞争激烈，可能导致Grubhub在2026年面临1亿美元亏损，这对元宝在本地生活服务场景的AI助手布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-is-a-good-corporate-citizen-us-attorney-general-says": {
+    "title_clean": "Nvidia被美国司法部长称为'良好企业公民'",
+    "summary": "美国司法部长托德·布兰奇称英伟达为'良好企业公民'，但拒绝直接回答司法部是否正在调查英伟达的具体情况。这一表态可能影响英伟达在AI芯片市场的监管环境和商业策略，对关注AI硬件生态的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/workplace/ai-bias-in-hr-hiring-job-applications": {
+    "title_clean": "AI Bias In HR: 为什么过度重视完美简历及应对策略",
+    "summary": "探讨AI工具如何帮助求职者创建完美简历，导致人力资源部门难以识别真正人才的问题，并提出应对策略，对元宝在职业服务场景中的AI应用有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control": {
+    "title_clean": "Muse：英国上线的个人任务执行AI助手",
+    "summary": "Muse在英国推出，是一款个人AI助手，不仅能回答问题，还能根据用户指令代为执行任务。这对元宝产品经理有参考价值，展示了AI助手从问答向任务执行的发展趋势，以及如何设计用户可控的代理功能。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade": {
+    "title_clean": "日本股市反弹：黄仁勋回归提振AI投资信心",
+    "summary": "日本股市上涨，因英伟达CEO黄仁勋回归领导岗位，缓解了市场对其离职后AI投资放缓的担忧。这一事件表明AI行业领袖变动对市场情绪和投资决策有显著影响，对元宝产品经理评估AI行业信心和市场预期具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/business/learn/connected-intelligence-for-in-house-legal": {
+    "title_clean": "Connected intelligence for in-house legal：AI法律团队智能协作工具",
+    "summary": "OpenAI、LECG和Cooley的专家探讨AI如何帮助内部法律团队连接业务背景、构建可重用工作流程，提升法律工作效率。这对元宝产品经理了解AI在专业服务场景的应用价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/shoprite-investec-deepen-retail-banking-mobile-bets-with-dni": {
+    "title_clean": "Shoprite收购DNI股份，通过Investec合作拓展金融科技与移动服务",
+    "summary": "非洲最大零售商Shoprite收购技术、硬件和融资公司DN Invest股份，与Investec深化合作，共同拓展金融科技和移动服务领域。这一合作表明传统零售商正积极布局金融科技生态，为元宝在服务场景拓展和商业化模式上提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-19/tech-leaders-experts-question-anthropic-safety-pledges-video": {
+    "title_clean": "Anthropic AI安全承诺遭科技领袖质疑",
+    "summary": "科技领袖与科学家联合签署《反人类宣言》，公开质疑Anthropic对AI安全的承诺。这反映了AI安全领域存在的重要分歧，对元宝产品经理评估AI安全策略和风险管理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

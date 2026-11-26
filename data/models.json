@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-11-26T11:05:35.195Z",
+  "generated_at": "2026-11-26T21:32:24.731Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "inclusionai/lingsante-3.1-air-vl",
+      "name": "LingSante 3.1 Air VL",
+      "vendor": "Inclusionai",
+      "vendor_slug": "inclusionai",
+      "url": "https://openrouter.ai/inclusionai/lingsante-3.1-air-vl-20261126",
+      "created_at": "2026-11-26T15:01:24Z",
+      "context_length": 131072,
+      "modality": "text+image->text",
+      "input_modalities": [
+        "text",
+        "image"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.06,
+      "price_out": 0.18,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "LingSante 3.1 Air VL is inclusionAI's medical vision-language model, a 124B total / 5.5B active MoE. It takes text and up to 16 images (scans, skin and meal photos, lab...",
+      "description_zh": null
+    },
     {
       "id": "upstage/solar-mini-4-5",
       "name": "Solar Mini 4.5 (Preview)",
@@ -1263,8 +1287,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.15,
-      "price_out": 0.6,
+      "price_in": 0.075,
+      "price_out": 0.3,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -1465,31 +1489,6 @@
       "supports_reasoning": true,
       "description": "Muse Spark Open is a coding-optimized open-weight model. Trained specifically for agentic coding workflows, it delivers higher first-attempt accuracy, reliable tool calling, and deep codebase understanding across the repos developers...",
       "description_zh": "Muse Spark Open 是一种编码优化的开放权重模型。它专门针对代理编码工作流程进行了培训，可为存储库开发人员提供更高的首次尝试准确性、可靠的工具调用以及深入的代码库理解......"
-    },
-    {
-      "id": "nvidia/nemotron-3.5-super-vl",
-      "name": "Nemotron 3.5 Super VL",
-      "vendor": "NVIDIA",
-      "vendor_slug": "nvidia",
-      "url": "https://openrouter.ai/nvidia/nemotron-3.5-super-vl-20261015",
-      "created_at": "2026-10-15T15:04:22Z",
-      "context_length": 1048576,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.15,
-      "price_out": 0.47,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "NVIDIA Nemotron 3.5 Super VL is an open multimodal mixture-of-experts model from NVIDIA, with 12B active parameters out of 120B total. It takes text, images, documents, GUI screenshots, and video...",
-      "description_zh": "NVIDIA Nemotron 3.5 Super VL 是 NVIDIA 的开放式多模式混合专家模型，共有 120B 个活动参数，其中有 12B 个。它需要文本、图像、文档、GUI 屏幕截图和视频......"
     }
   ]
 }

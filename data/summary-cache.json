@@ -184968,5 +184968,468 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/whipdesk": {
+    "title_clean": "WhipDesk：手机控制AI编程助手工具",
+    "summary": "WhipDesk是一款允许用户通过手机控制AI编程助手的工具，解决了移动端与AI编程工具的连接问题，为产品经理提供了AI Agent跨设备控制场景的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/iwantmy-app": {
+    "title_clean": "iwantmy.app：AI应用描述与手机启动工具",
+    "summary": "iwantmy.app是一款通过自然语言描述即可在手机上打开对应应用的AI工具，用户只需用聊天方式描述需求，系统就能自动识别并启动相应的手机应用，简化了应用查找和启动流程。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/superframes-ai-video-editor": {
+    "title_clean": "Superframes：AI视频编辑工具",
+    "summary": "Superframes是一款AI视频编辑工具，用户可以通过指令让AI导演完成整个视频的编辑工作。该工具能够简化视频制作流程，为内容创作者提供高效的视频编辑解决方案，对元宝在AI内容生成和多媒体处理方向的产品设计具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/flurra": {
+    "title_clean": "Flurra：AI视频编辑工具",
+    "summary": "Flurra是一款AI视频编辑工具，允许用户通过自然语言指令让Claude或ChatGPT直接编辑视频。该产品简化了视频编辑流程，通过AI助手实现直观的视频修改操作，为内容创作者提供更高效的编辑方式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ottante": {
+    "title_clean": "Ottante：AI Agent 工作检查工具",
+    "summary": "Ottante 是一款 Mac 应用程序，用于检查 AI 代理完成的工作。该工具直接在 Mac 上运行，帮助用户验证 AI 代理的输出结果，确保任务完成质量，为产品经理提供了 AI 代理工作流验证的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meetfolks": {
+    "title_clean": "MeetFolks：AI会议记录工具",
+    "summary": "MeetFolks是一款专为线下会议设计的AI记录工具，能够自动捕捉会议内容并生成笔记。产品经理可关注其如何解决线下会议记录痛点，以及AI在实时会议场景中的应用方式，为元宝在会议助手功能上提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hello-transcribe": {
+    "title_clean": "Hello Transcribe 5：本地化转录与说话人识别工具",
+    "summary": "Hello Transcribe 5是一款本地设备转录工具，提供说话人标签功能，所有处理均在设备端完成，确保隐私安全。产品经理可关注其本地化处理方案对用户隐私保护的参考价值，以及轻量化转录技术在移动端的应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/postmaster-of-puppets": {
+    "title_clean": "Postmaster of Puppets：域名邮件发送安全检测工具",
+    "summary": "Postmaster of Puppets 是一款安全工具，用于检测他人是否能够以你的域名名义发送电子邮件。产品经理可参考其安全验证机制，为AI助手或企业服务增加邮件安全防护功能，防止域名被冒用发送钓鱼邮件。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/infrathrone-devops-park": {
+    "title_clean": "InfraThrone DevOps Park：生产环境运维故障模拟平台",
+    "summary": "InfraThrone DevOps Park是一个模拟平台，可让用户在真实生产环境中修复300多个实际发生的运维故障。该平台通过模拟真实运维场景，帮助DevOps工程师提升故障排查和解决能力，对元宝产品经理在构建AI辅助运维工具方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/focushaze": {
+    "title_clean": "FocusHaze：窗口专注工具",
+    "summary": "FocusHaze是一款桌面工具，能够自动模糊除当前工作窗口外的所有其他窗口，帮助用户减少干扰，提高专注度。这类工具对元宝产品经理在开发专注模式、多任务管理功能时具有参考价值，特别是针对需要高度专注的用户场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/musicproductionai": {
+    "title_clean": "MusicProductionAI：浏览器端AI音乐生成工具",
+    "summary": "MusicProductionAI是一款可在浏览器内直接使用的AI音乐生成工具，用户可通过文本提示或哼唱创作音乐。该产品展示了AI在创意内容生成领域的应用，为元宝在音乐创作场景的AI服务提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/hiring-right-now": {
+    "title_clean": "Hiring Right Now：AI求职匹配工具",
+    "summary": "该工具帮助求职者了解哪些初创公司正在招聘，提供AI驱动的职位匹配服务，为元宝产品团队在职业服务场景拓展和AI助手功能设计方面提供参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nookdeck": {
+    "title_clean": "Nookdeck：旧手机变电脑控制面板工具",
+    "summary": "Nookdeck是一款工具应用，可将闲置手机转变为电脑的Stream Deck控制面板，帮助用户通过触摸屏快捷操作电脑软件，提升工作效率。产品经理可参考其硬件复用思路和触控交互设计，为元宝拓展多设备控制场景提供灵感。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mime": {
+    "title_clean": "Mime：AI无声打字工具",
+    "summary": "Mime是一款AI工具，能够通过用户默念文字并将其转换为文本输入，实现无声打字功能。这种交互方式为需要安静环境或无法正常打字的用户提供了新的输入解决方案，对元宝产品经理思考多模态交互和特殊场景输入方式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia": {
+    "title_clean": "Nvidia暂停向东南亚地区运送AI芯片",
+    "summary": "Nvidia已通知制造合作伙伴暂停向马来西亚、新加坡、泰国和印尼运送服务器芯片，原因是美国加强对华AI芯片出口限制。这一变化可能影响东南亚AI基础设施建设和全球AI供应链布局，对元宝产品经理评估区域市场策略和供应链风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chunkify": {
+    "title_clean": "Chunkify：视频流媒体API开发工具",
+    "summary": "Chunkify是一款面向开发者和AI Agent的视频流媒体API工具，为AI系统提供视频流处理能力。该产品对元宝产品经理有参考价值，因为它可能帮助AI助手实现视频内容理解、处理或流媒体服务集成，拓展AI的多模态交互能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bifura": {
+    "title_clean": "Bifura：AI视角网站分析工具",
+    "summary": "Bifura是一款网站分析工具，帮助用户从AI代理的视角查看和理解网站内容，优化网站以适应AI浏览需求，为产品经理提供AI交互体验优化的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clary-2": {
+    "title_clean": "Clary：WhatsApp等应用语音通知工具",
+    "summary": "Clary是一款iOS应用，可将WhatsApp等应用的通知以发送者自己的语音形式呈现，为用户提供更个性化的通知体验。产品经理可关注此类多模态交互创新对提升用户参与度的潜在价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/fifa-says-hackers-accessed-personal-data-in-cyberattack": {
+    "title_clean": "FIFA遭遇黑客攻击，个人数据遭泄露",
+    "summary": "国际足联(FIFA)遭受网络攻击，黑客获取了个人和商业信息。此次事件提醒产品经理关注数据安全防护措施，特别是处理用户敏感信息的AI服务需加强安全防护。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring": {
+    "title_clean": "SAP计划裁员1万人以转型AI业务",
+    "summary": "SAP正准备削减至少1万个职位，以将其软件业务转型为适应人工智能时代的新模式。这一大规模重组反映了传统软件巨头在AI浪潮下的战略调整，对元宝产品经理了解企业级AI转型路径和人力资源配置有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": {
+    "title_clean": "Nemotron 3.5 Parse：开源数据、微调与更快速推理",
+    "summary": "NVIDIA发布Nemotron 3.5 Parse模型，提供开源数据集、微调方法和更快的推理能力，为AI开发者提供更高效的模型训练和部署方案，对元宝产品经理在模型优化和推理效率提升方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench": {
+    "title_clean": "llama.cpp基准测试仪表盘：AMD Ryzen和Radeon性能评估",
+    "summary": "llama.cpp发布了针对AMD Ryzen和Radeon显卡的基准测试仪表盘，提供AI模型在AMD硬件上的性能数据。这有助于产品经理评估元宝在不同硬件配置上的运行效率，优化AI模型部署策略，并了解AMD平台对AI应用的适配情况。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-26/us-chip-curbs-stall-asia-data-center-financing-video": {
+    "title_clean": "美国芯片限制阻碍亚洲数据中心融资",
+    "summary": "美国芯片出口限制正在阻碍亚洲地区数十亿美元的数据中心融资，贷款机构正重新评估与字节跳动、阿里巴巴和腾讯等中国科技公司的相关交易，这可能影响AI基础设施建设和全球AI服务供应链。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/FhNPZmmlgT91x7fQ2movkg": {
+    "title_clean": "通用大模型入侵，具身智能面临挑战",
+    "summary": "探讨通用大模型对具身智能领域的冲击，分析具身智能通过微调技术维持竞争力的可持续性。这对元宝产品经理评估AI技术路线选择和产品差异化策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix": {
+    "title_clean": "华为发布新一代AI内存芯片，挑战三星与SK海力士",
+    "summary": "华为正准备发布新一代高带宽内存芯片，该芯片性能有望超越三星和SK海力士的现有产品，标志着华为在AI硬件领域的重大进展，对元宝产品经理了解AI基础设施竞争格局和硬件支持能力有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/1password-says-hacker-accessed-user-data-passwords-remain-safe": {
+    "title_clean": "1Password：密码管理器遭遇数据泄露事件",
+    "summary": "1Password确认黑客入侵其内部系统，获取了部分用户账户信息，但公司强调用户密码未受影响。此事件对产品经理有参考价值，提醒需加强安全防护措施，并考虑如何向用户透明沟通安全事件。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-25/financials-healthcare-will-be-big-ai-winners-yardeni-video": {
+    "title_clean": "Yardeni：金融和医疗将成为AI主要受益领域",
+    "summary": "Yardeni Research总裁兼首席投资策略师Ed Yardeni指出，金融和医疗行业将成为AI应用的主要受益者，这一观点基于市场近期波动和行业特性分析，对元宝产品经理评估AI在不同垂直领域的应用价值具有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/palo-alto-networks-accused-by-ex-executive-of-accounting-fraud": {
+    "title_clean": "Palo Alto Networks被前高管指控会计欺诈",
+    "summary": "网络安全公司Palo Alto Networks近日被前高管起诉，指控其因反对会计欺诈行为而被解雇。该公司上周刚宣布了45亿美元的AI收购案，此次指控可能对其业务和声誉产生重大影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ai-neolabs-nvidia": {
+    "title_clean": "Nvidia持续支持AI初创实验室的原因",
+    "summary": "大多数AI研究型初创企业难以独立生存，Nvidia却持续支持这类由顶尖AI实验室研究人员创立的公司。这反映了AI产业链中巨头与初创企业的共生关系，以及Nvidia在AI生态布局中的战略考量。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-still-faces-key-man-risk-in-huang-professor": {
+    "title_clean": "NVIDIA仍面临黄仁勋关键人物风险：教授观点",
+    "summary": "NVIDIA CEO黄仁勋以其严格的管理风格著称，直接管理约60名员工，远超科技行业平均水平。有教授指出，公司过度依赖黄仁勋构成关键人物风险，这可能影响NVIDIA的长期战略稳定性和公司治理。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/TpJApawOZHicY7usy84SyQ": {
+    "title_clean": "EinsiaAI：开源首个万级具身强化学习环境",
+    "summary": "EinsiaAI开源了首个万级具身强化学习环境，标志着具身智能领域的重要进展。这一开源项目为AI体在物理世界中的学习与交互提供了大规模训练平台，对开发具有物理交互能力的AI助手和Agent具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/defensive-assets-are-springing-to-life-emily-roland-video": {
+    "title_clean": "Defensive Assets Are Springing to Life: Emily Roland",
+    "summary": "Manulife John Investments联席首席投资策略师Emily Roland认为，随着AI交易势头放缓和市场变化，美联储政策将成为股市前景的关键因素，防御性资产正重新获得关注。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/ai-chip-boom-to-see-won-build-on-best-year-in-almost-a-decade": {
+    "title_clean": "韩国AI芯片产业迎来近十年最佳表现",
+    "summary": "韩国AI芯片产业迎来近十年最佳表现，带动年底大量资金流入，可能推动韩元进一步升值。这一趋势反映了AI芯片市场的强劲增长，对元宝产品经理了解AI硬件市场动态和区域产业布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/dell-ups-annual-sales-forecast-again-video": {
+    "title_clean": "戴尔上调年度销售预期，AI服务器需求持续增长",
+    "summary": "戴尔 Technologies 第三次上调财年营收预期，AI数据中心快速建设推动服务器销售激增。这反映了AI基础设施市场的强劲需求，对元宝产品经理评估AI服务部署成本和算力资源获取策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/bitcoin-a-struggle-right-now-kiani-video": {
+    "title_clean": "比特币当前面临困境：Monarq资产管理公司COO",
+    "summary": "Monarq资产管理公司首席运营官Ayesha Kiani在彭博加密货币节目中表示，比特币正面临连续第八周下跌，这将是比特币历史上最长的连续周跌记录。这一市场动态对元宝产品经理了解加密货币市场情绪和投资者行为变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/new-venue-fast-more-efficient-andrew-cuomo-video": {
+    "title_clean": "Andrew Cuomo：OKXICE推出代币化证券交易平台",
+    "summary": "前纽约州州长Andrew Cuomo作为OKXICE联合主席，参与讨论该机构推出的代币化证券交易平台。这一新平台旨在提高证券交易效率，代表传统金融与区块链技术的结合，对元宝产品经理了解金融科技领域AI应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/trump-administration-will-add-nvidia-linked-megaspeed-trade-blacklist": {
+    "title_clean": "美国将英伟达关联公司Megaspeed列入贸易黑名单",
+    "summary": "美国商务部将新加坡云计算和AI基础设施公司Megaspeed列入实体清单，认定其构成国家安全风险。这一决定可能影响AI芯片供应链，对依赖英伟达技术的AI企业产生连锁反应，值得元宝产品经理关注AI供应链风险与替代方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }

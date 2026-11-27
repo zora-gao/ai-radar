@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:38:13.593Z",
+  "generated_at": "2026-11-27T14:11:18.490Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -115,8 +115,8 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.075,
-      "price_out": 0.3,
+      "price_in": 0.06,
+      "price_out": 0.24,
       "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
@@ -475,8 +475,8 @@
       "description_zh": "Qwen4 Max是阿里巴巴Qwen4系列的旗舰机型。它接受文本、图像和视频输入并返回文本，默认情况下启用 1M 令牌上下文窗口和推理......"
     },
     {
-      "id": "inclusionai/ling-3.2-flash:free",
-      "name": "Ling 3.2 Flash (free)",
+      "id": "inclusionai/ling-3.2-flash",
+      "name": "Ling 3.2 Flash",
       "vendor": "Inclusionai",
       "vendor_slug": "inclusionai",
       "url": "https://openrouter.ai/inclusionai/ling-3.2-flash-20261113",
@@ -490,9 +490,9 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
+      "price_in": 0.3,
+      "price_out": 0.9,
+      "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Ling 3.2 Flash is a hybrid reasoning model from inclusionAI that accepts text and image input, with a 1M-token context window and up to 200 images per request. Thinking can...",

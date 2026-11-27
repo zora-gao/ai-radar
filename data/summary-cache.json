@@ -185887,5 +185887,528 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/ploid": {
+    "title_clean": "Ploid：AI人才搜索平台",
+    "summary": "Ploid是一个AI驱动的平台，可搜索超过20亿个人才档案，帮助用户快速找到合适的AI人才。产品经理可参考其AI人才搜索与匹配技术，为元宝的人才服务或专业助手功能提供思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/depost-ai": {
+    "title_clean": "Depost AI：LinkedIn品牌营销AI助手",
+    "summary": "Depost AI是一款专为LinkedIn设计的AI助手，能够学习并优化品牌在平台上的营销策略。它通过分析数据帮助用户了解哪些内容对品牌最有效，为产品经理提供AI在专业社交平台营销场景的应用参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rightfont": {
+    "title_clean": "RightFont：字体管理工具",
+    "summary": "RightFont是一款字体管理工具，帮助用户快速查找和使用合适的字体。对于产品经理而言，这提示在AI助手产品中可考虑集成字体管理功能，提升设计相关场景的用户体验。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/onset": {
+    "title_clean": "Onset：AI YouTube内容创作工具",
+    "summary": "Onset是一款为YouTube创作者提供AI视频评论、标题生成和缩略图制作的工具，帮助创作者提升内容质量和吸引力，对元宝产品经理在AI辅助内容创作领域具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/slay-3": {
+    "title_clean": "slay：AI iPhone摄影构图指导应用",
+    "summary": "slay是一款专为iPhone设计的AI摄影应用，通过AI技术为用户提供实时构图指导和拍摄建议，帮助用户提升摄影技巧和照片质量。这款产品对元宝产品经理有参考价值，因为它展示了AI在摄影辅助场景的应用方式，可能启发元宝在视觉内容创作或图像识别方面的功能拓展。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/periscope-4": {
+    "title_clean": "Periscope：工作API化工具",
+    "summary": "Periscope是一款将任何工作流程转化为API的工具，帮助用户将重复性任务自动化，实现不同应用间的无缝连接。对于元宝产品经理而言，这提供了AI Agent实现跨应用操作和服务代办的潜在技术方案参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/woomool": {
+    "title_clean": "Woomool：AI思维可视化画布工具",
+    "summary": "Woomool是一款AI思维可视化画布工具，将抽象思维转化为可视化内容，帮助用户将想法具象化。这类工具对元宝产品经理有参考价值，可作为AI辅助思考与创意表达场景的竞品参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/antipode": {
+    "title_clean": "Antipode：Claude Code额度共享工具",
+    "summary": "Antipode是一个允许用户安全共享未使用的Claude Code API限额的工具，在不违反服务条款的前提下提高资源利用率。这对产品经理了解AI API资源优化和共享模式有参考价值，可作为元宝资源管理功能的竞品参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/espresso-27": {
+    "title_clean": "Espresso：Mac网页编辑工具",
+    "summary": "Espresso是一款专为Mac用户设计的网页编辑器，提供专业的网页开发功能。作为一款桌面工具，它可能对元宝产品经理了解特定平台上的生产力工具有参考价值，特别是在Mac用户群体中的产品定位和功能设计方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/chickytutor": {
+    "title_clean": "ChickyTutor：个性化语言学习助手",
+    "summary": "ChickyTutor是一款语言学习应用，通过每日了解用户学习情况提供个性化教学服务，现已登陆iOS平台。这款产品对元宝产品经理有参考价值，特别是在个性化学习助手和移动端应用开发方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gpyou": {
+    "title_clean": "gpyou：GPU算力交易平台",
+    "summary": "gpyou是一个GPU算力交易平台，专注于提供市场上最便宜的GPU计算资源。该平台通过OpenRouter技术连接用户与闲置GPU资源，为AI训练和推理提供经济实惠的算力选择，对元宝产品经理了解AI算力成本优化和资源调度有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/snibl": {
+    "title_clean": "snibl：跨应用文本高亮保存与AI问答工具",
+    "summary": "snibl允许用户从任何应用中保存高亮文本，并随后向AI提问这些内容。这款工具解决了用户跨应用信息收集与AI问答的需求，为元宝产品经理提供了跨应用文本处理与AI交互结合的产品思路参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/nfo6PZDnIlJwepumSFoKGg": {
+    "title_clean": "大神Karpathy用Claude将真实美国数据导入《文明》游戏",
+    "summary": "AI大神Karpathy利用Claude模型，在7小时内将真实美国地理、人口等数据导入《文明》游戏，展示了AI处理复杂地理数据的能力。这一案例对AI助手如何整合多源数据、构建虚拟世界有参考价值，可能启发元宝在数据可视化与游戏化交互方面的功能设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/-f6-bb59fT5ZMB83BVzsBQ": {
+    "title_clean": "具身智能新一局，这家公司「出手」了",
+    "summary": "某公司进入具身智能领域，推出相关产品或解决方案。具身智能是AI与物理世界交互的重要方向，对元宝产品经理了解AI前沿技术发展和潜在应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/remove-silence": {
+    "title_clean": "Remove Silence：浏览器音频静音移除工具",
+    "summary": "这是一款浏览器音频处理工具，可免费移除音频中的静音部分。对于产品经理而言，这展示了AI在音频处理场景的应用潜力，特别是在语音助手、会议记录或播客编辑等场景中可能的技术解决方案。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/spark-ai-7": {
+    "title_clean": "Spark AI：数据中心AI许可与尽职调查服务",
+    "summary": "Spark AI提供专为数据中心设计的AI原生许可与尽职调查服务，帮助客户自动化处理数据中心建设中的合规审查和风险评估流程，提升审批效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/e_vfc1rYfBdW_7teVkUypw": {
+    "title_clean": "港科大与混元开源Rosetta：解决AI基模重训问题",
+    "summary": "港科大与混元团队在NeurIPS 2026上开源Rosetta项目，旨在解决AI基模重训问题，可能大幅提升模型训练效率并降低计算成本，对AI产品架构优化有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/openai-countersues-apple-trade-secrets-battle": {
+    "title_clean": "OpenAI反诉苹果窃取商业机密",
+    "summary": "OpenAI指控苹果公司窃取其商业机密，这是在四个月前苹果对OpenAI提出相同指控后的反诉。双方陷入商业机密争夺战，可能影响AI技术合作与市场竞争格局，对产品经理了解科技巨头间知识产权纠纷与商业策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices": {
+    "title_clean": "OpenAI指控苹果施压供应商抵制其设备",
+    "summary": "OpenAI指控苹果公司施压供应商抵制其设备，并利用不公平的雇佣手段。这反映了AI巨头之间的商业竞争加剧，对产品经理了解AI行业巨头间的商业策略和供应链关系有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-27/gta-vi-s-record-launch-makes-the-case-for-human-made-video": {
+    "title_clean": "GTA VI：人类制作游戏的成功案例",
+    "summary": "GTA VI历经13年开发，未使用任何生成式AI，创下多项销售记录。Take-Two CEO强调人类创造力在游戏开发中的核心价值，这对AI辅助创作工具的产品方向具有参考意义。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-27/uk-pension-agency-takes-systems-offline-after-cyber-incident": {
+    "title_clean": "英国养老金机构遭遇网络攻击后系统离线",
+    "summary": "英国工作与养老金部门因检测到网络攻击事件，采取预防措施将系统离线。这反映了关键基础设施面临的网络安全风险，对AI助手在处理敏感数据和系统安全方面的设计有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-27/how-ai-is-changing-black-friday-video": {
+    "title_clean": "AI如何改变黑色星期五购物体验",
+    "summary": "美国零售联合会CEO表示，AI正在改变消费者与零售商的互动方式，这可能标志着黑色星期五购物体验的重大转变。AI技术正在重塑消费者在黑色星期五的购物行为模式，对零售行业和AI服务场景具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says": {
+    "title_clean": "Verizon拟以60亿美元收购宽带运营商Fidium",
+    "summary": "Verizon正以60亿美元价格收购宽带运营商Fidium，这将扩大其网络覆盖并帮助移动巨头进入宽带市场。对元宝产品经理而言，这反映了电信巨头通过收购拓展服务边界的战略，可能影响AI助手在通信服务场景中的整合机会。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video": {
+    "title_clean": "Blackwell芯片出现在与中国有关联的上海数据中心",
+    "summary": "彭博社调查发现，尽管美国限制该硬件出口，但中国公司仍在上海与Alice Huang有关联的数据中心安装了英伟达GB300 Blackwell机架。这表明美国对中国AI芯片出口限制可能存在漏洞，值得元宝产品经理关注供应链安全与地缘政治对AI基础设施的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-27/sap-struggles-with-turnover-in-the-executive-team": {
+    "title_clean": "SAP：高管团队面临人员流失问题",
+    "summary": "SAP软件公司正努力填补其高管团队中的重大职位空缺，这反映了企业级软件行业在领导层稳定性方面的挑战，对元宝产品经理了解企业级AI服务的人才战略和团队建设有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform": {
+    "title_clean": "黑客入侵美国空军云平台",
+    "summary": "黑客成功入侵美国空军旗舰云基础设施Cloud One，可能导致大量敏感战术和人员数据面临风险。此事件凸显了云安全的重要性，对AI助手和Agent产品在处理敏感数据时的安全架构设计有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-shoppers-turn-to-ai-bots-to-find-deals-video": {
+    "title_clean": "Black Friday购物者转向AI机器人寻找优惠",
+    "summary": "Adobe数据显示，今年假日季美国零售网站的AI辅助流量将比去年翻倍，表明消费者正从搜索引擎转向数字助手寻找购物优惠。这一趋势反映了AI助手在购物场景中的实际应用增长。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-27/chip-stocks-look-very-attractive-state-street-says-video": {
+    "title_clean": "芯片股被看好：State Street称其'极具吸引力'",
+    "summary": "State Street分析师Marija Veitmane表示，科技行业基本面并未如近期市场抛售和资金外流所显示的那样疲软，并看到情绪正在'正常化'的迹象，这对AI硬件领域的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-27/the-pulse-11-27-2026-video": {
+    "title_clean": "SAP考虑裁员1万人：AI重塑科技行业",
+    "summary": "SAP正考虑因AI技术变革而裁员1万人，反映AI对传统科技企业的深远影响。这一动向表明AI正在重塑行业结构，传统企业面临转型压力，对元宝产品经理理解AI对行业格局的冲击有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-27/sap-prepares-plan-to-cut-at-least-10-000-positions-video": {
+    "title_clean": "SAP计划裁员至少1万人以转型AI业务",
+    "summary": "SAP正考虑裁减至少1万个职位，以将其软件业务转型适应人工智能时代。这一举措反映了传统软件巨头为应对AI时代而进行的业务结构调整，对元宝产品经理了解企业级AI转型策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/apple-pulls-minimax-chatbot-app-store-report-sexualized-content": {
+    "title_clean": "Apple下架MiniMax聊天机器人应用：因涉及性化内容",
+    "summary": "Apple因媒体报道称MiniMax开发的聊天机器人Talkie使用性化内容吸引年轻用户，已将该应用从全球App Store下架。此事件对AI内容审核与合规管理具有重要参考价值，尤其对面向年轻用户的AI产品安全策略制定。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/africa-s-intra-continental-trade-hit-213-8-billion-but-faces-payment-barriers": {
+    "title_clean": "非洲内部贸易达2138亿美元但面临支付障碍",
+    "summary": "非洲国家间贸易额去年增长6%达到2138亿美元，但仅占非洲大陆总贸易的14.6%，反映出区域经济一体化面临挑战，特别是支付壁垒问题。这对元宝产品经理了解跨境支付场景和新兴市场AI服务机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/briefings/trump-lead-tsmc-arizona-groundbreaking-ceremony-bringing-huang-back-nvidia": {
+    "title_clean": "特朗普将主持台积电亚利桑那州芯片厂奠基仪式",
+    "summary": "特朗普将主持台积电亚利桑那州芯片厂扩建项目的奠基仪式，此前他曾促成台积电CEO黄仁勋重返英伟达。这一事件反映了美国半导体产业政策动向，对AI硬件供应链和全球芯片产业格局有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-25/netflix-to-buy-radford-studio-center-for-380-million-video": {
+    "title_clean": "Netflix以3.8亿美元收购Radford Studio Center",
+    "summary": "Netflix以3.8亿美元收购洛杉矶历史悠久的Radford Studio Center，这一价格较Hackman Capital Partners此前18.5亿美元的收购价低了约80%。这笔交易反映了Netflix在内容制作基础设施上的战略投资，对内容平台型AI产品在影视内容生产与分发领域的布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value": {
+    "title_clean": "ElevenLabs：AI语音模型与代理开发商寻求33亿美元估值融资",
+    "summary": "ElevenLabs作为AI语音模型和代理开发商，正在寻求以33亿美元估值进行新一轮融资。这反映了AI语音技术领域的资本热度，对元宝产品经理评估语音AI商业化路径和竞品融资动态具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs": {
+    "title_clean": "美国芯片限制导致数据中心交易暂停",
+    "summary": "美国芯片新规导致中国字节跳动、阿里巴巴和腾讯等公司的数十亿美元数据中心贷款被暂停，这可能扰乱亚洲蓬勃发展的AI债务融资市场。这对元宝产品经理了解AI基础设施融资环境变化及潜在供应链风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/training-swarms": {
+    "title_clean": "Swarms, Flocks, Gangs: 多智能体系统构建与评估指南",
+    "summary": "该资源提供了构建、训练和评估多智能体系统的全面指南，涵盖群体智能、协作机制和评估方法。对元宝产品经理有重要参考价值，特别是在开发AI Agent协作能力、设计多智能体交互场景和评估系统性能方面。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it": {
+    "title_clean": "AI数据中心建设难度增加，新云服务商面临挑战",
+    "summary": "NVIDIA明确表示不会为尚未准备就绪的AI数据中心提供支持，恰逢新云服务商报告建设延迟和债务成本上升。这一变化对AI基础设施规划产生直接影响，产品经理需关注AI服务部署成本与时间线的潜在变化。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-25/mideast-ipo-slump-prompts-efg-to-branch-out-into-debt-advisory": {
+    "title_clean": "中东IPO市场放缓促使EFG拓展债务咨询业务",
+    "summary": "中东地区曾经繁荣的新股发行市场出现放缓，促使该地区顶级IPO顾问公司EFG拓展至债务咨询领域。这一市场变化反映了区域金融市场的结构性调整，对金融科技和AI服务提供商在投资咨询领域的业务拓展具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s/5miBUYn56WiklDUESFnFqg": {
+    "title_clean": "多教师LLM蒸馏新突破：PMOPD技术让模型同时学习多个教师模型",
+    "summary": "PMOPD是一种多教师大语言模型蒸馏技术，通过参数更新几何方法，使单个模型能够同时从多个教师模型中学习知识，提升模型性能和知识覆盖范围，对AI产品经理优化模型训练效率有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/huang-to-testify-publicly-before-senators-dec-3-video": {
+    "title_clean": "黄仁勋将于12月3日在参议院公开作证",
+    "summary": "英伟达CEO黄仁勋将就其与所谓中国间谍的关系事件在参议院公开作证，尽管他已重返英伟达，但该事件引发的国家安全风险问题仍存疑虑。这对了解AI芯片行业监管动向及中美科技竞争态势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-24/bernstein-s-rasgon-on-what-huang-s-return-means-for-nvda-video": {
+    "title_clean": "Bernstein分析师谈黄仁勋回归对英伟达的影响",
+    "summary": "伯恩斯坦半导体高级分析师Stacy Rasgon探讨近期英伟达及黄仁勋相关事件是否暴露了半导体行业的弱点，分析这些事件对英伟达业务和半导体行业的影响，为AI芯片市场动态提供专业视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }

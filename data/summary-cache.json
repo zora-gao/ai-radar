@@ -186584,5 +186584,217 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/wender": {
+    "title_clean": "Wender Desktop：免费笔记替代工具",
+    "summary": "Wender Desktop是一款完全免费的笔记应用，定位为Paper的替代品。对于元宝产品经理而言，这代表笔记工具市场存在免费替代方案的需求，可能影响用户对付费笔记工具的接受度，值得关注免费策略在笔记类产品中的应用。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/rankthesearch": {
+    "title_clean": "RankTheSearch：TikTok内容搜索排名优化工具",
+    "summary": "RankTheSearch是一款帮助营销人员优化TikTok内容搜索排名的工具，通过分析用户搜索行为，指导创作者制作更符合搜索意图的内容，从而提高在TikTok搜索结果中的可见度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/opencrawl": {
+    "title_clean": "OpenCrawl：多人协作编程代理工具",
+    "summary": "OpenCrawl是一个支持多人协作的编程代理工具，允许多个AI代理同时参与代码编写任务。这一产品对元宝产品经理有参考价值，因为它展示了AI代理在协作编程场景中的应用，可能启发元宝在团队协作功能上的创新方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stacktrace": {
+    "title_clean": "Stacktrace：AI代理实时引导与护栏工具",
+    "summary": "Stacktrace提供AI代理的实时引导和安全护栏功能，帮助AI系统在执行过程中保持方向正确和安全。这对产品经理了解如何增强AI代理的可靠性和安全性具有重要参考价值，特别是在构建需要严格控制的AI服务场景时。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/superrelay": {
+    "title_clean": "Superrelay：全应用统一收件箱工具",
+    "summary": "Superrelay提供了一个统一收件箱解决方案，让用户可以在一个界面管理所有应用的收件箱，且不按单张票据定价。这为AI助手整合多平台消息管理提供了新思路，对元宝产品经理在跨应用消息聚合和定价策略上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/airoom": {
+    "title_clean": "airoom：Claude Code智能体控制室开源工具",
+    "summary": "airoom是一个开源工具，为Claude Code智能体提供控制室功能，帮助用户管理和监控AI智能体的执行过程。产品经理可参考其开源实现方式，了解如何构建AI智能体的集中管理界面，为元宝的Agent功能提供管理界面的设计思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gutcheck-2": {
+    "title_clean": "gutcheck：肠道健康与互联网信息对比工具",
+    "summary": "gutcheck是一款在Claude Code环境中运行的工具，允许用户将个人肠道健康数据与互联网信息进行对比分析，为健康管理提供数据支持。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/contral": {
+    "title_clean": "Contral：AI代码检查与教学助手",
+    "summary": "Contral是一款AI编程助手，能够检查代码工作并提供教学指导。该产品通过AI技术帮助开发者验证代码正确性，同时提供学习价值，对元宝产品经理在AI教育类助手功能开发方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tallhorn": {
+    "title_clean": "Tallhorn：AI原生MongoDB客户端",
+    "summary": "Tallhorn是一款原生MongoDB客户端，其特点是AI代理会在执行写入操作前进行询问确认，增强了数据安全性。这款产品展示了AI在数据库管理中的应用，为产品经理提供了AI辅助数据库操作的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tano": {
+    "title_clean": "Tano：韩语词汇学习应用",
+    "summary": "Tano是一款韩语词汇学习应用，能够智能跳过用户已掌握的词汇，专注于学习新内容。这款产品对元宝产品经理有参考价值，因为它展示了个性化学习路径的设计思路，可借鉴到语言学习类AI助功能开发中。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-28/thailand-to-ban-export-of-chemicals-to-myanmar-rare-earth-mines": {
+    "title_clean": "泰国将禁止向缅甸稀土矿出口化学品",
+    "summary": "泰国将禁止向缅甸稀土矿出口化学品，因北部河流中砷含量超标引发公共卫生警报。这一禁令可能影响全球稀土供应链，对AI产业原材料供应产生潜在影响，产品经理需关注稀土供应链稳定性及替代方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-28/united-fidelity-is-shut-in-biggest-us-bank-collapse-in-two-years": {
+    "title_clean": "United Fidelity：美国两年最大银行倒闭事件",
+    "summary": "美国联邦监管机构关闭了印第安纳州的United Fidelity银行，这是美国近两年来最大的银行倒闭事件。监管机构发现该银行可能无法履行其债务义务。这一事件对金融科技和AI服务在金融领域的应用具有重要参考价值，特别是在风险评估和合规监控方面。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-11-27/why-next-fed-meeting-may-mark-turning-point-for-markets-video": {
+    "title_clean": "美联储12月会议或成市场转折点：经济学家",
+    "summary": "Jefferies首席欧洲经济学家Mohit Kumar分析美联储12月政策会议前景及其对市场的潜在影响。这则资讯对元宝产品经理了解宏观经济环境变化如何影响AI产品市场策略和商业化方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-27/china-hedge-fund-star-builds-operating-system-kernel-for-ai": {
+    "title_clean": "中国对冲基金明星构建AI操作系统内核",
+    "summary": "中国知名对冲基金创始人创立的AI创业公司即将发布首个产品——专为AI代理设计的操作系统内核。这表明金融领域正积极布局AI基础设施，可能为元宝等AI助手产品提供底层技术支持或竞争参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-26/stanchart-s-crypto-custody-unit-suffers-data-breach": {
+    "title_clean": "渣打银行加密托管部门遭遇数据泄露",
+    "summary": "渣打银行旗下加密托管子公司Zodia Custody Ltd.确认遭受安全漏洞，导致部分客户和员工信息泄露。事件反映加密资产托管安全风险，对元宝在金融数据安全与客户隐私保护方面有警示价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-alphanet": {
+    "title_clean": "Executive Interview: AlphaNet市场战略访谈",
+    "summary": "AlphaNet首席战略官XP接受CB Insights采访，分享公司对市场定位、客户需求的理解以及公司战略方向。访谈内容有助于了解AI服务提供商的市场策略和客户需求洞察，对元宝产品经理制定市场策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens": {
+    "title_clean": "美国收紧芯片与AI模型访问，中国AI企业面临严峻挑战",
+    "summary": "美国政府和美国AI竞争对手正加强对中国AI企业的限制，切断其长期依赖的芯片和AI模型访问渠道，这可能对中国AI模型开发造成重大影响，对元宝产品经理了解国际AI竞争格局和供应链风险有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
